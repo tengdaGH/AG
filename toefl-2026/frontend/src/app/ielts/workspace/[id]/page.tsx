@@ -318,17 +318,18 @@ export default function IELTSWorkspace() {
                                     data-question-id={slot.questionNumber}
                                     onDragOver={handleDragOver}
                                     onDrop={(e) => handleDropOnPassageZone(e, p.label)}
-                                    className="flex items-center gap-2 mb-2"
+                                    className="flex items-center gap-2 mb-1" // Reduced bottom margin
                                     style={{
-                                        minHeight: "36px",
-                                        padding: "6px 12px",
+                                        minHeight: "32px", // Made box smaller vertically
+                                        padding: "4px 10px", // Reduced padding
                                         border: assignedHeading
                                             ? "1px solid var(--ielts-active-blue)"
                                             : "1px dashed var(--ielts-drop-zone-border)",
-                                        borderRadius: "4px",
-                                        backgroundColor: assignedHeading ? "rgba(65, 143, 198, 0.06)" : "#fafafa",
+                                        borderRadius: "2px", // Sharper corners like reference
+                                        backgroundColor: assignedHeading ? "rgba(65, 143, 198, 0.06)" : "#fff", // White bg instead of fafafa
                                         transition: "border-color 0.15s, background-color 0.15s",
-                                        maxWidth: "60%", // Shorten box by about half
+                                        maxWidth: "40%", // Even shorter box
+                                        marginLeft: passage.has_paragraph_labels && p.label ? "38px" : "0", // Adjusted alignment
                                     }}
                                 >
                                     <span

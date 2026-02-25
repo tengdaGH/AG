@@ -76,7 +76,7 @@ export default function TrueFalseNotGiven({
                             return (
                                 <label
                                     key={option}
-                                    className="flex items-center gap-3 cursor-pointer py-2 px-3 rounded-sm transition-colors"
+                                    className="flex items-center gap-4 cursor-pointer py-[6px] px-1 rounded-sm transition-colors" // Increased gap to 4, reduced py/px
                                     style={{
                                         backgroundColor: isSelected ? "var(--ielts-row-highlight)" : "transparent",
                                         opacity: isStruckOut ? 0.45 : 1,
@@ -92,17 +92,17 @@ export default function TrueFalseNotGiven({
                                     <div
                                         className="shrink-0 flex items-center justify-center"
                                         style={{
-                                            width: "13px",
-                                            height: "13px",
+                                            width: "14px", // Slightly larger radio circle
+                                            height: "14px",
                                             borderRadius: "50%",
-                                            border: `1px solid ${isSelected ? "var(--ielts-active-blue)" : "#999"}`,
+                                            border: `1.5px solid ${isSelected ? "var(--ielts-active-blue)" : "#666"}`, // Thicker border, darker gray when unselected
                                         }}
                                     >
                                         {isSelected && (
                                             <div
                                                 style={{
-                                                    width: "7px",
-                                                    height: "7px",
+                                                    width: "8px", // Slightly larger inner circle
+                                                    height: "8px",
                                                     borderRadius: "50%",
                                                     backgroundColor: "var(--ielts-active-blue)",
                                                 }}
@@ -112,10 +112,11 @@ export default function TrueFalseNotGiven({
 
                                     <span
                                         style={{
-                                            fontSize: "16px",
+                                            fontSize: "14px", // Matches reference text size better
                                             color: "#333",
-                                            fontWeight: isSelected ? 500 : 400,
+                                            fontWeight: 400, // Text weight doesn't change on selection in reference
                                             paddingLeft: "4px",
+                                            letterSpacing: "0.01em",
                                         }}
                                     >
                                         {option}

@@ -32,3 +32,4 @@ jobs:
       run: |
         cd calendar_integration
         python sync_to_notion.py 
+ 
