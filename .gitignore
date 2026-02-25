@@ -10,6 +10,9 @@ __pycache__/
 venv/
 .venv/
 
+# Nested repos (managed separately)
+Notion Pal/student-platform/
+
 # Node
 node_modules/
 dist/
