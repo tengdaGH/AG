@@ -58,14 +58,14 @@ export default function MultipleChoiceItem({
 
     return (
         <div
-            className="flex flex-col gap-3 py-4 px-5"
-            style={{ fontFamily: "var(--ielts-font)" }}
+            className="flex flex-col gap-3"
+            style={{ padding: "16px 24px", fontFamily: "var(--ielts-font)" }}
         >
             {/* Question text */}
             <div className="flex gap-4 items-start">
                 <span
                     data-question-id={questionNumber}
-                    className="shrink-0 flex items-center justify-center mt-[2px]"
+                    className="shrink-0 flex items-center justify-center"
                     style={{
                         width: "28px",
                         height: "28px",
@@ -81,13 +81,13 @@ export default function MultipleChoiceItem({
                     {questionNumber}
                 </span>
 
-                <div className="flex flex-col gap-3">
-                    <div style={{ fontSize: "16px", color: "#333", lineHeight: 1.5, paddingTop: "3px" }}>
+                <div className="flex flex-col gap-5">
+                    <div style={{ fontSize: "16px", color: "#333", lineHeight: "28px", margin: 0 }}>
                         {text}
                     </div>
 
                     {/* Options */}
-                    <div className="flex flex-col gap-1">
+                    <div className="flex flex-col gap-3">
                         {options.map((opt) => {
                             const isChecked = selected.includes(opt.id);
                             const isStruckOut = struckOut.includes(opt.id);
@@ -95,9 +95,9 @@ export default function MultipleChoiceItem({
                             return (
                                 <label
                                     key={opt.id}
-                                    className="flex items-center gap-3 cursor-pointer py-2 px-3 rounded-sm transition-colors"
+                                    className={`flex items-center gap-4 cursor-pointer py-[8px] px-3 rounded-sm transition-colors w-full ${!isChecked ? "hover:bg-[#E5E5E5]" : ""}`}
                                     style={{
-                                        backgroundColor: isChecked ? "var(--ielts-row-highlight)" : "transparent",
+                                        backgroundColor: isChecked ? "#C6E0F5" : "transparent",
                                         opacity: isStruckOut ? 0.45 : 1,
                                         textDecoration: isStruckOut ? "line-through" : "none",
                                     }}
@@ -138,17 +138,17 @@ export default function MultipleChoiceItem({
                                             <div
                                                 className="flex items-center justify-center"
                                                 style={{
-                                                    width: "13px",
-                                                    height: "13px",
+                                                    width: "14px",
+                                                    height: "14px",
                                                     borderRadius: "50%",
-                                                    border: `1px solid ${isChecked ? "var(--ielts-active-blue)" : "#999"}`,
+                                                    border: `1.5px solid ${isChecked ? "var(--ielts-active-blue)" : "#666"}`,
                                                 }}
                                             >
                                                 {isChecked && (
                                                     <div
                                                         style={{
-                                                            width: "7px",
-                                                            height: "7px",
+                                                            width: "8px",
+                                                            height: "8px",
                                                             borderRadius: "50%",
                                                             backgroundColor: "var(--ielts-active-blue)",
                                                         }}

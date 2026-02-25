@@ -1,5 +1,5 @@
 {
-  "error": "Curl failed: curl: (28) Operation timed out after 60006 milliseconds with 0 bytes received\n",
+  "error": "Curl failed: curl: (28) Operation timed out after 60003 milliseconds with 0 bytes received\n",
   "original": {
     "id": "ielts-r-0258",
     "slug": "life-code-unlocked",

@@ -48,10 +48,7 @@ export default function InlineCompletion({
     };
 
     return (
-        <div
-            className="py-4 px-5"
-            style={{ fontFamily: "var(--ielts-font)" }}
-        >
+        <div style={{ padding: "16px 24px", fontFamily: "var(--ielts-font)" }}>
             <div style={{ fontSize: "16px", color: "#333", lineHeight: 2 }}>
                 {parts.map((part, index) => {
                     if (part.type === "text") {

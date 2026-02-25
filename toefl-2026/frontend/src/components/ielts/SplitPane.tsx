@@ -125,12 +125,13 @@ export default function SplitPane({
             >
                 {/* Drag handle block — square with arrows */}
                 <div
-                    className="absolute flex items-center justify-center bg-white border shadow-sm"
+                    className="absolute flex items-center justify-center border shadow-sm"
                     style={{
                         width: "28px",
                         height: "28px",
                         left: "-10px",
                         cursor: "col-resize",
+                        backgroundColor: "#F4F4F4", // Opaque background matching workspace to hide track
                         borderColor: "#999",
                         borderRadius: "2px",
                         color: "#666",

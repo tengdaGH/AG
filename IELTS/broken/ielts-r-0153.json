@@ -1,5 +1,5 @@
 {
-  "error": "Curl failed: curl: (28) Operation timed out after 60004 milliseconds with 0 bytes received\n",
+  "error": "Curl failed: curl: (28) Operation timed out after 60001 milliseconds with 0 bytes received\n",
   "original": {
     "id": "ielts-r-0153",
     "slug": "environmental-management",

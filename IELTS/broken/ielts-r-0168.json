@@ -1,5 +1,5 @@
 {
-  "error": "Curl failed: curl: (28) Operation timed out after 60006 milliseconds with 0 bytes received\n",
+  "error": "Curl failed: curl: (28) Operation timed out after 60000 milliseconds with 0 bytes received\n",
   "original": {
     "id": "ielts-r-0168",
     "slug": "food-advertising-on-children",

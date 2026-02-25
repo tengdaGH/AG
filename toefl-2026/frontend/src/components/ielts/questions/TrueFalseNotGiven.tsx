@@ -39,36 +39,34 @@ export default function TrueFalseNotGiven({
 
     return (
         <div
-            className="flex flex-col gap-2 py-4 px-5"
-            style={{ fontFamily: "var(--ielts-font)" }}
+            className="flex flex-col gap-2"
+            style={{ padding: "16px 24px", fontFamily: "var(--ielts-font)" }}
         >
             {/* Question text */}
             <div className="flex gap-4 items-start">
                 <span
                     data-question-id={questionNumber}
-                    className="shrink-0 flex items-center justify-center mt-[2px]"
+                    className="shrink-0 flex items-center justify-center"
                     style={{
                         width: "28px",
                         height: "28px",
                         fontWeight: 700,
-                        fontSize: "14px",
-                        color: selected ? "var(--ielts-active-blue)" : "#333",
-                        border: selected
-                            ? "2px solid var(--ielts-active-blue)"
-                            : "1px solid #999",
+                        fontSize: "15px",
+                        color: "#333",
+                        border: "1px solid transparent", // Keeps alignment but hides border
                         borderRadius: "2px",
                     }}
                 >
                     {questionNumber}
                 </span>
 
-                <div className="flex flex-col gap-3">
-                    <p style={{ fontSize: "16px", color: "#333", lineHeight: 1.5, paddingTop: "3px" }}>
+                <div className="flex flex-col gap-5">
+                    <p style={{ fontSize: "16px", color: "#333", lineHeight: "28px", margin: 0 }}>
                         {questionText}
                     </p>
 
                     {/* Radio options — aligned with text */}
-                    <div className="flex flex-col gap-1">
+                    <div className="flex flex-col gap-3">
                         {options.map((option) => {
                             const isSelected = selected === option;
                             const isStruckOut = struckOut.includes(option);
@@ -76,9 +74,9 @@ export default function TrueFalseNotGiven({
                             return (
                                 <label
                                     key={option}
-                                    className="flex items-center gap-4 cursor-pointer py-[6px] px-1 rounded-sm transition-colors" // Increased gap to 4, reduced py/px
+                                    className={`flex items-center gap-4 cursor-pointer py-[8px] px-3 rounded-sm transition-colors w-full ${!isSelected ? "hover:bg-[#E5E5E5]" : ""}`}
                                     style={{
-                                        backgroundColor: isSelected ? "var(--ielts-row-highlight)" : "transparent",
+                                        backgroundColor: isSelected ? "#C6E0F5" : "transparent",
                                         opacity: isStruckOut ? 0.45 : 1,
                                         textDecoration: isStruckOut ? "line-through" : "none",
                                     }}

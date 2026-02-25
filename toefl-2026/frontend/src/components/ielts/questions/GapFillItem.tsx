@@ -73,7 +73,7 @@ export default function GapFillItem({
         const parts = contentHtml.split(markerRegex);
 
         return (
-            <div className="py-2" style={{ fontFamily: "var(--ielts-font)" }}>
+            <div style={{ padding: "8px 24px", fontFamily: "var(--ielts-font)" }}>
                 {parts.map((part, index) => (
                     <React.Fragment key={index}>
                         <span
@@ -89,8 +89,8 @@ export default function GapFillItem({
 
     return (
         <div
-            className="flex gap-3 py-3 px-5 items-center flex-wrap"
-            style={{ fontFamily: "var(--ielts-font)" }}
+            className="flex gap-3 items-center flex-wrap"
+            style={{ padding: "12px 24px", fontFamily: "var(--ielts-font)" }}
         >
             <span
                 className="shrink-0 flex items-center justify-center"

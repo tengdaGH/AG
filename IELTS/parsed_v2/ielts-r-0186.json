@@ -1,0 +1,489 @@
+{
+  "id": "ielts-r-0186",
+  "slug": "gold-dusters-",
+  "title": "Gold dusters",
+  "page_range": [
+    944,
+    948
+  ],
+  "raw_answer_key": {
+    "1": "v",
+    "8": "flies and beetles",
+    "2": "viii",
+    "9": "furry coats",
+    "3": "vi",
+    "10": "longer distances",
+    "4": "x",
+    "11": "worker bees",
+    "5": "i",
+    "12": "C OR E IN EITHER ORDER",
+    "6": "iii",
+    "13": "C OR E IN EITHER ORDER",
+    "7": "ix"
+  },
+  "content": {
+    "title": "Gold dusters",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Row upon row, tomato plants stand in formation inside a greenhouse. To reproduce, most flowering plants depend on a third party to transfer pollen between their male and female parts. Some require extra encouragement to give up that golden dust. The tomato flower, for example, needs a violent shake, a vibration roughly equivalent to 30 times the pull of Earth’s gravity, explains Arizona entomologist Stephen Buchmann. Growers have tried numerous ways to rattle pollen from tomato blossoms. They have used shaking tables, air blowers and blasts of sound. But natural means seem to work better."
+      },
+      {
+        "label": "B",
+        "content": "It is no surprise that nature’s design works best. What’s astonishing is the array of workers that do it: more than 200,000 individual animal species, by varying strategies, help the world's 240,000 species of flowering plants make more flowers. Flies and beetles are the original pollinators, going back to when flowering plants first appeared 130 million years ago. As for bees, scientists have identified some 20,000 distinct species so far. Hummingbirds, butterflies, moths, wasps and ants are also up to the job. Even non-flying mammals do their part: sugar-loving opossums, some rainforest monkeys, and lemurs in Madagascar, all with nimble hands that tear open flower stalks and furry coats to which pollen sticks. Most surprising, some lizards, such as geckos, lap up nectar and pollen and then transport the stuff on their faces and feet as they forage onward."
+      },
+      {
+        "label": "C",
+        "content": "All that messy diversity, unfortunately, is not well suited to the monocrops and mega-yields of modern commercial farmers. Before farms got so big, says conservation biologist Claire Kremen of the University of California, Berkeley, ‘we didn’t have to manage pollinators. They were all around because of the diverse landscapes. Now you need to bring in an army to get pollination done. The European honeybee was first imported to the US some 400 years ago. Now at least a hundred commercial crops rely almost entirely on managed honeybees, which beekeepers raise and rent out to tend to big farms. And although other species of bees are five to ten times more efficient, on a per-bee basis, at pollinating certain fruits, honeybees have bigger colonies, cover longer distances, and tolerate management and movement better than most insects. They're not picky - they’ll spend their time on almost any crop. It’s tricky to calculate what their work is truly worth; some economists put it at more than $200 billion globally a year."
+      },
+      {
+        "label": "D",
+        "content": "Industrial-scale farming, however, may be wearing down the system. Honeybees have suffered diseases and parasite infestations for as long as they've been managed, but in 2006 came an extreme blow. Around the world, bees began to disappear over the winter in massive numbers. Beekeepers would lift the lid of a hive and be amazed to find only the queen and a few stragglers, the worker bees gone. In the US, a third to half of all hives crashed; some beekeepers reported colony losses near 90 percent. The mysterious culprit was named colony collapse disorder (CCD) and it remains an annual menace - and an enigma."
+      },
+      {
+        "label": "E",
+        "content": "When it first hit, many people, from agronomists to the public, assumed that our slathering of chemicals on agricultural fields was to blame for the mystery. Indeed, says Jeff Pettis of the USDA Bee Research Laboratory, ‘we do find more disease in bees that have been exposed to pesticides, even at low levels.’ But it is likely that CCD involves multiple stressors. Poor nutrition and chemical exposure, for instance, might wear down a bee's immunities before a virus finishes the insect off. It’s hard to tease apart factors and outcomes, Pettis says. New studies reveal that fungicides - not previously thought toxic to bees - can interfere with microbes that break down pollen in the insects’ guts, affecting nutrient absorption and thus long-term health and longevity. Some findings pointed to viral and fungal pathogens working together. ‘I only wish we had a single agent causing all the declines,’ Pettis says, ’that would make our work much easier!"
+      },
+      {
+        "label": "F",
+        "content": "However, habitat loss and alteration, he says, are even more of a menace to pollinators than pathogens. Claire Kremen encourages farmers to cultivate the flora surrounding farmland to help solve habitat problems. ‘You can't move the farm,’ she says, ‘but you can diversify what grows in its vicinity: along roads, even in tractor yards.’ Planting hedgerows and patches of native flowers that bloom at different times and seeding fields with multiple plant species rather than monocrops 'not only is better for native pollinators, but it’s just better agriculture,’ she says. Pesticide-free wildflower havens, adds Buchmann, would also bolster populations of useful insects. Fortunately, too, ‘there are far more generalist plants than specialist plants, so there's a lot of redundancy in pollination,’ Buchmann says. ‘Even if one pollinator drops out, there are often pretty good surrogates left to do the job. The key to keeping our gardens growing strong, he says, is letting that diversity thrive."
+      },
+      {
+        "label": "G",
+        "content": "Take away that variety, and we'll lose more than honey. ‘We wouldn't starve,’ says Kremen. ‘But what we eat, and even what we wear - pollinators, after all, give us some of our cotton and flax - would be limited to crops whose pollen travels by other means. ‘In a sense,’ she says, ‘our lives would be dictated by the wind. It’s vital that we give pollinators more of what they need and less of what they don't, and ease the burden on managed bees by letting native animals do their part, say scientists."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for each section from the list of headings provided.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Section A",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "Looking for clues"
+              },
+              {
+                "label": "ii",
+                "text": "Blaming the beekeepers"
+              },
+              {
+                "label": "iii",
+                "text": "Solutions to a more troublesome issue"
+              },
+              {
+                "label": "iv",
+                "text": "Discovering a new bee species"
+              },
+              {
+                "label": "v",
+                "text": "An impossible task for any human"
+              },
+              {
+                "label": "vi",
+                "text": "The preferred pollinator"
+              },
+              {
+                "label": "vii",
+                "text": "Plant features designed to suit the pollinator"
+              },
+              {
+                "label": "viii",
+                "text": "Some obvious and less obvious pollen carriers"
+              },
+              {
+                "label": "ix",
+                "text": "The undesirable alternative"
+              },
+              {
+                "label": "x",
+                "text": "An unexpected setback"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Section B",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Looking for clues"
+              },
+              {
+                "label": "ii",
+                "text": "Blaming the beekeepers"
+              },
+              {
+                "label": "iii",
+                "text": "Solutions to a more troublesome issue"
+              },
+              {
+                "label": "iv",
+                "text": "Discovering a new bee species"
+              },
+              {
+                "label": "v",
+                "text": "An impossible task for any human"
+              },
+              {
+                "label": "vi",
+                "text": "The preferred pollinator"
+              },
+              {
+                "label": "vii",
+                "text": "Plant features designed to suit the pollinator"
+              },
+              {
+                "label": "viii",
+                "text": "Some obvious and less obvious pollen carriers"
+              },
+              {
+                "label": "ix",
+                "text": "The undesirable alternative"
+              },
+              {
+                "label": "x",
+                "text": "An unexpected setback"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Section C",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Looking for clues"
+              },
+              {
+                "label": "ii",
+                "text": "Blaming the beekeepers"
+              },
+              {
+                "label": "iii",
+                "text": "Solutions to a more troublesome issue"
+              },
+              {
+                "label": "iv",
+                "text": "Discovering a new bee species"
+              },
+              {
+                "label": "v",
+                "text": "An impossible task for any human"
+              },
+              {
+                "label": "vi",
+                "text": "The preferred pollinator"
+              },
+              {
+                "label": "vii",
+                "text": "Plant features designed to suit the pollinator"
+              },
+              {
+                "label": "viii",
+                "text": "Some obvious and less obvious pollen carriers"
+              },
+              {
+                "label": "ix",
+                "text": "The undesirable alternative"
+              },
+              {
+                "label": "x",
+                "text": "An unexpected setback"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Section D",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "Looking for clues"
+              },
+              {
+                "label": "ii",
+                "text": "Blaming the beekeepers"
+              },
+              {
+                "label": "iii",
+                "text": "Solutions to a more troublesome issue"
+              },
+              {
+                "label": "iv",
+                "text": "Discovering a new bee species"
+              },
+              {
+                "label": "v",
+                "text": "An impossible task for any human"
+              },
+              {
+                "label": "vi",
+                "text": "The preferred pollinator"
+              },
+              {
+                "label": "vii",
+                "text": "Plant features designed to suit the pollinator"
+              },
+              {
+                "label": "viii",
+                "text": "Some obvious and less obvious pollen carriers"
+              },
+              {
+                "label": "ix",
+                "text": "The undesirable alternative"
+              },
+              {
+                "label": "x",
+                "text": "An unexpected setback"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Section E",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Looking for clues"
+              },
+              {
+                "label": "ii",
+                "text": "Blaming the beekeepers"
+              },
+              {
+                "label": "iii",
+                "text": "Solutions to a more troublesome issue"
+              },
+              {
+                "label": "iv",
+                "text": "Discovering a new bee species"
+              },
+              {
+                "label": "v",
+                "text": "An impossible task for any human"
+              },
+              {
+                "label": "vi",
+                "text": "The preferred pollinator"
+              },
+              {
+                "label": "vii",
+                "text": "Plant features designed to suit the pollinator"
+              },
+              {
+                "label": "viii",
+                "text": "Some obvious and less obvious pollen carriers"
+              },
+              {
+                "label": "ix",
+                "text": "The undesirable alternative"
+              },
+              {
+                "label": "x",
+                "text": "An unexpected setback"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Section F",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Looking for clues"
+              },
+              {
+                "label": "ii",
+                "text": "Blaming the beekeepers"
+              },
+              {
+                "label": "iii",
+                "text": "Solutions to a more troublesome issue"
+              },
+              {
+                "label": "iv",
+                "text": "Discovering a new bee species"
+              },
+              {
+                "label": "v",
+                "text": "An impossible task for any human"
+              },
+              {
+                "label": "vi",
+                "text": "The preferred pollinator"
+              },
+              {
+                "label": "vii",
+                "text": "Plant features designed to suit the pollinator"
+              },
+              {
+                "label": "viii",
+                "text": "Some obvious and less obvious pollen carriers"
+              },
+              {
+                "label": "ix",
+                "text": "The undesirable alternative"
+              },
+              {
+                "label": "x",
+                "text": "An unexpected setback"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Section G",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "Looking for clues"
+              },
+              {
+                "label": "ii",
+                "text": "Blaming the beekeepers"
+              },
+              {
+                "label": "iii",
+                "text": "Solutions to a more troublesome issue"
+              },
+              {
+                "label": "iv",
+                "text": "Discovering a new bee species"
+              },
+              {
+                "label": "v",
+                "text": "An impossible task for any human"
+              },
+              {
+                "label": "vi",
+                "text": "The preferred pollinator"
+              },
+              {
+                "label": "vii",
+                "text": "Plant features designed to suit the pollinator"
+              },
+              {
+                "label": "viii",
+                "text": "Some obvious and less obvious pollen carriers"
+              },
+              {
+                "label": "ix",
+                "text": "The undesirable alternative"
+              },
+              {
+                "label": "x",
+                "text": "An unexpected setback"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below using no more than three words from the passage.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Both 8..................... were the first creatures to pollinate the world's plants.",
+            "answer": "flies and beetles",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Monkeys transport pollen on their 9....................",
+            "answer": "furry coats",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Honeybees are favoured pollinators among bee species partly because they travel 10....................",
+            "answer": "longer distances",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "A feature of CCD is often the loss of all the 11....................",
+            "answer": "worker bees",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose TWO letters, A-E, for the methods of combating the problems caused by CCD and habitat loss.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Which TWO methods of combating the problems caused by CCD and habitat loss are mentioned in the article?",
+            "answer": "C OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "using more imported pest controllers"
+              },
+              {
+                "label": "B",
+                "text": "removing microbes from bees’ stomachs"
+              },
+              {
+                "label": "C",
+                "text": "cultivating a wide range of flowering plants"
+              },
+              {
+                "label": "D",
+                "text": "increasing the size of many farms"
+              },
+              {
+                "label": "E",
+                "text": "placing less reliance on honeybees"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Which TWO methods of combating the problems caused by CCD and habitat loss are mentioned in the article?",
+            "answer": "C OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "using more imported pest controllers"
+              },
+              {
+                "label": "B",
+                "text": "removing microbes from bees’ stomachs"
+              },
+              {
+                "label": "C",
+                "text": "cultivating a wide range of flowering plants"
+              },
+              {
+                "label": "D",
+                "text": "increasing the size of many farms"
+              },
+              {
+                "label": "E",
+                "text": "placing less reliance on honeybees"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T03:41:57.394989"
+}

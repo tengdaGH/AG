@@ -1,5 +1,5 @@
 {
-  "error": "Curl failed: curl: (28) Operation timed out after 60006 milliseconds with 0 bytes received\n",
+  "error": "Invalid JSON: Expecting ',' delimiter: line 35 column 245 (char 5150). Raw: {\n  \"title\": \"Keep taking the tablets\",\n  \"has_paragraph_labels\": false,\n  \"paragraphs\": [\n    {\n      \"label\": null,\n      \"content\": \"The history of aspirin is a product of a rollercoaster ride through time, of accidental discoveries, intuitive reasoning and intense corporate rivalry. In the opening pages of Aspirin: The Remarkable Story of a Wonder Drug, Diarmuid Jeffreys describes this little white pill as 'one of the most amazing creations in medical history, a drug so astonishingly versati...l trials, says Jeffreys. 'If I were the Department of Health, I would say \"this is a very inexpensive drug. There may be a lot of other things we could do with it.\" We should put a lot more money into trying to find out.'\"\n    },\n    {\n      \"label\": null,\n      \"content\": \"Jeffreys' book, which not only tells the tale of a 'wonder drug' but also explores the nature of innovation and the role of big business, public money and regulation, reminds us why such research is so important.\"\n    }\n  ]\n}",
   "original": {
     "id": "ielts-r-0241",
     "slug": "keep-taking-the-tablets",

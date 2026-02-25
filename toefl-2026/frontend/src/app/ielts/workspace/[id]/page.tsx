@@ -492,7 +492,7 @@ export default function IELTSWorkspace() {
                         >
                             List of Headings
                         </p>
-                        <div className="flex flex-wrap gap-3"> {/* Increased gap between boxes */}
+                        <div className="flex flex-col items-start gap-[15px]"> {/* 15px gap */}
                             {availableHeadings.map((h) => (
                                 <div
                                     key={h.id}
@@ -501,17 +501,17 @@ export default function IELTSWorkspace() {
                                     className="flex items-center gap-2 cursor-grab active:cursor-grabbing hover:shadow-md transition-shadow"
                                     style={{
                                         backgroundColor: "#fff",
-                                        border: "1px solid var(--ielts-drop-zone-border)",
-                                        borderRadius: "4px",
+                                        border: "1px solid #c8c8c8",
+                                        borderRadius: "4px", // Tiny radius
                                         padding: "8px 14px",
+                                        position: "relative",
+                                        zIndex: 1,
                                         fontSize: "14px",
                                         color: "#333",
                                         maxWidth: "100%",
                                     }}
                                 >
-                                    <span style={{ fontWeight: 700, color: "#333", minWidth: "16px" }}>
-                                        {h.id}
-                                    </span>
+                                    {/* Removed the heading numeral (i, ii, etc) as per reference 2, or render optionally */}
                                     <span style={{ lineHeight: 1.3 }}>{h.text}</span>
                                 </div>
                             ))}
@@ -531,7 +531,7 @@ export default function IELTSWorkspace() {
                             )}
                         </div>
                     </div>
-                </section>
+                </section >
             );
         }
 
