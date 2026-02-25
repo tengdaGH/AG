@@ -108,8 +108,21 @@ def determine_assignment(text, task_type):
                 else:
                     speaker_voice_map[spk] = random.choice(["Puck", "Kore"])
                     
-        # Multi-speaker requires exactly 2 voices
-        if len(speaker_voice_map) == 1:
+        if len(speaker_voice_map) >= 2:
+            # Multi-speaker requires exactly 2 voices for now in Gemini TTS
+            # Use the first two detected roles
+            top_two = {}
+            roles = list(speaker_voice_map.keys())[:2]
+            for r in roles:
+                top_two[r] = speaker_voice_map[r]
+            
+            return {
+                "mode": "multi",
+                "script_lines": lines,
+                "speaker_voice_map": top_two,
+                "tone": "Natural, conversational tone. Each speaker should sound like a real person talking, not reading. Match the emotion implied by the dialogue."
+            }
+        elif len(speaker_voice_map) == 1:
             spk = list(speaker_voice_map.keys())[0]
             voice = speaker_voice_map[spk]
             return {
@@ -118,7 +131,7 @@ def determine_assignment(text, task_type):
                 "speaker_data": {"role": spk, "gender": "F" if voice in ["Kore", "Leda", "Despina"] else "M", "age_range": "young-adult", "accent": "american", "voice": voice},
                 "tone": "Natural, conversational tone. Match the emotion implied by the dialogue."
             }
-        elif len(speaker_voice_map) == 0:
+        else:
             return {
                 "mode": "single",
                 "voice": "Kore",
@@ -159,7 +172,7 @@ def determine_assignment(text, task_type):
         return {
             "mode": "single",
             "voice": voice,
-            "speaker_data": {"role": "Student", "gender": "F" if is_female else "M", "age_range": "young-adult", "accent": "american", "voice": voice},
+            "speaker_data": {"role": "Student", "gender": "F" if voice == "Kore" else "M", "age_range": "young-adult", "accent": "american", "voice": voice},
             "tone": "Neutral, natural conversational stimulus. Short, clear, single utterance. Sound like an ordinary person in a casual exchange.",
             "clean_text": stimulus
         }
@@ -184,9 +197,9 @@ def determine_assignment(text, task_type):
 
 def main():
     db = SessionLocal()
-    # Get all ETS-T items without audio
+    # Get all ETS items (Teacher + Student) without audio
     items = db.query(TestItem).filter(
-        TestItem.source_id.like("ETS-T%"),
+        TestItem.source_id.like("ETS-%"),
         TestItem.section.in_(["LISTENING", "SPEAKING"])
     ).all()
     
@@ -209,9 +222,14 @@ def main():
         print(f"Processing {idx}/{len(items_to_process)}: {item.source_id}...")
         
         pc = json.loads(item.prompt_content)
-        text = pc.get("transcript", pc.get("text", ""))
+        raw_text = pc.get("transcript", pc.get("text", ""))
+        if isinstance(raw_text, dict):
+            text = raw_text.get("text", "")
+        else:
+            text = raw_text
+            
         if not text:
-            print(f"  Skipping {item.source_id} - no transcript found.")
+            print(f"  Skipping {item.source_id} - no text/transcript found.")
             continue
             
         plan = determine_assignment(text, item.task_type)
@@ -219,7 +237,7 @@ def main():
             print(f"  Unknown task type {item.task_type}, skipping.")
             continue
             
-        section_dir = "speaking" if "-S-" in item.source_id else "listening"
+        section_dir = "speaking" if item.section == "SPEAKING" else "listening"
         out_filename = f"{item.source_id}.mp3"
         out_path_mp3 = AUDIO_OUTPUT_BASE / section_dir / out_filename
         

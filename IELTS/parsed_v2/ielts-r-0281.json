@@ -1,0 +1,448 @@
+{
+  "id": "ielts-r-0281",
+  "slug": "measures-to-combat-infectious-disease-in-tsarist-russia",
+  "title": "Measures to combat infectious disease in tsarist Russia",
+  "page_range": [
+    1412,
+    1416
+  ],
+  "raw_answer_key": {
+    "8": "B OR D IN",
+    "1": "ii EITHER ORDER",
+    "9": "A OR E IN",
+    "2": "v EITHER ORDER",
+    "10": "A OR E IN",
+    "3": "i EITHER ORDER",
+    "4": "vii",
+    "11": "Astrakhan",
+    "5": "iv",
+    "12": "houses",
+    "6": "viii",
+    "13": "fire",
+    "7": "B OR D IN EITHER ORDER"
+  },
+  "content": {
+    "title": "Measures to Combat Infectious Disease in Tsarist Russia",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In the second half of the seventeenth century, Russian authorities began implementing controls at the borders of their empire to prevent the importation of plague, a highly infectious and dangerous disease. Information on disease outbreak occurring abroad was regularly reported to the tsar’s court through various means, including commercial channels (travelling merchants), military personnel deployed abroad, undercover agents, the network of Imperial Foreign Office embassies and representations abroad, and the customs offices. For instance, the heads of customs offices were instructed to question foreigners entering Russia about possible epidemics of dangerous diseases in their respective countries."
+      },
+      {
+        "label": "B",
+        "content": "If news of an outbreak came from abroad, relations with the affected country were suspended. For instance, foreign vessels were not allowed to dock in Russian ports if there was credible information about the existence of epidemics in countries from whence they had departed. In addition, all foreigners entering Russia from those countries had to undergo quarantine. In 1665, after receiving news about a plague epidemic in England, Tsar Alexei wrote a letter to King Charles II in which he announced the cessation of Russian trade relations with England and other foreign states. These protective measures appeared to have been effective, as the country did not record any cases of plague during that year and in the next three decades. It was not until 1692 that another plague outbreak was recorded in the Russian province of Astrakhan. This epidemic continued for five months and killed 10,383 people, or about 65 percent of the city’s population. By the end of the seventeenth century, preventative measures had been widely introduced in Russia, including the isolation of persons ill with plague, the imposition of quarantines, and the distribution of explanatory public health notices about plague outbreaks."
+      },
+      {
+        "label": "C",
+        "content": "During the eighteenth century, although none of the occurrences was of the same scale as in the past, plague appeared in Russia several times. For instance, from 1703 to 1705, a plague outbreak that had ravaged Istanbul spread to the Podolsk and Kiev provinces in Russia, and then to Poland and Hungary. After defeating the Swedes in the battle of Poltava in 1709, Tsar Peter I (Peter the Great) dispatched part of his army to Poland, where plague had been raging for two years. Despite preventive measures, the disease spread among the Russian troops. In 1710, the plague reached Riga (then part of Sweden, now the capital of Latvia), where it was active until 1711 and claimed 60,000 lives. During this period, the Russians besieged Riga and, after the Swedes had surrendered the city in 1710, the Russian army lost 9,800 soldiers to the plague. Russian military chronicles of the time note that more soldiers died of the disease after the capture of Riga than from enemy fire during the siege of that city."
+      },
+      {
+        "label": "D",
+        "content": "Tsar Peter I imposed strict measures to prevent the spread of plague during these conflicts. Soldiers suspected of being infected were isolated and taken to areas far from military camps. In addition, camps were designed to separate divisions, detachments, and smaller units of soldiers. When plague reached Narva (located in present-day Estonia) and threatened to spread to St. Petersburg, the newly built capital of Russia, Tsar Peter I ordered the army to cordon off the entire boundary along the Luga River, including temporarily halting all activity on the river."
+      },
+      {
+        "label": "E",
+        "content": "However, although the Russian authorities applied such methods to contain the spread of the disease and limit the number of victims, all of the measures had a provisional character: they were intended to respond to a specific outbreak, and were not designed as a coherent set of measures to be implemented systematically at the first sign of plague. The advent of such a standard response system came a few years later."
+      },
+      {
+        "label": "F",
+        "content": "The first attempts to organise procedures and carry out proactive steps to control plague date to the aftermath of the 1727-1728 epidemic in Astrakhan. In response to this, the Russian imperial authorities issued several decrees aimed at controlling the future spread of plague. Among these decrees, the 'Instructions for Governors and Heads of Townships' required that all governors immediately inform the Senate - a government body created by Tsar Peter I in 1711 to advise the monarch - if plague cases were detected in their respective provinces. Furthermore, the decree required that governors ensure the physical examination of all persons suspected of carrying the disease and their subsequent isolation. In addition, it was ordered that sites where plague victims were found had to be encircled by checkpoints and isolated for the duration of the outbreak. These checkpoints were to remain operational for at least six weeks."
+      },
+      {
+        "label": "G",
+        "content": "The implementation by the authorities of these combined measures demonstrates their intuitive understanding of the importance of the timely isolation of infected people to limit the spread of plague."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for sections A-F from the list of headings below. Write the correct number, i-viii.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Section A",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Outbreaks of plague as a result of military campaigns."
+              },
+              {
+                "label": "ii",
+                "text": "Systematic intelligence-gathering about external cases of plague."
+              },
+              {
+                "label": "iii",
+                "text": "Early forms of treatment for plague victims."
+              },
+              {
+                "label": "iv",
+                "text": "The general limitations of early Russian anti-plague measures."
+              },
+              {
+                "label": "v",
+                "text": "Partly successful bans against foreign states affected by plague."
+              },
+              {
+                "label": "vi",
+                "text": "Hostile reactions from foreign states to Russian anti-plague measures."
+              },
+              {
+                "label": "vii",
+                "text": "Various measures to limit outbreaks of plague associated with war."
+              },
+              {
+                "label": "viii",
+                "text": "The formulation and publication of preventive strategies."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Section B",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "Outbreaks of plague as a result of military campaigns."
+              },
+              {
+                "label": "ii",
+                "text": "Systematic intelligence-gathering about external cases of plague."
+              },
+              {
+                "label": "iii",
+                "text": "Early forms of treatment for plague victims."
+              },
+              {
+                "label": "iv",
+                "text": "The general limitations of early Russian anti-plague measures."
+              },
+              {
+                "label": "v",
+                "text": "Partly successful bans against foreign states affected by plague."
+              },
+              {
+                "label": "vi",
+                "text": "Hostile reactions from foreign states to Russian anti-plague measures."
+              },
+              {
+                "label": "vii",
+                "text": "Various measures to limit outbreaks of plague associated with war."
+              },
+              {
+                "label": "viii",
+                "text": "The formulation and publication of preventive strategies."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Section C",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Outbreaks of plague as a result of military campaigns."
+              },
+              {
+                "label": "ii",
+                "text": "Systematic intelligence-gathering about external cases of plague."
+              },
+              {
+                "label": "iii",
+                "text": "Early forms of treatment for plague victims."
+              },
+              {
+                "label": "iv",
+                "text": "The general limitations of early Russian anti-plague measures."
+              },
+              {
+                "label": "v",
+                "text": "Partly successful bans against foreign states affected by plague."
+              },
+              {
+                "label": "vi",
+                "text": "Hostile reactions from foreign states to Russian anti-plague measures."
+              },
+              {
+                "label": "vii",
+                "text": "Various measures to limit outbreaks of plague associated with war."
+              },
+              {
+                "label": "viii",
+                "text": "The formulation and publication of preventive strategies."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Section D",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Outbreaks of plague as a result of military campaigns."
+              },
+              {
+                "label": "ii",
+                "text": "Systematic intelligence-gathering about external cases of plague."
+              },
+              {
+                "label": "iii",
+                "text": "Early forms of treatment for plague victims."
+              },
+              {
+                "label": "iv",
+                "text": "The general limitations of early Russian anti-plague measures."
+              },
+              {
+                "label": "v",
+                "text": "Partly successful bans against foreign states affected by plague."
+              },
+              {
+                "label": "vi",
+                "text": "Hostile reactions from foreign states to Russian anti-plague measures."
+              },
+              {
+                "label": "vii",
+                "text": "Various measures to limit outbreaks of plague associated with war."
+              },
+              {
+                "label": "viii",
+                "text": "The formulation and publication of preventive strategies."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Section E",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Outbreaks of plague as a result of military campaigns."
+              },
+              {
+                "label": "ii",
+                "text": "Systematic intelligence-gathering about external cases of plague."
+              },
+              {
+                "label": "iii",
+                "text": "Early forms of treatment for plague victims."
+              },
+              {
+                "label": "iv",
+                "text": "The general limitations of early Russian anti-plague measures."
+              },
+              {
+                "label": "v",
+                "text": "Partly successful bans against foreign states affected by plague."
+              },
+              {
+                "label": "vi",
+                "text": "Hostile reactions from foreign states to Russian anti-plague measures."
+              },
+              {
+                "label": "vii",
+                "text": "Various measures to limit outbreaks of plague associated with war."
+              },
+              {
+                "label": "viii",
+                "text": "The formulation and publication of preventive strategies."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Section F",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Outbreaks of plague as a result of military campaigns."
+              },
+              {
+                "label": "ii",
+                "text": "Systematic intelligence-gathering about external cases of plague."
+              },
+              {
+                "label": "iii",
+                "text": "Early forms of treatment for plague victims."
+              },
+              {
+                "label": "iv",
+                "text": "The general limitations of early Russian anti-plague measures."
+              },
+              {
+                "label": "v",
+                "text": "Partly successful bans against foreign states affected by plague."
+              },
+              {
+                "label": "vi",
+                "text": "Hostile reactions from foreign states to Russian anti-plague measures."
+              },
+              {
+                "label": "vii",
+                "text": "Various measures to limit outbreaks of plague associated with war."
+              },
+              {
+                "label": "viii",
+                "text": "The formulation and publication of preventive strategies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose TWO letters, A—E. Write the correct letters.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Which TWO measures did Russia take in the seventeenth century to avoid plague outbreaks?",
+            "answer": "B OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Cooperation with foreign leaders."
+              },
+              {
+                "label": "B",
+                "text": "Spying."
+              },
+              {
+                "label": "C",
+                "text": "Military campaigns."
+              },
+              {
+                "label": "D",
+                "text": "Restrictions on access to its ports."
+              },
+              {
+                "label": "E",
+                "text": "Expulsion of foreigners."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Which TWO measures did Russia take in the seventeenth century to avoid plague outbreaks?",
+            "answer": "B OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Cooperation with foreign leaders."
+              },
+              {
+                "label": "B",
+                "text": "Spying."
+              },
+              {
+                "label": "C",
+                "text": "Military campaigns."
+              },
+              {
+                "label": "D",
+                "text": "Restrictions on access to its ports."
+              },
+              {
+                "label": "E",
+                "text": "Expulsion of foreigners."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose TWO letters, A-E. Write the correct letters.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Which TWO statements are made about Russia in the early eighteenth century?",
+            "answer": "A OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Plague outbreaks were consistently smaller than before."
+              },
+              {
+                "label": "B",
+                "text": "Military casualties at Riga exceeded the number of plague victims."
+              },
+              {
+                "label": "C",
+                "text": "The design of military camps allowed plague to spread quickly."
+              },
+              {
+                "label": "D",
+                "text": "The tsar’s plan to protect St Petersburg from plague was not strictly implemented."
+              },
+              {
+                "label": "E",
+                "text": "Anti-plague measures were generally reactive rather than strategic."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Which TWO statements are made about Russia in the early eighteenth century?",
+            "answer": "A OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Plague outbreaks were consistently smaller than before."
+              },
+              {
+                "label": "B",
+                "text": "Military casualties at Riga exceeded the number of plague victims."
+              },
+              {
+                "label": "C",
+                "text": "The design of military camps allowed plague to spread quickly."
+              },
+              {
+                "label": "D",
+                "text": "The tsar’s plan to protect St Petersburg from plague was not strictly implemented."
+              },
+              {
+                "label": "E",
+                "text": "Anti-plague measures were generally reactive rather than strategic."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "An outbreak of plague in 11..................... prompted the publication of a coherent preventative strategy.",
+            "answer": "Astrakhan",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Provincial governors were ordered to burn the 12..................... and possessions of plague victims.",
+            "answer": "houses",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Correspondence was held over a 13..................... prior to copying it.",
+            "answer": "fire",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T03:59:11.195167"
+}

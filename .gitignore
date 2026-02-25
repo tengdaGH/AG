@@ -31,3 +31,12 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Raw source PDFs (already extracted into DB)
+toefl-2026/2026托福改革新题型*/
+
+# Design research (dev reference only)
+themes-and-designs/
+
+# Intermediate extraction artifacts
+toefl-2026/pdf_pages/

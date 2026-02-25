@@ -1,0 +1,532 @@
+{
+  "id": "ielts-r-0381",
+  "slug": "sand-dunes",
+  "title": "Sand Dunes",
+  "page_range": [
+    1935,
+    1939
+  ],
+  "raw_answer_key": {
+    "1": "i",
+    "8": "iv",
+    "2": "v",
+    "9": "B",
+    "3": "x",
+    "10": "C",
+    "4": "vii",
+    "11": "B",
+    "5": "ix",
+    "12": "G",
+    "6": "ii",
+    "13": "H",
+    "7": "vi",
+    "14": "D"
+  },
+  "content": {
+    "title": "Sand Dunes",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "One of the main problems posed by sand dunes is their encroachment on human habitats. Sand dunes move by different means, all of them aided by the wind. Sand dunes threaten buildings and crops in Africa, the Middle East, and China. Preventing sand dunes from overwhelming cities and agricultural areas has become a priority for the United Nations Environment Program. On the other hand, dune habitats provide niches for highly specialized plants and animals, including numerous rare and endangered species."
+      },
+      {
+        "label": "B",
+        "content": "Sand is usually composed of hard minerals such as quartz that cannot be broken down into silt or clay. Yellow, brown and reddish shades of sand indicate their presence of iron compounds. Red sand is composed of quartz coated by a layer of iron oxide. White sands are nearly pure gypsum. Sand with a high percentage of silicate can be used in glassmaking. Sandstone is created by sand, mixed with lime, chalk or some other material that acts as a binding agent, that is deposited in layers at the bottom of a sea or other area and pressed together into rock by the great pressure of sediments that are deposited on top of it over thousands or millions of years."
+      },
+      {
+        "label": "C",
+        "content": "The most common dune form on Earth and on Mars is crescentic. Crescent-shaped mounds are generally wider than they are long. The slipfaces are on the concave sides of the dunes. These dunes form under winds that blow consistently from one direction, and they also are known as barchans or transverse dunes. Some types of crescentic dunes move more quickly over desert surfaces than any other type of dune. A group of dunes moved more than 100 metres per year between 1954 and 1959 the China’s Ningxia Province, and similar speeds have been recorded in the Western Desert of Egypt. The largest crescentic dunes on Earth, with mean crest-to-crest widths of more than 3 kilometres, are in China’s Taklamakan Desert."
+      },
+      {
+        "label": "D",
+        "content": "Radially symmetrical, star dunes are pyramidal sand mounds with slipfaces on there or more arms that radiate from the high center of the mound. They tend to accumulate in areas with multidirectional wind regimes. Star dunes grow upward rather than laterally. They dominate the Grand Erg Oriental of the Sahara. In other deserts, they occur around the margins of the sand seas, particularly near topographic barriers. In the southeast Badain Jaran Desert of China, the star dunes are up to 500 metres tall and may be the tallest dunes on Earth. Straight or slightly sinuous sand ridges typically much longer than they are wide are known as linear dunes. They may be more than 160 kilometres (99 mi) long. Some linear dunes merge to form Y-shaped compound dunes. Many forms in bidirectional wind regimes. The long axes of these dunes extend in the resultant direction of sand movement. Linear loess hills known as pahas are superficially similar."
+      },
+      {
+        "label": "E",
+        "content": "Once sand begins to pile up, ripples and dunes can form. Wind continues to move sand up to the top of the pile until the pile is so steep that it collapses under its own weight. The collapsing sand comes to rest when it reaches just the right steepness to keep the dune stable. This angle, usually about 30-34°, is called the angle of repose. Every pile of loose particles has a unique angle of repose, depending upon the properties of the material it’s made of, such as the grain size and roundness. Ripples grow into dunes with the increase of wind and sand input."
+      },
+      {
+        "label": "F",
+        "content": "The repeating cycle of sand inching up the windward side to the dune crest, then slipping down the dune’s slip face allows the dune to inch forward, migrating in the direction the wind blows. As you might guess, all of this climbing then slipping leaves its mark on the internal structure of the dune. The image on the right shows fossil sand dune structure preserved in the Merced Formation at Fort Funston, Golden Gate National Recreation Area. The sloping lines or laminations you see are the preserved slip faces of a migrating sand dune. This structure is called cross-bedding and can be the result of either wind or water currents. The larger the cross-bedded structure, however, the more likely it is to be formed by wind, rather than water."
+      },
+      {
+        "label": "G",
+        "content": "Sand dunes can “sing” at a level up to 115 decibels and generate sounds in different notes. The dunes at Sand Mountain n Nevada usually sing in a low C but can also sing in B and C sharp. The La Mar de Dunas in Chile hum in F while those at the Ghord Lahmar in Morocco howl in G sharp. The sounds are produced by avalanches of sand generated by blowing winds. For a while, it was thought that the avalanches caused the entire dune to resonate like a flute or violin but if that were true then different size dunes would produce different notes. In the mid 2000s, American, French and Moroccan scientists visiting sand dunes in Morocco, Chile, China and Oman published a paper in the Physical Review Letters that determined the sounds were produced by collisions between grains of sand that caused the motions of the grains to become synchronized, causing the outer layer of a dune to vibrate like the cone of a loudspeaker, producing sound. The tone of the sounds depended primarily on the size of the grains."
+      },
+      {
+        "label": "H",
+        "content": "Scientists performed a computer simulation on patterns and dynamics of desert dunes in laboratory. Dune patterns observed in deserts were reproduced. From the initial random state, stars and linear dunes are produced, depending on the variability of the wind direction. The efficiency in sand transport is calculated through the course of development. Scientists found that the sand transport is the most efficient in the linear transverse dune. The efficiency in sand transport always increased through the evolution, and the way it increases was stepwise. They also found that the shadow zone, the region where the sand wastes the chance to move, shrinks through the course of evolution, which greatly helps them build a model to simulate a sand move."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs A-H from the list below. Write the correct number, i-x, in boxes 1-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "potential threat to buildings and crops despite of benefit."
+              },
+              {
+                "label": "ii",
+                "text": "the cycle of sand moving forward with wind"
+              },
+              {
+                "label": "iii",
+                "text": "protection method in various countries."
+              },
+              {
+                "label": "iv",
+                "text": "scientists simulate sand move and build model in lab"
+              },
+              {
+                "label": "v",
+                "text": "sand composition explanation"
+              },
+              {
+                "label": "vi",
+                "text": "singing sand dunes"
+              },
+              {
+                "label": "vii",
+                "text": "other types of sand dunes"
+              },
+              {
+                "label": "viii",
+                "text": "the personal opinion on related issues."
+              },
+              {
+                "label": "ix",
+                "text": "reasons why sand dunes form"
+              },
+              {
+                "label": "x",
+                "text": "the most common sand type"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "potential threat to buildings and crops despite of benefit."
+              },
+              {
+                "label": "ii",
+                "text": "the cycle of sand moving forward with wind"
+              },
+              {
+                "label": "iii",
+                "text": "protection method in various countries."
+              },
+              {
+                "label": "iv",
+                "text": "scientists simulate sand move and build model in lab"
+              },
+              {
+                "label": "v",
+                "text": "sand composition explanation"
+              },
+              {
+                "label": "vi",
+                "text": "singing sand dunes"
+              },
+              {
+                "label": "vii",
+                "text": "other types of sand dunes"
+              },
+              {
+                "label": "viii",
+                "text": "the personal opinion on related issues."
+              },
+              {
+                "label": "ix",
+                "text": "reasons why sand dunes form"
+              },
+              {
+                "label": "x",
+                "text": "the most common sand type"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "potential threat to buildings and crops despite of benefit."
+              },
+              {
+                "label": "ii",
+                "text": "the cycle of sand moving forward with wind"
+              },
+              {
+                "label": "iii",
+                "text": "protection method in various countries."
+              },
+              {
+                "label": "iv",
+                "text": "scientists simulate sand move and build model in lab"
+              },
+              {
+                "label": "v",
+                "text": "sand composition explanation"
+              },
+              {
+                "label": "vi",
+                "text": "singing sand dunes"
+              },
+              {
+                "label": "vii",
+                "text": "other types of sand dunes"
+              },
+              {
+                "label": "viii",
+                "text": "the personal opinion on related issues."
+              },
+              {
+                "label": "ix",
+                "text": "reasons why sand dunes form"
+              },
+              {
+                "label": "x",
+                "text": "the most common sand type"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "potential threat to buildings and crops despite of benefit."
+              },
+              {
+                "label": "ii",
+                "text": "the cycle of sand moving forward with wind"
+              },
+              {
+                "label": "iii",
+                "text": "protection method in various countries."
+              },
+              {
+                "label": "iv",
+                "text": "scientists simulate sand move and build model in lab"
+              },
+              {
+                "label": "v",
+                "text": "sand composition explanation"
+              },
+              {
+                "label": "vi",
+                "text": "singing sand dunes"
+              },
+              {
+                "label": "vii",
+                "text": "other types of sand dunes"
+              },
+              {
+                "label": "viii",
+                "text": "the personal opinion on related issues."
+              },
+              {
+                "label": "ix",
+                "text": "reasons why sand dunes form"
+              },
+              {
+                "label": "x",
+                "text": "the most common sand type"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "potential threat to buildings and crops despite of benefit."
+              },
+              {
+                "label": "ii",
+                "text": "the cycle of sand moving forward with wind"
+              },
+              {
+                "label": "iii",
+                "text": "protection method in various countries."
+              },
+              {
+                "label": "iv",
+                "text": "scientists simulate sand move and build model in lab"
+              },
+              {
+                "label": "v",
+                "text": "sand composition explanation"
+              },
+              {
+                "label": "vi",
+                "text": "singing sand dunes"
+              },
+              {
+                "label": "vii",
+                "text": "other types of sand dunes"
+              },
+              {
+                "label": "viii",
+                "text": "the personal opinion on related issues."
+              },
+              {
+                "label": "ix",
+                "text": "reasons why sand dunes form"
+              },
+              {
+                "label": "x",
+                "text": "the most common sand type"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "potential threat to buildings and crops despite of benefit."
+              },
+              {
+                "label": "ii",
+                "text": "the cycle of sand moving forward with wind"
+              },
+              {
+                "label": "iii",
+                "text": "protection method in various countries."
+              },
+              {
+                "label": "iv",
+                "text": "scientists simulate sand move and build model in lab"
+              },
+              {
+                "label": "v",
+                "text": "sand composition explanation"
+              },
+              {
+                "label": "vi",
+                "text": "singing sand dunes"
+              },
+              {
+                "label": "vii",
+                "text": "other types of sand dunes"
+              },
+              {
+                "label": "viii",
+                "text": "the personal opinion on related issues."
+              },
+              {
+                "label": "ix",
+                "text": "reasons why sand dunes form"
+              },
+              {
+                "label": "x",
+                "text": "the most common sand type"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Paragraph G",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "potential threat to buildings and crops despite of benefit."
+              },
+              {
+                "label": "ii",
+                "text": "the cycle of sand moving forward with wind"
+              },
+              {
+                "label": "iii",
+                "text": "protection method in various countries."
+              },
+              {
+                "label": "iv",
+                "text": "scientists simulate sand move and build model in lab"
+              },
+              {
+                "label": "v",
+                "text": "sand composition explanation"
+              },
+              {
+                "label": "vi",
+                "text": "singing sand dunes"
+              },
+              {
+                "label": "vii",
+                "text": "other types of sand dunes"
+              },
+              {
+                "label": "viii",
+                "text": "the personal opinion on related issues."
+              },
+              {
+                "label": "ix",
+                "text": "reasons why sand dunes form"
+              },
+              {
+                "label": "x",
+                "text": "the most common sand type"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Paragraph H",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "potential threat to buildings and crops despite of benefit."
+              },
+              {
+                "label": "ii",
+                "text": "the cycle of sand moving forward with wind"
+              },
+              {
+                "label": "iii",
+                "text": "protection method in various countries."
+              },
+              {
+                "label": "iv",
+                "text": "scientists simulate sand move and build model in lab"
+              },
+              {
+                "label": "v",
+                "text": "sand composition explanation"
+              },
+              {
+                "label": "vi",
+                "text": "singing sand dunes"
+              },
+              {
+                "label": "vii",
+                "text": "other types of sand dunes"
+              },
+              {
+                "label": "viii",
+                "text": "the personal opinion on related issues."
+              },
+              {
+                "label": "ix",
+                "text": "reasons why sand dunes form"
+              },
+              {
+                "label": "x",
+                "text": "the most common sand type"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Answer the questions 9-10 and choose correct letter A, B, C or D.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "What is the main composition of white sand made of according to the passage?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Quartz"
+              },
+              {
+                "label": "B",
+                "text": "Gypsum"
+              },
+              {
+                "label": "C",
+                "text": "Lime"
+              },
+              {
+                "label": "D",
+                "text": "Iron"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Which one is not mentioned as a sand type in this passage?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Linear"
+              },
+              {
+                "label": "B",
+                "text": "Crescentic"
+              },
+              {
+                "label": "C",
+                "text": "Overlap"
+              },
+              {
+                "label": "D",
+                "text": "Star"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the summary using the list of words, A-J below. Write the correct letter, A-J in boxes 11-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Crescentic is an ordinary 11..................... on both Earth and Mars, apart from which, there are also other types of sand dunes.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Different color of the sand reflects different components, some of them are rich in 12..................... that can not be easily broken into clay.",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Sand dunes can “sing” at a level up to 115 decibels and generate sounds in different notes. Sand dunes can be able to 13..................... at a certain level of sound intensity, and the different size of grains creates different 14..................... of the sounds.",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Sand dunes can “sing” at a level up to 115 decibels and generate sounds in different notes. Sand dunes can be able to 13..................... at a certain level of sound intensity, and the different size of grains creates different 14..................... of the sounds.",
+            "answer": "D"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T04:12:00.078798"
+}
