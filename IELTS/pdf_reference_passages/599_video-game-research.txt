@@ -1,0 +1,199 @@
+TITLE: Video game research
+INDEX: 599
+============================================================
+
+Video game research
+
+Although video games were first developed for adults, they are no longer exclusively
+reserved for the grown ups in the home. In 2006, Rideout and Hamel reported that as many
+as 29 percent of preschool children (children between two and six years old) in the United
+States had played console video games, and 18 percent had played hand-held ones. Given
+young children’s insatiable eagerness to learn, coupled with the fact that they are clearly
+surrounded by these media, we predict that preschoolers will both continue and
+increasingly begin to adopt video games for personal enjoyment. Although the majority of
+gaming equipment is still designed for a much older target audience, once a game system
+enters the household it is potentially available for all family members, including the
+youngest. Portable systems have done a particularly good job of penetrating the younger
+market.
+
+Research in the video game market is typically done at two stages: some time close to the
+end of the product cycle, in order to get feedback from consumers, so that a marketing
+strategy can be developed; and at the very end of the product cycle to ‘fix bugs’ in the
+game. While both of those types of research are important, and may be appropriate for
+dealing with adult consumers, neither of them aids in designing better games, especially
+when it comes to designing for an audience that may have particular needs, such as
+preschoolers or senior citizens. Instead, exploratory and formative research has to be
+undertaken in order to truly understand those audiences, their abilities, their perspective,
+and their needs. In the spring of 2007, our preschool-game production team at Nickelodeon
+had a hunch that the Nintendo DS - with its new features, such as the microphone, small
+size and portability, and its relatively low price point - was a ripe gaming platform for
+preschoolers. There were a few games on the market at the time which had characters that
+appealed to the younger set, but our game producers did not think that the game
+mechanics or design were appropriate for preschoolers. What exactly preschoolers could
+do with the system, however, was a bit of a mystery. So we set about doing a study to
+answer the query: What could we expect preschoolers to be capable of in the context of
+hand-held game play, and how might the child development literature inform us as we
+proceeded with the creation of a new outlet for this age group?
+
+Our context in this case was the United States, although the games that resulted were also
+released in other regions, due to the broad international reach of the characters. In order to
+design the best possible DS product for a preschool audience we were fully committed to
+the ideals of a ‘user-centered approach’, which assumes that users will be at least
+considered, but ideally consulted during the development process. After all, when it comes
+to introducing a new interactive product to the child market, and particularly such a young
+age group within it, we believe it is crucial to assess the range of physical and cognitive
+abilities associated with their specific developmental stage.
+
+Revelle and Medoff (2002) review some of the basic reasons why home entertainment
+systems, computers, and other electronic gaming devices, are often difficult for
+preschoolers to use. In addition to their still developing motor skills (which make
+manipulating a controller with small buttons difficult), many of the major stumbling blocks
+are cognitive. Though preschoolers are learning to think symbolically, and understand that
+pictures can stand for real-life objects, the vast majority are still unable to read and write.
+Thus, using text-based menu selections is not viable. Mapping is yet another obstacle
+since preschoolers may be unable to understand that there is a direct link between how the
+controller is used and the activities that appear before them on screen. Though this aspect
+is changing, in traditional mapping systems real life movements do not usually translate
+into game-based activity.
+
+Over the course of our study, we gained many insights into how preschoolers interact with
+various platforms, including the DS. For instance, all instructions for preschoolers need to
+be in voice-over, and include visual representations, and this has been one of the most
+difficult areas for us to negotiate with respect to game design on the DS. Because the
+game cartridges have very limited memory capacity, particularly in comparison to console
+or computer games, the ability to capture large amounts of voice-over data via sound files
+or visual representations of instructions becomes limited. Text instructions take up minimal
+memory, so they are preferable from a technological perspective. Figuring out ways to
+maximise sound and graphics files, while retaining the clear visual and verbal cues that we
+know are critical for our youngest players, is a constant give and take. Another of our
+findings indicated that preschoolers may use either a stylus, or their fingers, or both
+although they are not very accurate with either. One of the very interesting aspects of the
+
+DS is that the interface, which is designed to respond to stylus interactions, can also
+effectively be used with the tip of the finger. This is particularly noteworthy in the context of
+preschoolers for two reasons. Firstly, as they have trouble with fine motor skills and their
+hand-eye coordination is still in development, they are less exact with their stylus
+movements; and secondly, their fingers are so small that they mimic the stylus very
+effectively, and therefore by using their fingers they can often be more accurate in their
+game interactions.
+
+Questions 1-5
+
+Do the following statements agree with the claims of the writer in Reading Passage 3?
+
+Write
+
+YES if the statement agrees with the claims of the writer
+
+NO if the statement contradicts the claims of the writer
+
+NOT GIVEN if it is impossible to say what the writer thinks about this
+1..................... Video game use amongst preschool children is higher in the US than in
+other countries.
+2..................... The proportion of preschool children using video games is likely to rise.
+
+3..................... Parents in the US who own gaming equipment generally allow their
+children to play with it.
+
+4..................... The type of research which manufacturers usually do is aimed at improving
+game design.
+
+5..................... Both old and young games consumers require research which is
+specifically targeted.
+
+
+Questions 6-10
+
+Complete the summary using the list of words/phrases, A-l, below.
+
+
+Problems for preschool users of video games
+
+Preschool children find many electronic games difficult, because neither their motor
+skills nor their 6..................... are sufficiently developed.
+
+Certain types of control are hard for these children to manipulate, for example,
+7..................... can be more effective than styluses.
+
+Also, although they already have the ability to relate 8..................... to real-world objects,
+preschool children are largely unable to understand the connection between their own
+9..................... and the movements they can see on the screen. Finally, very few
+preschool children can understand 10......................
+
+
+C
+B cognit
+A actions
+buttons ive
+skills
+
+D F
+E
+concentrat pictur
+fingers
+ion es
+I
+H
+writte
+spoken
+G sounds n
+instructi
+menu
+ons
+s
+
+Questions 11-14
+
+Choose the correct letter, A, B, C or D
+
+11 In 2007, what conclusion did games producers at Nickelodeon come to?
+
+A The preschool market was unlikely to be sufficiently profitable.
+
+B One of their hardware products would probably be suitable for preschoolers.
+C Games produced by rival companies were completely inappropriate for
+preschoolers.
+D They should put their ideas for new games for preschoolers into practice.
+
+12 The study carried out by Nickelodeon
+
+A was based on children living in various parts of the world.
+
+B focused on the kinds of game content which interests preschoolers.
+
+C investigated the specific characteristics of the target market.
+
+D led to products which appealed mainly to the US consumers.
+
+13 Which problem do the writers highlight concerning games instructions for young
+children?
+
+A Spoken instructions take up a lot of the available memory.
+B Written instructions have to be expressed very simply.
+
+C The children do not follow instructions consistently.
+
+D The video images distract attention from the instructions.
+
+14 Which is the best title for Reading Passage 3?
+
+A An overview of video games software for the preschool market
+
+B Researching and designing video games for preschool children
+
+C The effects of video games on the behaviour of young children
+
+D Assessing the impact of video games on educational achievement
+
+Solution:
+
+1. NOT GIVEN 8. F
+2. YES 9. A
+
+3. NOT GIVEN 10. I
+4. NO 11. B
+
+5. YES 12. C
+6. C 13. A
+
+7. E 14. B

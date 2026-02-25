@@ -1,0 +1,229 @@
+{
+  "id": "ielts-r-0474",
+  "slug": "the-flavour-industry",
+  "title": "The Flavour Industry",
+  "page_range": [
+    2407,
+    2411
+  ],
+  "raw_answer_key": {
+    "1": "E",
+    "8": "B",
+    "2": "B",
+    "9": "TRUE",
+    "3": "G",
+    "10": "NOT GIVEN",
+    "4": "C",
+    "11": "TRUE",
+    "5": "A",
+    "12": "TRUE",
+    "6": "D",
+    "13": "D",
+    "7": "F"
+  },
+  "content": {
+    "title": "The Flavour Industry",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Read through the nutritional information on the food in your freezer, refrigerator or kitchen pantry, and you are likely to find a simple, innocuous-looking ingredient recurring on a number of products: “natural flavour”. The story of what natural flavour is, how it got into your food, and where it came from is the result of more complex processes than you might imagine."
+      },
+      {
+        "label": "B",
+        "content": "During the 1980s, health watchdogs and nutritionists began turning their attention to cholesterol, a waxy steroid metabolite that we mainly consume from animal-sourced products such as cheese, egg yolks, beef, poultry, shrimp, and pork. Nutritionists blamed cholesterol for contributing to the growing rates of obesity, heart disease, diabetes, and several cancers in Western societies. As extensive recognition of the matter grew amongst the common people, McDonald’s stopped cooking their French fries in a mixture of cottonseed oil and beef tallow, and in 1990, the restaurant chain began using 100% vegetable oil instead."
+      },
+      {
+        "label": "C",
+        "content": "This substantially lowered the amount of cholesterol in McDonald’s fries, but it created a new dilemma. The beef tallow and cottonseed oil mixture gave the French fries high cholesterol content, but it also gifted them with a rich aroma and “mouth-feel” that even James Beard, an American food critic, admitted he enjoyed. Pure vegetable oil is bland in comparison. Looking at the current ingredients list of McDonald’s French fries, however, it is easy to see how they overcame this predicament. Aside from a few preservatives, there are essentially three main ingredients: potato, soybean oil, and the mysterious component of “natural flavour”."
+      },
+      {
+        "label": "D",
+        "content": "Natural flavour also entered our diet through the rise in processed foods, which now make up over 90% (and growing) of the American diet, as well as representing a burgeoning industry in developing countries such as China and India. Processed foods are essentially any foods that have been boxed, bagged, canned or packaged, and have a list of ingredients on the label. Sometimes, the processing involves adding a little sodium or sugar, and a few preservatives. Often, however, it is coloured, bleached, stabilized, emulsified, dehydrated, odour-concealed, and sweetened. This process typically saps any original flavour out of the product, and so, of course, flavour must be added back in as well."
+      },
+      {
+        "label": "E",
+        "content": "Often this is “natural flavour”, but while the term may bring to mind images of fresh barley, hand-ground spices, and dried herbs being traded in a bustling street market, most of these natural sources are, in fact, engineered to culinary perfection in a set of factories and plants of the New Jersey Turnpike outside of New York. Here, firms such as International Flavors & Fragrances, Harmen & Keimer, Flavor Dynamics, Frutarom and Elan Chemical isolate and manufacture the tastes that are incorporated in much of what we eat and drink. The sweet, summery burst of naturally squeezed orange juice, the wood-smoked aroma in barbeque sauces, and the creamy, buttery, fresh taste in many dairy products do not come from sun-drenched meadows or backyard grills but are formed in the labs and test tubes of these flavour industry giants."
+      },
+      {
+        "label": "F",
+        "content": "The scientists – dubbed “flavourists” who create the potent chemicals that set our olfactory senses to overdrive use a mix of techniques that have been refined over many years. Part of it is dense, intricate chemistry: spectrometers, gas chromatographs, and headspace-vapor analyzers can break down components of a flavor in amounts as minute as one part per billion. Not to be outdone, however, the human nose can isolate aromas down to three parts per trillion. Flavourists, therefore, consider their work as much an art as a science, and flavorism requires a nose “trained” with a delicate and poetic sense of balance."
+      },
+      {
+        "label": "G",
+        "content": "Should we be wary of the industrialization of natural flavour? On its own, the trend may not present any clear reason for alarm. Nutritionists widely agree that the real assault on health in the last few decades stems from an “unholy trinity” of sugar, fat, and sodium in processed foods. The natural flavour on its own is not a health risk. It does play a role, however, in helping these processed foods to taste fresh and nutritious, even when they are not. So, while the natural flavor industry should not be considered the culprit, we might think of it as a willing accomplice."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-8 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "examples of companies that create natural flavors",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "an instance of a multinational franchise responding to public pressure",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "a statement on the health effects of natural flavors",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "an instance where a solution turns into a problem",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "a place in the home where one may encounter the term “natural flavor”",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "details about the transformation that takes place in processed grocery items",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "a comparison of personal and technological abilities in flavor detection",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "examples of diet-related health conditions",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 9-12 on your answer sheet, write TRUE, if the statement agrees with the information; FALSE, if the statement contradicts with the information; NOT GIVEN, if there is no information on this.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "On their own, vegetable oils do not have a strong flavor.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "On their own, vegetable oils do not have a strong flavor."
+              },
+              {
+                "label": "FALSE",
+                "text": "On their own, vegetable oils have a strong flavor."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Soybean oil is lower in cholesterol than cottonseed oil.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Soybean oil is lower in cholesterol than cottonseed oil."
+              },
+              {
+                "label": "FALSE",
+                "text": "Soybean oil is not lower in cholesterol than cottonseed oil."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Processed foods are becoming more popular in some Asian countries.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Processed foods are becoming more popular in some Asian countries."
+              },
+              {
+                "label": "FALSE",
+                "text": "Processed foods are not becoming more popular in some Asian countries."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "All food processing involves the use of natural flavors.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "All food processing involves the use of natural flavors."
+              },
+              {
+                "label": "FALSE",
+                "text": "Not all food processing involves the use of natural flavors."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D, and write it on your answer sheet.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "The writer of Reading Passage concludes that natural flavors…………………",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "are the major cause of dietary health problems."
+              },
+              {
+                "label": "B",
+                "text": "are unhealthy, but not as bad as sugar, fat, and sodium."
+              },
+              {
+                "label": "C",
+                "text": "have health benefits that other ingredients tend to cancel out."
+              },
+              {
+                "label": "D",
+                "text": "help make unhealthy foods taste better."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:33:17.056744"
+}

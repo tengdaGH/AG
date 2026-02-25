@@ -1,0 +1,383 @@
+{
+  "id": "ielts-r-0282",
+  "slug": "measuring-organisational-performance",
+  "title": "Measuring Organisational Performance",
+  "page_range": [
+    1417,
+    1422
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "overstaffed",
+    "9": "reduced // cut",
+    "2": "C // decreased",
+    "3": "C",
+    "10": "C",
+    "4": "supervision // leadership //",
+    "11": "D management",
+    "5": "productivity",
+    "12": "G",
+    "6": "reduced // cut //",
+    "13": "F decreased",
+    "7": "(group methods of) leadership"
+  },
+  "content": {
+    "title": "Measuring Organisational Performance",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "There is clear-cut evidence that, for a period of at least one year, supervision which increases the direct pressure for productivity can achieve significant increases in production. However, such short-term increases are obtained only at a substantial and serious cost to the organisation."
+      },
+      {
+        "label": "B",
+        "content": "To what extent can a manager make an impressive earnings record over a short period of one to three years by exploiting the company’s investment in the human organisation in his plant or division? To what extent will the quality of his organisation suffer if he does so? The following is a description of an important study conducted by the Institute for Social Research designed to answer these questions."
+      },
+      {
+        "label": "C",
+        "content": "The study covered 500 clerical employees in four parallel divisions. Each division was organised in exactly the same way, used the same technology, did exactly the same kind of work, and had employees of comparable aptitudes."
+      },
+      {
+        "label": "D",
+        "content": "Productivity in all four of the divisions depended on the number of clerks involved. The work entailed the processing of accounts and generating of invoices. Although the volume of work was considerable, the nature of the business was such that it could only be processed as it came along. Consequently, the only way in which productivity could be increased was to change the size of the workgroup."
+      },
+      {
+        "label": "E",
+        "content": "The four divisions were assigned to two experimental programmes on a random basis. Each programme was assigned at random a division that had been historically high in productivity and a division that had been below average in productivity. No attempt was made to place a division in the programme that would best fit its habitual methods of supervision used by the manager, assistant managers, supervisors and assistant supervisors."
+      },
+      {
+        "label": "F",
+        "content": "The experiment at the clerical level lasted for one year. Beforehand, several months were devoted to planning, and there was also a training period of approximately six months. Productivity was measured continuously and computed weekly throughout the year. The attitudes of employees and supervisory staff towards their work were measured just before and after the period."
+      },
+      {
+        "label": "G",
+        "content": "Turning now to the heart of the study, in two divisions an attempt was made to change the supervision so that the decision levels were pushed down and detailed supervision of the workers reduced. More general supervision of the clerks and their supervisors was introduced. In addition, the managers, assistant managers, supervisors and assistant supervisors of these two divisions were trained in group methods of leadership, which they endeavoured to use as much as their skill would permit during the experimental year. For easy reference, the experimental changes in these two divisions will be labelled the ‘participative programme’!"
+      },
+      {
+        "label": "H",
+        "content": "In the other two divisions, by contrast, the programme called for modifying the supervision so as to increase the closeness of supervision and move the decision levels upwards. This will be labelled the ‘hierarchically controlled programme’. These changes were accomplished by a further extension of the scientific management approach. For example, one of the major changes made was to have the jobs timed and to have standard times computed. This showed that these divisions were overstaffed by about 30%. The general manager then ordered the managers of these two divisions to cut staff by 25%. This was done by transfers without replacing the persons who left; no one was to be dismissed."
+      },
+      {
+        "label": "Results of the Experiment",
+        "content": "Changes in Productivity Figure 1 shows the changes in salary costs per unit of work, which reflect the change in productivity that occurred in the divisions. As will be observed, the hierarchically controlled programmes increased productivity by about 25%. This was a result of the direct orders from the general manager to reduce staff by that amount. Direct pressure produced a substantial increase in production."
+      },
+      {
+        "label": null,
+        "content": "A significant increase in productivity of 2O% was also achieved in the participative programme, but this was not as great an increase as in the hierarchically controlled programme. To bring about this improvement, the clerks themselves participated in the decision to reduce the size of the work group. (They were aware of course that productivity increases were sought by management in conducting these experiments.) Obviously, deciding to reduce the size of a work group by eliminating some of its members is probably one of the most difficult decisions for a work group to make. Yet the clerks made it. In fact, one division in the participative programme increased its productivity by about the same amount as each of the two divisions in the hierarchically controlled programme. The other participative division, which historically had been the poorest of all the divisions, did not do so well and increased productivity by only 15%."
+      },
+      {
+        "label": "Changes in Attitudes",
+        "content": "Although both programmes had similar effects on productivity, they had significantly different results in other respects. The productivity increases in the hierarchically controlled programme were accompanied by shifts in an adverse direction in such factors as loyalty, attitudes, interest, and involvement in the work. But just the opposite was true in the participative programme."
+      },
+      {
+        "label": null,
+        "content": "For example, Figure 2 shows that when more general supervision and increased participation were provided, the employees’ feeling of responsibility to see that the work got done increased. Again, when the supervisor was away, they kept on working. In the hierarchically controlled programme, however, the feeling of responsibility decreased, and when the supervisor was absent, work tended to stop."
+      },
+      {
+        "label": null,
+        "content": "As Figure 3 shows, the employees in the participative programme at the end of the year felt that their manager and assistant manager were ‘closer to them’ than at the beginning of the year. The opposite was true in the hierarchical programme. Moreover, as Figure 4 shows, employees in the participative programme felt that their supervisors were more likely to ‘pull’ for them, or for the company and them, and not be solely interested in the company, while in the hierarchically controlled programme, the opposite trend occurred."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A-D and write them in boxes 1-3 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The experiment was designed to",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "establish whether increased productivity should be sought at any cost."
+              },
+              {
+                "label": "B",
+                "text": "show that four divisions could use the same technology."
+              },
+              {
+                "label": "C",
+                "text": "perfect a system for processing accounts."
+              },
+              {
+                "label": "D",
+                "text": "exploit the human organisation of a company in order to increase profits."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The four divisions",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "each employed a staff of 500 clerks."
+              },
+              {
+                "label": "B",
+                "text": "each had equal levels of productivity."
+              },
+              {
+                "label": "C",
+                "text": "had identical patterns of organisation."
+              },
+              {
+                "label": "D",
+                "text": "were randomly chosen for the experiment."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Before the experiment",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the four divisions were carefully selected to suit a specific programme."
+              },
+              {
+                "label": "B",
+                "text": "each division was told to reduce its level of productivity."
+              },
+              {
+                "label": "C",
+                "text": "the staff involved spent a number of months preparing for the study."
+              },
+              {
+                "label": "D",
+                "text": "the employees were questioned about their feelings towards the study."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose ONE word from Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "This experiment involved an organisation comprising four divisions, which were divided into two programmes: the hierarchically controlled programme and the participative programme. For a period of one year a different method of ________ was used in each programme.",
+            "answer": "supervision // leadership //",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Throughout this time ________ was calculated on a weekly basis.",
+            "answer": "productivity",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "In the participative programme: •supervision of all workers was ________",
+            "answer": "reduced // cut //",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "•supervisory staff were given training in ________",
+            "answer": "(group methods of) leadership",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "In the hierarchically controlled programme: •work groups were found to be ________ by 30%.",
+            "answer": "overstaffed",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "•the work force was ________ by 25%.",
+            "answer": "reduced // cut",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at Figures 1, 2, 3 and 4 in Reading Passage. Choose the most appropriate label, A-I, for each Figure from the box below.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Fig 1",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees’ interest in the company"
+              },
+              {
+                "label": "B",
+                "text": "Cost increases for the company"
+              },
+              {
+                "label": "C",
+                "text": "Changes in productivity"
+              },
+              {
+                "label": "D",
+                "text": "Employees’ feelings of responsibility towards completion of work"
+              },
+              {
+                "label": "E",
+                "text": "Changes in productivity when supervisor was absent"
+              },
+              {
+                "label": "F",
+                "text": "Employees’ opinion as to extent of personal support from management"
+              },
+              {
+                "label": "G",
+                "text": "Employees feel closer to their supervisors"
+              },
+              {
+                "label": "H",
+                "text": "Employees’ feelings towards increased supervision"
+              },
+              {
+                "label": "I",
+                "text": "Supervisors’ opinion as to closeness of work group"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Fig 2",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees’ interest in the company"
+              },
+              {
+                "label": "B",
+                "text": "Cost increases for the company"
+              },
+              {
+                "label": "C",
+                "text": "Changes in productivity"
+              },
+              {
+                "label": "D",
+                "text": "Employees’ feelings of responsibility towards completion of work"
+              },
+              {
+                "label": "E",
+                "text": "Changes in productivity when supervisor was absent"
+              },
+              {
+                "label": "F",
+                "text": "Employees’ opinion as to extent of personal support from management"
+              },
+              {
+                "label": "G",
+                "text": "Employees feel closer to their supervisors"
+              },
+              {
+                "label": "H",
+                "text": "Employees’ feelings towards increased supervision"
+              },
+              {
+                "label": "I",
+                "text": "Supervisors’ opinion as to closeness of work group"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Fig 3",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees’ interest in the company"
+              },
+              {
+                "label": "B",
+                "text": "Cost increases for the company"
+              },
+              {
+                "label": "C",
+                "text": "Changes in productivity"
+              },
+              {
+                "label": "D",
+                "text": "Employees’ feelings of responsibility towards completion of work"
+              },
+              {
+                "label": "E",
+                "text": "Changes in productivity when supervisor was absent"
+              },
+              {
+                "label": "F",
+                "text": "Employees’ opinion as to extent of personal support from management"
+              },
+              {
+                "label": "G",
+                "text": "Employees feel closer to their supervisors"
+              },
+              {
+                "label": "H",
+                "text": "Employees’ feelings towards increased supervision"
+              },
+              {
+                "label": "I",
+                "text": "Supervisors’ opinion as to closeness of work group"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Fig 4",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees’ interest in the company"
+              },
+              {
+                "label": "B",
+                "text": "Cost increases for the company"
+              },
+              {
+                "label": "C",
+                "text": "Changes in productivity"
+              },
+              {
+                "label": "D",
+                "text": "Employees’ feelings of responsibility towards completion of work"
+              },
+              {
+                "label": "E",
+                "text": "Changes in productivity when supervisor was absent"
+              },
+              {
+                "label": "F",
+                "text": "Employees’ opinion as to extent of personal support from management"
+              },
+              {
+                "label": "G",
+                "text": "Employees feel closer to their supervisors"
+              },
+              {
+                "label": "H",
+                "text": "Employees’ feelings towards increased supervision"
+              },
+              {
+                "label": "I",
+                "text": "Supervisors’ opinion as to closeness of work group"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:47:52.493522"
+}

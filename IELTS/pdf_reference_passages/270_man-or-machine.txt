@@ -1,0 +1,127 @@
+TITLE: Man or Machine
+INDEX: 270
+============================================================
+
+Man or Machine
+
+A
+
+During July 2003, the Museum of Science in Cambridge, Massachusetts exhibited what
+Honda calls ‘the world’s most advanced humanoid robot’, ASIMO (the Advanced Step in
+Innovative Mobility). Honda’s brainchild is on tour in North America and delighting
+audiences wherever it goes. After 17 years in the making, ASIMO stands at four feet tall,
+weighs around 115 pounds and looks like a child in an astronaut’s suit. Though it is difficult
+to see ASIMO’s face at a distance, on closer inspection it has a smile and two large ‘eyes’
+that conceal cameras. The robot cannot work autonomously – its actions are ‘remote-
+controlled’ by scientists through the computer in its backpack. Yet watching AIMIO perform
+at a show in Massachusetts it seemed uncannily human. The audience cheered as ASIMO
+walked forwards and backwards, side to side and up and downstairs. After the show, a
+number of people told me that they would like robots to play more of a role in daily life –
+one even said that the robot would be like ‘another person’.
+
+B
+
+
+While the Japanese have made huge strides in solving some of the engineering problems
+of human kinetics and bipedal movements, for the past 10 years scientists at MIT’s former
+Artificial Intelligence (AI) lab (recently renamed the Computer Science and Artificial
+Intelligence Laboratory, CSAIL) have been making robots that can behave like humans and
+interact with humans. One of MIT’s robots, Kismet, is an anthropomorphic head and has
+two eyes (complete with eyelids), ears, a mouth, and eyebrows. It has several facial
+expressions, including happy, sad, frightened and disgusted. Human interlocutors are able
+to read some of the robot’s facial expressions, and often change their behavior towards the
+machine as a result – for example, playing with it when it appears ‘sad’. Kismet is now in
+MIT’s museum, but the ideas developed here continue to be explored in new robots.
+
+C
+
+Cog (short for Cognition) is another pioneering project from MIT’s former AI lab. Cog has a
+head, eyes, two arms, hands and a torso – and its proportions were originally measured
+from the body of a researcher in the lab. The work on Cog has been used to test theories of
+embodiment and developmental robotics, particularly getting a robot to develop intelligence
+by responding to its environment via sensors, and to learn through these types of
+interactions.
+
+D
+
+MIT is getting furthest down the road to creating human-like and interactive robots. Some
+scientists argue that ASIMO is a great engineering feat but not an intelligent machine –
+because it is unable to interact autonomously with unpredictabilities in its environment in
+meaningful ways, and learn from experience. Robots like Cog and Kismet and new robots
+at MIT’s CSAIL and media lab, however, are beginning to do this.
+
+E
+
+These are exciting developments. Creating a machine that can walk, make gestures and
+learn from its environment is an amazing achievement. And watch this space: these
+achievements are likely rapidly to be improved upon. Humanoid robots could have a
+plethora of uses in society, helping to free people from everyday tasks. In Japan, for
+example, there is an aim to create robots that can do the tasks similar to an average
+human and also act in more sophisticated situations as firefighters, astronauts or medical
+assistants to the elderly in the workplace and in homes – partly in order to counterbalance
+the effects of an ageing population.
+
+F
+Such robots say much about the way in which we view humanity, and they bring out the
+best and worst of us. On one hand, these developments express human creativity – our
+ability to invent, experiment, and to extend our control over the world. On the other hand,
+the aim to create a robot like a human being is spurred on by dehumanized ideas – by the
+sense that human companionship can be substituted by machines; that humans lose their
+humanity when they interact with technology; or that we are a little more than surface and
+ritual behaviors, that can be simulated with metal and electrical circuits.
+
+Questions 1-6
+
+Reading passage 1 has six paragraphs, A-F.
+
+Which paragraph contains the following information?
+
+Write the correct letter, A-F, in boxes 1-6 on your answer sheet.
+
+NB You may use any letter more than once
+
+
+1..................... different ways of using robots
+
+2..................... a robot whose body has the same proportion as that of an adult
+
+3..................... the fact that human can be copied and replaced by robots
+
+
+4..................... a comparison between ASIMO for Honda and other robots
+
+5..................... the pros and cons of creating robots
+
+6..................... a robot that has eyebrows
+
+
+Questions 7-13
+
+Complete the following summary of the paragraphs of Reading Passage 1.
+
+Using NO MORE THAN TWO WORDS from the Reading Passage for each answer.
+
+Write your answers in boxes 7-13 on your answer sheet.
+
+
+In 2003, Massachusetts displayed a robot named ASIMO which was invented by Honda,
+after a period of 7..................... in the making. The operating information is stored in the
+computer in its 8..................... so that scientists can control ASIMO’s movement. While
+Japan is making great progress, MIT is developing robots that are human-like and
+can 9...................... Humans. What is special about Kismet is that it has
+different 10..................... which can be read by human interlocutors. 11..................... is
+another robot from MIT, whose body’s proportion is the same as an adult. By responding to
+the surroundings through 12....................., it could develop its 13.....................##a.
+
+Solution:
+
+1. E 8. backpack
+2. C 9. interact with
+
+3. F 10. facial expressions
+4. D 11. Cognition
+
+5. F 12. sensors
+6. B 13. intelligence
+
+7. 17 years

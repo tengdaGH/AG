@@ -1,0 +1,26 @@
+{
+  "id": "ielts-r-121",
+  "source_file": "121. P2 - Muscle Loss 肌肉流失【高】.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    26
+  ],
+  "difficulty": "high",
+  "title": "Muscle Loss",
+  "title_cn": "肌肉流失",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": false,
+    "paragraphs": [],
+    "raw_text": "READING PASSAGE 2 You should spend about 20 minutes on Questions 14–26, which are based on Reading Passage 2 below. Muscle Loss A For people confined to bed for long periods of time, or for astronauts in microgravity, muscle wasting is a serious problem. Wasting, or atrophy, is a symptom not only of disuse and injury, but of many diseases, including kidney failure, cancer and AIDS. Once enough muscle has been lost, a vicious cycle sets in as exercise becomes increasingly difficult, which in turn leads to disuse and further atrophy.  B Despite more than three decades of research into alternatives, the only way to stop such patients losing muscle is a long course of physiotherapy involving weight-bearing exercise, but this is of little use to the weakest and sickest—and in most cases, starts only after wasting has already set in. The use of anabolic steroids is being explored for some conditions. But these compounds have a huge range of effects on the body besides promoting muscle growth, some of them undesirable, and only appear to work well in conjunction with exercise.  C Alfred Goldberg, a cell biologist at Harvard University, began studying muscle atrophy in the late 1960s. What he and others discovered was that, rather than being a passive side effect of disuse or disease, muscle wasting is an active process controlled by a complex genetic pathway. So, if someone found out how it was turned on, it ought to be possible to turn it off. “Back then we didn’t know the pathway for muscle breakdown,” says Goldberg, “but about five years ago our work showed that no matter what the trigger—disuse, metabolic disease or fasting—the same biochemical programme is responsible.”  D The process involves the ubiquitin-proteasome pathway (UPP), the disposal machinery used to break down unwanted proteins in the cell (New Scientist, 17 December 2005, p. 36). Once the system has been activated, ubiquitin “destroy me” labels are added to muscle proteins. This breaks down the muscle filaments within cells, but does not change the number of muscle cells. Instead, they become thinner and weaker. Further studies showed that at least 90 genes are involved in atrophy; Goldberg calls them “atrogenes.” Although it is still unknown which of these genes triggers atrophy, it soon became clear that two of them are essential to the process. Atrogin1 and muRF1 were first described in 2001 and are the only two atrogenes active only during muscle atrophy. They code for ubiquitin ligases, the enzymes that attach the “destroy me” labels to proteins. The genes are barely active in normal muscle, but expression levels shoot up in sick animals. Knock out either, and muscle wasting all but stops.  \nE An experiment was conducted on a “superboy” who was normal at birth, lacking fat; by the age of five, he was excellent at weightlifting, lifting as much as three kilograms. The scientists found that this is closely related to his mother, who is a professional runner, and that his extended family has unusually strong abilities. But the drug can have a temporary effect.  F There are still many gaps to be filled in, but those in the field agree that the question is no longer if we can develop anti-wasting treatments, but when. As researchers close in on this target, excitement is mounting about exactly what such treatments could achieve. Patients due to be confined to bed for more than a few days could be given the drug as soon as they begin bed rest to prevent muscle loss that would otherwise slow their recovery. Weaning patients off respirators would become easier as doctors could prevent wasting of the diaphragm. Disease need no longer lead to weakness, and broken bones would not mean long and painful physiotherapy sessions to rebuild muscle strength. And since loss of muscle mass is a major reason why we grow frail with age, an anti-wasting drug could keep older people on their feet and living independently for longer.  G The prospect of preventing atrophy is also of great interest to NASA, particularly in view of its much talked-about mission to Mars. By the time astronauts reach the Red Planet, they can expect to lose up to 25 per cent of their muscle mass and be too weak to walk, let alone put on a space suit and carry out repairs. That is why Goldberg’s work is funded by the National Space Biomedical Research Institute in Houston, Texas, set up by NASA.  H While there are valid medical and space applications for anti-wasting drugs, as a safer alternative to steroids they will inevitably be hugely tempting for athletes too, not to mention the lazy as well. Although Goldberg is keen to point out that helping cheats and couch potatoes is not the focus of his work, he admits that it will undoubtedly happen sooner or later.  \n"
+  },
+  "question_groups": [],
+  "metadata": {
+    "parsed_total_questions": 0,
+    "question_types": [],
+    "parsed_at": "2026-02-24T03:41:39.472055",
+    "parser_version": "1.0",
+    "needs_review": true
+  }
+}

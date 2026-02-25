@@ -1,0 +1,360 @@
+{
+  "id": "ielts-r-0586",
+  "slug": "tourism",
+  "title": "Tourism",
+  "page_range": [
+    2961,
+    2966
+  ],
+  "raw_answer_key": {
+    "1": "iii",
+    "8": "NOT GIVEN",
+    "2": "v",
+    "9": "YES",
+    "3": "iv",
+    "10": "NOT GIVEN",
+    "4": "vii",
+    "11": "D",
+    "5": "viii",
+    "12": "B",
+    "6": "NO",
+    "13": "F",
+    "7": "YES",
+    "14": "H"
+  },
+  "content": {
+    "title": "Tourism",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Tourism, holidaymaking and travel are these days more significant social phenomena than most commentators have considered. On the face of it there could not be a more trivial subject for a study, indeed since social scientists have had considerable difficulty explaining weightier topics, such as politics, it might be thought that they would have great difficulties in accounting for more trivial phenomena such as holidaymaking. However, there are interesting parallels with the study of deviance. This involves the investigation of bizarre and idiosyncratic social practices which happen to be defined as deviant in some societies but not necessarily in others. The assumption is that the investigation of deviance can reveal interesting and significant aspects of normal societies. It could be said that a similar analysis can be applied to tourism."
+      },
+      {
+        "label": "B",
+        "content": "Tourism is a leisure activity which presupposes its opposite, namely regulated and organised work. It is a manifestation of how work and leisure are organised as separate and regulated spheres of social practice in modern societies. Indeed acting as a tourist is one of the defining characteristics of being 'modern'. The popular concept of tourism is that it is organised within particular places and occurs for regularised periods of time. Tourist relationships arise from a movement of people to, and their stay in, various destinations. This necessarily involves some movement, that is the journey, and a period of stay in a new place or country. The 'journey and the stay' are by definition outside the normal places of residence and work and are of a different and temporary nature and there is a clear intention to return 'home' within a relatively short period of time."
+      },
+      {
+        "label": "C",
+        "content": "A substantial proportion of the population of modern societies engages in such tourist practices and new forms of provision have developed in order to cope with the mass character of the gazes of tourists as opposed to the individual character of travel. Places are chosen to be visited and be gazed upon because there is an anticipation especially through daydreaming and fantasy of intense pleasures, either on a different scale or involving different senses from those customarily encountered. Such anticipation is constantly sustained through a variety of non-tourist practices such as films, TV literature, magazines records and so on which construct and reinforce this daydreaming."
+      },
+      {
+        "label": "D",
+        "content": "Tourists tend to visit features of landscape and townscape which separate them off from everyday experience. Such aspects are viewed because they are taken to be in some sense out of the ordinary. The viewing of these tourist sights often involves different forms of social patterning with a much greater sensitivity to elements of landscape or townscape than is normally found in everyday life. People linger over these sights in a way that they would not normally do in their home environment and the vision is objectified or captured through photographs postcards films and so on which enable the memory to be endlessly reproduced and recaptured."
+      },
+      {
+        "label": "E",
+        "content": "One of the earliest dissertations on the subject of tourism is Boorstin's analysis of the pseudo event, where he argues that contemporary Americans cannot experience reality directly but thrive on pseudo-experiences. Isolated from the host environment and the local people the mass tourist travels in guided groups, taking pleasure in inauthentic contrived attractions gullibly enjoying the pseudo events and disregarding the real world outside. Over time the images generated of different tourist sights come to constitute a closed self-perpetuating system of illusions which provide the tourist with the basis for selecting and evaluating places to visit. Such visits are made, says Boorstin, within the environmental bubble of the familiar international-style hotel which insulates the tourist from the strangeness of the host environment."
+      },
+      {
+        "label": "F",
+        "content": "To service the burgeoning tourist industry, an array of professionals has developed who attempt to produce ever-new objects for the tourist to look at. These objects or places are located in a complex and ever-changing hierarchy. This depends upon the interplay between, on the one hand, competition between interests in the provision of such objects and, on the other hand, changing class, gender, and generational patterns of taste within the potential population of visitors. It has been said that to be a tourist is one of the defining characteristics of the modern experience. Not to go away is like not possessing a car or a nice house; it is a marker of status in modern societies and is also thought to be necessary for good health. The role of the professional, therefore, is to cater for the needs and tastes of the tourists in accordance with their overall expectations."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-ix) in boxes 1-5 on your answer sheet. Paragraph D has been done for you as an example. NB There are more headings than paragraphs so you will not use all of them. You may use any heading more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "iii",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "v",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "iv",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "vii",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paragraph F",
+            "answer": "viii",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage? In boxes 6-10 write YES if the statement agrees with the writer, NO if the statement contradicts the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Tourism is a trivial subject.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "An analysis of deviance can act as a model for the analysis of tourism.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Tourists usually choose to travel overseas.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Tourists focus more on places they visit than those at home.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Tour operators try to cheat tourists.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Chose one phrase (A-H) from the list of phrases to complete each key point below. Write the appropriate letters (A-H) in boxes 11-14 on your answer sheet. The information in the completed sentences should be an accurate summary of points made by the writer. NB There are more phrases A-H than sentences so you will not use them all. You may use any phrase more than once.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Our concept of tourism arises from",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "local people and their environment."
+              },
+              {
+                "label": "B",
+                "text": "the expectations of tourists."
+              },
+              {
+                "label": "C",
+                "text": "the phenomena of holiday making."
+              },
+              {
+                "label": "D",
+                "text": "the distinction we make between work and leisure."
+              },
+              {
+                "label": "E",
+                "text": "the individual character of travel."
+              },
+              {
+                "label": "F",
+                "text": "places seen in everyday life."
+              },
+              {
+                "label": "G",
+                "text": "photographs which recapture our holidays."
+              },
+              {
+                "label": "H",
+                "text": "sights designed specially for tourists."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The media can be used to enhance",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "local people and their environment."
+              },
+              {
+                "label": "B",
+                "text": "the expectations of tourists."
+              },
+              {
+                "label": "C",
+                "text": "the phenomena of holiday making."
+              },
+              {
+                "label": "D",
+                "text": "the distinction we make between work and leisure."
+              },
+              {
+                "label": "E",
+                "text": "the individual character of travel."
+              },
+              {
+                "label": "F",
+                "text": "places seen in everyday life."
+              },
+              {
+                "label": "G",
+                "text": "photographs which recapture our holidays."
+              },
+              {
+                "label": "H",
+                "text": "sights designed specially for tourists."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "People view tourist landscapes in a different way from",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "local people and their environment."
+              },
+              {
+                "label": "B",
+                "text": "the expectations of tourists."
+              },
+              {
+                "label": "C",
+                "text": "the phenomena of holiday making."
+              },
+              {
+                "label": "D",
+                "text": "the distinction we make between work and leisure."
+              },
+              {
+                "label": "E",
+                "text": "the individual character of travel."
+              },
+              {
+                "label": "F",
+                "text": "places seen in everyday life."
+              },
+              {
+                "label": "G",
+                "text": "photographs which recapture our holidays."
+              },
+              {
+                "label": "H",
+                "text": "sights designed specially for tourists."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Group tours encourage participants to look at",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "local people and their environment."
+              },
+              {
+                "label": "B",
+                "text": "the expectations of tourists."
+              },
+              {
+                "label": "C",
+                "text": "the phenomena of holiday making."
+              },
+              {
+                "label": "D",
+                "text": "the distinction we make between work and leisure."
+              },
+              {
+                "label": "E",
+                "text": "the individual character of travel."
+              },
+              {
+                "label": "F",
+                "text": "places seen in everyday life."
+              },
+              {
+                "label": "G",
+                "text": "photographs which recapture our holidays."
+              },
+              {
+                "label": "H",
+                "text": "sights designed specially for tourists."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:04:42.442123"
+}

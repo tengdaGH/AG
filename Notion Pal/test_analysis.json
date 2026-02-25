@@ -1,0 +1,173 @@
+{
+    "student_name": "小楷",
+    "highlights": "小楷今天在overview段落写作上表现出色，成功抓住了柱状图的两个主趋势（美国最高、中国增长最多），说明审题能力有明显进步。",
+    "class_content_summary": "雅思小作文柱状图训练：opening paragraph改写升级、overview写作、body paragraph分组原则（对比分组法）、词汇升级替换",
+    "performance": "🥈Good",
+    "materials": [
+        {
+            "name": "雅思小作文柱状图题目",
+            "description": "五个国家2015年和2020年旅游收入对比柱状图"
+        }
+    ],
+    "student_output": [
+        {
+            "exercise_name": "Opening paragraph 写作",
+            "student_answer": "第一稿：The bar chart shows the tourism revenue of five countries in 2015 and 2020.\n修改稿：The given bar chart illustrates the income generated from tourism in five countries in 2015 and 2020.",
+            "other_students": null
+        },
+        {
+            "exercise_name": "Overview 写作",
+            "student_answer": "Overall, the United States had the highest tourism income in both years, while China shows the most significant increase.\n（注意：shows应改为showed）",
+            "other_students": null
+        },
+        {
+            "exercise_name": "Body paragraph 分组讨论",
+            "student_answer": "小楷提出：美国和法国一组（因为都很高）\n老师纠正：应按趋势方向分组，而非数值高低",
+            "other_students": null
+        }
+    ],
+    "teacher_demo": [
+        {
+            "template_name": "Opening Paragraph 升级模板",
+            "full_text": "The given bar chart illustrates the income generated from tourism in five countries in 2015 and 2020.",
+            "vocabulary_upgrades": [
+                {
+                    "basic": "shows",
+                    "advanced": "illustrates",
+                    "level": "B1→B2"
+                },
+                {
+                    "basic": "tourism revenue",
+                    "advanced": "income generated from tourism",
+                    "level": "B1→B2"
+                },
+                {
+                    "basic": "the bar chart",
+                    "advanced": "the given bar chart",
+                    "level": "学术写作规范"
+                }
+            ]
+        },
+        {
+            "template_name": "Overview 升级表达",
+            "full_text": "Overall, the United States had the highest tourism income in both years, while China witnessed the most remarkable surge.",
+            "vocabulary_upgrades": [
+                {
+                    "basic": "increase",
+                    "advanced": "surge",
+                    "level": "B2→C1"
+                },
+                {
+                    "basic": "the most significant increase",
+                    "advanced": "witnessed the most remarkable surge",
+                    "level": "B2→C1"
+                }
+            ]
+        }
+    ],
+    "error_corrections": [
+        {
+            "original": "while China shows the most significant increase",
+            "error_type": "动词时态",
+            "correction": "while China showed the most significant increase",
+            "rule": "描述过去的数据必须用过去式",
+            "similar_examples": "The chart shows → showed, indicates → indicated",
+            "memory_tip": "看到年份（2015, 2020），立刻切换过去式"
+        }
+    ],
+    "final_essay": null,
+    "homework": [
+        "把今天这篇柱状图小作文重新写一遍完整版",
+        "把替换词表里的词造三个句子",
+        "预习下节课的饼图模板"
+    ],
+    "teacher_quotes": [
+        "记住这个替换：increase → surge，这是一个B2到C1的升级，考官看到会加分的。",
+        "永远记住，分组不是看谁大谁小，是看谁跟谁走势像",
+        "写作这个东西，不是你会多少词，而是你能不能在20分钟内把对的词用在对的地方。量不重要，准确度才重要。",
+        "你今天overview写得很好，说明你已经学会找主趋势了，这是一个很大的进步。",
+        "overview一定要写两个主要趋势，不要写数字。"
+    ],
+    "mindset_analysis": {
+        "engagement": "课堂参与度高，能主动尝试写作并积极回应老师的提问",
+        "confidence": "对overview段落的把握较好，但在body paragraph分组逻辑上还不够自信",
+        "patterns": "倾向于按表面特征（数值大小）分类，需要训练按深层逻辑（趋势方向）分组",
+        "emotional_state": "学习态度积极，能接受纠正并快速改进"
+    },
+    "supplementary_vocab": [
+        {
+            "word": "illustrate",
+            "meaning": "说明、展示（比show更正式）",
+            "example": "The chart illustrates the trend."
+        },
+        {
+            "word": "witness",
+            "meaning": "经历、见证（常用于描述数据变化）",
+            "example": "China witnessed a remarkable surge."
+        },
+        {
+            "word": "surge",
+            "meaning": "急剧增长（比increase更生动）",
+            "example": "There was a surge in tourism revenue."
+        },
+        {
+            "word": "income generated from",
+            "meaning": "由...产生的收入",
+            "example": "The income generated from exports increased."
+        },
+        {
+            "word": "the given",
+            "meaning": "所给的（学术写作中修饰图表的规范表达）",
+            "example": "The given bar chart illustrates..."
+        }
+    ],
+    "additional_content": [],
+    "method_summary": [
+        {
+            "name": "Opening Paragraph 改写法",
+            "when_to_use": "写小作文第一段时",
+            "how_to": "1) 用 the given 修饰图表类型 2) 用 illustrates/depicts 替换 shows 3) 改写题目中的名词短语",
+            "example": "shows tourism revenue → illustrates the income generated from tourism",
+            "caution": "不要添加题目中没有的信息"
+        },
+        {
+            "name": "Overview 双趋势法",
+            "when_to_use": "写overview段落时",
+            "how_to": "找出两个最明显的趋势（如最高者和最大变化者），用 while/whereas 连接",
+            "example": "...had the highest... while ... witnessed the most remarkable surge",
+            "caution": "不写具体数字，只写趋势方向"
+        },
+        {
+            "name": "对比分组法",
+            "when_to_use": "写body paragraph需要分组描述数据时",
+            "how_to": "按趋势方向（增长/下降/持平）分组，不按数值大小分组",
+            "example": "增长组：美国、法国、英国 | 对比组：中国（大幅增长）和日本（略降）",
+            "caution": "分组依据是走势相似度，不是数值高低"
+        }
+    ],
+    "teaching_quality": {
+        "highlights": "1. 采用渐进式教学：先让学生自己写，再逐步引导升级，有效培养学生独立思考能力\n2. 词汇升级讲解清晰，配合CEFR等级标注（B2→C1），让学生理解每个替换的价值\n3. 用生活化的比喻解释分组原则（\"看谁跟谁走势像\"），降低了抽象概念的理解难度\n4. 课堂节奏把控好，既有知识输入也有即时练习",
+        "improvements": "1. Body paragraph部分只讲了分组原则，没有让学生实际动手写，建议增加课上完整段落练习\n2. 纠错只发现一处时态错误，可以更深入检查学生的介词、冠词使用",
+        "language_errors": [],
+        "scores": {
+            "内容覆盖度": "B+",
+            "学生参与度": "A",
+            "纠错有效性": "B",
+            "时间管理": "A-"
+        }
+    },
+    "student_tracking": {
+        "skills_progress": "小楷在overview写作上已掌握双趋势提取法，但body paragraph分组逻辑仍需加强——倾向按表面数值分类而非按趋势方向。词汇积累从B1向B2过渡中。",
+        "exam_plans": null,
+        "mental_state": "学习态度积极，能接受纠正并快速迭代。情绪稳定，课堂参与度高。",
+        "positive_notes": [
+            "Overview段落写作进步明显，能正确抓住柱状图的两个主趋势",
+            "Opening paragraph改写能力提升，能快速吸收并应用词汇升级建议",
+            "课堂参与度高，主动尝试回答问题和写作练习"
+        ],
+        "negative_notes": [
+            "Body paragraph分组逻辑欠缺：倾向按数值大小而非趋势方向分组，需要更多对比分组练习",
+            "时态敏感度不足：描述过去数据时容易使用一般现在时"
+        ]
+    }
+}

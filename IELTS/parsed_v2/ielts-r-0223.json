@@ -1,0 +1,250 @@
+{
+  "id": "ielts-r-0223",
+  "slug": "in-praise-of-amateurs",
+  "title": "In Praise of Amateurs",
+  "page_range": [
+    1128,
+    1133
+  ],
+  "raw_answer_key": {
+    "8": "1. scientists acknowledge",
+    "2": "science",
+    "9": "B",
+    "3": "fields",
+    "10": "A",
+    "4": "co-",
+    "11": "D operation/collaboration",
+    "5": "observations",
+    "12": "B",
+    "6": "dinosaurs",
+    "13": "C",
+    "7": "conservation programme"
+  },
+  "content": {
+    "title": "In Praise of Amateurs",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Despite the specialization of scientific research, amateurs still have an important role to play. During the scientific revolution of the 17th century, scientists were largely men of private means who pursued their interest in natural philosophy for their own edification. Only in the past century or two has it become possible to make a living from investigating the workings of nature. Modern science was, in other words, built on the work of amateurs. Today, science is an increasingly specialized and compartmentalized subject, the domain of experts who know more and more about less and less. Perhaps surprisingly, however, amateurs – even those without private means – are still important."
+      },
+      {
+        "label": "B",
+        "content": "A recent poll carried out at a meeting of the American Association for the Advancement of Science by astronomer Dr Richard Fienberg found that, in addition to his field of astronomy, amateurs are actively involved in such fields as acoustics, horticulture, ornithology, meteorology, hydrology and palaeontology. Far from being crackpots, amateur scientists are often in close touch with professionals, some of whom rely heavily on their co-operation."
+      },
+      {
+        "label": "C",
+        "content": "Admittedly, some fields are more open to amateurs than others. Anything that requires expensive equipment is clearly a no-go area. And some kinds of research can be dangerous; most amateur chemists, jokes Dr Fienberg, are either locked up or have blown themselves to bits. But amateurs can make valuable contributions in fields from rocketry to palaeontology and the rise of the Internet has made it easier than before to collect data and distribute results."
+      },
+      {
+        "label": "D",
+        "content": "Exactly which field of study has benefited most from the contributions of amateurs is a matter of some dispute. Dr Fienberg makes a strong case for astronomy. There is, he points out, a long tradition of collaboration between amateur and professional sky watchers. Numerous comets, asteroids and even the planet Uranus were discovered by amateurs. Today, in addition to comet and asteroid spotting, amateurs continue to do valuable work observing the brightness of variable stars and detecting novae- ‘new’ stars in the Milky Way and supernovae in other galaxies. Amateur observers are helpful, says Dr Fienberg, because there are so many of them (they far outnumber professionals) and because they are distributed all over the world. This makes special kinds of observations possible: if several observers around the world accurately record the time when a star is eclipsed by an asteroid, for example, it is possible to derive useful information about the asteroid’s shape."
+      },
+      {
+        "label": "E",
+        "content": "Another field in which amateurs have traditionally played an important role is palaeontology. Adrian Hunt, a palaeontologist at Mesa Technical College in New Mexico, insists that his is the field in which amateurs have made the biggest contribution. Despite the development of high-tech equipment, he says, the best sensors for finding fossils are human eyes – lots of them."
+      },
+      {
+        "label": "F",
+        "content": "Finding volunteers to look for fossils is not difficult, he says, because of the near universal interest in anything to do with dinosaurs. As well as helping with this research, volunteers learn about science, a process he calls ‘recreational education’."
+      },
+      {
+        "label": "G",
+        "content": "Rick Bonney of the Cornell Laboratory of Ornithology in Ithaca, New York, contends that amateurs have contributed the most in his field. There are, he notes, thought to be as many as 60 million birdwatchers in America alone. Given their huge numbers and the wide geographical coverage they provide, Mr Bonney has enlisted thousands of amateurs in a number of research projects. Over the past few years their observations have uncovered previously unknown trends and cycles in bird migrations and revealed declines in the breeding populations of several species of migratory birds, prompting a habitat conservation programme."
+      },
+      {
+        "label": "H",
+        "content": "Despite the successes and whatever the field of study, collaboration between amateurs and professionals is not without its difficulties. Not everyone, for example is happy with the term ‘amateur’. Mr Bonney has coined the term ‘citizen scientist’ because he felt that other words, such as ‘volunteer’ sounded disparaging. A more serious problem is the question of how professionals can best acknowledge the contributions made by amateurs. Dr Fienberg says that some amateur astronomers are happy to provide their observations but grumble about not being reimbursed for out-of-pocket expenses. Others feel let down when their observations are used in scientific papers, but they are not listed as co-authors. Dr Hunt says some amateur palaeontologists are disappointed when told that they cannot take finds home with them."
+      },
+      {
+        "label": "I",
+        "content": "These are legitimate concerns but none seems insurmountable. Provided amateurs and professionals agree the terms on which they will work together beforehand, there is no reason why co-operation between the two groups should not flourish. Last year Dr S. Carlson, founder of the Society for Amateur Scientists won an award worth $290,000 for his work in promoting such co-operation. He says that one of the main benefits of the prize is the endorsement it has given to the contributions of amateur scientists, which has done much to silence critics among those professionals who believe science should remain their exclusive preserve."
+      },
+      {
+        "label": "J",
+        "content": "At the moment, says Dr Carlson, the society is involved in several schemes including an innovative rocket-design project and the setting up of a network of observers who will search for evidence of a link between low-frequency radiation and earthquakes. The amateurs, he says, provide enthusiasm and talent, while the professionals provide guidance ‘so that anything they do discover will be taken seriously’. Having laid the foundations of science, amateurs will have much to contribute to its ever-expanding edifice."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose ONE or TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Prior to the 19th century, professional 1..................... did not exist and scientific research was largely carried out by amateurs.",
+            "answer": "scientists",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "However, while 2..................... today is mostly the domain of professionals, a recent US survey highlighted the fact that amateurs play an important role in at least seven 3.....................",
+            "answer": "science",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "However, while science today is mostly the domain of professionals, a recent US survey highlighted the fact that amateurs play an important role in at least seven 3.....................",
+            "answer": "fields",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Indeed many professionals are reliant on their 4......................",
+            "answer": "co-operation/collaboration",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "In areas such as astronomy, amateurs can be invaluable when making specific 5..................... on a global basis.",
+            "answer": "observations",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Similarly in the area of palaeontology their involvement is invaluable and helpers are easy to recruit because of the popularity of 6......................",
+            "answer": "dinosaurs",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Amateur birdwatchers also play an active role and their work has led to the establishment of a 7......................",
+            "answer": "conservation programme",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Occasionally the term 'amateur' has been the source of disagreement and alternative names have been suggested but generally speaking, as long as the professional scientists 8..................... the work of the non-professionals, the two groups can work productively together.",
+            "answer": "acknowledge",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each opinion (Questions 9-13) with the scientists A-D.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Amateur involvement can also be an instructive pastime.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Dr Fienberg"
+              },
+              {
+                "label": "B",
+                "text": "Adrian Hunt"
+              },
+              {
+                "label": "C",
+                "text": "Rick Bonney"
+              },
+              {
+                "label": "D",
+                "text": "Dr Carlson"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Amateur scientists are prone to accidents.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Dr Fienberg"
+              },
+              {
+                "label": "B",
+                "text": "Adrian Hunt"
+              },
+              {
+                "label": "C",
+                "text": "Rick Bonney"
+              },
+              {
+                "label": "D",
+                "text": "Dr Carlson"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Science does not belong to professional scientists alone.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Dr Fienberg"
+              },
+              {
+                "label": "B",
+                "text": "Adrian Hunt"
+              },
+              {
+                "label": "C",
+                "text": "Rick Bonney"
+              },
+              {
+                "label": "D",
+                "text": "Dr Carlson"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "In certain areas of my work, people are a more valuable resource than technology.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Dr Fienberg"
+              },
+              {
+                "label": "B",
+                "text": "Adrian Hunt"
+              },
+              {
+                "label": "C",
+                "text": "Rick Bonney"
+              },
+              {
+                "label": "D",
+                "text": "Dr Carlson"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "It is important to give amateurs a name which reflects the value of their work.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Dr Fienberg"
+              },
+              {
+                "label": "B",
+                "text": "Adrian Hunt"
+              },
+              {
+                "label": "C",
+                "text": "Rick Bonney"
+              },
+              {
+                "label": "D",
+                "text": "Dr Carlson"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:27:15.528748"
+}

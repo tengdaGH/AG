@@ -1,0 +1,176 @@
+{
+  "id": "ielts-r-112",
+  "source_file": "112. P2 - The Importance of Law 法律的意义【高】.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    25
+  ],
+  "difficulty": "high",
+  "title": "The Importance of Law",
+  "title_cn": "法律的意义",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "The law influences all of us virtually all the time. It governs almost all aspects of our behaviour, and even what happens to us when we are no longer alive. It affects us from the embryo onwards. It governs the air we breathe, the food and drink we consume, our travel, family relationships, and our property. It applies at the bottom of the ocean and in space. Each time we examine a label on a food product, engage in work as an employee or employer, travel on the roads, go to school to learn or to teach, stay in a hotel, borrow a library book, create or dissolve a commercial company, play sports, or engage the services of someone for anything from plumbing a sink to planning a city, we are in the world of law."
+      },
+      {
+        "label": "B",
+        "text": "Law has also become much more widely recognised as the standard by which behaviour needs to be judged. A very telling development in recent history is the way in which the idea of law has permeated all parts of social life. The universal standard of whether something is socially tolerated is progressively becoming whether it is legal, rather than something that has always been considered acceptable. In earlier times, most people were illiterate. Today, by contrast, a vast number of people can read, and it is becoming easier for people to take an interest in law, and for the general population to help actually shape the law in many countries. However, law is a versatile instrument that can be used equally well for the improvement or the degradation of humanity."
+      },
+      {
+        "label": "C",
+        "text": "This, of course, puts law in a very significant position. In our rapidly developing world, all sorts of skills and knowledge are valuable. Those people, for example, with knowledge of computers, the internet, and communications technology are relied upon by the rest of us. There is now someone with IT skills or an IT help desk in every UK school, every company, every hospital, every local and central government office. Without their knowledge, many parts of commercial and social life today would seize up in minutes. But legal understanding is just as vital and as universally needed. The American comedian Jerry Seinfeld put it like this, ‘We are all throwing the dice, playing the game, moving our pieces around the board, but if there is a problem, the lawyer is the only person who has read the inside of the top of the box.’ In other words, the lawyer is the only person who has read and made sense of the rules."
+      },
+      {
+        "label": "D",
+        "text": "The number of laws has never been greater. In the UK alone, about 35 new Acts of Parliament are produced every year, thereby delivering thousands of new rules. The legislative output of the British Parliament has more than doubled in recent times from 1,100 pages a year in the early 1970s, to over 2,500 pages a year today. Between 1997 and 2006, the legislature passed 365 Acts of Parliament and more than 32,000 legally binding statutory instruments. In a system with so much law, lawyers do a great deal not just to vindicate the rights of citizens and organisations but also to help develop the law through legal arguments, some of which are adapted by judges to become laws. Law courts can and do produce new law and revise old law, but they do so having heard the arguments of lawyers."
+      },
+      {
+        "label": "E",
+        "text": "However, despite their important role in developing the rules, lawyers are not universally admired. Anti-lawyer jokes have a long history going back to the ancient Greeks. More recently, the son of a famous Hollywood actor was asked at his junior school what his father did for a living, to which he replied, ‘My daddy is a movie actor, and sometimes he plays the good guy, and sometimes, he plays the lawyer.’ For balance, though, it is worth remembering that there are and have been many heroic and revered lawyers such as the Roman philosopher and politician Cicero, and Mahatma Gandhi, the Indian campaigner for Independence."
+      },
+      {
+        "label": "F",
+        "text": "People sometimes make comments that characterise lawyers as professionals whose concerns put personal reward above truth, or who gain financially from misfortune. There are undoubtedly lawyers that would fit that bill, just as there are some scientists, journalists and others in that category. But, in general, it is no more just to say that lawyers are bad because they make a living from people’s problems than it is to make the same accusation in respect of nurses or IT consultants. A great many lawyers are involved in public law work, such as that involving civil liberties, housing and other issues. Such work is not lavishly remunerated and the quality of the service provided by these lawyers relies on considerable professional dedication. Moreover, much legal work has nothing to do with conflict or misfortune, but is primarily concerned with drafting documents. Another source of social disaffection for lawyers, and disaffection for the law, is a limited public understanding of how law works and how it could be changed. Greater clarity about these issues, maybe as a result of better public relations, would reduce many aspects of public dissatisfaction with the law."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "HEADING_MATCHING",
+      "range": [
+        14,
+        19
+      ],
+      "instructions": "Reading Passage 2 has six paragraphs, A–F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i-viii, in boxes 14-19 on your answer sheet.\nList of headings\ni Different areas of professional expertise\nii Reasons why it is unfair to criticise lawyers\niii The disadvantages of the legal system\niv The law applies throughout our lives\nv The law has affected historical events\nvi A negative regard for lawyers\nvii The public’s increasing ability to influence the law\nviii Growth in laws",
+      "questions": [
+        {
+          "number": 14,
+          "text": "Paragraph A",
+          "options": null,
+          "answer": "iv",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 15,
+          "text": "Paragraph B",
+          "options": null,
+          "answer": "vii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 16,
+          "text": "Paragraph C",
+          "options": null,
+          "answer": "i",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 17,
+          "text": "Paragraph D",
+          "options": null,
+          "answer": "viii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 18,
+          "text": "Paragraph E",
+          "options": null,
+          "answer": "vi",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 19,
+          "text": "Paragraph F",
+          "options": null,
+          "answer": "ii",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "MCQ_MULTI",
+      "range": [
+        20,
+        21
+      ],
+      "instructions": "Choose TWO letters, A–E. Write the correct letters in boxes 20–21 on your answer sheet.\nWhich TWO of the following statements does the writer make about legal skills in today’s world?",
+      "questions": [
+        {
+          "number": 20,
+          "text": "Which TWO of the following statements does the writer make about legal skills in today’s world?",
+          "options": [
+            "A There should be a person with legal training in every hospital.",
+            "B Lawyers with experience in commercial law are the most in demand.",
+            "C Knowledge of the law is as important as having computer skills.",
+            "D Society could not function effectively without legal experts.",
+            "E Schools should teach students about the law."
+          ],
+          "answer": "C, D",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SUMMARY_COMPLETION",
+      "range": [
+        22,
+        26
+      ],
+      "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 22–26 on your answer sheet.",
+      "questions": [
+        {
+          "number": 22,
+          "text": "Lawyers as professionals People sometimes say that ________ is of little interest to lawyers, who are more concerned with making money.",
+          "options": null,
+          "answer": "truth",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 23,
+          "text": "This may well be the case with some individuals, in the same way that some ________ or scientific experts may also be driven purely by financial greed.",
+          "options": null,
+          "answer": "journalists",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 24,
+          "text": "However, criticising lawyers because their work is concerned with people’s problems would be similar to attacking IT staff or ________ for the same reason.",
+          "options": null,
+          "answer": "nurses",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 25,
+          "text": "In fact, many lawyers focus on questions relating, for example, to housing or civil liberties, which requires them to have ________ to their work.",
+          "options": null,
+          "answer": "dedication",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 26,
+          "text": "What’s more, a lot of lawyers’ time is spent writing ________ rather than dealing with people’s misfortunes.",
+          "options": null,
+          "answer": "documents",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 12,
+    "question_types": [
+      "HEADING_MATCHING",
+      "MCQ_MULTI",
+      "SUMMARY_COMPLETION"
+    ],
+    "parsed_at": "2026-02-24T03:41:39.053541",
+    "parser_version": "1.0",
+    "needs_review": true,
+    "llm_structured_at": "2026-02-24T12:05:00+0800"
+  }
+}

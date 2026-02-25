@@ -1,0 +1,185 @@
+TITLE: Numeracy: can animals tell numbers? (Can animals
+INDEX: 312
+============================================================
+
+Numeracy: can animals tell numbers? (Can animals
+count?)
+
+A
+Prime among basic numerical faculties is the ability to distinguish between a larger and a
+smaller, says psychologist Elizabeth Brannon. Humans can do this with ease – providing
+the ratio is big enough – but do other animals share this ability? In one experiment, rhesus
+monkeys and university students examined two sets of geometrical objects that appeared
+briefly on a computer monitor. They had to decide which set contained more objects. Both
+groups performed successfully but, importantly, Brannon’s team found that monkeys, like
+humans, make more errors when two sets of objects are close in number. The students’
+performance ends up looking just like a monkey’s. It’s practically identical, she says.
+
+B
+
+Humans and monkeys are mammals, in the animal family known as primates. These are
+not the only animals whose numerical capacities rely on ratio, however. The same seems
+to apply to some amphibians. Psychologist Claudia Uller’s team tempted salamanders with
+two sets of fruit flies held in clear tubes. In a series of trials, the researchers noted which
+tube the salamanders scampered towards, reasoning that if they had a capacity to
+recognise the number, they would head for the larger number. The salamanders
+successfully discriminated between tubes containing 8 and 16 flies respectively, but not
+between 3 and 4, 4 and 6, or 8 and 12. So it seems that for the salamanders to
+discriminate between two numbers, the larger must be at least twice as big as the smaller.
+However, they could differentiate between 2 and 3 flies just as well as between 1 and 2
+flies, suggesting they recognise small numbers in a different way from larger numbers.
+
+C
+
+Further support for this theory comes from studies of mosquitofish, which instinctively join
+the biggest shoal they can. A team at the University of Padova found that while
+mosquitofish can tell the difference between a group containing 3 shoal-mates and a group
+containing 4, they did not show a preference between groups of 4 and 5. The team also
+found that mosquitofish can discriminate between numbers up to 16, but only if the ratio
+between the fish in each shoal was greater than 2:1. This indicates that the fish, like
+salamanders, possess both the approximate and precise number systems found in more
+intelligent animals such as infant humans and other primates.
+D
+
+While these findings are highly suggestive, some critics argue that the animals might be
+relying on other factors to complete the tasks, without considering the number itself. ‘Any
+study that’s claiming an animal is capable of representing number should also be
+controlling for other factors,’ says Brannon. Experiments have confirmed that primates can
+indeed perform numerical feats without extra clues, but what about the more primitive
+animals?
+
+E
+To consider this possibility, the mosquitofish tests were repeated, this time using varying
+geometrical shapes in place of fish. The team arranged these shapes so that they had the
+same overall surface area and luminance even though they contained a different number of
+objects. Across hundreds of trials on 14 different fish, the team found they consistently
+discriminated 2 objects from 3. The team is now testing whether mosquitofish can also
+distinguish 3 geometric objects from 4.
+F
+
+Even more primitive organisms may share this ability. Entomologist Jurgen Tautz sent a
+group of bees down a corridor, at the end of which lay two chambers – one which
+contained sugar water, which they like, while the other was empty. To test the bees’
+numeracy, the team marked each chamber with a different number of geometrical shapes –
+between 2 and 6. The bees quickly learned to match the number of shapes with the correct
+chamber. Like the salamanders and fish, there was a limit to the bees’ mathematical
+prowess – they could differentiate up to 4 shapes, but failed with 5 or 6 shapes.
+
+G
+
+These studies still do not show whether animals learn to count through training, or whether
+they are born with the skills already intact. If the latter is true, it would suggest there was a
+strong evolutionary advantage to a mathematical mind. Proof that this may be the case has
+emerged from an experiment testing the mathematical ability of three – and four-day-old
+chicks. Like mosquitofish, chicks prefer to be around as many of their siblings as possible,
+so they will always head towards a larger number of their kin. If chicks spend their first few
+days surrounded by certain objects, they become attached to these objects as if they were
+family. Researchers placed each chick in the middle of a platform and showed it two
+groups of balls of paper. Next, they hid the two piles behind screens, changed the
+quantities and revealed them to the chick. This forced the chick to perform simple
+computations to decide which side now contained the biggest number of its “brothers”.
+Without any prior coaching, the chicks scuttled to the larger quantity at a rate well above
+chance. They were doing some very simple arithmetic, claim the researchers.
+
+H
+
+Why these skills evolved is not hard to imagine, since it would help almost any animal
+forage for food. Animals on the prowl for sustenance must constantly decide which tree has
+the most fruit, or which patch of flowers will contain the most nectar. There are also other,
+less obvious, advantages of numeracy. In one compelling example, researchers in America
+found that female coots appear to calculate how many eggs they have laid – and add any
+in the nest laid by an intruder – before making any decisions about adding to them. Exactly
+how ancient these skills are is difficult to determine, however. Only by studying the
+numerical abilities of more and more creatures using standardised procedures can we
+hope to understand the basic preconditions for the evolution of number.
+
+Questions 1-7
+
+Answer the table below.
+
+Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for
+each answer.
+
+Write your answers in boxes 1-7 on your answer sheet
+Animal numeracy
+
+Subjects Experiments Results
+
+Mammals and birds
+looked at two sets of Performance of the two
+rhesus monkeys and
+geometrical objects on groups is
+humans
+a computer screen almost 1.....................
+chose between two
+chicks can do
+sets
+chicks calculations in order to
+of 2..................... which
+choose a larger group
+are altered
+behaviour of female A bird seems to have
+coots
+birds was observed ability to 3.....................
+Amphibians, fish and insects
+salamanders
+offered clear tubes
+distinguish between
+containing different
+salamanders numbers over four if
+quantities
+the bigger number is at
+of 4.....................
+least two times larger
+shown real shoals and
+later artificial ones of subjects know the
+geometrical shapes; difference between two
+5..................... these are used to checkand three and possibly
+the influence of three and four, but not
+total 6..................... and between four and five
+brightness
+Had to learn
+could soon choose the
+bees where 7..................... w
+correct place
+as stored
+
+Questions 8-13
+Do the following statements agree with the information given in Reading Passage?
+In boxes 8-13 on your answer sheet, write
+YES if the statement is true
+NO if the statement is false
+NOT GIVEN if the information is not given in the passage
+
+
+8..................... Primates are better at identifying the larger of two numbers if one is much
+bigger than the other.
+
+9..................... Jurgen Tautz trained the insects in his experiment to recognise the shapes
+of individual numbers.
+
+10..................... The research involving young chicks took place over two separate days.
+
+11..................... The experiment with chicks suggests that some numerical ability exists in
+newborn animals.
+
+12..................... Researchers have experimented by altering quantities of nectar or fruit
+available to certain wild animals.
+
+13..................... When assessing the number of eggs in their nest, coots take into account
+those of other birds.
+
+Solution:
+
+1. identical 8. TRUE
+2. balls of paper 9. FALSE
+
+10. NOT
+3. calculate eggs
+GIVEN
+4. fruits flies 11. TRUE
+12. NOT
+5. mosquitofish
+GIVEN
+6. surface area 13. TRUE
+7. sugar water

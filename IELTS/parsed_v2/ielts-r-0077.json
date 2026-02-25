@@ -1,0 +1,305 @@
+{
+  "id": "ielts-r-0077",
+  "slug": "bring-back-the-big-cats",
+  "title": "Bring back the big cats",
+  "page_range": [
+    391,
+    395
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "F",
+    "2": "A",
+    "9": "A",
+    "3": "C",
+    "10": "NO",
+    "4": "A",
+    "11": "NOT GIVEN",
+    "5": "C",
+    "12": "YES",
+    "6": "E",
+    "13": "YES",
+    "7": "D"
+  },
+  "content": {
+    "title": "Bring back the big cats",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "1",
+        "content": "There is a poem, written around 598 AD, which describes hunting a mystery animal called a llewyn. But what was it? Nothing seemed to fit, until 2006, when an animal bone, dating from around the same period, was found in the Kinsey Cave in northern England. Until this discovery, the lynx - a large spotted cat with tasselled ears - was presumed to have died out in Britain at least 6,000 years ago, before the inhabitants of these islands took up farming. But the 2006 find, together with three others in Yorkshire and Scotland, is compelling evidence that the lynx and the mysterious llewyn were in fact one and the same animal. If this is so, it would bring forward the tassel-eared cat's estimated extinction date by roughly 5,000 years."
+      },
+      {
+        "label": "2",
+        "content": "However, this is not quite the last glimpse of the animal in British culture. A 9th-century stone cross from the Isle of Eigg shows, alongside the deer, boar and aurochs pursued by a mounted hunter, a speckled cat with tasselled ears. Were it not for the animal's backside having worn away with time, we could have been certain, as the lynx's stubby tail is unmistakable. But even without this key feature, it's hard to see what else the creature could have been. The lynx is now becoming the totemic animal of a movement that is transforming British environmentalism: rewilding."
+      },
+      {
+        "label": "3",
+        "content": "Rewilding means the mass restoration of damaged ecosystems. It involves letting trees return to places that have been denuded, allowing parts of the seabed to recover from trawling and dredging, permitting rivers to flow freely again. Above all, it means bringing back missing species. One of the most striking findings of modern ecology is that ecosystems without large predators behave in completely different ways from those that retain them. Some of them drive dynamic processes that resonate through the whole food chain, creating niches for hundreds of species that might otherwise struggle to survive. The killers turn out to be bringers of life."
+      },
+      {
+        "label": "4",
+        "content": "Such findings present a big challenge to British conservation, which has often selected arbitrary assemblages of plants and animals and sought, at great effort and expense, to prevent them from changing. It has tried to preserve the living world as if it were a jar of pickles, letting nothing in and nothing out, keeping nature in a state of arrested development. But ecosystems are not merely collections of species; they are also the dynamic and ever-shifting relationships between them. And this dynamism often depends on large predators."
+      },
+      {
+        "label": "5",
+        "content": "At sea the potential is even greater: by protecting large areas from commercial fishing, we could once more see what 18th-century literature describes: vast shoals of fish being chased by fin and sperm whales, within sight of the English shore. This policy would also greatly boost catches in the surrounding seas; the fishing industry's insistence on scouring every inch of seabed, leaving no breeding reserves, could not be more damaging to its own interests."
+      },
+      {
+        "label": "6",
+        "content": "Rewilding is a rare example of an environmental movement in which campaigners articulate what they are for rather than only what they are against. One of the reasons why the enthusiasm for rewilding is spreading so quickly in Britain is that it helps to create a more inspiring vision than the green movement's usual promise of 'Follow us and the world will be slightly less awful than it would otherwise have been.'"
+      },
+      {
+        "label": "7",
+        "content": "The lynx presents no threat to human beings: there is no known instance of one preying on people. It is a specialist predator of roe deer, a species that has exploded in Britain in recent decades, holding back, by intensive browsing, attempts to re-establish forests. It will also winkle out sika deer: an exotic species that is almost impossible for human beings to control, as it hides in impenetrable plantations of young trees. The attempt to reintroduce this predator marries well with the aim of bringing forests back to parts of our bare and barren uplands. The lynx requires deep cover, and as such presents little risk to sheep and other livestock, which are supposed, as a condition of farm subsidies, to be kept out of the woods."
+      },
+      {
+        "label": "8",
+        "content": "On a recent trip to the Cairngorm Mountains, I heard several conservationists suggest that the lynx could be reintroduced there within 20 years. If trees return to the bare hills elsewhere in Britain, the big cats could soon follow. There is nothing extraordinary about these proposals, seen from the perspective of anywhere else in Europe. The lynx has now been reintroduced to the Jura Mountains, the Alps, the Vosges in eastern France and the Harz mountains in Germany, and has re-established itself in many more places. The European population has tripled since 1970 to roughly 10,000. As with wolves, bears, beavers, boar, bison, moose and many other species, the lynx has been able to spread as farming has left the hills and people discover that it is more lucrative to protect charismatic wildlife than to hunt it, as tourists will pay for the chance to see it. Large-scale rewilding is happening almost everywhere - except Britain."
+      },
+      {
+        "label": "9",
+        "content": "Here, attitudes are just beginning to change. Conservationists are starting to accept that the old preservation-jar model is failing, even on its own terms. Already, projects such as Trees for Life in the Highlands provide a hint of what might be coming. An organisation is being set up that will seek to catalyse the rewilding of land and sea across Britain, its aim being to reintroduce that rarest of species to British ecosystems: hope."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Write the correct letter, A, B, C or D, in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What did the 2006 discovery of the animal bone reveal about the lynx?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Its physical appearance was very distinctive."
+              },
+              {
+                "label": "B",
+                "text": "Its extinction was linked to the spread of farming."
+              },
+              {
+                "label": "C",
+                "text": "It vanished from Britain several thousand years ago."
+              },
+              {
+                "label": "D",
+                "text": "It survived in Britain longer than was previously thought."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What point does the writer make about large predators in the third paragraph?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Their presence can increase biodiversity."
+              },
+              {
+                "label": "B",
+                "text": "They may cause damage to local ecosystems."
+              },
+              {
+                "label": "C",
+                "text": "Their behaviour can alter according to the environment."
+              },
+              {
+                "label": "D",
+                "text": "They should be reintroduced only to areas where they were native."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What does the writer suggest about British conservation in the fourth paragraph?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It has failed to achieve its aims."
+              },
+              {
+                "label": "B",
+                "text": "It is beginning to change direction."
+              },
+              {
+                "label": "C",
+                "text": "It has taken a misguided approach."
+              },
+              {
+                "label": "D",
+                "text": "It has focused on the most widespread species."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Protecting large areas of the sea from commercial fishing would result in",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "practical benefits for the fishing industry."
+              },
+              {
+                "label": "B",
+                "text": "some short-term losses to the fishing industry."
+              },
+              {
+                "label": "C",
+                "text": "widespread opposition from the fishing industry."
+              },
+              {
+                "label": "D",
+                "text": "certain changes to techniques within the fishing industry."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "According to the author, what distinguishes rewilding from other environmental campaigns?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Its objective is more achievable."
+              },
+              {
+                "label": "B",
+                "text": "Its supporters are more articulate."
+              },
+              {
+                "label": "C",
+                "text": "Its positive message is more appealing."
+              },
+              {
+                "label": "D",
+                "text": "It is based on sounder scientific principles."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words and phrases A-F below.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Reintroducing the lynx to Britain - There would be many advantages to reintroducing the lynx to Britain. While there is no evidence that the lynx has ever put",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "in danger, it would reduce the numbers of certain",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "whose populations have increased enormously in recent decades. It would present only a minimal threat to",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "provided these were kept away from lynx habitats. Furthermore, the reintroduction programme would also link efficiently with initiatives to return native",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Britain could become the first European country to reintroduce the lynx.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The large growth in the European lynx population since 1970 has exceeded conservationists’ expectations.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Changes in agricultural practices have extended the habitat of the lynx in Europe.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "It has become apparent that species reintroduction has commercial advantages.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:39:31.205194"
+}

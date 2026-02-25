@@ -1,0 +1,208 @@
+{
+  "id": "ielts-r-0521",
+  "slug": "the-nagymaros-dam",
+  "title": "The Nagymaros Dam",
+  "page_range": [
+    2635,
+    2639
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "J",
+    "2": "F",
+    "9": "NOT GIVEN",
+    "3": "A",
+    "10": "FALSE",
+    "4": "K",
+    "11": "TRUE",
+    "5": "I",
+    "12": "FALSE",
+    "6": "B",
+    "13": "TRUE",
+    "7": "L",
+    "14": "B"
+  },
+  "content": {
+    "title": "The Nagymaros Dam",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "When Janos Vargha, a biologist from the Hungarian Academy of Sciences, began a new career as a writer with a small monthly nature magazine called Buvar, it was 9 years after the story behind the fall of the Berlin Wall had started to unfold. During his early research, he went to a beauty spot on the river Danube outside Budapest known as the Danube Bend to interview local officials about plans to build a small park on the site of an ancient Hungarian capital."
+      },
+      {
+        "label": null,
+        "content": "One official mentioned that passing this tree-lined curve in the river, a popular tourism spot for Hungarians was monotonous. Also, it was to be submerged by a giant hydroelectric dam in secret by a much-feared state agency known simply as the Water Management. Vargha investigated and learned that the Nagymaros dam (pronounced “nosh-marosh”) would cause pollution, destroy underground water reserves, dry out wetlands and wreck the unique ecosystem of central Europe’s longest river. Unfortunately, nobody objected."
+      },
+      {
+        "label": null,
+        "content": "“Of course, I wrote an article. But there was a director of the Water Management on the magazine’s editorial board. The last time, he went to the printers and stopped the presses, the article was never published. I was frustrated and angry, but I was ultimately interested in why they cared to ban my article,” he remembers today."
+      },
+      {
+        "label": null,
+        "content": "He found that the Nagymaros dam was part of a joint project with neighbouring Czechoslovakia to produce hydroelectricity, irrigate farms and enhance navigation. They would build two dams and re-engineer the Danube for 200 kilometres where it created the border between them. “The Russians were working together, too. They wanted to take their big ships from the Black Sea right up the Danube to the border with Austria.”"
+      },
+      {
+        "label": null,
+        "content": "Vargha was soon under vigorous investigation, and some of his articles got past the censors. He gathered supporters for some years, but he was one of only a few people who believed the dam should be stopped. He was hardly surprised when the Water Management refused to debate the project in public. After a public meeting, the bureaucrats had pulled out at the last minute. Vargha knew he had to take the next step."
+      },
+      {
+        "label": null,
+        "content": "“We decided it wasn’t enough to talk and write, so we set up an organization, the Danube Circle. We announced that we didn’t agree with censorship. We would act as if we were living in a democracy,” he says."
+      },
+      {
+        "label": null,
+        "content": "The Danube Circle was illegal and the secret publications it produced turned out to be samizdat leaflets. In an extraordinary act of defiance, it gathered 10,000 signatures for a petition objecting to the dam and made links with environmentalists in the west, inviting them to Budapest for a press conference."
+      },
+      {
+        "label": null,
+        "content": "The Hungarian government enforced a news blackout on the dam, but articles about the Danube Circle began to be published and appear in the western media. In 1985, the Circle and Vargha, a public spokesman, won the Right Livelihood award known as the alternative Nobel prize. Officials told Vargha he should not take the prize but he ignored them. The following year when Austrian environmentalists joined a protest in Budapest, they were met with tear gas and batons."
+      },
+      {
+        "label": null,
+        "content": "Then the Politburo had Vargha taken from his new job as editor of the Hungarian version of Scientific American."
+      },
+      {
+        "label": null,
+        "content": "The dam became a focus for opposition to the hated regime. Communists tried to hold back the waters in the Danube and resist the will of the people. Vargha says, “Opposing the state directly was still hard.” “Objecting to the dam was less of a hazard, but it was still considered a resistance to the state.”"
+      },
+      {
+        "label": null,
+        "content": "Under increasing pressure from the anti-dam movement, the Hungarian Communist Party was divided. Vargha says, “Reformists found that the dam was not very popular and economical. It would be cheaper to generate electricity by burning coal or nuclear power.” “But hardliners were standing for Stalinist ideas of large dams which mean symbols of progress.” Environmental issues seemed to be a weak point of east European communism in its final years."
+      },
+      {
+        "label": null,
+        "content": "During the 1970s under the support of the Young Communist Leagues, a host of environmental groups had been founded. Party officials saw them as a harmless product of youthful idealism created by Boy Scouts and natural history societies. Green idealism steadily became a focal point for political opposition. In Czechoslovakia, the human rights of Charter 77 took up environmentalism. The green-minded people of both Poland and Estonia participated in the Friends of the Earth International to protest against air pollution."
+      },
+      {
+        "label": null,
+        "content": "Bulgarian environmentalists built a resistance group, called Ecoglasnost, which held huge rallies in 1989. Big water engineering projects were potent symbols of the old Stalinism."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary, using the list of words and phrases, A-L, below. Write the correct letter, A-L, in boxes 1-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The story of the fall of the Berlin Wall had started to unfold 9 years earlier, Janos Vargha visited the river Danube out of Budapest to discuss a matter of ..................... with executives.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "However, unfortunately, the tree-lined curve in the river was ..................... by a colossal dam which caused a lot of fear.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "He noticed the negative impact of the Nagymaros dam would be ..................... on the ecosystem around the main river.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Besides, the dam was engineering public works, generating hydroelectricity, irrigating farmlands and developing sailing trade which was ..................... with a border of Czechoslovakia.",
+            "answer": "K",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "After one public meeting, Vargha ..................... the Danube Circle for showing the autonomy of the people in a democracy.",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Despite every effort, he who would eventually become the editor of the Hungarian edition was ..................... by the Politburo.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Fortunately, with plenty of pressure from the anti-dam movement, east European communism’s final symbol was opposed by the .....................",
+            "answer": "L",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Overall, between political processing and environmentalists have been on a ..................... of views.",
+            "answer": "J",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements reflect the claims of the writer in Reading Passage? In boxes 9-13 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Janos Vargha predicted that the Nagymaros dam would wreck the natural atmosphere before it was built.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "The Nagymaros dam’s project was managed by the Russians only.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The Danube Circle was an unauthorised group for opposing the dam.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "The Politburo accepted Vargha as editor of the Hungarian edition.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The human rights Charter 77 in Czechoslovakia accepted green thoughts.",
+            "answer": "TRUE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in box 14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 14,
+            "text": "In this passage, the Nagymaros dam’s main purpose was",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "related to Russian Water Management."
+              },
+              {
+                "label": "B",
+                "text": "to develop a source of electronic power, farming and sail."
+              },
+              {
+                "label": "C",
+                "text": "to connect the Black Sea and the Danube."
+              },
+              {
+                "label": "D",
+                "text": "to develop a beauty spot on the river Danube."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:43:16.630212"
+}

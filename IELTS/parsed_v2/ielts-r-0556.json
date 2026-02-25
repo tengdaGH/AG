@@ -1,0 +1,223 @@
+{
+  "id": "ielts-r-0556",
+  "slug": "the-sound-of-dolphin",
+  "title": "The Sound of Dolphin",
+  "page_range": [
+    2816,
+    2821
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "B",
+    "9": "A DOLPHIN",
+    "2": "TRUE LANGUAGE",
+    "3": "NOT GIVEN",
+    "10": "WHISTLE",
+    "11": "CLICKS AND",
+    "4": "FALSE SOUNDS",
+    "5": "FALSE",
+    "12": "SIGHT",
+    "6": "C",
+    "13": "DOLPHINS LARYNX",
+    "7": "B"
+  },
+  "content": {
+    "title": "The Sound of Dolphin",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Each and every dolphin has a different sound just like you and me, a sound that other dolphins recognize as a particular individual. Even a new baby dolphin, (calf), can detect its mother’s whistle within the pod soon after birth. Utilizing their blowholes, air sacks and valves, dolphins can emit a very wide variety of sounds. In fact, the frequency levels range 10 times beyond what humans can hear."
+      },
+      {
+        "label": "B",
+        "content": "This system is called “Echolocation”, or “Sonar”, just like what a submarine uses to navigate while underwater. Yet the dolphins sonar is much more advanced than human technology and can pin point exact information about its surroundings ranging from size, distance and even the nature of the object."
+      },
+      {
+        "label": "C",
+        "content": "Millions of years ago, toothed whales developed echolocation, a sensory faculty that enabled them to survive in often murky and dark aquatic environments. It is a process in which an organism probes its environment by emitting sounds and listening to echoes as the sounds bounce off objects in the environment. With sound traveling better in water than electromagnetic, thermal, chemical, or light signals, it was advantageous for dolphins to evolve echolocation, a capability in which acoustic energy is used, in a sense, to see underwater. Synonymous with the term “sonar” (sound navigation and ranging) and used interchangeably, dolphin echolocation is considered to be the most advanced sonar capability, unrivaled by any sonar system on Earth, man-made or natural."
+      },
+      {
+        "label": "D",
+        "content": "Dolphins identify themselves with a signature whistles. However, scientists have found no evidence of a dolphin language. For example, a mother dolphin may whistle to her calf almost continually for several days after giving birth. This acoustic imprinting helps the calf learn to identify its mother. Besides whistles, dolphins produce clicks and sounds that resemble moans, trills, grunts and squeaks. They make these sounds at any time and at considerable depths. Sounds vary in volume, wavelength, frequency and pattern. Dolphins produce sounds ranging from 0.25 to 150 kHz. The lower frequency vocalizations (0.25 to 50 kHz) are likely used in social communication. Higher frequency clicks (40 to 150 kHz) are primarily used in echolocation. Dolphins rely heavily on sound production and reception to navigate, communicate, and hunt in dark or murky waters. Under these conditions, sight is of little use. Dolphins can produce clicks and whistles at the same time."
+      },
+      {
+        "label": "E",
+        "content": "As with all toothed whales, a dolphin’s larynx does not possess vocal cords, but researchers have theorized that at least some sound production originates from the larynx. Early studies suggested that “whistles” were generated in the larynx while “clicks” were produced in the nasal sac region. Technological advances in bio-acoustic research enable scientists to better explore the nasal region. Studies suggest that a tissue complex in the nasal region is most likely the site of all sound production. Movements of air in the trachea and nasal sacs probably produce sounds."
+      },
+      {
+        "label": "F",
+        "content": "The process of echolocation begins when dolphins emit very short sonar pulses called clicks, which are typically less than 50-70 millionth of a second long. The clicks are emitted from the melon of the dolphin in a narrow beam. A special fat in the melon called lipid helps to focus the clicks into a beam. The echoes that are reflected off the object are then received by the lower jaws. They enter through certain parts of the lower jaw and are directed to ear bones by lipid fat channels. The characteristics of the echoes are then transmitted directly to the brain."
+      },
+      {
+        "label": "G",
+        "content": "The short echolocation clicks used by dolphins can encode a considerable amount of information on an ensonified object - much more information than is possible from signals of longer duration that are emitted by manned sonar. Underwater sounds can penetrate objects, producing echoes from the portion of the object as well as from other surfaces within the object. This provides dolphins with a way to gain more information than if only a simple reflection occurred at the front of the object."
+      },
+      {
+        "label": "H",
+        "content": "Dolphins are extremely mobile creatures and can therefore direct their sonar signals on an object from many different orientations, with slightly different bits of information being returned at each orientation; and since the echolocation clicks are so brief and numerous, the multiple reflections from internal surfaces return to the animal as distinct entities and are used by the dolphin to distinguish between different types of objects. Since they possess extremely good auditory-spatial memory, it seems that they are able to “remember” all the important information received from the echoes taken from different positions and orientations as they navigate and scan their environment. Dolphins’ extremely high mobility and good auditory spatial memory are capabilities that enhance their use of echolocation. With much of the dolphin’s large brain (which is slightly larger than the human brain) devoted to acoustic signal processing, we can better understand the evolutionary importance of this extraordinary sensory faculty. Yet no one feature in the process of echolocation is more important than the other. Dolphin sonar must be considered as a complete system, well adapted to the dolphin’s overall objective of finding prey, avoiding predators, and avoiding dangerous environments."
+      },
+      {
+        "label": "I",
+        "content": "This ideal evolutionary adaption has contributed to the success of cetacean hunting and feeding and their survival as a species overall. As a result, dolphins are especially good at finding and identifying prey in shallow and noisy coastal waters containing rocks and other objects. By using their sonar ability, dolphins are able to detect and recognize prey that have burrowed up to 1 feet into sandy ocean or river bottoms –a talent that has stirred the imagination (and envy) of designers of manmade sonar."
+      },
+      {
+        "label": "J",
+        "content": "Researchers, documenting the behavior of Atlantic dolphins foraging for buried prey along the banks of Grand Bahama Island, have found that these dolphins, while swimming close to the bottom searching for prey, typically move their heads in a scanning motion, either swinging their snout back and forth or moving their heads in a circular motion as they emit sonar sounds. They have been observed digging as deep as 18 inches into the sand to secure a prey. Such a capability is unparalleled in the annals of human sonar development."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Every single dolphin is labeled by a specific sound.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The system a dolphin uses as the detector could give a whole picture of the observed objects.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Echolocation is a specific system evolving only for animals living in a dim environment.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The sounds are made only in the area related to the nose.",
+            "answer": "FALSE SOUNDS",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "When producing various forms of sounds, dolphins have the asynchronism as one characteristic.",
+            "answer": "FALSE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "What feature do the sounds deep in the water emitted by dolphins possess?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "diverging"
+              },
+              {
+                "label": "B",
+                "text": "tri-dimensional"
+              },
+              {
+                "label": "C",
+                "text": "piercing"
+              },
+              {
+                "label": "D",
+                "text": "striking"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Which makes the difference between the dolphins and man when it comes to the treating of vocal messages?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "an acute sense of smell"
+              },
+              {
+                "label": "B",
+                "text": "a bigger brain"
+              },
+              {
+                "label": "C",
+                "text": "a flexible positioning system"
+              },
+              {
+                "label": "D",
+                "text": "a unique organ"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Which is the undefeatable characteristic of the sonar system owned by dolphins compared with the one humans have?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "making more accurate analysis"
+              },
+              {
+                "label": "B",
+                "text": "hiding the hunted animals"
+              },
+              {
+                "label": "C",
+                "text": "having the wider range in frequencies"
+              },
+              {
+                "label": "D",
+                "text": "comprising more components"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of the reading passage, using no more than three words from the reading passage for each answer.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Whether 9..................... exists or not has not been confirmed yet.",
+            "answer": "A DOLPHIN",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "10..................... is the bond between baby dolphin and its mother.",
+            "answer": "WHISTLE",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "What’s more, 11..................... which are like different sounds made by dolphins are also used by dolphins.",
+            "answer": "CLICKS AND",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Sounds are vital to dolphins in deep waters while 12..................... is not that imperative.",
+            "answer": "SIGHT",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Similar to all toothed whales, vocal cords are not present in 13..................... but it produces some sound.",
+            "answer": "DOLPHINS LARYNX",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:58:10.206866"
+}

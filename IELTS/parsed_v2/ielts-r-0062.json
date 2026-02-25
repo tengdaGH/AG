@@ -1,0 +1,289 @@
+{
+  "id": "ielts-r-0062",
+  "slug": "bentley-hospital-catering-service",
+  "title": "BENTLEY Hospital Catering Service",
+  "page_range": [
+    318,
+    320
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "4": "I",
+    "2": "B",
+    "5": "H",
+    "3": "F"
+  },
+  "content": {
+    "title": "BENTLEY Hospital Catering Service - Meal Breaks and Food Handler Requirements",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "BENTLEY Hospital Catering Service TO ALL PERMANENT AND TEMPORARY MEMBERS OF STAFF IMPORTANT INFORMATION Meal Breaks (minimum company guidelines)"
+      },
+      {
+        "label": null,
+        "content": "HOURS WORKED BREAK TO BE TAKEN 0-4 hrs nil 4-6 hrs 15 mins 6-8 hrs 30 mins 8-12 hrs 60 mins (taken as 2 x 30 mins) 12-24 hrs 75 mins (taken as 2 x 30 mins + 1 x 15 mins)"
+      },
+      {
+        "label": null,
+        "content": "Your section staffing board will show the times when these breaks are to be taken. Please note It is your responsibility to check that the total break time shown on the staffing sheets accurately reflects the breaks that you take. Any discrepancies should be raised with your Staff Co-ordinator immediately."
+      },
+      {
+        "label": null,
+        "content": "SPECIAL REQUIREMENTS - FOOD HANDLERS Food handlers are those concerned with preparing and serving unwrapped food. Food handlers should report any instance of sickness, diarrhoea and/or stomach upset experienced while at work or during a holiday to a member of the Personnel Management team. Any infections of the throat, mouth, chest or skin should also be reported to a member of the Personnel Management team."
+      },
+      {
+        "label": null,
+        "content": "Food handlers need to have an annual dental examination by the company dentist. Alternatively, a certificate of dental fitness may be produced from their own dentist. This applies to all permanent staff who handle food."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending, A-J, below. Write the correct letter, A-J, in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Temporary employees only working 3 hours should",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "talk to a staff co-ordinator."
+              },
+              {
+                "label": "B",
+                "text": "have two thirty-minute breaks."
+              },
+              {
+                "label": "C",
+                "text": "not take any breaks for meals."
+              },
+              {
+                "label": "D",
+                "text": "pay for any meals they have."
+              },
+              {
+                "label": "E",
+                "text": "get a single one-hour break."
+              },
+              {
+                "label": "F",
+                "text": "look at the section staffing board."
+              },
+              {
+                "label": "G",
+                "text": "lose pay for their break times."
+              },
+              {
+                "label": "H",
+                "text": "tell a member of the Personnel Management team."
+              },
+              {
+                "label": "I",
+                "text": "have an annual dental examination."
+              },
+              {
+                "label": "J",
+                "text": "consult their doctor."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Employees who work 11 hours should",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "talk to a staff co-ordinator."
+              },
+              {
+                "label": "B",
+                "text": "have two thirty-minute breaks."
+              },
+              {
+                "label": "C",
+                "text": "not take any breaks for meals."
+              },
+              {
+                "label": "D",
+                "text": "pay for any meals they have."
+              },
+              {
+                "label": "E",
+                "text": "get a single one-hour break."
+              },
+              {
+                "label": "F",
+                "text": "look at the section staffing board."
+              },
+              {
+                "label": "G",
+                "text": "lose pay for their break times."
+              },
+              {
+                "label": "H",
+                "text": "tell a member of the Personnel Management team."
+              },
+              {
+                "label": "I",
+                "text": "have an annual dental examination."
+              },
+              {
+                "label": "J",
+                "text": "consult their doctor."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "To find out when to have their breaks, employees should",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "talk to a staff co-ordinator."
+              },
+              {
+                "label": "B",
+                "text": "have two thirty-minute breaks."
+              },
+              {
+                "label": "C",
+                "text": "not take any breaks for meals."
+              },
+              {
+                "label": "D",
+                "text": "pay for any meals they have."
+              },
+              {
+                "label": "E",
+                "text": "get a single one-hour break."
+              },
+              {
+                "label": "F",
+                "text": "look at the section staffing board."
+              },
+              {
+                "label": "G",
+                "text": "lose pay for their break times."
+              },
+              {
+                "label": "H",
+                "text": "tell a member of the Personnel Management team."
+              },
+              {
+                "label": "I",
+                "text": "have an annual dental examination."
+              },
+              {
+                "label": "J",
+                "text": "consult their doctor."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Employees working with food must",
+            "answer": "I",
+            "options": [
+              {
+                "label": "A",
+                "text": "talk to a staff co-ordinator."
+              },
+              {
+                "label": "B",
+                "text": "have two thirty-minute breaks."
+              },
+              {
+                "label": "C",
+                "text": "not take any breaks for meals."
+              },
+              {
+                "label": "D",
+                "text": "pay for any meals they have."
+              },
+              {
+                "label": "E",
+                "text": "get a single one-hour break."
+              },
+              {
+                "label": "F",
+                "text": "look at the section staffing board."
+              },
+              {
+                "label": "G",
+                "text": "lose pay for their break times."
+              },
+              {
+                "label": "H",
+                "text": "tell a member of the Personnel Management team."
+              },
+              {
+                "label": "I",
+                "text": "have an annual dental examination."
+              },
+              {
+                "label": "J",
+                "text": "consult their doctor."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Food handlers who have been ill should",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "talk to a staff co-ordinator."
+              },
+              {
+                "label": "B",
+                "text": "have two thirty-minute breaks."
+              },
+              {
+                "label": "C",
+                "text": "not take any breaks for meals."
+              },
+              {
+                "label": "D",
+                "text": "pay for any meals they have."
+              },
+              {
+                "label": "E",
+                "text": "get a single one-hour break."
+              },
+              {
+                "label": "F",
+                "text": "look at the section staffing board."
+              },
+              {
+                "label": "G",
+                "text": "lose pay for their break times."
+              },
+              {
+                "label": "H",
+                "text": "tell a member of the Personnel Management team."
+              },
+              {
+                "label": "I",
+                "text": "have an annual dental examination."
+              },
+              {
+                "label": "J",
+                "text": "consult their doctor."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 5
+  },
+  "processed_at": "2026-02-25T19:32:59.179631"
+}

@@ -1,0 +1,208 @@
+{
+  "id": "ielts-r-0021",
+  "slug": "ancient-chinese-chariots",
+  "title": "Ancient Chinese Chariots",
+  "page_range": [
+    119,
+    123
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "dish",
+    "2": "FALSE",
+    "9": "struts",
+    "3": "TRUE",
+    "10": "bronze",
+    "4": "NOT GIVEN",
+    "11": "Neck",
+    "5": "elm",
+    "12": "Sand",
+    "6": "oil",
+    "13": "Tomb complex",
+    "7": "32"
+  },
+  "content": {
+    "title": "Ancient Chinese Chariots",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The Shang Dynasty or Yin Dynasty, according to traditional historiography, ruled in the Yellow River valley in the second millennium. Archaeological work at the Ruins of Yin (near modern-day Anyang), which has been identified as the last Shang capital, uncovered eleven major Yin royal tombs and the foundations of palaces and ritual sites, containing weapons of war and remains from both animal and human sacrifices."
+      },
+      {
+        "label": "B",
+        "content": "The Tomb of Fu Hao is an archaeological site at Yinxu, the ruins of the ancient Shang Dynasty capital Yin, within the modern city of Anyang in Henan Province, China. Discovered in 1976, it was identified as the final resting place of the queen and military general Fu Hao. The artifacts unearthed within the grave included jade objects, bone objects, bronze objects, etc. These grave goods are confirmed by the oracle texts, which constitute almost all of the first-hand written record we possess of the Shang Dynasty. Below the corpse was a small pit holding the remains of six sacrificial dogs and along the edge lay the skeletons of human slaves, evidence of human sacrifice."
+      },
+      {
+        "label": "C",
+        "content": "The Terracotta Army was discovered on 29 March 1974 to the east of Xi'an in Shaanxi. The terracotta soldiers were accidentally discovered when a group of local farmers was digging a well during a drought around 1.6 km (1 mile) east of the Qin Emperor's tomb around at Mount Li (Lishan), a region riddled with underground springs and watercourses. Experts currently place the entire number of soldiers at 8,000 — with 130 chariots (130 cm long), 530 horses and 150 cavalry horses helping to ward off any dangers in the afterlife. In contrast, the burial of Tutankhamun yielded six complete but dismantled chariots of unparalleled richness and sophistication. Each was designed for two people (90 cm long) and had its axle sawn through to enable it to be brought along the narrow corridor into the tomb."
+      },
+      {
+        "label": "D",
+        "content": "Excavation of ancient Chinese chariots has confirmed the descriptions of them in the earliest texts. Wheels were constructed from a variety of woods: elm provided the hub, rosewood the spokes and oak the felloes. The hub was drilled through to form an empty space into which the tapering axle was fitted, the whole being covered with leather to retain lubricating oil. Though the number of spokes varied, a wheel by the fourth century BC usually had eighteen to thirty-two of them. Records show how elaborate was the testing of each completed wheel: flotation and weighing were regarded as the best measures of balance, but even the empty spaces in the assembly were checked with millet grains. One outstanding constructional asset of the ancient Chinese wheel was dishing. Dishing refers to the dish-like shape of an advanced wooden wheel, which looks rather like a flat cone. On occasion they chose to strengthen a dished wheel with a pair of struts running from rim to rim on each side of the hub. As these extra supports were inserted separately into the felloes, they would have added even greater strength to the wheel. Leather wrapped around the edge of the wheel aimed to retain bronze."
+      },
+      {
+        "label": "E",
+        "content": "Within a millennium, however, Chinese chariot-makers had developed a vehicle with shafts, the precursor of the true carriage or cart. This design did not make its appearance in Europe until the end of the Roman Empire. Because the shafts curved upwards, and the harness pressed against a horse’s shoulders, not his neck, the shaft chariot was incredibly efficient. The halberd was also part of chariot standard weaponry. This halberd usually measured well over 3 metres in length, which meant that a chariot warrior wielding it sideways could strike down the charioteer in a passing chariot. The speed of the chariot, which was tested on the sand, was quite fast. At speed, these passes were very dangerous for the crews of both chariots."
+      },
+      {
+        "label": "F",
+        "content": "The advantages offered by the new chariots were not entirely missed. They could see how there were literally the warring states, whose conflicts lasted until the Qin unification of China. Qin Shi Huang was buried in the most opulent tomb complex ever constructed in China, a sprawling, city-size collection of underground caverns containing everything the emperor would need for the afterlife. Even a collection of terracotta armies called Terracotta Warriors was buried in it. The ancient Chinese, along with many cultures including the ancient Egyptians, believed that items and even people buried with a person could be taken with him to the afterlife."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "When discovered, the written records of the grave goods proved to be accurate.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Human skeletons in Anyang tomb were identified as soldiers who were killed in the war.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "The Terracotta Army was discovered by people lived nearby by chance.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "The size of the King Tutankhamen’s tomb is bigger than that of in Qin Emperors’ tomb.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the notes below. Choose ONE WORD from the passage for each answer.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "The hub is made of wood from the tree of",
+            "answer": "elm",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The room through the hub was to put tempering axle in which is wrapped up by leather aiming to retain",
+            "answer": "oil",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "The number of spokes varied from 18 to",
+            "answer": "32",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The shape of wheel resembles a",
+            "answer": "dish",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Two was used to strengthen the wheel",
+            "answer": "struts",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Leather wrapped up the edge of the wheel aimed to remain",
+            "answer": "bronze",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "What body part of horse was released the pressure from to the shoulder?",
+            "answer": "Neck",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "What kind road surface did the researchers measure the speed of the chariot?",
+            "answer": "Sand",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "What part of his afterlife palace was the Emperor Qin Shi Huang buried?",
+            "answer": "Tomb complex",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:24:25.743589"
+}

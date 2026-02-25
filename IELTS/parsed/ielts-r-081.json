@@ -1,0 +1,259 @@
+{
+  "id": "ielts-r-081",
+  "source_file": "81. P3 - Robert Louis Stevenson 苏格兰作家【高】.pdf",
+  "position": "P3",
+  "question_range": [
+    27,
+    40
+  ],
+  "difficulty": "high",
+  "title": "Robert Louis Stevenson",
+  "title_cn": "苏格兰作家",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": "",
+        "text": "The writer of some of the best-known stories in the English language, including Treasure Island and The Strange Case of Dr. Jekyll and Mr. Hyde"
+      },
+      {
+        "label": "",
+        "text": "It is more than 100 years since the death of the Scottish writer Robert Louis Stevenson on the South Pacific island of Samoa. And it seems that time has not been kind to Stevenson’s memory. Immediately after his death, his family and friends set to work to fashion the legend of Robert Louis Stevenson, or R.L.S. as he became known—one of the few writers familiar from his initials alone. Subsequent works of biography then turned him into a writer of almost religious importance. One example was critic Balfour, who in 1901 portrayed Stevenson’s family as ministering angels to the dying genius during his final illness. Similarly, the biographer Crouch absurdly overstated Stevenson’s significance by placing him in the same company as those most revered names in English literature, Shakespeare and Keats. The reaction to this nonsense was a number of highly critical assessments of Stevenson’s legacy in the 1920s. Normally, the critical pendulum can be relied on to swing back again, but there are several aspects of Stevenson’s work that have until recently acted against a more balanced appraisal."
+      },
+      {
+        "label": "",
+        "text": "First is the allegation that Stevenson was a mere master of linguistic fireworks who lacked moral depth. Some critics accused him of being a literary charlatan, juggling words very prettily to strike effects that overawed an ignorant public and served to distract from the inadequacy of his ideas. Then there has been a prejudice against the adventure story as the proper medium for deep moral seriousness, a prejudice which is still extremely influential today. It seems that we can accept that an adventure film can successfully express profound moral truths, but we reject the same idea for a book. The absurdity of this becomes apparent when we think of writers like Joseph Conrad and Graham Greene, but it is no use pretending that this bias against adventure stories is not part of our high culture."
+      },
+      {
+        "label": "",
+        "text": "A further problem is that Stevenson has often not found favour in the land of his birth because his conservatism so often collides with the strong radical tradition in Scotland. His many escapist stories and preference for living abroad have led to accusations that he camouflaged Scotland’s real problems. Lastly, the high adventure of Stevenson’s own lifestyle has sometimes obscured his output. His globe-trotting, and above all the final phase of his life in Samoa, tended to make his own life a greater story than any he could devise. This was precisely what his friends feared would happen towards the end of his short life: his art might be overwhelmed by the drama of life in Samoa."
+      },
+      {
+        "label": "",
+        "text": "One consequence of this has been that Stevenson’s influence on other writers has too often been neglected. The writer and poet Oscar Wilde was deeply influenced by Stevenson, even though he declared that Stevenson would have produced better work if he had lived in London rather than Samoa. Stevenson tends to stick in the throat even of those writers who would like to spit him out, such as Shaw, who claimed to have learned from him that the romantic hero is always mocked by reality. Likewise, the writer Galsworthy, who was a determined critic, later changed his mind and said that the superiority of Stevenson over the novelist Hardy was that Stevenson was all life and Hardy, all death. The influence on the novelist Chesterton would also repay detailed study, for it was through him that Stevenson has managed to cross the ages, emerging as an influence on the modernist movement and our own contemporary Latin American school of magical realism."
+      },
+      {
+        "label": "",
+        "text": "When making an assessment of his life and work, one question must inevitably be asked: was Robert Louis Stevenson Scotland’s greatest writer of English prose? For most commentators this honour falls to Sir Walter Scott, author of Ivanhoe among many other classic novels, and it is true that in terms of craftsmanship, precision and the ability to minutely regulate language to create the desired effect, Scott takes the prize. However, this is not the same thing at all as inherent talent: by way of comparison one may take the example of the two great Russian composers Shostakovich and Prokofiev, of whom the former had learned more precise skills of execution but the latter’s intrinsic genius was greater, and so it seems to be with Scott and Stevenson. Admittedly, Scott’s detailed style does permit his stories to explore levels of tragedy that are beyond Stevenson’s reach, but in this regard they have the musty smell of the museum, somehow artificial and removed from modern-day reality. On the other hand, Stevenson’s skill with plotting and narrative give his books a timeless quality, so that they still live today. And Stevenson was also the shrewder judge of behaviour and psychology. For example, his compelling description of a man with a split personality in The Strange Case of Dr. Jekyll and Mr. Hyde has proved so accessible and accurate that the expression “Jekyll and Hyde” has entered common English usage. Even if we do not see a revival of critical interest in this great Scottish writer, it is to be hoped that readers go back to Robert Louis Stevenson’s magnificent stories and reassess this neglected genius."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "MCQ",
+      "range": [
+        27,
+        31
+      ],
+      "instructions": "Choose the correct letter, A, B, C, or D. Write the correct letter in boxes 27–31 on your answer sheet.",
+      "questions": [
+        {
+          "number": 27,
+          "text": "In the opinion of the writer, the biographers Balfour and Crouch",
+          "options": [
+            "A misunderstood Stevenson’s religious beliefs",
+            "B overestimated other writers’ influence on Stevenson",
+            "C elevated Stevenson above his true status as a writer",
+            "D understated the role played by Stevenson’s family"
+          ],
+          "answer": "C",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 28,
+          "text": "What is the writer’s main point about Stevenson in the second paragraph?",
+          "options": [
+            "A The ethical nature of his stories was often criticised.",
+            "B The public judges him more fairly than the critics.",
+            "C Recent criticism of him has been justified.",
+            "D Critics argued that his style covered up his faults."
+          ],
+          "answer": "D",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 29,
+          "text": "According to the writer, the adventure story",
+          "options": [
+            "A can be used by writers to tell moral stories",
+            "B is more fashionable today than in the past",
+            "C has been used by other writers but not Stevenson",
+            "D is more appropriate for books than for films"
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 30,
+          "text": "What point does the writer make about Stevenson and Scotland?",
+          "options": [
+            "A His unflattering stories about Scotland angered many Scots.",
+            "B His ideas contrasted with those of many Scots.",
+            "C He demonstrated great sympathy for Scotland’s problems.",
+            "D He was not considered a true Scot as he was not born there."
+          ],
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 31,
+          "text": "According to the writer, Stevenson’s own lifestyle",
+          "options": [
+            "A attracted more attention than his books",
+            "B did not prepare him for living in Samoa",
+            "C was envied by his friends",
+            "D was responsible for his early death"
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "YNNG",
+      "range": [
+        32,
+        35
+      ],
+      "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes 32–35 on your answer sheet, write YES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "number": 32,
+          "text": "Although Oscar Wilde admired Robert Louis Stevenson very much, he believed Stevenson could have written greater works.",
+          "options": null,
+          "answer": "YES",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 33,
+          "text": "Robert Louis Stevenson encouraged Oscar Wilde to start writing in the first place.",
+          "options": null,
+          "answer": "NOT GIVEN",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 34,
+          "text": "Galsworthy respected Hardy’s works more than Stevenson’s.",
+          "options": null,
+          "answer": "NO",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 35,
+          "text": "There is a need to study in detail Stevenson’s influence on Chesterton.",
+          "options": null,
+          "answer": "YES",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SUMMARY_COMPLETION",
+      "range": [
+        36,
+        40
+      ],
+      "instructions": "Complete the summary using the list of words, A–I, below. Write the correct letter, A–I, in boxes 36–40 on your answer sheet. A natural ability B romance C colorful language D critical acclaim E humor F technical control G storytelling H depth I human nature",
+      "questions": [
+        {
+          "number": 36,
+          "text": "Sir Walter Scott and Robert Louis Stevenson A lot of people believe that Sir Walter Scott and Robert Louis Stevenson are the most influential writers in the history of Scotland, but Sir Walter Scott is more proficient in ______",
+          "options": [
+            "A natural ability",
+            "B romance",
+            "C colorful language",
+            "D critical acclaim",
+            "E humor",
+            "F technical control",
+            "G storytelling",
+            "H depth",
+            "I human nature"
+          ],
+          "answer": "F",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 37,
+          "text": ", while Stevenson has better ______.",
+          "options": [
+            "A natural ability",
+            "B romance",
+            "C colorful language",
+            "D critical acclaim",
+            "E humor",
+            "F technical control",
+            "G storytelling",
+            "H depth",
+            "I human nature"
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 38,
+          "text": "Scott’s books illustrate ______,",
+          "options": [
+            "A natural ability",
+            "B romance",
+            "C colorful language",
+            "D critical acclaim",
+            "E humor",
+            "F technical control",
+            "G storytelling",
+            "H depth",
+            "I human nature"
+          ],
+          "answer": "H",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 39,
+          "text": "especially in terms of tragedy, but many readers prefer Stevenson’s ______.",
+          "options": [
+            "A natural ability",
+            "B romance",
+            "C colorful language",
+            "D critical acclaim",
+            "E humor",
+            "F technical control",
+            "G storytelling",
+            "H depth",
+            "I human nature"
+          ],
+          "answer": "G",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 40,
+          "text": "What’s more, Stevenson’s understanding of ______ gave his works a unique expression of the Scottish people.",
+          "options": [
+            "A natural ability",
+            "B romance",
+            "C colorful language",
+            "D critical acclaim",
+            "E humor",
+            "F technical control",
+            "G storytelling",
+            "H depth",
+            "I human nature"
+          ],
+          "answer": "I",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 14,
+    "question_types": [
+      "MCQ",
+      "YNNG",
+      "SUMMARY_COMPLETION"
+    ],
+    "parsed_at": "2026-02-24T03:41:43.195303",
+    "parser_version": "1.0",
+    "needs_review": true,
+    "llm_structured_at": "2026-02-24T07:44:00+0800"
+  }
+}

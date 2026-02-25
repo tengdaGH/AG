@@ -1,0 +1,265 @@
+{
+  "id": "ielts-r-0197",
+  "slug": "health-in-the-wild",
+  "title": "Health in the Wild",
+  "page_range": [
+    999,
+    1003
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "detoxify",
+    "2": "NOT GIVEN",
+    "9": "hooks",
+    "3": "FALSE",
+    "10": "G",
+    "4": "FALSE",
+    "11": "D",
+    "5": "pith",
+    "12": "E",
+    "6": "terpenes",
+    "13": "C",
+    "7": "alkaloids"
+  },
+  "content": {
+    "title": "Health in the Wild",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "For the past decade Dr Engel, a lecturer in environmental sciences at Britain’s Open University, has been collating examples of self-medicating behaviour in wild animals. She recently published a book on the subject. In a talk at the Edinburgh Science Festival earlier this month, she explained that the idea that animals can treat themselves has been regarded with some scepticism by her colleagues in the past. But a growing number of animal behaviourists now think that wild animals can and do deal with their own medical needs."
+      },
+      {
+        "label": "B",
+        "content": "One example of self-medication was discovered in 1987. Michael Huffman and Mohamedi Seifu, working in the Mahale Mountains National Park in Tanzania, noticed that local chimpanzees suffering from intestinal worms would dose themselves with the pith of a plant called Veronia. This plant produces poisonous chemicals called terpenes. Its pith contains a strong enough concentration to kill gut parasites, but not so strong as to kill chimps (nor people, for that matter; locals use the pith for the same purpose). Given that the plant is known locally as “goat-killer”, however, it seems that not all animals are as smart as chimps and humans. Some consume it indiscriminately and succumb."
+      },
+      {
+        "label": "C",
+        "content": "Since the Veronia-eating chimps were discovered, more evidence has emerged suggesting that animals often eat things for medical rather than nutritional reasons. Many species, for example, consume dirt—a behaviour known as geophagy. Historically, the preferred explanation was that soil supplies minerals such as salt. But geophagy occurs in areas where the earth is not a useful source of minerals, and also in places where minerals can be more easily obtained from certain plants that are known to be rich in them. Clearly, the animals must be getting something else out of eating earth."
+      },
+      {
+        "label": "D",
+        "content": "The current belief is that soil—and particularly the clay in it—helps to detoxify the defensive poisons that some plants produce in an attempt to prevent themselves from being eaten. Evidence for the detoxifying nature of clay came in 1999, from an experiment carried out on macaws by James Gilardi and his colleagues at the University of California, Davis. Macaws eat seeds containing alkaloids, a group of chemicals that has some notoriously toxic members, such as strychnine. In the wild, the birds are frequently seen perched on eroding riverbanks eating clay. Dr Gilardi fed one group of macaws a mixture of harmless alkaloid and clay, and a second group just the alkaloid. Several hours later, the macaws that had eaten the clay had 60% less alkaloid in their bloodstreams than those that had not, suggesting that the hypothesis is correct."
+      },
+      {
+        "label": "E",
+        "content": "Other observations also support the idea that clay is detoxifying. Towards the tropics, the amount of toxic compounds in plants increases—and so does the amount of earth eaten by herbivores. Elephants lick clay from mud holes all year round, except in September when they are bingeing on fruit which, because it has evolved to be eaten, is not toxic. And the addition of clay to the diets of domestic cattle increases the amount of nutrients that they can absorb from their food by 10-20%."
+      },
+      {
+        "label": "F",
+        "content": "A third instance of animal self-medication is the use of mechanical scours to get rid of gut parasites. In 1972, Richard Wrangham, a researcher at the Gombe Stream Reserve in Tanzania, noticed that chimpanzees were eating the leaves of a tree called Aspilia. The chimps chose the leaves carefully by testing them in their mouths. Having chosen a leaf, a chimp would fold it into a fan and swallow it. Some of the chimps were noticed wrinkling their noses as they swallowed these leaves, suggesting the experience was unpleasant. Later, undigested leaves were found on the forest floor."
+      },
+      {
+        "label": "G",
+        "content": "Dr Wrangham rightly guessed that the leaves had a medicinal purpose—this was, indeed, one of the earliest interpretations of a behaviour pattern as self-medication. However, he guessed wrong about what the mechanism was. His (and everybody else’s) assumption was that Aspilia contained a drug, and this sparked more than two decades of phytochemical research to try to find out what chemical the chimps were after. But by the 1990s, chimps across Africa had been seen swallowing the leaves of 19 different species that seemed to have few suitable chemicals in common. The drug hypothesis was looking more and more dubious."
+      },
+      {
+        "label": "H",
+        "content": "It was Dr Huffman who got to the bottom of the problem. He did so by watching what came out of the chimps, rather than concentrating on what went in. He found that the egested leaves were full of intestinal worms. The factor common to all 19 species of leaves swallowed by the chimps was that they were covered with microscopic hooks. These caught the worms and dragged them from their lodgings."
+      },
+      {
+        "label": "I",
+        "content": "Following that observation, Dr Engel is now particularly excited about how knowledge of the way that animals look after themselves could be used to improve the health of livestock. People might also be able to learn a thing or two, and may, indeed, already have done so. Geophagy, for example, is a common behaviour in many parts of the world. The medical stalls in African markets frequently sell tablets made of different sorts of clays, appropriate to different medical conditions."
+      },
+      {
+        "label": "J",
+        "content": "Africans brought to the Americas as slaves continued this tradition, which gave their owners one more excuse to affect to despise them. Yet, as Dr Engel points out, Rwandan mountain gorillas eat a type of clay rather similar to kaolinite – the main ingredient of many patent medicines sold over the counter in the West for digestive complaints. Dirt can sometimes be good for you, and to be “as sick as a parrot” may, after all, be a state to be desired."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 1-4 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "It is for 10 years that Dr Engel has been working on animal self-medication.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "In order to find plants for medication, animals usually need to walk a long distance.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Birds such as Macaw, are seen eating clay because it is a part of their natural diet.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "According to Dr Engel, it is exciting that research into animal self-medication can be helpful in the invention of new painkillers.",
+            "answer": "FALSE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the notes below using NO MORE THAN ONE WORD from the passage.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Date: 1987 Animal: Chimpanzee Food: __________",
+            "answer": "pith",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Mechanism: Contained chemicals named __________ which can kill parasites",
+            "answer": "terpenes",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Date: 1999 Animal: Macaw Food: Seeds and clay Mechanism: (contains __________ can __________ the poisonous contents in food)",
+            "answer": "alkaloids",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Date: 1999 Animal: Macaw Food: Seeds and clay Mechanism: (contains alkaloids can __________ the poisonous contents in food)",
+            "answer": "detoxify",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Date: 1972 Animal: Chimpanzee Food: Leaves with tiny __________ on surface Mechanism: Such leaves can catch worms and expel them from intestines",
+            "answer": "hooks",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below using words from the box.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Though often doubted, the self-medicating behaviour of animals has been supported by an increasing amount of evidence. One piece of evidence particularly deals with __________, a soil-consuming behaviour commonly found across animals species, because the earth, often clay, can neutralize the __________ content of their diet.",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "mineral"
+              },
+              {
+                "label": "B",
+                "text": "plants"
+              },
+              {
+                "label": "C",
+                "text": "unpleasant"
+              },
+              {
+                "label": "D",
+                "text": "toxic"
+              },
+              {
+                "label": "E",
+                "text": "clay tablets"
+              },
+              {
+                "label": "F",
+                "text": "nutritional"
+              },
+              {
+                "label": "G",
+                "text": "geophagy"
+              },
+              {
+                "label": "H",
+                "text": "harmless"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Such behaviour can also be found among humans in Africa, where people purchase __________ at market stalls as a kind of medication to their illnesses.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "mineral"
+              },
+              {
+                "label": "B",
+                "text": "plants"
+              },
+              {
+                "label": "C",
+                "text": "unpleasant"
+              },
+              {
+                "label": "D",
+                "text": "toxic"
+              },
+              {
+                "label": "E",
+                "text": "clay tablets"
+              },
+              {
+                "label": "F",
+                "text": "nutritional"
+              },
+              {
+                "label": "G",
+                "text": "geophagy"
+              },
+              {
+                "label": "H",
+                "text": "harmless"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Another example of this is found in chimps eating leaves of often __________ taste but with no apparent medicinal value until its unique structure came into light.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "mineral"
+              },
+              {
+                "label": "B",
+                "text": "plants"
+              },
+              {
+                "label": "C",
+                "text": "unpleasant"
+              },
+              {
+                "label": "D",
+                "text": "toxic"
+              },
+              {
+                "label": "E",
+                "text": "clay tablets"
+              },
+              {
+                "label": "F",
+                "text": "nutritional"
+              },
+              {
+                "label": "G",
+                "text": "geophagy"
+              },
+              {
+                "label": "H",
+                "text": "harmless"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:19:54.082865"
+}

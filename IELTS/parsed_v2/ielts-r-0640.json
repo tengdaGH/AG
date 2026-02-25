@@ -1,0 +1,167 @@
+{
+  "id": "ielts-r-0640",
+  "slug": "why-some-women-cross-the-finish-line-ahead-of-men",
+  "title": "Why some women cross the finish line ahead of men",
+  "page_range": [
+    3234,
+    3237
+  ],
+  "raw_answer_key": {
+    "1": "E",
+    "8": "S",
+    "2": "G",
+    "9": "M",
+    "3": "A",
+    "10": "S",
+    "4": "C",
+    "11": "(it has) double(d)//doubling",
+    "5": "F",
+    "12": "de-layering",
+    "6": "D",
+    "13": "demographic trends",
+    "7": "A",
+    "14": "employers"
+  },
+  "content": {
+    "title": "Why some women cross the finish line ahead of men",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Women who apply for jobs in middle or senior management have a higher success rate than men, according to an employment survey. But of course far fewer of them apply for these positions. The study, by consultants NB Selection, shows that while one in six men who appear on interview shortlists get jobs, the figure rises to one in four for women."
+      },
+      {
+        "label": "B",
+        "content": "The study concentrated on applications for management positions in the $45,000 to $110,000 salary range and found that women are more successful than men in both the private and public sectors. Dr Elisabeth Marx from London-based NB Selection described the findings as encouraging for women, in that it sends a positive message to them to apply for interesting management positions. But she added, “We should not lose sight of the fact that significantly fewer women apply for senior positions in comparison with men.”"
+      },
+      {
+        "label": "C",
+        "content": "Reasons for higher success rates among women are difficult to isolate. One explanation suggests that if a woman candidate manages to get on a shortlist, then she has probably already proved herself to be an exceptional candidate. Dr Marx said that when women apply for positions they tend to be better prepared than their male counterparts but are more selective and conservative in their job search. Women tend to research thoroughly before applying for positions or attending interviews. Men, on the other hand, seem to have a greater ability to sell themselves and to convince employers that any shortcomings they have will not prevent them from doing a good job."
+      },
+      {
+        "label": "D",
+        "content": "Managerial and executive progress made by women is confirmed by the annual survey of board members carried out by Korn/Ferry/Carre/Orban International. This year the survey shows a doubling of the number of women serving as non-executive directors compared with the previous year. However, progress is painfully slow and there were still only 18 posts filled by women out of a total of 354 non-executive positions surveyed. Hilary Sears, a partner with Korn/Ferry, said, “Women have raised the level of grades they are employed in but we have still not broken through barriers to the top.”"
+      },
+      {
+        "label": "E",
+        "content": "In Europe a recent feature of corporate life in the recession has been the delayering of management structures. Sears said that this has halted progress for women in as much as de-layering has taken place either where women are working or in layers they aspire to. Sears also noted a positive trend from the recession, which has been the growing number of women who have started up on their own."
+      },
+      {
+        "label": "F",
+        "content": "In business as a whole, there are a number of factors encouraging the prospect of greater equality in the workforce. Demographic trends suggest that the number of women going into employment is still increasing. In addition a far greater number of women are now passing through higher education, leaving them better qualified to move into management positions."
+      },
+      {
+        "label": "G",
+        "content": "Organisations such as the European Women’s Management Development Network provide a range of opportunities for women to enhance their skills and contacts. Through a series of both pan-European and national workshops and conferences the barriers to women in employment are being broken down. Ariane Berthoin Antal, director of the International Institute for Organisational Change of Archamps, said that there is only anecdotal evidence of changes in recruitment patterns. And she said, “It’s still difficult for women to even get on to shortlists - there are so many hurdles and barriers.” Antal agreed that there have been some positive signs but said “Until there is a belief among employers, until they value the difference, nothing will change.”"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "State which paragraph discusses each of the points below. Write the appropriate letter (A-G) in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The drawbacks of current company restructuring patterns.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Associations that provide support for professional women.",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The success rate of female job applicants for management positions.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Male and female approaches to job applications.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Reasons why more women are being employed in the business sector.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The improvement in female numbers on company management structures.",
+            "answer": "D",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "The author makes reference to three consultants in the Reading Passage. Which of the list of points below do these consultants make? In boxes 7-10 write M if the point is made by Dr Marx, S if the point is made by Hilary Sears, A if the point is made by Ariane Berthoin Antal.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Selection procedures do not favour women.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The number of female-run businesses is increasing.",
+            "answer": "S",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Male applicants exceed female applicants for top posts.",
+            "answer": "M",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Women hold higher positions now than they used to.",
+            "answer": "S",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Using NO MORE THAN THREE WORDS answer the following questions. Write your answers in boxes 11-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "What change has there been in the number of women in top management positions detailed in the annual survey?",
+            "answer": "(it has) double(d)//doubling",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "What aspect of company structuring has disadvantaged women?",
+            "answer": "de-layering",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "What information tells us that more women are working nowadays?",
+            "answer": "demographic trends",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Which group of people should change their attitude to recruitment?",
+            "answer": "employers",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:18:21.766777"
+}

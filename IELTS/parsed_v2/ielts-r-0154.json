@@ -1,0 +1,219 @@
+{
+  "id": "ielts-r-0154",
+  "slug": "e-training",
+  "title": "E-training",
+  "page_range": [
+    786,
+    790
+  ],
+  "raw_answer_key": {
+    "1": "i",
+    "8": "B",
+    "2": "ix",
+    "9": "F",
+    "3": "iv",
+    "10": "D",
+    "4": "vii",
+    "11": "B",
+    "5": "v",
+    "12": "C",
+    "6": "iii",
+    "13": "E",
+    "7": "A"
+  },
+  "content": {
+    "title": "E-training",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "E-learning is the unifying term to describe the fields of online learning, web-based training, and technology-delivered instruction, which can be a great benefit to corporate e-learning. IBM, for instance, claims that the institution of its e-training program, Basic Blue, whose purpose is to train new managers, saved the company in the range of $200 million in 1999. Cutting the travel expenses required to bring employees and instructors to a central classroom account for the lion’s share of the savings. With an online course, employees can learn from any Internet-connected PC, anywhere in the world. Ernst and Young reduced training costs by 35 percent while improving consistency and scalability."
+      },
+      {
+        "label": "B",
+        "content": "In addition to generally positive economic benefits, other advantages such as convenience, standardized delivery, self-paced learning, and a variety of available content, have made e-learning a high priority for many corporations. E-learning is widely believed to offer flexible “any time, any place” learning. The claim for “any place” is valid in principle and is a great development. Many people can engage with rich learning materials that simply were not possible in a paper of broadcast distance learning era. For teaching specific information and skills, e-training holds great promise. It can be especially effective at helping employees prepare for IT certification programs. E-learning also seems to effectively address topics such as sexual harassment education, safety training and management training – all areas where a clear set of objectives can be identified. Ultimately, training experts recommend a “blended” approach that combines both online and in-person training as the instruction requires. E-learning is not an end-all solution. But if it helps decrease costs and windowless classrooms filled with snoring students, it definitely has its advantages."
+      },
+      {
+        "label": "C",
+        "content": "Much of the discussion about implementing e-learning has focused on the technology, but as Driscoll and others have reminded us, e-learning is not just about the technology, but also many human factors. As any capable manager knows, teaching employees new skills is critical to a smoothly run business. Having said that, however, the traditional route of classroom instruction runs the risk of being expensive, slow and, oftentimes, ineffective. Perhaps the classroom’s greatest disadvantage is the fact that it takes employees out of their jobs. Every minute an employee is sitting in a classroom training session is a minute they’re not out on the floor working. It now looks as if there is a way to circumvent these traditional training drawbacks. E-training promises more effective teaching techniques by integrating audio, video, animation, text and interactive materials with the intent of teaching each student at his or her own pace. In addition to higher performance results, there are other immediate benefits to students such as increased time on task, higher levels of motivation, and reduced test anxiety for many learners."
+      },
+      {
+        "label": "D",
+        "content": "On the other hand, nobody said E-training technology would be cheap. E-training service providers, on the average, charge from $10,000 to $60,000 to develop one hour of online instruction. This price varies depending on the complexity of the training topic and the media used. HTML pages are a little cheaper to develop while streaming-video presentations or flash animations cost more. Course content is just the starting place for the cost. A complete e-learning solution also includes the technology platform (the computers, applications and network connections that are used to deliver the courses). This technology platform, known as a learning management system (LMS), can either be installed onsite or outsourced. Add to that cost the necessary investments in network bandwidth to deliver multimedia courses, and you’re left holding one heck of a bill. For the LMS infrastructure and a dozen or so online courses, costs can top $500,000 in the first year. These kinds of costs mean that custom e-training is, for the time being, an option only for large organizations. For those companies that have a large enough staff, the e-training concept pays for itself. Aware of this fact, large companies are investing heavily in online training. Today, over half of the 400-plus courses that Rockwell Collins offers are delivered instantly to its clients in an e-learning format, a change that has reduced its annual training costs by 40%. Many other success stories exist."
+      },
+      {
+        "label": "E",
+        "content": "E-learning isn’t expected to replace the classroom entirely. For one thing, bandwidth limitations are still an issue in presenting multimedia over the Internet. Furthermore, e-training isn’t suited to every mode of instruction or topic. For instance, it’s rather ineffective at imparting cultural values or building teams. If your company has a unique corporate culture, it would be difficult to convey that to first-time employees through a computer monitor. Group training sessions are more ideal for these purposes. In addition, there is a perceived loss of research time because of the work involved in developing and teaching online classes. Professor Wallin estimated that it required between 500 and 1,000 person-hours, that is, Wallin-hours, to keep the course at the appropriate level of currency and usefulness. (Distance learning instructors often need technical skills, no matter how advanced the courseware system.) That amounts to between a quarter and half of a person-year. Finally, teaching materials require computer literacy and access to equipment. Any e-Learning system involves basic equipment and a minimum level of computer knowledge in order to perform the tasks required by the system. A student that does not possess these skills, or have access to these tools, cannot succeed in an e-Learning program."
+      },
+      {
+        "label": "F",
+        "content": "While few people debate the obvious advantages of e-learning, systematic research is needed to confirm that learners are actually acquiring and using the skills that are being taught online, and that e-learning is the best way to achieve the outcomes in a corporate environment. Nowadays, a go-between style of Blended learning, which refers to a mixing of different learning environments, is gaining popularity. It combines traditional face-to-face classroom methods with more modern computer-mediated activities. According to its proponents, the strategy creates a more integrated approach for both instructors and learners. Formerly, technology-based materials played a supporting role in face-to-face instruction. Through a blended learning approach, technology will be more important."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs A-F from the list below. Write the correct number, i-xi, in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "i",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "ix",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "iv",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "vii",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "v",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "iii",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading Passage has six paragraphs A-F. Which paragraph contains the following information? Write the correct letter A-F, in boxes 7-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Projected Basic Blue in IBM achieved great success.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "E-learning wins as a priority for many corporations as its flexibility.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "The combination of traditional and e-training environments may prevail.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Example of fast electronic delivery for a company’s products to its customers.",
+            "answer": "D",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose THREE correct letters, among A-E. Write your answers in boxes 11-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Technical facilities are hardly obtained."
+              },
+              {
+                "label": "B",
+                "text": "Presenting multimedia over the Internet is restricted due to the bandwidth limit."
+              },
+              {
+                "label": "C",
+                "text": "It is ineffective imparting a unique corporate value to fresh employees."
+              },
+              {
+                "label": "D",
+                "text": "Employees need to block a long time leaving their position attending training."
+              },
+              {
+                "label": "E",
+                "text": "More preparation time is needed to keep the course at a suitable level."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Technical facilities are hardly obtained."
+              },
+              {
+                "label": "B",
+                "text": "Presenting multimedia over the Internet is restricted due to the bandwidth limit."
+              },
+              {
+                "label": "C",
+                "text": "It is ineffective imparting a unique corporate value to fresh employees."
+              },
+              {
+                "label": "D",
+                "text": "Employees need to block a long time leaving their position attending training."
+              },
+              {
+                "label": "E",
+                "text": "More preparation time is needed to keep the course at a suitable level."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Technical facilities are hardly obtained."
+              },
+              {
+                "label": "B",
+                "text": "Presenting multimedia over the Internet is restricted due to the bandwidth limit."
+              },
+              {
+                "label": "C",
+                "text": "It is ineffective imparting a unique corporate value to fresh employees."
+              },
+              {
+                "label": "D",
+                "text": "Employees need to block a long time leaving their position attending training."
+              },
+              {
+                "label": "E",
+                "text": "More preparation time is needed to keep the course at a suitable level."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:59:32.977901"
+}

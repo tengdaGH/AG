@@ -1,0 +1,308 @@
+{
+  "id": "ielts-r-0567",
+  "slug": "the-value-of-a-college-degree",
+  "title": "The Value of a College Degree",
+  "page_range": [
+    2872,
+    2876
+  ],
+  "raw_answer_key": {
+    "1": "FALSE",
+    "8": "8655",
+    "2": "TRUE",
+    "9": "tuition",
+    "10": "C, D, E, G IN",
+    "3": "TRUE ANY ORDERS",
+    "11": "C, D, E, G IN",
+    "4": "NOT GIVEN ANY ORDERS",
+    "5": "adult’s working",
+    "12": "C, D, E, G IN life//a lifetime ANY ORDERS",
+    "13": "C, D, E, G IN",
+    "6": "1.6 million ANY ORDERS",
+    "7": "Bachelor's Degree Holder"
+  },
+  "content": {
+    "title": "The Value of a College Degree",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The escalating cost of higher education is causing many to question the value of continuing education beyond high school. Many wonder whether the high cost of tuition, the opportunity cost of choosing college over full-time employment, and the accumulation of thousands of dollars of debt is, in the long run, worth the investment."
+      },
+      {
+        "label": null,
+        "content": "The risk is especially large for low-income families who have a difficult time making ends meet without the additional burden of college tuition and fees."
+      },
+      {
+        "label": null,
+        "content": "In order to determine whether higher education is worth the investment, it is useful to examine what is known about the value of higher education and the rates of return on investment to both the individual and to society."
+      },
+      {
+        "label": null,
+        "content": "There is considerable support for the notion that the rate of return on investment in higher education is high enough to warrant the financial burden associated with pursuing a college degree. Though the earnings differential between college and high school graduates varies over time, college graduates, on average, earn more than high school graduates."
+      },
+      {
+        "label": null,
+        "content": "According to the Census Bureau, over an adult's working life, high school graduates earn an average of $1.2 million; associate’s degree holders earn about $1.6 million; and bachelor’s degree holders earn about $2.1 million (Day and Newburger, 2002)."
+      },
+      {
+        "label": null,
+        "content": "These sizeable differences in lifetime earnings put the costs of college study in realistic perspective. Most students today—about 80 percent of all students—enroll either in public four-year colleges or in public two-year colleges. According to the U.S. Department of Education report, Think College Early, a full-time student at a public four-year college pays an average of $8,655 for in-state tuition, room, and board (U.S. Department of Education, 2002). A full-time student in a public two-year college pays an average of $1,359 per year in tuition (U.S. Department of Education, 2002)."
+      },
+      {
+        "label": null,
+        "content": "These statistics support the contention that, though the cost of higher education is significant, given the earnings disparity that exists between those who earn a bachelor's degree and those who do not, the individual rate of return on investment in higher education is sufficiently high to warrant the cost."
+      },
+      {
+        "label": null,
+        "content": "College graduates also enjoy benefits beyond increased income. A1998 report published by the Institute for Higher Education Policy reviews the individual benefits that college graduates enjoy, including higher levels of saving, increased personal/professional mobility, improved quality of life for their offspring, better consumer decision making, and more hobbies and leisure activities (Institute for Higher Education Policy, 1998)."
+      },
+      {
+        "label": null,
+        "content": "According to a report published by the Carnegie Foundation, nonmonetary individual benefits of higher education include the tendency for postsecondary students to become more open-minded, more cultured, more rational, more consistent, and less authoritarian; these benefits are also passed along to succeeding generations (Rowley and Hurtado, 2002)."
+      },
+      {
+        "label": null,
+        "content": "Additionally, college attendance has been shown to 'decrease prejudice, enhance knowledge of world affairs and enhance social status' while increasing economic and job security for those who earn bachelor’s degrees (Ibid.)."
+      },
+      {
+        "label": null,
+        "content": "Research has also consistently shown a positive correlation between completion of higher education and good health, not only for oneself, but also for one’s children. In fact, 'parental schooling levels (after controlling for differences in earnings) are positively correlated with the health status of their children' and 'increased schooling (and higher relative income) are correlated with lower mortality rates for given age brackets' (Cohn and Geske, 1992)."
+      },
+      {
+        "label": null,
+        "content": "A number of studies have shown a high correlation between higher education and cultural and family values, and economic growth. According to Elchanan Cohn and Terry Geske (1992), there is the tendency for more highly educated women to spend more time with their children; these women tend to use this time to better prepare their children for the future."
+      },
+      {
+        "label": null,
+        "content": "Cohn and Geske (1992) report that 'college graduates appear to have a more optimistic view of their past and future personal progress.'"
+      },
+      {
+        "label": null,
+        "content": "Public benefits of attending college include increased tax revenues, greater workplace productivity, increased consumption, increased workforce flexibility, and decreased reliance on government financial support (Institute for Higher Education Policy, 1998)."
+      },
+      {
+        "label": null,
+        "content": "While it is clear that investment in a college degree, especially for those students in the lowest income brackets, is a financial burden, the long-term benefits to individuals as well as to society at large, appear to far outweigh the costs."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information in Reading Passage 1? In boxes 1-4 on your Answer Sheet, write TRUE if the statement is true according to the passage, FALSE if the statement contradicts the passage, and NOT GIVEN if there is no information about this in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The cost of a college education has remained steady for several years.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Some people have to borrow large amounts of money to pay for college.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "About 80 percent of college students study at public colleges.",
+            "answer": "TRUE ANY ORDERS",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Public colleges cost less than private colleges.",
+            "answer": "NOT GIVEN ANY ORDERS",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the fact sheet below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "The average high school graduate makes a little more than one million dollars in _______________.",
+            "answer": "adult’s working",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The average person with an associate’s degree earns _______________.",
+            "answer": "1.6 million ANY ORDERS",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "The average _______________ makes over two million dollars.",
+            "answer": "Bachelor's Degree Holder",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The average student at a four-year college spends _______________ $ a year on classes, housing, and food.",
+            "answer": "8655",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "The average student at a two-year college spends $1,359 on _______________.",
+            "answer": "tuition",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "The list below shows some benefits which college graduates may enjoy more of as compared to noncollege graduates. Which four of these benefits are mentioned in the article?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "They own bigger houses.",
+            "answer": "C, D, E, G IN",
+            "options": [
+              {
+                "label": "A",
+                "text": "They own bigger houses."
+              },
+              {
+                "label": "B",
+                "text": "They are more optimistic about their lives."
+              },
+              {
+                "label": "C",
+                "text": "They save more money."
+              },
+              {
+                "label": "D",
+                "text": "They enjoy more recreational activities."
+              },
+              {
+                "label": "E",
+                "text": "They have healthier children."
+              },
+              {
+                "label": "F",
+                "text": "They travel more frequently."
+              },
+              {
+                "label": "G",
+                "text": "They make more purchases."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "They are more optimistic about their lives.",
+            "answer": "C, D, E, G IN",
+            "options": [
+              {
+                "label": "A",
+                "text": "They own bigger houses."
+              },
+              {
+                "label": "B",
+                "text": "They are more optimistic about their lives."
+              },
+              {
+                "label": "C",
+                "text": "They save more money."
+              },
+              {
+                "label": "D",
+                "text": "They enjoy more recreational activities."
+              },
+              {
+                "label": "E",
+                "text": "They have healthier children."
+              },
+              {
+                "label": "F",
+                "text": "They travel more frequently."
+              },
+              {
+                "label": "G",
+                "text": "They make more purchases."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "They save more money.",
+            "answer": "C, D, E, G IN life//a lifetime ANY ORDERS",
+            "options": [
+              {
+                "label": "A",
+                "text": "They own bigger houses."
+              },
+              {
+                "label": "B",
+                "text": "They are more optimistic about their lives."
+              },
+              {
+                "label": "C",
+                "text": "They save more money."
+              },
+              {
+                "label": "D",
+                "text": "They enjoy more recreational activities."
+              },
+              {
+                "label": "E",
+                "text": "They have healthier children."
+              },
+              {
+                "label": "F",
+                "text": "They travel more frequently."
+              },
+              {
+                "label": "G",
+                "text": "They make more purchases."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "They enjoy more recreational activities.",
+            "answer": "C, D, E, G IN",
+            "options": [
+              {
+                "label": "A",
+                "text": "They own bigger houses."
+              },
+              {
+                "label": "B",
+                "text": "They are more optimistic about their lives."
+              },
+              {
+                "label": "C",
+                "text": "They save more money."
+              },
+              {
+                "label": "D",
+                "text": "They enjoy more recreational activities."
+              },
+              {
+                "label": "E",
+                "text": "They have healthier children."
+              },
+              {
+                "label": "F",
+                "text": "They travel more frequently."
+              },
+              {
+                "label": "G",
+                "text": "They make more purchases."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:00:51.276000"
+}

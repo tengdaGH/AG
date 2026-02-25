@@ -1,0 +1,248 @@
+{
+  "id": "ielts-r-0650",
+  "slug": "young-childrens-sense-of-identity",
+  "title": "Young children's sense of identity",
+  "page_range": [
+    3282,
+    3286
+  ],
+  "raw_answer_key": {
+    "1": "G",
+    "8": "B",
+    "2": "C",
+    "9": "E",
+    "3": "G",
+    "10": "C",
+    "4": "D",
+    "11": "mirror",
+    "5": "H",
+    "12": "communication",
+    "6": "E",
+    "13": "ownership",
+    "7": "D"
+  },
+  "content": {
+    "title": "Young children's sense of identity",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A sense of self develops in young children by degrees. The process can usefully be thought of in terms of the gradual emergence of two somewhat separate features: the self as a subject, and the self as an object. William James introduced the distinction in 1892, and contemporaries of his, such as Charles Cooley, added to the developing debate. Ever since then psychologists have continued building on the theory."
+      },
+      {
+        "label": "B",
+        "content": "According to James, a child's first step on the road to self-understanding can be seen as the recognition that he or she exists. This is an aspect of the self that he labelled 'self-as-subject', and he gave it various elements. These included an awareness of one's own agency (i.e. one's power to act), and an awareness of one's distinctiveness from other people. These features gradually emerge as infants explore their world and interact with caregivers. Cooley (1902) suggested that a sense of the self-as-subject was primarily concerned with being able to exercise power. He proposed that the earliest examples of this are an infant's attempts to control physical objects, such as toys or his or her own limbs. This is followed by attempts to affect the behaviour of other people. For example, infants learn that when they cry or smile someone responds to them."
+      },
+      {
+        "label": "C",
+        "content": "Another powerful source of information for infants about the effects they can have on the world around them is provided when others mimic them. Many parents spend a lot of time, particularly in the early months, copying their infant's vocalizations and expressions. In addition, young children enjoy looking in mirrors, where the movements they can see are dependent upon their own movements. This is not to say that infants recognize the reflection as their own image (a later development). However, Lewis and Brooks-Gunn (1979) suggest that infants' developing understanding that the movements they see in the mirror are contingent on their own, leads to a growing awareness that they are distinct from other people. This is because they, and only they, can change the reflection in the mirror."
+      },
+      {
+        "label": "D",
+        "content": "This understanding that children gain of themselves as active agents continues to develop in their attempts to co-operate with others in play. Dunn (1988) points out that it is in such day-to-day relationships and interactions that the child's understanding of his- or herself emerges. Empirical investigations of the self-as-subject in young children are, however, rather scarce because of difficulties of communication: even if young infants can reflect on their experience, they certainly cannot express this aspect of the self directly."
+      },
+      {
+        "label": "E",
+        "content": "Once children have acquired a certain level of self-awareness, they begin to place themselves in a whole series of categories, which together play such an important part in defining them uniquely as 'themselves'. This second step in the development of a full sense of self is what James called the 'self-as-object'. This has been seen by many to be the aspect of the self which is most influenced by social elements, since it is made up of social roles (such as student, brother, colleague) and characteristics which derive their meaning from comparison or interaction with other people (such as trustworthiness, shyness, sporting ability)."
+      },
+      {
+        "label": "F",
+        "content": "Cooley and other researchers suggested a close connection between a person's own understanding of their identity and other people's understanding of it. Cooley believed that people build up their sense of identity from the reactions of others to them, and from the view they believe others have of them. He called the self-as-object the 'looking-glass self', since people come to see themselves as they are reflected in others. Mead (1934) went even further, and saw the self and the social world as inextricably bound together: 'The self is essentially a social structure, and it arises in social experience ... it is impossible to conceive of a self arising outside of social experience.'"
+      },
+      {
+        "label": "G",
+        "content": "Lewis and Brooks-Gunn argued that an important developmental milestone is reached when children become able to recognize themselves visually without the support of seeing contingent movement. This recognition occurs around their second birthday. In one experiment, Lewis and Brooks-Gunn (1979) dabbed some red powder on the noses of children who were playing in front of a mirror, and then observed how often they touched their noses. The psychologists reasoned that if the children knew what they usually looked like, they would be surprised by the unusual red mark and would start touching it. On the other hand, they found that children of 15 to 18 months are generally not able to recognize themselves unless other cues such as movement are present."
+      },
+      {
+        "label": "H",
+        "content": "Finally, perhaps the most graphic expressions of self-awareness in general can be seen in the displays of rage which are most common from 18 months to 3 years of age. In a longitudinal study of groups of three or four children, Bronson (1975) found that the intensity of the frustration and anger in their disagreements increased sharply between the ages of 1 and 2 years. Often, the children's disagreements involved a struggle over a toy that none of them had played with before or after the tug-of-war: the children seemed to be disputing ownership rather than wanting to play with it. Although it may be less marked in other societies, the link between the sense of 'self' and of 'ownership' is a notable feature of childhood in Western societies."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "an account of the method used by researchers in a particular study",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "the role of imitation in developing a sense of identity",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "the age at which children can usually identify a static image of themselves",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "a reason for the limitations of scientific research into ‘self-as-subject’",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "reference to a possible link between culture and a particular form of behaviour",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "examples of the wide range of features that contribute to the sense of ‘self-as-object’",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following findings (Questions 7-10) and the list of researchers below. Match each finding with the correct researcher or researchers, A-E. Write the correct letter, A-E, in boxes 7-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "A sense of identity can never be formed without relationships with other people.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "James"
+              },
+              {
+                "label": "B",
+                "text": "Cooley"
+              },
+              {
+                "label": "C",
+                "text": "Lewis and Brooks-Gunn"
+              },
+              {
+                "label": "D",
+                "text": "Mead"
+              },
+              {
+                "label": "E",
+                "text": "Bronson"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "A child’s awareness of self is related to a sense of mastery over things and people.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "James"
+              },
+              {
+                "label": "B",
+                "text": "Cooley"
+              },
+              {
+                "label": "C",
+                "text": "Lewis and Brooks-Gunn"
+              },
+              {
+                "label": "D",
+                "text": "Mead"
+              },
+              {
+                "label": "E",
+                "text": "Bronson"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "At a certain age, children’s sense of identity leads to aggressive behaviour.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "James"
+              },
+              {
+                "label": "B",
+                "text": "Cooley"
+              },
+              {
+                "label": "C",
+                "text": "Lewis and Brooks-Gunn"
+              },
+              {
+                "label": "D",
+                "text": "Mead"
+              },
+              {
+                "label": "E",
+                "text": "Bronson"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Observing their own reflection contributes to children’s self awareness.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "James"
+              },
+              {
+                "label": "B",
+                "text": "Cooley"
+              },
+              {
+                "label": "C",
+                "text": "Lewis and Brooks-Gunn"
+              },
+              {
+                "label": "D",
+                "text": "Mead"
+              },
+              {
+                "label": "E",
+                "text": "Bronson"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 11-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "How children acquire a sense of identity. First, children come to realise that they can have an effect on the world around them, for example by handling objects, or causing the image to move when they face a",
+            "answer": "mirror",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "This aspect of self-awareness is difficult to research directly, because of",
+            "answer": "communication",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Secondly, children start to become aware of how they are viewed by others. One important stage in this process is the visual recognition of themselves which usually occurs when they reach the age of two. In Western societies at least, the development of self awareness is often linked to a sense of",
+            "answer": "ownership",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:21:03.128455"
+}

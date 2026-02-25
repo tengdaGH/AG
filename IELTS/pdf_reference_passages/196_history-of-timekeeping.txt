@@ -1,0 +1,203 @@
+TITLE: History of timekeeping
+INDEX: 196
+============================================================
+
+History of timekeeping
+
+Ever since man first noticed the regular movement of the Sun and the stars, we have
+wondered about the passage of time. Prehistoric people first recorded the phases of the
+Moon some 30,000 years ago, and recording time has been a way by which humanity has
+observed the heavens and represented the progress of civilization.
+
+
+The earliest natural events to be recognized were in the heavens, but during the course of
+the year, there were many other events that indicated significant changes in the
+environment. Seasonal winds and rains, the flooding of rivers, the flowering of trees and
+plants, and the breeding cycles or migration of animals and birds, all led to natural divisions
+of the year, and further observation and local customs led to the recognition of the
+seasons.
+
+
+Egyptian shadow clocks divided daytime into 12 parts with each part further divided into
+more precise parts. One type of shadow clock consisted of a long stem with five variable
+marks and an elevated crossbar which cast a shadow over those marks. It was positioned
+eastward in the morning and was turned west at noon. Obelisks functioned in much the
+same manner: the shadow cast on the markers around it allowed the Egyptians to calculate
+the time. The obelisk also indicated whether it was morning or afternoon, as well as the
+summer and winter solstices. 1500 BCE, was similar in shape to a bent T-square. It
+measured the passage of time by the shadow cast by its crossbar on a non-linear rule. The
+T was oriented eastward in the mornings and turned around at noon so that it could cast its
+shadow in the opposite direction. Although accurate, shadow clocks relied on the sun, and
+so were useless at night and in cloudy weather.
+
+Inventions for measuring and regulating time
+
+The early inventions were made to divide the day or the night into different periods in order
+to regulate work or ritual, so the lengths of the time periods varied greatly from place to
+place and from one culture to another.
+
+Oil lamps
+
+There is archaeological evidence of oil lamps about 4,000 BCE, and the Chinese were
+using oil for heating and lighting by 2,000 BCE. Oil lamps are still significant in religious
+practices, symbolic of the journey from darkness and ignorance to light and knowledge.
+The shape of the lamp gradually evolved into the typical pottery style shown. It was
+possible to devise a way of measuring the level in the oil reservoir to measure the passing
+of time.
+
+Candle Clocks
+
+Marked candles were used for telling the time in China from the sixth century CE. There is
+a popular story that King Alfred the Great invented the candle clock, but we know they were
+in use in England from the tenth century CE. However, the rate of burning is subject to
+draughts, and the variable quality of the wax. Life oil lamps, candles were used to mark the
+passage of time from one event to another, rather than tell the time of day.
+Water Clocks
+
+The water clock, or clepsydra, appears to have been invented about 1,500 BCE and was a
+device which relied on the steady flow of water from or into a container. Measurements
+could be marked on the container or on a receptacle for the water. In comparison with the
+candle or the oil lamp, the clepsydra was more reliable, but the water flow still depended on
+the variation of pressure from the head of water in the container.
+
+Astronomical and astrological clock making was developed in China from 200 to 1300 CE.
+Early Chinese clepsydras drove various mechanisms illustrating astronomical phenomena.
+The astronomer Su Sung and his associates built an elaborate clepsydra in 1088 CE. This
+device incorporated a water-driven bucket system originally invented about 725 CE. Among
+the displays were a bronze power-driven rotating celestial globe, and manikins that rang
+gongs, and indicated special times of the day.
+
+Hour Glasses or Sandglasses
+As the technology of glass-blowing developed, from some time in the 14th century it
+became possible to make sandglasses. Originally, sandglasses were used as a measure
+for periods of time like the lamps or candles, but as clocks became more accurate they
+were used to calibrate sandglasses to measure specific periods of time, and to determine
+the duration of sermons, university lectures, and even periods of torture.
+
+The Division of the Day and the Length of the ‘Hour’ An Egyptian sundial from about 1,500
+BCE is the earliest evidence of the division of the day into equal parts, but the sundial was
+no use at night. The passage of time was extremely important for astronomers and priests
+who were responsible for determining the exact hour for the daily rituals and for the
+important religious festivals, so a water clock was invented.
+
+The Merkhet
+
+The Egyptians improved upon the sundial with a ‘merkhet’, one of the oldest known
+astronomical instruments. It was developed around 600 BCE and uses a string with a
+weight as a plumb line to obtain a true vertical line, as in the picture. The other object is the
+rib of a palm leaf, stripped of its fronds and split at one end, making a thin slit for a sight.
+
+A pair of merkhets were used to establish a North-South direction by lining them up one
+behind the other with the Pole Star. Viewing the plumb lines through the sight made sure
+the two merkhets and the sight were in the same straight line with the Pole Star. This
+allowed for the measurement of night-time events with a water clock when certain stars
+crossed the vertical plumb line (a ‘transit line’), and these events could then be recorded by
+‘night-time lines’ drawn on a sundial.
+
+
+There are various theories about how the 24 hour day developed. The fact that the day was
+divided into 12 hours might be because 12 is a factor of 60, and both the Babylonian and
+Egyptian civilisations recognised a zodiac cycle of 12 constellations. On the other hand,
+(excuse the pun) finger-counting with base 12 was a possibility. The fingers each have 3
+joints, and so counting on the joints gives one ‘full hand’ of 12.
+
+In classical Greek and Roman times they used twelve hours from sunrise to sunset; but
+since summer days and winter nights are longer than winter days and summer nights, the
+lengths of the hours varied throughout the year.
+
+Questions 1-4
+
+Do the following statements agree with the information given in Reading Passage?
+
+In boxes 1-4 on your answer sheet, write
+
+YES if the statement is true
+
+NO if the statement is false
+
+NOT GIVEN if the information is not given in the passage
+
+
+1..................... Timekeeper’s exact date of origin was not clear today.
+
+2..................... People use candles and oil lamps for recording time to do things in the
+early days.
+
+
+3..................... Oil lamps are used for religious beliefs in 4000 BCE.
+
+
+4..................... The sundials have always been inaccurate to record time in ancient Egypt.
+
+
+Questions 5-10
+
+Write the correct letter A-D, in boxes 5-10 on your answer sheet
+
+NB You may use any letter more than once.
+
+A Wooden shadow clock
+B Clepsydra
+
+C Sandglasses
+
+D lamp oil candle
+
+
+5..................... It is used the container tag position recording time
+
+6..................... It is used to measure a particular time
+
+7..................... It is used only in the sunny day
+
+8..................... It is used oil cistern to measure the passage of time
+9..................... It isn’t only used to tell the time
+
+10..................... It is more accurate than candles and oil lamps
+
+
+Questions 11-13
+Choose the correct letter, A, B, C or D.
+
+Write your answers in boxes 11-13 on your answer.
+
+11 Which picture shows the working principle of clepsydra?
+
+A
+
+B
+C
+
+D
+
+12 Which picture best describes the wooden shadow?
+
+A
+
+B
+
+C
+
+D
+
+13 The picture below illustrates the oil lamp clock’s working
+A
+
+B
+
+C
+
+D
+
+Solution:
+
+1. YES 8. C
+2. YES 9. A
+
+3. YES 10. B
+4. NOT GIVEN 11. C
+
+5. B 12. A
+6. A 13. D
+
+7. D

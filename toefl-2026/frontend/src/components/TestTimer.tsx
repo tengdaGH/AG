@@ -1,0 +1,111 @@
+'use client';
+
+import React, { useState, useEffect } from 'react';
+
+interface TestTimerProps {
+    initialSeconds: number;
+    onTimeUp?: () => void;
+    sectionName?: string;
+}
+
+export const TestTimer: React.FC<TestTimerProps> = ({
+    initialSeconds,
+    onTimeUp
+}) => {
+    const [secondsLeft, setSecondsLeft] = useState(initialSeconds);
+    const [isHidden, setIsHidden] = useState(false);
+    const [isFlashing, setIsFlashing] = useState(false);
+
+    useEffect(() => {
+        if (secondsLeft <= 0) {
+            if (onTimeUp) onTimeUp();
+            return;
+        }
+
+        const timerId = setInterval(() => {
+            setSecondsLeft((prev) => prev - 1);
+        }, 1000);
+
+        return () => clearInterval(timerId);
+    }, [secondsLeft, onTimeUp]);
+
+    // Format time as MM:SS
+    const formatTime = (totalSeconds: number) => {
+        const m = Math.floor(totalSeconds / 60);
+        const s = totalSeconds % 60;
+        return `${m.toString().padStart(2, '0')}:${s.toString().padStart(2, '0')}`;
+    };
+
+    const isDanger = secondsLeft <= 300; // Less than or equal to 5 minutes
+
+    useEffect(() => {
+        if (secondsLeft === 300) {
+            // Exactly 5 minutes: force show time and flash
+            setIsHidden(false);
+
+            // Flash 3 times
+            let flashCount = 0;
+            const flashInterval = setInterval(() => {
+                setIsFlashing((prev) => !prev);
+                flashCount++;
+                if (flashCount >= 6) { // 3 times (on/off)
+                    clearInterval(flashInterval);
+                    setIsFlashing(false);
+                }
+            }, 500);
+        }
+    }, [secondsLeft]);
+
+    const timerColor = isDanger ? '#D32F2F' : '#212121';
+
+    return (
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+            {isHidden && !isDanger ? (
+                <div style={{
+                    fontSize: '16px',
+                    fontWeight: 700,
+                    color: '#212121',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '5px'
+                }}>
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                        <circle cx="12" cy="12" r="10"></circle>
+                        <polyline points="12 6 12 12 16 14"></polyline>
+                    </svg>
+                </div>
+            ) : (
+                <div
+                    style={{
+                        fontSize: '16px',
+                        fontWeight: 700,
+                        fontVariantNumeric: 'tabular-nums',
+                        color: timerColor,
+                        opacity: isFlashing ? 0.5 : 1,
+                        transition: 'opacity 0.2s'
+                    }}
+                >
+                    {formatTime(secondsLeft)}
+                </div>
+            )}
+            <button
+                onClick={() => setIsHidden(!isHidden)}
+                disabled={isDanger}
+                style={{
+                    background: 'none',
+                    border: '1px solid #D1D6E0',
+                    borderRadius: '20px',
+                    fontSize: '10px',
+                    fontWeight: 600,
+                    padding: '2px 8px',
+                    marginTop: '4px',
+                    cursor: isDanger ? 'not-allowed' : 'pointer',
+                    color: '#5E6A75',
+                    opacity: isDanger ? 0.5 : 1
+                }}
+            >
+                {isHidden && !isDanger ? 'Show Time' : 'Hide Time'}
+            </button>
+        </div>
+    );
+};

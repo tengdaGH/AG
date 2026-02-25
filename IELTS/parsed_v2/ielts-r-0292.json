@@ -1,0 +1,320 @@
+{
+  "id": "ielts-r-0292",
+  "slug": "motivating-drives",
+  "title": "Motivating Drives",
+  "page_range": [
+    1473,
+    1477
+  ],
+  "raw_answer_key": {
+    "8": "A, E, F IN ANY",
+    "1": "C ORDER",
+    "2": "A",
+    "9": "NO",
+    "3": "D",
+    "10": "NOT GIVEN",
+    "4": "B",
+    "11": "NO",
+    "5": "C",
+    "12": "YES",
+    "6": "A, E, F IN ANY",
+    "13": "NO ORDER",
+    "7": "A, E, F IN ANY",
+    "14": "NOT GIVEN ORDER"
+  },
+  "content": {
+    "title": "Motivating Drives",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Scientists have been researching the way to get employees motivated for many years. This research is a relational study which builds the fundamental and comprehensive model for study. This is especially true when the business goal is to turn unmotivated teams into productive ones. But their researchers have limitations. It is like studying the movements of a car without taking out the engine."
+      },
+      {
+        "content": "Motivation is what drives people to succeed and plays a vital role in enhancing organizational development. It is important to study the motivation of employees because it is related to the emotion and behavior of employees. Recent studies show there are four drives for motivation. They are the drive to acquire, the drive to bond, the drive to comprehend, and the drive to defend."
+      },
+      {
+        "content": "The drive to acquire must be met to optimize the acquisition aspect as well as the achievement element. Thus, the way that outstanding performance is recognized, the type of perks that are provided to polish the career path. But sometimes a written letter of appreciation generates more motivation than a thousand dollar check, which can serve as the invisible power to boost business engagement. Successful organizations and leaders not only need to focus on the optimization of physical reward but also on moving other levers within the organization that can drive motivation."
+      },
+      {
+        "content": "The drive to bond is also key to driving motivation. There are many kinds of bonds between people, like friendship and family. In a company, employees also want to be an essential part of the company. They want to belong to the company. Employees will be motivated if they find personal belonging to the company. In the meantime, the most commitment will be achieved by the employee on the condition that the force of motivation within the employee affects the direction, intensity, and persistence of decision and behavior in the company."
+      },
+      {
+        "content": "The drive to comprehend motivates many employees to higher performance. For years, it has been known that setting stretch goals can greatly impact performance. Organizations need to ensure that the various job roles provide employees with stimulation that challenges them or allows them to grow. Employees don’t want to do meaningless things or monotonous jobs. If the job does not provide them with personal meaning and fulfillment, they will leave the company."
+      },
+      {
+        "content": "The drive to defend is often the hardest lever to pull. This drive manifests itself as a quest to create and promote justice, fairness, and the ability to express ourselves freely. The organizational lever for this basic human motivator is resource allocation. This drive is also met through an employee feeling a connection to a company. If their companies are merged with another, they will show worries."
+      },
+      {
+        "content": "Two studies have been done to find the relations between the four drives and motivation. The article based on these studies was finally published in the Harvard Business Review. Most authors’ arguments have laid emphasis on the four-drive theory and actual investigations. Using the results of the surveys which were executed with employees from Fortune 500 companies and other two global businesses (P company and H company), the article mentions how independent drives influence employees’ behavior and how organizational levers boost employee motivation."
+      },
+      {
+        "content": "The studies show that the drive to bond is most related to fulfilling commitment, while the drive to comprehend is most related to how much effort employees spend on work. The drive to acquire can be satisfied by a rewarding system which ties rewards to performance and gives the best people opportunities for advancement. For the drive to defend, a study on the merging of P company and H company shows that employees in the former company show an unusual cooperative attitude."
+      },
+      {
+        "content": "The key to successfully motivating employees is to meet all drives. Each of these drives is important if we are to understand employee motivation. These four drives, while not necessarily the only human drives, are the ones that are central to a unified understanding of modern human life."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D. Write the correct letter in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "According to the passage, what are we told about the study of motivation?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "The theory of motivating employees is starting to catch attention in organizations in recent years."
+              },
+              {
+                "label": "B",
+                "text": "It is very important for managers to know how to motivate their subordinates because it is related to the salary of employees."
+              },
+              {
+                "label": "C",
+                "text": "Researchers have tended to be too theoretical to their study."
+              },
+              {
+                "label": "D",
+                "text": "The goal of employee motivation is to increase the profit of organizations."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What can be inferred from the passage about the study of people’s drives?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Satisfying employees’ drives can positively lead to the change of behavior."
+              },
+              {
+                "label": "B",
+                "text": "Satisfying employees’ drives will negatively affect their emotions."
+              },
+              {
+                "label": "C",
+                "text": "Satisfying employees’ drives can increase companies’ productions."
+              },
+              {
+                "label": "D",
+                "text": "Satisfying employees’ drives will result in employees’ outstanding performance."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "According to paragraph three, in order to optimize employees’ performance, are needed.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Drive to acquire and achievement element"
+              },
+              {
+                "label": "B",
+                "text": "Outstanding performance and recognition"
+              },
+              {
+                "label": "C",
+                "text": "Career fulfillment and a thousand dollar check"
+              },
+              {
+                "label": "D",
+                "text": "Financial incentive and recognition"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "According to paragraph five, how does “the drive to comprehend” help employees perform better?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "It can help employees better understand the development of their organizations."
+              },
+              {
+                "label": "B",
+                "text": "It can help employees feel their task in meaningful to their companies."
+              },
+              {
+                "label": "C",
+                "text": "It can help employees set higher goals."
+              },
+              {
+                "label": "D",
+                "text": "It can provide employees with repetitive tasks."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "According to paragraph six, which of following is true about “drive to defend”?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Organizational resource is the most difficult to allocate."
+              },
+              {
+                "label": "B",
+                "text": "It is more difficult to implement than the drive to comprehend."
+              },
+              {
+                "label": "C",
+                "text": "Employees think it is very important to voice their own opinions."
+              },
+              {
+                "label": "D",
+                "text": "Employees think it is very important to connect with a merged corporation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Choose THREE letters, A-F. Write the correct letters in boxes 6-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Which THREE of the following statements are true of study of drives?",
+            "answer": "A, E, F IN ANY",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees will be motivated if they feel belonged to the company."
+              },
+              {
+                "label": "B",
+                "text": "If employees get an opportunity of training and development program, their motivation will be enhanced."
+              },
+              {
+                "label": "C",
+                "text": "If employees’ working goals are complied with organizational objectives, their motivation will be reinforced."
+              },
+              {
+                "label": "D",
+                "text": "If employees’ motivation in very low, companies should find a way to increase their salary as their first priority."
+              },
+              {
+                "label": "E",
+                "text": "If employees find their work lacking challenging, they will leave the company."
+              },
+              {
+                "label": "F",
+                "text": "Employees will worry if their company is sold."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Which THREE of the following statements are true of study of drives?",
+            "answer": "A, E, F IN ANY",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees will be motivated if they feel belonged to the company."
+              },
+              {
+                "label": "B",
+                "text": "If employees get an opportunity of training and development program, their motivation will be enhanced."
+              },
+              {
+                "label": "C",
+                "text": "If employees’ working goals are complied with organizational objectives, their motivation will be reinforced."
+              },
+              {
+                "label": "D",
+                "text": "If employees’ motivation in very low, companies should find a way to increase their salary as their first priority."
+              },
+              {
+                "label": "E",
+                "text": "If employees find their work lacking challenging, they will leave the company."
+              },
+              {
+                "label": "F",
+                "text": "Employees will worry if their company is sold."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Which THREE of the following statements are true of study of drives?",
+            "answer": "A, E, F IN ANY",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees will be motivated if they feel belonged to the company."
+              },
+              {
+                "label": "B",
+                "text": "If employees get an opportunity of training and development program, their motivation will be enhanced."
+              },
+              {
+                "label": "C",
+                "text": "If employees’ working goals are complied with organizational objectives, their motivation will be reinforced."
+              },
+              {
+                "label": "D",
+                "text": "If employees’ motivation in very low, companies should find a way to increase their salary as their first priority."
+              },
+              {
+                "label": "E",
+                "text": "If employees find their work lacking challenging, they will leave the company."
+              },
+              {
+                "label": "F",
+                "text": "Employees will worry if their company is sold."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Increasing pay can lead to the high work motivation.",
+            "answer": "NO"
+          },
+          {
+            "number": 10,
+            "text": "Local companies benefit more from global companies through the study.",
+            "answer": "NOT GIVEN"
+          },
+          {
+            "number": 11,
+            "text": "Employees achieve the most commitment if their drive to comprehend is met.",
+            "answer": "NO"
+          },
+          {
+            "number": 12,
+            "text": "The employees in former company presented unusual attitude toward the merging of two companies.",
+            "answer": "YES"
+          },
+          {
+            "number": 13,
+            "text": "The two studies are done to analyze the relationship between the natural drives and the attitude of employees.",
+            "answer": "NO"
+          },
+          {
+            "number": 14,
+            "text": "Rewarding system cause the company to lose profit.",
+            "answer": "NOT GIVEN"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T01:33:58.024458"
+}

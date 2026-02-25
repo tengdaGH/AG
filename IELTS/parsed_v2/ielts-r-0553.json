@@ -1,0 +1,203 @@
+{
+  "id": "ielts-r-0553",
+  "slug": "the-secret-of-the-yawn",
+  "title": "The secret of the Yawn",
+  "page_range": [
+    2801,
+    2805
+  ],
+  "raw_answer_key": {
+    "1": "68 seconds",
+    "8": "F",
+    "2": "distinction",
+    "9": "D",
+    "3": "breathing",
+    "10": "H",
+    "4": "stretch",
+    "11": "NOT GIVEN",
+    "5": "brain",
+    "12": "TRUE",
+    "6": "E",
+    "13": "FALSE",
+    "7": "B"
+  },
+  "content": {
+    "title": "The Secret of the Yawn",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "When a scientist began to study yawning in the 1980s, it was difficult to convince some of his research students of the merits of “yawning science.” Although it may appear quirky, his decision to study yawning was a logical extension to human beings of my research in developmental neuroscience, reported in such papers as “Wing-flapping during Development and Evolution.” As a neurobehavioral problem, there is not much difference between the wing-flapping of birds and the face – and body-flapping of human yawners."
+      },
+      {
+        "label": "B",
+        "content": "Yawning is an ancient, primitive act. Humans do it even before they are born, opening wide in the womb. Some snakes unhinge their jaws to do it. One species of penguins yawns as part of mating. Only now are researchers beginning to understand why we yawn, when we yawn and why we yawn back. A professor of cognitive neuroscience at Drexel University in Philadelphia, Steven Platek, studies the act of contagious yawning, something done only by people and other primates."
+      },
+      {
+        "label": "C",
+        "content": "In his first experiment, he used a psychological test to rank people on their empathic feelings. He found that participants who did not score high on compassion did not yawn back. “We literally had people saying, ‘Why am I looking at people yawning?’” Professor Platek said. “It just had no effect.”"
+      },
+      {
+        "label": "D",
+        "content": "For his second experiment, he put 10 students in a magnetic resonance imaging machine as they watched video tapes of people yawning. When the students watched the videos, the part of the brain which reacted was the part scientists believe controls empathy – the posterior cingulate, in the brain’s middle rear.” I don’t know if it’s necessarily that nice people yawn more, but I think it’s a good indicator of a state of mind,” said Professor Platek. “It’s also a good indicator if you’re empathizing with me and paying attention.”"
+      },
+      {
+        "label": "E",
+        "content": "His third experiment is studying yawning in those with brain disorders, such as autism and schizophrenia, in which victims have difficulty connecting emotionally with others. A psychology professor at the University of Maryland, Robert Provine, is one of the few other researchers into yawning. He found the basic yawn lasts about six seconds and they come in bouts with an interval of about 68 seconds. Men and women yawn or half-yawn equally often, but men are significantly less likely to cover their mouths which may indicate complex distinction in genders.” A watched yawner never yawns,” Professor Provine said. However, the physical root of yawning remains a mystery. Some researchers say it’s coordinated within the hypothalamus of the brain, the area that also controls breathing."
+      },
+      {
+        "label": "F",
+        "content": "Yawning and stretching also share properties and may be performed together as parts of a global motor complex. But they do not always co-occur – people usually yawn when we stretch, but we don’t always stretch when we yawn, especially before bedtime. Studies by J.I.P, G.H.A. Visser and H.F. Prechtl in the early 1980s, charting movement in the developing fetus using ultrasound, observed not just yawning but a link between yawning and stretching as early as the end of the first prenatal trimester."
+      },
+      {
+        "label": "G",
+        "content": "The most extraordinary demonstration of the yawn-stretch linkage occurs in many people paralyzed on one side of their body because of brain damage caused by a stroke. The prominent British neurologist Sir Francis Walshe noted in 1923 what when these hemiplegics yawn, they are startled and mystified to observe that their otherwise paralyzed arm rises and flexes automatically in what neurologists term an “associated response.” Yawning apparently activates undamaged, unconsciously controlled connections between the brain and the cord motor system innervating the paralyzed limb. It is not known whether the associated response is a positive prognosis for recovery, nor whether yawning is therapeutic for reinnervation or prevention of muscular atrophy."
+      },
+      {
+        "label": "H",
+        "content": "Clinical neurology offers other surprises. Some patients with “locked-in” syndrome, who are almost totally deprived of the ability to move voluntarily, can yawn normally. The neural circuits for spontaneous yawning must exist in the brain stem near other respiratory and vasomotor centers, because yawning is performed by anencephalic who possess only the medulla oblongata. The multiplicity of stimuli of contagious yawning, by contrast, implicates many higher brain regions."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the Summary paragraph described below. In boxes 1-5 on your answer sheet, write the correct answer with NO MORE THAN THREE WORDS.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A psychology professor drew a conclusion after observation that it takes about six seconds to complete average yawning which needs",
+            "answer": "68 seconds",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "before the following yawning comes. It is almost at the same frequency that male and female yawn or half, yet behavior accompanied with yawning showing a",
+            "answer": "distinction",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "in genders. Some parts within the brain may affect the movement which also has something to do with",
+            "answer": "breathing",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "another finding also finds there is a link between a yawn and",
+            "answer": "stretch",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "before a baby was born, which two can be automatically co-operating even among people whose",
+            "answer": "brain",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Read paragraph A-H. Which paragraph contains the following information? Write the correct letter A-H for questions 6-10. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "The rate for yawning shows some regular pattern.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Yawning is an inherent ability that appears in both animals and humans.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Stretching and yawning is not always going together.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Yawning may suggest people are having positive notice or response in communicating.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Some superior areas in the brain may deal with the infectious feature of yawning.",
+            "answer": "H",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 11-13 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Several students in Platek’s experiment did not comprehend why their tutor ask them to yawn back.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Some results from the certain experiment indicate the link between yawning and compassion.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Yawning can show an affirmative impact on the recovery from brain damage brought by a stroke.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:56:40.960555"
+}

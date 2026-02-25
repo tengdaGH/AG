@@ -1,0 +1,409 @@
+{
+  "id": "ielts-r-0145",
+  "slug": "education-philosophy",
+  "title": "Education Philosophy",
+  "page_range": [
+    740,
+    744
+  ],
+  "raw_answer_key": {
+    "1": "iii",
+    "8": "C",
+    "2": "v",
+    "9": "C",
+    "3": "i",
+    "10": "A",
+    "4": "vi",
+    "11": "B",
+    "5": "A",
+    "12": "A",
+    "6": "B",
+    "13": "D",
+    "7": "B"
+  },
+  "content": {
+    "title": "Education Philosophy",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Although we lack accurate statistics about child mortality in the pre-industrial period, we do have evidence that in the 1660s, the mortality rate for children who died within 14 days of birth was as much as 30 per cent. Nearly all families suffered some premature death. Since all parents expected to bury some of their children, they found it difficult to invest in their newborn children. Moreover, to protect themselves from the emotional consequences of children’s death, parents avoided making any emotional commitment to an infant. It is no wonder that we find mothers leave their babies in gutters or refer to the death in the same paragraph with reference to pickles."
+      },
+      {
+        "label": "B",
+        "content": "The 18th century witnessed the transformation from an agrarian economy to an industrial one, one of the vital social changes taking place in the Western world. An increasing number of people moved from their villages and small towns to big cities where life was quite different. Social supports which had previously existed in smaller communities were replaced by ruthless problems such as poverty, crime, substandard housing and disease. Due to the need for additional income to support the family, young children from the poorest families were forced into early employment and thus their childhood became painfully short. Children as young as 7 might be required to work full-time, subjected to unpleasant and unhealthy circumstances, from factories to prostitution. Although such a role has disappeared in most wealthy countries, the practice of childhood employment still remains a staple in underdeveloped countries and rarely disappeared entirely."
+      },
+      {
+        "label": "C",
+        "content": "The lives of children underwent a drastic change during the 1800s in the United States. Previously, children from both rural and urban families were expected to participate in everyday labour due to the bulk of manual hard working. Nevertheless, thanks to the technological advances of the mid-1800s, coupled with the rise of the middle class and redefinition of roles of family members, work and home became less synonymous over time. People began to purchase toys and books for their children. When the country depended more upon machines, children in rural and urban areas, were less likely to be required to work at home. Beginning from the Industrial Revolution and rising slowly over the course of the 19th century, this trend increased dramatically after civil war. John Locke, one of the most influential writers of his period, created the first clear and comprehensive statement of the ‘environmental position’ that family education determines a child’s life, and via this, he became the father of modem learning theory. During the colonial period, his teachings about child care gained a lot of recognition in America."
+      },
+      {
+        "label": "D",
+        "content": "According to Jean Jacques Rousseau, who lived in an era of the American and French Revolution, people were ‘noble savages’ in the original state of nature, meaning they are innocent, free and uncorrupted. In 1762, Rousseau wrote a famous novel Emile to convey his educational philosophy through a story of a boy’s education from infancy to adulthood. This work was based on his extensive observation of children and adolescents, their individuality, his developmental theory and on the memories of his own childhood. He contrasts children with adults and describes their age-specific characteristics in terms of historical perspective and developmental psychology. Johan Heinrich Pestalozzi, living during the early stages of the Industrial Revolution, sought to develop schools to nurture children’s all-round development. He agreed with Rousseau that humans are naturally good but were spoiled by a corrupt society. His approach to teaching consists of the general and special methods, and his theory was based upon establishing an emotionally healthy homelike learning environment, which had to be in place before more specific instructions occurred."
+      },
+      {
+        "label": "E",
+        "content": "One of the best-documented cases of Pestalozzi’s theory concerned a so-called feral child named Victor, who was captured in a small town in the south of France in 1800. Prepubescent, mute, naked, and perhaps 11 or 12 years old, Victor had been seen foraging for food in the gardens of the locals in the area and sometimes accepted people’s direct offers of food before his final capture. Eventually, he was brought to Paris and expected to answer some profound questions about the nature of human, but that goal was quashed very soon. A young physician Jean Marc Gaspard Itard was optimistic about the future of Victor and initiated a five-year education plan to civilise him and teach him to speak. With a subsidy from the government, Itard recruited a local woman Madame Guerin to assist him to provide a semblance of a home for Victor, and he spent an enormous amount of time and effort working with Victor. Itard’s goal to teach Victor the basics of speech could never be fully achieved, but Victor had learnt some elementary forms of communication."
+      },
+      {
+        "label": "F",
+        "content": "Although other educators were beginning to recognise the simple truth embedded in Rousseau’s philosophy, it is not enough to identify the stages of children’s development alone. There must be certain education which had to be geared towards those stages. One of the early examples was the invention of kindergarten, which was a word and a movement created by a German-born educator, Friedrich Froebel in 1840. Froebel placed a high value on the importance of play in children’s learning. His invention would spread around the world eventually in a variety of forms. Froebel’s ideas were inspired through his cooperation with Johann Heinrich Pestalozzi. Froebel didn’t introduce the notion of kindergarten until 58 years old, and he had been a teacher for four decades. The notion was a haven and a preparation for children who were about to enter the regimented educational system. The use of guided or structured play was a cornerstone of his kindergarten education because he believed that play was the most significant aspect of development at this time of life. Play served as a mechanism for a child to grow emotionally and to achieve a sense of self-worth. Meanwhile, teachers served to organise materials and a structured environment in which each child, as an individual, could achieve these goals. When Froebel died in 1852, dozens of kindergartens had been created in Germany. Kindergartens began to increase in Europe, and the movement eventually reached and flourished in the United States in the 20th century."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs A and C-E from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The inheritance and development of educational concepts of different thinkers"
+              },
+              {
+                "label": "ii",
+                "text": "Why children had to work to alleviate the burden on family"
+              },
+              {
+                "label": "iii",
+                "text": "Why children are not highly valued"
+              },
+              {
+                "label": "iv",
+                "text": "The explanation for children dying in hospital at their early age"
+              },
+              {
+                "label": "v",
+                "text": "The first appearance of modern educational philosophy"
+              },
+              {
+                "label": "vi",
+                "text": "The application of a creative learning method on a wild kid"
+              },
+              {
+                "label": "vii",
+                "text": "The emergence and spread of the notion of kindergarten"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "The inheritance and development of educational concepts of different thinkers"
+              },
+              {
+                "label": "ii",
+                "text": "Why children had to work to alleviate the burden on family"
+              },
+              {
+                "label": "iii",
+                "text": "Why children are not highly valued"
+              },
+              {
+                "label": "iv",
+                "text": "The explanation for children dying in hospital at their early age"
+              },
+              {
+                "label": "v",
+                "text": "The first appearance of modern educational philosophy"
+              },
+              {
+                "label": "vi",
+                "text": "The application of a creative learning method on a wild kid"
+              },
+              {
+                "label": "vii",
+                "text": "The emergence and spread of the notion of kindergarten"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "The inheritance and development of educational concepts of different thinkers"
+              },
+              {
+                "label": "ii",
+                "text": "Why children had to work to alleviate the burden on family"
+              },
+              {
+                "label": "iii",
+                "text": "Why children are not highly valued"
+              },
+              {
+                "label": "iv",
+                "text": "The explanation for children dying in hospital at their early age"
+              },
+              {
+                "label": "v",
+                "text": "The first appearance of modern educational philosophy"
+              },
+              {
+                "label": "vi",
+                "text": "The application of a creative learning method on a wild kid"
+              },
+              {
+                "label": "vii",
+                "text": "The emergence and spread of the notion of kindergarten"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "The inheritance and development of educational concepts of different thinkers"
+              },
+              {
+                "label": "ii",
+                "text": "Why children had to work to alleviate the burden on family"
+              },
+              {
+                "label": "iii",
+                "text": "Why children are not highly valued"
+              },
+              {
+                "label": "iv",
+                "text": "The explanation for children dying in hospital at their early age"
+              },
+              {
+                "label": "v",
+                "text": "The first appearance of modern educational philosophy"
+              },
+              {
+                "label": "vi",
+                "text": "The application of a creative learning method on a wild kid"
+              },
+              {
+                "label": "vii",
+                "text": "The emergence and spread of the notion of kindergarten"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each event with the correct date, A, B or C.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "the need for children to work",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the 18th century (1700-1799)"
+              },
+              {
+                "label": "B",
+                "text": "the 19th century (1800-1899)"
+              },
+              {
+                "label": "C",
+                "text": "the 20th century (1900-1999)"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "the rise of the middle class",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the 18th century (1700-1799)"
+              },
+              {
+                "label": "B",
+                "text": "the 19th century (1800-1899)"
+              },
+              {
+                "label": "C",
+                "text": "the 20th century (1900-1999)"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "the emergence of a kindergarten",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the 18th century (1700-1799)"
+              },
+              {
+                "label": "B",
+                "text": "the 19th century (1800-1899)"
+              },
+              {
+                "label": "C",
+                "text": "the 20th century (1900-1999)"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "the spread of kindergartens around the U.S.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the 18th century (1700-1799)"
+              },
+              {
+                "label": "B",
+                "text": "the 19th century (1800-1899)"
+              },
+              {
+                "label": "C",
+                "text": "the 20th century (1900-1999)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each opinion or deed with the correct person, A, B, C or D.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "was not successful to prove the theory",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Jean Jacques Rousseau"
+              },
+              {
+                "label": "B",
+                "text": "Johan Heinrich Pestalozzi"
+              },
+              {
+                "label": "C",
+                "text": "Jean Marc Gaspard Itard"
+              },
+              {
+                "label": "D",
+                "text": "Friedrich Froebel"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "observed a child’s record",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Jean Jacques Rousseau"
+              },
+              {
+                "label": "B",
+                "text": "Johan Heinrich Pestalozzi"
+              },
+              {
+                "label": "C",
+                "text": "Jean Marc Gaspard Itard"
+              },
+              {
+                "label": "D",
+                "text": "Friedrich Froebel"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "requested a study setting with emotional comfort firstly",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Jean Jacques Rousseau"
+              },
+              {
+                "label": "B",
+                "text": "Johan Heinrich Pestalozzi"
+              },
+              {
+                "label": "C",
+                "text": "Jean Marc Gaspard Itard"
+              },
+              {
+                "label": "D",
+                "text": "Friedrich Froebel"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "proposed that corruption was not a characteristic in people’s nature",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Jean Jacques Rousseau"
+              },
+              {
+                "label": "B",
+                "text": "Johan Heinrich Pestalozzi"
+              },
+              {
+                "label": "C",
+                "text": "Jean Marc Gaspard Itard"
+              },
+              {
+                "label": "D",
+                "text": "Friedrich Froebel"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "was responsible for an increase in the number of a type of school",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Jean Jacques Rousseau"
+              },
+              {
+                "label": "B",
+                "text": "Johan Heinrich Pestalozzi"
+              },
+              {
+                "label": "C",
+                "text": "Jean Marc Gaspard Itard"
+              },
+              {
+                "label": "D",
+                "text": "Friedrich Froebel"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T00:50:42.650137"
+}

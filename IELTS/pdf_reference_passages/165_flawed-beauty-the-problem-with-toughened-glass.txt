@@ -1,0 +1,178 @@
+TITLE: Flawed Beauty: the problem with toughened glass
+INDEX: 165
+============================================================
+
+Flawed Beauty: the problem with toughened glass
+
+On 2nd August 1999, a particularly hot day in the town of Cirencester in the UK, a large
+pane of toughened glass in the roof of a shopping centre at Bishops Walk shattered without
+warning and fell from its frame.
+
+When fragments were analysed by experts at the giant glass manufacturer Pilkington.
+which had made the pane, they found that minute crystals of nickel sulphide trapped inside
+the glass had almost certainly caused the failure.
+
+'The glass industry is aware of the issue,' says Brian Waldron, chairman of the standards
+committee at tine Glass and Glazing Federation, a British trade association, and standards
+development officer at Pilkington. But he insists that cases are few and far between. ‘It's a
+very rare phenomenon.' he says.
+
+Others disagree. 'On average I see about one or two buildings a month suffering from
+nickel sulphide related failures,' says Barrie Josie, a consultant engineer involved in the
+
+Bishops Walk investigation. Other experts tell of similar experiences. Tony Wilmott of
+London based consulting engineers Sandberg, and Simon Armstrong at CladTech
+Associates in Hampshire both say they know of hundreds of cases. 'What you hear is only
+the tip of the iceberg.' says Trevor Ford, a glass expert at Resolve Engineering in Brisbane.
+Queensland. He believes the reason is simple: 'No-one wants bad press.'
+
+Toughened glass is found everywhere, from cars and bus shelters to the windows, walls
+and roofs of thousands of buildings around the world. It's easy to see why. This glass has
+five times the strength of standard glass, and when it does break it shatters into tiny cubes
+rather than large, razor-sharp shards. Architects love it because large panels can be bolted
+together to make transparent walls, and turning it into ceilings and floors is almost as easy.
+
+It is made by heating a sheet of ordinary glass to about 620°C to soften it slightly, allowing
+its structure to expand, and then cooling it rapidly with jets of cold air. This causes the outer
+layer of the pane to contract and solidify before the interior. When the interior finally
+solidifies and shrinks, it exerts a pull on the outer layer that leaves It in permanent
+compression and produces a tensile force inside the glass. As cracks propagate best in
+materials under tension, the compressive force on the surface must be overcome before
+the pane will break, making it more resistant to cracking.
+
+The problem starts when glass contains nickel sulphide impurities. Trace amounts of nickel
+and sulphur are usually present in the raw materials used to make glass, and nickel can
+also be introduced by fragments of nickel alloys falling into the molten glass. As the glass is
+heated, these atoms react to form tiny crystals of nickel sulphide. Just a tenth of a gram of
+nickel in the furnace can create up to 50,000 crystals.
+
+These crystals can exist in two forms: a dense form called the alpha phase, which is stable
+at high temperatures, and a less dense form called the beta phase, which is stable at room
+temperatures. The high temperatures used in the toughening process convert all the
+crystals to the dense, compact alpha form. But the subsequent cooling is so rapid that the
+crystals don't have time to change back to the beta phase. This leaves unstable alpha
+crystals in the glass, primed like a coiled spring, ready to revert to the beta phase without
+warning.
+When this happens, the crystals expand by up to 4%. And if they are within the central,
+tensile region of the pane, the stresses this unleashes can shatter the whole sheet. The
+time that elapses before failure occurs is unpredictable. It could happen just months after
+manufacture, or decades later, although if the glass is heated - by sunlight, for example -
+the process is speeded up. Ironically, says Graham Dodd, of consulting engineers Arup in
+
+London, the oldest pane of toughened glass known to have failed due to nickel sulphide
+inclusions was in Pilkington's glass research building in Lathom, Lancashire. The pane was
+27 years old.
+
+Data showing the scale of the nickel sulphide problem Is almost Impossible to find. The
+picture is made more complicated by the fact that these crystals occur in batches. So even
+if, on average, there is only one inclusion in 7 tonnes of glass, if you experience one nickel
+sulphide failure in your building, that probably means you've got a problem in more than
+one pane. Josie says that in the last decade he has worked on over 15 buildings with the
+number of failures into double figures.
+
+One of the worst examples of this is Waterfront Place, which was completed in 1990. Over
+the following decade the 40- storey Brisbane block suffered a rash of failures. Eighty panes
+of its toughened glass shattered due to inclusions before experts were finally called in.
+John Barry, an expert in nickel sulphide contamination at the University of Queensland,
+analysed every glass pane in the building. Using a studio camera, a photographer went up
+in a cradle to take photos of every pane. These were scanned under a modified microfiche
+reader for signs of nickel sulphide crystals. ‘We discovered at least another 120 panes with
+potentially dangerous inclusions which were then replaced,’ says Barry. ‘It was a very
+expensive and time consuming process that took around six months to complete.'
+
+Though the project cost A$1.6 million (nearly £700,000), the alternative - re-cladding the
+entire building - would have cost ten times as much.
+
+Questions 1-4
+
+Look at the following people and the list of statements below.
+
+Match each person with the correct statement.
+
+Write the correct letter A-H in boxes 1-4 on your answer sheet.
+
+List of Statements
+suggests that publicity about nickel sulphide failure has been
+A
+suppressed
+
+Bregularly sees cases of nickel sulphide failure
+Cclosely examined all the glass in one building
+
+Dwas involved with the construction of Bishops Walk
+Erecommended the rebuilding of Waterfront Place
+
+F thinks the benefits of toughened glass are exaggerated
+Gclaims that nickel sulphide failure is very unusual
+
+Hrefers to the most extreme case of delayed failure
+
+
+1..................... Brian Waldron
+
+2..................... Trevor Ford
+3..................... Graham Dodd
+
+4..................... John Barry
+
+
+Questions 5-10
+
+Complete the summary with the list of words A-P below.
+
+Write your answers in boxes 5-10 on your answer sheet.
+
+A numerous B detectedC quickly D agreed
+
+E warm F sharp G expands H slowly
+I unexpectedlyJ removedK contractsL disputed
+
+M cold N moved O small P calculated
+Toughened Glass
+
+
+Toughened glass is favoured by architects because it is much stronger than
+ordinary glass, and the fragments are not as 5..................... when it breaks. However, it
+has one disadvantage: it can shatter 6...................... This fault is a result of
+the manufacturing process. Ordinary glass is firs' heated, then cooled
+very 7...................... The outer layer 8..................... before the inner layer, and
+the tension between the two layers which is created because of this makes the glass
+stronger. However, if the glass contains nickel sulphide impurities, crystals of nickel
+sulphide are formed. These are unstable, and can expand suddenly, particularly if the
+weather is 9...................... If this happens, the pane of glass may break. The frequency
+with which such problems occur is 10..................... by glass experts Furthermore,
+the crystals cannot be detected without sophisticated equipment.
+
+
+Questions 11-13
+
+Do the following statements agree with the information given in Reading Passage?
+In boxes 11-13 on your answer sheet, write
+
+TRUE if the statement agrees with the information
+
+FALSE if the statement contradicts the information
+
+NOT GIVEN if there is no information on this
+
+
+11..................... Little doubt was expressed about the reason for the Bishops Walk
+accident.
+
+12..................... Toughened glass has the same appearance as ordinary glass.
+
+13..................... There is plenty of documented evidence available about the incidence of
+nickel sulphide failure.
+
+Solution:
+
+1. G 8. K
+2. A 9. E
+
+3. H 10. L
+4. C 11. TRUE
+
+5. F 12. NOT GIVEN
+6. I 13. FALSE
+
+7. C

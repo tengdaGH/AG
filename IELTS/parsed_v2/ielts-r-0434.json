@@ -1,0 +1,177 @@
+{
+  "id": "ielts-r-0434",
+  "slug": "the-ballpoint-pen",
+  "title": "The ballpoint pen",
+  "page_range": [
+    2203,
+    2205
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "4": "B",
+    "2": "D",
+    "5": "A",
+    "3": "C"
+  },
+  "content": {
+    "title": "The Ballpoint Pen",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Most of us have at least one, but how did this popular item evolve?"
+      },
+      {
+        "label": null,
+        "content": "One morning in 1945, a crowd of 5,000 people jammed the entrance of Gimbels Department Store in New York. The day before, Gimbels had placed a full-page advertisement in the New York Times for a wonderful new invention, the ballpoint pen. The advertisement described the pen as 'fantastic' and 'miraculous'. Although they were expensive, $12.50 each, all 10,000 pens in stock were sold on the first day."
+      },
+      {
+        "label": null,
+        "content": "In fact, this 'new' pen was not new at all. In 1888, John Loud, a leather manufacturer, had invented a pen with a reservoir of ink and a rolling ball. However, his pen was never produced, and efforts by other people to produce a commercially successful one failed too. The main problem was with the ink. If it was too thin, the ink leaked out of the pen. If it was too thick, it didn't come out of the pen at all."
+      },
+      {
+        "label": null,
+        "content": "Almost fifty years later, in 1935, a newspaper editor in Hungary thought he spent too much time filling his pens with ink. He decided to invent a better kind of pen. With the help of his brother, who was a chemist, he produced a ballpoint pen that didn't leak when the pen wasn't being used. The editor was called Ladislas Biro, and it was his name that people would associate more than any other with the ballpoint pen."
+      },
+      {
+        "label": null,
+        "content": "By chance, Biro met Augustine Justo, the Argentinian president. Justo was so impressed with Biro's invention that he invited him to set up a factory in Argentina. In 1943, the first Biro pens were produced."
+      },
+      {
+        "label": null,
+        "content": "Unfortunately, they were not popular, since the pen needed to be held in a vertical position for the ink to come out. Biro redesigned the pen with a better ball, and in 1944 the new product was on sale throughout Argentina."
+      },
+      {
+        "label": null,
+        "content": "It was a North American, Milton Reynolds, who introduced the ballpoint pen to the USA. Copying Biro's design, he produced the version that sold so well at Gimbels. Another American, Patrick Frawley, improved the design and in 1950 began producing a pen he called the Papermate. It was an immediate success, and within a few years, Papermates were selling in their millions around the world."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Read each part carefully and choose the correct option, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "People went to Gimbels to buy a ballpoint pen because",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "they couldn't get them anywhere else."
+              },
+              {
+                "label": "B",
+                "text": "they had been told how good the pens were."
+              },
+              {
+                "label": "C",
+                "text": "they had never seen a ballpoint pen before."
+              },
+              {
+                "label": "D",
+                "text": "they thought the price was good."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Why were early ballpoint pens not produced commercially?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Nobody wanted to buy one."
+              },
+              {
+                "label": "B",
+                "text": "It cost too much to produce them."
+              },
+              {
+                "label": "C",
+                "text": "They used too much ink."
+              },
+              {
+                "label": "D",
+                "text": "They didn't work properly."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Why was Ladislas Biro's pen better than earlier models?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It didn't need to be filled with ink as often."
+              },
+              {
+                "label": "B",
+                "text": "It was designed by a chemist."
+              },
+              {
+                "label": "C",
+                "text": "The ink stayed in the pen until it was needed."
+              },
+              {
+                "label": "D",
+                "text": "It was easier to use."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Biro's first commercially-produced pen",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "was produced in a factory owned by the Argentinian president."
+              },
+              {
+                "label": "B",
+                "text": "only worked if used in a certain way."
+              },
+              {
+                "label": "C",
+                "text": "was a major success."
+              },
+              {
+                "label": "D",
+                "text": "went on sale in 1944."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Patrick Frawley's pen",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "was a better version of an earlier model."
+              },
+              {
+                "label": "B",
+                "text": "took time to become successful."
+              },
+              {
+                "label": "C",
+                "text": "was the USA's first commercially successful ballpoint pen."
+              },
+              {
+                "label": "D",
+                "text": "was only successful in the USA."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 5
+  },
+  "processed_at": "2026-02-25T21:27:53.943574"
+}

@@ -1,0 +1,195 @@
+{
+  "id": "ielts-r-0353",
+  "slug": "radio-automation",
+  "title": "Radio Automation",
+  "page_range": [
+    1796,
+    1800
+  ],
+  "raw_answer_key": {
+    "1": "chip",
+    "8": "cheaper",
+    "2": "grit",
+    "9": "components",
+    "3": "milten zinc",
+    "10": "lighter",
+    "4": "milling machine",
+    "11": "cost",
+    "5": "sockets",
+    "12": "A",
+    "6": "loudspeakers",
+    "13": "D",
+    "7": "valves"
+  },
+  "content": {
+    "title": "Radio Automation",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "John Sargrove, the visionary engineer who developed the technology, was way ahead of his time. For more than a decade, Sargrove had been trying to figure out how to make cheaper radios. Automating the manufacturing process would help. But radios didn’t lend themselves to such methods: there were too many parts to fit together and too many wires to solder. Even a simple receiver might have 30 separate components and 80 hand-soldered connections. At every stage, things had to be tested and inspected. Making radios required highly skilled labour—and lots of it."
+      },
+      {
+        "label": "B",
+        "content": "In 1944, Sargrove came up with the answer. His solution was to dispense with most of the fiddly bits by inventing a primitive chip—a slab of Bakelite with all the receiver’s electrical components and connections embedded in it. This was something that could be made by machines, and he designed those too. At the end of the war, Sargrove built an automatic production line, which he called ECME (electronic circuit-making equipment), in a small factory in Effingham, Surrey."
+      },
+      {
+        "label": "C",
+        "content": "An operator sat at one end of each ECME line, feeding in die plates. She didn’t need much skill, only quick hands. From now on, everything was controlled by electronic switches and relays. First stop was the sandblaster, which roughened the surface of the plastic so that molten metal would stick to it. The plates were then cleaned to remove any traces of grit. The machine automatically checked that the surface was rough enough before sending the plate to the spraying section. There, eight nozzles rotated into position and sprayed molten zinc over both sides of the plate. Again, the nozzles only began to spray when a plate was in place. The plate whizzed on. The next stop was the milling machine, which ground away the surface layer of metal to leave the circuit and other components in the grooves and recesses. Now the plate was a composite of metal and plastic. It sped on to be lacquered and have its circuits tested. By the time it emerged from the end of the line, robot hands had fitted it with sockets to attach components such as valves and loudspeakers. When ECME was working flat out, the whole process took 20 seconds."
+      },
+      {
+        "label": "D",
+        "content": "ECME was astonishingly advanced. Electronic eyes, photocells that generated a small current when a panel arrived, triggered each step in the operation, thus avoiding excessive wear and tear on the machinery. The plates were automatically tested at each stage as they moved along the conveyor. And if more than two plates in succession were duds, the machines were automatically adjusted—or if necessary halted. In a conventional factory, workers would test faulty circuits and repair them. But Sargrove’s assembly line produced circuits so cheaply they just threw away the faulty ones. Sargrove’s circuit board was even more astonishing for the time. It predated the more familiar printed circuit, with wiring printed on a board, yet was more sophisticated. Its built-in components made it more like a modern chip."
+      },
+      {
+        "label": "E",
+        "content": "When Sargrove unveiled his invention at a meeting of the British Institution of Radio Engineers in February 1947, the assembled engineers were impressed. So was the man from The Times. ECME, he reported the following day, “produces almost without human labour, a complete radio receiving set. This new method of production can be equally well applied to television and other forms of electronic apparatus."
+      },
+      {
+        "label": "F",
+        "content": "The receivers had many advantages over their predecessors. With components they were more robust. Robots didn’t make the sorts of mistakes human assembly workers sometimes did. “Wiring mistakes just cannot happen,” wrote Sargrove. No wires also meant the radios were lighter and cheaper to ship abroad. And with no soldered wires to come unstuck, the radios were more reliable. Sargrove pointed out that the circuit boards didn’t have to be flat. They could be curved, opening up the prospect of building the electronics into the cabinet of Bakelite radios."
+      },
+      {
+        "label": "G",
+        "content": "Sargrove was all for introducing this type of automation to other products. It could be used to make more complex electronic equipment than radios, he argued. And even if only part of a manufacturing process were automated, the savings would be substantial. But while his invention was brilliant, his timing was bad. ECME was too advanced for its own good. It was only competitive on huge production runs because each new job meant retooling the machines. But disruption was frequent. Sophisticated as it was, ECME still depended on old-fashioned electromechanical relays and valves—which failed with monotonous regularity. The state of Britain’s economy added to Sargrove’s troubles. Production was dogged by power cuts and post-war shortages of materials. Sargrove’s financial backers began to get cold feet."
+      },
+      {
+        "label": "H",
+        "content": "There was another problem Sargrove hadn’t foreseen. One of ECME’s biggest advantages—the savings on the cost of labour—also accelerated its downfall. Sargrove’s factory had two ECME production lines to produce the two circuits needed for each radio. Between them these did what a thousand assembly workers would otherwise have done. Human hands were needed only to feed the raw material in at one end and plug the valves into their sockets and fit the loudspeakers at the other. After that, the only job left was to fit the pair of Bakelite panels into a radio cabinet and check that it worked."
+      },
+      {
+        "label": "I",
+        "content": "Sargrove saw automation as the way to solve post-war labour shortages. With somewhat Utopian idealism, he imagined his new technology would free people from boring, repetitive jobs on the production line and allow them to do more interesting work. “Don’t get the idea that we are out to rob people of their jobs,” he told the Daily Mirror. “Our task is to liberate men and women from being slaves of machines.”"
+      },
+      {
+        "label": "J",
+        "content": "The workers saw things differently. They viewed automation in the same light as the everlasting light bulb or the suit that never wears out—as a threat to people’s livelihoods. If automation spread, they wouldn’t be released to do more exciting jobs. They’d be released to join the dole queue. Financial backing for ECME fizzled out. The money dried up. And Britain lost its lead in a technology that would transform industry just a few years later."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following chart of the paragraphs of Reading Passage, using no more than two words from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "1.....................",
+            "answer": "chip"
+          },
+          {
+            "number": 2,
+            "text": "2.....................",
+            "answer": "grit"
+          },
+          {
+            "number": 3,
+            "text": "3.....................",
+            "answer": "milten zinc"
+          },
+          {
+            "number": 4,
+            "text": "4.....................",
+            "answer": "milling machine"
+          },
+          {
+            "number": 5,
+            "text": "5.....................",
+            "answer": "sockets"
+          },
+          {
+            "number": 6,
+            "text": "6.....................",
+            "answer": "loudspeakers"
+          },
+          {
+            "number": 7,
+            "text": "7.....................",
+            "answer": "valves"
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage, using NO more than two words from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Sargrove had been dedicated to create a 8..................... radio by automation of",
+            "answer": "cheaper"
+          },
+          {
+            "number": 9,
+            "text": "manufacture. The old version of radio had a large number of independent 9......................",
+            "answer": "components"
+          },
+          {
+            "number": 10,
+            "text": "After this innovation made, wireless-style radios became 10..................... and inexpensive",
+            "answer": "lighter"
+          },
+          {
+            "number": 11,
+            "text": "to export oversea. As the Saigrove saw it, the real benefit of ECME’s radio was that it reduced 11..................... of manual work; which can be easily copied to other industries of manufacturing electronic devices.",
+            "answer": "cost"
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "What were workers attitude towards ECME Model initialy",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "anxious"
+              },
+              {
+                "label": "B",
+                "text": "welcoming"
+              },
+              {
+                "label": "C",
+                "text": "boring"
+              },
+              {
+                "label": "D",
+                "text": "inspiring"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "What is the main idea of this passage?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "approach to reduce the price of radio"
+              },
+              {
+                "label": "B",
+                "text": "a new generation of fully popular products and successful business"
+              },
+              {
+                "label": "C",
+                "text": "in application of die automation in the early stage"
+              },
+              {
+                "label": "D",
+                "text": "ECME technology can be applied in many product fields"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:05:53.234321"
+}

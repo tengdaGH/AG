@@ -1,0 +1,83 @@
+{
+  "id": "ielts-r-0572",
+  "slug": "the-water-hyacinth",
+  "title": "The water hyacinth",
+  "page_range": [
+    2896,
+    2898
+  ],
+  "raw_answer_key": {
+    "1": "YES",
+    "4": "YES",
+    "2": "NOT GIVEN",
+    "5": "NO",
+    "3": "NOT GIVEN",
+    "6": "YES"
+  },
+  "content": {
+    "title": "The Water Hyacinth",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The water hyacinth grows in tropical countries. It has beautiful purple-blue flowers, but everybody hates it. Why? Millions and millions of these plants grow in rivers and lakes. Sometimes the plants become so thick that people can walk on them. People cannot travel in boats on the water, and they cannot fish in it. The plants stop the water from moving. Then the water carries diseases. Farmers cannot use the water on their land."
+      },
+      {
+        "label": null,
+        "content": "Now scientists think that water hyacinths can be useful. The plants are really a tree crop. No one has to take care of them. They just grow and grow and grow. What can farmers use them for? Some fish like to eat them. Farmers can grow these fish in the lakes and rivers. Workers can collect and cut the plants with machines. Then they can make fertilizer to make their crops grow better. They can also make feed for their farm animals. Maybe it will be possible to make methane gas for energy. (We burn gas from petroleum for energy. Methane gas comes from plants.)"
+      },
+      {
+        "label": null,
+        "content": "Then poor tropical countries will not have to buy so much expensive petroleum. Maybe in the future people will love the water hyacinth instead of hating it."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Water hyacinths grow very thick on some tropical lakes and rivers.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Water hyacinths help make water clean.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Water hyacinths grow in parts of Asia and Africa.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Some kinds of fish like to eat water hyacinths.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Water hyacinths can make petroleum.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Water hyacinths are a tree crop.",
+            "answer": "YES",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 6
+  },
+  "processed_at": "2026-02-25T22:00:36.907737"
+}

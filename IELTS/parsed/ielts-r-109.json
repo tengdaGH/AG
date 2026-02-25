@@ -1,0 +1,260 @@
+{
+  "id": "ielts-r-109",
+  "source_file": "109. P3 - Humanities and the health professional 人文医学.pdf",
+  "position": "P3",
+  "question_range": [
+    27,
+    40
+  ],
+  "difficulty": "unmarked",
+  "title": "Humanities and the health professional",
+  "title_cn": "人文医学",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": "",
+        "text": "Professor Jock Murray from Dalhousie Medical School in Canada writes about the role of humanities in the education of health professionals\n\nIn a recent meeting with health professionals from many disciplines, the concept of the humanities and how they enrich the lives and practice of physicians was discussed. There were nurses, chiropractors, speech therapists, health administrators and professionals from a dozen other fields. Everyone commented on the need to achieve a balance between the humanities and the skills and technological expertise of their specific discipline, beginning with the experience in medical school and then life in their chosen specialisation, to create fully realised professionals."
+      },
+      {
+        "label": "",
+        "text": "The purpose of my discussion here is to advocate a balanced approach to the education of all health professionals. I believe that most people wish to see in their medical professional a person who not only brings excellent skills, techniques and treatments, but also personal qualities that show they are fully developed individuals. Such individuals are sensitive, communicative, and understanding of the human condition. They acknowledge the vast array of backgrounds, views, fears and hopes each person brings to the clinical encounter."
+      },
+      {
+        "label": "",
+        "text": "The training of health professionals has usually been exemplary in teaching them to recognise and treat a symptom or disease, but often less attentive to the broad education that would inform and educate them about the persons who come from various cultures, backgrounds and experiences. Such understanding does not come from the course textbooks but from literature, history, poetry, art and other aspects of the humanities."
+      },
+      {
+        "label": "",
+        "text": "There are two sides to the healing profession, once described as the art and the science of medical practice. It is evident, however, that most educational programmes emphasise knowledge, clinical skill and competence, and although educators wish the person to be humanistic, empathetic and communicative, they take this aspect for granted, as if valuable educational time does not need to be allocated to this ‘soft’ feature of the profession. It is compounded by the recognition that this aspect is harder to define and measure than knowledge and competence. We may want the health professional to understand many elements of the human condition so they can understand, assess and manage the suffering of patients, but it is harder to design and teach such a course than one on anatomy, for example."
+      },
+      {
+        "label": "",
+        "text": "Developing a humanities programme in professional education refocuses attention on what everyone recognises as important. Rather than take humanities education for granted, it becomes a direct part of the programme. This signals that the school takes it seriously and encourages activities related to the broad area of the humanities."
+      },
+      {
+        "label": "",
+        "text": "Distinguished by their focus on human values, the humanities cover many areas, including history, ethics, literature, theology, art, music, law and the social sciences as they apply to the profession. For example, a history of the profession gives us an understanding of how we have come to be where we are, and how things change and progress. Literature can teach us about human hopes and aspirations, suffering and loss, relationships, and life and death. Emphasis on human values is important in this day and age as we are increasingly at risk of being overwhelmed by more emotionless technology and complex bureaucracy."
+      },
+      {
+        "label": "",
+        "text": "In medical education during the 18th and 19th centuries, there was an emphasis on the humanities. As time went on, encouraged by increasing interest in medical sciences, laboratory experiments and technological aspects of the profession, emphasis in medical studies was weighted towards courses in the sciences. The Flexner Report in 1910 recognised the variable quality of medical education and the need to have better teaching in the medical sciences and laboratory methods. This resulted in a pendulum swing in emphasis, directing the curriculum to the medical sciences, to the exclusion of the humanities, an imbalance never intended by Flexner."
+      },
+      {
+        "label": "",
+        "text": "Currently at Dalhousie Medical School we have elective programmes in the humanities, summer research studentships, lecture series, presentations and discussions. There is an artist-in-residence programme that brings artists to the school. There is a large choir of over a hundred students and faculty, a concert band, a string ensemble, and groups of student artists who put on regular performances and exhibitions. The list of activities is much longer, but it should be pointed out that these provide some balance and broaden the life and learning of the student. Perhaps more important than the activities themselves is the change in mind-set that occurs when students see that diversity in their studies and activities is legitimised and encouraged."
+      },
+      {
+        "label": "",
+        "text": "We emphasise that we want students and faculty to continue to express interests and talents they had before entering medical school. They now come forward with ideas and activities that are more imaginative and exciting than we could have designed. They also comment that the humanities has made medical school a more enjoyable and fulfilling experience. Students see that their learning and their lives can be more balanced, making them better equipped to care for their patients."
+      },
+      {
+        "label": "",
+        "text": "Will involvement in the humanities make one a better health professional? It’s a question often asked of today’s medical professionals but very difficult to document in this evidence-based era of medicine. But as ethics scholars have said of learning ethics, it cannot guarantee that a person will be more ethical, but it is more likely than not. My firm belief is that all the healing professions should increase the balance of humanities with the traditional educational emphasis on skills and knowledge, and this will benefit both the healers and those who need to be healed."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "YNNG",
+      "range": [
+        27,
+        31
+      ],
+      "instructions": "Do the following statements agree with the claims of the writer in Reading Passage 3? In boxes 27–31 on your answer sheet, write YES if the statement agrees with the claims of the writer NO if the statement contradicts the claims of the writer NOT GIVEN if it is impossible to say what the writer thinks about this",
+      "questions": [
+        {
+          "number": 27,
+          "text": "An approach that incorporates the humanities is more important for some medical disciplines than others.",
+          "options": null,
+          "answer": "NO",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 28,
+          "text": "Most people value medical expertise over sensitivity in their medical professionals.",
+          "options": null,
+          "answer": "NOT GIVEN",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 29,
+          "text": "Most medical programmes devote little course time to developing interpersonal skills.",
+          "options": null,
+          "answer": "YES",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 30,
+          "text": "It is more difficult to design a humanities course for health professionals than a medical one.",
+          "options": null,
+          "answer": "YES",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 31,
+          "text": "It would be best if a medical programme included a course about the lives of medical professionals.",
+          "options": null,
+          "answer": "NOT GIVEN",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "MCQ",
+      "range": [
+        32,
+        35
+      ],
+      "instructions": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 32–35 on your answer sheet.",
+      "questions": [
+        {
+          "number": 32,
+          "text": "What unforeseen result did the Flexner report have?",
+          "options": [
+            "A It caused the public to distrust the quality of medical education.",
+            "B It caused a dramatic increase in medical-school applicants.",
+            "C It started a fierce debate over proper laboratory methods.",
+            "D It moved the focus of medical studies away from the humanities."
+          ],
+          "answer": "D",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 33,
+          "text": "The writer lists humanities activities at Dalhousie Medical School to show how these activities",
+          "options": [
+            "A have become the most popular events on campus.",
+            "B widen students’ educational experiences.",
+            "C are of as high a quality as medical ones.",
+            "D have gained acceptance with teaching staff."
+          ],
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 34,
+          "text": "How do students at Dalhousie Medical School react to humanities activities?",
+          "options": [
+            "A They have difficulty letting go of the mind-set that scientific knowledge is more legitimate.",
+            "B They report feeling that medical school has become more engaging and satisfying.",
+            "C They have started to transfer creative ideas to their scientific and laboratory studies.",
+            "D They have trouble connecting to talents they had valued before entering medical school."
+          ],
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 35,
+          "text": "What is the writer’s main conclusion?",
+          "options": [
+            "A Greater emphasis on humanities in medical schools will benefit both patients and practitioners.",
+            "B Medical schools are not adequately preparing students to become balanced medical professionals.",
+            "C Creating a humanities programme in a medical school is an overwhelmingly difficult but necessary task.",
+            "D Medical schools should return to the early-twentieth-century model of medical education."
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SENTENCE_ENDING",
+      "range": [
+        36,
+        40
+      ],
+      "instructions": "Complete each sentence with the correct ending, A–G, below. Write the correct letter, A–G, in boxes 36–40 on your answer sheet.\nA generate innovative and creative suggestions for activities and programmes.\nB are difficult to describe with any precision.\nC find it difficult to prove statistically the benefits of humanities programmes.\nD suggest that humanities studies create stronger practitioners.\nE rely on course textbooks to teach humanities.\nF give less attention to broad education and more to recognising and treating symptoms.\nG provide more equal coverage of both medical knowledge and skills, and humanities.",
+      "questions": [
+        {
+          "number": 36,
+          "text": "Health professionals at a recent seminar discussed a need for educational institutions to",
+          "options": [
+            "A generate innovative and creative suggestions for activities and programmes.",
+            "B are difficult to describe with any precision.",
+            "C find it difficult to prove statistically the benefits of humanities programmes.",
+            "D suggest that humanities studies create stronger practitioners.",
+            "E rely on course textbooks to teach humanities.",
+            "F give less attention to broad education and more to recognising and treating symptoms.",
+            "G provide more equal coverage of both medical knowledge and skills, and humanities."
+          ],
+          "answer": "G",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 37,
+          "text": "Most medical training programmes",
+          "options": [
+            "A generate innovative and creative suggestions for activities and programmes.",
+            "B are difficult to describe with any precision.",
+            "C find it difficult to prove statistically the benefits of humanities programmes.",
+            "D suggest that humanities studies create stronger practitioners.",
+            "E rely on course textbooks to teach humanities.",
+            "F give less attention to broad education and more to recognising and treating symptoms.",
+            "G provide more equal coverage of both medical knowledge and skills, and humanities."
+          ],
+          "answer": "F",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 38,
+          "text": "The interpersonal and behavioural aspects of medical practice",
+          "options": [
+            "A generate innovative and creative suggestions for activities and programmes.",
+            "B are difficult to describe with any precision.",
+            "C find it difficult to prove statistically the benefits of humanities programmes.",
+            "D suggest that humanities studies create stronger practitioners.",
+            "E rely on course textbooks to teach humanities.",
+            "F give less attention to broad education and more to recognising and treating symptoms.",
+            "G provide more equal coverage of both medical knowledge and skills, and humanities."
+          ],
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 39,
+          "text": "Dalhousie Medical School students and faculty",
+          "options": [
+            "A generate innovative and creative suggestions for activities and programmes.",
+            "B are difficult to describe with any precision.",
+            "C find it difficult to prove statistically the benefits of humanities programmes.",
+            "D suggest that humanities studies create stronger practitioners.",
+            "E rely on course textbooks to teach humanities.",
+            "F give less attention to broad education and more to recognising and treating symptoms.",
+            "G provide more equal coverage of both medical knowledge and skills, and humanities."
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 40,
+          "text": "Modern evidence-based practitioners",
+          "options": [
+            "A generate innovative and creative suggestions for activities and programmes.",
+            "B are difficult to describe with any precision.",
+            "C find it difficult to prove statistically the benefits of humanities programmes.",
+            "D suggest that humanities studies create stronger practitioners.",
+            "E rely on course textbooks to teach humanities.",
+            "F give less attention to broad education and more to recognising and treating symptoms.",
+            "G provide more equal coverage of both medical knowledge and skills, and humanities."
+          ],
+          "answer": "C",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 14,
+    "question_types": [
+      "YNNG",
+      "MCQ",
+      "SENTENCE_ENDING"
+    ],
+    "parsed_at": "2026-02-24T03:41:38.864000",
+    "parser_version": "1.0",
+    "needs_review": true,
+    "llm_structured_at": "2026-02-24T12:05:00+0800"
+  }
+}

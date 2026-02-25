@@ -1,0 +1,361 @@
+{
+  "id": "ielts-r-0582",
+  "slug": "tidal-power",
+  "title": "Tidal Power",
+  "page_range": [
+    2941,
+    2945
+  ],
+  "raw_answer_key": {
+    "8": "A, D, E, F, J IN",
+    "1": "C ANY ORDER",
+    "9": "A, D, E, F, J IN",
+    "2": "E ANY ORDER",
+    "3": "A",
+    "10": "maintenance",
+    "4": "C",
+    "11": "slow (turning)",
+    "5": "A, D, E, F, J IN",
+    "12": "low pressure ANY ORDER",
+    "6": "A, D, E, F, J IN",
+    "13": "cavitation ANY ORDER",
+    "7": "A, D, E, F, J IN ANY ORDER"
+  },
+  "content": {
+    "title": "Tidal Power",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Operating on the same principle as wind turbines, the power in sea turbines comes from tidal currents which turn blades similar to ships’ propellers, but, unlike wind, the tides are predictable and the power input is constant. The technology raises the prospect of Britain becoming self-sufficient in renewable energy and drastically reducing its carbon dioxide emissions. If tide, wind and wave power are all developed, Britain would be able to close gas, coal and nuclear power plants and export renewable power to other parts of Europe. Unlike wind power, which Britain originally developed and then abandoned for 20 years allowing the Dutch to make it a major industry, undersea turbines could become a big export earner to island nations such as Japan and New Zealand."
+      },
+      {
+        "label": "B",
+        "content": "Tidal sites have already been identified that will produce one sixth or more of the UK’s power - and at prices competitive with modern gas turbines and undercutting those of the already ailing nuclear industry. One site alone, the Pentland Firth, between Orkney and mainland Scotland, could produce 10% of the country’s electricity with banks of turbines under the sea, and another at Alderney in the Channel Islands three times the 1,200 megawatts of Britain’s largest and newest nuclear plant, Sizewell B, in Suffolk. Other sites identified include the Bristol Channel and the west coast of Scotland, particularly the channel between Campbeltown and Northern Ireland."
+      },
+      {
+        "label": "C",
+        "content": "Work on designs for the new turbine blades and sites are well advanced at the University of Southampton’s sustainable energy research group. The first station is expected to be installed off Lynmouth in Devon shortly to test the technology in a venture jointly funded by the department of Trade and Industry and the European Union. AbuBakr Bahaj, in charge of the Southampton research, said: 'The prospects for energy from tidal currents are far better than from wind because the flows of water are predictable and constant. The technology for dealing with the hostile saline environment under the sea has been developed in the North Sea oil industry and much is already known about turbine blade design, because of wind power and ship propellers. There are a few technical difficulties, but I believe in the next five to ten years we will be installing commercial marine turbine farms.’ Southampton has been awarded £215,000 over three years to develop the turbines and is working with Marine Current Turbines, a subsidiary of IT power, on the Lynmouth project. EU research has now identified 106 potential sites for tidal power, 80% round the coasts of Britain. The best sites are between islands or around heavily indented coasts where there are strong tidal currents."
+      },
+      {
+        "label": "D",
+        "content": "A marine turbine blade needs to be only one third of the size of a wind generator to produce three times as much power. The blades will be about 20 metres in diameter, so around 30 metres of water is required. Unlike wind power, there are unlikely to be environmental objections. Fish and other creatures are thought unlikely to be at risk from the relatively slow-turning blades. Each turbine will be mounted on a tower which will connect to the national power supply grid via underwater cables. The towers will stick out of the water and be lit, to warn shipping, and also be designed to be lifted out of the water for maintenance and to clean seaweed from the blades."
+      },
+      {
+        "label": "E",
+        "content": "Dr Bahaj has done most work on the Alderney site, where there are powerful currents. The single undersea turbine farm would produce far more power than needed for the Channel Islands and most would be fed into the French Grid and be re-imported into Britain via the cable under the Channel."
+      },
+      {
+        "label": "F",
+        "content": "One technical difficulty is cavitation, where low pressure behind a turning blade causes air bubbles. These can cause vibration and damage the blades of the turbines. Dr Bahaj said: 'We have to test a number of blade types to avoid this happening or at least make sure it does not damage the turbines or reduce performance. Another slight concern is submerged debris floating into the blades. So far we do not know how much of a problem it might be. We will have to make the turbines robust because the sea is a hostile environment, but all the signs that we can do it are good.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 1-4 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "the location of the first test site",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "a way of bringing the power produced on one site back into Britain",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "a reference to a previous attempt by Britain to find an alternative source of energy",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "mention of the possibility of applying technology from another industry",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose FIVE letters, A-J. Write the correct letters in boxes 5-9 on your answer sheet. Which FIVE of the following claims about tidal power are made by the writer?",
+        "questions": [
+          {
+            "number": 5,
+            "text": "It is a more reliable source of energy than wind power.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is a more reliable source of energy than wind power."
+              },
+              {
+                "label": "B",
+                "text": "It would replace all other forms of energy in Britain."
+              },
+              {
+                "label": "C",
+                "text": "Its introduction has come as a result of public pressure."
+              },
+              {
+                "label": "D",
+                "text": "It would cut down on air pollution."
+              },
+              {
+                "label": "E",
+                "text": "It could contribute to the closure of many existing power stations in Britain."
+              },
+              {
+                "label": "F",
+                "text": "It could be a means of increasing national income."
+              },
+              {
+                "label": "G",
+                "text": "It could face a lot of resistance from other fuel industries."
+              },
+              {
+                "label": "H",
+                "text": "It could be sold more cheaply than any other type of fuel."
+              },
+              {
+                "label": "I",
+                "text": "It could compensate for the shortage of inland sites for energy production."
+              },
+              {
+                "label": "J",
+                "text": "It is best produced in the vicinity of coastlines with particular features."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "It would cut down on air pollution.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is a more reliable source of energy than wind power."
+              },
+              {
+                "label": "B",
+                "text": "It would replace all other forms of energy in Britain."
+              },
+              {
+                "label": "C",
+                "text": "Its introduction has come as a result of public pressure."
+              },
+              {
+                "label": "D",
+                "text": "It would cut down on air pollution."
+              },
+              {
+                "label": "E",
+                "text": "It could contribute to the closure of many existing power stations in Britain."
+              },
+              {
+                "label": "F",
+                "text": "It could be a means of increasing national income."
+              },
+              {
+                "label": "G",
+                "text": "It could face a lot of resistance from other fuel industries."
+              },
+              {
+                "label": "H",
+                "text": "It could be sold more cheaply than any other type of fuel."
+              },
+              {
+                "label": "I",
+                "text": "It could compensate for the shortage of inland sites for energy production."
+              },
+              {
+                "label": "J",
+                "text": "It is best produced in the vicinity of coastlines with particular features."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "It could compensate for the shortage of inland sites for energy production.",
+            "answer": "J",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is a more reliable source of energy than wind power."
+              },
+              {
+                "label": "B",
+                "text": "It would replace all other forms of energy in Britain."
+              },
+              {
+                "label": "C",
+                "text": "Its introduction has come as a result of public pressure."
+              },
+              {
+                "label": "D",
+                "text": "It would cut down on air pollution."
+              },
+              {
+                "label": "E",
+                "text": "It could contribute to the closure of many existing power stations in Britain."
+              },
+              {
+                "label": "F",
+                "text": "It could be a means of increasing national income."
+              },
+              {
+                "label": "G",
+                "text": "It could face a lot of resistance from other fuel industries."
+              },
+              {
+                "label": "H",
+                "text": "It could be sold more cheaply than any other type of fuel."
+              },
+              {
+                "label": "I",
+                "text": "It could compensate for the shortage of inland sites for energy production."
+              },
+              {
+                "label": "J",
+                "text": "It is best produced in the vicinity of coastlines with particular features."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "It could be sold more cheaply than any other type of fuel.",
+            "answer": "A, D, E, F, J IN",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is a more reliable source of energy than wind power."
+              },
+              {
+                "label": "B",
+                "text": "It would replace all other forms of energy in Britain."
+              },
+              {
+                "label": "C",
+                "text": "Its introduction has come as a result of public pressure."
+              },
+              {
+                "label": "D",
+                "text": "It would cut down on air pollution."
+              },
+              {
+                "label": "E",
+                "text": "It could contribute to the closure of many existing power stations in Britain."
+              },
+              {
+                "label": "F",
+                "text": "It could be a means of increasing national income."
+              },
+              {
+                "label": "G",
+                "text": "It could face a lot of resistance from other fuel industries."
+              },
+              {
+                "label": "H",
+                "text": "It could be sold more cheaply than any other type of fuel."
+              },
+              {
+                "label": "I",
+                "text": "It could compensate for the shortage of inland sites for energy production."
+              },
+              {
+                "label": "J",
+                "text": "It is best produced in the vicinity of coastlines with particular features."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "It is best produced in the vicinity of coastlines with particular features.",
+            "answer": "A, D, E, F, J IN",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is a more reliable source of energy than wind power."
+              },
+              {
+                "label": "B",
+                "text": "It would replace all other forms of energy in Britain."
+              },
+              {
+                "label": "C",
+                "text": "Its introduction has come as a result of public pressure."
+              },
+              {
+                "label": "D",
+                "text": "It would cut down on air pollution."
+              },
+              {
+                "label": "E",
+                "text": "It could contribute to the closure of many existing power stations in Britain."
+              },
+              {
+                "label": "F",
+                "text": "It could be a means of increasing national income."
+              },
+              {
+                "label": "G",
+                "text": "It could face a lot of resistance from other fuel industries."
+              },
+              {
+                "label": "H",
+                "text": "It could be sold more cheaply than any other type of fuel."
+              },
+              {
+                "label": "I",
+                "text": "It could compensate for the shortage of inland sites for energy production."
+              },
+              {
+                "label": "J",
+                "text": "It is best produced in the vicinity of coastlines with particular features."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "DIAGRAM_LABEL_COMPLETION",
+        "instruction": "Label the diagram below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "",
+            "answer": "maintenance",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "",
+            "answer": "slow (turning)",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "",
+            "answer": "low pressure",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "",
+            "answer": "cavitation",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:03:04.167878"
+}

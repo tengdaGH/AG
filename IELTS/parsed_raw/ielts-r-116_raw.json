@@ -1,0 +1,50 @@
+{
+  "id": "ielts-r-116",
+  "source_file": "116. P1 - The Development of Plastics 塑料的发展史【次】.pdf",
+  "position": "P1",
+  "question_range": [
+    1,
+    13
+  ],
+  "difficulty": "medium",
+  "title": "The Development of Plastics",
+  "title_cn": "塑料的发展史",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": false,
+    "paragraphs": [],
+    "raw_text": "READING PASSAGE 1 You should spend about 20 minutes on Questions 1–13, which are based on Reading Passage 1 below. The Development of Plastics When rubber was first commercially produced in Europe during the nineteenth century, it rapidly became a very important commodity, particularly in the fields of transportation and electricity. However, during the twentieth century a number of new synthetic materials, called plastics, superseded natural rubber in all but a few applications. Rubber is a polymer—a compound containing large molecules that are formed by the bonding of many smaller, simpler units, repeated over and over again. The same bonding principle—polymerization—underlies the creation of a huge range of plastics by the chemical industry. The first plastic was developed as a result of a competition in the USA. In the 1860s, $10,000 was offered to anybody who could replace ivory—supplies of which were declining—with something equally good as a material for making billiard balls. The prize was won by John Wesley Hyatt with a material called celluloid. Celluloid was made by dissolving cellulose, a carbohydrate derived from plants, in a solution of camphor dissolved in ethanol. This new material rapidly found uses in the manufacture of products such as knife handles, detachable collars and cuffs, spectacle frames and photographic film. Without celluloid, the film industry could never have got off the ground at the end of the 19th century. Celluloid can be repeatedly softened and reshaped by heat, and is known as a thermoplastic. In 1907, Leo Baekeland, a Belgian chemist working in the USA, invented a different kind of plastic, by causing phenol and formaldehyde to react together. Baekeland called the material Bakelite, and it was the first of the thermosets—plastics that can be cast and moulded while hot, but cannot be softened by heat and reshaped once they have set. Bakelite was a good insulator, and was resistant to water, acids and moderate heat. With these properties it was soon being used in the manufacture of switches, household items such as knife handles, and electrical components for cars.   \nSoon chemists began looking for other small molecules that could be strung together to make polymers. In the 1930s British chemists discovered that the gas ethylene would polymerize under heat and pressure to form a thermoplastic they called polythene. Polypropylene followed in the 1950s. Both were used to make bottles, pipes and plastic bags. A small change in the starting material—replacing a hydrogen atom in ethylene with a chlorine atom—produced PVC (polyvinyl chloride), a hard, fireproof plastic suitable for drains and gutters. And by adding certain chemicals, a soft form of PVC could be produced, suitable as a substitute for rubber in items such as waterproof clothing. A closely related plastic was Teflon, or PTFE (polytetrafluoroethylene). This had a very low coefficient of friction, making it ideal for bearings, rollers, and non-stick frying pans. Polystyrene, developed during the 1930s in Germany, was a clear, glass-like material, used in food containers, domestic appliances and toys. Expanded polystyrene—a white, rigid foam—was widely used in packaging and insulation. Polyurethanes, also developed in Germany, found uses as adhesives, coatings, and—in the form of rigid foams—as insulation materials. They are all produced from chemicals derived from crude oil, which contains exactly the same elements—carbon and hydrogen—as many plastics. The first of the man-made fibres, nylon, was also created in the 1930s. Its inventor was a chemist called Wallace Carothers, who worked for the Du Pont company in the USA. He found that under the right conditions, two chemicals—hexamethylenediamine and adipic acid—would form a polymer that could be pumped out through holes and then stretched to form long glossy threads that could be woven like silk. Its first use was to make parachutes for the US armed forces in World War II. In the post-war years nylon completely replaced silk in the manufacture of stockings. Subsequently many other synthetic fibres joined nylon, including Orlon, Acrilan and Terylene. Today most garments are made of a blend of natural fibres, such as cotton and wool, and man-made fibres that make fabrics easier to look after. The great strength of plastic is its indestructibility. However, this quality is also something of a drawback: beaches all over the world, even on the remotest islands, are littered with plastic bottles that nothing can destroy. Nor is it very easy to recycle plastics, as different types of plastic are often used in the same items and call for different treatments. Plastics can be made biodegradable by incorporating into their structure a material such as starch, which is attacked by bacteria and causes the plastic to fall apart. Other materials can be incorporated that gradually decay in sunlight—although bottles made of such materials have to be stored in the dark, to ensure that they do not disintegrate before they have been used."
+  },
+  "question_groups": [
+    {
+      "type": "TABLE_COMPLETION",
+      "range": [
+        1,
+        7
+      ],
+      "instructions": "Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 1–7 on your answer sheet. Name of plastic  Date of invention  Original region  Property  Common use  Celluloid 1860s  US  1 _________  2 _________  1907  US Can be cast and moulded but cannot be softened by heat 3 _________ household items and car parts Polythene  1930  4 _________  Bottles Rigid PVC    5 _________  Polystyrene 1930s Germany 6 _________ Food container Polyurethanes  Germany 7 _________ foams Adhesives, coatings and insulation",
+      "raw_text": "Questions 1–7 Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 1–7 on your answer sheet. Name of plastic  Date of invention  Original region  Property  Common use  Celluloid 1860s  US  1 _________  2 _________  1907  US Can be cast and moulded but cannot be softened by heat 3 _________ household items and car parts Polythene  1930  4 _________  Bottles Rigid PVC    5 _________  Polystyrene 1930s Germany 6 _________ Food container Polyurethanes  Germany 7 _________ foams Adhesives, coatings and insulation",
+      "questions": []
+    },
+    {
+      "type": "TFNG",
+      "range": [
+        8,
+        13
+      ],
+      "instructions": "Do the following statements agree with the information in Reading Passage 1? In boxes 8–13 on your answer sheet, write: TRUE    if the statement agrees with the information FALSE   if the statement contradicts the information NOT GIVEN  if there is no information about this 8 The chemical structure of plastic is very different from that of rubber. 9 John Wesley was a famous chemist. 10 Celluloid and Bakelite react to heat in the same way. 11 The mix of different varieties of plastic can make recycling more difficult. 12 Adding starch to plastic can make plastic more durable. 13 Some plastic containers have to be preserved in special conditions.",
+      "raw_text": "Questions 8–13 Do the following statements agree with the information in Reading Passage 1? In boxes 8–13 on your answer sheet, write: TRUE    if the statement agrees with the information FALSE   if the statement contradicts the information NOT GIVEN  if there is no information about this 8 The chemical structure of plastic is very different from that of rubber. 9 John Wesley was a famous chemist. 10 Celluloid and Bakelite react to heat in the same way. 11 The mix of different varieties of plastic can make recycling more difficult. 12 Adding starch to plastic can make plastic more durable. 13 Some plastic containers have to be preserved in special conditions.",
+      "questions": []
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "TABLE_COMPLETION",
+      "TFNG"
+    ],
+    "parsed_at": "2026-02-24T03:41:39.232332",
+    "parser_version": "1.0",
+    "needs_review": true
+  }
+}

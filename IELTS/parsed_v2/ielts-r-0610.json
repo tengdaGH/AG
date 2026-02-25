@@ -1,0 +1,96 @@
+{
+  "id": "ielts-r-0610",
+  "slug": "walk-for-charity",
+  "title": "Walk for charity",
+  "page_range": [
+    3086,
+    3088
+  ],
+  "raw_answer_key": {
+    "1": "Weldown",
+    "5": "Fenton",
+    "2": "10.30 am",
+    "6": "every half-hour",
+    "3": "new shoes",
+    "7": "10 kilometre",
+    "4": "marshals"
+  },
+  "content": {
+    "title": "Walk for Charity",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Dear Friend, Please join us for our annual Walk for Charity. Starting in Weldown, you and your friends can choose a delightful 10, 20 or 30 kilometre route. The money raised will provide support to help people all over the world. Start collecting your sponsors now and then simply come along on the day. Please read the instructions below carefully, especially if you require transport to and from Weldown. See you on Sunday 14 May, V Jessop Walk Co-ordinator P S. Well done to last year's walkers for helping to raise a grand total of £21,000. The money has already been used to build a children's playground."
+      },
+      {
+        "content": "START TIMES: 30 km: 8-10 am 20 km: 8 - 10.30 am 10 km: 8 - 11.30 am The organisers reserve the right to refuse late-comers."
+      },
+      {
+        "content": "CLOTHING should be suitable for the weather. If rain is forecast, bring some protection and be prepared for all eventualities. It is better to wear shoes that have been worn in, rather than ones that are new."
+      },
+      {
+        "content": "ROUTE MAPS will be available from the registration point. The route will be sign-posted and marshalled. Where the route runs along the road, walkers should keep to one side in single file, facing oncoming traffic at oll times. If you need help along the route, please inform one of the marshals."
+      },
+      {
+        "content": "Free car parking available in car parks and on streets in Weldown."
+      },
+      {
+        "content": "BUSES For the 10 and 20 km routes, a bus will be waiting at Fenton to take walkers back to Weldown; The bus will leave every half-hour starting at midday. The service is free and there is no need to book."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Look at the information on the reading passage about a walk for charity. Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the text for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What is the starting point for the 30 km walk?",
+            "answer": "Weldown",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "What is the latest start time for the 20 km walk?",
+            "answer": "10.30 am",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Regarding footwear, what are you warned against wearing?",
+            "answer": "new shoes",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "What are the officials who help participants on the route called?",
+            "answer": "marshals",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Where does the 20 km walk finish?",
+            "answer": "Fenton",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "What is the frequency of the Fenton to Weldown bus?",
+            "answer": "every half-hour",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Which walk does not pass through Lower Brene?",
+            "answer": "10 kilometre",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T22:07:40.545110"
+}

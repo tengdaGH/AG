@@ -1,0 +1,334 @@
+{
+  "id": "ielts-r-0600",
+  "slug": "undoing-our-emotions",
+  "title": "UNDOING OUR EMOTIONS",
+  "page_range": [
+    3034,
+    3038
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "C",
+    "2": "A",
+    "9": "A",
+    "3": "D",
+    "10": "A",
+    "4": "C",
+    "11": "FOCUS",
+    "5": "A",
+    "12": "FRIENDSHIP",
+    "6": "E",
+    "13": "SOCIETY",
+    "7": "D"
+  },
+  "content": {
+    "title": "Undoing Our Emotions",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Three generations ago, 180 young women wrote essays describing why they wanted to join a convent (a religious community of nuns). Years later, a team of psychological researchers came across these autobiographies in the convent’s archives. The researchers were seeking material to confirm earlier studies hinting at a link between having a good vocabulary in youth and a low risk of Alzheimer’s disease in old age. What they found was even more amazing. The researchers found that, although the young women were in their early twenties when they wrote their essays, the emotions expressed in these writings were predictive of how long they would live: those with upbeat autobiographies lived more than ten years longer than those whose language was more neutral. Deborah Danner, a psychologist at the University of Kentucky who spearheaded the study, noted that the results were particularly striking because all members of the convent lived similar lifestyles, eliminating many variables that normally make it difficult to interpret longevity studies. It was a phenomenal finding', she says. 'A researcher gets a finding like that maybe once in a lifetime.' However, she points out that no one has been able to determine why positive emotions might have such life-extending effects."
+      },
+      {
+        "label": "B",
+        "content": "Barbara Fredrickson, Professor of Psychology at the University of Michigan, believes that part of the answer is the 'undo effect'. According to this theory, positive emotions help you live longer by shutting down the effects of negative ones. Fredrickson’s theory begins with the observation that negative emotions, like fear and stress, enhance our flight-or-fight response to very real threats. However, even when the emergency is gone, negative emotions produce lingering effects. Brooks Gump, a stress researcher at the State University of New York, explains that one of these effects is excessive cardiovascular reactivity. Behaviourally, Gump says, this reactivity is related to excessive vigilance: the state of being constantly on guard for potential dangers. Not only is it physically draining to live in a perpetual state of high vigilance, but high cardiovascular reactivity could be linked to increased chances of a heart attack."
+      },
+      {
+        "label": "C",
+        "content": "Fredrickson believes positive emotions work their magic by producing a rapid unwinding of pent-up tension, restoring the system to normal. People who quickly bounce back from stress often speed the process by harnessing such emotions as amusement, interest, excitement, and happiness, she says. To test her theory, Fredrickson told a group of student volunteers that they had only a few minutes to prepare a speech that would be critiqued by experts. After letting the students get nervous about that, Fredrickson then told them they wouldn’t actually have to deliver their speeches. She monitored heart rates and blood pressure. Not surprisingly, all students got nervous about their speeches, but those who viewed the experiment with good-humored excitement saw their heart rates return to normal much more quickly than those who were angry about being fooled. In a second experiment, Fredrickson reported that even those who normally were slow to bounce back could be coached to recover more quickly by being told to view the experiment as a challenge, rather than a threat."
+      },
+      {
+        "label": "D",
+        "content": "Fredrickson believes that positive emotions make people more flexible and creative. Negative emotions, she says, give a heightened sense of detail that makes us hypersensitive to minute clues related to the source of a threat. But that also produces 'tunnel vision' in which we ignore anything unrelated to the danger. Fredrickson speculated that just as positive emotions can undo the cardiovascular effects of negative ones, they may also reverse the attention-narrowing effects of negative feelings: broadening our perspectives."
+      },
+      {
+        "label": "E",
+        "content": "To verify her theory, Fredrickson showed a group of students some film clips- some saw frightening clips, some saw humorous ones or peaceful ones. They then did a matching test in which they were shown a simple drawing and asked which of two other drawings it most resembled. The drawings were designed so that people would tend to give one answer if they focused on details, and another answer if they focused on the big picture. The results confirmed Fredrickson’s suspicion that positive emotions affect our perceptions. Students who had seen the humorous or peaceful clips were more likely to match objects according to broad impressions."
+      },
+      {
+        "label": "F",
+        "content": "This fits with the role that positive emotions might have played in early human tribes, Fredrickson says. Negative emotions provided focus, which was important for surviving in life-or-death situations, but the ability to feel positive emotions was of long-term value because it opened the mind to new ideas. Humour is a good example of this. She says: 'The emotions are transient, but the resources are durable. If you building a friendship through being playful, that friendship is a lasting resource.' So while the good feelings may pass, the friendship remains. On an individual level, Fredrickson’s theory also says that taking time to do things that make you feel happy isn’t simply self-indulgent. Not only are these emotions good for the individual, but they are also good for society."
+      },
+      {
+        "label": "G",
+        "content": "Other researchers are intrigued by Fredrickson’s findings. Susan Folkman, of the University of California, has spent two decades studying how people cope with long-term stresses such as bereavement, or caring for a chronically ill child. Contrary to what one might expect, she says, these people frequently experience positive emotions. 'These emotions aren’t there by accident', she adds. 'Mother Nature doesn’t work that way, I think that they give a person time out from the intense stress to restore their resources and keep going. This is very consistent with Fredrickson’s work.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What did researchers find in the convent archives?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "A link between vocabulary and Alzheimer’s disease."
+              },
+              {
+                "label": "B",
+                "text": "A connection between lifestyle and longevity."
+              },
+              {
+                "label": "C",
+                "text": "A correlation between emotions and lifespan."
+              },
+              {
+                "label": "D",
+                "text": "A relationship between age and writing style."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What did the researchers discover about the emotions in the young women’s essays?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "They were predictive of the women’s lifespans."
+              },
+              {
+                "label": "B",
+                "text": "They were mostly negative in tone."
+              },
+              {
+                "label": "C",
+                "text": "They were unrelated to the women’s health."
+              },
+              {
+                "label": "D",
+                "text": "They were difficult to interpret."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What is the 'undo effect' according to Barbara Fredrickson?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "The ability of positive emotions to enhance the effects of negative ones."
+              },
+              {
+                "label": "B",
+                "text": "The tendency of positive emotions to replace negative ones."
+              },
+              {
+                "label": "C",
+                "text": "The way positive emotions can reduce stress."
+              },
+              {
+                "label": "D",
+                "text": "The process by which positive emotions counteract the effects of negative ones."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What is one lingering effect of negative emotions?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "A decrease in cardiovascular reactivity."
+              },
+              {
+                "label": "B",
+                "text": "A reduction in vigilance."
+              },
+              {
+                "label": "C",
+                "text": "Excessive cardiovascular reactivity."
+              },
+              {
+                "label": "D",
+                "text": "A lack of focus on potential dangers."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What did Fredrickson’s experiment with student volunteers demonstrate?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Positive emotions can help people recover from stress more quickly."
+              },
+              {
+                "label": "B",
+                "text": "Negative emotions are more powerful than positive ones."
+              },
+              {
+                "label": "C",
+                "text": "Students who were angry recovered more quickly."
+              },
+              {
+                "label": "D",
+                "text": "Heart rates were unaffected by emotions."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "What did Fredrickson’s second experiment show?",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "People who were naturally quick to recover could be slowed down."
+              },
+              {
+                "label": "B",
+                "text": "People who were slow to recover could be coached to recover more quickly."
+              },
+              {
+                "label": "C",
+                "text": "Heart rates were unaffected by emotions."
+              },
+              {
+                "label": "D",
+                "text": "Negative emotions were more powerful than positive ones."
+              },
+              {
+                "label": "E",
+                "text": "Viewing an experiment as a challenge rather than a threat could aid recovery."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "What did Fredrickson’s film clip experiment reveal about positive emotions?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "They have no effect on perception."
+              },
+              {
+                "label": "B",
+                "text": "They make people focus on details."
+              },
+              {
+                "label": "C",
+                "text": "They have no impact on attention."
+              },
+              {
+                "label": "D",
+                "text": "They broaden perspectives."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences with the correct ending, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Fredrickson believes that positive emotions help people by...",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "enhancing the effects of negative emotions."
+              },
+              {
+                "label": "B",
+                "text": "replacing negative emotions with positive ones."
+              },
+              {
+                "label": "C",
+                "text": "undoing the effects of negative emotions."
+              },
+              {
+                "label": "D",
+                "text": "reducing the impact of stress."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Fredrickson’s theory suggests that positive emotions...",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "broaden our perspectives."
+              },
+              {
+                "label": "B",
+                "text": "narrow our focus."
+              },
+              {
+                "label": "C",
+                "text": "reduce our creativity."
+              },
+              {
+                "label": "D",
+                "text": "increase our stress levels."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Fredrickson’s theory also suggests that positive emotions...",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "are beneficial for society."
+              },
+              {
+                "label": "B",
+                "text": "are self-indulgent."
+              },
+              {
+                "label": "C",
+                "text": "are harmful to individuals."
+              },
+              {
+                "label": "D",
+                "text": "are unrelated to stress."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions with a word or short phrase.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "What did Fredrickson say was the long-term value of positive emotions in early human tribes?",
+            "answer": "FOCUS",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "What example did Fredrickson give of a lasting resource built through positive emotions?",
+            "answer": "FRIENDSHIP",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "What did Susan Folkman say was the value of positive emotions for people under stress?",
+            "answer": "SOCIETY",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:06:49.815779"
+}

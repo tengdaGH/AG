@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Take an Interview Question Bank",
+    "source": "ETS Official, toeflresources.com",
+    "totalSets": 8,
+    "lastUpdated": "2026-02-20"
+  },
+  "sets": [
+    {
+      "id": "TI01",
+      "topic": "Remote Work",
+      "topicChinese": "远程工作",
+      "scenario": "You have agreed to take part in a research study about remote work. You will have a short online interview with a researcher. The researcher will ask you some questions.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "Personal Experience",
+          "text": "Think back to the last time you worked from a location other than your regular workplace—such as your home, a café, or a shared workspace. Why did you choose to work there? What did you enjoy about that experience?",
+          "audioUrl": "https://www.toeflresources.com/wp-content/uploads/2025/08/ElevenLabs_Remote_Work_1.mp3",
+          "timeLimit": 45
+        },
+        {
+          "number": 2,
+          "type": "Personal Reaction",
+          "text": "Working remotely affects people in different ways. Some find it liberating and productive, while others feel isolated or easily distracted. What kind of reaction do you have to remote work? Why do you think you react in this way?",
+          "audioUrl": "https://www.toeflresources.com/wp-content/uploads/2025/08/ElevenLabs_Remote_Work_2.mp3",
+          "timeLimit": 45
+        },
+        {
+          "number": 3,
+          "type": "Opinion",
+          "text": "Some people believe that those who work remotely have a better work-life balance. They might argue, for example, that remote workers save commuting time and have more flexibility in their schedules. Do you agree that remote workers enjoy a better work-life balance? Why or why not?",
+          "audioUrl": "https://www.toeflresources.com/wp-content/uploads/2025/08/ElevenLabs_Remote_Work_3-1.mp3",
+          "timeLimit": 45
+        },
+        {
+          "number": 4,
+          "type": "Prediction/Recommendation",
+          "text": "For some time now, researchers have been interested in whether regular virtual team-building activities help remote workers feel more connected. Do you think that companies should invest more in virtual social events to improve team cohesion and employee satisfaction? Why or why not?",
+          "audioUrl": "https://www.toeflresources.com/wp-content/uploads/2025/08/ElevenLabs_Remote_Work_4.mp3",
+          "timeLimit": 45
+        }
+      ]
+    },
+    {
+      "id": "TI02",
+      "topic": "Celebrations",
+      "topicChinese": "庆祝活动",
+      "scenario": "You have agreed to take part in a research study about cultural traditions. You will have a short online interview with a researcher.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "Personal Experience",
+          "text": "Tell me about a celebration or special occasion that is important to you or your family. What makes this celebration memorable?"
+        },
+        {
+          "number": 2,
+          "type": "Personal Experience",
+          "text": "How do you usually celebrate special occasions with your family or friends? What activities do you enjoy the most?"
+        },
+        {
+          "number": 3,
+          "type": "Opinion",
+          "text": "Some people prefer small, intimate gatherings while others enjoy large parties with many guests. Which do you prefer? Why?"
+        },
+        {
+          "number": 4,
+          "type": "Opinion",
+          "text": "Do you think celebrations have become too commercialized? In other words, do you think people focus too much on buying gifts and spending money rather than on the actual meaning of the celebration?"
+        }
+      ]
+    },
+    {
+      "id": "TI03",
+      "topic": "Shopping Habits",
+      "topicChinese": "购物习惯",
+      "scenario": "You have agreed to take part in a research study about consumer behavior. You will have a short online interview with a researcher.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "Personal Experience",
+          "text": "Describe your shopping habits. Where do you usually shop and what types of products do you typically buy?"
+        },
+        {
+          "number": 2,
+          "type": "Personal Experience",
+          "text": "How has your shopping behavior changed over the years? Have you started buying more online or in stores?"
+        },
+        {
+          "number": 3,
+          "type": "Opinion",
+          "text": "Some people prefer online shopping while others prefer shopping in physical stores. Which do you prefer? Why?"
+        },
+        {
+          "number": 4,
+          "type": "Prediction",
+          "text": "How do you think shopping habits will change in the future? Will more people shop online?"
+        }
+      ]
+    },
+    {
+      "id": "TI04",
+      "topic": "Language Learning",
+      "topicChinese": "语言学习",
+      "scenario": "You have agreed to take part in a research study about language acquisition. You will have a short online interview with a researcher.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "Personal Experience",
+          "text": "What language(s) do you speak? How did you learn your first language?"
+        },
+        {
+          "number": 2,
+          "type": "Personal Experience",
+          "text": "What challenges have you faced in learning a new language? How did you overcome them?"
+        },
+        {
+          "number": 3,
+          "type": "Opinion",
+          "text": "Some people think that children learn languages more easily than adults. Do you agree? Why or why not?"
+        },
+        {
+          "number": 4,
+          "type": "Opinion",
+          "text": "Do you think technology has made language learning easier? Why or why not?"
+        }
+      ]
+    },
+    {
+      "id": "TI05",
+      "topic": "Smartphones",
+      "topicChinese": "智能手机",
+      "scenario": "You have agreed to take part in a research study about technology use. You will have a short online interview with a researcher.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "Personal Experience",
+          "text": "How do you use your smartphone on a typical day? What apps or features do you use most frequently?"
+        },
+        {
+          "number": 2,
+          "type": "Opinion",
+          "text": "What features of your smartphone do you find most useful? How have they changed your daily life?"
+        },
+        {
+          "number": 3,
+          "type": "Opinion",
+          "text": "Some people spend too much time on their smartphones and this affects their productivity and relationships. Do you think smartphone addiction is a serious problem? Why or why not?"
+        },
+        {
+          "number": 4,
+          "type": "Prediction",
+          "text": "How do you think smartphones will change in the future? What new features might become common?"
+        }
+      ]
+    },
+    {
+      "id": "TI06",
+      "topic": "Housework",
+      "topicChinese": "家务",
+      "scenario": "You have agreed to take part in a research study about daily life habits. You will have a short online interview with a researcher.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "Personal Experience",
+          "text": "What housework do you do most often? How do you feel about doing housework?"
+        },
+        {
+          "number": 2,
+          "type": "Personal Experience",
+          "text": "Did you do housework when you were growing up? How did your parents teach you responsibility?"
+        },
+        {
+          "number": 3,
+          "type": "Opinion",
+          "text": "Some people believe that sharing housework equally is important in a family. Do you agree? Why or why not?"
+        },
+        {
+          "number": 4,
+          "type": "Prediction",
+          "text": "How might new technology change the way we do housework in the future? Will robots help with household chores?"
+        }
+      ]
+    },
+    {
+      "id": "TI07",
+      "topic": "Exercise",
+      "topicChinese": "锻炼",
+      "scenario": "You have agreed to take part in a research study about health and fitness. You will have a short online interview with a researcher.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "Personal Experience",
+          "text": "How often do you exercise? What types of exercise or physical activities do you prefer?"
+        },
+        {
+          "number": 2,
+          "type": "Opinion",
+          "text": "What motivates you to exercise regularly? Or if you don't exercise regularly, what prevents you from doing so?"
+        },
+        {
+          "number": 3,
+          "type": "Opinion",
+          "text": "Some people prefer exercising alone while others prefer group activities or team sports. Which do you prefer? Why?"
+        },
+        {
+          "number": 4,
+          "type": "Opinion",
+          "text": "How important do you think regular exercise is for overall health? Should governments promote fitness more actively?"
+        }
+      ]
+    },
+    {
+      "id": "TI08",
+      "topic": "Current Events",
+      "topicChinese": "时事",
+      "scenario": "You have agreed to take part in a research study about media consumption. You will have a short online interview with a researcher.",
+      "questions": [
+        {
+          "number": 1,
+          "type": "Personal Experience",
+          "text": "What news stories or current events have you recently read or heard about? What caught your attention?"
+        },
+        {
+          "number": 2,
+          "type": "Personal Experience",
+          "text": "How do you usually stay informed about current events? Do you use social media, news apps, television, or other sources?"
+        },
+        {
+          "number": 3,
+          "type": "Opinion",
+          "text": "Some people think that young people should follow the news closely to be informed citizens. Do you agree? Why or why not?"
+        },
+        {
+          "number": 4,
+          "type": "Opinion",
+          "text": "How do you think social media has changed the way we consume news? Has it made news more accessible or less reliable?"
+        }
+      ]
+    }
+  ]
+}

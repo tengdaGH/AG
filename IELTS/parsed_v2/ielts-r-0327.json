@@ -1,0 +1,384 @@
+{
+  "id": "ielts-r-0327",
+  "slug": "origin-of-species--continent-formation",
+  "title": "Origin of Species & Continent Formation",
+  "page_range": [
+    1654,
+    1659
+  ],
+  "raw_answer_key": {
+    "1": "E",
+    "8": "G",
+    "2": "A",
+    "9": "migrated",
+    "3": "D",
+    "10": "withering skin",
+    "4": "B",
+    "11": "plates",
+    "5": "C",
+    "12": "dispersalism",
+    "6": "B",
+    "13": "vicarisanism",
+    "7": "F"
+  },
+  "content": {
+    "title": "Origin of Species & Continent Formation",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "THE FACT THAT there was once a Pangean supercontinent, a Panthalassa Ocean, and a Tethys Ocean, has profound implications for the evolution of multicellular life on Earth. These considerations were unknown to the scientists of the 19th century – making their scientific deductions even more remarkable. Quite independently of each other, Charles Darwin and his young contemporary Alfred Russel Wallace reached the conclusion that life had evolved by natural selection. Wallace later wrote in My Life of his own inspiration:"
+      },
+      {
+        "label": "B",
+        "content": "Why do some species die and some life? The answer was clearly that on the whole the best fitted lived. From the effects of disease the most healthy escaped; from enemies the strongest, the swiftest or the most cunning from famine the best hunters – then it suddenly flashed on me that this self-acting process would improve the race, because in every generation the inferior would inevitably be killed off and the superior would remain, that is, the fittest would survive."
+      },
+      {
+        "label": "C",
+        "content": "Both Darwin’s and Wallace’s ideas about natural selection had been influenced by the essays of Thomas Malthus in his Principles of Population. Their conclusion, however, had been the direct result of their personal observation of animals and plants in widely separated geographic locations: Darwin from his experiences during the voyage of the Beagle, and particularly during the ship’s visit to the Galapagos Islands in the East Pacific in 1835; Wallace during his years of travel in the Amazon Basin and in the Indonesia-Australian Archipelago in the 1850s."
+      },
+      {
+        "label": "D",
+        "content": "Darwin had been documenting his ideas on natural selection for many years when he received a paper on this selfsame subject from Wallace, who asked for Darwin’s opinion and help in getting it published. In July 1858, Charles Lyell and J. D Hooker, close friends of Darwin, pressed Darwin to present his conclusions so that he would not lose priority to an unknown naturalist. Presiding over the hastily called but now historic meeting of the Linnean Society in London, Lyell and Hooker explained to the distinguished members how “these two gentlemen” (who were absent: Wallace was abroad and Darwin chose not to attend), had “independently and unknown to one another, conceived the same very ingenious theory,”"
+      },
+      {
+        "label": "E",
+        "content": "Both Darwin and Wallace had realized that the anomalous distribution of species in particular regions had profound evolutionary significance. Subsequently, Darwin spent the rest of his days in almost total seclusion thinking and writing mainly about the origin of species. In contrast, Wallace applied himself to the science of biogeography, the study of the pattern and distribution of species, and its significance, resulting in the publication of a massive two-volume work the Geographical Distribution of Animals in 1876."
+      },
+      {
+        "label": "F",
+        "content": "Wallace was a gentle and modest man, but also persistent and quietly courageous. He spent years working in the most arduous possible climates and terrains, particularly in the Malay archipelago, he made patient and detailed zoological observations and collected a huge number of specimens for museums and collectors-which is how he made a living. One result of his work was the conclusion that there is a distinct faunal boundary, called “Wallace’s line,” between an Asian realm of animals in Java, Bronco and the Philipiones and an Australian realm in New Guinea and Australia. In essence, this boundary posed a difficult question: How on Earth did plants and animals with a clear affinity to the Northern Hemisphere meet with their Southern Hemispheric counterparts along such a distinct Malaysian demarcation zone? Wallace was uncertain about demarcation on one particular island-Celebes, a curiously shaped place that is midway between the two groups. Initially, he assigned its flora-fauna to the Australian side of the line, but later he transferred it to the Asian side. Today we know the reason for his dilemma. 200MYA East and West Celebes were islands with their own natural history lying on opposite sides of the Tethys Ocean. They did not collide until about 15 MYA. The answer to the main question is that Wallace’s Line categorizes Laurasia-derived flora-fauna (the Asian) and Gondwana-derived flora-fauna (the Australian), fauna that had evolved on opposing shares of the Tethys. The closure of the Tethys Ocean today is manifested by the ongoing collision of Australia/New Guinea with Indochina/Indonesia and the continuing closure of the Mediterranean Sea – a remnant of the Western Tethys Ocean."
+      },
+      {
+        "label": "G",
+        "content": "IN HIS ORIGIN OF CONTINENTS AND OCEANS, Wegener quoted at length from Wallace’s Geographical Distribution of Animals. According to Wegener’s reading, Wallace had identified three clear divisions of Australian animals, which supported his own theory of continental displacement. Wallace had shown that animals long established in southwestern Australia had an affinity with animals in South Africa, Madagascar, India, and Ceylon, but did not have an affinity with those in Asia. Wallace also showed that Australian marsupials and monotremes are clearly related to those in South America, the Moluccas, and various Pacific islands and that none are found in neighboring Indonesia. From this and related data, Wegener concluded that the then broadly accepted “landbridge” theory could not account for this distribution of animals and that only this theory of continental drift could explain it."
+      },
+      {
+        "label": "H",
+        "content": "The theory that Wegener dismissed in preference to his own proposed that plants and animals had once migrated across now-submerged intercontinental landbridges. In 1885, one of Europe’s leading geologists, Eduard Suess, theorized that as the rigid Earth cools, its upper-crust shrinks and wrinkles like the withering skin of an aging apple. He suggested that the planet’s seas and oceans now fill the wrinkles between once-contiguous plateaus."
+      },
+      {
+        "label": "I",
+        "content": "Today, we know that we live on a dynamic Earth with shifting, colliding and separating tectonic plates, not a “withering skin”, and the main debate in the field of biogeography has shifted. The discussion now concerns “dispersalism” versus “vicarianism”: unrestricted radiation of species on the one hand and the development of barriers to migration on the other. Dispersion is a short-term phenomenon – the daily or seasonal migration of species and their radiation to the limits of their natural environment on an extensive and continuous landmass. Vicarian evolution, however, depends upon the separation and isolation of a variety of species within the confines of natural barriers in the form of islands, lakes, or shallow seas – topographical features that take a long time to develop."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the people (listed A-E) with opinions or deeds below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "urged Darwin to publish his scientific findings",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Suess"
+              },
+              {
+                "label": "B",
+                "text": "Wallace"
+              },
+              {
+                "label": "C",
+                "text": "Darwin and Wallace"
+              },
+              {
+                "label": "D",
+                "text": "Wegener"
+              },
+              {
+                "label": "E",
+                "text": "Lyell and Hooker"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Depicted physical feature of earth’s crust.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Suess"
+              },
+              {
+                "label": "B",
+                "text": "Wallace"
+              },
+              {
+                "label": "C",
+                "text": "Darwin and Wallace"
+              },
+              {
+                "label": "D",
+                "text": "Wegener"
+              },
+              {
+                "label": "E",
+                "text": "Lyell and Hooker"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "believed in continental drift theory while rejecting another one",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Suess"
+              },
+              {
+                "label": "B",
+                "text": "Wallace"
+              },
+              {
+                "label": "C",
+                "text": "Darwin and Wallace"
+              },
+              {
+                "label": "D",
+                "text": "Wegener"
+              },
+              {
+                "label": "E",
+                "text": "Lyell and Hooker"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Published works about wildlife distribution in a different region.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Suess"
+              },
+              {
+                "label": "B",
+                "text": "Wallace"
+              },
+              {
+                "label": "C",
+                "text": "Darwin and Wallace"
+              },
+              {
+                "label": "D",
+                "text": "Wegener"
+              },
+              {
+                "label": "E",
+                "text": "Lyell and Hooker"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Evolution of species is based on selection by nature.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Suess"
+              },
+              {
+                "label": "B",
+                "text": "Wallace"
+              },
+              {
+                "label": "C",
+                "text": "Darwin and Wallace"
+              },
+              {
+                "label": "D",
+                "text": "Wegener"
+              },
+              {
+                "label": "E",
+                "text": "Lyell and Hooker"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The Reading Passage has nine paragraphs A-I. Which paragraph contains the following information?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Best adaptable animal survived on the planet.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Paragraph A"
+              },
+              {
+                "label": "B",
+                "text": "Paragraph B"
+              },
+              {
+                "label": "C",
+                "text": "Paragraph C"
+              },
+              {
+                "label": "D",
+                "text": "Paragraph D"
+              },
+              {
+                "label": "E",
+                "text": "Paragraph E"
+              },
+              {
+                "label": "F",
+                "text": "Paragraph F"
+              },
+              {
+                "label": "G",
+                "text": "Paragraph G"
+              },
+              {
+                "label": "H",
+                "text": "Paragraph H"
+              },
+              {
+                "label": "I",
+                "text": "Paragraph I"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Boundary called Wallace’s line found between Asia and Australia.",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "Paragraph A"
+              },
+              {
+                "label": "B",
+                "text": "Paragraph B"
+              },
+              {
+                "label": "C",
+                "text": "Paragraph C"
+              },
+              {
+                "label": "D",
+                "text": "Paragraph D"
+              },
+              {
+                "label": "E",
+                "text": "Paragraph E"
+              },
+              {
+                "label": "F",
+                "text": "Paragraph F"
+              },
+              {
+                "label": "G",
+                "text": "Paragraph G"
+              },
+              {
+                "label": "H",
+                "text": "Paragraph H"
+              },
+              {
+                "label": "I",
+                "text": "Paragraph I"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Animal relevance exists between Australia and Africa.",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "Paragraph A"
+              },
+              {
+                "label": "B",
+                "text": "Paragraph B"
+              },
+              {
+                "label": "C",
+                "text": "Paragraph C"
+              },
+              {
+                "label": "D",
+                "text": "Paragraph D"
+              },
+              {
+                "label": "E",
+                "text": "Paragraph E"
+              },
+              {
+                "label": "F",
+                "text": "Paragraph F"
+              },
+              {
+                "label": "G",
+                "text": "Paragraph G"
+              },
+              {
+                "label": "H",
+                "text": "Paragraph H"
+              },
+              {
+                "label": "I",
+                "text": "Paragraph I"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage. Using NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Wegener found that continental drift instead of “land bridge” theory could explain strange species’ distribution phenomenon. In his theory, vegetation and wildlife 9..................... intercontinentally.",
+            "answer": "migrated",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "However, Eduard Suess compared the wrinkle of crust to 10..................... of an old apple.",
+            "answer": "withering skin",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Now it is well known that we are living on the planet where there are 11..................... in constant mobile states instead of what Suess described.",
+            "answer": "plates",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Hot spot in biogeography is switched to concerns between two-terms: “12.....................” and “13.....................”",
+            "answer": "dispersalism",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Hot spot in biogeography is switched to concerns between two-terms: “12.....................” and “13.....................”",
+            "answer": "vicarisanism",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:57:40.888191"
+}

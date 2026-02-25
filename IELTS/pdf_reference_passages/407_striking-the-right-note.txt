@@ -1,0 +1,162 @@
+TITLE: Striking the right note
+INDEX: 407
+============================================================
+
+Striking the right note
+
+Is perfect pitch a rare talent possessed solely by the likes of Beethoven? Kathryn
+Brown discusses this much sought-after musical ability.
+
+The uncanny, if sometimes distracting, ability to name a solitary note out of the blue,
+without any other notes for reference, is a prized musical talent - and a scientific mystery.
+Musicians with perfect pitch - or, as many researchers prefer to call it, absolute pitch - can
+often play pieces by ear, and many can transcribe music brilliantly. That’s because they
+perceive the position of a note in the musical stave - its pitch - as clearly as the fact that
+they heard it. Hearing and naming the pitch go hand in hand.
+
+By contrast, most musicians follow not the notes, but the relationship between them. They
+may easily recognise two notes as being a certain number of tones apart, but could name
+the higher note as an E only if they are told the lower one is a C, for example. This is
+relative pitch. Useful, but much less mysterious.
+
+For centuries, absolute pitch has been thought of as the preserve of the musical elite.
+Some estimates suggest that maybe fewer than 1 in 2,000 people possess it. But a
+growing number of studies, from speech experiments to brain scans, are now suggesting
+that a knack for absolute pitch may be far more common, and more varied, than previously
+thought. ‘Absolute pitch is not an all or nothing feature,’ says Marvin, a music theorist at the
+University of Rochester in New York state. Some researchers even claim that we could all
+develop the skill, regardless of our musical talent. And their work may finally settle a
+decades-old debate about whether absolute pitch depends on melodious genes - or early
+music lessons.
+
+Music psychologist Diana Deutsch at the University of California in San Diego is the
+leading voice. Last month at the Acoustical Society of America meeting in Columbus, Ohio,
+Deutsch reported a study that suggests we all have the potential to acquire absolute pitch -
+and that speakers of tone languages use it every day. A third of the world’s population -
+chiefly people in Asia and Africa - speak tone languages, in which a word’s meaning can
+vary depending on the pitch a speaker uses.
+
+Deutsch and her colleagues asked seven native Vietnamese speakers and 15 native
+Mandarin speakers to read out lists of words on different days. The chosen words spanned
+a range of pitches, to force the speakers to raise and lower their voices considerably. By
+recording these recited lists and taking the average pitch for each whole word, the
+researchers compared the pitches used by each person to say each word on different
+days.
+
+Both groups showed strikingly consistent pitch for any given word - often less than a
+quarter-tone difference between days. ‘The similarity,’ Deutsch says, ‘is mind-boggling.’ It’s
+also, she says, a real example of absolute pitch. As babies, the speakers learnt to
+associate certain pitches with meaningful words - just as a musician labels one tone A and
+another B - and they demonstrate this precise use of pitch regardless of whether or not
+they have had any musical training, she adds.
+
+Deutsch isn’t the only researcher turning up everyday evidence of absolute pitch. At least
+three other experiments have found that people can launch into familiar songs at or very
+near the correct pitches. Some researchers have nicknamed this ability ‘absolute memory’,
+and they say it pops up on other senses, too. Given studies like these, the real mystery is
+why we don’t all have absolute pitch, says cognitive psychologist Daniel Levitin of McGill
+University in Montreal.
+
+Over the past decade, researchers have confirmed that absolute pitch often runs in
+families. Nelson Freimer of the University of California in San Francisco, for example, is
+just completing a study that he says strongly suggests the right genes help create this
+brand of musical genius. Freimer gave tone tests to people with absolute pitch and to their
+relatives. He also tested several hundred other people who had taken early music lessons.
+He found that relatives of people with absolute pitch were far more likely to develop the skill
+than people who simply had the music lessons. There is clearly a familial aggregation of
+absolute pitch,’ Freimer says.
+
+Freimer says some children are probably genetically predisposed toward absolute pitch -
+and this innate inclination blossoms during childhood music lessons. Indeed, many
+researchers now point to this harmony of nature and nurture to explain why musicians with
+absolute pitch show different levels of the talent.
+
+Indeed, researchers are finding more and more evidence suggesting music lessons are
+critical to the development of absolute pitch. In a survey of 2,700 students in American
+music conservatories and college programmes, New York University geneticist Peter
+Gregersen and his colleagues found that a whopping 32 per cent of the Asian students
+reported having absolute pitch, compared with just 7 per cent of non-Asian students.
+
+While that might suggest a genetic tendency towards absolute pitch in the Asian
+population, Gregersen says that the type and timing of music lessons probably explains
+much of the difference.
+
+For one thing, those with absolute pitch started lessons, on average, when they were five
+years old, while those without absolute pitch started around the age of eight. Moreover,
+adds Gregersen, the type of music lessons favoured in Asia, and by many of the Asian
+families in his study, such as the Suzuki method, often focus on playing by ear and learning
+the names of musical notes, while those more commonly used in the US tend to emphasise
+learning scales in a relative pitch way. In Japanese pre-school music programmes, he
+says, children often have to listen to notes played on a piano and hold up a coloured flag to
+signal the pitch. ‘There’s a distinct cultural difference,’ he says.
+
+Deutsch predicts that further studies will reveal absolute pitch - in its imperfect, latent form -
+inside all of us. The Western emphasis on relative pitch simply obscures it, she contends.
+
+‘It’s very likely that scientists will end up concluding that we’re all born with the potential to
+acquire very fine-grained absolute pitch. It’s really just a matter of life getting in the way.’
+
+Questions 1-8
+
+Complete the notes below using words from the box.
+
+Write your answers in boxes 1-8 on your answer sheet.
+
+
+NOTES
+
+Research is being conducted into the mysterious musical 1..................... some people
+possess known as perfect pitch. Musicians with this talent are able to name and sing a
+2..................... without reference to another and it is this that separates them from the
+majority who have only 3..................... pitch. The research aims to find out whether this
+skill is the product of genetic inheritance or early exposure to 4..................... or, as some
+researchers believe, a combination of both. One research team sought a link between
+perfect pitch and 5..................... languages in order to explain the high number of Asian
+speakers with perfect pitch. Speakers of Vietnamese and Mandarin were asked to recite
+6..................... on different occasions and the results were then compared in terms of
+7...................... A separate study found that the approach to teaching music in many
+
+Asian 8..................... emphasised playing by ear whereas the US method was based on
+the relative pitch approach.
+
+
+Questions 9-13
+
+Reading Passage 3 contains a number of opinions provided by five different scientists.
+Match each opinion (Questions 36-40) with one of the scientists (A-E).
+
+Write your answers in boxes 9-13 on your answer sheet.
+
+You may use any of the people A-E more than once.
+
+9..................... Absolute pitch is not a clear-cut issue.
+
+10..................... Anyone can learn how to acquire perfect pitch.
+
+11..................... It’s actually surprising that not everyone has absolute pitch.
+
+12..................... The perfect pitch ability is genetic.
+
+13..................... The important thing is the age at which music lessons are started.
+
+
+A Levitin
+B Deutsch
+
+C Gregersen
+
+D Marvin
+E Freimer
+
+Solution:
+
+1. ability 8. cultures
+2. note 9. D
+
+3. relative 10. B
+4. music lessons 11. A
+
+5. tone 12. E
+6. words 13. C
+
+7. pitch

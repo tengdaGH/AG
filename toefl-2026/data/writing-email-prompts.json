@@ -1,0 +1,249 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Write an Email",
+    "rules": "Campus or social situation; address all bullet points; include subject, greeting, body, closing. Polite, clear, complete. ~7 min, 130+ words recommended.",
+    "reviewLogRef": "docs/item-review-log.md"
+  },
+  "prompts": [
+    {
+      "id": "E01",
+      "situation": "You want to suggest a change to the campus library. The library currently closes at 10 PM on weekdays. You have noticed that many students leave the library at 10 PM and then go to all-night cafés to continue studying. You think the library should extend its closing time.",
+      "bullets": [
+        "Explain why you are writing and what change you are suggesting.",
+        "Give at least one reason why extending the hours would help students.",
+        "Ask what steps would be needed to make this change and whether the library is considering it."
+      ],
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "recipient": "Library Office",
+      "subject": "Suggestion to Extend Library Closing Hours",
+      "shortDesc": "建议延长图书馆开放时间",
+      "og": false,
+      "shortDescEn": "Extend library hours"
+    },
+    {
+      "id": "E02",
+      "situation": "You ordered a textbook from the university bookstore two weeks ago. The book was supposed to arrive in 5–7 days, but it has not arrived yet. You need the book for a class that has already started.",
+      "bullets": [
+        "Say what you ordered and when.",
+        "Explain that the book has not arrived and that you need it for class.",
+        "Ask for the status of your order and what they can do to help (e.g. send a replacement or refund)."
+      ],
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "recipient": "University Bookstore",
+      "subject": "Late Delivery of Textbook Order",
+      "shortDesc": "教材迟送 / 催单与退款",
+      "og": false,
+      "shortDescEn": "Late textbook delivery"
+    },
+    {
+      "id": "E03",
+      "situation": "Your professor has invited the class to an optional review session before the midterm exam. You cannot attend because you have a medical appointment at the same time. You would like to know if the session will be recorded or if there is another way to get the same information.",
+      "bullets": [
+        "Thank the professor for offering the review session.",
+        "Explain briefly why you cannot attend.",
+        "Ask if the session will be recorded or if you can get notes or a summary."
+      ],
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "recipient": "Professor",
+      "subject": "Review Session — Request for Recording or Notes",
+      "shortDesc": "复习课无法参加，求录像或笔记",
+      "og": false,
+      "shortDescEn": "Review session — recording or notes"
+    },
+    {
+      "id": "E04",
+      "situation": "You are sharing a dorm room with a roommate. Lately, your roommate has been playing music late at night while you are trying to sleep. You have a morning class and need to rest. You want to ask your roommate to change this habit without causing conflict.",
+      "bullets": [
+        "Describe the situation in a polite way.",
+        "Explain how it is affecting your sleep and your class.",
+        "Suggest a solution (e.g. using headphones, or not playing music after a certain time) and ask for their view."
+      ],
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "recipient": "My Roommate",
+      "subject": "About Night-Time Music",
+      "shortDesc": "室友深夜音乐影响休息",
+      "og": false,
+      "shortDescEn": "Roommate night-time music"
+    },
+    {
+      "id": "E05",
+      "situation": "You are part of a student club that is organising a guest speaker event. The club advisor has asked you to write to a local business to ask whether they would be willing to sponsor the event (for example, by paying for refreshments or printing). You have not met the contact person before.",
+      "bullets": [
+        "Introduce yourself and your club briefly.",
+        "Describe the event and why sponsorship would help.",
+        "Explain what kind of support you are asking for and how the business could be recognised (e.g. name on posters)."
+      ],
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "recipient": "Local Business / Event Contact",
+      "subject": "Sponsorship Request for Guest Speaker Event",
+      "shortDesc": "向本地企业申请活动赞助",
+      "og": false,
+      "shortDescEn": "Sponsorship for guest speaker event"
+    },
+    {
+      "id": "E06",
+      "situation": "You missed an important deadline to submit a form to the student office (for example, a course change or financial aid form). The deadline was last Friday. You missed it because you were ill and could not come to campus. You want to ask if you can still submit the form late.",
+      "bullets": [
+        "Apologise for missing the deadline.",
+        "Explain briefly why you could not submit on time.",
+        "Ask if you can still submit the form now and what you should do next."
+      ],
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "recipient": "Student Office",
+      "subject": "Late Submission of Form — Request for Extension",
+      "shortDesc": "错过交表截止日期请求补交",
+      "og": false,
+      "shortDescEn": "Late form submission"
+    },
+    {
+      "id": "E07",
+      "situation": "Your campus parking permit is about to expire. You need to renew it so you can continue parking on campus. You are not sure what the renewal process is or what documents you need.",
+      "bullets": [
+        "Describe your situation and that your current permit is expiring.",
+        "Explain why you need to renew your permit.",
+        "Ask for information about the renewal process (e.g. what to bring, where to go, or how to apply online)."
+      ],
+      "recipient": "Campus Parking Office",
+      "subject": "Parking Permit Renewal",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "停车证续期",
+      "og": true,
+      "shortDescEn": "Parking permit renewal"
+    },
+    {
+      "id": "E08",
+      "situation": "You lost an item on campus recently. You saw a notice that the student center has a lost-and-found service. You would like to ask the staff to help you find your item.",
+      "bullets": [
+        "Describe the item you lost (e.g. what it is, colour, or any identifying details).",
+        "Explain when and where you last had it.",
+        "Ask whether they have received such an item and what you should do next to try to find it."
+      ],
+      "recipient": "Student Center Staff",
+      "subject": "Lost Item — Lost-and-Found Inquiry",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "失物招领",
+      "og": true,
+      "shortDescEn": "Lost-and-found inquiry"
+    },
+    {
+      "id": "E09",
+      "situation": "You heard that the university will hold a campus club fair soon, but you do not know the exact date, time, or location. You are interested in joining a club and would like to get more information from the student activities office.",
+      "bullets": [
+        "Explain your interest in the club fair.",
+        "Ask for details about when and where the fair will take place.",
+        "Ask for one or two recommendations for clubs that might suit your interests."
+      ],
+      "recipient": "Student Activities Office",
+      "subject": "Campus Club Fair — Date, Location, and Recommendations",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "社团招新时间与推荐",
+      "og": true,
+      "shortDescEn": "Club fair — date & recommendations"
+    },
+    {
+      "id": "E10",
+      "situation": "You and several classmates need to work on a group project and would like to reserve a study room in the library. You are not sure how to book a room or what the rules are.",
+      "bullets": [
+        "Describe your group and the need for a study room (e.g. for a project, how many people).",
+        "Explain your preferred date and time, if you have one.",
+        "Ask for instructions on how to reserve a study room (e.g. online, in person, or by phone)."
+      ],
+      "recipient": "Library Staff",
+      "subject": "Study Room Reservation for Group Project",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "图书馆自习室预约",
+      "og": true,
+      "shortDescEn": "Study room reservation"
+    },
+    {
+      "id": "E11",
+      "situation": "A campus event (e.g. a festival or open day) is coming up, and you would like to volunteer. You do not know how to sign up or what roles are available. You decide to write to the event coordinator.",
+      "bullets": [
+        "Say that you are interested in volunteering for the event and ask what opportunities are available.",
+        "Explain your availability (e.g. which days or times you can help).",
+        "Ask what the next steps are to sign up or get more information."
+      ],
+      "recipient": "Event Coordinator",
+      "subject": "Volunteer Interest for Campus Event",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "活动志愿者报名",
+      "og": true,
+      "shortDescEn": "Volunteer for campus event"
+    },
+    {
+      "id": "E12",
+      "situation": "You read about a new dining option on campus in the campus newspaper (e.g. a new café or food truck). You think your friend would enjoy it and would like to suggest going there together.",
+      "bullets": [
+        "Tell your friend what the new dining option is and where you learned about it.",
+        "Explain why you think he or she would enjoy it (e.g. type of food, atmosphere).",
+        "Suggest a time or day when you could try it together and ask if he or she is interested."
+      ],
+      "recipient": "My Friend",
+      "subject": "New Café on Campus — Want to Try It Together?",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "新餐厅推荐给朋友",
+      "og": true,
+      "shortDescEn": "New dining option — try with friend"
+    },
+    {
+      "id": "E13",
+      "situation": "You commute to campus by shuttle and would like to buy a transit pass to make it easier and cheaper. You are not sure where to buy the pass or what the process is. You decide to write to the transportation office.",
+      "bullets": [
+        "Describe your commute (e.g. that you use the campus shuttle regularly).",
+        "Explain why you need a transit pass and that you would like to purchase one.",
+        "Ask where and how you can buy the pass (e.g. online, at an office, or what documents you need)."
+      ],
+      "recipient": "Transportation Office",
+      "subject": "How to Purchase a Campus Shuttle Transit Pass",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "购买校园班车通勤卡",
+      "og": true,
+      "shortDescEn": "Campus shuttle transit pass"
+    },
+    {
+      "id": "E14",
+      "situation": "The deadline to submit your application for campus housing is approaching, but you need more time to complete it (e.g. because you are waiting for a document or you have been busy with exams). You would like to request an extension from the housing office.",
+      "bullets": [
+        "Describe your situation and that you are applying for campus housing.",
+        "Explain why you need more time to complete your application.",
+        "Politely ask whether it is possible to extend the deadline and what you should do to request an extension."
+      ],
+      "recipient": "Housing Office",
+      "subject": "Request to Extend Housing Application Deadline",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "宿舍申请延期",
+      "og": true,
+      "shortDescEn": "Housing application extension"
+    },
+    {
+      "id": "E15",
+      "situation": "You will attend a campus orientation session for new students soon. You have some questions about the schedule and what to expect. You decide to write to the orientation coordinator.",
+      "bullets": [
+        "Ask for details about the orientation schedule (e.g. date, time, location, or what activities are planned).",
+        "Explain your interest or what you hope to get from the orientation.",
+        "Ask for one or two pieces of advice for new students attending the session."
+      ],
+      "recipient": "Orientation Coordinator",
+      "subject": "Questions About Upcoming Campus Orientation",
+      "timeLimitMinutes": 7,
+      "wordTarget": 130,
+      "shortDesc": "新生 orientation 咨询",
+      "og": true,
+      "shortDescEn": "Campus orientation questions"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+[
+  {
+    "filename": "ielts-r-0020.json",
+    "id": "ielts-r-0020",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0016.json",
+    "id": "ielts-r-0016",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0017.json",
+    "id": "ielts-r-0017",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0001.json",
+    "id": "ielts-r-0001",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0021.json",
+    "id": "ielts-r-0021",
+    "error_count": 1,
+    "errors": [
+      "Missing paragraphs in content"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0006.json",
+    "id": "ielts-r-0006",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0010.json",
+    "id": "ielts-r-0010",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0030.json",
+    "id": "ielts-r-0030",
+    "error_count": 10,
+    "errors": [
+      "Missing options for MATCHING_FEATURES Q1",
+      "Missing options for MATCHING_FEATURES Q2",
+      "Missing options for MATCHING_FEATURES Q3",
+      "Missing options for MATCHING_FEATURES Q4",
+      "Missing options for MATCHING_FEATURES Q5",
+      "Missing options for MATCHING_FEATURES Q6",
+      "Invalid question group type: MATCHING_PARAGRAPH_INFORMATION",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q7",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q8",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q9"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0026.json",
+    "id": "ielts-r-0026",
+    "error_count": 1,
+    "errors": [
+      "Missing paragraphs in content"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0027.json",
+    "id": "ielts-r-0027",
+    "error_count": 3,
+    "errors": [
+      "Invalid TFNG answer for Q11: 'NO'",
+      "Invalid TFNG answer for Q12: 'NO'",
+      "Invalid TFNG answer for Q14: 'YES'"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0011.json",
+    "id": "ielts-r-0011",
+    "error_count": 1,
+    "errors": [
+      "Non-standard question count for Academic Reading: 5"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0007.json",
+    "id": "ielts-r-0007",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0012.json",
+    "id": "ielts-r-0012",
+    "error_count": 11,
+    "errors": [
+      "Invalid question group type: MATCHING_PARAGRAPH_INFORMATION",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q1",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q2",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q3",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q4",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q5",
+      "Invalid TFNG answer for Q6: 'YES'",
+      "Invalid TFNG answer for Q7: 'YES'",
+      "Invalid TFNG answer for Q8: 'NO'",
+      "Invalid TFNG answer for Q9: 'NO'",
+      "Invalid TFNG answer for Q10: 'NO'"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0004.json",
+    "id": "ielts-r-0004",
+    "error_count": 1,
+    "errors": [
+      "Missing paragraphs in content"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0028.json",
+    "id": "ielts-r-0028",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0008.json",
+    "id": "ielts-r-0008",
+    "error_count": 8,
+    "errors": [
+      "Missing options for MATCHING_FEATURES Q1",
+      "Missing options for MATCHING_FEATURES Q2",
+      "Missing options for MATCHING_FEATURES Q3",
+      "Missing options for MATCHING_FEATURES Q4",
+      "Missing options for MATCHING_FEATURES Q5",
+      "Missing options for MATCHING_FEATURES Q6",
+      "Missing options for MATCHING_FEATURES Q7",
+      "Missing options for MATCHING_FEATURES Q8"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0024.json",
+    "id": "ielts-r-0024",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0025.json",
+    "id": "ielts-r-0025",
+    "error_count": 6,
+    "errors": [
+      "Missing options for MATCHING_FEATURES Q5",
+      "Missing options for MATCHING_FEATURES Q6",
+      "Missing options for MATCHING_FEATURES Q7",
+      "Missing options for MATCHING_FEATURES Q8",
+      "Missing options for MATCHING_FEATURES Q9",
+      "Invalid question group type: FLOW_CHART_COMPLETION"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0009.json",
+    "id": "ielts-r-0009",
+    "error_count": 5,
+    "errors": [
+      "Invalid question group type: MATCHING_PARAGRAPH_INFORMATION",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q1",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q2",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q3",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q4"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0029.json",
+    "id": "ielts-r-0029",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0005.json",
+    "id": "ielts-r-0005",
+    "error_count": 5,
+    "errors": [
+      "Invalid question group type: MATCHING_PARAGRAPH_INFORMATION",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q1",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q2",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q3",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q4"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0013.json",
+    "id": "ielts-r-0013",
+    "error_count": 6,
+    "errors": [
+      "Missing options for MATCHING_FEATURES Q1",
+      "Missing options for MATCHING_FEATURES Q2",
+      "Missing options for MATCHING_FEATURES Q3",
+      "Missing options for MATCHING_FEATURES Q4",
+      "Missing options for MATCHING_FEATURES Q5",
+      "Invalid question group type: DIAGRAM_LABEL_COMPLETION"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0018.json",
+    "id": "ielts-r-0018",
+    "error_count": 8,
+    "errors": [
+      "Invalid question group type: MATCHING_PARAGRAPH_INFORMATION",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q1",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q2",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q3",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q4",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q5",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q6",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q7"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0022.json",
+    "id": "ielts-r-0022",
+    "error_count": 7,
+    "errors": [
+      "Invalid question group type: MATCHING_PARAGRAPH_INFORMATION",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q1",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q2",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q3",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q4",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q5",
+      "Invalid question group type: CLASSIFICATION"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0014.json",
+    "id": "ielts-r-0014",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0002.json",
+    "id": "ielts-r-0002",
+    "error_count": 1,
+    "errors": [
+      "Missing paragraphs in content"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0003.json",
+    "id": "ielts-r-0003",
+    "error_count": 6,
+    "errors": [
+      "Invalid question group type: MATCHING_PARAGRAPH_INFORMATION",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q1",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q2",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q3",
+      "Missing options for MATCHING_PARAGRAPH_INFORMATION Q4",
+      "Invalid question group type: DIAGRAM_LABEL_COMPLETION"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0015.json",
+    "id": "ielts-r-0015",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  },
+  {
+    "filename": "ielts-r-0023.json",
+    "id": "ielts-r-0023",
+    "error_count": 1,
+    "errors": [
+      "Non-standard question count for Academic Reading: 12"
+    ],
+    "valid": false
+  },
+  {
+    "filename": "ielts-r-0019.json",
+    "id": "ielts-r-0019",
+    "error_count": 0,
+    "errors": [],
+    "valid": true
+  }
+]

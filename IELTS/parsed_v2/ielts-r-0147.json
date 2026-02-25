@@ -1,0 +1,285 @@
+{
+  "id": "ielts-r-0147",
+  "slug": "effort-and-science-to-win",
+  "title": "EFFORT AND SCIENCE TO WIN",
+  "page_range": [
+    751,
+    755
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "FLASE",
+    "2": "B",
+    "9": "NOT GIVEN",
+    "3": "A",
+    "10": "TRUE",
+    "4": "C",
+    "11": "TRUE",
+    "5": "D",
+    "12": "NOT GIVEN",
+    "6": "B",
+    "13": "TRUE",
+    "7": "A"
+  },
+  "content": {
+    "title": "Effort and Science to Win",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In Mexico, the Medicine Direction and Applied Sciences of the National Commission of Deporte analyses all aspects of sports science from the role of the auditory system in sporting achievement to the power of the mind and its role in the ability to win. Everything, it seems, is open to scrutiny. Recently, the focus has been evaluating the visual acuity of cyclists and long distance runners but they also focus on the more traditional areas of sports research, among them psychology, nutrition, anthropology, biochemistry and odontology. From budding child athletes as young as 9 to the more mature-aged sportsperson, the facility at Deporte has attracted some of Mexico’s most famous sporting and Olympic hopefuls."
+      },
+      {
+        "label": "B",
+        "content": "“The study of elite athletes is now more scientific than ever” says doctor Francisco Javier Squares, “after each competition, athletes are exposed to vigorous medical examinations and follow-up training in order to help us arrive at a program that is tailor-made. The modern athlete has become big business, no longer is there a one-size-fits-all approach. For example, in the past two people both 1.70 meters tall and weighing 70 kilograms would have been given the same program of athletic conditioning – now this idea is obsolete. It may be that the first individual has 35 kgs of muscle and 15 kgs of fat and the other person, although the same height and weight may have 30 kgs of muscle and 20 kgs of fat. Through detailed scientific evaluation here at our facility in Deporte,” says Squares, “… we are able to construct a very specific training programme for each individual.”"
+      },
+      {
+        "label": "C",
+        "content": "Whereas many countries in the world focus on the elevation of the glorious champion, the Mexican Olympic team takes a slightly different approach. Psychologically speaking an athlete must bring to his endeavour a healthy dose of humility. As Squares said, “When an athlete wins for Mexico, it is always as a result of a combined team effort with many people operating behind the scenes to realise the sporting achievement. When an athlete stands on the dais, it is because of great effort on the part of many.”"
+      },
+      {
+        "label": "D",
+        "content": "As is often the case in some poorer countries, sportsmen and women are stifled in their development due to budgetary constraints. However this has not been a factor for consideration with the team in Mexico. The Mexican government has allocated a substantial sum of money for the provision of the latest equipment and laboratories for sports research. In fact, the quality of Mexico’s facilities puts them on a par with countries like Italy and Germany in terms of access to resources. One example of sophisticated equipment used at the Mexican facility is the hyperbaric chamber. This apparatus is used to enhance oxygen recovery after a vigorous physical workout. Says Squares, “When you breathe the air while inside a hyperbaric chamber the natural state of the oxygen does not change. Green plants produced the oxygen; modern technology just increases the air pressure. This does not change the molecular composition of oxygen. Increased pressure just allows oxygen to get into tissues better. Due to our purchase of the hyperbaric chamber, athletes are able to recover from an intense workout in a much shorter space of time. We typically use the chamber for sessions of 45 to 60 minutes daily or three times per week.”"
+      },
+      {
+        "label": "E",
+        "content": "When pushed to the limit, the true indicator of fitness is not how hard the heart operates, but how quickly it can recover after an extreme workout. Therefore, another focus area of study for the team in Mexico has been the endurance of the heart. To measure this recovery rate, an electroencephalograph (EEG) is used. The EEG enables doctors to monitor the brainwave activity from sensors placed on the scalp. Athletes exert intense effort for a sustained period after which they are given time to rest and recover. During these periods between intense physical exertion and recovery, doctors are able to monitor any weaknesses in the way the heart responds. The EEG has had a big impact upon our ability to measure the muscular endurance of the heart."
+      },
+      {
+        "label": "F",
+        "content": "In 1796, the life expectancy of a human being was between 25 and 36 years, in 1886 that number basically doubled to between 45 and 50. In 1996, the life expectancy of an average Mexican stood at around 75 years. People are living longer and this is due in large part to the advances of modern science. It is not all sophisticated medical equipment that is playing a part; although lesser in impact, basic advances in engineering are also greatly assisting. Take for example, a professional tennis player. In the past, most tennis players’ shoes were constructed with fabric and a solid rubber sole. These shoes were of poor construction and resulted in hip and foot injuries. Today the technology of shoe construction has radically changed. Now some shoes are injected with silicone and made of more comfortable, ergonomic construction. This has helped not only the elite but also the recreational sportsperson and thus, helps in the preservation of the human body."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The passage has eight paragraphs labelled A-F. Which paragraph contains the following information? Write the correct letter A-F in boxes 1-4 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "the natural process of oxygen production",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "standard after-competition procedure",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "the areas of study undertaken to improve athletic performance",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "the Mexican viewpoint on winning",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C, or D. Write your answers in boxes 5-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "The hyperbaric chamber",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "helps athletes to breathe more easily."
+              },
+              {
+                "label": "B",
+                "text": "increases the level of oxygen an athlete breathes."
+              },
+              {
+                "label": "C",
+                "text": "decreases the pressure of the oxygen for Mexican athletes."
+              },
+              {
+                "label": "D",
+                "text": "speeds up recovery time for athletes."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The electroencephalograph (EEC)",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "measures how fast brainwaves move during exercise."
+              },
+              {
+                "label": "B",
+                "text": "helps doctors to determine heart problems."
+              },
+              {
+                "label": "C",
+                "text": "measures how hard the heart works during exercise."
+              },
+              {
+                "label": "D",
+                "text": "strengthens the heart muscle in athletes."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The life-span of individuals in Mexico has increased due to",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "medical improvements."
+              },
+              {
+                "label": "B",
+                "text": "more committed doctors."
+              },
+              {
+                "label": "C",
+                "text": "better made sporting equipment."
+              },
+              {
+                "label": "D",
+                "text": "advances in ergonomics."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 8-13 on your answer sheet write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "There are limits to the level of sporting enquiry.",
+            "answer": "FLASE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Specific athletic programs differ mostly between men and women",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Mexico and Germany have similar sporting resources.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Lack of money is what stops athletic improvement in some poor countries.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Wealthy countries enjoy greater athletic success.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Mexican athletes have the support of their government.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T00:24:11.138364"
+}

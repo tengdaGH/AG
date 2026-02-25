@@ -1,0 +1,236 @@
+{
+  "id": "ielts-r-0317",
+  "slug": "numeracy-can-animals-tell-numbers-can-animals-count",
+  "title": "Numeracy: can animals tell numbers? (Can animals count?)",
+  "page_range": [
+    1605,
+    1609
+  ],
+  "raw_answer_key": {
+    "1": "identical",
+    "8": "TRUE",
+    "2": "balls of paper",
+    "9": "FALSE",
+    "10": "NOT",
+    "3": "calculate eggs GIVEN",
+    "4": "fruits flies",
+    "11": "TRUE",
+    "12": "NOT",
+    "5": "mosquitofish GIVEN",
+    "6": "surface area",
+    "13": "TRUE",
+    "7": "sugar water"
+  },
+  "content": {
+    "title": "Numeracy: Can Animals Tell Numbers?",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Prime among basic numerical faculties is the ability to distinguish between a larger and a smaller, says psychologist Elizabeth Brannon. Humans can do this with ease – providing the ratio is big enough – but do other animals share this ability? In one experiment, rhesus monkeys and university students examined two sets of geometrical objects that appeared briefly on a computer monitor. They had to decide which set contained more objects. Both groups performed successfully but, importantly, Brannon’s team found that monkeys, like humans, make more errors when two sets of objects are close in number. The students’ performance ends up looking just like a monkey’s. It’s practically identical, she says."
+      },
+      {
+        "label": "B",
+        "content": "Humans and monkeys are mammals, in the animal family known as primates. These are not the only animals whose numerical capacities rely on ratio, however. The same seems to apply to some amphibians. Psychologist Claudia Uller’s team tempted salamanders with two sets of fruit flies held in clear tubes. In a series of trials, the researchers noted which tube the salamanders scampered towards, reasoning that if they had a capacity to recognise the number, they would head for the larger number. The salamanders successfully discriminated between tubes containing 8 and 16 flies respectively, but not between 3 and 4, 4 and 6, or 8 and 12. So it seems that for the salamanders to discriminate between two numbers, the larger must be at least twice as big as the smaller. However, they could differentiate between 2 and 3 flies just as well as between 1 and 2 flies, suggesting they recognise small numbers in a different way from larger numbers."
+      },
+      {
+        "label": "C",
+        "content": "Further support for this theory comes from studies of mosquitofish, which instinctively join the biggest shoal they can. A team at the University of Padova found that while mosquitofish can tell the difference between a group containing 3 shoal-mates and a group containing 4, they did not show a preference between groups of 4 and 5. The team also found that mosquitofish can discriminate between numbers up to 16, but only if the ratio between the fish in each shoal was greater than 2:1. This indicates that the fish, like salamanders, possess both the approximate and precise number systems found in more intelligent animals such as infant humans and other primates."
+      },
+      {
+        "label": "D",
+        "content": "While these findings are highly suggestive, some critics argue that the animals might be relying on other factors to complete the tasks, without considering the number itself. 'Any study that’s claiming an animal is capable of representing number should also be controlling for other factors,' says Brannon. Experiments have confirmed that primates can indeed perform numerical feats without extra clues, but what about the more primitive animals?"
+      },
+      {
+        "label": "E",
+        "content": "To consider this possibility, the mosquitofish tests were repeated, this time using varying geometrical shapes in place of fish. The team arranged these shapes so that they had the same overall surface area and luminance even though they contained a different number of objects. Across hundreds of trials on 14 different fish, the team found they consistently discriminated 2 objects from 3. The team is now testing whether mosquitofish can also distinguish 3 geometric objects from 4."
+      },
+      {
+        "label": "F",
+        "content": "Even more primitive organisms may share this ability. Entomologist Jurgen Tautz sent a group of bees down a corridor, at the end of which lay two chambers – one which contained sugar water, which they like, while the other was empty. To test the bees’ numeracy, the team marked each chamber with a different number of geometrical shapes – between 2 and 6. The bees quickly learned to match the number of shapes with the correct chamber. Like the salamanders and fish, there was a limit to the bees’ mathematical prowess – they could differentiate up to 4 shapes, but failed with 5 or 6 shapes."
+      },
+      {
+        "label": "G",
+        "content": "These studies still do not show whether animals learn to count through training, or whether they are born with the skills already intact. If the latter is true, it would suggest there was a strong evolutionary advantage to a mathematical mind. Proof that this may be the case has emerged from an experiment testing the mathematical ability of three – and four-day-old chicks. Like mosquitofish, chicks prefer to be around as many of their siblings as possible, so they will always head towards a larger number of their kin. If chicks spend their first few days surrounded by certain objects, they become attached to these objects as if they were family. Researchers placed each chick in the middle of a platform and showed it two groups of balls of paper. Next, they hid the two piles behind screens, changed the quantities and revealed them to the chick. This forced the chick to perform simple computations to decide which side now contained the biggest number of its “brothers”. Without any prior coaching, the chicks scuttled to the larger quantity at a rate well above chance. They were doing some very simple arithmetic, claim the researchers."
+      },
+      {
+        "label": "H",
+        "content": "Why these skills evolved is not hard to imagine, since it would help almost any animal forage for food. Animals on the prowl for sustenance must constantly decide which tree has the most fruit, or which patch of flowers will contain the most nectar. There are also other, less obvious, advantages of numeracy. In one compelling example, researchers in America found that female coots appear to calculate how many eggs they have laid – and add any in the nest laid by an intruder – before making any decisions about adding to them. Exactly how ancient these skills are is difficult to determine, however. Only by studying the numerical abilities of more and more creatures using standardised procedures can we hope to understand the basic preconditions for the evolution of number."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Answer the table below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Performance of the two groups is almost...",
+            "answer": "identical",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "chicks can do which calculations in order to choose a larger group...",
+            "answer": "balls of paper",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "A bird seems to have the ability to...",
+            "answer": "calculate eggs",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "salamanders were offered clear tubes containing different quantities of...",
+            "answer": "fruits flies",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "the influence of these are used to check...",
+            "answer": "mosquitofish",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "and between four and five, total...",
+            "answer": "surface area",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "bees had to learn where...",
+            "answer": "sugar water",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage?",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Primates are better at identifying the larger of two numbers if one is much bigger than the other.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Jurgen Tautz trained the insects in his experiment to recognise the shapes of individual numbers.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The research involving young chicks took place over two separate days.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The experiment with chicks suggests that some numerical ability exists in newborn animals.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Researchers have experimented by altering quantities of nectar or fruit available to certain wild animals.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "When assessing the number of eggs in their nest, coots take into account those of other birds.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:54:08.958601"
+}

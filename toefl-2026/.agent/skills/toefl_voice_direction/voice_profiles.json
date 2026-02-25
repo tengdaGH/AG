@@ -1,0 +1,346 @@
+[
+    {
+        "name": "Aoede",
+        "gender": "F",
+        "age_range": "mid-career",
+        "accent": "american",
+        "tone": "warm-professional",
+        "best_for": [
+            "professor_f",
+            "narrator_f",
+            "interviewer_f",
+            "campus_announcer_f"
+        ],
+        "notes": "Versatile warm female voice; default F fallback for most contexts."
+    },
+    {
+        "name": "Puck",
+        "gender": "M",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "bright-energetic",
+        "best_for": [
+            "student_m",
+            "listen_and_repeat",
+            "casual_dialogue_m"
+        ],
+        "notes": "Youthful, bright male voice; ideal for undergraduate characters."
+    },
+    {
+        "name": "Kore",
+        "gender": "F",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "clear-friendly",
+        "best_for": [
+            "student_f",
+            "listen_and_repeat",
+            "casual_dialogue_f"
+        ],
+        "notes": "Clear, friendly female voice; ideal for undergraduate characters."
+    },
+    {
+        "name": "Charon",
+        "gender": "M",
+        "age_range": "senior",
+        "accent": "american",
+        "tone": "deep-scholarly",
+        "best_for": [
+            "professor_m",
+            "academic_talk",
+            "interviewer_formal_m"
+        ],
+        "notes": "Deep, authoritative male voice; best for senior academics and formal interviewers."
+    },
+    {
+        "name": "Fenrir",
+        "gender": "M",
+        "age_range": "mid-career",
+        "accent": "american",
+        "tone": "clear-neutral",
+        "best_for": [
+            "narrator_m",
+            "campus_announcer_m",
+            "ets_instruction_voice"
+        ],
+        "notes": "Clear, neutral male narrator; excellent for announcements and test instructions."
+    },
+    {
+        "name": "Orus",
+        "gender": "M",
+        "age_range": "senior",
+        "accent": "american",
+        "tone": "resonant-authoritative",
+        "best_for": [
+            "professor_m",
+            "academic_talk",
+            "senior_lecturer_m"
+        ],
+        "notes": "Resonant senior male voice; good professor alternative to Charon."
+    },
+    {
+        "name": "Iapetus",
+        "gender": "M",
+        "age_range": "mid-career",
+        "accent": "american",
+        "tone": "measured-academic",
+        "best_for": [
+            "professor_m",
+            "academic_talk",
+            "interviewer_formal_m"
+        ],
+        "notes": "Measured mid-career male; good for associate professors or formal interviewers."
+    },
+    {
+        "name": "Leda",
+        "gender": "F",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "bright-clear",
+        "best_for": [
+            "student_f",
+            "interviewer_f",
+            "listen_and_repeat"
+        ],
+        "notes": "Bright female voice; good for young professional or graduate student characters."
+    },
+    {
+        "name": "Callirrhoe",
+        "gender": "F",
+        "age_range": "mid-career",
+        "accent": "american",
+        "tone": "warm-authoritative",
+        "best_for": [
+            "professor_f",
+            "academic_talk",
+            "interviewer_formal_f"
+        ],
+        "notes": "Warm authoritative female; strong professor and formal interviewer voice."
+    },
+    {
+        "name": "Despina",
+        "gender": "F",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "casual-friendly",
+        "best_for": [
+            "student_f",
+            "casual_dialogue_f"
+        ],
+        "notes": "Casual, friendly young female; good secondary student voice."
+    },
+    {
+        "name": "Erinome",
+        "gender": "F",
+        "age_range": "young-adult",
+        "accent": "neutral-international",
+        "tone": "soft-clear",
+        "best_for": [
+            "student_f",
+            "ielts_candidate_f",
+            "casual_dialogue_f"
+        ],
+        "notes": "Soft, clear female voice with neutral accent; good for IELTS or international student characters."
+    },
+    {
+        "name": "Laomedeia",
+        "gender": "F",
+        "age_range": "mid-career",
+        "accent": "british",
+        "tone": "crisp-professional",
+        "best_for": [
+            "interviewer_formal_f",
+            "ielts_examiner_f",
+            "professor_f"
+        ],
+        "notes": "Crisp British female; preferred for IELTS contexts and formal interviewers."
+    },
+    {
+        "name": "Achernar",
+        "gender": "M",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "confident-clear",
+        "best_for": [
+            "narrator_m",
+            "campus_announcer_m",
+            "student_m"
+        ],
+        "notes": "Confident, clear young-adult male; good narrator or energetic student."
+    },
+    {
+        "name": "Algenib",
+        "gender": "M",
+        "age_range": "mid-career",
+        "accent": "american",
+        "tone": "smooth-professional",
+        "best_for": [
+            "narrator_m",
+            "campus_announcer_m"
+        ],
+        "notes": "Smooth professional male narrator."
+    },
+    {
+        "name": "Algieba",
+        "gender": "M",
+        "age_range": "mid-career",
+        "accent": "american",
+        "tone": "warm-measured",
+        "best_for": [
+            "narrator_m",
+            "professor_m"
+        ],
+        "notes": "Warm, measured male voice; alternative professor or narrator."
+    },
+    {
+        "name": "Alnilam",
+        "gender": "M",
+        "age_range": "mid-career",
+        "accent": "british",
+        "tone": "crisp-authoritative",
+        "best_for": [
+            "professor_m",
+            "interviewer_formal_m",
+            "ielts_examiner_m"
+        ],
+        "notes": "Crisp British male; excellent for IELTS, formal academic contexts."
+    },
+    {
+        "name": "Autonoe",
+        "gender": "F",
+        "age_range": "mid-career",
+        "accent": "american",
+        "tone": "neutral-warm",
+        "best_for": [
+            "narrator_f",
+            "campus_announcer_f"
+        ],
+        "notes": "Neutral-warm female narrator; good ETS instruction voice alternative."
+    },
+    {
+        "name": "Achird",
+        "gender": "M",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "casual-natural",
+        "best_for": [
+            "student_m",
+            "casual_dialogue_m"
+        ],
+        "notes": "Casual, natural young male; secondary student character."
+    },
+    {
+        "name": "Pulcherrima",
+        "gender": "F",
+        "age_range": "mid-career",
+        "accent": "neutral-international",
+        "tone": "elegant-clear",
+        "best_for": [
+            "professor_f",
+            "narrator_f",
+            "ielts_examiner_f"
+        ],
+        "notes": "Elegant, clear female; neutral accent good for international test contexts."
+    },
+    {
+        "name": "Rasalgethi",
+        "gender": "M",
+        "age_range": "senior",
+        "accent": "american",
+        "tone": "deep-clear",
+        "best_for": [
+            "professor_m",
+            "narrator_m",
+            "senior_character_m"
+        ],
+        "notes": "Deep, clear senior male; authoritative narrator or elder professor."
+    },
+    {
+        "name": "Sadachbia",
+        "gender": "M",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "bright-casual",
+        "best_for": [
+            "student_m",
+            "casual_dialogue_m"
+        ],
+        "notes": "Bright casual young male; tertiary student character option."
+    },
+    {
+        "name": "Sadaltager",
+        "gender": "M",
+        "age_range": "young-adult",
+        "accent": "neutral-international",
+        "tone": "neutral-energetic",
+        "best_for": [
+            "student_m",
+            "ielts_candidate_m",
+            "casual_dialogue_m"
+        ],
+        "notes": "Neutral-accented young male; good for IELTS or international student roles."
+    },
+    {
+        "name": "Schedar",
+        "gender": "M",
+        "age_range": "mid-career",
+        "accent": "neutral-international",
+        "tone": "measured-neutral",
+        "best_for": [
+            "narrator_m",
+            "interviewer_m"
+        ],
+        "notes": "Measured, neutral male; good as a secondary narrator or background character."
+    },
+    {
+        "name": "Sulafat",
+        "gender": "F",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "warm-casual",
+        "best_for": [
+            "student_f",
+            "campus_announcer_f",
+            "casual_dialogue_f"
+        ],
+        "notes": "Warm casual female; friendly campus character."
+    },
+    {
+        "name": "Umbriel",
+        "gender": "M",
+        "age_range": "mid-career",
+        "accent": "british",
+        "tone": "measured-serious",
+        "best_for": [
+            "professor_m",
+            "ielts_examiner_m",
+            "formal_narrator_m"
+        ],
+        "notes": "Measured, serious British male; IELTS examiner or formal academic."
+    },
+    {
+        "name": "Zephyr",
+        "gender": "M",
+        "age_range": "young-adult",
+        "accent": "american",
+        "tone": "breezy-confident",
+        "best_for": [
+            "student_m",
+            "casual_dialogue_m"
+        ],
+        "notes": "Breezy, confident young male; lively conversation partner."
+    },
+    {
+        "name": "Enceladus",
+        "gender": "M",
+        "age_range": "mid-career",
+        "accent": "american",
+        "tone": "solid-neutral",
+        "best_for": [
+            "narrator_m",
+            "campus_announcer_m",
+            "ets_instruction_voice"
+        ],
+        "notes": "Solid, neutral male; reliable narrator or instruction voice."
+    }
+]

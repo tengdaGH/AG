@@ -1,0 +1,139 @@
+{
+  "id": "ielts-r-0619",
+  "slug": "-what-do-whales-feel",
+  "title": "What Do Whales Feel?",
+  "page_range": [
+    3131,
+    3135
+  ],
+  "raw_answer_key": {
+    "1": "taste buds",
+    "7": "bowhead",
+    "2": "baleen/the baleen",
+    "8": "touch/sense whales of touch",
+    "3": "IN EITHER ORDER;",
+    "9": "freshwater BOTH REQUIRED FOR dolphin(s)/the ONE MARK forward (and) freshwater downward dolphin(s)",
+    "4": "freshwater",
+    "10": "airborne dolphin(s)/the freshwater flying fish dolphin(s)",
+    "11": "clear",
+    "5": "water/the water water(s)/clear open water(s)",
+    "12": "acoustic",
+    "6": "lower frequencies/ the sense/the lower frequencies acoustic sense"
+  },
+  "content": {
+    "title": "What Do Whales Feel?",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "An examination of the functioning of the senses in cetaceans, the group of mammals comprising whales, dolphins and porpoises. Some of the senses that we and other terrestrial mammals take for granted are either reduced or absent in cetaceans or fail to function well in water. For example, it appears from their brain structure that toothed species are unable to smell. Baleen species, on the other hand, appear to have some related brain structures but it is not known whether these are functional. It has been speculated that, as the blowholes evolved and migrated to the top of the head, the neural pathways serving sense of smell may have been nearly all sacrificed. Similarly, although at least some cetaceans have taste buds, the nerves serving these have degenerated or are rudimentary."
+      },
+      {
+        "label": null,
+        "content": "The sense of touch has sometimes been described as weak too, but this view is probably mistaken. Trainers of captive dolphins and small whales often remark on their animals’ responsiveness to being touched or rubbed, and both captive and free-ranging cetacean individuals of all species (particularly adults and calves, or members of the same subgroup) appear to make frequent contact. This contact may help to maintain order within a group, and stroking or touching are part of the courtship ritual in most species. The area around the blowhole is also particularly sensitive and captive animals often object strongly to being touched there."
+      },
+      {
+        "label": null,
+        "content": "The sense of vision is developed to different degrees in different species. Baleen species studied at close quarters underwater - specifically a grey whale calf in captivity for a year, and free-ranging right whales and humpback whales studied and filmed off Argentina and Hawaii - have obviously tracked objects with vision underwater, and they can apparently see moderately well both in water and in air. However, the position of the eyes so restricts the field of vision in baleen whales that they probably do not have stereoscopic vision. On the other hand, the position of the eyes in most dolphins and porpoises suggests that they have stereoscopic vision forward and downward. Eye position in freshwater dolphins, which often swim on their side or upside down while feeding, suggests that what vision they have is stereoscopic forward and upward. By comparison, the bottlenose dolphin has extremely keen vision in water. Judging from the way it watches and tracks airborne flying fish, it can apparently see fairly well through the air-water interface as well. And although preliminary experimental evidence suggests that their in-air vision is poor, the accuracy with which dolphins leap high to take small fish out of a trainer’s hand provides anecdotal evidence to the contrary."
+      },
+      {
+        "label": null,
+        "content": "Such variation can no doubt be explained with reference to the habitats in which individual species have developed. For example, vision is obviously more useful to species inhabiting clear open waters than to those living in turbid rivers and flooded plains. The South American boutu and Chinese beiji, for instance, appear to have very limited vision, and the Indian susus are blind, their eyes reduced to slits that probably allow them to sense only the direction and intensity of light."
+      },
+      {
+        "label": null,
+        "content": "Although the senses of taste and smell appear to have deteriorated, and vision in water appears to be uncertain, such weaknesses are more than compensated for by cetaceans’ well-developed acoustic sense. Most species are highly vocal, although they vary in the range of sounds they produce, and many forage for food using echolocation. Large baleen whales primarily use the lower frequencies and are often limited in their repertoire. Notable exceptions are the nearly song-like choruses of bowhead whales in summer and the complex, haunting utterances of the humpback whales. Toothed species in general employ more of the frequency spectrum, and produce a wider variety of sounds, than baleen species (though the sperm whale apparently produces a monotonous series of high-energy clicks and little else). Some of the more complicated sounds are clearly communicative, although what role they may play in the social life and ‘culture’ of cetaceans has been more the subject of wild speculation than of solid science."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "nerves linked to their ________ are underdeveloped",
+            "answer": "taste buds",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "________ whales",
+            "answer": "baleen/the baleen",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "probably have stereoscopic vision ________",
+            "answer": "IN EITHER ORDER;",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "________ dolphins",
+            "answer": "freshwater",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "exceptional in ________ and good",
+            "answer": "water/the water water(s)/clear open water(s)",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "usually use ________;",
+            "answer": "lower frequencies/ the sense/the lower frequencies acoustic sense",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "________ whales and humpback whales",
+            "answer": "bowhead",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below using NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Which of the senses is described here as being involved in mating?",
+            "answer": "touch/sense whales of touch",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Which species swims upside down while eating?",
+            "answer": "freshwater BOTH REQUIRED FOR dolphin(s)/the ONE MARK forward (and) freshwater downward dolphin(s)",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "What can bottlenose dolphins follow from under the water?",
+            "answer": "airborne dolphin(s)/the freshwater flying fish dolphin(s)",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Which type of habitat is related to good visual ability?",
+            "answer": "clear",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Which of the senses is best developed in cetaceans?",
+            "answer": "acoustic",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-25T18:21:22.325983"
+}

@@ -1,0 +1,189 @@
+{
+  "id": "ielts-r-0602",
+  "slug": "using-the-internet-and-cd-rom-databases-in-the-library",
+  "title": "Using the Internet and CD-ROM databases in the Library",
+  "page_range": [
+    3044,
+    3046
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "4": "A",
+    "2": "B",
+    "5": "B",
+    "3": "A",
+    "6": "B"
+  },
+  "content": {
+    "title": "Using the Internet and CD-ROM Databases in the Library",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Bramley College now has full electronic information resources in the College Library to help you in your studies. On CD-ROM in the library we have about fifty databases, including many statistical sources. Want to know the average rainfall in Tokyo or the biggest export earner of Vanuatu? It's easy to find out. Whether you are in the School of Business or the School of Art & Design, it's all here for you."
+      },
+      {
+        "label": null,
+        "content": "You can conduct your own CD-ROM search for no charge, and you can print out your results on the library printers using your library photocopying card. Alternatively, you can download your results to disk, again for no charge, but bring your own formatted floppy disk or CD-ROM. If you are not sure how to conduct a search for yourself, library staff can do it for you, but we charge $20 for this service, no matter how long or how short a time it takes."
+      },
+      {
+        "label": null,
+        "content": "All library workstations have broadband access to the Internet, so you can find the web-based information you need quickly and easily. If you are unfamiliar with using the Internet, help is available in several ways. You can start with the online tutorial Netstart; just click on the Netstart Icon on the Main Menu. The tutorial will take you through the basic steps to using the Internet, at any time convenient to you. If you prefer, ask one of the librarians for internet advice (best at quiet times between 9.00am and 11.30am weekdays) or attend one of the introductory group sessions that are held in the first two weeks of each term. Sign your name on the list on the Library Bulletin Board to guarantee a place, as they are very popular."
+      },
+      {
+        "label": null,
+        "content": "A word of warning: demand for access to library workstations is very high, so you are strongly advised to book a workstation, and we have to limit your use to a maximum of one hour at any one time. Make your booking (for which you will receive a receipt) at the information Desk or at the enquiry desks in the Media Services Area (Level 1). Also, use of the computers is limited to Bramley students only, so you may be asked to produce your Student Identification Card to make a booking, or while using the workstations."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D. Write the correct letter in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "To use the library printers, students must have.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "a floppy disk."
+              },
+              {
+                "label": "B",
+                "text": "correct change in coins."
+              },
+              {
+                "label": "C",
+                "text": "a photocopying card."
+              },
+              {
+                "label": "D",
+                "text": "their own paper."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "To copy search results to a floppy disk, students pay.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "$20."
+              },
+              {
+                "label": "B",
+                "text": "no fee."
+              },
+              {
+                "label": "C",
+                "text": "a fee based on actual costs."
+              },
+              {
+                "label": "D",
+                "text": "a fee dependent on the time taken."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "If library staff search for information on CD-ROM, students pay.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "$20."
+              },
+              {
+                "label": "B",
+                "text": "no fee."
+              },
+              {
+                "label": "C",
+                "text": "a fee based on actual costs."
+              },
+              {
+                "label": "D",
+                "text": "a fee dependent on the time taken."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Students can learn to use the Internet.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "at all times."
+              },
+              {
+                "label": "B",
+                "text": "in the first two weeks of term only."
+              },
+              {
+                "label": "C",
+                "text": "Monday to Friday only."
+              },
+              {
+                "label": "D",
+                "text": "between 9.00am and 11.30am only."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "To ensure efficient access to the library workstations, students should.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "queue to use a workstation in the Media Services Area."
+              },
+              {
+                "label": "B",
+                "text": "reserve a time to use a workstation."
+              },
+              {
+                "label": "C",
+                "text": "work in groups on one workstation."
+              },
+              {
+                "label": "D",
+                "text": "conduct as many searches as possible at one time."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "At any one time, students may use a library workstation for.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "half an hour."
+              },
+              {
+                "label": "B",
+                "text": "one hour."
+              },
+              {
+                "label": "C",
+                "text": "two hours."
+              },
+              {
+                "label": "D",
+                "text": "an unlimited time."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 6
+  },
+  "processed_at": "2026-02-25T22:06:15.178077"
+}

@@ -1,0 +1,401 @@
+{
+  "id": "ielts-r-0535",
+  "slug": "the-problem-of-scarce-resources",
+  "title": "The Problem of Scarce Resources",
+  "page_range": [
+    2706,
+    2711
+  ],
+  "raw_answer_key": {
+    "1": "iv",
+    "8": "B",
+    "2": "i",
+    "9": "NO",
+    "3": "iii",
+    "10": "YES",
+    "4": "v",
+    "11": "YES",
+    "5": "B",
+    "12": "NOT GIVEN",
+    "6": "B",
+    "13": "NOT GIVEN",
+    "7": "A"
+  },
+  "content": {
+    "title": "The Problem of Scarce Resources",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The problem of how health-care resources should be allocated or apportioned, so that they are distributed in both the most just and most efficient way, is not a new one. Every health system in an economically developed society is faced with the need to decide (either formally or informally) what proportion of the community’s total resources should be spent on health-care; how resources are to be apportioned; what diseases and disabilities and which forms of treatment are to be given priority; which members of the community are to be given special consideration in respect of their health needs; and which forms of treatment are the most cost-effective."
+      },
+      {
+        "label": "B",
+        "content": "What is new is that, from the 1950s onwards, there have been certain general changes in outlook about the finitude of resources as a whole and of health-care resources in particular, as well as more specific changes regarding the clientele of health-care resources and the cost to the community of those resources. Thus, in the 1950s and 1960s, there emerged an awareness in Western societies that resources for the provision of fossil fuel energy were finite and exhaustible and that the capacity of nature or the environment to sustain economic development and population was also finite. In other words, we became aware of the obvious fact that there were ‘limits to growth’. The new consciousness that there were also severe limits to health-care resources was part of this general revelation of the obvious. Looking back, it now seems quite incredible that in the national health systems that emerged in many countries in the years immediately after the 1939-45 World War, it was assumed without question that all the basic health needs of any community could be satisfied, at least in principle; the ‘invisible hand’ of economic progress would provide."
+      },
+      {
+        "label": "C",
+        "content": "However, at exactly the same time as this new realisation of the finite character of health-care resources was sinking in, an awareness of a contrary kind was developing in Western societies: that people have a basic right to health-care as a necessary condition of a proper human life. Like education, political and legal processes and institutions, public order, communication, transport and money supply, health-care came to be seen as one of the fundamental social facilities necessary for people to exercise their other rights as autonomous human beings. People are not in a position to exercise personal liberty and to be self-determining if they are poverty-stricken, or deprived of basic education, or do not live within a context of law and order. In the same way, basic health-care is a condition of the exercise of autonomy."
+      },
+      {
+        "label": "D",
+        "content": "Although the language of ‘rights’ sometimes leads to confusion, by the late 1970s it was recognised in most societies that people have a right to health-care (though there has been considerable resistance in the United States to the idea that there is a formal right to health-care). It is also accepted that this right generates an obligation or duty for the state to ensure that adequate health-care resources are provided out of the public purse. The state has no obligation to provide a health-care system itself, but to ensure that such a system is provided. Put another way, basic health-care is now recognised as a ‘public good’, rather than a ‘private good’ that one is expected to buy for oneself. As the 1976 declaration of the World Health Organisation put it: ‘The enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being without distinction of race, religion, political belief, economic or social condition.’ As has just been remarked, in a liberal society basic health is seen as one of the indispensable conditions for the exercise of personal autonomy."
+      },
+      {
+        "label": "E",
+        "content": "Just at the time when it became obvious that health-care resources could not possibly meet the demands being made upon them, people were demanding that their fundamental right to health-care be satisfied by the state. The second set of more specific changes that have led to the present concern about the distribution of health-care resources stems from the dramatic rise in health costs in most OECD countries, accompanied by large-scale demographic and social changes which have meant, to take one example, that elderly people are now major (and relatively very expensive) consumers of health-care resources. Thus in OECD countries as a whole, health costs increased from 3.8% of GDP in 1960 to 7% of GDP in 1980, and it has been predicted that the proportion of health costs to GDP will continue to increase. (In the US the current figure is about 12% of GDP, and in Australia about 7.8% of GDP)."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for sections A and C-E from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Section A",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "The connection between health-care and other human rights"
+              },
+              {
+                "label": "ii",
+                "text": "The development of market-based health systems"
+              },
+              {
+                "label": "iii",
+                "text": "The role of the state in health-care"
+              },
+              {
+                "label": "iv",
+                "text": "A problem shared by every economically developed country"
+              },
+              {
+                "label": "v",
+                "text": "The impact of recent change"
+              },
+              {
+                "label": "vi",
+                "text": "The views of the medical establishment"
+              },
+              {
+                "label": "vii",
+                "text": "The end of an illusion"
+              },
+              {
+                "label": "viii",
+                "text": "Sustainable economic development"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Section C",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "The connection between health-care and other human rights"
+              },
+              {
+                "label": "ii",
+                "text": "The development of market-based health systems"
+              },
+              {
+                "label": "iii",
+                "text": "The role of the state in health-care"
+              },
+              {
+                "label": "iv",
+                "text": "A problem shared by every economically developed country"
+              },
+              {
+                "label": "v",
+                "text": "The impact of recent change"
+              },
+              {
+                "label": "vi",
+                "text": "The views of the medical establishment"
+              },
+              {
+                "label": "vii",
+                "text": "The end of an illusion"
+              },
+              {
+                "label": "viii",
+                "text": "Sustainable economic development"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Section D",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The connection between health-care and other human rights"
+              },
+              {
+                "label": "ii",
+                "text": "The development of market-based health systems"
+              },
+              {
+                "label": "iii",
+                "text": "The role of the state in health-care"
+              },
+              {
+                "label": "iv",
+                "text": "A problem shared by every economically developed country"
+              },
+              {
+                "label": "v",
+                "text": "The impact of recent change"
+              },
+              {
+                "label": "vi",
+                "text": "The views of the medical establishment"
+              },
+              {
+                "label": "vii",
+                "text": "The end of an illusion"
+              },
+              {
+                "label": "viii",
+                "text": "Sustainable economic development"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Section E",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "The connection between health-care and other human rights"
+              },
+              {
+                "label": "ii",
+                "text": "The development of market-based health systems"
+              },
+              {
+                "label": "iii",
+                "text": "The role of the state in health-care"
+              },
+              {
+                "label": "iv",
+                "text": "A problem shared by every economically developed country"
+              },
+              {
+                "label": "v",
+                "text": "The impact of recent change"
+              },
+              {
+                "label": "vi",
+                "text": "The views of the medical establishment"
+              },
+              {
+                "label": "vii",
+                "text": "The end of an illusion"
+              },
+              {
+                "label": "viii",
+                "text": "Sustainable economic development"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "instruction": "Classify the following as first occurring.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "the realisation that the resources of the national health systems were limited",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "between 1945 and 1950"
+              },
+              {
+                "label": "B",
+                "text": "between 1950 and 1980"
+              },
+              {
+                "label": "C",
+                "text": "after 1980"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "a sharp rise in the cost of health-care",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "between 1945 and 1950"
+              },
+              {
+                "label": "B",
+                "text": "between 1950 and 1980"
+              },
+              {
+                "label": "C",
+                "text": "after 1980"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "a belief that all the health-care resources the community needed would be produced by economic growth",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "between 1945 and 1950"
+              },
+              {
+                "label": "B",
+                "text": "between 1950 and 1980"
+              },
+              {
+                "label": "C",
+                "text": "after 1980"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "an acceptance of the role of the state in guaranteeing the provision of health-care",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "between 1945 and 1950"
+              },
+              {
+                "label": "B",
+                "text": "between 1950 and 1980"
+              },
+              {
+                "label": "C",
+                "text": "after 1980"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Personal liberty and independence have never been regarded as directly linked to health-care.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Health-care came to be seen as a right at about the same time that the limits of healthcare resources became evident.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "In OECD countries population changes have had an impact on health-care costs in recent years.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "OECD governments have consistently underestimated the level of health-care provision needed.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "In most economically developed countries the elderly will have to make special provision for their health-care in the future.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:51:01.042299"
+}

@@ -1,0 +1,229 @@
+{
+  "id": "ielts-r-0632",
+  "slug": "which-direction-for-a-career",
+  "title": "Which direction for a career?",
+  "page_range": [
+    3195,
+    3197
+  ],
+  "raw_answer_key": {
+    "1": "a careers library",
+    "7": "NOT GIVEN (careers advisors)",
+    "2": "work experience",
+    "8": "FALSE programs",
+    "3": "Career Information",
+    "9": "TRUE Centres",
+    "4": "industry contacts",
+    "10": "TRUE (insights)",
+    "11": "NOT",
+    "5": "open days GIVEN",
+    "6": "government careers",
+    "12": "TRUE directory"
+  },
+  "content": {
+    "title": "Which direction for a career?",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "To examine your career options, you should first gather as much information as possible. Here are some places where you can get advice."
+      },
+      {
+        "label": null,
+        "content": "School: Your careers library will have some basic information on a variety of occupations. Ask the librarian questions like: • What does someone with this job do? • What subjects do I need to study? • What courses are available? • How long will it take to train? Also use careers advisors to expand your list of career ideas by finding out about related options. Many schools have work experience programs which give you the chance to check out a job which interests you."
+      },
+      {
+        "label": null,
+        "content": "Career Information Centres: Resources in these centres include printed information about jobs, and tertiary study reference materials such as university and college handbooks. There are 12 Career Information Centres throughout the country. Assistance from staff is also available."
+      },
+      {
+        "label": null,
+        "content": "Employers: You could talk to employers in areas you find interesting. You might ask them questions such as: • What are the most demanding aspects of the work? • What is the most preferred method of training for the work? • Are there courses which will prepare me for the work?"
+      },
+      {
+        "label": null,
+        "content": "Parents, friends, relatives: Relatives and friends can be helpful in giving insights into the daily routine of an occupation. By questioning them, you can expand your knowledge about the work. Another option is to use this group to arrange industry contacts or check out potential job vacancies."
+      },
+      {
+        "label": null,
+        "content": "Universities and colleges: These institutions have careers advisors for prospective students. You can also take part in their open days. During these days, you can look at the facilities offered and chat to the tutors and lecturers."
+      },
+      {
+        "label": null,
+        "content": "Internet: Don't forget the Internet. One great site to visit is the government careers directory."
+      },
+      {
+        "label": null,
+        "content": "Getting it all together: You will no doubt gather lots of information, and it is easy to forget details, so you should collect all your information using a folder or filing system to ensure that your information is kept up-to-date."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Using NO MORE THAN THREE WORDS taken from the text 'Which direction for a career?', complete the summary below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Both schools and universities have ____________ to assist students with job information.",
+            "answer": "a careers library",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Schools may also run ____________ for practice at specific jobs.",
+            "answer": "work experience",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "There are several ____________ which advise clients on careers.",
+            "answer": "Career Information",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Acquaintances can sometimes provide ____________.",
+            "answer": "industry contacts",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Colleges also hold ____________.",
+            "answer": "open days",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Finally, for those with access to the Internet, the ____________ is a useful source of information.",
+            "answer": "government careers",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the text 'Which direction for a career'?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Job seekers should speak to their school principals about future careers.",
+            "answer": "NOT GIVEN (careers advisors)",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Career Information Centres do not offer information on tertiary courses.",
+            "answer": "FALSE programs",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Prospective employers could be consulted.",
+            "answer": "TRUE Centres",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Job opportunities may be discovered through friends.",
+            "answer": "TRUE (insights)",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Tertiary institutions encourage prospective students to enrol in their courses.",
+            "answer": "NOT",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Job seekers should keep all their information in one place.",
+            "answer": "TRUE directory",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-25T22:16:23.492179"
+}

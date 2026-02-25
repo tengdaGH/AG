@@ -1,0 +1,353 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Complete the Words (C-test)",
+    "rules": "First sentence intact. From second sentence, every 2nd word: keep floor(length/2) chars, delete the rest. 10 gaps per passage. Punctuation never part of blank.",
+    "tiers": { "B2": "Routing module – general academic", "C1": "Hard module – dense academic" },
+    "reviewLogRef": "docs/item-review-log.md",
+    "reviewLog": [
+      { "date": "2026-02-13", "scope": "ETS-style review", "summary": "Passage typos fixed: B2-08 Earth's surface, C1-02 researcher's own, C1-08 one's own. Gap rules verified. See docs/item-review-log.md." }
+    ]
+  },
+  "passages": [
+    {
+      "id": "B2-01",
+      "tier": "B2",
+      "text": "The Industrial Revolution began in Britain in the late eighteenth century. It marked a major shift from hand production to machines and new manufacturing processes. Factories replaced small workshops and cities grew rapidly as workers moved to find jobs. The invention of the steam engine was especially important because it powered trains and ships. Historians often argue that these changes laid the foundation for modern economic growth and urban life.",
+      "hints": [
+        "Noun: 'shift' collocates with 'from X to Y'.",
+        "Plural noun after 'new'; process of making goods.",
+        "Past tense: events in the past.",
+        "Comparative form: cities became larger quickly.",
+        "Past tense verb; workers relocated.",
+        "Adjective: the engine was particularly significant.",
+        "Conjunction introducing reason.",
+        "Past tense; trains and ships were powered by steam.",
+        "Plural noun; people who study history.",
+        "Collocation: 'lay the foundation for' is fixed."
+      ]
+    },
+    {
+      "id": "B2-02",
+      "tier": "B2",
+      "text": "Photosynthesis is the process by which plants use sunlight to make food. Green leaves contain a pigment called chlorophyll that captures light energy. The plant then combines this energy with water from the soil and carbon dioxide from the air. As a result the plant produces sugar and releases oxygen into the atmosphere. Without this process most life on Earth would not be able to survive.",
+      "hints": [
+        "Subject-verb: the process that plants use.",
+        "Adjective; the colour of typical leaves.",
+        "Relative clause: 'called' follows the noun.",
+        "Verb: to take or catch (light).",
+        "Adverb: indicates sequence.",
+        "Verb: to join together.",
+        "Preposition: origin of water.",
+        "Noun; gas that plants take in.",
+        "Consequence phrase: 'as a result'.",
+        "Modal + verb: hypothetical without photosynthesis."
+      ]
+    },
+    {
+      "id": "B2-03",
+      "tier": "B2",
+      "text": "The Roman Empire built thousands of miles of roads to connect its territories. These roads allowed soldiers and merchants to travel quickly between distant regions. Engineers designed the roads with a slight curve so that rainwater would drain to the sides. Many of these ancient roads are still visible today in parts of Europe. They remind us that good infrastructure has always been important for civilization.",
+      "hints": [
+        "Plural noun; the empire constructed many.",
+        "Verb: to link or join.",
+        "Plural; areas under control.",
+        "Verb: permitted or enabled.",
+        "Plural noun; people who buy and sell.",
+        "Comparative adverb; faster travel.",
+        "Plural noun; people who design and build.",
+        "Adjective; small slope.",
+        "Verb: water flows away.",
+        "Noun; society and its development."
+      ]
+    },
+    {
+      "id": "B2-04",
+      "tier": "B2",
+      "text": "Climate change is affecting weather patterns around the world. Scientists have observed that average temperatures are rising and that extreme events such as droughts and floods are becoming more frequent. Governments and international organizations are working to reduce greenhouse gas emissions. Individuals can also help by using less energy and supporting policies that protect the environment. Education and awareness are essential if we want to address this global challenge.",
+      "hints": [
+        "Verb: influencing or changing.",
+                        "Plural noun; types of weather.",
+        "Plural; researchers.",
+        "That-clause verb; have seen.",
+        "Comparative: temperatures going up.",
+        "Adjective; very severe.",
+        "Comparative phrase: more often.",
+        "Plural noun; bodies like the UN.",
+        "Infinitive: aim to lower.",
+        "Collocation: 'greenhouse gas' + emissions."
+      ]
+    },
+    {
+      "id": "B2-05",
+      "tier": "B2",
+      "text": "The human brain contains roughly eighty-six billion neurons. These cells communicate with each other through electrical and chemical signals. When we learn something new the connections between certain neurons can become stronger. This process is often called neuroplasticity and it continues throughout our lives. Researchers are still discovering how the brain adapts to experience and injury.",
+      "hints": [
+        "Verb: has or holds.",
+        "Adverb; approximately.",
+        "Plural noun; nerve cells.",
+        "Verb: to exchange information.",
+        "Conjunction: by means of.",
+        "Adjective; related to electricity.",
+        "Conjunction: at the time when.",
+        "Plural noun; links between neurons.",
+        "Comparative: more strong.",
+        "Noun; the ability to change."
+      ]
+    },
+    {
+      "id": "B2-06",
+      "tier": "B2",
+      "text": "Democracy allows citizens to participate in the political process by voting. In a representative democracy people elect officials to make decisions on their behalf. Freedom of speech and assembly are protected so that individuals can express their views. Critics argue that democracy is slow and that it sometimes fails to produce the best outcomes. Nevertheless many consider it the fairest system for governing diverse societies.",
+      "hints": [
+        "Verb: enables or lets.",
+                        "Plural noun; members of a country.",
+                        "Infinitive: to take part.",
+                        "Adjective; related to government.",
+                        "Verb: choose by vote.",
+                        "Plural noun; elected people.",
+                        "Noun; the right to speak freely.",
+                        "Verb: to state or show.",
+                        "Plural noun; people who criticize.",
+        "Adverb: in spite of that."
+      ]
+    },
+    {
+      "id": "B2-07",
+      "tier": "B2",
+      "text": "The invention of the printing press in the fifteenth century changed how information was spread. Before that books had to be copied by hand which was slow and expensive. With the press many copies could be produced quickly and at lower cost. Ideas could then reach a wider audience and literacy rates began to rise. Historians often describe this as one of the most important developments in human history.",
+      "hints": [
+        "Noun; a machine for printing.",
+                        "Ordinal number; 1400s.",
+                        "Verb (past passive): was distributed.",
+                        "Conjunction: prior to that.",
+                        "Past tense; duplicated manually.",
+                        "Relative clause: which was slow.",
+                        "Preposition: using the press.",
+                        "Modal past: were able to be made.",
+                        "Comparative: broader.",
+                        "Plural noun; experts in history."
+      ]
+    },
+    {
+      "id": "B2-08",
+      "tier": "B2",
+      "text": "Water is essential for all known forms of life. It helps to regulate body temperature and transport nutrients through the bloodstream. Most of the Earth's surface is covered by oceans but only a small fraction of that water is fresh and suitable for drinking. Pollution and overuse have led to shortages in many regions. Conservation and better management are needed to ensure that future generations have enough water.",
+      "hints": [
+        "Adjective; necessary.",
+                        "Verb: to control.",
+                        "Noun; degree of heat.",
+                        "Verb: to carry.",
+                        "Noun; the planet we live on.",
+                        "Past participle; covered by.",
+                        "Conjunction: however.",
+                        "Noun; a part.",
+                        "Adjective; not salt.",
+                        "Plural noun; people to come."
+      ]
+    },
+    {
+      "id": "B2-09",
+      "tier": "B2",
+      "text": "Music has been part of human culture for thousands of years. Different societies have developed their own instruments scales and styles of performance. Studies suggest that listening to music can affect mood and even reduce stress. Some researchers believe that music may have helped early humans to bond and cooperate. Today music is used in education therapy and entertainment around the world.",
+      "hints": [
+        "Noun; a long period.",
+                        "Plural noun; communities.",
+                        "Verb (present perfect): have created.",
+                        "Plural noun; types of instruments.",
+                        "Plural noun; ways of playing.",
+                        "Plural noun; research.",
+                        "Verb: to influence.",
+                        "Comparative: lower stress.",
+                        "Verb: to form connections.",
+                        "Noun; treatment for health."
+      ]
+    },
+    {
+      "id": "B2-10",
+      "tier": "B2",
+      "text": "The internet has transformed how people communicate and access information. Email and social media allow instant contact across long distances. However the spread of false information online has become a serious concern. Many countries are debating how to regulate content while protecting free speech. Experts agree that digital literacy is increasingly important for participation in modern society.",
+      "hints": [
+        "Verb (past): has changed.",
+                        "Conjunction: and.",
+                        "Verb: to get or obtain.",
+                        "Adjective; immediate.",
+                        "Noun; connection.",
+                        "Conjunction: but.",
+                        "Noun; distribution.",
+                        "Adjective; not true.",
+                        "Verb: to control by rules.",
+                        "Comparative: more and more."
+      ]
+    },
+    {
+      "id": "C1-01",
+      "tier": "C1",
+      "text": "Plate tectonics describes the large-scale movement of the Earth lithosphere. The lithosphere is divided into several major plates that float on the underlying asthenosphere. Where plates meet they may diverge converge or slide past one another. These interactions give rise to earthquakes volcanic activity and the formation of mountain ranges. Geologists use this theory to explain the distribution of continents and ocean basins over geological time.",
+      "hints": [
+        "Noun; the rigid outer layer.",
+                        "Past participle; split into.",
+                        "Adjective; beneath the lithosphere.",
+                        "Conjunction: at the place where.",
+                        "Verb: to move apart.",
+                        "Verb: to move together.",
+                        "Reflexive; each other.",
+                        "Plural noun; events.",
+                        "Noun; creation.",
+                        "Plural noun; experts in geology."
+      ]
+    },
+    {
+      "id": "C1-02",
+      "tier": "C1",
+      "text": "Anthropology examines human societies and cultures in a holistic and comparative way. Ethnographers spend extended periods living among the communities they study in order to understand local perspectives. This method has been criticized for potentially imposing the researcher's own framework on the data. Nevertheless detailed fieldwork remains central to the discipline and has produced many influential accounts of social life. Contemporary anthropology also engages with issues of power inequality and globalization.",
+      "hints": [
+        "Verb: looks at or studies.",
+                        "Adverb; in a way that compares.",
+                        "Plural noun; researchers who do fieldwork.",
+                        "Adjective; long.",
+                        "Plural noun; groups of people.",
+                        "Conjunction: so as to.",
+                        "Adjective; from the inside.",
+                        "Past participle; has been questioned.",
+                        "Verb+ing; putting one's view on.",
+                        "Noun; structure of ideas."
+      ]
+    },
+    {
+      "id": "C1-03",
+      "tier": "C1",
+      "text": "Astrophysicists use the light from distant objects to infer their composition and motion. Redshift occurs when a source moves away from the observer and its light is stretched toward longer wavelengths. This phenomenon provides evidence that the universe is expanding and has been used to estimate the rate of expansion. Dark matter and dark energy are thought to dominate the total mass and energy content of the universe although they have not been directly observed.",
+      "hints": [
+        "Verb: to deduce.",
+                        "Noun; what something is made of.",
+                        "Noun; movement.",
+                        "Conjunction: at the time when.",
+                        "Noun; the person watching.",
+                        "Past participle; extended.",
+                        "Noun; proof.",
+                        "Verb (present continuous): is getting bigger.",
+                        "Verb: to dominate or make up most of.",
+                        "Adverb: in a direct way."
+      ]
+    },
+    {
+      "id": "C1-04",
+      "tier": "C1",
+      "text": "Linguistic relativity is the idea that the structure of a language affects how its speakers think and perceive the world. Strong versions of this hypothesis have been largely abandoned but weaker versions continue to attract research. For example some studies suggest that grammatical gender can influence the way objects are described. The debate has implications for education translation and the design of international communication systems. Most scholars now favour a moderate position that acknowledges both universal and language-specific effects.",
+      "hints": [
+        "Noun; the way something is built.",
+                        "Verb: to influence.",
+                        "Plural noun; people who speak.",
+                        "Adjective; strict or extreme.",
+                        "Past participle; given up.",
+                        "Comparative: less strong.",
+                        "Verb: to draw.",
+                        "Adjective; related to grammar.",
+                        "Plural noun; results or consequences.",
+                        "Verb: to accept or recognize."
+      ]
+    },
+    {
+      "id": "C1-05",
+      "tier": "C1",
+      "text": "Cognitive load theory suggests that working memory has a limited capacity and that learning is more effective when instruction is designed to avoid overloading it. Extraneous load is caused by elements that do not support the learning goal such as irrelevant graphics or redundant text. Intrinsic load depends on the complexity of the material itself. Instructional designers aim to reduce extraneous load and to break complex material into manageable segments. The theory has been applied widely in multimedia and online education.",
+      "hints": [
+        "Noun; mental capacity.",
+                        "Comparative: more efficient.",
+                        "Past participle; planned.",
+                        "Verb+ing; putting too much in.",
+                        "Adjective; not essential.",
+                        "Plural noun; parts.",
+                        "Verb: to help.",
+                        "Adjective; not needed.",
+                        "Adjective; difficult.",
+                        "Plural noun; sections."
+      ]
+    },
+    {
+      "id": "C1-06",
+      "tier": "C1",
+      "text": "Epigenetics refers to changes in gene expression that do not involve changes to the underlying DNA sequence. Such changes can be influenced by environment diet and stress and some may be passed on to offspring. This has led to renewed interest in how experience can leave a biological legacy across generations. Research in this area has implications for understanding disease development and for public health policy. Critics caution that popular reporting sometimes overstates the extent of epigenetic inheritance.",
+      "hints": [
+        "Verb: to relate to.",
+                        "Plural noun; modifications.",
+                        "Verb: to include.",
+                        "Adjective; basic.",
+                        "Noun; order of bases.",
+                        "Past participle; affected.",
+                        "Noun; food intake.",
+                        "Verb (past participle): transmitted.",
+                        "Noun; children or descendants.",
+                        "Noun; heritage."
+      ]
+    },
+    {
+      "id": "C1-07",
+      "tier": "C1",
+      "text": "Philosophy of science examines the assumptions methods and limits of scientific inquiry. One central question is whether scientific theories can be said to approximate the truth or whether they are merely useful tools for prediction. The problem of induction illustrates that generalizing from observed cases to unobserved ones cannot be logically guaranteed. Philosophers disagree about how much this undermines the authority of science. The debate has practical consequences for how evidence is weighted in policy and law.",
+      "hints": [
+        "Plural noun; things taken for granted.",
+                        "Plural noun; procedures.",
+                        "Adjective; central.",
+                        "Verb: to come close to.",
+                        "Adverb: only.",
+                        "Noun; the act of generalizing.",
+                        "Adjective; not seen.",
+                        "Adverb; in a logical way.",
+                        "Verb: to weaken.",
+                        "Noun; power or reliability."
+      ]
+    },
+    {
+      "id": "C1-08",
+      "tier": "C1",
+      "text": "Metacognition is the awareness and regulation of one's own thinking processes. It includes planning how to approach a task monitoring progress and evaluating outcomes. Students with strong metacognitive skills tend to perform better because they can adjust their strategies when they encounter difficulties. Educators have developed various interventions to foster these skills in the classroom. Research suggests that metacognition can be taught and that it contributes to academic achievement across subjects.",
+      "hints": [
+        "Noun; knowledge of something.",
+                        "Noun; control.",
+                        "Possessive; one's.",
+                        "Plural noun; steps.",
+                        "Verb+ing; checking.",
+                        "Plural noun; results.",
+                        "Adjective; good.",
+                        "Verb: to change.",
+                        "Plural noun; plans.",
+                        "Verb: to help develop."
+      ]
+    },
+    {
+      "id": "C1-09",
+      "tier": "C1",
+      "text": "Stellar evolution describes how stars change over their lifetimes from formation to the end of their nuclear burning phase. Low-mass stars may become white dwarfs while high-mass stars can end in supernova explosions and leave behind neutron stars or black holes. The fate of a star depends primarily on its initial mass and composition. Observations across different wavelengths have allowed astronomers to test and refine these models. The study of stellar evolution also informs our understanding of the origin of chemical elements in the universe.",
+      "hints": [
+        "Verb: to alter.",
+                        "Plural noun; lives.",
+                        "Noun; beginning.",
+                        "Adjective; related to the nucleus.",
+                        "Adjective; having little mass.",
+                        "Comparative: having more mass.",
+                        "Plural noun; explosions.",
+                        "Adverb; mainly.",
+                        "Adjective; first.",
+                        "Plural noun; scientists who study stars."
+      ]
+    },
+    {
+      "id": "C1-10",
+      "tier": "C1",
+      "text": "Normative ethics is concerned with how people ought to act and what kinds of character they should cultivate. Consequentialist theories judge actions by their outcomes whereas deontological theories focus on duties and rules. Virtue ethics emphasizes the development of good character rather than the application of abstract principles. These frameworks sometimes yield different conclusions when applied to the same practical dilemma. Philosophers continue to debate whether one approach can be unified or whether pluralism is unavoidable.",
+      "hints": [
+        "Adjective; related to what should be.",
+                        "Modal; should.",
+                        "Verb: to develop.",
+                        "Verb: to evaluate.",
+                        "Plural noun; results.",
+                        "Conjunction: while.",
+                        "Plural noun; obligations.",
+                        "Noun; use.",
+                        "Adjective; not concrete.",
+                        "Adjective; cannot be avoided."
+      ]
+    }
+  ]
+}

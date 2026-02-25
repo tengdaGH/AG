@@ -1,0 +1,279 @@
+{
+  "id": "ielts-r-0226",
+  "slug": "inside-the-mind-of-a-fan-how-watching-sport-affects-the-brain",
+  "title": "Inside the mind of a fan: How watching sport affects the brain",
+  "page_range": [
+    1144,
+    1148
+  ],
+  "raw_answer_key": {
+    "1": "F",
+    "8": "A",
+    "2": "B",
+    "9": "C",
+    "3": "E",
+    "10": "YES",
+    "4": "C",
+    "11": "NO",
+    "5": "D",
+    "12": "NO",
+    "6": "E",
+    "13": "NOT GIVEN",
+    "7": "C",
+    "14": "YES"
+  },
+  "content": {
+    "title": "Inside the mind of a fan: How watching sport affects the brain",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "At about the same time that the poet Homer invented the epic here, the ancient Greeks started a festival in which men competed in a single race, about 200 metres long. The winner received a branch of wild olives. The Greeks called this celebration the Olympics. Through the ancient sprint remains, today the Olympics are far more than that. Indeed, the Games seem to celebrate the dream of progress as embodied in the human form. That the Games are intoxicating to watch is beyond question. During the Athens Olympics in 2004, 3.4 billion people, half the world, watched them on television. Certainly, being a spectator is a thrilling experience: but why?"
+      },
+      {
+        "label": "B",
+        "content": "In 1996, three Italian neuroscientists, Giacomo Rizzolatti, Leonardo Forgassi and Vittorio Gallese, examined the premotor cortex of monkeys. They discovered that inside these primate brains there were groups of cells that 'store vocabularies of motor actions'. Just as there are grammars of movement. These networks of cells are the bodily 'sentences' we use every day, the ones our brain has chosen to retain and refine. Think, for example, about a golf swing. To those who have only watched the Master’s Tournament on TV, golfing seems easy. To the novice, however, the skill of casting a smooth arc with a lop-side metal stick is virtually impossible. This is because most novices swing with their consciousness, using an area of brain next to the premotor cortex. To the expert, on the other hand, a perfectly balanced stroke is second nature. For him, the motor action has become memorized, and the movements are embedded in the neurons of his premotor cortex. He hits the ball with the tranquility of his perfected autopilot."
+      },
+      {
+        "label": "C",
+        "content": "These neurons in the premotor cortex, besides explaining why certain athletes seem to possess almost unbelievable levels of skill, have an even more amazing characteristic, one that caused Rizzolatti, Fogassi and Gallese to give them the lofty title 'mirror neurons'. They note, 'The main functional characteristic of mirror neurons is that they become active both when the monkey performs a particular action (for example, grasping an object or holding it) and, astonishingly, when it sees another individual performing a similar action.' Humans have an even more elaborate mirror neuron system. These peculiar cells mirror, inside the brain, the outside world: they enable us to internalize the actions of another. In order to be activated, though, these cells require what the scientists call 'goal-orientated movements'. If we are staring at a photograph, a fixed image of a runner mid-stride, our mirror neurons are totally silent. They only fire when the runner is active: running, moving or sprinting."
+      },
+      {
+        "label": "D",
+        "content": "What these electrophysiological studies indicate is that when we watch a golfer or a runner in action, the mirror neurons in our own premotor cortex light up as if we were the ones competing. This phenomenon of neural mirror was first discovered in 1954, when two French physiologists, Gastaut and Berf, found that the brains of humans vibrate with two distinct wavelengths, alpha and mu. The mu system is involved in neural mirroring. It is active when your bodies are still, and disappears whenever we do something active, like playing a sport or changing the TV channel. The surprising fact is that the mu signal is also quiet when we watch someone else being active, as on TV, these results are the effect of mirror neurons."
+      },
+      {
+        "label": "E",
+        "content": "Rizzolatti, Fogassi and Gallese call the idea for mirror neurons the 'direct matching hypothesis'. They believe that we only understand the movement of sports stars when we 'map the visual representation of the observed action onto our motor representation of the same action'. According to this theory, watching an Olympic athlete 'causes the motor system of the observer to resonate. The 'motor knowledge' of the observer is used to understand the observed action.' But mirror neurons are more than just the neural basis for our attitude to sport. It turns out that watching a great golfer makes us better golfers, and watching a great sprinter actually makes us run faster. This ability to learn by watching is a crucial skill. From the acquisition of language as infants to learning facial expressions, mimesis (copying) is an essential part of being conscious. The best athletes are those with a premotor cortex capable of imagining the movements of victory, together with the physical properties to make those movements real."
+      },
+      {
+        "label": "F",
+        "content": "But how many of us regularly watch sports in order to be a better athlete? Rather, we watch sport for the feeling, the human drama. This feeling also derives from mirror neurons. By letting spectators share in the motions of victory, they also allow us to share in its feelings. This is because they are directly connected to the amygdale, one of the main brain regions involved in emotion. During the Olympics, the mirror neurons of whole nations will be electrically identical, their athletes causing spectators to feel, just for a second or two, the same thing. Watching sports brings people together. Most of us will never run a mile in under four minutes, or hit a home run. Our consolation comes in watching, when we gather around the TV, we all feel, just for a moment, what it is to do something perfectly."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "an explanation of why watching sport may be emotionally satisfying",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "an explanation of why beginners find sporting tasks difficult",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "a factor that needs to combine with mirroring to attain sporting excellence",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "a comparison of human and animal mirror neurons",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "the first discovery of brain activity related to mirror neurons",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "a claim linking observation to improvement in performance",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 7-9 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "The writer uses the term ‘grammar of movement’ to mean",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "a level of sporting skill."
+              },
+              {
+                "label": "B",
+                "text": "a system of words about movement."
+              },
+              {
+                "label": "C",
+                "text": "a pattern of connected cells."
+              },
+              {
+                "label": "D",
+                "text": "a type of golf swing."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The writer states that expert players perform their actions",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "without conscious thought."
+              },
+              {
+                "label": "B",
+                "text": "by planning each phase of movement."
+              },
+              {
+                "label": "C",
+                "text": "without regular practice."
+              },
+              {
+                "label": "D",
+                "text": "by thinking about the actions of others."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The writer states that the most common motive for watching sport is to",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "improve personal performance."
+              },
+              {
+                "label": "B",
+                "text": "feel linked with people of different nationalities."
+              },
+              {
+                "label": "C",
+                "text": "experience strong positive emotions."
+              },
+              {
+                "label": "D",
+                "text": "realize what skill consists of."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage? In boxes 10-14 on your answer sheet, write YES if the statement is true, NO if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Inexpert sports players are too aware of what they are doing.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Monkeys have a more complex mirror neuron system than humans.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Looking at a photograph can activate mirror neurons.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Gastaut and Bert were both researchers and sports players.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "The mu system is at rest when we are engaged in an activity.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:27:52.312482"
+}

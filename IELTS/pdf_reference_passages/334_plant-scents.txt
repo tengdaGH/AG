@@ -1,0 +1,228 @@
+TITLE: Plant Scents
+INDEX: 334
+============================================================
+
+Plant Scents
+
+A
+
+Everyone is familiar with scented flowers, and many people have heard that floral odors
+help the plant attract pollinators. This common notion is mostly correct, but it is surprising
+how little scientific proof of it exists. Of course, not all flowers are pollinated by biological
+agents – for example, many grasses are wind-pollinated – but the flowers of the grasses
+may still emit volatiles. In fact, plants emit organic molecules all the time, although they
+may not be obvious to the human nose. As for flower scents that we can detect with our
+noses, bouquets that attract moths and butterflies generally smell “sweet,” and those that
+attract certain flies seem “rotten” to us.
+B
+
+
+The release of volatiles from vegetative parts of the plant is familiar, although until recently
+the physiological functions of these chemicals were less clear and had received much less
+attention from scientists. When the trunk of a pine tree is injured – for example, when a
+beetle tries to burrow into it – it exudes a very smelly resin. This resin consists mostly of
+terpenes – hydrocarbons with a backbone of 10, 15 or 20 carbons that may also contain
+atoms of oxygen. The heavier C20 terpenes, called diterpenes, are glue-like and can cover
+and immobilize insects as they plug the hole. This defense mechanism is as ancient as it is
+effective: Many samples of fossilized resin, or amber, contain the remains of insects
+trapped inside. Many other plants emit volatiles when injured, and in some cases the
+emitted signal helps defend the plant. For example, (Z)-3-hexenyl acetate, which is known
+as a “green leaf volatile” because it is emitted by many plants upon injury, deters females
+of the moth Heliothis virescens from laying eggs on injured tobacco plants. Interestingly,
+the profile of emitted tobacco volatiles is different at night than during the day, and it is the
+nocturnal blend, rich in several (Z)-3-hexen-1-olesters, that is most effective in repelling the
+night-active H. virescens moths.
+
+C
+
+Herbivore induced volatiles often serve as indirect defenses. These bulwarks exist in a
+variety of plant species, including corn, beans, and the model plant species Arabidopsis
+thaliana. Plants not only emit volatiles acutely, at the site where caterpillars, mites, aphids
+or similar insects are eating them but also generally from non-damaged parts of the plant.
+
+These signals attract a variety of predatory insects that prey on the plant-eaters. For
+example, some parasitic wasps can detect the volatile signature of a damaged plant and
+will lay their eggs inside the offending caterpillar; eventually, the wasp eggs hatch, and the
+emerging larvae feed on the caterpillar from the inside hatch, and the emerging larvae feed
+on the caterpillar from the inside out. The growth of infected caterpillars is retarded
+considerably, to the benefit of the plant. Similarly, volatiles released by plants in response
+to herbivore egg laying can attract parasites of the eggs, thereby preventing them from
+hatching and avoiding the onslaught of hungry herbivores that would have emerged. Plant
+volatiles can also be used as a kind of currency in some very indirect defensive schemes.
+
+In the rainforest understory tree Leonardoxa Africana, ants of the species Petalomyrmex
+phylax patrol young leaves and attack any herbivorous insects that they encounter. The
+young leaves emit high levels of the volatile compound methyl salicylate, a compound that
+the ants use either as a pheromone or as an antiseptic in their nests. It appears that methyl
+salicylate is both an attractant and a reward offered by the tree to get the ants to perform
+this valuable deterrent role.
+
+D
+
+Floral scent has a strong impact on the economic success of many agricultural crops that
+rely on insect pollinators, including fruit trees such as the bee-pollinated cherry, apple,
+apricot and peach, as well as vegetables and tropical plants such as papaya. Pollination
+not only affects crop yield, but also the quality and efficiency of crop production. Many
+crops require most, if not all, ovules to be fertilized for optimum fruit size and shape. A
+decrease in fragrance emission reduces the ability of flowers to attract pollinators and
+results in considerable losses for growers, particularly for introduced species that had a
+specialized pollinator in their place of origin. This problem has been exacerbated by recent
+disease epidemics that have killed many honeybees, the major insect pollinators in the
+United States.
+
+E
+
+One means by which plant breeders circumvent the pollination problem is by breeding self-
+compatible, or apomictic, varieties that do not require fertilization. Although this solution is
+adequate, its drawbacks include near genetic uniformity and consequent susceptibility to
+pathogens. Some growers have attempted to enhance honeybee foraging by spraying
+scent compounds on orchard trees, but this approach was costly, had to be repeated, had
+potentially toxic effects on the soil or local biota, and, in the end, proved to be inefficient.
+
+The poor effectiveness of this strategy probably reflects inherent limitations of the artificial,
+topically applied compounds, which clearly fail to convey the appropriate message to the
+bees. For example, general spraying of the volatile mixture cannot tell the insects where
+exactly the blossoms are. Clearly, a more refined strategy is needed. The ability to
+enhance existing floral scent, which could all be accomplished by genetic engineering,
+would allow us to manipulate the types of insect pollinators and the frequency of their visits.
+Moreover, the metabolic engineering of fragrance could increase crop protection against
+pathogens and pests.
+
+F
+
+Genetic manipulation of the scent will also benefit the floriculture industry. Ornamentals,
+including cut flowers, foliage and potted plants, play an important aesthetic role in human
+life. Unfortunately, traditional breeding has often produced cultivars with improved vase life,
+shipping characteristics, color and shape while sacrificing desirable perfumes. The loss of
+scent among ornamentals, which have a worldwide value of more than $30 billion, makes
+them important targets for the genetic manipulation of flower fragrance. Some work has
+already begun in this area, as several groups have created petunia and carnation plants
+that express the linalool synthase gene from C. Breweri. These experiments are still
+preliminary: For technical reasons, the gene was expressed everywhere in the plant, and
+although the transgenic plants did create small amounts of linalool, the level was below the
+threshold of detection for the human nose. Similar experiments in tobacco used genes for
+other monoterpene synthases, such as the one that produces limonene, but gave similar
+results.
+G
+
+The next generation of experiments, already in progress, includes sophisticated schemes
+that target the expression of scent genes specifically to flowers or other organs – such as
+special glands that can store antimicrobial or herbivore-repellent compounds.
+
+Questions 1-4
+
+The Reading Passage has seven paragraphs A-G.
+
+Which paragraph contains the following information?
+
+Write the correct letter A-G, in boxes 1-4 on your answer sheet.
+
+
+1..................... Substance released to help plants themselves.
+2..................... Scent helps plant’s pollination.
+
+3..................... Practice on genetic experiment of fragrance.
+
+4..................... Plant’s scent attracts herbivore’s enemy for protection.
+
+
+Questions 5-8
+
+Do the following statements agree with the information given in Reading Passage 1?
+
+In boxes 5-8 on your answer sheet, write
+
+TRUE if the statement is true
+
+FALSE if the statement is false
+
+NOT GIVEN if the information is not given in the passage
+
+
+5..................... We have few evidence to support the idea that scent attracts pollinators.
+
+
+6..................... Heliothis virescens won’t eat those tobacco leaves on which they laid
+eggs.
+
+
+7..................... Certain ants are attracted by volatiles to guard plants in rainforest.
+
+8..................... Pollination only affects fruit trees’ production rather than other crop trees.
+
+
+Questions 9-13
+
+Choose the correct letter, A, B, C or D.
+
+Write your answers in boxes 9-13 on your answer sheet.
+
+
+9 How do wasps protect plants when they are attracted by scents according to the
+passage?
+A plants induce wasps to prey herbivore.
+
+B wasps lay eggs into caterpillars.
+
+C wasps laid eggs on plants to expel herbivore.
+
+D offending caterpillars and wasp eggs coexist well.
+
+
+10 What reason caused a number of honeybees decline in the United States.
+
+A pollination process
+
+B spread illness
+
+C crop trees are poisonous
+
+D grower’s overlook
+
+
+11 Which of the following drawbacks about artificial fragrance is NOT mentioned in the
+passage?
+
+A it’s very expensive
+
+B it can’t tell correct information to pollinators.
+C it needs massive manual labour
+
+D it poisons local environment
+
+
+12 The number of $30 billion quoted in the passage is to illustrate the fact that:
+
+A favorable perfumes are made from ornamental flowers.
+
+
+B traditional floriculture industry needs reform.
+
+
+C genetic operation on scent can make a vast profit.
+
+D Scent plays a significant role in Ornamental industry.
+
+
+13 What is weakness of genetic experiments on fragrance?
+
+A Linalool level is too low to be smelt by nose
+
+B no progress made in linalool emission.
+C experiment on tobacco has a better result
+
+D transgenic plants produce intense scent
+6
+
+Solution:
+
+1. B 8. FALSE
+2. A 9. B
+
+3. F 10. B
+4. C 11. C
+
+5. TRUE 12. D
+6. NOT GIVEN 13. A
+
+7. TRUE

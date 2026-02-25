@@ -1,0 +1,282 @@
+{
+  "id": "ielts-r-040",
+  "source_file": "40. P2 - How Well Do We Concentrate  多任务处理【高】.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    26
+  ],
+  "difficulty": "high",
+  "title": "How Well Do We Concentrate",
+  "title_cn": "多任务处理",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Do you read while listening to music? Do you like to watch TV while finishing your homework? People who have these kinds of habits are called multitaskers. Multitaskers are able to complete two tasks at the same time by dividing their focus. However, Thomas Lehman, a researcher in psychology, believes people never really do multiple things simultaneously. Maybe a person is reading while listening to music, but in reality the brain can only focus on one task. Reading the words in a book will cause you to ignore some of the words of the music. When people think they are accomplishing two different tasks efficiently, what they are really doing is dividing their focus. While listening to music, people become less able to focus on their surroundings. For example, we all have experienced times when we talk with friends and they are not responding properly. Maybe they are listening to someone else talk, or maybe they are reading a text on their smartphone and don’t hear what you are saying. Lehman called this phenomenon “email voice.”"
+      },
+      {
+        "label": "B",
+        "text": "The world has been changed by computers and their spin-offs such as smartphones or cellphones. Now that most individuals have a personal device, like a smartphone or a laptop, they are frequently reading, watching or listening to virtual information. This increases the occurrence of multitasking in our day-to-day life. Nowadays, when you work, you may use your typewriter, your cellphone, and speak with colleagues who may drop by at any time. In professional meetings, when one would normally focus on and listen to one another, people are more likely to have a cellphone in their lap, reading or communicating silently with more people than ever. Even inventions such as the cordless phone have increased multitasking. In the old days, a traditional wall phone would ring, and the housewife would have to stop her activities to answer it. When it rang, the housewife would sit down with her legs up and chat, with no laundry, sweeping or answering the door. In the modern era, our technology is convenient enough not to interrupt our daily tasks."
+      },
+      {
+        "label": "C",
+        "text": "Earl Miller, an expert at the Massachusetts Institute of Technology, studied the prefrontal cortex, which guides the brain while a person is multitasking. According to his studies, the size of this cortex varies between species. He found that for humans, it constitutes one-third of the brain, whereas it is only 4 – 5 percent in dogs and about 15 percent in monkeys. Because this cortex is larger in humans, it allows a person to be more flexible and accurate in multitasking. However, Miller wanted to know whether the cortex was truly processing information about two different tasks simultaneously. He designed an experiment in which he presented visual stimuli to his subjects in a way that mimicked multitasking. Miller then attached sensors to the patients’ heads to pick up the electrical patterns of the brain. These sensors would show whether the neurons were truly processing two different tasks. What he found was that the brain neurons lit up in singular areas one at a time—never simultaneously."
+      },
+      {
+        "label": "D",
+        "text": "David Meyer, a professor at the University of Michigan, studied young adults in a similar experiment. He instructed them to solve math problems while simultaneously classifying simple words into different categories. Meyer found that when you think you are doing several jobs at the same time, you are actually switching between jobs. Even though the participants tried to do the tasks at the same time and both tasks were eventually accomplished, overall the task took more time than if the person had focused on a single task."
+      },
+      {
+        "label": "E",
+        "text": "People sacrifice efficiency when multitasking. Gloria Mark used office workers as her subjects. She found that they were constantly multitasking. She observed that nearly every 11 minutes people at work were disrupted. She found that doing different jobs at the same time may actually save time. However, despite the fact that they are faster, it does not mean they are more efficient. We are equally likely to self-interrupt as to be interrupted by outside sources. She found that in the office nearly every 12 minutes an employee would stop and, with no reason at all, check a website on their computer, call someone or write an email. If they concentrated for more than 20 minutes, they would feel distressed. She suggested that the average person may suffer from a short concentration span. This short attention span might be natural, but others suggest that new technology may be the problem. With cellphones and computers at our sides at all times, people will never run out of distractions. The format of media—such as advertisements, music, news articles and TV shows—is also shortening, so people are used to paying attention to information for a very short time."
+      },
+      {
+        "label": "F",
+        "text": "Even though focusing on a single task is the most efficient way for our brains to work, it is not always practical in real life. According to human nature, people feel more comfortable and efficient in environments with a variety of tasks. Edward Hallowell said that people are losing a lot of efficiency in the workplace due to multitasking, outside distractions and self-distractions. In fact, the changes made to the workplace do not have to be dramatic. No one is suggesting we ban e-mail or make employees focus on only one task. However, certain common workplace situations—such as group meetings—would be more efficient if we banned cellphones, a common distraction. A person can also apply these tips to prevent self-distraction. Instead of arriving at the office and checking all of your e-mails for new tasks—a common ritual—you could dedicate an hour to a single task first thing in the morning. Self-timing is a great way to reduce distraction and finish tasks one by one, instead of slowing ourselves down with multitasking."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "PARAGRAPH_MATCHING",
+      "range": [
+        14,
+        18
+      ],
+      "instructions": "Reading Passage 2 has six paragraphs, A–F. Which paragraph contains the following information? Write the correct letter, A–F, in boxes 14-18 on your answer sheet.",
+      "questions": [
+        {
+          "number": 14,
+          "text": "a reference to a domestic situation that does not require multitasking",
+          "options": null,
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 15,
+          "text": "a possible explanation of why we always multitask",
+          "options": null,
+          "answer": "E",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 16,
+          "text": "a practical solution to multitasking in the work environment",
+          "options": null,
+          "answer": "F",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 17,
+          "text": "relating multitasking to the size of the prefrontal cortex",
+          "options": null,
+          "answer": "C",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 18,
+          "text": "more time spent doing two tasks at the same time than doing one task at a time",
+          "options": null,
+          "answer": "D",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "PERSON_MATCHING",
+      "range": [
+        19,
+        23
+      ],
+      "instructions": "Look at the following statements and the list of scientists below. Match each statement with the correct scientist, A–E. Write the correct letter, A–E, in boxes 19-23 on your answer sheet. NB You may use any letter more than once.",
+      "questions": [
+        {
+          "number": 19,
+          "text": "When faced with multiple visual stimuli, one can only concentrate on one of them.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thomas Lehman"
+            },
+            {
+              "letter": "B",
+              "text": "Earl Miller"
+            },
+            {
+              "letter": "C",
+              "text": "David Meyer"
+            },
+            {
+              "letter": "D",
+              "text": "Gloria Mark"
+            },
+            {
+              "letter": "E",
+              "text": "Edward Hallowell"
+            }
+          ],
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 20,
+          "text": "Doing two things together may be faster but not better.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thomas Lehman"
+            },
+            {
+              "letter": "B",
+              "text": "Earl Miller"
+            },
+            {
+              "letter": "C",
+              "text": "David Meyer"
+            },
+            {
+              "letter": "D",
+              "text": "Gloria Mark"
+            },
+            {
+              "letter": "E",
+              "text": "Edward Hallowell"
+            }
+          ],
+          "answer": "D",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 21,
+          "text": "People never really do two things together even if you think you do.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thomas Lehman"
+            },
+            {
+              "letter": "B",
+              "text": "Earl Miller"
+            },
+            {
+              "letter": "C",
+              "text": "David Meyer"
+            },
+            {
+              "letter": "D",
+              "text": "Gloria Mark"
+            },
+            {
+              "letter": "E",
+              "text": "Edward Hallowell"
+            }
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 22,
+          "text": "The causes of multitasking lie in the environment.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thomas Lehman"
+            },
+            {
+              "letter": "B",
+              "text": "Earl Miller"
+            },
+            {
+              "letter": "C",
+              "text": "David Meyer"
+            },
+            {
+              "letter": "D",
+              "text": "Gloria Mark"
+            },
+            {
+              "letter": "E",
+              "text": "Edward Hallowell"
+            }
+          ],
+          "answer": "D",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 23,
+          "text": "Even minor changes in the workplace will improve work efficiency.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Thomas Lehman"
+            },
+            {
+              "letter": "B",
+              "text": "Earl Miller"
+            },
+            {
+              "letter": "C",
+              "text": "David Meyer"
+            },
+            {
+              "letter": "D",
+              "text": "Gloria Mark"
+            },
+            {
+              "letter": "E",
+              "text": "Edward Hallowell"
+            }
+          ],
+          "answer": "E",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SENTENCE_COMPLETION",
+      "range": [
+        24,
+        26
+      ],
+      "instructions": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 24-26 on your answer sheet.",
+      "questions": [
+        {
+          "number": 24,
+          "text": "A term used to refer to a situation when you are reading a text and cannot focus on your surroundings is ___.",
+          "options": null,
+          "answer": "email voice",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 25,
+          "text": "The ___ part of the brain controls multitasking.",
+          "options": null,
+          "answer": "prefrontal cortex",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 26,
+          "text": "The practical solution to multitasking at work is not to allow the use of cellphones in ___.",
+          "options": null,
+          "answer": "group meetings",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "PARAGRAPH_MATCHING",
+      "PERSON_MATCHING",
+      "SENTENCE_COMPLETION"
+    ],
+    "parsed_at": "2026-02-24T03:41:41.123866",
+    "llm_structured_at": "2026-02-24T03:48:59+0800",
+    "parser_version": "1.0",
+    "needs_review": true
+  }
+}

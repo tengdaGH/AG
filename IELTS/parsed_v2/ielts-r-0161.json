@@ -1,0 +1,241 @@
+{
+  "id": "ielts-r-0161",
+  "slug": "finches-on-islands",
+  "title": "Finches on Islands",
+  "page_range": [
+    820,
+    825
+  ],
+  "raw_answer_key": {
+    "1": "drought",
+    "8": "rice",
+    "2": "large seeds",
+    "9": "FALSE",
+    "10": "NOT",
+    "3": "heavy rains GIVEN",
+    "4": "small seeds",
+    "11": "TRUE",
+    "5": "finch evolution",
+    "12": "FALSE",
+    "6": "medium-sized bills",
+    "13": "TRUE",
+    "7": "human population"
+  },
+  "content": {
+    "title": "Finches on Islands",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Today, the quest continues. On Daphne Major-one of the most desolate of the Galápagos Islands, an uninhabited volcanic cone where cacti and shrubs seldom grow higher than a researcher’s knee-Peter and Rosemary Grant have spent more than three decades watching Darwin’s finch respond to the challenges of storms, drought and competition for food. Biologists at Princeton University, the Grants know and recognize many of the individual birds on the island and can trace the birds’ lineages back through time. They have witnessed Darwin’s principle in action again and again, over many generations of finches."
+      },
+      {
+        "label": "B",
+        "content": "The Grants’ most dramatic insights have come from watching the evolving bill of the medium ground finch. The plumage of this sparrow-sized bird ranges from dull brown to jet black. At first glance, it may not seem particularly striking, but among scientists who study evolutionary biology, the medium ground finch is a superstar. Its bill is a middling example in the array of shapes and sizes found among Galápagos finches: heftier than that of the small ground finch, which specializes in eating small, soft seeds, but petite compared to that of the large ground finch, an expert at cracking and devouring big, hard seeds."
+      },
+      {
+        "label": "C",
+        "content": "When the Grants began their study in the 1970s, only two species of finch lived on Daphne Major, the medium ground finch and the cactus finch. The island is so small that the researchers were able to count and catalogue every bird. When a severe drought hit in 1977, the birds soon devoured the last of the small, easily eaten seeds. Smaller members of the medium ground finch population, lacking the bill strength to crack large seeds, died out."
+      },
+      {
+        "label": "D",
+        "content": "Bill and body size are inherited traits, and the next generation had a high proportion of big-billed individuals. The Grants had documented natural selection at work-the same process that, over many millennia, directed the evolution of the Galápagos’ 14 unique finch species, all descended from a common ancestor that reached the islands a few million years ago."
+      },
+      {
+        "label": "E",
+        "content": "Eight years later, heavy rains brought by an El Nino transformed the normally meager vegetation on Daphne Major. Vines and other plants that in most years struggle for survival suddenly flourished, choking out the plants that provide large seeds to the finches. Small seeds came to dominate the food supply, and big birds with big bills died out at a higher rate than smaller ones. ‘Natural selection is observable,’ Rosemary Grant says. ‘It happens when the environment changes. When local conditions reverse themselves, so does the direction of adaptation."
+      },
+      {
+        "label": "F",
+        "content": "Recently, the Grants witnessed another form of natural selection acting on the medium ground finch: competition from bigger, stronger cousins. In 1982, a third finch, the large ground finch, came to live on Daphne Major. The stout bills of these birds resemble the business end of a crescent wrench. Their arrival was the first such colonization recorded on the Galápagos in nearly a century of scientific observation. ‘We realized,’ Peter Grant says, ‘we had a very unusual and potentially important event to follow.’ For 20 years, the large ground finch coexisted with the medium ground finch, which shared the supply of large seeds with its bigger-billed relative."
+      },
+      {
+        "label": "G",
+        "content": "Then, in 2002 and 2003, another drought struck. None of the birds nested that year, and many died out. Medium ground finches with large bills, crowded out of feeding areas by the more powerful large ground finches, were hit particularly hard. When wetter weather returned in 2004, and the finches nested again, the new generation of the medium ground finch was dominated by smaller birds with smaller bills, able to survive on smaller seeds. This situation, says Peter Grant, marked the first time that biologists have been able to follow the complete process of an evolutionary change due to competition between species and the strongest response to natural selection that he had seen in 33 years of tracking Galápagos finches."
+      },
+      {
+        "label": "H",
+        "content": "On the inhabited island of Santa Cruz, just south of Daphne Major, Andrew Hendry of McGill University and Jeffrey Podos of the University of Massachusetts at Amherst have discovered a new, man-made twist in finch evolution. Their study focused on birds living near the Academy Bay research station, on the fringe of the town of Puerto Ayora. The human population of the area has been growing fast-from 900 people in 1974 to 9,582 in 2001."
+      },
+      {
+        "label": "I",
+        "content": "Today Puerto Ayora is full of hotels and mai tai bars,’ Hendry says. ‘People have taken this extremely arid place and tried to turn it into a Caribbean resort.’ Academy Bay records dating back to the early 1960s show that medium ground finches captured there had either small or large bills. Very few of the birds had mid-size bills. The finches appeared to be in the early stages of a new adaptive radiation: If the trend continued, the medium ground finch on Santa Cruz could split into two distinct subspecies, specializing in different types of seeds."
+      },
+      {
+        "label": "J",
+        "content": "But in the late 1960s and early 70s, medium ground finches with medium-sized bills began to thrive at Academy Bay along with small and large-billed birds. The booming human population had introduced new food sources, including exotic plants and bird feeding stations stocked with rice. Billsize, once critical to the finches’ survival, no longer made any difference. ‘Now an intermediate bill can do fine,’ Hendry says. At a control site distant from Puerto Ayora, and relatively untouched by humans, the medium ground finch population remains split between large- and small-billed birds."
+      },
+      {
+        "label": "K",
+        "content": "On undisturbed parts of Santa Cruz, there is no ecological niche for a middling medium ground finch, and the birds continue to diversify. In town, though there are still many finches, once-distinct populations are merging. The finches of Santa Cruz demonstrate a subtle process in which human meddling can stop evolution in its tracks, ending the formation of new species. In a time when global biodiversity continues its downhill slide, Darwin’s finches have yet another unexpected lesson to teach. ‘If we hope to regain some of the diversity that’s already been lost,’ Hendry says, ‘we need to protect not just existing creatures, but also the processes that drive the origin of new species."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table now. Choose NO MORE THAN TWO WORDS from Reading Passage 1 for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Year: 1977, Climate:",
+            "answer": "drought",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Year: 1977, Finch’s condition: small-beak birds failing to survive, without the power to open",
+            "answer": "large seeds",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Year: 1985, Climate:",
+            "answer": "heavy rains",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Year: 1985, Finch’s condition: big-beak birds dying out, with",
+            "answer": "small seeds",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage 1 using NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "On the remote island of Santa Cruz, Andrew Hendry and Jeffrey Podos conducted a study on reversal",
+            "answer": "finch evolution",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "In the early 1960s medium ground finches were found to have a larger or smaller beak. But in the late 1960s and early 70s, finches with",
+            "answer": "medium-sized bills",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "The study speculates that it is due to the growing",
+            "answer": "human population",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The birds ate",
+            "answer": "rice",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 1?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Grants’ discovery has questioned Darwin’s theory.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement is true"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement is false"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if the information is not given in the passage"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The cactus finches are less affected by food than the medium ground finch.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement is true"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement is false"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if the information is not given in the passage"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "In 2002 and 2003, all the birds were affected by the drought.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement is true"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement is false"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if the information is not given in the passage"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The discovery of Andrew Hendry and Jeffrey Podos was the same as that of the previous studies.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement is true"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement is false"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if the information is not given in the passage"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "It is shown that the revolution in finches on Santa Cruz is likely a response to human intervention.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement is true"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement is false"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if the information is not given in the passage"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:01:12.534048"
+}

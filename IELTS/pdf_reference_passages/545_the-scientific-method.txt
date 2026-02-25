@@ -1,0 +1,175 @@
+TITLE: The scientific method
+INDEX: 545
+============================================================
+
+The scientific method
+
+A
+
+‘Hypotheses,’ said Medawar in 1964, ‘are imaginative and inspirational in character’; they
+are ‘adventures of the mind’. He was arguing in favour of the position taken by Karl Popper
+in The Logic of Scientific Discovery (1972, 3rd edition) that the nature of scientific method
+is hypothetico-deductive and not, as is generally believed, inductive.
+
+B
+
+It is essential that you, as an intending researcher, understand the difference between
+these two interpretations of the research process so that you do not become discouraged
+or begin to suffer from a feeling of ‘cheating’ or not going about it the right way.
+
+C
+
+The myth of scientific method is that it is inductive: that the formulation of scientific theory
+starts with the basic, raw evidence of the senses - simple, unbiased, unprejudiced
+observation. Out of these sensory data - commonly referred to as ‘facts’ — generalisations
+will form. The myth is that from a disorderly array of factual information an orderly, relevant
+theory will somehow emerge. However, the starting point of induction is an impossible one.
+
+D
+
+There is no such thing as an unbiased observation. Every act of observation we make is a
+function of what we have seen or otherwise experienced in the past. All scientific work of
+an experimental or exploratory nature starts with some expectation about the outcome.
+This expectation is a hypothesis. Hypotheses provide the initiative and incentive for the
+inquiry and influence the method. It is in the light of an expectation that some observations
+are held to be relevant and some irrelevant, that one methodology is chosen and others
+discarded, that some experiments are conducted and others are not. Where is, your naive,
+pure and objective researcher now?
+
+E
+
+Hypotheses arise by guesswork, or by inspiration, but having been formulated they can and
+must be tested rigorously, using the appropriate methodology. If the predictions you make
+as a result of deducing certain consequences from your hypothesis are not shown to be
+correct then you discard or modify your hypothesis. If the predictions turn out to be correct
+then your hypothesis has been supported and may be retained until such time as some
+further test shows it not to be correct. Once you have arrived at your hypothesis, which is a
+product of your imagination, you then proceed to a strictly logical and rigorous process,
+based upon deductive argument — hence the term ‘hypothetico-deductive’.
+
+
+F
+
+So don’t worry if you have some idea of what your results will tell you before you even
+begin to collect data; there are no scientists in existence who really wait until they have all
+the evidence in front of them before they try to work out what it might possibly mean. The
+closest we ever get to this situation is when something happens by accident; but even then
+the researcher has to formulate a hypothesis to be tested before being sure that, for
+example, a mould might prove to be a successful antidote to bacterial infection.
+
+G
+
+The myth of scientific method is not only that it is inductive (which we have seen is
+incorrect) but also that the hypothetico-deductive method proceeds in a step-by-step,
+inevitable fashion. The hypothetico-deductive method describes the logical approach to
+much research work, but it does not describe the psychological behaviour that brings it
+about. This is much more holistic — involving guesses, reworkings, corrections, blind alleys
+and above all inspiration, in the deductive as well as the hypothetic component -than is
+immediately apparent from reading the final thesis or published papers. These have been,
+quite properly, organised into a more serial, logical order so that the worth of the output
+may be evaluated independently of the behavioural processes by which it was obtained. It
+is the difference, for example between the academic papers with which Crick and Watson
+demonstrated the structure of the DNA molecule and the fascinating book The Double
+Helix in which Watson (1968) described how they did it. From this point of view, ‘scientific
+method’ may more usefully be thought of as a way of writing up research rather than as a
+way of carrying it out.
+
+Questions 1-5
+
+Reading Passage has seven paragraphs A-G.
+
+Choose the most suitable headings for paragraphs C-G from the list of headings below.
+
+Write the appropriate numbers i-x in boxes 1-5 on your answer sheet.
+
+
+List of Headings
+i The Crick and Watson approach to research
+ii Antidotes to bacterial infection
+iii The testing of hypotheses
+iv Explaining the inductive method
+v Anticipating results before data is collected
+vi How research is done and how it is reported
+vii The role of hypotheses in scientific research
+viiiDeducing the consequences of hypotheses
+ix Karl Popper’s claim that the scientific method is hypothetico-deductive
+x The unbiased researcher
+
+
+Example Answer
+Paragraph A ix
+
+
+1..................... Paragraph C
+2..................... Paragraph D
+
+3..................... Paragraph E
+
+4..................... Paragraph F
+5..................... Paragraph G
+
+
+Questions 6-7
+
+In which TWO paragraphs in Reading Passage does the writer give advice directly to the
+reader?
+Write the TWO appropriate letters (A—G) in boxes 6-7 on your answer sheet.
+
+6.....................
+7.....................
+
+
+Questions 8-11
+
+Do the following statements reflect the opinions of the writer in Reading Passage?
+
+In boxes 8-11 on your answer sheet write
+
+YES if the statement reflects the opinion of the writer
+
+NO if the statement contradicts the opinion of the writer
+
+NOT GIVEN if it is impossible to say what the writer thinks about this
+
+
+8..................... Popper says that the scientific method is hypothetico-deductive.
+
+9..................... If a prediction based on a hypothesis is fulfilled, then the hypothesis is
+confirmed as true.
+
+10..................... Many people carry out research in a mistaken way.
+
+11..................... The ‘scientific method’ is more a way of describing research than a way of
+doing it.
+
+
+Questions 12
+
+Choose the appropriate letter A-D and write it in box 12 on your answer sheet.
+
+
+Which of the following statements best describes the writer’s main purpose in Reading
+Passage?
+
+A to advise Ph.D students not to cheat while carrying out research
+
+B to encourage Ph.D students to work by guesswork and inspiration
+
+C to explain to Ph.D students the logic which the scientific research paper follows
+
+D to help Ph.D students by explaining different conceptions of the research process
+
+Solution:
+
+7. B/F (in either
+1. iv
+order)
+2. vii 8. YES
+3. iii 9. NO
+4. v 10. NOT GIVEN
+
+5. vi 11. YES
+
+6. B/F (in either
+12. D
+order)

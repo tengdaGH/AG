@@ -1,0 +1,177 @@
+{
+  "id": "ielts-r-034",
+  "source_file": "34. P2 - A unique golden textile 蜘蛛丝【次】.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    26
+  ],
+  "difficulty": "medium",
+  "title": "A unique golden textile",
+  "title_cn": "蜘蛛丝",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "A rare textile made from the silk of more than a million wild spiders has been on display at the American Museum of Natural History in New York City. To produce this golden cloth, 70 people spent four years collecting golden-orb spiders from telephone poles in Madagascar, while another dozen workers carefully extracted about 80 feet of silk filament from each of the arachnids. The resulting 11-foot-by-4-foot textile is the only large piece of cloth made from natural spider silk in the world today."
+      },
+      {
+        "label": "B",
+        "text": "Spider silk is very elastic and strong compared with steel or Kevlar, said textile expert Simon Peers, who co-led the project. Kevlar is a lightweight synthetic fabric, chemically related to nylon, that is used in bullet-proof vests. Kevlar is resistant to wear, tear and heat and has virtually no melting point. But the tensile strength of spider silk is even greater than Kevlar’s aramid filaments and higher than that of high-grade steel. Most importantly, spider silk is extremely lightweight: a strand long enough to circle the Earth would weigh less than 500 grams (18 oz). It is also especially ductile, able to stretch up to 140 percent of its length without breaking and to retain its strength below –40 °C, giving it toughness equal to that of leading commercial fibres."
+      },
+      {
+        "label": "C",
+        "text": "Researchers have long been intrigued by the unique properties of spider silk. Unfortunately, spider silk is extremely hard to mass-produce. Unlike silkworms—easy to raise in captivity—spiders have a habit of biting off each other’s heads when housed together. According to Peers, there is intensive research worldwide aimed at replicating spider-silk tensile properties for use in medicine and industry, but no-one has yet reproduced all the qualities of natural silk."
+      },
+      {
+        "label": "D",
+        "text": "Peers conceived the idea of weaving spider silk after reading about French missionary Jacob Paul Camboué, who worked with spiders in Madagascar during the 1880s and 1890s. Camboué built a small hand-driven machine to extract silk from up to 24 spiders at once, without harming them: the spiders were briefly restrained, their silk collected, then released. Peers built a replica of this 24-spider “silking” machine, said co-leader Nicholas Godley. As a test the pair collected about 20 spiders. “When we stuck them in the machine and started turning it, lo and behold, this beautiful gold-coloured silk started coming out,” Godley recalled."
+      },
+      {
+        "label": "E",
+        "text": "To make a textile of any significant size, the scale had to increase dramatically. Fourteen thousand spiders yield about an ounce of silk, Godley said, and the finished textile weighs about 2.6 pounds. By the end, handlers had worked with more than one million female golden-orb spiders—abundant in Madagascar and famed for their golden thread. Because the spiders produce silk only in the rainy season, all were collected between October and June. An additional 12 workers used hand-powered machines to extract the silk and twist it into 96-filament yarn. After “silking”, the spiders were released; within a week they regenerate their silk, allowing the same individuals to be used again—“the gift that never stops giving,” said Godley."
+      },
+      {
+        "label": "F",
+        "text": "Spending four years to produce a single piece of cloth is hardly practical for scientists or companies hoping to exploit spider silk in biomedicine or as a Kevlar alternative. Several groups have inserted spider genes into bacteria and even goats to make silk, but results have been only partly successful. One reason is that spider silk begins as a liquid protein produced in a special gland in the abdomen. Using the spinneret, the spider applies force that rearranges the protein’s molecular structure, transforming it into solid fibre. “When we talk about a spider spinning silk, we’re talking about how it applies forces to convert liquid to solid,” explained spider-silk expert Todd Blackledge of the University of Akron, who was not involved in the project. “Every year we get closer to mass production, but we’re not there yet.” For now, we must be content with one extraordinarily beautiful cloth—courtesy of more than a million spiders."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "HEADING_MATCHING",
+      "range": [
+        14,
+        19
+      ],
+      "instructions": "Reading Passage 2 has six paragraphs A–F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i–ix, in boxes 14–19 on your answer sheet. List of Headings: i Experimenting with an old idea, ii Life cycle of Madagascar spiders, iii Advances in the textile industry, iv Resources needed to meet the project’s demands, v The physical properties of spider silk, vi A scientific analysis of spider silk, vii A unique work of art, viii Importance of the silk-textile market, ix Difficulties of raising spiders in captivity",
+      "questions": [
+        {
+          "number": 14,
+          "text": "Paragraph A",
+          "options": null,
+          "answer": "vii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 15,
+          "text": "Paragraph B",
+          "options": null,
+          "answer": "v",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 16,
+          "text": "Paragraph C",
+          "options": null,
+          "answer": "ix",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 17,
+          "text": "Paragraph D",
+          "options": null,
+          "answer": "i",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 18,
+          "text": "Paragraph E",
+          "options": null,
+          "answer": "iv",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 19,
+          "text": "Paragraph F",
+          "options": null,
+          "answer": "vi",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "PERSON_MATCHING",
+      "range": [
+        20,
+        23
+      ],
+      "instructions": "Look at the following statements and the list of researchers below. Match each statement with the correct researcher, A, B or C. Write the correct letter, A, B or C, in boxes 20–23 on your answer sheet. NB You may use any letter more than once. List of Researchers: A Simon Peers, B Nicholas Godley, C Todd Blackledge",
+      "questions": [
+        {
+          "number": 20,
+          "text": "It takes a tremendous number of spiders to make a small amount of silk.",
+          "options": null,
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 21,
+          "text": "Scientists want to use the qualities of spider silk for medical purposes.",
+          "options": null,
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 22,
+          "text": "Scientists are making some progress in their efforts to manufacture spider silk.",
+          "options": null,
+          "answer": "C",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 23,
+          "text": "Spider silk compares favourably to materials known for their strength.",
+          "options": null,
+          "answer": "A",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SUMMARY_COMPLETION",
+      "range": [
+        24,
+        26
+      ],
+      "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 24–26 on your answer sheet. Producing spider silk in the lab Both scientists and manufacturers are interested in producing silk for many different purposes. Some researchers have tried to grow silk by introducing genetic material into ___ and some animals. But these experiments have been somewhat disappointing. It is difficult to make spider silk in a lab setting because the silk comes from a liquid protein made in a ___ inside the spider’s body. When a spider spins silk, it applies ___ that turns this liquid into solid silk. Scientists cannot replicate this yet.",
+      "questions": [
+        {
+          "number": 24,
+          "text": "Some researchers have tried to grow silk by introducing genetic material into ___ and some animals.",
+          "options": null,
+          "answer": "bacteria",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 25,
+          "text": "It is difficult to make spider silk in a lab setting because the silk comes from a liquid protein made in a ___ inside the spider’s body.",
+          "options": null,
+          "answer": "gland",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 26,
+          "text": "When a spider spins silk, it applies ___ that turns this liquid into solid silk.",
+          "options": null,
+          "answer": "force",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "HEADING_MATCHING",
+      "PERSON_MATCHING",
+      "SUMMARY_COMPLETION"
+    ],
+    "parsed_at": "2026-02-24T03:41:40.827845",
+    "llm_structured_at": "2026-02-24T03:48:29+0800",
+    "parser_version": "1.0",
+    "needs_review": true
+  }
+}

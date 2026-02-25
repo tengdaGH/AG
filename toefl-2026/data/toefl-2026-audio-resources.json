@@ -1,0 +1,180 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Audio Resources Summary",
+    "lastUpdated": "2026-02-20",
+    "note": "音频资源需要从各网站下载，部分免费资源可直接访问"
+  },
+  "audioResources": {
+    "listenAndRepeat": {
+      "description": "听后复述题型 - 听句子并复述",
+      "source": "toeflresources.com",
+      "sets": [
+        {
+          "id": "LR01",
+          "topic": "Campus Library",
+          "topicChinese": "校园图书馆",
+          "sentences": 7,
+          "audioBaseUrl": "待获取"
+        },
+        {
+          "id": "LR02",
+          "topic": "Dining Hall",
+          "topicChinese": "餐厅",
+          "sentences": 7,
+          "audioBaseUrl": "待获取"
+        },
+        {
+          "id": "LR03",
+          "topic": "Science Building",
+          "topicChinese": "科学大楼",
+          "sentences": 7,
+          "audioBaseUrl": "待获取"
+        },
+        {
+          "id": "LR04",
+          "topic": "Campus Gym",
+          "topicChinese": "校园健身房",
+          "sentences": 7,
+          "audioBaseUrl": "待获取"
+        },
+        {
+          "id": "LR05",
+          "topic": "Campus Event",
+          "topicChinese": "校园活动",
+          "sentences": 7,
+          "audioBaseUrl": "待获取"
+        },
+        {
+          "id": "LR06",
+          "topic": "Local Gallery",
+          "topicChinese": "当地画廊",
+          "sentences": 7,
+          "audioBaseUrl": "待获取"
+        },
+        {
+          "id": "LR07",
+          "topic": "Museum Tour",
+          "topicChinese": "博物馆导览",
+          "sentences": 7,
+          "audioBaseUrl": "待获取"
+        },
+        {
+          "id": "LR08",
+          "topic": "Local Bookstore",
+          "topicChinese": "当地书店",
+          "sentences": 7,
+          "audioBaseUrl": "待获取"
+        }
+      ],
+      "practiceResource": "https://bettertoeflscores.com/2025/12/29/toefl-speaking-task-1-test-bank-listen-and-repeat-updated-for-2026/"
+    },
+    "takeAnInterview": {
+      "description": "虚拟面试题型 - 听面试官提问并回答",
+      "source": "toeflresources.com",
+      "sets": [
+        {
+          "id": "TI01",
+          "topic": "Remote Work",
+          "topicChinese": "远程工作",
+          "questions": 4,
+          "audioUrls": {
+            "Q1": "https://www.toeflresources.com/wp-content/uploads/2025/08/ElevenLabs_Remote_Work_1.mp3",
+            "Q2": "https://www.toeflresources.com/wp-content/uploads/2025/08/ElevenLabs_Remote_Work_2.mp3",
+            "Q3": "https://www.toeflresources.com/wp-content/uploads/2025/08/ElevenLabs_Remote_Work_3-1.mp3",
+            "Q4": "https://www.toeflresources.com/wp-content/uploads/2025/08/ElevenLabs_Remote_Work_4.mp3"
+          }
+        },
+        {
+          "id": "TI02",
+          "topic": "Celebrations",
+          "topicChinese": "庆祝活动",
+          "questions": 4,
+          "audioUrls": "待获取"
+        },
+        {
+          "id": "TI03",
+          "topic": "Shopping Habits",
+          "topicChinese": "购物习惯",
+          "questions": 4,
+          "audioUrls": "待获取"
+        },
+        {
+          "id": "TI04",
+          "topic": "Language Learning",
+          "topicChinese": "语言学习",
+          "questions": 4,
+          "audioUrls": "待获取"
+        },
+        {
+          "id": "TI05",
+          "topic": "Smartphones",
+          "topicChinese": "智能手机",
+          "questions": 4,
+          "audioUrls": "待获取"
+        },
+        {
+          "id": "TI06",
+          "topic": "Housework",
+          "topicChinese": "家务",
+          "questions": 4,
+          "audioUrls": "待获取"
+        },
+        {
+          "id": "TI07",
+          "topic": "Exercise",
+          "topicChinese": "锻炼",
+          "questions": 4,
+          "audioUrls": "待获取"
+        },
+        {
+          "id": "TI08",
+          "topic": "Current Events",
+          "topicChinese": "时事",
+          "questions": 4,
+          "audioUrls": "待获取"
+        }
+      ]
+    },
+    "listenAndChoose": {
+      "description": "听句选答题型 - 听对话选回应",
+      "source": "ETS Official",
+      "note": "需要从ETS官方获取",
+      "practiceResource": "https://www.ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html"
+    },
+    "academicDiscussion": {
+      "description": "学术讨论写作 - 阅读教授问题并写作",
+      "source": "toeflresources.com",
+      "note": "无音频，只需阅读题目"
+    }
+  },
+  "officialEtsResources": {
+    "sampleTest1": "https://ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-1.html",
+    "sampleTest2": "https://ets.org/toefl/test-takers/ibt/prepare/sample-test-jan-2026-2.html",
+    "readingPractice": "https://www.ets.org/pdfs/toefl/toefl-ibt-reading-practice-sets.pdf",
+    "writingPractice": "https://www.ets.org/pdfs/toefl/toefl-ibt-writing-practice-sets.pdf",
+    "speakingPractice": "https://www.ets.org/pdfs/toefl/toefl-ibt-speaking-practice-sets.pdf",
+    "testOverview": "https://www.ets.org/pdfs/toefl/toefl-ibt-test-overview.pdf"
+  },
+  "thirdPartyResources": [
+    {
+      "name": "TOEFL Resources",
+      "url": "https://toeflresources.com",
+      "description": "提供大量免费练习题目和音频"
+    },
+    {
+      "name": "Test Succeed",
+      "url": "https://testsucceed.com",
+      "description": "TOEFL 2026题型详细说明和示例"
+    },
+    {
+      "name": "Better TOEFL Scores",
+      "url": "https://bettertoeflscores.com",
+      "description": "口语和写作题库"
+    },
+    {
+      "name": "Magoosh",
+      "url": "https://magoosh.com/toefl/",
+      "description": "综合备考资源"
+    }
+  ]
+}

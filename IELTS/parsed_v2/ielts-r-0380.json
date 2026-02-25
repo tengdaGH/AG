@@ -1,0 +1,160 @@
+{
+  "id": "ielts-r-0380",
+  "slug": "rural-transport-plan-of-practical-action",
+  "title": "Rural transport plan of “Practical action”",
+  "page_range": [
+    1929,
+    1934
+  ],
+  "raw_answer_key": {
+    "1": "YES",
+    "8": "aerial ropeway",
+    "2": "NO",
+    "9": "shops",
+    "3": "NOT GIVEN",
+    "10": "cushions",
+    "4": "YES",
+    "11": "family member",
+    "5": "construction of",
+    "12": "mechanism roads",
+    "6": "cycle trailers",
+    "13": "a cover",
+    "7": "a bus service"
+  },
+  "content": {
+    "title": "Rural Transport Plan of 'Practical Action'",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Whilst the focus of National Development Plans in the transport sector lies heavily in the areas of extending road networks and bridges, there are still major gaps identified in addressing the needs of poorer communities. There is a need to develop and promote the sustainable use of alternative transport systems and intermediate means of transportation (IMTs) that complement the linkages of poor people with road networks and other socio-economic infrastructures to improve their livelihoods."
+      },
+      {
+        "label": "B",
+        "content": "On the other hand, the development of all-weathered roads (only 30 percent of the rural population have access to this so far) and motorable bridges are very costly for a country with a small and stagnant economy. In addition, these interventions are not always favorable in all geographical contexts environmentally, socially, and economically. More than 60 percent of the network is concentrated in the lowland areas of the country. Although there are a number of alternative ways by which transportation and mobility needs of rural communities in the hills can be addressed, a lack of clear government focus and policies, lack of fiscal and economic incentives, lack of adequate technical knowledge and manufacturing capacities have led to under-development of this alternative transport sub-sector including the provision of IMTs."
+      },
+      {
+        "label": "C",
+        "content": "One of the major causes of poverty is isolation. Improving the access and mobility of the isolated poor paves the way for access to markets, services, and opportunities. By improving transport, poorer people are able to access markets where they can buy or sell goods for income, and make better use of essential services such as health and education. No proper roads or vehicles mean women and children are forced to spend many hours each day attending to their most basic needs, such as collecting water and firewood. This valuable time could be used to tend crops, care for the family, study, or develop small business ideas to generate much-needed income."
+      },
+      {
+        "label": "D",
+        "content": "Without roads, rural communities are extremely restricted. Collecting water and firewood, and going to local markets is a huge task, therefore it is understandable that the construction of roads is a major priority for many rural communities. Practical Action is helping to improve rural access/transport infrastructures through the construction and rehabilitation of short rural roads, small bridges, culverts, and other transport-related functions. The aim is to use methods that encourage community-driven development. This means villagers can improve their own lives through better access to markets, health care, education, and other economic and social opportunities, as well as bringing improved services and supplies to the now-accessible villages."
+      },
+      {
+        "label": "E",
+        "content": "Practical Action and the communities we work with are constantly crafting and honing new ideas to help poor people. Cycle trailers have practical business use too, helping people carry their goods, such as vegetables and charcoal, to markets for sale. Not only that, but those on the poverty-line can earn a decent income by making, maintaining, and operating bicycle taxis. With Practical Action’s know-how, Sri Lanka communities have been able to start a bus service and maintain the roads along which it travels. The impact has been remarkable. This service has put an end to rural people’s social isolation. Quick and affordable, it gives them a reliable way to travel to the nearest town; and now their children can get an education, making it far more likely they’ll find a path out of poverty. Practical Action is also an active member of many national and regional networks through which exchange of knowledge and advocating based on action research are carried out and one conspicuous example is the Lanka Organic Agriculture Movement."
+      },
+      {
+        "label": "F",
+        "content": "For people who live in remote, mountainous areas, getting food to market in order to earn enough money to survive is a serious issue. The hills are so steep that travelling down them is dangerous. A porter can help but they are expensive, and it would still take hours or even a day. The journey can take so long that their goods start to perish and become worthless. Practical Action has developed an ingenious solution called an aerial ropeway. It can either operate by gravitation force or with the use of external power. The ropeway consists of two trolleys rolling over support tracks connected to a control cable in the middle which moves in a traditional flywheel system. The trolley at the top is loaded with goods and can take up to 120kg. This is pulled down to the station at the bottom, either by the force of gravity or by an external power. The other trolley at the bottom is, therefore, pulled upwards automatically. The external power can be produced by a micro-hydro system if access to an electricity grid is not an option."
+      },
+      {
+        "label": "G",
+        "content": "Practical Action developed a two-wheeled iron trailer that can be attached (via a hitch behind the seat) to a bicycle and be used to carry heavy loads (up to around 200 kgs) of food, water, or even passengers. People can now carry three times as much as before and still pedal the bicycle. The cycle trailers are used for transporting goods by local producers, as ambulances, as mobile shops, and even as mobile libraries. They are made in small village workshops from iron tubing, which is cut, bent, welded, and drilled to make the frame and wheels. Modifications are also carried out to the trailers in these workshops at the request of the buyers. The two-wheeled 'ambulance' is made from moulded metal, with standard rubber-tyred wheels. The 'bed' section can be padded with cushions to make the patient comfortable, while the 'seat' section allows a family member to attend to the patient during transit. A dedicated bicycle is needed to pull the ambulance trailer, so that other community members do not need to go without the bicycles they depend on in their daily lives. A joining mechanism allows for easy removal and attachment. In response to user comments, a cover has been designed that can be added to give protection to the patient and attendant in poor weather. Made of treated cotton, the cover is durable and waterproof."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write YES if the statement is true, NO if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A slow-developing economy often can not afford some road networks, especially for those used regardless of weather conditions.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Rural communities’ officials know how to improve alternative transport technically.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The primary aim for Practical Action to improve rural transport infrastructures is meant to increase the trade among villages.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Lanka Organic Agriculture Movement provided service that Practical Action highly involved in.",
+            "answer": "YES",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "What is the first duty for many rural communities to reach unrestricted development?",
+            "answer": "construction of",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "What was one of the new ideas to help poor people carry their goods, such as vegetables and charcoal, to markets for sale?",
+            "answer": "cycle trailers",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "What service has put an end to rural people’s social isolation in Sri Lanka?",
+            "answer": "a bus service",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "What solution had been applied for people who live in remote mountainous areas getting food to market?",
+            "answer": "aerial ropeway",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage. Using NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Besides normal transport task, changes are also implemented to the trailers in these workshops at the request of the buyers when it was used on a medical emergency or a moveable 9.....................;",
+            "answer": "shops",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "‘Ambulance’ is made from metal, with rubber wheels and drive-by another bicycle. When put with 10..................... in the two-wheeled ‘ambulance’, the patient can stay comfortable and which another 11...................... can sit on caring for the patient in transport journey.",
+            "answer": "cushions",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "‘Ambulance’ is made from metal, with rubber wheels and drive-by another bicycle. When put with 10..................... in the two-wheeled ‘ambulance’, the patient can stay comfortable and which another 11...................... can sit on caring for the patient in transport journey.",
+            "answer": "family member",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "In order to dismantle or attach other equipment, and assembling 12..................... is designed.",
+            "answer": "mechanism roads",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Later, as users suggest, 13..................... has also been added to give protection to the patient.",
+            "answer": "a cover",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:15:50.564780"
+}

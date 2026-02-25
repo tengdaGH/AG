@@ -1,0 +1,229 @@
+{
+  "id": "ielts-r-0234",
+  "slug": "is-technology-harming-our-childrens-health",
+  "title": "Is Technology Harming our Children’s Health?",
+  "page_range": [
+    1185,
+    1189
+  ],
+  "raw_answer_key": {
+    "1": "headphones",
+    "8": "NOT GIVEN",
+    "2": "digital music",
+    "9": "YES",
+    "3": "the volume",
+    "10": "NO",
+    "11": "(a) virtual",
+    "4": "120 decibels (world)",
+    "12": "moral",
+    "5": "(decibel) level implications",
+    "13": "linguistic",
+    "6": "YES creativity",
+    "7": "YES"
+  },
+  "content": {
+    "title": "Is Technology Harming our Children’s Health?",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Technology is moving at such a breakneck speed that it is enough to make your head spin. It can be difficult to keep up. However, with each new technological marvel come consequences. Much of the research conducted has shown the extent of the damage being done to our health by technology. It is a scary thought, and with teenagers and children being heavy consumers and users of these gadgets, they run the risk of being harmed the most."
+      },
+      {
+        "label": null,
+        "content": "The digital revolution in music has enabled people to download, store and listen to songs on a tiny, portable device called an MP3 player. The process is quick and afterwards you can have access to a library of thousands of songs that can fit into your palm. But experts say that continuously listening to loud music on these small music players can permanently damage hair cells in the inner ear, resulting in hearing loss. For instance, old-fashioned headphones have been replaced with smaller ones that fit neatly into the ear, instead of over them, which intensifies the sound. In addition to that, digital music does not distort and keeps its crystal clear sound, even on loud settings, which encourages children to crank up the volume. Combine that with the fact that many children will spend hours listening to their iPods, and you have the recipe for hearing loss. Put into further perspective, most MP3 players can reach levels of 120 decibels, which is louder than a chainsaw or lawnmower. When you consider 85 decibels is the maximum safe decibel level set by hearing experts over the course of a working day, and that children will listen to music at higher decibel levels than that for long periods of time, hearing will invariably suffer."
+      },
+      {
+        "label": null,
+        "content": "Apart from hearing damage, there are other serious health risks. We are living in a wireless age. Calls can be made and received on mobiles from anywhere and the internet can be accessed without the need for cables. The advantages are enormous, bringing ease and convenience to our lives. It is clear that mobiles and wireless technology are here to stay but are we paying the price for new technology? Studies have shown that the rapid expansion in the use of wireless technology has brought with it a new form of radiation called ‘electropollution’."
+      },
+      {
+        "label": null,
+        "content": "Compared to two generations ago, we are exposed to 100 million times more radiation. The human body consists of trillions of cells which use faint electromagnetic signals to communicate with each other, so that the necessary biological and physiological changes can happen. It is a delicate, natural balance. But this balance is being upset by the constant exposure to electromagnetic radiation (EMR) that we face in our daily lives and it is playing havoc with our bodies. EMR can disrupt and alter the way in which our cells communicate and this can result in abnormal cell behaviour. Some studies have shown that exposure to wireless technology can affect our enzyme production, immune systems, nervous system and even our moods and behaviour. The most dangerous part of the phone is around the antenna. This area emits extremely potent radiation which has been shown to cause genetic damage and an increase in the risk of cancer."
+      },
+      {
+        "label": null,
+        "content": "Research shows that teenagers and young adults are the largest group of mobile phone users. According to a recent Eurobarometer survey, 70 per cent of Europeans aged 12-13 own a mobile phone and the number of children five to nine years old owning mobiles has greatly increased over the years. Children are especially vulnerable because their brains and nervous systems are not as immune to attack as adults. Sir William Stewart, chairman of the National Radiological Protection Board, says there is mounting evidence to prove the harmful effects of wireless technologies and that families should monitor their children’s use of them."
+      },
+      {
+        "label": null,
+        "content": "Besides the physical and biological damage, technology can also have serious mental implications for children. It can be the cause of severe, addictive behaviour. In one case, two children had to be admitted into a mental health clinic in Northern Spain because of their addiction to mobile phones. An average of six hours a day would be spent talking, texting and playing games on their phones. The children could not be separated from their phones and showed disturbed behaviour that was making them fail at school. They regularly deceived family members to obtain money to buy phone cards to fund their destructive habit. There have been other cases of phone addiction like this."
+      },
+      {
+        "label": null,
+        "content": "Technology may also be changing our brain patterns. Professor Greenfield, a top specialist in brain development, says that, thanks to technology, teenage minds are developing differently from those of previous generations. Her main concern is over computer games. She claims that living in a virtual world where actions are rewarded without needing to think about the moral implications makes young people ‘lose awareness of who they are’. She claims that technology brings a decline in linguistic creativity."
+      },
+      {
+        "label": null,
+        "content": "As technology keeps moving at a rapid pace and everyone clamours for the new must-have gadget of the moment, we cannot easily perceive the long-term effects on our health. Unfortunately, it is the most vulnerable members of our society that will be affected."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A new ________ fit inside ears",
+            "answer": "headphones",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "________ is distortion-free with clear quality sound",
+            "answer": "digital music",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "invites children to increase ________",
+            "answer": "the volume",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "capable of producing sound at ________",
+            "answer": "120 decibels (world)",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "over recommended safe ________",
+            "answer": "(decibel) level",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 2? Write YES if the statement agrees with the writer's views, NO if the statement contradicts the writer's views, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "There are considerable benefits to our wireless world.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer's views"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer's views"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Wireless technology is a permanent part of our lives.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer's views"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer's views"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Exposure to EMR can lead to criminal behaviour.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer's views"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer's views"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "It is possible to become obsessed with technology.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer's views"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer's views"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Using technology always helps with academic success.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the writer's views"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer's views"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below using NO MORE THAN THREE WORDS for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "According to Professor Greenfield, what kind of world do children occupy when playing computer games?",
+            "answer": "(a) virtual",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "What does Professor Greenfield feel children don’t pay attention to when playing computer games?",
+            "answer": "moral",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "According to Professor Greenfield, what may be lower in teenagers who play a lot of computer games?",
+            "answer": "linguistic",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:30:37.435322"
+}

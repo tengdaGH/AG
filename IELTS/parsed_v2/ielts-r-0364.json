@@ -1,0 +1,244 @@
+{
+  "id": "ielts-r-0364",
+  "slug": "reducing-electricity-consumption-on-the-isle-of-eigg",
+  "title": "Reducing electricity consumption on the Isle of Eigg",
+  "page_range": [
+    1854,
+    1857
+  ],
+  "raw_answer_key": {
+    "1": "100",
+    "8": "FALSE",
+    "2": "50%",
+    "9": "TRUE",
+    "10": "NOT",
+    "3": "water GIVEN",
+    "4": "energy monitors",
+    "11": "TRUE",
+    "5": "diesel generators",
+    "12": "FALSE",
+    "6": "insulation",
+    "13": "TRUE",
+    "7": "greenhouses"
+  },
+  "content": {
+    "title": "Reducing electricity consumption on the Isle of Eigg",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The Isle of Eigg is situated off the West Coast of Scotland, and is reached by ferry from the mainland. For the island community of about a hundred residents, it has always been expensive to import products, materials and skilled labour from the mainland, and this has encouraged a culture of self-sufficiency and careful use of resources. Today, although the island now has most modern conveniences, CO2 emissions per household are 20 percent lower than the UK average, and electricity use is 50 percent lower."
+      },
+      {
+        "label": null,
+        "content": "When Eigg designed its electricity grid, which was switched on in February 2008, it quickly became apparent that in order to keep the capital building costs down, it would be necessary to manage demand. This would also allow the island to generate most of its electricity from renewable sources, mainly water, wind and solar power. This goal was overseen by the Eigg Heritage Trust (EHT)."
+      },
+      {
+        "label": null,
+        "content": "Eigg manages electricity demand mainly by capping the instantaneous power that can be used to five kilowatts (kW) for a household and ten kW for a business. If usage goes over the limit, the electricity supply is cut off and the maintenance team must be called to come and switch it back on again. All households and businesses have energy monitors, which display current and cumulative electricity usage, and sound an alarm when consumption reaches a user-defined level, usually set a few hundred watts below the actual limit. The result is that Eigg residents have a keen sense of how much power different electrical appliances use, and are careful to minimise energy consumption."
+      },
+      {
+        "label": null,
+        "content": "Demand is also managed by warning the entire island when renewable energy generation is lower than demand, and diesel generators are operating to back it up - a so-called ‘red light day’, as opposed to ‘green light days’ when there is sufficient renewable energy. Residents then take steps to temporarily reduce electricity demand further still, or postpone demand until renewable energy generation has increased."
+      },
+      {
+        "label": null,
+        "content": "Energy use on the island has also been reduced through improved wall and loft insulation in homes, new boilers, solar water heating, carsharing and various small, energy-saving measures in households. New energy supplies are being developed, including sustainably harvested forests to supply wood for heating."
+      },
+      {
+        "label": null,
+        "content": "Eigg Heritage Trust has installed insulation in all of its own properties at no cost to the tenants, while private properties have paid for their own insulation to be installed. The same applies for installations of solar water heating, although not all Trust properties have received this as yet. The Trust also operates a Green Grants scheme, where residents can claim 50 percent of the cost of equipment to reduce carbon emissions, up to a limit of £300. Purchases included bikes, solar water heating, secondary glazing, thicker curtains, and greenhouses to grow food locally, rather than importing it."
+      },
+      {
+        "label": null,
+        "content": "Prior to the installation of the new electricity grid and renewable energy generation, most households on Eigg used diesel generators to supply electricity, resulting in significant carbon emissions. Homes were also poorly insulated and had old, inefficient oil-burning boilers, or used coal for heating."
+      },
+      {
+        "label": null,
+        "content": "The work by the Eigg Heritage Trust to reduce energy use has resulted in significant reductions in carbon emissions from the island’s households and businesses. The average annual electricity use per household is just 2,160 kilowatt hours (kWh), compared to a UK average in 2008 of 4,198 kWh. Domestic carbon emissions have fallen by 47 percent, from 8.4 to 4.45 tonnes per year. This compares to average UK household emissions of 5.5 to 6 tonnes per year. The emissions should fall even further over the next few years as the supply of wood for heating increases."
+      },
+      {
+        "label": null,
+        "content": "The completion of Eigg’s electricity grid has made a significant difference to the island’s residents, freeing them from dependence on diesel generators and providing them with a stable and affordable power supply. A reliable electricity supply has brought improvements in other areas, for example, better treatment of drinking water in some houses, and the elimination of the constant noise of diesel generators. Improved home insulation and heating has also yielded benefits, making it more affordable to keep homes at a comfortable temperature. One of the incentives for capping electricity use, rather than charging different amounts according to usage, was to make access to energy equitable. Every household has the same five kW cap, irrespective of income, so distributing the available resources equally across the island’s population."
+      },
+      {
+        "label": null,
+        "content": "Eigg’s electricity grid supports four part-time maintenance jobs on the island, and residents have also been employed for building work to improve Trust-owned houses and other buildings. Likewise, the start of organised harvesting of wood for heating has created several forestry jobs for residents. A part-time ‘green project manager’ post has also been created. A wider economic impact has come from having a reliable and affordable electricity supply, which has enabled several new businesses to start up, including restaurants, shops, guest houses and self-catering accommodation. As Eigg has become known for cutting carbon emissions and protecting the environment, an increasing number of visitors have come to the island to learn about its work, bringing a further economic benefit to the residents."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Approximately how many people live on Eigg?",
+            "answer": "100",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "What proportion of a UK household’s electricity consumption does an Eigg household consume?",
+            "answer": "50%",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Apart from wind and sun, where does most of Eigg’s electricity come from?",
+            "answer": "water",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "What device measures the amount of electricity Eigg’s households are using?",
+            "answer": "energy monitors",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "When renewable energy supplies are insufficient, what backs them up?",
+            "answer": "diesel generators",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "What has EHT provided free of charge in all the houses it owns?",
+            "answer": "insulation",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Which gardening aid did some Eigg inhabitants claim grants for?",
+            "answer": "greenhouses",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Electricity was available for the first time on Eigg when a new grid was switched on.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Electricity was available for the first time on Eigg when a new grid was switched on."
+              },
+              {
+                "label": "FALSE",
+                "text": "Electricity was not available for the first time on Eigg when a new grid was switched on."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Eigg’s carbon emissions are now much lower than before.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Eigg’s carbon emissions are now much lower than before."
+              },
+              {
+                "label": "FALSE",
+                "text": "Eigg’s carbon emissions are not much lower than before."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Wood will soon be the main source of heating on Eigg.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Wood will soon be the main source of heating on Eigg."
+              },
+              {
+                "label": "FALSE",
+                "text": "Wood will not soon be the main source of heating on Eigg."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Eigg is quieter as a result of having a new electricity supply.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Eigg is quieter as a result of having a new electricity supply."
+              },
+              {
+                "label": "FALSE",
+                "text": "Eigg is not quieter as a result of having a new electricity supply."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Well-off households pay higher prices for the use of extra electricity.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Well-off households pay higher prices for the use of extra electricity."
+              },
+              {
+                "label": "FALSE",
+                "text": "Well-off households do not pay higher prices for the use of extra electricity."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The new electricity grid has created additional employment opportunities on Eigg.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The new electricity grid has created additional employment opportunities on Eigg."
+              },
+              {
+                "label": "FALSE",
+                "text": "The new electricity grid has not created additional employment opportunities on Eigg."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:15:43.059891"
+}

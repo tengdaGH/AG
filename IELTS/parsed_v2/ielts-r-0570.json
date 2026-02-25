@@ -1,0 +1,154 @@
+{
+  "id": "ielts-r-0570",
+  "slug": "the-water-crisis",
+  "title": "The water crisis",
+  "page_range": [
+    2888,
+    2892
+  ],
+  "raw_answer_key": {
+    "1": "ix",
+    "8": "prosperous",
+    "2": "vi",
+    "9": "population",
+    "3": "iv",
+    "10": "technology",
+    "4": "ii",
+    "11": "leaks",
+    "5": "vii",
+    "12": "management",
+    "6": "viii",
+    "13": "water deficit",
+    "7": "iii"
+  },
+  "content": {
+    "title": "The water crisis",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Per capita water usage has been on an upward trend for many years. As countries industrialise and their citizens become more prosperous, their individual water usage increases rapidly. Annual per capita water withdrawals in the USA, for example, are about 1,700 cubic metres, four times the level in China and fifty times the level in Ethiopia. In the 21st century, the world's limited supply of renewable fresh water is having to meet demands of both larger total population and increased per capita consumption. The only practicable ways to resolve this problem in the longer term are economic pricing in conjunction with conservation measures."
+      },
+      {
+        "label": "B",
+        "content": "Agriculture consumes about 70% of the world's fresh water, so improvements in irrigation can make the greatest impact. At present, average efficiency in the use of irrigated water in agriculture may be as low as 50%. Simple changes could improve the rate substantially, though it is unrealistic to expect very high levels of water-use efficiency in many developing countries, faced as they are with a chronic lack of capital and a largely untrained rural workforce. After agriculture, industry is the second biggest user of water and, in terms of value added per litre used, is sixty times more productive than agriculture. However, some industrial processes use vast amounts of water. For example, production of 1 kg of aluminium might require 1,500 litres of water. Paper production too is often very water-intensive. Though new processes have greatly reduced consumption, there is still plenty of room for big savings in industrial uses of water."
+      },
+      {
+        "label": "C",
+        "content": "In rich countries, water consumption has gradually been slowed down by price increases and the use of modern technology and recycling. In the USA, industrial production has risen fourfold since 1950, while water consumption has fallen by more than a third. Japan and Germany have similarly improved their use of water in manufacturing processes. Japanese industry, for example, now recycles more than 75% of process water. However, industrial water consumption is continuing to increase sharply in developing countries. With domestic and agricultural demands also increasing, the capacity of water supply systems is under growing strain."
+      },
+      {
+        "label": "D",
+        "content": "Many experts believe that the best way to counter this trend is to impose water charges based on the real cost of supplies. This would provide a powerful incentive for consumers to introduce water-saving processes and recycling. Few governments charge realistic prices for water, especially to farmers. Even in rich California, farmers get water for less than a tenth of the cost of supply. In many developing countries there is virtually no charge for irrigation water, while energy prices are heavily subsidised too (which means that farmers can afford to run water pumps day and night). Water, which was once regarded as a free gift from heaven, is becoming a commodity which must be bought and sold on the open market just like oil. In the oil industry, the price increases which hit the market in the 1970s, coupled with concerns that supplies were running low, led to new energy conservation measures all over the world. It was realised that investing in new sources was a far more costly option than improving efficiency of use. A similar emphasis on conservation will be the best and cheapest option for bridging the gap between water supply and demand."
+      },
+      {
+        "label": "E",
+        "content": "One way to cut back on water consumption is simply to prevent leaks. It is estimated that in some of the biggest cities of the Third World, more than half of the water entering the system is lost through leaks in pipes, dripping taps and broken installations. Even in the UK, losses were estimated at 25% in the early 1990s because of the failure to maintain the antiquated water supply infrastructure. In addition, huge quantities of water are consumed because used water from sewage pipes, storm drains and factories is merely flushed away and discharged into rivers or the sea. The modern approach, however, is to see used water as a resource which can be put to good use - either in irrigation or, after careful treatment, as recycled domestic water. Israel, for instance, has spent heavily on used water treatment. Soon, treated, recycled water will account for most farm irrigation there. There are other examples in cities such as St Petersburg, Florida, where all municipal water is recycled back into domestic systems."
+      },
+      {
+        "label": "F",
+        "content": "Another way of conserving water resources involves better management of the environment generally. Interference with the ecosystem can have a severe effect on both local rainfall patterns and water run-off. Forest clearings associated with India's Kabini dam project reduced local rainfall by 25%, a phenomenon observed in various other parts of the world where large-scale deforestation has taken place. Grass and other vegetation acts as a sponge which absorbs rainfall both in the plants and in the ground. Removal of the vegetation means that rainfall runs off the top of the land, accelerating erosion instead of being gradually fed into the soil to renew ground water."
+      },
+      {
+        "label": "G",
+        "content": "Global warming is bound to affect rainfall patterns, though there is considerable disagreement about its precise effects. But it is likely that, as sea levels rise, countries in low-lying coastal areas will be hit by seawater penetration of ground water. Other countries will experience changes in rainfall which could have a major impact on agricultural yield - either for better or for worse. In broad terms, it is thought that rainfall zones will shift northwards, adding to the water deficit in Africa, the Middle East and the Mediterranean - a grim prospect indeed."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for each paragraph from the list of headings below. Write the correct number i-x in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "ix",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "vi",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "iv",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "ii",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "vii",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "viii",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Paragraph G",
+            "answer": "iii",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the text for each answer. Write your answers in boxes 8-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Individual water usage is rising dramatically as people living in industrialised countries become increasingly 8..................... .",
+            "answer": "prosperous",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "As well as increased consumption per capita, the growing demand for fresh water is due to a bigger global 9..................... than in the past.",
+            "answer": "population",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Improvements in irrigation systems and industrial processes could dramatically increase the efficiency of water use. There are examples of industries in some rich countries that have reduced their consumption rates through price increases, the application of 10..................... and recycling.",
+            "answer": "technology",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Other ways of protecting supplies are to reduce water loss resulting from 11..................... in the supply systems and to find ways of utilising used water.",
+            "answer": "leaks",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Longer term measures, such as improved environmental 12..................... would protect the ecosystem and ensure the replenishment of ground water for future generations.",
+            "answer": "management",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Without such measures, future supplies are uncertain, especially when global warming is expected to interfere with rainfall patterns and to worsen the 13..................... already suffered by many countries today.",
+            "answer": "water deficit",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:01:47.292365"
+}

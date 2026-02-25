@@ -1,0 +1,206 @@
+TITLE: RISING SEA
+INDEX: 370
+============================================================
+
+RISING SEA
+
+Paragraph 1. INCREASED TEMPERATURES
+
+The average air temperature at the surface of the earth has risen this century, as has the
+temperature of ocean surface waters. Because water expands as it heats, a warmer ocean
+means higher sea levels. We cannot say definitely that the temperature rises are due to the
+greenhouse effect; the heating may be part of a “natural” variability over a long time-scale
+that we have not yet recognized I our short 100 years of recording. However, assuming the
+build up of greenhouse gases is responsible, and that the warming will continue. Scientists
+and inhabitants of low-lying coastal areas would like to know the extent of future sea level
+rises.
+Paragraph 2.
+
+Calculating this is not easy. Models used for the purpose have treated the oceans as
+passive, stationary and one-dimensional. Scientists have assumed that heat simply
+diffused into the sea from the atmosphere. Using basic physical laws, they then predict how
+much a known volume of water would expand for a given increase in temperature. But the
+oceans are not one-dimensional, and recent work by oceanographers, using a new model
+which takes into account a number of subtle facets of the sea-including vast and complex
+ocean currents-suggests that the rise in sea level may be less than some earlier estimates
+had predicted.
+
+Paragraph 3
+
+An international forum on climate change, in 1986, produced figures for likely sea-level
+rises of 20 cm and 1.4 m, corresponding to atmospheric temperature increases of 1.5 and
+4.5C respectively. Some scientists estimate that the ocean warming resulting from those
+temperature increases by the year 2050 would raise the sea level by between 10 cm and
+40 cm. This model only takes into account the temperature effect on the oceans; it does not
+consider changes in sea level brought about by the melting of ice sheets and glaciers, and
+changes in groundwater storage. When we add on estimates of these, we arrive at figures
+for total sea-level rises of 15 cm and 70 cm respectively.
+Paragraph 4
+
+It’s not easy trying to model accurately the enormous complexities of the ever-changing
+oceans, with their great volume, massive currents and sensitively to the influence of land
+masses and the atmosphere. For example, consider how heat enters the ocean. Does it
+just “diffuse” from the warmer air vertically into the water, and heat only the surface layer of
+the sea? (Warm water is less dense than cold, so it would not spread downwards).
+Conventional models of sea-level rise have considered that this the only method, but
+measurements have shown that the rate of heat transfer into the ocean by vertical diffusion
+is far lower in practice than the figures that many models have adopted.
+
+Paragraph 5
+
+Much of the early work, for simplicity, ignored the fact that water in the oceans moves in
+three dimensions. By movement, of course, scientists don’t mean waves, which are too
+small individually to consider, but rather movement of vast volumes of water in huge
+currents. To understand the importance of this, we now need to consider another process-
+advection. Imagine smoke rising from a chimney. On a still day it will slowly spread out in
+all directions by means of diffusion. With a strong directional wind, however, it will all shift
+downwind, this process is advection-the transport of properties (notably heat and salinity in
+ocean) by the movement of bodies of air or water, rather than by conduction or diffusion.
+
+Paragraph 6
+
+Massive oceans current called gyres do the moving. These currents have far more capacity
+to store heat than does the atmosphere. Indeed, just the top 3 m of the ocean contains
+more heat than the whole of the atmosphere. The origin of the gyres lies in the fact that
+more heat from the Sun reaches the Equator than the Poles, and naturally heat trends to
+move from the former to the latter. Warm air rises at the Equator, and draws more air
+beneath it in the form of winds (the “Trade Winds") that, together with other air movements,
+provide the main force driving the ocean currents.
+
+Paragraph 7
+
+Water itself is heated at the Equator and moves poleward, twisted by the Earth’s rotation
+and affected by the positions of the continents. The resultant broadly circular movements
+between about 10 and 40 ' North and South are clockwise in the Southern Hemisphere.
+They flow towards the east at mind latitudes in the equatorial region. They then flow
+towards the Poles, along the eastern sides of continents, as warm currents. When two
+different masses of water meet, once will move beneath the other, depending on their
+relative densities in the subduction process. The densities are determined by temperature
+and salinity. The convergence of water of different densities from the Equator and
+the Poles deep in the oceans causes continuous subduction. This means that water moves
+vertically as well as horizontally. Cold water from the Poles travels as depth-it is denser
+than warm water-until it emerges at the surface in another part of the world in the form of a
+cold current.
+
+Paragraph 8. HOW THE GREENHOUSE EFFECTS WILL CHANGE OCEAN
+TEMPERATURES
+
+Ocean currents, in three dimensions, from a giant “conveyor belt”, distributing heat from the
+thin surface layer into the interior of the oceans and around the globe. Water may take
+decades to circulate in these 3-D gyres in the lop kilometer of the ocean, and centuries in
+the deep water. With the increased atmospheric temperatures due to the greenhouse
+effect, the oceans conveyor belt will carry more heat into the interior. This subduction
+moves heat around far more effectively than simple diffusion. Because warm water
+expands more than cold when it is heated, scientists had presumed that the sea level
+would rise unevenly around the globe. It is now believed that these inequalities
+cannot persist, as winds will act to continuously spread out the water expansion. Of course,
+of global warming changes the strength and distribution of the winds, then this “evening-
+out” process may not occur, and the sea level could rise more in some areas than others.
+
+Questions 1-6
+
+Reading Passage 2 has 8 Paragraphs, 1-8. The first paragraph and the last have been
+given headings. Choose the correct heading for the remaining 6 Paragraphs from the list
+below.
+
+There are more headings than paragraphs, so you will not use all the headings.
+
+Write the correct number, A-I, in boxes 1-6 on your answer sheet
+
+List of Headings
+A The gyre principle
+
+1..................... Paragraph 2 B The Greenhouse Effect
+
+2..................... Paragraph 3 C How ocean waters move
+3..................... Paragraph 4 D Statistical evidence
+
+4..................... Paragraph 5 E The advection principle
+
+5..................... Paragraph 6 F Diffusion versus advection
+6..................... Paragraph 7 G Figuring the sea level changes
+
+H Estimated figures
+
+I The diffusion model
+
+
+Questions 7-8
+
+Choose the correct letter A, B, C or D.
+
+Write the correct letter in boxes 7-8 on your answer sheet.
+
+
+7 Scientists do not know for sure why the air and surface of oceans temperatures are rising
+because
+
+A there is too much variability
+
+B there is no enough variability
+
+C they have not been recording these temperatures for enough time
+D the changes have only been noticed for 100 years
+
+
+8 New search leads scientists to believe that
+
+A the oceans are less complex
+
+B the oceans are more complex
+C the oceans will rise more than expected
+
+D the oceans will rise less than expected
+
+
+Questions 9
+
+Look at the following list of factors A-F and select THREE which are mentioned in the
+Reading Passage 2 which may contribute to the rising ocean levels.
+
+Write the correct THREE letters A-F in the box 9 on your answer sheet.
+
+
+A thermal expansion
+
+B melting ice
+
+C increased air temperature
+D higher rainfall
+
+E changes in the water table
+
+F increased ocean movement
+
+
+Questions 10-14
+
+Do the following statements agree with the information given in Reading Passage 2? Write
+
+TRUE if the statement agrees with the information
+
+FALSE if the statement contradicts the information
+
+NOT GIVEN if there is no information on this
+
+10..................... The surface layer of the oceans is warmed by the atmosphere.
+
+11..................... Advection of water changes heat and salt levels.
+
+12..................... A gyre holds less heat than there is in the atmosphere.
+13..................... The process of subduction depends on the water density.
+
+14..................... The sea level is expected to rise evenly over the Earth’s surface.
+
+Solution:
+
+1. G 8. D
+2. H 9. B C E
+
+3. I 10. NOT GIVEN
+4. E 11. TRUE
+
+5. A 12. FALSE
+6. C 13. TRUE
+
+7. C 14. FALSE

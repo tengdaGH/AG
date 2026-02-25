@@ -1,0 +1,101 @@
+{
+  "id": "ielts-r-0509",
+  "slug": "the-life-of-the-european-bee-eater",
+  "title": "The life of the European bee-eater",
+  "page_range": [
+    2576,
+    2578
+  ],
+  "raw_answer_key": {
+    "1": "insects",
+    "5": "predators",
+    "2": "poison",
+    "6": "tunnels",
+    "3": "river valleys",
+    "7": "chicks",
+    "4": "Africa",
+    "8": "pesticides"
+  },
+  "content": {
+    "title": "The life of the European bee-eater",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A brilliant movement of colour as it catches its food in the air, the European bee-eater moves between three continents. True to their name, bee-eaters eat bees (though their diet includes just about any flying insect). When the bird catches a bee, it returns to its tree to get rid of the bees poison, which it does very efficiently. It hits the insect's head on one side of the branch, then rubs its body on the other. The rubbing makes its prey harmless."
+      },
+      {
+        "label": "B",
+        "content": "European bee-eaters (Merops apiaster) form families that breed in the spring and summer across an area that extends from Spain to Kazakhstan. Farmland and river valleys provide huge numbers of insects. Flocks of bee-eaters follow tractors as they work fields. When the birds come upon a beehive, they eat well - a researcher once found a hundred bees in the stomach of a bee-eater near a hive."
+      },
+      {
+        "label": "C",
+        "content": "European bees pass the winter by sleeping in their hives, which cuts off the bee-eater's main source of food. So, in late summer, bee-eaters begin a long, dangerous journey. Massive flocks from Spain, France and northern Italy cross the Sahara desert to their wintering grounds in West Africa. Bee-eaters from Hungary and other parts of Central and Eastern Europe cross the Mediterranean Sea and Arabian Desert to winter in southern Africa. 'It's an extremely risky stratagem, this migration,' says C. Hilary Fry, a British ornithologist who has studied European bee-eaters for more than 45 years. 'At least 30 percent of the birds will be killed by predators before they make it back to Europe the following spring.'"
+      },
+      {
+        "label": "D",
+        "content": "In April, they return to Europe. Birds build nests by digging tunnels in riverbanks. They work for up to 20 days. By the end of the job, they've moved 15 to 26 pounds of soil - more than 80 times their weight."
+      },
+      {
+        "label": "E",
+        "content": "The nesting season is a time when families help each other, and sons or uncles help feed their father's or brother's chicks as soon as they come out of their eggs. The helpers benefit, too: parents with helpers can provide more food for chicks to continue the family line."
+      },
+      {
+        "label": "F",
+        "content": "It's a short, spectacular life. European bee-eaters live for five to six years. The difficulties of migration and avoiding predators along the way affect every bird. Bee-eaters today also find it harder to find food, as there are fewer insects around as a result of pesticides. Breeding sites are also disappearing, as rivers are turned into concrete-walled canals."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Bee-eaters’ prey are bees and other 1.....................",
+            "answer": "insects"
+          },
+          {
+            "number": 2,
+            "text": "Bee-eaters need to remove the 2..................... from bees before eating them.",
+            "answer": "poison"
+          },
+          {
+            "number": 3,
+            "text": "There is plenty of food for bee-eaters on agricultural land and in 3.....................",
+            "answer": "river valleys"
+          },
+          {
+            "number": 4,
+            "text": "Bee-eaters migrate to spend the winter in different parts of 4.....................",
+            "answer": "Africa"
+          },
+          {
+            "number": 5,
+            "text": "Because of 5....................., almost one-third of bee-eaters do not survive migration.",
+            "answer": "predators"
+          },
+          {
+            "number": 6,
+            "text": "Bee-eaters make nests in 6....................., which they build themselves.",
+            "answer": "tunnels"
+          },
+          {
+            "number": 7,
+            "text": "When nesting, the 7..................... receive food from different family members.",
+            "answer": "chicks"
+          },
+          {
+            "number": 8,
+            "text": "One problem for bee-eaters is 8....................., which have reduced the amount of food available.",
+            "answer": "pesticides"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 8
+  },
+  "processed_at": "2026-02-25T21:39:42.003619"
+}

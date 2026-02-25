@@ -1,0 +1,196 @@
+{
+  "id": "ielts-r-107",
+  "source_file": "107. P2 - A study of western celebrity 西方名人【次】.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    26
+  ],
+  "difficulty": "medium",
+  "title": "A study of western celebrity",
+  "title_cn": "西方名人",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "It seems that our current society cannot get enough information about the daily lives of celebrities. But how did celebrities become such an important force in our culture? While people have always shared a certain obsession with the fantastic and the famous, the notion of celebrity, as well as the types of people termed ‘celebrities’, has evolved greatly throughout the ages. The word ‘celebrity’ has its roots in the language of the ancient Roman civilization. The word we now know to mean ‘a condition of being famous’ or ‘a famous person’ is derived from the Latin word ‘celeber’, meaning ‘frequented or populous’."
+      },
+      {
+        "label": "B",
+        "text": "The celebrities of the ancient world were the powerful and awesome deities of Greece and Rome, and the citizens of these civilizations believed in a vast number of immortals who had a direct impact on their lives. It was, therefore, important to know about these figures’ personal lives. This need to know led to the creation of myths, which personalized the gods and involved them in ancient celebrity scandals that thrilled and excited the common people."
+      },
+      {
+        "label": "C",
+        "text": "During ancient times, amateur and professional athletes also began to make an impact on the celebrity culture. Victors in the ancient Olympic Games were treated as heroes and were often elevated to god-like status. In the ancient Roman civilization, gladiators – the equivalent of today’s professional athletes – were also revered by the common people for their heroics and seemingly superhuman strength."
+      },
+      {
+        "label": "D",
+        "text": "As Europe moved into the Dark Ages (the years spanning approximately 400–1300 AD) and a time when athletics and the arts were largely forgotten, monarchs and rulers continued to maintain celebrity status, while religious figures took on newfound fame. The miraculous lives and fascinating deaths of spiritual figures lent excitement to the lives of common people when there was often little else to be excited about, as they faced war, disease and food shortages."
+      },
+      {
+        "label": "E",
+        "text": "During the period 1300–1600 AD, or the Renaissance period as it is known, interest in ruling figures faded. As Europe emerged from its long neglect of the arts, there was greater appreciation for portraits, statues and stone carvings. This period of appreciation for the arts lent a sense of celebrity to artists who were noted for their works and their personal achievements. It was a time when artists began to surpass political and religious individuals for supreme celebrity – a trend that would continue into later centuries."
+      },
+      {
+        "label": "F",
+        "text": "While the figures of the ancient and early modern civilizations were able to achieve moderate and sometimes lasting celebrity within particular cultures, the global reach of their fame was limited. It was not until the 1700s, when technological advances made publishing commercially viable, that the extent of a person’s fame could spread further. The increase in the availability of the written word was accompanied by a huge rise in the number of common people who could read, allowing a mass audience to find out about celebrities for the first time. Suddenly, the lives of authors, politicians, war heroes, and other celebrities could now be read about in newspapers around the world. These gave ordinary people the opportunity to become intimately knowledgeable about the figures they most admired."
+      },
+      {
+        "label": "G",
+        "text": "In the modern era, particularly as radio and film took off in the 1900s, things really began to change. First, radio began to make its way into the average home in the 1920s and 1930s. Professional athletes also began to be regarded as stars, as their games and exploits could be broadcast over the air for an entirely new audience. Then, the rise of television in the 1950s only cemented the premier level of celebrity that film stars, athletes and television actors were beginning to share. This also meant a huge increase in the individual salaries of these celebrities. Even a few animals gained fame through children’s TV shows. The emergence of reality television shows in the late 1990s allowed all kinds of people with little ability to enjoy a short burst of fame on the television screen. All you needed, it seemed, was an attractive appearance. Today, reality television programmers make it possible to be famous not for doing anything in particular, but simply for being, with the audience deciding whether someone deserves to become a celebrity or not. As the meaning of celebrity continues to evolve and redefine itself in a quickly changing world, there is no telling who will become of interest next."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "HEADING_MATCHING",
+      "range": [
+        14,
+        20
+      ],
+      "instructions": "Reading Passage 2 has seven paragraphs, A–G. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i–x, in boxes 14–20 on your answer sheet.\nList of Headings\ni Why it is necessary to explain the meaning of the word celebrity\nii The influence of non-human celebrities on societies\niii The impact of broadcasting on concepts of celebrity\niv Creativity having greater value\nv Admiration for physical achievement\nvi The advantages of celebrity status in the ancient world\nvii A result of hardship\nviii Literacy and widespread celebrity\nix Attitudes of celebrities towards the media\nx The original definition of celebrity",
+      "questions": [
+        {
+          "number": 14,
+          "text": "Paragraph A",
+          "options": null,
+          "answer": "x",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 15,
+          "text": "Paragraph B",
+          "options": null,
+          "answer": "ii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 16,
+          "text": "Paragraph C",
+          "options": null,
+          "answer": "v",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 17,
+          "text": "Paragraph D",
+          "options": null,
+          "answer": "vii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 18,
+          "text": "Paragraph E",
+          "options": null,
+          "answer": "iv",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 19,
+          "text": "Paragraph F",
+          "options": null,
+          "answer": "viii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 20,
+          "text": "Paragraph G",
+          "options": null,
+          "answer": "iii",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "PERSON_MATCHING",
+      "range": [
+        21,
+        23
+      ],
+      "instructions": "Match each statement with the correct historical period, A, B, C, or D. Write the correct letter, A, B, C, or D, in boxes 21–23 on your answer sheet.\nList of historical periods in Europe\nA Ancient times\nB Dark Ages\nC Renaissance\nD Modern era",
+      "questions": [
+        {
+          "number": 21,
+          "text": "A wide variety of people achieve a brief period of fame.",
+          "options": [
+            "A Ancient times",
+            "B Dark Ages",
+            "C Renaissance",
+            "D Modern era"
+          ],
+          "answer": "D",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 22,
+          "text": "Stories are invented about celebrities’ lives.",
+          "options": [
+            "A Ancient times",
+            "B Dark Ages",
+            "C Renaissance",
+            "D Modern era"
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 23,
+          "text": "The fame of rulers is starting to diminish.",
+          "options": [
+            "A Ancient times",
+            "B Dark Ages",
+            "C Renaissance",
+            "D Modern era"
+          ],
+          "answer": "C",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SUMMARY_COMPLETION",
+      "range": [
+        24,
+        26
+      ],
+      "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 24–26 on your answer sheet.",
+      "questions": [
+        {
+          "number": 24,
+          "text": "Celebrities achieve a global status The development of the publishing industry in the 1700s signalled the beginning of international fame. A growing number of people could read, which meant they had the chance to become informed about their favourite figures by reading ………… .",
+          "options": null,
+          "answer": "newspapers",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 25,
+          "text": "This exposure to celebrities expanded further when radio and television became popular, and it was mass media attention that resulted in higher status and fame for some celebrities. The recent rise of reality television has also meant that a person’s ………… rather than their talent can bring fame.",
+          "options": null,
+          "answer": "appearance",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 26,
+          "text": "With this type of television programme, fame may be entirely dependent on the response of the ………… .",
+          "options": null,
+          "answer": "audience",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "HEADING_MATCHING",
+      "PERSON_MATCHING",
+      "SUMMARY_COMPLETION"
+    ],
+    "parsed_at": "2026-02-24T03:41:38.770279",
+    "parser_version": "1.0",
+    "needs_review": true,
+    "llm_structured_at": "2026-02-24T12:05:00+0800"
+  }
+}

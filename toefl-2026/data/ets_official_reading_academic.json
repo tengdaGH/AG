@@ -1,0 +1,1212 @@
+{
+  "meta": {},
+  "passages": [
+    {
+      "id": "ETS-S1-R-M1-AC",
+      "text": "Read a social media post. \nSofia Baker \nEvery Saturday, our local farmer's market is the place to be! \nFresh fruits, veggies, homemade goodies, and unique crafts \nawait you. The Thompson family's organic produce is a must-try, \nknown for its quality and cordial service. Their stall is always \nbustling with customers eager to buy fresh, pesticide-free \nvegetables from the welcoming staff. \nDon't miss the bakery stall-get there early for the best bread \nand pastries, including gluten-free and vegan options. The smell \nof freshly baked goods fills the air, and these treats sell out fast! \nIn addition to food, the market sells handmade crafts like jewelry, \npottery, and textiles. These unique items make perfect gifts and \nsupport local artisans. Plus, enjoy live music while you shop. \nTalented local musicians help create a vibrant atmosphere, and \nthe community spirit makes it a delightful experience for all. See \nyou there! \nLike \nComment",
+      "questions": [
+        {
+          "text": "13. What is the main purpose of the post?",
+          "options": [
+            "To explain the benefits of organic farming",
+            "To describe the variety of products available at the farmer’s market",
+            "To compare different farmer's markets in the area",
+            "To offer advice on starting a stall at the farmer's market"
+          ]
+        },
+        {
+          "text": "14. What reason is given for the popularity of the Thompson family's stall?",
+          "options": [
+            "They offer cooking tips and recipes.",
+            "They offer the lowest prices at the market.",
+            "They provide friendly service and excellent products.",
+            "They have a beautiful and well-decorated stall."
+          ]
+        },
+        {
+          "text": "15. Why do customers go to the bakery stall early?",
+          "options": [
+            "To get the free samples given in mornings",
+            "To get freshly baked bread and pastries before they are gone",
+            "To meet the famous baker",
+            "To take advantage of early morning discounts\nThe Mirror Test \nVery young children cannot recognize themselves in a mirror; they usually achieve this milestone \naround 18 months of age. The ability to recognize oneself in the mirror is considered to be a key \ncomponent of self-awareness and consciousness for humans. But what about animals? \nFor many years, scientists have known that members of the great ape family could recognize \nthemselves in mirrors. They measured this by the “mirror test,” which involved putting a colored mark \non an ape’s body, and then showing the ape its reflection in a mirror. If the ape tried to remove the mark \non its own body, the scientists knew that the ape was recognizing its reflection. \nApes are close relatives of humans, but in recent years, scientists have discovered that other animals \nalso pass the “mirror test.” Elephants and dolphins have shown signs of self-recognition. These, like \napes, are highly intelligent animals. But in a more recent experiment, a type of fish called the cleaner fish \ntried to scrape a mark off its body when it saw itself in the mirror. This suggests that even less intelligent \nanimals may possess more self-awareness than previously suspected."
+          ]
+        },
+        {
+          "text": "16. What is the passage mainly about?",
+          "options": [
+            "Stages of early childhood development",
+            "Research on animal cognition",
+            "Differences between apes, elephants, and dolphins",
+            "Recent experiments on fish"
+          ]
+        },
+        {
+          "text": "17. The word “milestone” in the first sentence is closest in meaning to",
+          "options": [
+            "accomplishment",
+            "distance",
+            "weight",
+            "discovery"
+          ]
+        },
+        {
+          "text": "18. Why did scientists put colored marks on animals’ bodies?",
+          "options": [
+            "It made it possible to track the animals’ movements.",
+            "It helped them determine whether the animals recognized themselves.",
+            "It made it easier to tell the animals apart.",
+            "It showed whether some animals can detect color differences."
+          ]
+        },
+        {
+          "text": "19. According to the passage, all of the following are true about elephants EXCEPT:",
+          "options": [
+            "They can recognize themselves in mirrors.",
+            "They are highly intelligent animals.",
+            "They possess qualities in common with apes.",
+            "They understand certain signs from other animals."
+          ]
+        },
+        {
+          "text": "20. Why does the author mention cleaner fish?",
+          "options": [
+            "To suggest that a wide range of animals may possess self-awareness",
+            "To imply that ocean animals are highly intelligent",
+            "To demonstrate a flaw in a recent experiment",
+            "To provide an example of an animal that does not recognize itself"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "ght",
+          "at",
+          "ple",
+          "ly",
+          "sic",
+          "ever",
+          "s",
+          "om",
+          "ord",
+          "cing",
+          "D",
+          "C",
+          "B",
+          "C",
+          "B",
+          "B",
+          "A",
+          "B",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-R-M2-AC",
+      "text": "The Paradox of Choice \nThe paradox of choice, a concept popularized by psychologist Barry Schwartz, suggests that more \noptions can lead to less satisfaction. While the freedom to choose is fundamental to consumer culture, \nan overabundance of choices—from groceries to electronics—can overwhelm individuals, causing \nanxiety and decision fatigue. This paradox implies that the vast array of possibilities available today \nmight actually diminish consumer contentment, as the fear of making the wrong choice looms large. \nResearch supports this notion. In an experiment, psychologist Sheena Iyengar found that shoppers were \nmore likely to purchase jam when offered 6 varieties instead of 24. The limited selection eased the \ndecision process, reducing the pressure to find the 'perfect' option and making the experience more \nenjoyable. This phenomenon reveals that fewer choices can sometimes make consumers happier, which \nis a valuable insight for marketers and retailers aiming to boost satisfaction by curating their offerings. \nThe paradox also has broader implications.  In individualistic cultures, where personal choice is highly \nvalued, the burden of decision-making can be significant.  Conversely, collectivist cultures, which often \nprovide fewer choices, report higher levels of contentment. This dynamic suggests that understanding \ncultural differences in consumer psychology can help businesses optimize their product strategies and \nenhance overall well-being.",
+      "questions": [
+        {
+          "text": "16. Which of the following best states a main idea of the passage?",
+          "options": [
+            "Effective marketing strategies focus on increasing product options.",
+            "Modern consumer culture is driven by a demand for fewer products.",
+            "Individualism enhances consumer contentment.",
+            "Limiting consumer choices can lead to higher satisfaction."
+          ]
+        },
+        {
+          "text": "17.What is one effect of decision fatigue as mentioned in the passage?",
+          "options": [
+            "Desire to make the same choices as other consumers",
+            "Anxiety about making the wrong choice",
+            "Preference for consumer cultures",
+            "Enhanced freedom to choose"
+          ]
+        },
+        {
+          "text": "18. Why does the author mention Sheena Iyengar’s experiment?",
+          "options": [
+            "To highlight the effectiveness of marketing strategies",
+            "To explain the methodology used in consumer psychology",
+            "To provide evidence supporting the paradox of choice",
+            "To criticize the abundance of products in modern markets"
+          ]
+        },
+        {
+          "text": "19.The word “curating” in the passage is closest in meaning to",
+          "options": [
+            "eliminating",
+            "organizing",
+            "increasing",
+            "changing"
+          ]
+        },
+        {
+          "text": "20. What can be inferred about consumers in collectivist cultures?",
+          "options": [
+            "They tend to report lower levels of satisfaction.",
+            "They are more affected by the paradox of choice.",
+            "They generally have fewer choices available.",
+            "They prefer individual decision-making."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "s",
+          "to",
+          "ions",
+          "th",
+          "les",
+          "ts",
+          "rt",
+          "lved",
+          "itive",
+          "ch",
+          "C",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "Listening Section",
+          "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+          "spoken English. There are three types of tasks.",
+          "Type of Task",
+          "Description",
+          "Listen and Choose a",
+          "Response",
+          "Select the best response to the question or statement.",
+          "Listen to a Conversation",
+          "Listen to announcements",
+          "and academic talks",
+          "talks.",
+          "You WILL NOT be able to return to previous questions."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-R-M1-AC",
+      "text": "The Impact of Sports on Social Integration \nSports can promote social integration by bridging gaps between people of various backgrounds. \nParticipation in sports can lead to increased social (begin highlight) cohesion (end highlight) and improved relationships among diverse \ngroups. \nFor example, community soccer leagues often bring together people from different ethnicities, creating \nan environment where cultural differences are celebrated and mutual respect is cultivated. However, \nthe impact of sports on social integration is not without challenges. Competitive environments can \nsometimes exacerbate social tensions, particularly when favoritism or exclusionary practices are \npresent. \nDespite these issues, many initiatives aim to use sports as a platform for social change. One such \ninitiative is the Sport for Peace program, which focuses on conflict resolution through team-building \nactivities and collaborative sports events. The role of sports in social integration extends beyond \nparticipation. Spectatorship and fandom also play significant roles in uniting people. Major international \nsports events like the Olympics or the World Cup serve as opportunities for nations to come together \nand share common goals. The visibility of athletes from diverse backgrounds during these events \nfosters a sense of global harmony. These events often highlight stories of athletes overcoming \nadversity, inspiring spectators and fostering a collective sense of achievement.",
+      "questions": [
+        {
+          "text": "16. The word \"cohesion\" in the passage is closest in meaning to",
+          "options": [
+            "diversity",
+            "awareness",
+            "unity",
+            "celebration"
+          ]
+        },
+        {
+          "text": "17. In which of the following situations can sports have an especially negative impact on social \nintegration?",
+          "options": [
+            "When people from different ethnicities are brought together",
+            "When participants are unreasonably strict about the rules of competition",
+            "When the social environment is not favorable to competition",
+            "When social tensions are heightened by favoring or excluding certain participants"
+          ]
+        },
+        {
+          "text": "18. What is the relationship between paragraphs 2 and 3?",
+          "options": [
+            "Paragraph 3 discusses ways of addressing a problem mentioned in paragraph 2.",
+            "Paragraph 3 contradicts a theory proposed in paragraph 2.",
+            "Paragraph 3 provides evidence for an idea presented in paragraph 2.",
+            "Paragraph 3 introduces a new challenge related to paragraph 2."
+          ]
+        },
+        {
+          "text": "19. What does the passage suggest about the Sport for Peace program?",
+          "options": [
+            "Its main goal is to eliminate favoritism in sports.",
+            "It primarily targets professional athletes.",
+            "It uses team-building exercises to address conflicts.",
+            "It is only effective in local communities."
+          ]
+        },
+        {
+          "text": "20. Why does the author mention major international sports events like the Olympics and the \nWorld Cup?",
+          "options": [
+            "To argue that these events have little impact on social integration",
+            "To illustrate how sports can unite people globally",
+            "To suggest that these events mainly benefit athletes",
+            "To highlight the competitive nature of these events"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "ow",
+          "tions",
+          "ces",
+          "ies",
+          "nd",
+          "ese",
+          "ides",
+          "so",
+          "pes",
+          "mation",
+          "C",
+          "C",
+          "C",
+          "A",
+          "A",
+          "C",
+          "D",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-R-M2-AC",
+      "text": "The Human Microbiome \nThe human microbiome consists of trillions of microorganisms living in and on our bodies. These include \nbacteria, viruses, fungi, and other microbes. They play a pivotal role in functions such as digestion, \nimmunity, and mood regulation. For instance, gut bacteria help break down food and produce essential \nvitamins. \nRecent studies show that the microbiome can be influenced by diet, lifestyle, and medication. \nAntibiotics, while effective against harmful bacteria, can disrupt the balance of beneficial microbes. This \ndisruption can lead to health issues like digestive problems and weakened immunity. Researchers are \nexploring the connection between the microbiome and mental health. Certain gut bacteria produce \nneurotransmitters affecting brain function. An imbalance in these bacteria may be linked to conditions \nlike depression and anxiety. \nMaintaining a healthy microbiome involves eating a varied diet rich in fiber, reducing stress, and avoiding \nunnecessary antibiotics. Bacteria that aid digestion, known as probiotics and prebiotics, are also \nbeneficial. As understanding of the microbiome grows, it may lead to breakthroughs in treating diseases \nand improving health.",
+      "questions": [
+        {
+          "text": "16. The word \"pivotal\" in the passage is closest in meaning to",
+          "options": [
+            "very important",
+            "possible",
+            "combined",
+            "unwelcome"
+          ]
+        },
+        {
+          "text": "17. What is one way antibiotics can affect humans?",
+          "options": [
+            "They enhance the production of neurotransmitters.",
+            "They can weaken immunity by harming beneficial microbes.",
+            "They can help relieve digestive problems.",
+            "They make it easier to produce essential vitamins."
+          ]
+        },
+        {
+          "text": "18. What connection are researchers exploring regarding the microbiome?",
+          "options": [
+            "The link between gut bacteria and immunity",
+            "The role of fungi in mood regulation",
+            "The role of viruses in digestion",
+            "The link between gut bacteria and mental health"
+          ]
+        },
+        {
+          "text": "19. All of the following help to maintain a healthy microbiome EXCEPT",
+          "options": [
+            "eating a varied diet rich in fiber",
+            "lowering stress levels",
+            "avoiding sources of bacteria",
+            "reducing the use of antibiotics"
+          ]
+        },
+        {
+          "text": "20. What is the relationship between paragraphs 2 and 3?",
+          "options": [
+            "Paragraph 3 challenges the ideas proposed in paragraph 2.",
+            "Paragraph 3 provides examples of the disruptions mentioned in paragraph 2.",
+            "Paragraph 3 specifies how to achieve a healthy microbiome based on the factors mentioned in \nparagraph 2.",
+            "Paragraph 3 elaborates on the benefits of antibiotics mentioned in paragraph 2."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "nicate",
+          "nds",
+          "nd",
+          "mals",
+          "own",
+          "eir",
+          "ily",
+          "ten",
+          "ch",
+          "n",
+          "B",
+          "C",
+          "B",
+          "A",
+          "C",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "Listening Section",
+          "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+          "spoken English. There are three types of tasks.",
+          "Type of Task",
+          "Description",
+          "Listen and Choose a Response",
+          "Select the best response to the question or",
+          "statement.",
+          "Conversations",
+          "Listen to announcements and",
+          "academic talks.",
+          "academic talks.",
+          "You WILL NOT be able to return to previous questions."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-R-M1-AC",
+      "text": "The Effects of Urbanization on Bird Populations \nUrbanization has had a profound impact on bird populations worldwide. As cities expand, natural habitats \nare replaced with buildings, roads, and other infrastructure. This leads to a significant reduction in the \navailability of nesting sites and food sources for birds. \nSome species, such as pigeons and sparrows, have adapted well to urban environments, taking advantage \nof the new resources and structures. However, many other species struggle to survive in these altered \nlandscapes. Therefore, it is imperative to find solutions that help birds adapt to city life. One notable effect \nof urbanization is the change in bird song. Birds living in cities often sing at higher pitches and volumes \nthan their rural counterparts. This adaptation helps them communicate over the noise of traffic and \nhuman activity. Additionally, the artificial lighting in cities can disrupt the natural circadian (daily \ntime-related) rhythms of birds, affecting their breeding and feeding behaviors. \nConservationists are working to mitigate the negative effects of urbanization on birds. Initiatives such as \ncreating urban green spaces, constructing bird-friendly buildings, and reducing light pollution are being \nimplemented. These efforts aim to create a more hospitable environment for birds, allowing them to \ncoexist with humans in urban settings.",
+      "questions": [
+        {
+          "text": "16.The word “mitigate” in the passage is closest in meaning to",
+          "options": [
+            "understand",
+            "analyze",
+            "communicate",
+            "reduce"
+          ]
+        },
+        {
+          "text": "17.Which of the following is NOT mentioned as an effect of urbanization on birds in the passage?",
+          "options": [
+            "Reduced availability of nesting sites",
+            "Changes in bird song",
+            "Increased food sources",
+            "Disrupted circadian rhythms"
+          ]
+        },
+        {
+          "text": "18. Why does the author mention pigeons and sparrows?",
+          "options": [
+            "To identify birds that struggle to survive in urban environments",
+            "To give examples of birds that have adjusted to living in urban settings",
+            "To highlight the diversity of urban bird species",
+            "To suggest that all birds can adapt to cities"
+          ]
+        },
+        {
+          "text": "19. What is one initiative mentioned in the passage to help birds in urban areas?",
+          "options": [
+            "Introducing new bird species to urban areas",
+            "Providing human-made food sources to birds",
+            "Creating urban green spaces",
+            "Decreasing the amount of noise made by traffic"
+          ]
+        },
+        {
+          "text": "20. What can be inferred about the impact artificial lighting in cities has on birds?",
+          "options": [
+            "It disrupts the natural behaviors of birds.",
+            "It allows birds to find food at night.",
+            "It helps birds to adapt to urban environments.",
+            "It increases the population of urban birds."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "ey",
+          "ticated",
+          "tures",
+          "uages",
+          "nced",
+          "ich",
+          "em",
+          "ive",
+          "blish",
+          "ade",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-R-M2-AC",
+      "text": "The History of Photography \nThe history of photography is marked by significant technological progress and artistic innovation. It began \nin the early nineteenth century with the invention of the camera obscura, a device that projected images \nonto a surface. The first permanent photograph was created byJoseph-Nicéphore Niépce in 1826 using a \nprocess called heliography, which required several hours of exposure to light. Photography quickly evolved \nwith the development of daguerreotypes, introduced by Louis Daguerre in 1839. This method produced \ndetailed images on silver-plated copper, but daguerreotypes needed delicate handling, and the exposure \ntimes required, although much shorter, still remained impractical for recording images of moving objects. \nThe invention of the calotype by William Henry Fox Talbot in the 1840s allowed for multiple copies of an \nimage to be made from a single negative, revolutionizing the field. (A) In the late nineteenth and early \ntwentieth centuries, the introduction of film and roll cameras made photography more accessible to the \npublic. (B) George Eastman’s establishment of the Kodak company in 1888 played a crucial role in this \ndemocratization, as his cameras were simple to use and affordable. (C) Today, digital photography has \nfurther transformed the medium, allowing instant image capture and sharing. (D)",
+      "questions": [
+        {
+          "text": "16.The word “innovation” in the passage is closest in meaning to",
+          "options": [
+            "success",
+            "advancement",
+            "activity",
+            "expression"
+          ]
+        },
+        {
+          "text": "17. What is suggested about daguerreotypes?",
+          "options": [
+            "They were introduced byJoseph-Nicéphore Niépce.",
+            "They allowed for multiple copies of an image.",
+            "They required shorter exposure times than heliographs did.",
+            "They made it unnecessary to use silver-plated copper."
+          ]
+        },
+        {
+          "text": "18. How did the calotype revolutionize photography?",
+          "options": [
+            "By enabling instant image capture",
+            "By reducing the need for delicate handling",
+            "By providing detailed images on silver-plated copper",
+            "By allowing multiple copies from a single negative"
+          ]
+        },
+        {
+          "text": "19. Why does the author mention George Eastman’s establishment of the Kodak company?",
+          "options": [
+            "To highlight the role of Kodak in making photography accessible to the public",
+            "To criticize the challenges of early photographic methods",
+            "To explain how film was invented",
+            "To suggest that Kodak introduced digital photography"
+          ]
+        },
+        {
+          "text": "20. There are four locations (A, B, C, and D) in the passage that indicate where the following \nsentence could be added.  \n \nThese developments have rendered the use of film and many types of cameras obsolete. \n \nWhere would the sentence best fit? Select a location where the sentence could be added to the \npassage.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "en",
+          "ok",
+          "ror",
+          "self",
+          "ibit",
+          "ich",
+          "ot",
+          "o",
+          "ut",
+          "so",
+          "B",
+          "B",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "Listening Section",
+          "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+          "spoken English. There are three types of tasks.",
+          "Type of Task",
+          "Description",
+          "Listen and Choose a",
+          "Response",
+          "Select the best response to the question or statement.",
+          "Conversations",
+          "Listen to announcements",
+          "and academic talks.",
+          "talks.",
+          "You WILL NOT be able to return to previous questions."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-R-M1-AC",
+      "text": "Aqueducts \n \nAqueducts were designed to transport water from distant sources into cities and agricultural areas, and \nthey were crucial engineering feats in ancient civilizations. This engineering marvel allowed civilizations to \nthrive in otherwise inhospitable environments. \n \nThe Romans, in particular, mastered the construction of aqueducts, building extensive networks that \nsupplied water to urban centers. These structures used a combination of gravity and (begin highlight) meticulously (end highlight) \ncalculated gradients to ensure a steady flow of water. Some Roman aqueducts, like the Pont du Gard in \nFrance, are still standing today, showcasing the Romans’ remarkable engineering skills. In addition to \nproviding water for drinking and irrigation, aqueducts were integral to public health and sanitation. They \nsupplied water to public baths, helping to maintain hygiene in densely populated urban areas. The \navailability of fresh water also supported the growth of cities and the expansion of the Roman Empire. \n \nBuilding aqueducts was a complex and labor-intensive process. Workers had to carve channels through \nmountains and construct bridges over valleys. Despite these challenges, the benefits of aqueducts far \noutweighed the difficulties. The legacy of Roman aqueducts continues to influence modern water \nmanagement systems, highlighting the importance of sustainable engineering practices.",
+      "questions": [
+        {
+          "text": "16. The word “meticulously” in the passage is closest in meaning to",
+          "options": [
+            "inaccurately",
+            "precisely",
+            "vaguely",
+            "carelessly"
+          ]
+        },
+        {
+          "text": "17. What can be inferred about the workers who built the aqueducts?",
+          "options": [
+            "They were not very skilled.",
+            "They faced significant physical challenges.",
+            "They primarily worked on bridges.",
+            "They were not aware of the aqueducts' importance."
+          ]
+        },
+        {
+          "text": "18. Why does the author mention the Pont du Gard in France?",
+          "options": [
+            "To illustrate how aqueducts were constructed",
+            "To give an example of a well-preserved aqueduct",
+            "To explain the importance of aqueducts in France",
+            "To describe the engineering techniques used by the Romans"
+          ]
+        },
+        {
+          "text": "19. What role did aqueducts play in the expansion of the Roman Empire?",
+          "options": [
+            "They facilitated the transportation of goods.",
+            "They provided water for drinking and sanitation.",
+            "They helped in building bridges over valleys.",
+            "They enabled the construction of public baths."
+          ]
+        },
+        {
+          "text": "20. What can be inferred about modern water management systems?",
+          "options": [
+            "They no longer use principles from Roman engineering.",
+            "They are less efficient than Roman aqueducts.",
+            "They are influenced by Roman engineering practices.",
+            "They are not as labor-intensive as Roman aqueducts."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "ment",
+          "und",
+          "nd",
+          "ects",
+          "ires",
+          "oration",
+          "ny",
+          "ple",
+          "ctors",
+          "ve",
+          "C",
+          "B",
+          "B",
+          "D",
+          "C",
+          "B",
+          "B",
+          "B",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-R-M2-AC",
+      "text": "Read a text chain. \n \n**Larissa Velez (10:00 A.M.)** Hey team, just a reminder that the marketing materials for our client’s new-\nproduct launch need to be finalized by tomorrow.  \n \n**Miko Tanaka (10:05 A.M.)** Got it. I’ll finish the brochure design today.  \n \n**Pedro Alvarez (10:10 A.M.)** I’m working on the social media posts. They’ll be ready by the end of the \nday. I think we should generate some real excitement for Grenstar’s new smart-tracking water bottle. \n \n**Sophia Nguyen (10:15 A.M.)** I’ll review the content when Miko and Pedro have finished and make any \nadjustments.  \n \n**Larissa Velez (10:20 A.M.)** Perfect. Make sure to double-check the dates and contact information. We \nknow what happened last time. \n \n**Sophia Nguyen (10:21 A.M.) Oh, yes, the client was not pleased. I am glad we started this double-\nchecking process. I will be sure to check the dates extra carefully. \n \n**Larissa Velez (10:22 A.M.) Great, team! Here’s to a smoother launch of the water bottle than of the \nsmart sportswear line!",
+      "questions": [
+        {
+          "text": "13. At 10:20 A.M., what does Ms. Velez imply when she writes, \"We know what happened last time\"?",
+          "options": [
+            "A client was especially pleased with a marketing campaign.",
+            "Some errors were made regarding a previous product launch.",
+            "A brochure was never sent out.",
+            "A marketing team did not complete a project in time."
+          ]
+        },
+        {
+          "text": "14. What product is being launched?",
+          "options": [
+            "A type of water bottle",
+            "A line of sportswear",
+            "A type of smartphone",
+            "A type of software"
+          ]
+        },
+        {
+          "text": "15. What does Mr. Alvarez indicate?",
+          "options": [
+            "He will double-check the content of a brochure.",
+            "He is the main point of contact for a client.",
+            "He helped design a new product.",
+            "He will complete some postings by the end of the day.\nSleep Patterns \n \nSleep patterns vary (begin highlight) considerably (end highlight) among different animal species. Some animals, like dolphins, have \nunique sleep methods. Dolphins practice unihemispheric slow-wave sleep, meaning one half of their brain \nsleeps while the other remains awake. This adaptation allows them to surface for air and stay alert for \npredators even while resting. \n \nBirds also display interesting sleep behaviors. Many bird species can sleep while flying.  (A) During long \nmigratory flights, some birds may engage in unihemispheric sleep, similar to dolphins, enabling them to \nnavigate and avoid threats. (B) Additionally, certain birds can sleep with both hemispheres of their brain \nbut in short bursts, allowing them to maintain continuous flight for extended periods.",
+            "Sleep patterns have evolved based on environmental needs. For example, grazing animals like cows \nand horses sleep minimally, often standing up, which helps them stay vigilant against predators. (D) In \ncontrast, predators such as lions and tigers can afford longer, deeper sleep because they face fewer \nthreats. Understanding these varied sleep patterns provides insight into how animals have adapted to \ntheir habitats and survival challenges. The balance between rest and vigilance is crucial for survival, \nrevealing the intricate adaptations across the animal kingdom."
+          ]
+        },
+        {
+          "text": "16. The word “considerably” in the first paragraph is closest in meaning to",
+          "options": [
+            "actively",
+            "significantly",
+            "predictably",
+            "consistently"
+          ]
+        },
+        {
+          "text": "17. According to the second paragraph, how do some birds sleep during migratory flights?",
+          "options": [
+            "By flying in short bursts",
+            "By practicing unihemispheric sleep",
+            "By stopping regularly during flights",
+            "By sleeping deeply for long periods"
+          ]
+        },
+        {
+          "text": "18. Why do grazing animals like cows and horses sleep minimally?",
+          "options": [
+            "To conserve energy",
+            "To maintain continuous flight",
+            "To stay alert against predators",
+            "To surface for air"
+          ]
+        },
+        {
+          "text": "19. Why does the author mention “predators such as lions and tigers”?",
+          "options": [
+            "To illustrate how predators can afford longer sleep due to fewer threats",
+            "To highlight the sleep patterns of grazing animals",
+            "To emphasize the time it takes for certain animals to adapt their sleep patterns",
+            "To show that sleep patterns of predators can vary over time"
+          ]
+        },
+        {
+          "text": "20. There are four locations (A, B, C, and D) in the passage that indicate where the following \nsentence could be added.  \n \nBut what affects birds’ sleep norms? \n \nWhere would the sentence best fit? Select a location where the sentence could be \nadded to the passage.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "ow",
+          "f",
+          "n",
+          "mes",
+          "nd",
+          "ve",
+          "aces",
+          "ay",
+          "ans",
+          "ering",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "B",
+          "C",
+          "A",
+          "C",
+          "Listening Section",
+          "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+          "spoken English. There are three types of tasks.",
+          "Type of Task",
+          "Description",
+          "Listen and Choose a",
+          "Response",
+          "Select the best response to the question or statement.",
+          "Conversations",
+          "Listen to announcements",
+          "and academic talks.",
+          "talks.",
+          "You WILL NOT be able to return to previous questions."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-R-M1-AC",
+      "text": "Welcome to the Library Quiet Zone!\nReading Section, Module 1\n \n \nThe jet stream is a fast-moving ribbon of air high in the atmosphere that affects global \nweather. Flowing west to east at speeds of up to 200 miles per hour, it forms due to the \ntemperature contrast between cold polar air and warm tropical air, which creates \npressure differences that generate strong winds. In the northern hemisphere, when the \njet stream dips southward, it brings cold air and storms to lower latitudes. \n \nThe jet stream also influences cyclones and anticyclones, affecting precipitation and \nwind patterns. The jet stream's dynamics are influenced by factors like the Earth's \nrotation and uneven heating of its surface. Seasonal changes play a role; it’s stronger in \nwinter due to the greater temperature contrast between the poles and the equator. \nUnderstanding the jet stream's behavior helps meteorologists predict weather and plan \nfor climate events. \n \nRecent research shows that climate change is impacting the jet stream. The warming \nArctic reduces the temperature difference between polar and tropical air masses, which \nmay weaken the jet stream. A weaker jet stream can lead to slower-moving weather \nsystems, resulting in prolonged periods of extreme weather, such as heatwaves or heavy \nrainfall.",
+      "questions": [
+        {
+          "text": "16.  What causes the formation of the jet stream?",
+          "options": [
+            "The behavior of cyclones",
+            "The uneven heating of the Earth's surface",
+            "The difference in temperature between air masses",
+            "The temperature changes that occur seasonally"
+          ]
+        },
+        {
+          "text": "17.  How does the jet stream affect weather systems in the northern \nhemisphere when it dips southward?",
+          "options": [
+            "It brings warmer air to lower latitudes.",
+            "It leads to more stable conditions.",
+            "It brings storms to places further south.",
+            "It brings cyclones to higher latitudes."
+          ]
+        },
+        {
+          "text": "18.  What is one of the main factors influencing the jet stream’s behavior?",
+          "options": [
+            "The Earth's rotation",
+            "The presence of cyclones",
+            "The amount of precipitation",
+            "The direction of wind patterns \n \nJet Stream Dynamics\nReading Section, Module 1"
+          ]
+        },
+        {
+          "text": "19.   What does the author suggest about the impact of climate change on the \njet stream?",
+          "options": [
+            "It will have no significant effect on the jet stream.",
+            "It is reducing the temperature difference between polar and tropical air masses.",
+            "It is causing the jet stream to move faster.",
+            "It is increasing the temperature contrast between the poles and the equator."
+          ]
+        },
+        {
+          "text": "20.   The word “prolonged” in the passage is closest in meaning to",
+          "options": [
+            "extended",
+            "seasonal",
+            "rapid",
+            "short-term"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "ve",
+          "cies",
+          "ting",
+          "ere",
+          "an",
+          "ely",
+          "so",
+          "he",
+          "out",
+          "tance",
+          "C",
+          "D",
+          "A",
+          "C",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-R-M2-AC",
+      "text": "Riverdale Parks Department seeks dedicated volunteers to assist \nwith weekendnature programs for families.\nReading Section, Module 2\n \n \nThe Golden Age of Television is often considered to have occurred during the 1950s and \n1960s, when TV became a dominant cultural force. This era was marked by \ngroundbreaking shows that experimented with new formats and storytelling \ntechniques. \n \nDuring this time period, TV saw the rise of anthology series, which presented different \nstories and characters in each episode, in contrast to traditional ongoing narratives. One \ninfluential anthology series was The Twilight Zone, which blended science fiction, horror, \nand drama in thought-provoking ways. Sitcoms reflecting everyday life, like I Love Lucy, \nbecame a cultural phenomenon. Despite its simple format, the show tackled complex \nsocial issues including gender roles and family dynamics. There was also a new focus on \nlive broadcasts, providing viewers with real-time coverage of events and entertainers. \n \nHowever, the Golden Age was not without challenges. TV networks navigated the \nbalance between artistic innovation and commercial pressures. Advertisers sought to \ninfluence content to appeal to mass audiences, which sometimes clashed with creative \nvisions. Nonetheless, the period left an indelible mark on the television industry, setting \nstandards for future programming and contributing to the medium's evolution.",
+      "questions": [
+        {
+          "text": "16.  The word “dominant” in the passage is closest in meaning to",
+          "options": [
+            "relevant",
+            "favorite",
+            "leading",
+            "entertaining"
+          ]
+        },
+        {
+          "text": "17.  Why does the author mention The Twilight Zone?",
+          "options": [
+            "To illustrate the popularity of science fiction during the Golden Age",
+            "To highlight the innovative nature of anthology series",
+            "To discuss the impact of horror on television",
+            "To compare different types of TV formats"
+          ]
+        },
+        {
+          "text": "18.  What does the author suggest about sitcoms like I Love Lucy?",
+          "options": [
+            "They made TV less popular during the Golden Age",
+            "They focused on people's daily lives.",
+            "They reduced the influence of advertisers",
+            "They were more popular than anthology series \n \nThe Golden Age of Television"
+          ]
+        },
+        {
+          "text": "19.  What is the relationship between paragraphs 2 and 3?",
+          "options": [
+            "Paragraph 3 expands on the challenges mentioned in paragraph 2.",
+            "Paragraph 3 provides examples of the formats discussed in paragraph 2.",
+            "Paragraph 3 introduces a new issue that was not covered in paragraph 2.",
+            "Paragraph 3 contradicts the success of TV shows mentioned in paragraph 2."
+          ]
+        },
+        {
+          "text": "20.  Why does the author mention advertisers in the passage?",
+          "options": [
+            "To explain a challenge faced by TV networks",
+            "To point out how TV shows were funded at the time",
+            "To illustrate the role of commercials during live broadcasts",
+            "To criticize the quality of programming during the Golden Age \nReading Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "ines",
+          "f",
+          "esses",
+          "iduals",
+          "he",
+          "ying",
+          "s",
+          "st",
+          "ose",
+          "ire",
+          "B",
+          "C",
+          "C",
+          "B",
+          "A",
+          "A",
+          "C",
+          "B",
+          "B",
+          "C",
+          "Listening Section",
+          "In the listening section, you will answer 30–40 questions to demonstrate how well you",
+          "understand spoken English. There are three types of tasks.",
+          "You WILL NOT be able to return to previous questions.",
+          "Type of Task",
+          "Listen and Choose a",
+          "Response",
+          "Select the best response to the question",
+          "or statement.",
+          "academic talks.",
+          "Conversations",
+          "Announcements and",
+          "Academic Talks",
+          "Description"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-R-M1-AC",
+      "text": "LIBRARY COMPUTER RESERVATION SYSTEM\nReading Section, Module 1\n \n \nAncient Egyptian medicine was advanced for its time and laid the foundation for many \nmodern practices. Egyptians believed the body was a system of channels similar to the \nNile River. Illness was thought to be caused by blockages in these channels, like a \nblocked canal causing flooding. Treatments focused on unblocking channels using \nherbal remedies and physical interventions. One significant contribution of Egyptian \nmedicine was surgical techniques. Ancient texts describe procedures like the removal of \ntumors and the setting of broken bones. They also record practices like cleaning wounds \nand disinfecting medical instruments. This suggests that Egyptian doctors understood \nthe connection between cleanliness and preventing infections, a concept widely \naccepted only much later in history. In addition to surgery, Egyptians were skilled in \npharmacology. They used substances like honey and willow bark to treat ailments. \nModern science has validated some ancient remedies; for example, willow bark contains \nsalicin, a precursor to aspirin, with pain-relieving properties. While Egyptians \ndemonstrated an impressive body of knowledge, Egyptian medicine was also \nintertwined with religion. Many treatments involved prayers and rituals to invoke the \nfavor of the gods. This blend of empirical practice and spiritual belief shows the \ncomplexity of ancient Egyptian medicine.",
+      "questions": [
+        {
+          "text": "16.  The author mentions “a blocked canal causing flooding” to explain",
+          "options": [
+            "the importance of the Nile River for Egyptian culture",
+            "the ancient Egyptians’ idea of why humans became sick",
+            "the wide variety of illnesses common in ancient Egypt",
+            "the connection between agriculture and medicine"
+          ]
+        },
+        {
+          "text": "17.  The passage suggests that which of the following was a surprising achievement \nof ancient Egyptian medicine?",
+          "options": [
+            "Its procedures improved greatly over time.",
+            "It understood the importance of cleanliness in preventing infections.",
+            "Its use of Nile River water was often successful.",
+            "Its understanding of the cause of illnesses was largely accurate."
+          ]
+        },
+        {
+          "text": "18.  Why does the author discuss the use of willow bark?",
+          "options": [
+            "To suggest that some ancient remedies could be harmful",
+            "To explain the invention of aspirin",
+            "To highlight the variety of natural remedies available in Egypt",
+            "To show that some ancient Egyptian remedies were effective  \n \nAncient Egyptian Medicine\nReading Section, Module 1"
+          ]
+        },
+        {
+          "text": "19.   The word “invoke” in the passage is closest in meaning to",
+          "options": [
+            "request",
+            "understand",
+            "increase",
+            "express"
+          ]
+        },
+        {
+          "text": "20.   What role did religion play in ancient Egyptian medicine?",
+          "options": [
+            "Doctors were trained by religious authorities.",
+            "Religious beliefs limited the kinds of medicine that could be used.",
+            "Prayers and rituals were often a part of medical treatment.",
+            "Doctors were thought to have special connections to the gods."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "s",
+          "ence",
+          "ines",
+          "nd",
+          "tigate",
+          "tion",
+          "nicate",
+          "he",
+          "nisms",
+          "tain",
+          "B",
+          "C",
+          "C",
+          "B",
+          "C",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-R-M2-AC",
+      "text": "Effective Communication in the Modern Workplace\nReading Section, Module 2\n \n \nEuropean theater has ancient roots, evolving from the rituals and storytelling of early \nsocieties. The earliest performances took place in ancient Greece, where festivals \nhonoring the god Dionysus included dramatic contests. These performances were \nessential to communal life and aimed to convey moral lessons. The Greeks developed \ndistinct genres: tragedy and comedy. Tragedies by Aeschylus and others explored \nthemes of fate, justice, and suffering. Comedies, like those by Aristophanes, satirized \nsociety and politics. The structure of Greek theater, with its chorus and masks, had a \nlasting impact on later cultures. \n \nThe tradition of theater continued in the ancient Roman Empire, where it became \npopular entertainment.  [A] Roman theater borrowed from Greek precedents but \nintroduced new elements like elaborate stage designs including, for example, statues \nof heroes or portraits of the imperial family.   [B] These added layers of meaning and \ncontext to the plays and helped to convey the themes and narratives more effectively. \nDespite its rich history, theater faced decline during the Middle Ages in Europe (the \nperiod between 500 and 1500 C.E.).  [C] However, it saw a resurgence during the \nfollowing Renaissance period, leading to the flourishing of theater that laid the \ngroundwork for modern theater. [D]",
+      "questions": [
+        {
+          "text": "16.  A goal of the earliest theater performances in ancient Greece was to",
+          "options": [
+            "tell stories about the ancient societies that Greece evolved from",
+            "honor important people in the community",
+            "bring people from different groups together",
+            "provide guidance on good and bad behavior"
+          ]
+        },
+        {
+          "text": "17.  How did the plays of Aristophanes compare to those of Aeschylus?",
+          "options": [
+            "They were in a different genre.",
+            "They were more focused on fate, justice, and suffering.",
+            "They were more popular among politicians and other important members of society.",
+            "They had a greater impact on later cultures."
+          ]
+        },
+        {
+          "text": "18.  What was one effect of the elaborate stage designs of Roman theater?",
+          "options": [
+            "They added Greek elements to plays.",
+            "They directed attention to the plays' creators.",
+            "They increased the popularity of plays among members of the imperial family.",
+            "They improved the communication of the plays' themes and narratives to viewers. \n \nThe Origins of Theater"
+          ]
+        },
+        {
+          "text": "19.  The word \"resurgence\" in the passage is closest in meaning to",
+          "options": [
+            "change",
+            "debate",
+            "history",
+            "comeback"
+          ]
+        },
+        {
+          "text": "20.  There are four locations in the passage that indicate where the following \nsentence could be added: Few performances occurred around this time.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D \nReading Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "passes",
+          "ities",
+          "ory",
+          "nd",
+          "reas",
+          "lves",
+          "ctive",
+          "f",
+          "are",
+          "se",
+          "A",
+          "B",
+          "B",
+          "A",
+          "C",
+          "C",
+          "D",
+          "A",
+          "D",
+          "D",
+          "Listening Section",
+          "In the listening section, you will answer up to 47 questions to demonstrate how well you",
+          "understand spoken English. There are three types of tasks.",
+          "You WILL NOT be able to return to previous questions.",
+          "Type of Task",
+          "Listen and Choose a",
+          "Response",
+          "Select the best response to the question",
+          "or statement.",
+          "academic talks.",
+          "Conversations",
+          "Announcements and",
+          "Academic Talks",
+          "Description"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-R-M1-AC",
+      "text": "Admission is free.\nCome join us at the\nSummer Book Festival!\n \nDate: July 18\nTime: 10:00 A.M. – 4:00 P.M.\nLocation: Town Square\nReading Section, Module 1\n \n \nThe Vikings, seafaring warriors from Scandinavia, are believed to have navigated their \nships with remarkable precision across the North Atlantic during the medieval period \n(about 500-1500 C.E.). [A] One key to their navigational success may have been the use \nof so-called “sunstones,” as described in Icelandic sagas (medieval Icelandic texts). Some \nargue the sagas’ content is mythical, while others suggest these stones were real tools \nused by the Vikings, probably crystals, such as Iceland spar. Iceland spar is a transparent \nvariety of calcite that possesses unique optical properties. [B] It polarizes light by \nsplitting light into two beams, creating a double image when the stone is held up to the \nsky. By rotating the crystal, the Vikings could determine the location of the sun in the sky \non cloudy days, which would help them maintain their course. [C] However, evidence of \nactual sunstone use remains scarce. Archaeologists have yet to uncover these stones in \nthe remains of Viking settlements or ships. But an Iceland spar sunstone was recovered \nfrom a ship that sank in 1592, suggesting that this navigational tool was indeed used for \nquite some time. [D] The theoretical use of sunstones remains a fascinating example of \nViking ingenuity.",
+      "questions": [
+        {
+          "text": "16.  Why does debate continue about the sunstones mentioned in Icelandic sagas?",
+          "options": [
+            "The sagas describe other uses for sunstones.",
+            "Archaeologists have not found any such stones when examining Viking sites.",
+            "Research indicates that sunstones are not actually an effective navigation tool.",
+            "Researchers suspect that sunstones were not easy to obtain in the medieval period."
+          ]
+        },
+        {
+          "text": "17.  In what way was Iceland spar useful to Vikings?",
+          "options": [
+            "It helped them predict when clouds would disappear.",
+            "It was used as a tool to help maintain ships.",
+            "It helped them figure out where the sun was when it could not be seen.",
+            "It was used to improve seafarers’ vision."
+          ]
+        },
+        {
+          "text": "18.  Why does the author mention a ship that sank in 1592 ?",
+          "options": [
+            "To explain how Elizabethans refined a technology invented by Vikings",
+            "To support the theory that Vikings used Iceland spar for navigation",
+            "To give an example of a more modern navigational tool",
+            "To provide information about archaeological methods"
+          ]
+        },
+        {
+          "text": "19.  The word “ingenuity” in the passage is closest in meaning to",
+          "options": [
+            "education",
+            "cleverness",
+            "luck",
+            "fame \nMysterious Viking Sunstones\nReading Section, Module 1"
+          ]
+        },
+        {
+          "text": "20.  There are four locations in the passage that indicate where the following \nsentence could be added: This is all the more remarkable considering the lack of \ntechnology at the time.\n\nWhere would the sentence best fit?",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "he",
+          "passes",
+          "nge",
+          "stic",
+          "nical",
+          "om",
+          "nd",
+          "o",
+          "logical",
+          "ch",
+          "A",
+          "D",
+          "B",
+          "C",
+          "A",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-R-M2-AC",
+      "text": "BRUCKVILLE\n(May 16)\nReading Section, Module 2\n \n \nDuring the European Renaissance (the period between the fourteenth and the \nseventeenth centuries), artists developed techniques that made their paintings appear \nmore realistic. One technique, linear perspective, allowed the accurate depiction of \nthree-dimensional space on a flat surface. Artists created the illusion of depth by using \nvanishing points on horizon lines, which are points in the background where parallel lines \nconverge. Objects were depicted as increasingly smaller as they neared these points to \nappear farther from the viewer. This marked a significant departure from the flat, two-\ndimensional representations common in earlier European art. \n \nAnother innovation was chiaroscuro, the use of strong contrasts between light and dark \nto give the impression of volume. The Italian artist Leonardo da Vinci used this technique \nin such works as the Mona Lisa and The Virgin of the Rocks. In the latter, the illuminated \nmain figures contrast with the deep brown shadows of the rocks and trees in the \nbackground. The technique added drama and emotional intensity, captivating viewers \nand drawing them into the scene. Additionally, oil painting became popular during the \nRenaissance. Because oil paints dry more slowly than tempera paints, artists could use \nblending and layering to create more texture and richer colors.",
+      "questions": [
+        {
+          "text": "16.  What were artists able to achieve by using linear perspective?",
+          "options": [
+            "Paintings that appeared to have depth",
+            "Paintings that could depict a wide variety of objects",
+            "The creation of more uniform representations",
+            "The creation of smaller artworks"
+          ]
+        },
+        {
+          "text": "17.  The word “departure” in the passage is closest in meaning to",
+          "options": [
+            "practice",
+            "change",
+            "work",
+            "choice"
+          ]
+        },
+        {
+          "text": "18.  Why does the author discuss Leonardo da Vinci’s The Virgin of the Rocks?",
+          "options": [
+            "To explain why much of Leonardo’s art was so dark",
+            "To indicate that Leonardo often painted rocks and trees",
+            "To illustrate Leonardo’s use of chiaroscuro",
+            "To show how Leonardo’s style changed after he painted the Mona Lisa"
+          ]
+        },
+        {
+          "text": "19.  What does the author suggest about the impact of chiaroscuro?",
+          "options": [
+            "It made paintings more engaging to viewers.",
+            "It allowed artists to depict nighttime landscapes.",
+            "It reduced the need for linear perspective.",
+            "It led to the development of more colors. \nRenaissance Art Techniques"
+          ]
+        },
+        {
+          "text": "20.  What was one benefit of oil paints over tempera paints?",
+          "options": [
+            "They were easier to make.",
+            "They could be applied in layers.",
+            "They were available in more realistic colors.",
+            "They could be easily removed if necessary. \nReading Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "tigate",
+          "sition",
+          "ation",
+          "cks",
+          "rals",
+          "over",
+          "esses",
+          "ve",
+          "he",
+          "er",
+          "A",
+          "C",
+          "D",
+          "B",
+          "C",
+          "B",
+          "A",
+          "B",
+          "C",
+          "A",
+          "Listening Section",
+          "In the listening section, you will answer up to 47 questions to demonstrate how well you",
+          "understand spoken English. There are three types of tasks.",
+          "You WILL NOT be able to return to previous questions.",
+          "Type of Task",
+          "Listen and Choose a",
+          "Response",
+          "Select the best response to the question or",
+          "statement.",
+          "academic talks.",
+          "Conversations",
+          "Listen to Announcements",
+          "and Academic Talks",
+          "Description"
+        ]
+      }
+    }
+  ]
+}

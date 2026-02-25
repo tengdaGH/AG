@@ -1,0 +1,808 @@
+{
+  "Limiting Teaching of Fictional Texts": {
+    "topic": "Literature Education in Schools",
+    "professor_prompt": "Should schools provide students with the opportunity of learning literature and analyzing fictional texts, or should they focus solely on scientific and practical subjects?",
+    "student_1_name": "Claire",
+    "student_1_response": "In my point of view, I believe that the school should also provide students with the opportunity of learning literature and analyzing fictional texts. First, it is true that students who have chosen scientific fields of study could easily find their ideal occupations in the future, but studying literature would also enable students to find a wide range of jobs. For example, literature majors could choose to become editors or writers in the publishers; they could also choose to become reporters because they are more skillful in delivering messages of ideas orally; they could also become teachers and impart knowledge to other students. Therefore, studying literature would also help students find suitable jobs in the future. Besides, learning fictional texts would enable students to develop a good reading habit, increasing their interest in terms of reading books.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Limiting Teaching of Fictional Texts",
+    "original_image_file": "2023_08_07_11_05.JPG"
+  },
+  "Requiring Volunteer Work for Graduation": {
+    "folder_name": "Requiring Volunteer Work for Graduation",
+    "error": "OCR failed or empty content"
+  },
+  "Businesspeople Should Learn Sales Techniques Or Management Skills？": {
+    "topic": "Business Skills: Sales vs Management",
+    "professor_prompt": "Let's discuss the skills most needed by people who want to start and run their own business. Some experts propose that future businesspeople should focus on improving their sales techniques —after all, if you cannot sell your product, you will soon be out of business. Others believe that these future businesspeople would benefit most from learning management skills, such as how to lead teams and motivate employees. Which view do you agree with? Why?",
+    "student_1_name": "Andrew",
+    "student_1_response": "I think that management skills are most important. Sales tasks are something that a businessperson can delegate to a team of salespeople once the business gets going, so it is really important that the future businessperson develops skills to manage teams of people. Without that, it is not very likely that the business will grow.",
+    "student_2_name": "Kelly",
+    "student_2_response": "Learning how to sell your product is the most essential task. I've read about people who had ideas about exciting new products to build a business around. They borrowed capital and started their business, but they could not explain to the public what made the products exciting. Since they could not sell enough products, their business failed.",
+    "folder_name": "Businesspeople Should Learn Sales Techniques Or Management Skills？",
+    "original_image_file": "Businesspeople Should Learn Sales Techniques Or Management Skills？.png"
+  },
+  "Children's Caring for Pets": {
+    "topic": "Children and Pet Care Benefits",
+    "professor_prompt": "Keeping and caring for pet animals (for example, cats, dogs, and birds) is a human behavior we see in most cultures. Often it is children who ask to keep and care for a pet of their own, or who share the responsibility of caring for a pet with other family members. In your opinion, do children gain important benefits from caring for a pet animal? Why or why not?",
+    "student_1_name": "Kelly",
+    "student_1_response": "I can think of one clear benefit. When you read interviews with famous scientists, especially biologists, you learn that their interest in science was often awakened because they had a pet animal or animals as children. Playing with the animals and observing them led those people to develop an interest in natural science.",
+    "student_2_name": "Andrew",
+    "student_2_response": "I think there often isn't any real benefit. What typically happens, unfortunately, is that parents get a pet animal for their child because the child likes animals in books or films. But when they have to take care of a real animal, those children lose interest, and it's the parents who end up taking care of it.",
+    "folder_name": "Children's Caring for Pets",
+    "original_image_file": "Children Gain Benefits from Caring for A Pet Animal？.png"
+  },
+  "Requiring First-year Students to Take A Course on Good Study Habits": {
+    "folder_name": "Requiring First-year Students to Take A Course on Good Study Habits",
+    "error": "OCR failed or empty content"
+  },
+  "The Best Way to Make New Friends": {
+    "topic": "Friendship and Making New Friends",
+    "professor_prompt": "In our class this week, we are going to talk about the importance of friendship to each individual. As we all know, humans are social creatures. Making new friends can be difficult in certain circumstances, but there are many successful ways to make friends, of course. What do you think is the best way to make new friends and why do you think so?",
+    "student_1_name": "Andrew",
+    "student_1_response": "Volunteering is a good way to make new friends. Recently our city's Beautification Committee asked for volunteers to plant flowers around the downtown square, to make it more appealing for residents and visitors. I joined a dozen others in that activity. While we worked, we had the opportunity to talk and get to know each other.",
+    "student_2_name": "Claire",
+    "student_2_response": "I have made a few good friends by taking a class at the local library. It was a class in stamp collecting, and I met some very interesting people. The key is to stay in touch after the class is over, do additional activities together, and make an effort to build a friendship. We just had lunch together today.",
+    "folder_name": "The Best Way to Make New Friends",
+    "original_image_file": "The Best Way to Make New Friends.png"
+  },
+  "Imposing Taxes and Fines to Stop Companies from Harming the Environment": {
+    "topic": "Environmental Protection through Penalties",
+    "professor_prompt": "This week, we've been discussing ways to protect the environment. One way is to require companies to pay penalties, such as higher taxes or large fines, when they pollute and damage the environment. We're going to explore this topic in depth tomorrow, but first I'd like to get your thoughts: Do you think imposing these taxes and fines would be a good way to stop companies from harming the environment? Why or why not?",
+    "student_1_name": "Andrew",
+    "student_1_response": "I don't think it will be effective. Where I live, the local government imposes fines on polluting companies, but it doesn't stop them. I know of one business that created a lot of water pollution. Instead of changing their ways, they just paid a fine. No one was really punished, and the pollution is still a problem.",
+    "student_2_name": "Claire",
+    "student_2_response": "I think it's an excellent idea. As long as there is no penalty for polluting the environment, these companies will not bother searching for alternatives to practices that contribute to air, water, or land pollution. And it should be a financial penalty because every company worries about money.",
+    "folder_name": "Imposing Taxes and Fines to Stop Companies from Harming the Environment",
+    "original_image_file": "Imposing Taxes and Fines to Stop Companies from Harming the Environment.png"
+  },
+  "Pursue An Advanced Degree While Working Full-time？": {
+    "topic": "Balancing Work and Advanced Education",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "From my point of view, it's not a good idea to pursue an advanced degree while continuing to work full-time. First of all, for students, studying at universities while working will have a negative impact on both their academic progress and their work at companies. To receive an advanced degree, students must take a number of challenging courses, and they will undoubtedly become extremely overwhelmed if they have a full-time job as well. This great amount of pressure will not only affect their academic performance but also influence their work. For instance, students like this may be asked to contact their customers the day before the exam, and circumstances like that will surely impose a great deal of pressure on them, or even further causing anxiety. In addition, it's not good for companies as well. Since students in the companies who still have to take classes at universities are not able to do as much work as other employers, recruiting students who are taking advanced degrees to work will decrease the companies' efficiency, which will eventually harm the profit.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Pursue An Advanced Degree While Working Full-time？",
+    "original_image_file": "微信截图_20240221103713.png"
+  },
+  "Several Shorter Certification Or A University Degree？": {
+    "topic": "Future of Education",
+    "professor_prompt": "This week, we'll be discussing the future of education. Let's focus now on the following viewpoint: it is no longer useful to spend many years pursuing a traditional, specialized university degree in a single field, such as communications or economics. Instead, it makes more sense for most people to complete several shorter certification programs and earn certificates in, for example, project management, computer programming, graphic design, and so on. Do you agree or disagree with this viewpoint? Why?",
+    "student_1_name": "Andrew",
+    "student_1_response": "I agree that completing short certification programs makes a lot of sense these days because people are more likely to change careers now than they were in the past. Certification programs allow people to quickly learn a variety of professional skills that are in demand at the moment. And acquiring such skills leads to more job opportunities.",
+    "student_2_name": "Claire",
+    "student_2_response": "I see the advantages of earning certificates, but I don't think that they can completely replace university degrees. Certification programs provide only superficial knowledge, while university degrees offer a well-developed and organized approach to studying. By pursuing university degrees, students gain foundational knowledge and a broader understanding of their field of study and develop many skills as well.",
+    "folder_name": "Several Shorter Certification Or A University Degree？",
+    "original_image_file": "Several Shorter Certification Or A University Degree？.png"
+  },
+  "The Greatest Impact on Protecting Environment for One Person": {
+    "topic": "Environmental Protection / Sustainable Living",
+    "professor_prompt": "To continue our discussion on adopting an environmentally friendly lifestyle, let's explore the role that individuals can play in keeping the Earth as clean as possible. Recycling is the most common action taken to help keep the environment clean, but studies show that recycling alone is not enough. Other than recycling, what is one action that a person could take that would have the greatest impact on protecting the environment? Why?",
+    "student_1_name": "Kelly",
+    "student_1_response": "It might be better to pay more attention when we are shopping and to avoid purchasing items that aren't environmentally friendly, such as single-use plastic items. Doing so would save time and energy because we will not have to recycle anything, and it might even leave us with more time to help the environment in other ways.",
+    "student_2_name": "Andrew",
+    "student_2_response": "People should try to prevent pollution just like Kelly suggests, but it might be better to first address the pollution that already exists in our environment. If people plant trees and shrubs in their yards or in the local parks, these trees and shrubs might absorb pollutants that we breathe in and help to clean the air in our cities.",
+    "folder_name": "The Greatest Impact on Protecting Environment for One Person",
+    "original_image_file": "The Greatest Impact on Protecting Environment for One Person.png"
+  },
+  "The Most Important Subject": {
+    "topic": "Education and Student Characteristics",
+    "professor_prompt": "In your opinion, what qualities or characteristics should universities look for when admitting students? Explain your reasoning using specific details and examples.",
+    "student_1_name": "Paul",
+    "student_1_response": "In my opinion, I believe that students who are at the top of their class and did not have to work hard for their achievements would be more successful in the long run.",
+    "student_2_name": "Kelly",
+    "student_2_response": "In my opinion, I believe that students who work hard and overcome challenges to achieve their goals would be more successful in the long run.",
+    "folder_name": "The Most Important Subject",
+    "original_image_file": "2023_09_27_22_00.jpg"
+  },
+  "Watching Online Videos Is Harmful to Children？": {
+    "topic": "Children and Online Videos",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "From my point of view, young children shouldn't be exposed to online videos. First of all, watching online videos is not good for children's eyes. Since young children's eyes are still not fully developed and sensitive to long-term exposure to screens, the use of electronic devices will increase the risk of shortsightedness for young children, which will be clearly a significant drawback for their future life. Although some may argue that young children should be allowed to watch educational videos, the truth is that children's eye will be harmed by the screen of electronic devices regardless of what video they watch. In addition, addition to electronic devices is another crucial problem. Nowadays lots of apps have the mechanism that could send you the video that you'd like to watch, and children are likely to become indulged in it since their self-discipline skills are still not fully developed.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Watching Online Videos Is Harmful to Children？",
+    "original_image_file": "微信截图_20240221100905.png"
+  },
+  "Effects of Society Progress Happening Too Quickly": {
+    "topic": "Speed of Technological Progress",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my opinion, I believe that this progress is happening too fast and could have serious concerns. First, because these new technologies are not well developed yet, many negative impacts that people haven't thought about could exist. Our development of technology happened just a few hundred years ago, and it is still developing in a very fast speed. These will raise many concerns such as environmental issues, things could damage human health such as radiation and many more. Just like what happened during the Industrial Revolution, when people couldn't foresee the impact of greenhouse gases. Therefore, these underdeveloped and new technologies would cause more damage to people in the future if these rate isn't going to slow down. Furthermore, conflicts caused by technology are increasing, too. Due to the production of more variety of products, more and more resources are needed, which further forces the countries to fight over a certain raw material. For example, the conflict element, which are rare elements that are located in less developed countries causes forced labor, war, and serious human rights issues.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Effects of Society Progress Happening Too Quickly",
+    "original_image_file": "2023_10_04_10_58.png"
+  },
+  "Making Purchasing Decisions": {
+    "folder_name": "Making Purchasing Decisions",
+    "error": "OCR failed or empty content"
+  },
+  "What Schools Can Do to Make Transition to A New School Easier": {
+    "topic": "School Transitions for Teenagers",
+    "professor_prompt": "This week we will discuss issues faced by secondary school administrators. I'm referring to schools for teenage students. One such issue is students who change schools. Students change schools for many different reasons, the most common being a family move. On the discussion board, I want you to exchange ideas about what schools can do to make the transition to a new school easier for teenagers.",
+    "student_1_name": "Student 1",
+    "student_1_response": "I think schools should assign new students a fellow student who can help them adjust. The student buddy can do things like make sure the new student can find the cafeteria or the right classrooms. For new students, it's a lot easier to ask a fellow student a question rather than ask a teacher or the principal.",
+    "student_2_name": "Claire",
+    "student_2_response": "I would require new students to sign up for some school club or activity that meets outside of class. That way, new students would have an easy way to meet other students in a friendly environment. It would give them a group to immediately identify with.",
+    "folder_name": "What Schools Can Do to Make Transition to A New School Easier",
+    "original_image_file": "What Schools Can Do to Make Transition to A New School Easier.png"
+  },
+  "Governments Encourage More Use of Electric Vehicles": {
+    "topic": "Environmental Tax Policy",
+    "professor_prompt": "In today's discussion, we'll explore the following question: Some people believe that the government should tax fuel (like gasoline) heavily and use the revenue to subsidize electricity costs for homes and businesses. Others argue that this approach is not effective. What is your opinion on this policy?",
+    "student_1_name": "Student 1",
+    "student_1_response": "I believe that taxing fuel and using the revenue to subsidize electricity is a reasonable policy approach. By making fuel more expensive, the government can encourage people to reduce their fuel consumption, which would help protect the environment. Additionally, subsidizing electricity costs would make it more affordable for families and businesses to use energy. This could be especially helpful for low-income households that struggle to pay their electricity bills.",
+    "student_2_name": "Student 2",
+    "student_2_response": "While I understand the reasoning behind this policy, I think it may not be the most effective approach. Taxing fuel heavily could place a significant financial burden on people who rely on vehicles for their daily commute or work, such as delivery drivers or construction workers. Instead, the government should invest in extra training programs for workers in fossil fuel industries to help them transition to cleaner energy jobs. This would address environmental concerns while also supporting affected workers.",
+    "folder_name": "Governments Encourage More Use of Electric Vehicles",
+    "original_image_file": "微信截图_20240221164712.png"
+  },
+  "What Strategy Should Teachers Use to Increase High School Students' Interest in Learning": {
+    "topic": "Student Motivation in High School",
+    "professor_prompt": "In this unit, we will be learning about effective strategies for increasing student motivation. Let's begin by discussing one common concern shared by many high school teachers: some of their students, typically aged 14 to 18, seem to be bored or uninterested in learning. In your view, what strategy should teachers use to increase high school students' interest in learning? Please explain why you think this one particular strategy will be effective.",
+    "student_1_name": "Kelly",
+    "student_1_response": "I believe teachers should incorporate more group work activities into their lessons. While completing tasks in groups or teams, students will have an opportunity to share their opinions and learn from their peers. Having a sense of belonging is important to teenagers, so being part of a team will likely make them more interested in learning.",
+    "student_2_name": "Claire",
+    "student_2_response": "In my opinion, teachers should explain how the lessons they teach in the classroom have a connection to events in the world outside high school. Students will likely become more interested in learning once they understand that the lessons can help them be better prepared for future university studies and work.",
+    "folder_name": "What Strategy Should Teachers Use to Increase High School Students' Interest in Learning",
+    "original_image_file": "搜狗截图20240312155517.png"
+  },
+  "Government Should Keep Fuel Prices Low": {
+    "topic": "Government Fuel Price Control",
+    "professor_prompt": "In class this week, we are looking at how markets work, particularly in regard to energy costs. Petroleum, also known simply as oil, is one of the most important international commodities. When the global market price of oil goes up, fuels such as gasoline (petrol) also become more expensive. Many people think governments should step in to protect consumers from increases in fuel prices. What is your view? Do you think governments should actively keep fuel prices low for consumers?",
+    "student_1_name": "Kelly",
+    "student_1_response": "I think it's a good government policy. Most people have to drive or use public transportation, like a bus, to get to work. When the price of gasoline goes up, it costs them more to get to work. People don't have a choice about whether to go to work or not, so they should be protected from price increases.",
+    "student_2_name": "Andrew",
+    "student_2_response": "I think the government keeping gas prices low is a bad policy. The biggest problem we face now is global climate change. The more expensive gasoline is, the less people will drive, and thus they will contribute fewer greenhouse gases to the air. Lowering the cost of gas just makes the problem worse.",
+    "folder_name": "Government Should Keep Fuel Prices Low",
+    "original_image_file": "Government Should Keep Fuel Prices Low.png"
+  },
+  "TV or books": {
+    "topic": "Impact of TV vs Books",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "From my perspective, TV has a greater impact on people's live in today's world. To begin with, more people prefer watching TV. Nowadays, with the development of Internet, almost everyone has a television in his or her home. During the free time, all people would choose watching TV as their best way of finding relaxation because it contains variety of recreational channels like argument channel, cartoon channel, shopping channel and so on. Through browsing through the TV, people sooth their pressure. On the contrary, reading books tend to further take people's energy because it's impossible to read without thinking, making it less appeal when it comes to free time. Besides, TV could benefit people's real life. Many of the TV channels contain advertisements, which are likely to encounter people's need. For example, my uncle has found his job when he noticed the employment advertisement on TV. However, books could not provide such realistic aid, but instead, they tend to be merely a form of escaping from the reality by indulging into a fictional world.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "TV or books",
+    "original_image_file": "微信截图_20240217133917.png"
+  },
+  "Raising the cost of Fuel for Cars": {
+    "folder_name": "Raising the cost of Fuel for Cars",
+    "error": "OCR failed or empty content"
+  },
+  "Living in One Town or City All Your Life": {
+    "topic": "Living in One Town/City vs. Moving",
+    "professor_prompt": "Today, I'd like to discuss choices people make in terms of where they decide to live. Some people choose to spend their entire lives in one town or city. Others leave their hometowns and might even move several times from one town or city to another. I'd like to get your thoughts on this subject. Do you think it is better to live in one town or city all your life? Why or why not?",
+    "student_1_name": "Andrew",
+    "student_1_response": "Living in one place your whole life is the better option. It allows you to form strong bonds with neighbors and members of your community. You know that if you stay in one place for a long time, you will always have friends you can rely on when you need help.",
+    "student_2_name": "Claire",
+    "student_2_response": "",
+    "folder_name": "Living in One Town or City All Your Life",
+    "original_image_file": "Living in One Town or City All Your Life.png"
+  },
+  "Poor Eating Habit to Change": {
+    "topic": "Food and Cooking Habits",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "",
+    "student_2_name": "Kelly",
+    "student_2_response": "Expanding on Kelly's view, I think, generally, every meal should be treated seriously. As food delivery and fast-food industry are so convenient today, a lot of people order food delivery or cheap fast-food just to save time and money. However, this brings a series of problems in the long run: those food from commercialized companies often involves unhealthy oil and ingredients which adds heavy burdens on our digestive system and even blood circulation; moreover, those foods are often cold and simple dishes that provides limited nutrition to our body. Therefore, if this habit continues over a period of time, our body would suffer from serious digestive problems and nutrition shortages, which would then lead to further illnesses. A great way to improve this bad habit is to buy fresh ingredient and cook on daily basis. Though it takes much more time to set up and prepare, it brings significant change to our health as a whole, whilst also increases our sense of accomplishment once we've acquired this new skill to a healthy life style.",
+    "folder_name": "Poor Eating Habit to Change",
+    "original_image_file": "2023_10_03_18_29.png"
+  },
+  "Online Classes, Or Traditional In-person Classes？": {
+    "topic": "Online Classes vs Traditional In-Person Classes in Education",
+    "professor_prompt": "In the next few weeks, we'll be discussing different learning options and their respective benefits and drawbacks. Let's focus now on online classes, which are becoming more and more popular. In online classes, students communicate with their professors and other students completely online. Do you think that online classes offer advantages to both students and teachers that make them preferable to traditional in-person classes? Why or why not?",
+    "student_1_name": "Paul",
+    "student_1_response": "I believe online classes are preferable to traditional face-to-face classes, both for students and teachers. Because online classes allow more flexibility (for example, in terms of location and time), they better accommodate students and teachers with busy schedules. The quality of online classes has considerably improved, so online classes now present excellent learning options.",
+    "student_2_name": "Kelly",
+    "student_2_response": "Online classes don't have any advantages over traditional in-person classes. What's important is how good the teacher is. An online class won't be any good if the instructor isn't a talented teacher. But an online class can be effective if the teacher knows how to teach and how to use online resources. Teacher competence is what matters most.",
+    "folder_name": "Online Classes, Or Traditional In-person Classes？",
+    "original_image_file": "Online Classes, Or Traditional In-person Classes？.png"
+  },
+  "Lecturing Is An Effective Teaching Method？": {
+    "topic": "Teaching Methods: Lecturing vs. Interactive Activities",
+    "professor_prompt": "In your opinion, is lecturing an effective teaching method? Explain why or why not, using specific reasons and examples.",
+    "student_1_name": "Student 1",
+    "student_1_response": "In my opinion, I believe that lecturing is an effective teaching method. To begin with, lecturing could be very efficient in conveying knowledge. When a teacher explains a topic, continuity would be very important, which could help the students to link those points together. Discussing one whole part would also help the students to feel more excited by slowly revealing the connections. For example, when studying biology class, the students will be excited to understand how DNA would link to the production of protein and further to how life functions. If there are constant interruptions caused by activities, it would be very unhelpful for the students' understanding because of the gap between each point. Furthermore, students would learn important skills while listening to lectures. Lectures require students to have self-learning skills and fast interpretation, which would be essential for their future studies. Therefore, using this lecturing method would benefit students and help them to be more efficient while they are learning other concepts and picking up the points quickly.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Lecturing Is An Effective Teaching Method？",
+    "original_image_file": "2023_09_13_21_14.png"
+  },
+  "New, Innovative Subjects Should Be Taught in Public Schools": {
+    "topic": "Educational Policy - New Courses in Public Schools",
+    "professor_prompt": "This week we are studying how policy for public schools is created and how it may change over time. One very important topic for educational policy involves what courses should be taught in schools. Many people believe that new forms of communication and new kinds of employment require that new and different kinds of courses be taught. The question I want you to discuss is whether new, innovative subjects should be taught in public schools.",
+    "student_1_name": "Paul",
+    "student_1_response": "I definitely think there should be new kinds of courses taught in public schools. For instance, people communicate more and more on the Internet by sharing photographs and videos with each other. I think a course in video composition—that is, how to make good and effective videos—would be really valuable to today's students. And there are many other similar topics that students might benefit from.",
+    "student_2_name": "Kelly",
+    "student_2_response": "I really don't think the high school curriculum needs to change. The main purpose of most courses in high school is to prepare students for higher education, and those basic requirements haven't changed. If students want to learn other things, like how to compose photographs or edit films, they can watch instructional videos on the Internet. They don't need a class in school to learn things like that.",
+    "folder_name": "New, Innovative Subjects Should Be Taught in Public Schools",
+    "original_image_file": "New, Innovative Subjects Should Be Taught in Public Schools.JPG"
+  },
+  "Financial Support to Artists": {
+    "topic": "Government Funding of the Arts",
+    "professor_prompt": "We've been discussing government budgets and the difficult decisions governments must make regarding the use of public funds. Some services are clearly essential and must be paid for by any government. But what about public funding of the arts? Do you believe that governments should provide financial support to artists—for example, painters, sculptors, musicians, or filmmakers? Why or why not?",
+    "student_1_name": "Paul",
+    "student_1_response": "I enjoy art as much as anyone does, but public funds come from taxes, and I don't think taxpayers' hard-earned money should be spent on impractical or inessential items and services. Artists should support themselves by selling their work to private individuals and companies. If they can't find enough buyers, then maybe they should change careers.",
+    "student_2_name": "Claire",
+    "student_2_response": "Personally, I think art actually is essential. Lots of public spaces in my hometown just wouldn't be the same without artwork. From statues in public parks to murals painted on the walls of government buildings, my hometown really benefits from funding the artists who created these works. The public spaces are simply more enjoyable for visitors because of the artwork.",
+    "folder_name": "Financial Support to Artists",
+    "original_image_file": "Financial Support to Artists.png"
+  },
+  "Governments Should Not Keep Scientific Discoveries Secret": {
+    "topic": "Sharing Scientific Discoveries",
+    "professor_prompt": "Should governments and businesses share their scientific discoveries with each other?",
+    "student_1_name": "Student 1",
+    "student_1_response": "In many opinion, I believe that governments and business all over the world should share their scientific discoveries with each other. To begin with, the action of sharing scientific information would contribute to a faster development of the whole society. Many scientists would spend numerous hours working in their labs to conduct researches and wait for the results; however, if other researchers have already finished the same kind of experiment upon same subjects, it would save other scientists a great deal of time if the outcome of the experiment is to be shared. Therefore, all scientists could have more time focusing on more pressing subjects and topics. Second, such behavior would also encourage more people to participate in scientific world, since a lot of data and key information are easily available in the shared community.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Governments Should Not Keep Scientific Discoveries Secret",
+    "original_image_file": "2023_10_22_09_43.png"
+  },
+  "Developing Soft Skills - Nonacademic Skills": {
+    "folder_name": "Developing Soft Skills - Nonacademic Skills",
+    "error": "OCR failed or empty content"
+  },
+  "Hire Experienced Veterans Or Younger Employees": {
+    "topic": "Hiring Experienced Workers vs. Young Workers",
+    "professor_prompt": "Should companies hire experienced workers or young workers? Discuss the advantages and disadvantages of each option.",
+    "student_1_name": "Student",
+    "student_1_response": "From my perspective, I believe that company should employ experienced workers. The main reason is that hiring experienced workers could benefit companies more than hiring young ones. Hiring young workers who have no experience would lead to the cost on training. Young workers must undergo training for at least several weeks before they could formally participate in company's project, which is both time and money consuming. However, experienced workers don't need such training since they have been trained before in previous jobs, rendering them more adaptive and productive, and therefore reducing the cost. Moreover, experienced workers are more likely to be sophisticated in negotiating with their colleagues because they have contacted with variety of people in previous jobs, equipping them with excellent ability to cooperate and get on well with others. On the contrary, young workers are usually not mature enough to be as sophisticated as those experienced workers, which may lead to problems when it comes to the collaboration within the company. For example, immature young workers may begin a fierce argument with his or her colleagues, which would definitely impede the cooperation and therefore reduce the working efficiency.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Hire Experienced Veterans Or Younger Employees",
+    "original_image_file": "微信截图_20240213093355.png"
+  },
+  "Why People Choose to Live in Rural Areas": {
+    "topic": "Living in Rural vs Urban Areas",
+    "professor_prompt": "[Professor prompt not visible in OCR text]",
+    "student_1_name": "[Student name not visible in OCR text]",
+    "student_1_response": "In my opinion, I believe there are several reasons why people would prefer to live in rural areas in the modern time. To begin with, the living cost or expense of people dwelling in rural areas is far less than that of people in big cities. For those who have settled in metropolis, they would have so many things to worry about: high rent, commuting cost, increasing housing prices, or even higher item prices in grocery stores. However, for people choosing to live in the countryside, they would not have to rack their brains to deal with all those high living costs everyday, which, from my perspective, is the main reason why many people start settling down in the rural areas. In addition, regions in rural areas are indeed less polluted and the air quality there is much better than that in cities. Many factories have been emitting pollutants into the air or even river for many years, leading to lower air quality in cities: hazy days are very common in major cities in recent years.",
+    "student_2_name": "[Student name not visible in OCR text]",
+    "student_2_response": "[Second student response not visible in OCR text]",
+    "folder_name": "Why People Choose to Live in Rural Areas",
+    "original_image_file": "2023_10_28_10_52.png"
+  },
+  "Environmental Tax on Air Travel": {
+    "topic": "Environmental Tax on Air Travel",
+    "professor_prompt": "Should governments impose an environmental tax on air travel to reduce carbon emissions?",
+    "student_1_name": "Student 1",
+    "student_1_response": "In my opinion, I believe that imposing environmental tax on air travel is unnecessary. To begin with, adding an environmental tax on air travel would lead to serious implications to both air travel companies as well as individual passengers. After imposing the environmental tax on airline companies, these companies would have to pay additional fees to the government. In order to compensate such extra cost, the companies might have to raise the price of the airplane tickets, creating additional financial burden for passengers. Besides, higher ticket price might discourage passengers from using airplane as a means of transportation, which would in turn hurt the profits of airline business, leading to high unemployment rate or lower salaries for workers in those companies. Besides, imposing more environmental tax would not allow planes to burn less fossil fuel, which is the main cause for air pollution!",
+    "student_2_name": "Student 2",
+    "student_2_response": "",
+    "folder_name": "Environmental Tax on Air Travel",
+    "original_image_file": "2023_07_30_11_55 143字 28分.jpg"
+  },
+  "Spending Time with A Close-knit Few Or A Larger Group of Friends": {
+    "topic": "Social Circle Size",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "For me, a closer, smaller social circle is better. The first reason is that small social circles foster close emotion supports. In a large social group, since everyone has to maintain their relationship with other group members, the opportunity of close communication between each team members will be very small. As a result, close emotional connection are not likely to form between team members in a large team. However, in a small social group, each team member will have enough time and chance to understand others, and whenever who needs an emotional support, other members could easily help him or her. In addition, living in a smaller group is more relaxing. Since we only need to contact a few members in a small social circle, the pressure of living in that group will be much less comparing to a large group, and we will be more relaxed as well.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Spending Time with A Close-knit Few Or A Larger Group of Friends",
+    "original_image_file": "微信截图_20240218110555.png"
+  },
+  "Career or Relationships Imapcting Happiness": {
+    "topic": "Factors Contributing to Human Happiness",
+    "professor_prompt": "Next week we'll be talking about factors that contribute to human happiness. Surveys reveal that career satisfaction and the quality of personal relationships, such as with family and friends, are frequently identified as two important factors for happiness. Which one do you think most people would say has the greater impact on their overall happiness and why?",
+    "student_1_name": "Claire",
+    "student_1_response": "I believe that one's career has a larger impact on overall happiness. It's through people's jobs that they make a contribution to society and are recognized for their contributions. Through people's jobs, they can make a contribution to something greater than themselves, which can be very fulfilling. A sense of satisfaction can come from a job well done.",
+    "student_2_name": "Paul",
+    "student_2_response": "Work is not all that matters: if you're someone who works full-time, that's still only half of your waking life. To maximize happiness, it's vital to maintain connections with people you care about and who care about you. For example there's nothing like lifting my spirits like being able to talk to a friend when I'm down.",
+    "folder_name": "Career or Relationships Imapcting Happiness",
+    "original_image_file": "Career or Relationships Imapcting Happiness.jpg"
+  },
+  "Using Cash to Make Purchase": {
+    "topic": "Decrease in Cash Usage",
+    "professor_prompt": "The professor's prompt is not visible in the provided OCR text.",
+    "student_1_name": "Student 1",
+    "student_1_response": "In my opinion, I believe that a decrease in using cash is negative. To begin with, this switch of payment method to online could cause many elderly people to be unable to adapt. Nowadays, many elderly people are having trouble understanding the usage of simple electronics due to the development of technology at a rapid speed. Because of this decrease in the use of cash, many sellers also started adapting and stopped accepting cash. Old people would have a hard time navigating the app and payment, and this could cause them to feel powerless and feel that their lack of ability further damages their mental well-being. Moreover, putting all the money on apps or cards would have risks. Due to the development of technology, online scamming is getting more and more popular. People could be hacked or accidentally leaking their personal information, which could cause them to lose all their money because of that. This could be very damaging to one's mental, and physical well-being.",
+    "student_2_name": "Student 2",
+    "student_2_response": "The second student's response is not visible in the provided OCR text.",
+    "folder_name": "Using Cash to Make Purchase",
+    "original_image_file": "2023_09_27_11_07.png"
+  },
+  "Spend More Money on Art+Music Museums, Or Playgrounds and Public Swimming Pools": {
+    "topic": "Government Funding Allocation (Facilities vs Art Museums)",
+    "professor_prompt": "In your opinion, what should the government spend money on: facilities like playgrounds and public swimming pools, or art museums?",
+    "student_1_name": "Unknown",
+    "student_1_response": "From my perspective, the money should be spent on facilities like playgrounds and public swimming pools. The main reason is that such fund would generate economic benefit. Nowadays, facilities are considered as one of the most imperative factors when it comes to the choice of residence. Many people would choose the city with premium facilities as their ideal living place because those facilities could guarantee living standard. If the government provides fund to a city's facility, it would make the city a tremendously appealing place to work and live, attracting sufficient labors to promote local economy. Besides, the increasing quality of facilities may improve tourism, further developing economic growth. On the contrary, funding art museums may not have such an obvious impact on the economy, since fewer people are interested in arts due to the higher level of pressure that people bear in modern life.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Spend More Money on Art+Music Museums, Or Playgrounds and Public Swimming Pools",
+    "original_image_file": "微信截图_20240220103159.png"
+  },
+  "Benefits of Switching Jobs Often": {
+    "topic": "Job Switching and Career Changes",
+    "professor_prompt": "In the past, it was common for people to stay at one job for a long time, possibly for their whole career. This has changed in recent years, though, and nowadays many people tend to change jobs quite often. Proponents of this job market trend point to many benefits of regularly changing careers. Today, I would like to know what you think. Do you agree that the benefits of switching jobs often outweigh the disadvantages? Why or why not?",
+    "student_1_name": "Kelly",
+    "student_1_response": "I believe that it can be beneficial for people to change jobs often. If you do the same job for a long time (for example, several years), you might become too comfortable with the job. This could mean the job is no longer challenging for you and it could cause you to be bored and unsatisfied at work.",
+    "student_2_name": "Paul",
+    "student_2_response": "I agree with some of what Paul wrote, but we also need to consider the disadvantages of changing jobs often. Switching jobs can make you feel insecure and exhausted, especially if you are changing fields and have to learn new skills. Additionally, you have to adapt to a new environment and new colleagues, which can be overwhelming as well.",
+    "folder_name": "Benefits of Switching Jobs Often",
+    "original_image_file": "Benefits of Switching Jobs Often.png"
+  },
+  "The Most Important Criteria for Promotion": {
+    "folder_name": "The Most Important Criteria for Promotion",
+    "error": "OCR failed or empty content"
+  },
+  "Online Shopping Is Affecting Society？": {
+    "topic": "Online Shopping",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "From my point of view, online shopping has a positive influence on society overall. First of all, online shopping can enhance the economy. Online shopping allows customers to make purchases at their home rather than going to shops in person, and people will be more motivated to buy products online since the effort they need to spend on taking a walk to shops is saved. As a result, the economy will be enhanced by the online shopping services. For instance, readers may be reluctant to buy new books that are sold only in bookstores that are far away from them, but problems like that won't exist if they could buy them online. In addition, online shopping can save time for people. Since they don't need to travel to the physical stores to buy products, the time on the road will be saved, which will allow people to spend more time on other things, including academic works or pursuing their own interest.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Online Shopping Is Affecting Society？",
+    "original_image_file": "微信截图_20240221101001.png"
+  },
+  "What Approach That Governments Can Use to Attract More People to Live in Rural Areas": {
+    "topic": "Urban vs Rural Population Trends",
+    "professor_prompt": "Let's think about population trends in urban and rural areas (villages). Living in urban areas can be expensive; nonetheless, when they have a choice of where to live, people in some countries do not wish to live in rural areas even if the cost of living there is lower. If governments of some countries want to attract more people to live in rural areas or villages, what is the best strategy or approach that governments can use? Why?",
+    "student_1_name": "Claire",
+    "student_1_response": "I would live in a rural area if the government gave more financial help to farmers. Although it may cost very little to live in a rural area, it costs a lot to begin a career in agriculture. If I had financial help, I would start my own farm and be happy to live in a rural area.",
+    "student_2_name": "Kelly",
+    "student_2_response": "In my country, urban centers are great places to live because you can access shops, restaurants, and museums. If the government of my country wanted to attract me to live in a rural area, the area would first have to attract more businesses focused on entertainment and culture than most rural areas have now.",
+    "folder_name": "What Approach That Governments Can Use to Attract More People to Live in Rural Areas",
+    "original_image_file": "What Approach That Governments Can Use to Attract More People to Live in Rural Areas.jpg"
+  },
+  "Why People Choose Not To Help Others - Inaction": {
+    "topic": "Social Phenomenon of Not Helping Others",
+    "professor_prompt": "One social phenomenon we discussed recently is this: when a person is in some trouble, some people help that person, while many others do nothing. Some people conclude that inaction— that is, doing nothing—makes the world a worse place. In your post, please discuss the causes or the effects of this social phenomenon; in other words, what are some reasons why people might choose not to help others, or what are some results of this inaction?",
+    "student_1_name": "Andrew",
+    "student_1_response": "In my opinion, one of the main causes behind this phenomenon of people not helping others is concern for one's own interests. If I come across someone in a situation who needs help, I will want to help that person—but not if it creates some significant problem for me. Doing so will simply put us both in a bad situation.",
+    "student_2_name": "Kelly",
+    "student_2_response": "I agree that inaction makes the world worse. That means that we all have the responsibility to make the world a better place. An important effect of people not taking on this responsibility is that we may feel less trusting of our neighbors. Conversely, when others show that they are willing to help people, our community becomes stronger.",
+    "folder_name": "Why People Choose Not To Help Others - Inaction",
+    "original_image_file": "Why People Choose Not To Help Others - Inaction.png"
+  },
+  "School Curriculum Must Include Classes in Art and Music": {
+    "topic": "School Curriculum: Foundational Knowledge vs. Creative Subjects",
+    "professor_prompt": "What should children be learning in school? Many people believe that time in the classroom should be spent acquiring foundational knowledge in subjects like math, reading, science, and history. Others feel that it's important for a child's creativity to be nurtured, and thus the school curriculum must include classes in art and music. There's so much to learn, yet so little time in school to learn it all! What do you think should be included in the curriculum? Why?",
+    "student_1_name": "Claire",
+    "student_1_response": "I agree that traditional subjects like math, science, and reading are important, but so are classes in art and music. Engaging with art and music can help children be more creative and can stimulate their imaginations. That in turn facilitates critical thinking, which is essential in any curriculum, so I am in favor of including art and music in the school day.",
+    "student_2_name": "Student 2",
+    "student_2_response": "Sure, drawing pictures and listening to music is fun, but children can do that on their own time. The school day is too short as it is, and there is so much foundational knowledge in math, reading, science, and history that children need to learn; it is better to spend classroom time on that foundational knowledge and let kids explore art and music at home.",
+    "folder_name": "School Curriculum Must Include Classes in Art and Music",
+    "original_image_file": "School Curriculum Must Include Classes in Art and Music.png"
+  },
+  "Government Should Charge Drivers Fees for Driving during Rush Hour？": {
+    "topic": "Congestion Pricing/Rush Hour Driving Fees",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "As far as I'm concerned, governments should charge drivers for certain amount of fees to drive during rush hours. To begin with, as is known to all, traffic congestion is a serious social problem nowadays and many drivers are stuck on the road for a long time. By setting such a rule, many people will consider a lot before deciding whether they will drive their private cars or not. In this way, many citizens, especially the relatively less wealthy ones, will probably select an alternate way of transportation, such as the subway, due to their heavy financial burden. Moreover, the governments can earn money to solve the rushing hour problem more directly. For example, the government can use their budget to build additional roads in the city to support multiple choices for drivers in order to relieve traffic congestion.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Government Should Charge Drivers Fees for Driving during Rush Hour？",
+    "original_image_file": "微信截图_20240224193818.png"
+  },
+  "Celebrities or Ordinary People Taking about Products as Advertising Strategies": {
+    "folder_name": "Celebrities or Ordinary People Taking about Products as Advertising Strategies",
+    "error": "OCR failed or empty content"
+  },
+  "The Most Important Action for Leaders to Improve Country's Prosperity": {
+    "topic": "Housing Affordability and Economic Prosperity",
+    "professor_prompt": "In your opinion, what should a country's leaders do to improve the country's economic prosperity?",
+    "student_1_name": "Paul",
+    "student_1_response": "In my opinion, I believe making housing more affordable is an excellent idea for a country's leaders to take to improve the country's economic prosperity. To begin with, the current housing price has imposed too much pressure on the majority of the public, especially for people aged between 25 to 40. These middle-aged people would have to spend most of their time earning money, and save it for the down-payment of their houses or for their house loans. This means that such group of people would not make many purchases in their daily life, meaning that they are not contributing to the commercial market. When money is not circulating on the market, the prosperity of a country will necessarily decline. Therefore, in order to improve other industries of a country, housing price needs to be kept low enough.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "The Most Important Action for Leaders to Improve Country's Prosperity",
+    "original_image_file": "920f789ed9ae79fe4d3a22c7405f125.jpg"
+  },
+  "Participation in Team Sports Important for A Child's Development？": {
+    "topic": "Role of Team Sports in Child Development",
+    "professor_prompt": "Let's discuss the role that being on a sports team plays in a child's development. Many argue that playing a team sport, such as basketball, football, or baseball, is an important experience that all children can benefit from—in different ways. Conversely, others feel that the focus on team sports for children does more harm than good. What do you think? Is participation in team sports important for a child's development? Why or why not?",
+    "student_1_name": "Kelly",
+    "student_1_response": "Of course, children should participate in team sports! Not everyone is a great student. For many children, team sports are a chance to excel and build their confidence. They can recognize the importance of working hard to accomplish a goal, and this can transfer to other aspects of their lives.",
+    "student_2_name": "Claire",
+    "student_2_response": "I don't think participating in team sports is always a good thing. One reason is the bad behavior of parents during their children's competitions. Too many parents get overly invested and want to win more than their children do. To that end, they will argue with sports officials and referees and set a bad example for their children.",
+    "folder_name": "Participation in Team Sports Important for A Child's Development？",
+    "original_image_file": "Participation in Team Sports Important for A Child's Development？.png"
+  },
+  "Being An Early Adopter": {
+    "topic": "Early Adopters",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my point of view, there are several disadvantages to being an early adopter. Firstly, being a new adopter to always buy the company's newest product can cost a person more money than waiting to buy it later. This is because the new products just launched by the company are usually more expensive, and the price would like to drop along time. For example, the iPhones are about 10 thousand RMB at first since it is brand new with updated designs and functions. However, as more and more people buy it, the marginal profit of the product gets more and more, along with the devaluation of electronic devices due to the fast development of technologies and the fact that the materials it is being made of are consumable. This will lead to a continuous decline in the price of the iPhone. Such is the disadvantage of being an early adopter. Moreover, trying the latest product can contain not only high prices but high risks on the usage experience. The fact that the product is new means whether the product is good or not is uncertain. Therefore, the new adopters could take the risk of getting a terrible product or service at a high cost, which is not worthy at all.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Being An Early Adopter",
+    "original_image_file": "2023_11_01_10_03.png"
+  },
+  "Using A Mobile App to Learn A Foreign Language": {
+    "topic": "Learning English through Mobile Apps",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "From my perspective, learning English through mobile app is an effective way of learning. To begin with, it's more flexible to learn on mobile app. Nowadays, many people may learn English by taking in-person classes, which requires classmates and teachers to gather around in a specific location, unavoidably costing time on commuting. However, learning online through mobile app could be achieved more easily, because no matter which location we are at, there's nothing that hinders us from learning. People could listen to English recording in the subway with earphones, recite English words while queuing up in a restaurant, and practice speaking in the park. Besides, more advanced technology also render effectiveness for mobile app. Recently, AI or ChatGPT has been prevalent for their astonishing diverse and accurate function. Such tools are incorporated into many mobile apps, which provides high quality of advice on people's learning. People could gain feedback such as the correction in their pronunciation, the revision of grammar problems in their writing and so on. Sometimes those tools' power could be even stronger than human teachers.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Using A Mobile App to Learn A Foreign Language",
+    "original_image_file": "微信截图_20240220105709.png"
+  },
+  "What Companies Can Do To Be Attractive to Potential Employees": {
+    "topic": "Company Attractiveness and Working Conditions",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my opinion, I believe that in order for a company to be attractive, it should develop a better working condition for the employees. First, comfortable working condition could help to increase their satisfaction level. For many people nowadays, earning money is no longer the essential goal, when they reach a certain income level the satisfaction they could get from the job is the one that matters. By increasing the working condition, the hygiene factor would be achieved, leading to greater happiness of the employees. The employees would also compare the working environment of all those companies when the salaries they receive is the same amount as from the company with better working condition would be more attractive. Furthermore, having this good working environment could help the old employees to give compliments to the company. When the old employees are satisfied of the working condition they would more likely to suggest the company to other people. This could also cause an increase in the chance of attracting potential employees. 169words",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "What Companies Can Do To Be Attractive to Potential Employees",
+    "original_image_file": "2023_09_10_09_47.png"
+  },
+  "Human Teachers Will Be Replaced？": {
+    "topic": "Education and Technology",
+    "professor_prompt": "Today there are many educational computer programs and applications designed to teach people what they want to learn. Many teachers use these developing technologies to help them teach their students, although it is still widely assumed that human teachers have a vital role to play in formal education. Other people believe that human teachers could one day be replaced by extremely sophisticated educational technologies. Which viewpoint do you agree",
+    "student_1_name": "Claire",
+    "student_1_response": "Computer technologies could actually motivate students even more than human teachers do. Many young people spend hours playing video games, which are really just sophisticated computer programs that challenge a human player with a variety of tasks. If educational applications challenged students in appealing ways, as video games do, they could hold students' interest longer than human teachers do.",
+    "student_2_name": "Andrew",
+    "student_2_response": "I think it's doubtful that educational technologies could ever satisfactorily replace human teachers in the classroom. An important part of education is motivation to learn. Educational technologies may work well for people who want to learn, but they probably can't motivate students who are bored by a particular subject. An effective human teacher can spark student interest.",
+    "folder_name": "Human Teachers Will Be Replaced？",
+    "original_image_file": "Human Teachers Will Be Replaced？.png"
+  },
+  "Flexible Work Schedules": {
+    "topic": "Flexible Work Schedules",
+    "professor_prompt": "Next week, we'll examine some challenges that managers face. One challenge is determining how much independence employees should have. Consider this: many managers give employees the freedom to set their own working hours. For example, an employee might choose to start the workday earlier than is typical. But other managers do not allow flexible schedules, arguing that they create problems. In industries where flexible work schedules are possible, do you think they are a good idea? Why or why not?",
+    "student_1_name": "Claire",
+    "student_1_response": "Flexible schedules are a good idea. For example, they could eliminate the problem of employees being late to work. If people begin work when it best suits their schedule, not only will this benefit the workers, but there will also be no need for supervisors to check every day if all the workers are on time. Everyone will benefit.",
+    "student_2_name": "Paul",
+    "student_2_response": "Claire makes an interesting point, but I'm not convinced. What if the employee's clients or colleagues need access to the employee? If an employee is unavailable at a time of day when most people are doing business, that might be inconvenient and even frustrating for others. That could harm work relationships, which would not be good for the company.",
+    "folder_name": "Flexible Work Schedules",
+    "original_image_file": "Flexible Work Schedules.png"
+  },
+  "How Much Can Individuals Solve Water Pollution V.S. Large Institution": {
+    "topic": "Water Pollution and Environmental Protection",
+    "professor_prompt": "Starting this week, we are going to discuss the effect that pollution has on our environment. Specifically, we will focus on the pollution of waterways, which has caused significant health problems around the world. Large amounts of plastics, industrial waste, and trash pollute the oceans and rivers. I want you to consider the following question: How much can individuals help solve the water pollution problem compared with large institutions such as corporations and governments? Please explain your position.",
+    "student_1_name": "Andrew",
+    "student_1_response": "Individual efforts will likely have little effect. It is better to focus on large corporations that do the most damage to our waterways. Think of the oil companies that have spills and factory owners that dump chemicals into the waterways. Individuals pollute the water too, but companies have much more impact. Business leaders need to set examples for the community.",
+    "student_2_name": "Claire",
+    "student_2_response": "I think individual people are the first step in solving the pollution problem. For example, when one person stops using harmful chemicals or helps clean up a local waterway, it can inspire others. They can use social media to spread the word and share examples of positive behavior. This can quickly become a grassroots movement for change.",
+    "folder_name": "How Much Can Individuals Solve Water Pollution V.S. Large Institution",
+    "original_image_file": "How Much Can Individuals Solve Water Pollution V.S. Large Institution.png"
+  },
+  "To-do Lists Are Beneficial Tools for Learning and Working？": {
+    "topic": "Benefits of To-Do Lists for Task Management",
+    "professor_prompt": "In this discussion, the professor asked students to share their opinions on effective task management strategies. Students were encouraged to discuss whether maintaining to-do lists or other organizational tools help improve productivity and reduce procrastination.",
+    "student_1_name": null,
+    "student_1_response": "I firmly believe that maintaining a to-do list, much like Claire does, is exceptionally beneficial for managing tasks effectively. Writing down tasks not only aids in organizing and prioritizing daily or weekly goals, but it also combats the natural human tendency towards procrastination. Personally, I have noticed a significant improvement in my productivity since I started documenting my tasks. It is true that I do not forget important tasks, which used to be a frequent issue for me. This method also aligns with what I have observed in professional settings: for instance, my father mentions that his company maintains detailed tasks lists, enhancing their overall efficiency. Thus, I advocate for the use of to-do lists as they can be a substantial aid in both academic and professional environments.",
+    "student_2_name": null,
+    "student_2_response": null,
+    "folder_name": "To-do Lists Are Beneficial Tools for Learning and Working？",
+    "original_image_file": "搜狗截图20240124182611.png"
+  },
+  "Factories Or Individuals to Make Efforts for Environmental Protection": {
+    "topic": "Environmental Protection",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "From my perspective, I believe factories should make more efforts than individuals when it comes to environmental protection. The main reason is that the environmental issues should be counted on industries more than on the individual. The industries could generate million tons of wasted materials and products overnight because of massive production. The quantity of wasted materials being produced is far more numerous than that of individuals. For example, I cannot produce even a pound of junks within a week. However, the volume of wasted materials made by industries can be as massive as a mountain within days. Therefore, as long as the industries undertake the responsibility of protecting environment, the amount of waste can be reduced dramatically. In addition, waste produced by industries is more harmful than that produced by individuals. Many chemical industries generate poisonous substances, which would be poured into rivers for disposal and might turn the whole river into a brown and red liquid line, killing thousands of living organisms, whose existence depends on its living environment.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Factories Or Individuals to Make Efforts for Environmental Protection",
+    "original_image_file": "微信截图_20240125192259.png"
+  },
+  "The Most Important Thing to Maintain Good Health": {
+    "topic": "Health and Biology",
+    "professor_prompt": "In the next two weeks, we are going to be studying how biological discoveries have affected our lives. Research in biology provides us with a better understanding of how our bodies work. As an introduction to this topic, I would like for you to discuss among yourselves this question: What is the most important thing a person can do to maintain good health? Please explain why you think so.",
+    "student_1_name": "",
+    "student_1_response": "I feel very strongly that a good diet is the most important factor in maintaining good health. Eating good, healthy foods, especially green vegetables, gives your body the materials it needs to stay strong. Good nutrition is the key to good health.",
+    "student_2_name": "Kelly",
+    "student_2_response": "Most people don't visit the doctor for regular checkups. Sure, if they feel sick, they go, but that's not enough. During a yearly exam, a physician can help a patient address health issues before they become a larger problem. So I think preventive doctor visits are key to good health.",
+    "folder_name": "The Most Important Thing to Maintain Good Health",
+    "original_image_file": "The Most Important Thing to Maintain Good Health.png"
+  },
+  "Customer Reviews for Deciding Buying Products": {
+    "topic": "Online Reviews",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my opinion, online reviews can help me better decide whether I am going to buy the product. First, I can know others using experiences by those comments, and find out whether the product is suitable for me. When there are no online reviews, people can't find a place to refer to others' appraise, so they can only look at the company's descriptions about that product. But in order to attract more customers, a company will usually exaggerate the strength of a product, and ignore the drawbacks. Then, we can't know the comprehensive description of an item, and buy it without knowing the flaws. Second, it can help companies to improve their products and services. If the product has any flaws, consumers are able to point it out directly. According to those comments, the company can better understand consumers' attitudes and willingness, thus improving their products. In this way, their products will be more attractive.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Customer Reviews for Deciding Buying Products",
+    "original_image_file": "2023_08_11_23_53.png"
+  },
+  "What Factors Should Be Taken into Account When Choosing Local Or International Charity Organizations": {
+    "topic": "Donation Preferences",
+    "professor_prompt": "Should people donate money to help people in their own country or to help people in other countries?",
+    "student_1_name": "Student",
+    "student_1_response": "From my perspective, donating money locally would be a better choice. First, donating locally is less likely to cross out of the bound of one's actual financial ability. Donating locally tends to be less costly in comparison to globally because of its smaller range, meaning that money can be used more fully when distributing certain amount of money to a smaller area. In this way, donating locally can be achieved by many people such as college students who take a part-time job, or regular workers who hold strong social responsibility. However, it is always commercial leaders who possess hundreds of wealth would be capable of donating globally which may require the money several times than that of workers gain from his or her whole life. Second, donating locally would have a higher possibility of receiving feedback. Within donors community, their fame would increase because of the donation. When they need help, people would be willing to give a hand. However, donating globally seems too far from donors' lives, and those who benefit from the donation may not even know the name of the donor.",
+    "student_2_name": "Student",
+    "student_2_response": "In my opinion, donating to international organizations can create a more significant impact. While local donations are convenient, global organizations have the resources and expertise to address large-scale issues like climate change, pandemics, and poverty that transcend national borders. These organizations can pool donations from around the world to fund major projects that no single country could accomplish alone. Additionally, helping people in other countries promotes cross-cultural understanding and global solidarity. While local donations are valuable for immediate community needs, supporting international causes allows us to contribute to solutions that benefit humanity as a whole.",
+    "folder_name": "What Factors Should Be Taken into Account When Choosing Local Or International Charity Organizations",
+    "original_image_file": "微信截图_20240213100535.png"
+  },
+  "Cities Try to Save Historic Buildings": {
+    "topic": "Historic Building Preservation",
+    "professor_prompt": "This week we are talking about how different cities choose to either preserve or replace older, historic buildings. Some cities have strict rules about preserving older buildings and homes, especially those with historic architecture. Others tend to encourage new construction to replace structures that are aging and decaying. Should cities try to save historic buildings or replace them with more modern ones?",
+    "student_1_name": "Paul",
+    "student_1_response": "I think the preservation of old historic buildings involves a lot of problems, especially in densely populated cities. In modern cities, land is very valuable, and old buildings just do not provide as much living and working space as modern high-rise buildings. Also, they were not built to modern standards, so they may waste energy through inefficient heating and cooling.",
+    "student_2_name": "Kelly",
+    "student_2_response": "It's important to preserve historic buildings. Keeping original architecture helps preserve a city's culture. Even on the practical side, most big cities get an economic benefit from tourism, and historic buildings like hotels and theaters are big attractions. Who wants to visit a city where all the buildings are glass and steel and look like buildings in every other city?",
+    "folder_name": "Cities Try to Save Historic Buildings",
+    "original_image_file": "Cities Try to Save Historic Buildings.png"
+  },
+  "The Biggest Disadvantage of Starting One's Own Business": {
+    "topic": "Entrepreneurship and Starting a Business",
+    "professor_prompt": "Next week, we will begin our unit on entrepreneurship. Throughout the world, many people are attracted to the idea of starting a business of their own rather than working for an employer. Naturally, there are benefits to being an entrepreneur, but there are also drawbacks that are important to consider. In your opinion, what is the biggest disadvantage of starting one's own business? Why do you think so?",
+    "student_1_name": "Claire",
+    "student_1_response": "",
+    "student_2_name": "Paul",
+    "student_2_response": "Starting a business often requires a significant sacrifice of time. There is so much that goes into establishing a company or setting up a shop. And even when the business is operational, the work for the owner never ends. Business owners are constantly worried about growing the business and seeking out opportunities. I think the biggest disadvantage of starting a business is that it can be a burden to be in a leadership position on one's own. Most people decide to work in organizations with predictable responsibilities, and they have supervisors who can guide them in problem solving and decision making. Entrepreneurs must figure things out for themselves and are more likely to make mistakes.",
+    "folder_name": "The Biggest Disadvantage of Starting One's Own Business",
+    "original_image_file": "The Biggest Disadvantage of Starting One's Own Business.png"
+  },
+  "Local or Regional Government Reducing Spending": {
+    "topic": "Government Budget Cuts",
+    "professor_prompt": "We have recently read in our textbook that local or regional governments often need to reduce the amount of money budgeted in some areas in response to economic shortfalls. For instance, a city council may make the difficult decision to spend less on a certain public service for its residents. In your view, in what one or two areas should local or regional governments reduce spending when budget cuts are necessary? Why?",
+    "student_1_name": "Claire",
+    "student_1_response": "My city has a lot of parks that require a lot of upkeep. If there's a need to reduce expenses, the city could make changes to the parks that make them less expensive to maintain. For example, grass lawns, which need to be cut weekly, could be replaced with other plant species that do not need to be cut frequently.",
+    "student_2_name": "Paul",
+    "student_2_response": "Last time I went to City Hall to take care of some business, I saw a lot of employees standing around and doing nothing. I think the local government may be employing too many workers. It was just an impression I had, but I wonder if this is something that should be reviewed.",
+    "folder_name": "Local or Regional Government Reducing Spending",
+    "original_image_file": "Local or Regional Government Reducing Spending.png"
+  },
+  "Buy Goods Made in Their Own Country": {
+    "topic": "Consumer Behavior - Buying Domestic vs Imported Products",
+    "professor_prompt": "Some people prefer to buy certain goods produced outside their own country for various reasons, such as better price, appearance, or quality. While imported goods can offer advantages, the consumer's home country might benefit more if consumers buy products made where they live. Do you think people should try to buy goods made in their own country? Why or why not?",
+    "student_1_name": "Andrew",
+    "student_1_response": "Being on a budget, I must purchase products at a lower price, regardless of where they come from. I just bought a phone that works like a name-brand phone but was in my price range; I will purchase whatever product is the best price and has the features I need. So buying goods made outside my country doesn't bother me.",
+    "student_2_name": "Kelly",
+    "student_2_response": "Products such as clothing that are made in my country are often more attractive than those made in other places, even if they are a bit more expensive. Buying attractive products made in my country is more satisfying than buying less-expensive goods from abroad. It helps manufacturers in my country, and I really enjoy the look of the clothes.",
+    "folder_name": "Buy Goods Made in Their Own Country",
+    "original_image_file": "Buy Goods Made in Their Own Country.png"
+  },
+  "Car-free Central Zones": {
+    "topic": "Urban Traffic Management",
+    "professor_prompt": "In the next few weeks, we'll be talking about urban traffic management. Let's begin by discussing one popular idea—creating car-free central zones. Some cities around the world have recently designated their downtown areas as being automobile-free, which means that vehicles are not allowed to enter the city centers. Do you think that more cities should make their central zones car-free? Why or why not?",
+    "student_1_name": "Claire",
+    "student_1_response": "I support the idea of establishing car-free central zones because this will result in one important benefit for city residents—it will be better for their health. Instead of driving everywhere, people will be encouraged to walk or cycle more. It would be a great way to incorporate exercise into people's routines.",
+    "student_2_name": "",
+    "student_2_response": "It sounds like a good idea, but I'm skeptical. My main concern is that many businesses located in the city centers, such as shops and restaurants, may suffer because the customers will no longer be able to reach those businesses by car. For some customers, if they can't drive, they won't go at all.",
+    "folder_name": "Car-free Central Zones",
+    "original_image_file": "Car-free Central Zones.png"
+  },
+  "Buying Used Or Recycled Products": {
+    "topic": "Environmental Impact on Consumer Behavior: Buying Used vs New Products",
+    "professor_prompt": "This week in class, we are discussing how concern about the environment is affecting consumer behavior. One recent trend in some countries is that consumers are trying to reuse products and materials as much as possible; for example, by buying used clothing or a used car instead of a new one. In your posts, I want you to discuss either an advantage or a disadvantage of buying used or recycled products as opposed to new ones.",
+    "student_1_name": "Andrew",
+    "student_1_response": "Besides the benefits to the environment, one advantage is that many vintage, previously owned products have more charm. For example, old furniture has a lot of character and history, and it always makes a room more interesting. People can even make furniture from reclaimed materials, like making a table from an old wooden door, which always looks unique.",
+    "student_2_name": "Kelly",
+    "student_2_response": "Buying used products has its drawbacks. New products are backed by the company that made them. If you buy a new washing machine and it does not work properly, the company will replace or repair it. If you buy something used and it breaks, it's your responsibility to fix it, and the parts are not always available.",
+    "folder_name": "Buying Used Or Recycled Products",
+    "original_image_file": "Buying Used Or Recycled Products.png"
+  },
+  "The Most Important Thing University Should Consider When Making Spending": {
+    "topic": "University Spending Decisions",
+    "professor_prompt": "Last week, we started talking about decisions that university administrators have to make regarding spending. They often need to decide how to allocate their funds, including renovating existing facilities, offering new amenities, and so on. For example, a university could spend money to upgrade a sports stadium, build a new performing arts center, or do a variety of other things. What is the most important thing university administrators should consider when making",
+    "student_1_name": "Claire",
+    "student_1_response": "I think the university should get input from its students about what improvement they want to see on their campus. After all, they make up the majority of people who will be attending sporting events at a renovated stadium or live musical and theater performances in a new performing arts center.",
+    "student_2_name": "Paul",
+    "student_2_response": "The university needs to consider how much revenue a facility would generate. Building a new facility or renovating an old one would both be very costly, so administrators need to think about which option would bring in the most money in the future. Generating revenue would allow the university to make other improvements to the campus in the future.",
+    "folder_name": "The Most Important Thing University Should Consider When Making Spending",
+    "original_image_file": "The Most Important Thing University Should Consider When Making Spending.png"
+  },
+  "Social Media Influencers": {
+    "topic": "Social Media Influencers",
+    "professor_prompt": "In your opinion, do the things that influencers post on social media have a positive or negative impact on the society we live in today?",
+    "student_1_name": "Paul",
+    "student_1_response": "In my opinion, influencers on social media generally have a negative impact on the society where we live today. For starters, in order to gain more public attention and view rates, some influencers might do something that might disturb others or even against the laws, which would definitely create terrible influence to the society. For instance, some people might do random interviews on the street, and use cameras to record the process and post it on online platform. Such behavior would disturb other people's daily life and many influencers are posting their videos without any consent. In addition, some people might copy characters from some games such as GTA 5, and they might even try to rob the bank while doing livestreaming, just to obtain more views from the public. Gradually, some teenagers might start imitating those people's actions, seeking for more online exposure and views, which is absolutely not conducive to the development of a social environment.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Social Media Influencers",
+    "original_image_file": "2023_09_19_15_03.jpg"
+  },
+  "Improve Schoolteachers' Salaries or Additional Resources": {
+    "topic": "Teacher Salaries",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my opinion, I believe teacher's salaries should be raised. To begin with, it is known to all that the general salary for teachers is not in the same league as that for other industries such as finance or business. Therefore, many talented people would consider those more profitable occupations when deciding their careers. However, if the overall salary for teachers could be increased, more capable and competitive people would start choosing teachers as their professions. With more experts and professionals in education industry, the quality of students' courses will also be significantly boosted, which would in turn result in better academic performances among students. These students would have a bigger chance to make more valuable contribution to the whole society and make the world a better place. Admittedly, some people believe that spending money on additional resources is a good option, but raising teachers' salaries and encouraging them to do more research and improve their teaching skills would generate far more benefit than buying more advanced computers or books for students.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Improve Schoolteachers' Salaries or Additional Resources",
+    "original_image_file": "2023_11_19_14_22.png"
+  },
+  "Job-Sharing Arrangement": {
+    "topic": "Job-Sharing Arrangements",
+    "professor_prompt": "In recent years, some companies have introduced job-sharing arrangements, in which two employees share the responsibilities of a single full-time position. Do you think this practice is beneficial for both companies and workers?",
+    "student_1_name": "Paul",
+    "student_1_response": "In my point of view, job-sharing arrangement is a poor idea in the workforce. First off, such working arrangement might severely hurt companies' profits since it would necessarily decrease employees' working efficiency. Dividing one job into exactly two parts with the same amount of workload is rather difficult to bear, as some more troubles would be able to create between two workers which would decrease one less efficiency.",
+    "student_2_name": "Kelly",
+    "student_2_response": "I believe that job-sharing arrangements can be very convenient for both companies and workers. For companies, they can attract more talented candidates by offering flexible working options, which can help retain experienced employees who might otherwise leave due to family commitments or other obligations. For workers, job-sharing allows for better work-life balance while still maintaining a professional career and income. This flexibility can lead to higher job satisfaction and reduced stress, ultimately benefiting the company through increased productivity and lower turnover rates.",
+    "folder_name": "Job-Sharing Arrangement",
+    "original_image_file": "2023_08_28_23_57.jpg"
+  },
+  "Excessive Consumption": {
+    "topic": "Over-consumption and Materialism",
+    "professor_prompt": "We've been discussing the idea that human well-being is not necessarily improved by ever-increasing production and consumption of goods and services. Some people argue that humans already consume too many goods, from clothing to electronics to food; they believe that excessive consumption has created serious problems for humanity and even the planet. Do you agree that excessive consumption--buying more than we truly need--has become a serious problem? Why or why not?",
+    "student_1_name": "Andrew",
+    "student_1_response": "I absolutely agree. We buy far more than we need, and that can't continue indefinitely. For years people have used shopping as a form of recreation. The products bought on a whim are filling up landfills, and the energy expended producing the goods has created a global warming crisis. We should start gradually reducing consumption.",
+    "student_2_name": "Claire",
+    "student_2_response": "I disagree with the idea that over-consumption is a dramatic problem. I agree there is some over-consumption, but it happens mostly with wealthy people. I think in general almost everyone else already buys only what they need. In fact, many people around the world are not even able to obtain everything they need.",
+    "folder_name": "Excessive Consumption",
+    "original_image_file": "Excessive Consumption.png"
+  },
+  "Automation": {
+    "folder_name": "Automation",
+    "error": "OCR failed or empty content"
+  },
+  "Difference between People from Different Countries Increasing Or Diminishing？": {
+    "topic": "Cross-Cultural Differences and Similarities",
+    "professor_prompt": "With so many opportunities to connect nowadays, some people believe that no matter which country we come from, we have more similarities than we have differences. However, others have observed that differences between themselves and people from other countries are growing. In your view, are differences between people from different countries increasing, or are they diminishing? Why?",
+    "student_1_name": "Andrew",
+    "student_1_response": "I think the differences among us are decreasing as our exposure to products from other countries grows. We can enjoy food from any country. We can watch movies made in faraway places. We can go to a store and buy authentic goods from around the world. These things become part of our normal life and make our differences seem smaller.",
+    "student_2_name": "Kelly",
+    "student_2_response": "I understand what Andrew is saying, but for some people, being exposed to differences makes them retreat into their own corner even more. Look at social media. We are exposed to many different people and ideas, but a lot of people talk to only those they agree with and ignore the rest. This only makes the differences between people increase.",
+    "folder_name": "Difference between People from Different Countries Increasing Or Diminishing？",
+    "original_image_file": "Difference between People from Different Countries Increasing Or Diminishing？.jpg"
+  },
+  "Space Exploration": {
+    "folder_name": "Space Exploration",
+    "error": "OCR failed or empty content"
+  },
+  "Lecturing or Project-based Learning": {
+    "topic": "Education - Project-based Learning vs Traditional Lectures",
+    "professor_prompt": "This week we will be focusing on an instructional approach called project-based learning. In traditional teaching, teachers largely give lectures and ask students questions about the lecture material. But in project-based learning, students acquire and demonstrate knowledge and skills by working on a course-related project, typically with other students. Before our class tomorrow, I'd like your opinion: Do you think project-based learning is more effective at promoting learning than the traditional lecture method?",
+    "student_1_name": "Andrew",
+    "student_1_response": "I find the traditional lecture method to be more effective because the information students need to know is given to them directly. In project-based learning, students need to find their own topics and rely on themselves to get information and they might end up missing important information about the topic.",
+    "student_2_name": "Student 2",
+    "student_2_response": "I think the process of project-based learning is more effective at helping you develop useful skills, especially interpersonal skills that can be helpful in your career. You can even list the projects you have worked on when applying for a job, which should impress potential employers.",
+    "folder_name": "Lecturing or Project-based Learning",
+    "original_image_file": "Lecturing or Project-based Learning.jpg"
+  },
+  "Continual Risks as Business Strategy": {
+    "topic": "Business Risk and Mistakes",
+    "professor_prompt": "We've been discussing business strategies and the attitudes of businesspeople toward risk and opportunity. The scientist Albert Einstein once said that a person who never made a mistake never tried anything new. He was probably referring to physics, but I wonder how this attitude might apply to the business world. Do you think it is a good business strategy to take continual risks even though they might result in mistakes that could affect a company negatively?",
+    "student_1_name": "Paul",
+    "student_1_response": "I think this strategy can easily backfire on a businessperson. I've seen companies conduct endless cycles of product enhancements in an effort to capture some other market share. But in reality, they just damage their own brand by sacrificing too much of the original content that made the product popular in the first place.",
+    "student_2_name": "Claire",
+    "student_2_response": "I disagree with Paul. Most profitable businesses have used this strategy, or they would have never made it to the top. If you try to grow a business aggressively, some mistakes along the way are inevitable. Too much caution or too much emphasis on avoiding mistakes can really prevent growth.",
+    "folder_name": "Continual Risks as Business Strategy",
+    "original_image_file": "Continual Risks as Business Strategy.png"
+  },
+  "Students Exploring Nature and Learning about Environment": {
+    "topic": "Outdoor Classes in Schools",
+    "professor_prompt": "This week, we'll be discussing ways in which schools can help expose their students (aged 5-18) to learning experiences beyond the classroom. Let's begin by discussing one popular idea that some schools are considering—offering outdoor classes once a month. On the day of outdoor classes, students will be transported to local parks or nature preserves, and teachers can help students explore nature and learn about the environment. Do you think this is a good idea?",
+    "student_1_name": "Kelly",
+    "student_1_response": "Having outdoor classes once a month seems like an exciting way of providing students with interesting hands-on experiences. However, I don't think these classes would be a worthwhile use of instructional time and of school resources. These classes could put substantial pressure on schools' financial resources and on teachers, who may have to redesign their lesson plans.",
+    "student_2_name": "Paul",
+    "student_2_response": "Outdoor classes can increase students' motivation for learning about interconnectedness in the natural world. These classes could be great opportunities to teach students about dire environmental problems, such as pollution, and ways of addressing these problems. It will deepen their understanding beyond what books could do and would be time well spent.",
+    "folder_name": "Students Exploring Nature and Learning about Environment",
+    "original_image_file": "Students Exploring Nature and Learning about Environment.png"
+  },
+  "Take Breaks from Reading Or Watching News": {
+    "topic": "Taking Breaks from News",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my opinion, it is beneficial for people to take breaks from all the different news. First, it can reduce people's anxiety and stress levels. With the development of technology, many different kinds of news appear in people's daily lives. People are also being exposed to numerous negative news reports every day, which will easily affect people's moods and contribute to their stress and anxiety. Taking a break allows individuals to disconnect from the constant flow of information, and prioritize their mental well-being. In this way, they can be well prepared for new pieces of information they are facing, and reduce mental stress. Second, it can also improve people's productivity. News consumption is usually time-consuming, taking a break from reading news allows people to have more free time, and they can spend that time with more valuable uses to improve efficiency and productivity.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Take Breaks from Reading Or Watching News",
+    "original_image_file": "2023_11_26_12_57.png"
+  },
+  "Governments Or Companies Regulate Social Media Platform": {
+    "topic": "Social Media Regulation",
+    "professor_prompt": "We have read studies that explain the negative impact of social media on both children and adults. Many believe that social media will remain widely used in the future, since it is both popular and useful in some contexts, but because of the problems it poses, it should be regulated in some way. In your opinion, should governments regulate social media platforms, or should social media companies regulate their platforms themselves? Why do you think so?",
+    "student_1_name": "Andrew",
+    "student_1_response": "I believe social media companies should regulate themselves. There are plenty of social media platforms on the market, so the competition is tough. For example, to appeal to parents, a social media platform could publicize that they have stringent regulations for children's use of the platform, and in this way it could attract more users who care about children's safety.",
+    "student_2_name": "Claire",
+    "student_2_response": "Social media companies should be taking an active role in combatting the negative effects, but that is not really happening. I hear many stories of false information spreading around, sometimes causing irreparable damage to people's reputations. Therefore, the government should put stricter regulations on the companies, and they should be punished for not following the rules.",
+    "folder_name": "Governments Or Companies Regulate Social Media Platform",
+    "original_image_file": "Governments Or Companies Regulate Social Media Platform.png"
+  },
+  "Do many possissions actually drecrease quality of life": {
+    "topic": "Quality of Life and Possessions",
+    "professor_prompt": "While owning lots of consumer products is believed to increase the quality of life, these products can also impose responsibilities on those who own them. For example, electronic devices, appliances, and vehicles require constant attention and regular maintenance. Possessions also need to be stored and organized, taking up time and space. For these reasons, some people argue that having many possessions can actually decrease the quality of life. Do you agree or disagree? Why?",
+    "student_1_name": "Claire",
+    "student_1_response": "I totally agree that an excess of possessions can drag down our quality of life. Just think about the time we spend organizing closets or garages. I spend hours every month sorting and storing clothes in my closet. This clutter and the time it takes to manage it can become overwhelming and detract from enjoying life.",
+    "student_2_name": "Paul",
+    "student_2_response": "Just the thought of having to constantly worry about my gadgets, or even my car, needing maintenance gives me anxiety. It's like adding extra homework to life. Life often requires owning many things, but personally, I hate having to keep track of them all or worry about them getting damaged or broken.",
+    "folder_name": "Do many possissions actually drecrease quality of life",
+    "original_image_file": "1.jpg"
+  },
+  "Shop at Small Local Stores Or Superstores": {
+    "topic": "Shopping at Small Local Stores vs Superstores",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "From my perspective, I don't think it's more beneficial for people to shop at small local stores rather than at superstores. To begin with, the local supermarket usually closes early, so its opening hours are not long enough to meet the requirements of most people. For instance, small local supermarkets are usually run by individuals, so we cannot guarantee that the shops will be open all day. Although some small supermarkets have a better service, just imagine, when we go to the small stores at midnight with no one to help, it would be even more inconvenient. In contrast, superstores not only operate all day, but also help us solve problems better since they have more staff to provide necessary aid for consumers. On top of that, superstores usually have a variety of goods. When people shop in a large supermarket, they usually buy more than they need to use. In that case, it decreases the number of times they go shopping, thus, reducing their",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Shop at Small Local Stores Or Superstores",
+    "original_image_file": "微信截图_20240206152856.png"
+  },
+  "Setting A Minimum age for Children to Have Mobile Phones": {
+    "topic": "Mobile Phone Age Limit for Children",
+    "professor_prompt": "This week we covered different parenting styles. One idea we discussed was how much independence and freedom we should give our children, especially young children. One related issue is whether there should be an age limit on when children can have mobile phones. In this discussion post, I would like you to discuss whether you agree or disagree with the idea of setting a minimum age for when children can have a mobile phone. Explain your opinion.",
+    "student_1_name": "Andrew",
+    "student_1_response": "I totally agree with the idea of not giving children phones before they reach a certain age, let's say ten years or so. I believe children younger than ten are not yet ready to deal with the world that comes with mobile phones, as it can put them in harm's way.",
+    "student_2_name": "Claire",
+    "student_2_response": "Honestly, I am against the idea of restricting mobile phone access for young children. I believe mobile phones can help children communicate with their parents if they need their help for an urgent matter when they are away from their parents at school or elsewhere. Maybe companies can invent a special kind of mobile phone that is somehow kid friendly.",
+    "folder_name": "Setting A Minimum age for Children to Have Mobile Phones",
+    "original_image_file": "Setting A Minimum age for Children to Have Mobile Phones.png"
+  },
+  "Four-day Workweek": {
+    "topic": "Four-day Workweek",
+    "professor_prompt": "What is your opinion on reducing the work week into a shorter week?",
+    "student_1_name": "Claire",
+    "student_1_response": "I totally agree with the idea of having a four-day workweek. To begin with, shorter working hours can give people time to relax and promote the happiness index of residents in such a stressful world. Personally, I will choose to spend that spare time with my family or devote it for my hobbies, and doing this will surely ease my anxiety. Moreover, it will also promote a relaxed atmosphere in the workplace leading to a better work experience and results. Some people might say doing the same amount of work within four days will cause an increase on people's working pressure on every single work day. However, the four-day workweek will lead to a higher working efficiency on each work day. And efficiency is what people admire the most in such high pace world life, not to mention the pressure mentioned above can be easily compensated by the weekend with an extra day.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Four-day Workweek",
+    "original_image_file": "2023_08_02_23_07 153字 25分.jpg"
+  },
+  "Pursuing Degree Full-time Or Continuing Work and Studying Part-time": {
+    "topic": "Full-time vs Part-time Education",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my opinion, I prefer to enroll in a full-time degree. First of all, a full-time degree can make us more competitive when we search for jobs. After we completed an advanced degree, our advanced expertise and ability to complete hard tasks in the filed we study, which are abilities that favored by the employers, would be guaranteed. As a result, we are more likely to be recruited by a better company with a higher salary, and we will have enough money to do other thing, like tour. However, if we choose to take a job before completing an advanced degree, we will be less competitive comparing to others who have completed their degrees, which means that we might end up with an undesirable job. In addition, taking a job will disturb our studies as well, since we can no longer put our full time into our studies.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Pursuing Degree Full-time Or Continuing Work and Studying Part-time",
+    "original_image_file": "微信截图_20240218105417.png"
+  },
+  "Make Plans to Spend Time off from Work or School": {
+    "topic": "Time Off and Leisure Planning",
+    "professor_prompt": "This week we talked about how important taking time off from work or school is for people's well-being. Some people believe they get the most benefit when that time off is structured; that is, it involves planning in advance about what will be accomplished on that day. Others believe it is better to enjoy the day with no plan for how to spend it. In this discussion post, please indicate which of those approaches to spending time off from work or school you prefer, and why.",
+    "student_1_name": "Claire",
+    "student_1_response": "I find it beneficial to do some advance planning for my free time. I live far away from my family, so when I am getting ready to visit them during a school holiday, I always plan my time off from school very carefully. That way I have enough time to visit with each family member.",
+    "student_2_name": "Paul",
+    "student_2_response": "Personally, I prefer not to make any plans for my free time. I go to school, and I have a part-time job, and each week I make a schedule to be sure I can complete both my work and my studies. So when I have time off from work and school, I just want to relax with no plan.",
+    "folder_name": "Make Plans to Spend Time off from Work or School",
+    "original_image_file": "Make Plans to Spend Time off from Work or School.png"
+  },
+  "Students Should Be Allowed to Choose Their Own Field of Study": {
+    "topic": "Students Choosing Their Own Field of Study at University",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my opinion, | believe that students who are currently studying in secondary school should not be allowed to choose their own field of study at university without any guide from parents or teachers. To begin with, many secondary students do not have a clear picture as to different field of studies, whereas teachers or parents, who are more experienced than young adolescents, would be equipped with more information and thus are able to make better choice. For example, professional teachers would know the future careers of studying different field, and they would thus inform students what it would be like in the future if they choose certain majors, helping them to understand the bigger picture. Besides, many parents would have a better understanding regarding their children's strength, making their adivce on students' future majors far more useful and valuable. Therefore, secondary students should consult their parents or teachers about their future majors.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Students Should Be Allowed to Choose Their Own Field of Study",
+    "original_image_file": "2023_08_13_12_04 153字.png"
+  },
+  "Motivating Young Students：Activities, Or Playtime": {
+    "topic": "Educational Activities and Learning Approaches",
+    "professor_prompt": "[Not found in OCR text]",
+    "student_1_name": "[Not found in OCR text]",
+    "student_1_response": "In my opinion, teachers should emphasize interesting, hands-on activities to make learning a fun thing. To start with, it can save money for teachers and schools. As time passes, the price value today keeps increasing. It is important now to spend money with the highest efficiency. If teachers need to give students extra treats, they will have a lot of extra spending on buying those treats, which might let teachers have a negative impression on teaching. In this way, the teacher's teaching quality might decrease, and have a negative impact on students' academic performance. Also, when students need extra play time, the number of teachers might not be enough so the school needs to hire extra teachers, which will be another expense. In contrast, giving students interesting and hands-on activities doesn't cost extra money, and schools can save those spending on more valuable approaches.",
+    "student_2_name": "[Not found in OCR text]",
+    "student_2_response": "[Not found in OCR text]",
+    "folder_name": "Motivating Young Students：Activities, Or Playtime",
+    "original_image_file": "2023_12_07_17_55.png"
+  },
+  "Watching Sports Or Following Their Favorite Team": {
+    "topic": "Sports Addiction and Watching Sports",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "In my opinion, I believe that it could have a negative effect on their lives. To begin with, many people would develop this addiction which could lead to more trouble due to the amount of time they spend on it. In modern society, it is easy for people to develop an addiction and be unaware of it due to the development of technology. Many people would sit on the sofa watching sports for the whole day and not feeling tired, which is a really bad habit. This unawareness could lead to conflict between families because they don't spend time with them; lack of exercise due to the amount of time they spend watching sports; or extreme expenditure like buying extreme amounts of sports events tickets. All of those would further damage them physically, financially, and socially. Furthermore, having this extreme affection toward sport could also cause conflict between people. Because many sports fans are quite extreme sometimes due to this strong support for their team, they could have conflicts with fans of other teams. This could lead to very extreme actions like riots and physical combats, that could damage the countries' reputation and individuals' health.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "Watching Sports Or Following Their Favorite Team",
+    "original_image_file": "2024_01_10_21_38.png"
+  },
+  "Journalism Being Negatively Affected？": {
+    "topic": "Citizen Journalism and Professional Standards",
+    "professor_prompt": "Last class, we started talking about how almost anyone today can write and post news articles to a Web site or even host a news podcast. People no longer need a degree in journalism or a professional connection to a news outlet to express their views and ideas to a wide audience. Some people believe this development negatively affects the field of journalism as well as consumers of news. Do you agree with this viewpoint? Why or why not?",
+    "student_1_name": "Kelly",
+    "student_1_response": "I do worry that people practicing journalism without professional training can actually harm others. Journalism courses in universities really emphasize the importance of checking facts and doing thorough research. I am concerned that someone who has not been taught journalistic standards may mislead readers in potentially harmful ways.",
+    "student_2_name": "Paul",
+    "student_2_response": "In the past, there was a much more limited range of views expressed in newspapers and other publications. I think we benefit today because many different points of view are expressed on social media. While journalistic standards on the Internet may not always be high, at least readers get to hear stories that might not otherwise be told.",
+    "folder_name": "Journalism Being Negatively Affected？",
+    "original_image_file": "Journalism Being Negatively Affected？.png"
+  },
+  "The Most Important Factor for Employer to Consider When Deciding where Employees Should Work": {
+    "topic": "Remote Work vs Office Work",
+    "professor_prompt": "",
+    "student_1_name": "",
+    "student_1_response": "From my perspective, the most important factor for employers to consider when deciding where employees should work is the time cost. The main reason is that time determines profits. When office is too far from employees' home, they may have to spend hours on commuting, which means they may have to get up quite early if employers requires them to reach the company, and that is an obviously unreasonable option. Under that situation and considering the time cost, employers would find that allowing employees to work at home would enable companies to produce more each day because employees receive more rest by saving the time spent on traveling long distance to the company, prompting their working efficiency. In this way, the whole company could be more productive, increasing the profit.",
+    "student_2_name": "",
+    "student_2_response": "",
+    "folder_name": "The Most Important Factor for Employer to Consider When Deciding where Employees Should Work",
+    "original_image_file": "微信截图_20240220093128.png"
+  }
+}

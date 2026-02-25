@@ -1,0 +1,219 @@
+{
+  "id": "ielts-r-0208",
+  "slug": "how-much-higher-how-much-faster",
+  "title": "How much higher? How much faster?",
+  "page_range": [
+    1054,
+    1058
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "power",
+    "2": "NOT GIVEN",
+    "9": "injuries",
+    "3": "FALSE",
+    "10": "training",
+    "4": "FALSE",
+    "11": "A",
+    "5": "NOT GIVEN",
+    "12": "D",
+    "6": "TRUE",
+    "13": "B",
+    "7": "genetics"
+  },
+  "content": {
+    "title": "How much higher? How much faster?",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Since the early years of the twentieth century, when the International Athletic Federation began keeping records, there has been a steady improvement in how fast athletes run, how high they jump and how far they are able to hurl massive objects, themselves included, through space. For the so-called power events – that require a relatively brief, explosive release of energy, like the 100-metre sprint and the long jump – times and distances have improved ten to twenty percent. In the endurance events the results have been more dramatic. At the 1908 Olympics, John Hayes of the U.S. team ran the marathon in a time of 2:55:18. In 1999, Morocco’s Khalid Khannouchi set a new world record of 2:05:42, almost thirty percent faster."
+      },
+      {
+        "label": null,
+        "content": "No one theory can explain improvements in performance, but the most important factor has been genetics. ‘The athlete must choose his parents carefully,’ says Jesus Dapena, a sports scientist at Indiana University, invoking an oft-cited adage. Over the past century, the composition of the human gene pool has not changed appreciably, but with increasing global participation in athletics – and greater rewards to tempt athletes – it is more likely that individuals possessing the unique complement of genes for athletic performance can be identified early. ‘Was there someone like [sprinter] Michael Johnson in the 1920s?’ Dapena asks. ‘I’m sure there was, but his talent was probably never realized.’"
+      },
+      {
+        "label": null,
+        "content": "Identifying genetically talented individuals is only the first step. Michael Yessis, an emeritus professor of Sports Science at California State University at Fullerton, maintains that ‘genetics only determines about one third of what an athlete can do. But with the right training we can go much further with that one third than we’ve been going.’ Yessis believes that U.S. runners, despite their impressive achievements, are ‘running on their genetics’. By applying more scientific methods, ‘they’re going to go much faster’. These methods include strength training that duplicates what they are doing in their running events as well as plyometrics, a technique pioneered in the former Soviet Union."
+      },
+      {
+        "label": null,
+        "content": "Whereas most exercises are designed to build up strength or endurance, plyometrics focuses on increasing power – the rate at which an athlete can expend energy. When a sprinter runs, Yessis explains, her foot stays in contact with the ground for just under a tenth of a second, half of which is devoted to landing and the other half to pushing off. Plyometric exercises help athletes make the best use of this brief interval."
+      },
+      {
+        "label": null,
+        "content": "Nutrition is another area that sports trainers have failed to address adequately. ‘Many athletes are not getting the best nutrition, even through supplements,’ Yessis insists. Each activity has its own nutritional needs. Few coaches, for instance, understand how deficiencies in trace minerals can lead to injuries."
+      },
+      {
+        "label": null,
+        "content": "Focused training will also play a role in enabling records to be broken. ‘If we applied the Russian training model to some of the outstanding runners we have in this country,’ Yessis asserts, ‘they would be breaking records left and right.’ He will not predict by how much, however: ‘Exactly what the limits are it’s hard to say, but there will be increases even if only by hundredths of a second, as long as our training continues to improve.’"
+      },
+      {
+        "label": null,
+        "content": "One of the most important new methodologies is biomechanics, the study of the body in motion. A biomechanic films an athlete in action and then digitizes her performance, recording the motion of every joint and limb in three dimensions. By applying Newton’s law to these motions, ‘we can say that this athlete’s run is not fast enough; that this one is not using his arms strongly enough during take-off,’ says Dapena, who uses these methods to help high jumpers. To date, however, biomechanics has made only a small difference to athletic performance."
+      },
+      {
+        "label": null,
+        "content": "Revolutionary ideas still come from the athletes themselves. For example, during the 1968 Olympics in Mexico City, a relatively unknown high jumper named Dick Fosbury won the gold by going over the bar backwards, in complete contradiction of all the received high-jumping wisdom, a move instantly dubbed the Fosbury flop. Fosbury himself did not know what he was doing. That understanding took the later analysis of biomechanics specialists, who put their minds to comprehending something that was too complex and unorthodox ever to have been invented through their own mathematical simulations. Fosbury also required another element that lies behind many improvements in athletic performance: an innovation in athletic equipment. In Fosbury’s case, it was the cushions that jumpers land on. Traditionally, high jumpers would land in pits filled with sawdust. But by Fosbury’s time, sawdust pits had been replaced by soft foam cushions, ideal for flopping."
+      },
+      {
+        "label": null,
+        "content": "In the end, most people who examine human performance are humbled by the resourcefulness of athletes and the powers of the human body. ‘Once you study athletics, you learn that it’s a vexingly complex issue,’ says John S. Raglin, a sports psychologist at Indiana University. ‘Core performance is not a simple or mundane thing of higher, faster, longer. So many variables enter into the equation, and our understanding in many cases is fundamental. We’re got a long way to go.’ For the foreseeable future, records will be made to be broken."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-6 on your answer sheet write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Modern official athletic records date from about 1900.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "There was little improvement in athletic performance before the twentieth century.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Performance has improved most greatly in events requiring an intensive burst of energy.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Improvements in athletic performance can be fully explained by genetics.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The parents of top athletes have often been successful athletes themselves.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The growing international importance of athletics means that gifted athletes can be recognised at a younger age.",
+            "answer": "TRUE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below with words taken from Reading Passage. Use ONE WORD for each answer.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "According to Professor Yessis, American runners are relying for their current success on",
+            "answer": "genetics",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Yessis describes a training approach from the former Soviet Union that aims to develop an athlete’s",
+            "answer": "power",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Yessis links an inadequate diet to",
+            "answer": "injuries",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Yessis claims that the key to setting new records is better",
+            "answer": "training",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Biomechanics films are proving particularly useful because they enable trainers to",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "highlight areas for improvement in athletes."
+              },
+              {
+                "label": "B",
+                "text": "assess the fitness levels of athletes."
+              },
+              {
+                "label": "C",
+                "text": "select top athletes."
+              },
+              {
+                "label": "D",
+                "text": "predict the success of athletes."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Biomechanics specialists used theoretical models to",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "soften the Fosbury flop."
+              },
+              {
+                "label": "B",
+                "text": "create the Fosbury flop."
+              },
+              {
+                "label": "C",
+                "text": "correct the Fosbury flop."
+              },
+              {
+                "label": "D",
+                "text": "explain the Fosbury flop."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "John S. Raglin believes our current knowledge of athletics is",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "mistaken."
+              },
+              {
+                "label": "B",
+                "text": "basic."
+              },
+              {
+                "label": "C",
+                "text": "diverse."
+              },
+              {
+                "label": "D",
+                "text": "theoretical."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:22:46.709248"
+}

@@ -1,0 +1,169 @@
+{
+  "id": "ielts-r-0242",
+  "slug": "knowledge-in-medicine",
+  "title": "Knowledge in medicine",
+  "page_range": [
+    1226,
+    1229
+  ],
+  "raw_answer_key": {
+    "1": "bad cough",
+    "8": "F",
+    "2": "blood pressure",
+    "9": "H",
+    "3": "families and friends",
+    "10": "H",
+    "4": "Practitioner",
+    "11": "I",
+    "5": "Diagnosis",
+    "12": "G",
+    "6": "background",
+    "13": "D",
+    "7": "E",
+    "14": "B"
+  },
+  "content": {
+    "title": "Knowledge in Medicine",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "What counts as knowledge? What do we mean when we say that we know something? What is the status of different kinds of knowledge? In order to explore these questions, we are going to focus on one particular area of knowledge – medicine."
+      },
+      {
+        "label": "B",
+        "content": "How do you know when you are ill? This may seem to be an absurd question. You know you are ill because you feel ill; your body tells you that you are ill. You may know that you feel pain or discomfort but knowing you are ill is a bit more complex. At times, people experience the symptoms of illness, but in fact, they are simply tired or over-worked or they may just have a hangover. At other times, people may be suffering from a disease and fail to be aware of the illness until it has reached a late stage in its development. So how do we know we are ill, and what counts as knowledge?"
+      },
+      {
+        "label": "C",
+        "content": "Think about this example. You feel unwell. You have a bad cough and always seem to be tired. Perhaps it could be stress at work, or maybe you should give up smoking. You feel worse. You visit the doctor who listens to your chest and heart, takes your temperature and blood pressure, and then finally prescribes antibiotics for your cough."
+      },
+      {
+        "label": "D",
+        "content": "Things do not improve but you struggle on thinking you should pull yourself together, perhaps things will ease off at work soon. A return visit to your doctor shocks you. This time the doctor, drawing on years of training and experience, diagnoses pneumonia. This means that you will need bed rest and a considerable time off work. The scenario is transformed. Although you still have the same symptoms, you no longer think that these are caused by pressure at work. You now have proof that you are ill. This is the result of the combination of your own subjective experience and the diagnosis of someone who has the status of a medical expert. You have a medically authenticated diagnosis and it appears that you are seriously ill; you know you are ill and have the evidence upon which to base this knowledge."
+      },
+      {
+        "label": "E",
+        "content": "This scenario shows many different sources of knowledge. For example, you decide to consult the doctor in the first place because you feel unwell – this is personal knowledge about your own body. However, the doctor’s expert diagnosis is based on experience and training, with sources of knowledge as diverse as other experts, laboratory reports, medical textbooks and years of experience."
+      },
+      {
+        "label": "F",
+        "content": "One source of knowledge is the experience of our own bodies; the personal knowledge we have of changes that might be significant, as well as the subjective experiences are mediated by other forms of knowledge such as the words we have available to describe our experience, and the common sense of our families and friends as well as that drawn from popular culture. Over the past decade, for example, Western culture has seen a significant emphasis on stress-related illness in the media. Reference to being ‘stressed out’ has become a common response in daily exchanges in the workplace and has become part of popular common-sense knowledge. It is thus not surprising that we might seek such an explanation of physical symptoms of discomfort."
+      },
+      {
+        "label": "G",
+        "content": "We might also rely on the observations of others who know us. Comments from friends and family such as ‘you do look ill’ or ‘that’s a bad cough’ might be another source of knowledge. Complementary health practices, such as holistic medicine, produce their own sets of knowledge upon which we might also draw in deciding the nature and degree of our ill health and about possible treatments."
+      },
+      {
+        "label": "H",
+        "content": "Perhaps the most influential and authoritative source of knowledge is the medical knowledge provided by the general practitioner. We expect the doctor to have access to expert knowledge. This is socially sanctioned. It would not be acceptable to notify our employer that we simply felt too unwell to turn up for work or that our faith healer, astrologer, therapist or even our priest thought it was not a good idea. We need an expert medical diagnosis in order to obtain the necessary certificate if we need to be off work for more than the statutory self-certification period. The knowledge of the medical sciences is privileged in this respect in contemporary Western culture. Medical practitioners are also seen as having the required expert knowledge that permits them legally to prescribe drugs and treatment to which patients would not otherwise have access. However, there is a range of different knowledge upon which we draw when making decisions about our own state of health."
+      },
+      {
+        "label": "I",
+        "content": "However, there is more than existing knowledge in this little story; new knowledge is constructed within it. Given the doctor’s medical training and background, she may hypothesize ‘is this now pneumonia?’ and then proceed to look for evidence about it. She will use observations and instruments to assess the evidence and – critically – interpret it in light of her training and experience. This results in new knowledge and new experience both for you and for the doctor. This will then be added to the doctor’s medical knowledge and may help in the future diagnosis of pneumonia."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Symptoms of a ..................... and tiredness",
+            "answer": "bad cough",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Doctor’s measurement by taking ..................... and temperature",
+            "answer": "blood pressure",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Common judgment from ..................... around you",
+            "answer": "families and friends",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Medical knowledge from the general .....................",
+            "answer": "Practitioner",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "e.g. doctor’s medical .....................",
+            "answer": "Diagnosis",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Examine the medical hypothesis with the previous drill and .....................",
+            "answer": "background",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The Reading Passage has nine paragraphs A-I. Which paragraph contains the following information?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "the contrast between the nature of personal judgment and the nature of doctor’s diagnosis",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "a reference of culture about pressure",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "sick leave will not be permitted without the professional diagnosis",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "how doctors’ opinions are regarded in society",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "the illness of patients can become part of new knowledge",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "a description of knowledge drawn from non-specialized sources other than personal knowledge",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "an example of collective judgment from personal experience and professional doctor",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "a reference that some people do not realize they are ill",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:32:49.424759"
+}

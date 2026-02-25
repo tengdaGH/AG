@@ -1,0 +1,370 @@
+{
+  "id": "ielts-r-0334",
+  "slug": "persistent-bullying-is-one-of-the-worst-experiences-a-child-can-face",
+  "title": "Persistent bullying is one of the worst experiences a child can face",
+  "page_range": [
+    1692,
+    1697
+  ],
+  "raw_answer_key": {
+    "1": "iv",
+    "8": "A",
+    "2": "vi",
+    "9": "policy",
+    "3": "v",
+    "10": "(explicit) guidelines",
+    "4": "vii",
+    "11": "(school) curriculum",
+    "5": "B",
+    "12": "victims",
+    "6": "D",
+    "13": "playful fighting",
+    "7": "D",
+    "14": "D"
+  },
+  "content": {
+    "title": "Persistent Bullying: Prevention and Intervention",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Bullying can take a variety of forms, from the verbal - being taunted or called hurtful names - to the physical - being kicked or shoved - as well as indirect forms, such as being excluded from social groups. A survey I conducted with Irene Whitney found that in British primary schools up to a quarter of pupils reported experience of bullying, which in about one in ten cases was persistent. There was less bullying in secondary schools, with about one in twenty-five suffering persistent bullying, but these cases may be particularly recalcitrant."
+      },
+      {
+        "label": "B",
+        "content": "Bullying is clearly unpleasant, and can make the child experiencing it feel unworthy and depressed. In extreme cases it can even lead to suicide, though this is thankfully rare. Victimised pupils are more likely to experience difficulties with interpersonal relationships as adults, while children who persistently bully are more likely to grow up to be physically violent, and convicted of anti-social offences."
+      },
+      {
+        "label": "C",
+        "content": "Until recently, not much was known about the topic, and little help was available to teachers to deal with bullying. Perhaps as a consequence, schools would often deny the problem. ‘There is no bullying at this school’ has been a common refrain, almost certainly untrue. Fortunately more schools are now saying: There is not much bullying here, but when it occurs we have a clear policy for dealing with it."
+      },
+      {
+        "label": "D",
+        "content": "Three factors are involved in this change. First is an awareness of the severity of the problem. Second, a number of resources to help tackle bullying have become available in Britain. For example, the Scottish Council for Research in Education produced a package of materials, Action Against Bullying, circulated to all schools in England and Wales as well as in Scotland in summer 1992, with a second pack, Supporting Schools Against Bullying, produced the following year. In Ireland, Guidelines on Countering Bullying Behaviour in Post-Primary Schools was published in 1993. Third, there is evidence that these materials work, and that schools can achieve something. This comes from carefully conducted ‘before and after’ evaluations of interventions in schools, monitored by a research team. In Norway, after an intervention campaign was introduced nationally, an evaluation of forty-two schools suggested that, over a two-year period, bullying was halved. The Sheffield investigation, which involved sixteen primary schools and seven secondary schools, found that most schools succeeded in reducing bullying."
+      },
+      {
+        "label": "E",
+        "content": "Evidence suggests that a key step is to develop a policy on bullying, saying clearly what is meant by bullying, and giving explicit guidelines on what will be done if it occurs, what records will be kept, who will be informed, what sanctions will be employed. The policy should be developed through consultation, over a period of time - not just imposed from the head teacher’s office! Pupils, parents and staff should feel they have been involved in the policy, which needs to be disseminated and implemented effectively. Other actions can be taken to back up the policy. There are ways of dealing with the topic through the curriculum, using video, drama and literature. These are useful for raising awareness, and can best be tied in to early phases of development, while the school is starting to discuss the issue of bullying. They are also useful in renewing the policy for new pupils, or revising it in the light of experience. But curriculum work alone may only have short-term effects; it should be an addition to policy work, not a substitute. There are also ways of working with individual pupils, or in small groups. Assertiveness training for pupils who are liable to be victims is worthwhile, and certain approaches to group bullying such as 'no blame’, can be useful in changing the behaviour of bullying pupils without confronting them directly, although other sanctions may be needed for those who continue with persistent bullying. Work in the playground is important, too. One helpful step is to train lunchtime supervisors to distinguish bullying from playful fighting, and help them break up conflicts. Another possibility is to improve the playground environment, so that pupils are less likely to be led into bullying from boredom or frustration."
+      },
+      {
+        "label": "F",
+        "content": "With these developments, schools can expect that at least the most serious kinds of bullying can largely be prevented. The more effort put in and the wider the whole school involvement, the more substantial the results are likely to be. The reduction in bullying - and the consequent improvement in pupil happiness - is surely a worthwhile objective."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for sections A-D from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Section A",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "The role of video violence"
+              },
+              {
+                "label": "ii",
+                "text": "The failure of government policy"
+              },
+              {
+                "label": "iii",
+                "text": "Reasons for the increased rate of bullying"
+              },
+              {
+                "label": "iv",
+                "text": "Research into how common bullying is in British schools"
+              },
+              {
+                "label": "v",
+                "text": "The reaction from schools to enquiries about bullying"
+              },
+              {
+                "label": "vi",
+                "text": "The effect of bullying on the children involved"
+              },
+              {
+                "label": "vii",
+                "text": "Developments that have led to a new approach by schools"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Section B",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "The role of video violence"
+              },
+              {
+                "label": "ii",
+                "text": "The failure of government policy"
+              },
+              {
+                "label": "iii",
+                "text": "Reasons for the increased rate of bullying"
+              },
+              {
+                "label": "iv",
+                "text": "Research into how common bullying is in British schools"
+              },
+              {
+                "label": "v",
+                "text": "The reaction from schools to enquiries about bullying"
+              },
+              {
+                "label": "vi",
+                "text": "The effect of bullying on the children involved"
+              },
+              {
+                "label": "vii",
+                "text": "Developments that have led to a new approach by schools"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Section C",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "The role of video violence"
+              },
+              {
+                "label": "ii",
+                "text": "The failure of government policy"
+              },
+              {
+                "label": "iii",
+                "text": "Reasons for the increased rate of bullying"
+              },
+              {
+                "label": "iv",
+                "text": "Research into how common bullying is in British schools"
+              },
+              {
+                "label": "v",
+                "text": "The reaction from schools to enquiries about bullying"
+              },
+              {
+                "label": "vi",
+                "text": "The effect of bullying on the children involved"
+              },
+              {
+                "label": "vii",
+                "text": "Developments that have led to a new approach by schools"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Section D",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The role of video violence"
+              },
+              {
+                "label": "ii",
+                "text": "The failure of government policy"
+              },
+              {
+                "label": "iii",
+                "text": "Reasons for the increased rate of bullying"
+              },
+              {
+                "label": "iv",
+                "text": "Research into how common bullying is in British schools"
+              },
+              {
+                "label": "v",
+                "text": "The reaction from schools to enquiries about bullying"
+              },
+              {
+                "label": "vi",
+                "text": "The effect of bullying on the children involved"
+              },
+              {
+                "label": "vii",
+                "text": "Developments that have led to a new approach by schools"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "A recent survey found that in British secondary schools",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "there was more bullying than had previously been the case."
+              },
+              {
+                "label": "B",
+                "text": "there was less bullying than in primary schools."
+              },
+              {
+                "label": "C",
+                "text": "cases of persistent bullying were very common."
+              },
+              {
+                "label": "D",
+                "text": "indirect forms of bullying were particularly difficult to deal with."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Children who are bullied",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "are twice as likely to commit suicide as the average person."
+              },
+              {
+                "label": "B",
+                "text": "find it more difficult to relate to adults."
+              },
+              {
+                "label": "C",
+                "text": "are less likely to be violent in later life."
+              },
+              {
+                "label": "D",
+                "text": "may have difficulty forming relationships in later life."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The writer thinks that the declaration ‘There is no bullying at this school’",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "is no longer true in many schools."
+              },
+              {
+                "label": "B",
+                "text": "was not in fact made by many schools."
+              },
+              {
+                "label": "C",
+                "text": "reflected the school’s lack of concern."
+              },
+              {
+                "label": "D",
+                "text": "reflected a lack of knowledge and resources."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "What were the findings of research carried out in Norway?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Bullying declined by 50% after an anti-bullying campaign."
+              },
+              {
+                "label": "B",
+                "text": "Twenty-one schools reduced bullying as a result of an anti-bullying campaign."
+              },
+              {
+                "label": "C",
+                "text": "Two years is the optimum length for an anti-bullying campaign."
+              },
+              {
+                "label": "D",
+                "text": "Bullying is a less serious problem in Norway than in the UK."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "What steps should schools take to reduce bullying? The most important step is for the school authorities to produce a",
+            "answer": "policy",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "which makes the school's attitude towards bullying quite clear. It should include detailed",
+            "answer": "(explicit) guidelines",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "as to how the school and its staff will react if bullying occurs. In addition, action can be taken through the",
+            "answer": "(school) curriculum",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "This is particularly useful in the early part of the process, as a way of raising awareness and encouraging discussion. On its own, however, it is insufficient to bring about a permanent solution. Effective work can also be done with individual pupils and small groups. For example, potential",
+            "answer": "victims",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "of bullying can be trained to be more self-confident. Or again, in dealing with group bullying, a 'no blame' approach, which avoids confronting the offender too directly, is often effective. Playground supervision will be more effective if members of staff are trained to recognise the difference between bullying and mere",
+            "answer": "playful fighting",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 14,
+            "text": "Which of the following is the most suitable title for Reading Passage 3?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Bullying: what parents can do"
+              },
+              {
+                "label": "B",
+                "text": "Bullying: are the media to blame?"
+              },
+              {
+                "label": "C",
+                "text": "Bullying: the link with academic failure"
+              },
+              {
+                "label": "D",
+                "text": "Bullying: from crisis management to prevention"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T01:38:30.850770"
+}

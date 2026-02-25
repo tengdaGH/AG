@@ -1,0 +1,235 @@
+{
+  "id": "ielts-r-0499",
+  "slug": "the-impact-of-environment-to-children",
+  "title": "The Impact of Environment to Children",
+  "page_range": [
+    2528,
+    2532
+  ],
+  "raw_answer_key": {
+    "1": "Genetic",
+    "8": "interests",
+    "2": "all of siblings",
+    "9": "NOT GIVEN",
+    "3": "10%",
+    "10": "YES",
+    "4": "Non-shared",
+    "11": "NOT GIVEN environment",
+    "5": "40%",
+    "12": "NO",
+    "6": "interrupted",
+    "13": "B",
+    "7": "variations"
+  },
+  "content": {
+    "title": "The Impact of Environment to Children",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "What determines how a child develops? In reality, it would be impossible to account for each and every influence that ultimately determines who a child becomes. What we can look at are some of the most apparent influences such as genetics, parenting, experiences, friends, family relationships and school to help us understand the influences that help contribute to a child’s growth."
+      },
+      {
+        "label": "B",
+        "content": "Think of these influences as building blocks. While most people tend to have the same basic building blocks, these components can be put together in an infinite number of ways. Consider your own overall personality. How much of who you are today was shaped by your genetic inheritance, and how much is a result of your lifetime of experiences? This question has puzzled philosophers, psychologists and educators for hundreds of years and is frequently referred to as the nature versus nurture debate. Generally, the given rate of influence on children is 40% to 50%. It may refer to all of the siblings of a family. Are we the result of nature (our genetic background) or nurture (our environment)? Today, most researchers agree that child development involves a complex interaction of both nature and nurture, while some aspects of development may be strongly influenced by biology, environmental influences may also play a role. For example, the timing of when the onset of puberty occurs is largely the result of heredity, but environmental factors such as nutrition can also have an effect."
+      },
+      {
+        "label": "C",
+        "content": "From the earliest moments of life, the interaction of heredity and the environment works to shape who children are and who they will become. While the genetic instructions a child inherits from his parents may set out a road map for development, the environment can impact how these directions are expressed, shaped or even silenced. The complex interaction of nature and nurture does not just occur at certain moments or at certain periods of time; it is persistent and lifelong."
+      },
+      {
+        "label": "D",
+        "content": "The shared environment (also called common environment) refers to environmental influences that have the effect of making siblings more similar to one another. Shared environmental influences can include shared family experiences, shared peer groups, and sharing the same school and community. In general, there has not been strong evidence for shared environmental effects on many behaviors, particularly those measured in adults. Possible reasons for this are discussed. Shared environmental effects are evident in children and adolescents, but these effects generally decrease across the life span. New developments in behavior genetic methods have made it possible to specify shared environments of importance and to tease apart familial and nonfamilial sources of shared environmental influence. It may also refer to all of the siblings of a family, but the rate of influence is less than 10 percent."
+      },
+      {
+        "label": "E",
+        "content": "The importance of non-shared environment lay hidden within quantitative genetic studies since they began nearly a century ago. Quantitative genetic methods, such as twin and adoption methods, were designed to tease apart nature and nurture in order to explain family resemblance. For nearly all complex phenotypes, it has emerged that the answer to the question of the origins of family resemblance is nature-things run in families primarily for genetic reasons. However, the best available evidence for the importance of environmental influence comes from this same quantitative genetic research because genetic influence never explains all of the variances for complex phenotypes, and the remaining variance must be ascribed to environmental influences. Non-shared environment, it may refer to the part of the siblings of a family, the rate of influence to children is 40% to 50%."
+      },
+      {
+        "label": "F",
+        "content": "Yet it took many decades for the full meaning of these findings to emerge. If genetics explains why siblings growing up in the same family are similar, but the environment is important, then it must be the case that the salient environmental effects do not make siblings similar. That is, they are not shared by children growing up in the same family-they must be 'non-shared'. This implication about non-shared environmental import lay fallow in the field of quantitative genetics because the field’s attention was then firmly on the nature-nurture debate. 'Nurture' in the nature-nurture debate was implicitly taken to mean shared environment because, from Freud onwards, theories of socialization had assumed that children’s environments are doled out on a family-by-family basis. In contrast, the point of the non-shared environment is that environments are doled out on a child-by-child basis. Note that the phrase 'non-shared environment' is shorthand for a component of phenotypic variance-it refers to 'effects' rather than 'events', as discussed later. Research in recent years suggested that the impact from parents will be easy to be interrupted by the influence from the children of the same age. That also showed that variations of knowledge that children get from other culture are increasing. A number of interests between, whatever, fathers and mothers or parents and their children are conflicting."
+      },
+      {
+        "label": "G",
+        "content": "Because siblings living in the same home share some but not all of the potential genetic and environmental factors that influence their behaviors, teasing apart the potential influences of genetic and non-genetic factors that differentiate siblings is very difficult. Turkheimer and Waldron (2000) have noted that non-shared environmental influences——which include all of the random measurement error——may not be systematic, but instead may operate idiosyncratically and in ways that cannot be ascertained. Thus, the question is whether or not quasi-experimental behavioral genetic designs can be used to actually identify systematic non-shared environmental mechanisms cross-sectionally and longitudinally. This is the impetus for the current study."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table now. Choose NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Type of Impact to Children",
+            "answer": "Genetic",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Range of Reference to Siblings",
+            "answer": "all of siblings",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Rate of Influence",
+            "answer": "10%",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Type of Impact to Children",
+            "answer": "Non-shared",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Rate of Influence",
+            "answer": "40%-50%",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage. Using NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Research in recent years illuminated that the impact from parents will frequently be __________ by the peer’s pressure.",
+            "answer": "interrupted",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "It was also indicated that __________ of knowledge that children learned from other culture is increasing.",
+            "answer": "variations",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The study has found quantities of competing __________ between parents and children or even between parents themselves.",
+            "answer": "interests",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 9-12 on your answer sheet, write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "The more children there are in a family, the more impacts of environment it is.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Methods based on twin studies still meet unexpected differences that cannot be ascribed to be a purely genetic explanation.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Children prefer to speak the language from the children of the same age to the language spoken by their parents.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The Study of non-shared environment influence can be a generally agreed idea among researchers in the field.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D. Write your answers in box 13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "According to this passage, which comment is TRUE about the current Study of non-shared environment influence to children?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "a little biased in nature"
+              },
+              {
+                "label": "B",
+                "text": "not sufficiently proved"
+              },
+              {
+                "label": "C",
+                "text": "very systematic"
+              },
+              {
+                "label": "D",
+                "text": "can be workable"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:38:07.944754"
+}

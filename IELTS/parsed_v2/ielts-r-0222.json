@@ -1,0 +1,202 @@
+{
+  "id": "ielts-r-0222",
+  "slug": "information-theory---the-big-idea",
+  "title": "Information theory - the big idea",
+  "page_range": [
+    1123,
+    1127
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "Solar System",
+    "9": "sensors and circuits IN EITHER",
+    "2": "F ORDER; BOTH REQUIRED FOR ONE MARK",
+    "3": "B",
+    "10": "spares",
+    "4": "E",
+    "11": "radio dish",
+    "5": "A",
+    "12": "TRUE",
+    "6": "C",
+    "13": "TRUE",
+    "7": "Jupiter and Saturn IN EITHER ORDER; BOTH",
+    "14": "FALSE REQUIRED FOR ONE MARK"
+  },
+  "content": {
+    "title": "Information Theory - The Big Idea",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In April 2002 an event took place which demonstrated one of the many applications of information theory. The space probe, Voyager I, launched in 1977, had sent back spectacular images of Jupiter and Saturn and then soared out of the Solar System on a one-way mission to the stars. After 25 years of exposure to the freezing temperatures of deep space, the probe was beginning to show its age. Sensors and circuits were on the brink of failing and NASA experts realised that they had to do something or lose contact with their probe forever. The solution was to get a message to Voyager I to instruct it to use spares to change the failing parts. With the probe 12 billion kilometres from Earth, this was not an easy task. By means of a radio dish belonging to NASA’s Deep Space Network, the message was sent out into the depths of space. Even travelling at the speed of light, it took over 11 hours to reach its target, far beyond the orbit of Pluto. Yet, incredibly, the little probe managed to hear the faint call from its home planet, and successfully made the switchover."
+      },
+      {
+        "label": "B",
+        "content": "It was the longest-distance repair job in history, and a triumph for the NASA engineers. But it also highlighted the astonishing power of the techniques developed by American communications engineer Claude Shannon, who had died just a year earlier. Born in 1916 in Petoskey, Michigan, Shannon showed an early talent for maths and for building gadgets, and made breakthroughs in the foundations of computer technology when still a student. While at Bell Laboratories, Shannon developed information theory, but shunned the resulting acclaim. In the 1940s, he single-handedly created an entire science of communication which has since inveigled its way into a host of applications, from DVDs to satellite communications to bar codes - any area, in short, where data has to be conveyed rapidly yet accurately."
+      },
+      {
+        "label": "C",
+        "content": "This all seems light years away from the down-to-earth uses Shannon originally had for his work, which began when he was a 22-year-old graduate engineering student at the prestigious Massachusetts Institute of Technology in 1939. He set out with an apparently simple aim: to pin down the precise meaning of the concept of ‘information’. The most basic form of information, Shannon argued, is whether something is true or false - which can be captured in the binary unit, or ‘bit’, of the form 1 or 0. Having identified this fundamental unit, Shannon set about defining otherwise vague ideas about information and how to transmit it from place to place. In the process he discovered something surprising: it is always possible to guarantee information will get through random interference - ‘noise’ - intact."
+      },
+      {
+        "label": "D",
+        "content": "Noise usually means unwanted sounds which interfere with genuine information. Information theory generalises this idea via theorems that capture the effects of noise with mathematical precision. In particular, Shannon showed that noise sets a limit on the rate at which information can pass along communication channels while remaining error-free. This rate depends on the relative strengths of the signal and noise travelling down the communication channel, and on its capacity (its ‘bandwidth’). The resulting limit, given in units of bits per second, is the absolute maximum rate of error-free communication given signal strength and noise level. The trick, Shannon showed, is to find ways of packaging up - ‘coding’ - information to cope with the ravages of noise, while staying within the information-carrying capacity - ‘bandwidth’ - of the communication system being used."
+      },
+      {
+        "label": "E",
+        "content": "Over the years scientists have devised many such coding methods, and they have proved crucial in many technological feats. The Voyager spacecraft transmitted data using codes which added one extra bit for every single bit of information; the result was an error rate of just one bit in 10,000 - and stunningly clear pictures of the planets. Other codes have become part of everyday life - such as the Universal Product Code, or bar code, which uses a simple error-detecting system that ensures supermarket check-out lasers can read the price even on, say, a crumpled bag of crisps. As recently as 1993, engineers made a major breakthrough by discovering so-called turbo codes - which come very close to Shannon’s ultimate limit for the maximum rate that data can be transmitted reliably, and now play a key role in the mobile videophone revolution."
+      },
+      {
+        "label": "F",
+        "content": "Shannon also laid the foundations of more efficient ways of storing information, by stripping out superfluous (‘redundant’) bits from data which contributed little real information. As mobile phone text messages like ‘I CN C U’ show, it is often possible to leave out a lot of data without losing much meaning. As with error correction, however, there’s a limit beyond which messages become too ambiguous. Shannon showed how to calculate this limit, opening the way to the design of compression methods that cram maximum information into the minimum space."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information? Write the correct letter, A-F, in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "an explanation of the factors affecting the transmission of information",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "an example of how unnecessary information can be omitted",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "a reference to Shannon’s attitude to fame",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "details of a machine capable of interpreting incomplete information",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "a detailed account of an incident involving information theory",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "a reference to what Shannon initially intended to achieve in his research",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the notes below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 7-11 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "The probe transmitted pictures of both 7.....................",
+            "answer": "Jupiter and Saturn IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "then left the 8.....................",
+            "answer": "Solar System",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Scientists feared that both the 9.....................",
+            "answer": "sensors and circuits IN EITHER ORDER; BOTH REQUIRED FOR ONE MARK",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "The only hope was to tell the probe to replace them with 10.....................",
+            "answer": "spares",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "A 11.................... was used to transmit the message at the speed of light.",
+            "answer": "radio dish",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 12-14 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "The concept of describing something as true or false was the starting point for Shannon in his attempts to send messages over distances.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The amount of information that can be sent in a given time period is determined with reference to the signal strength and noise level.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Products have now been developed which can convey more information than Shannon had anticipated as possible.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:26:47.298307"
+}

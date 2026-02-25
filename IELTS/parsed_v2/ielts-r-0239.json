@@ -1,0 +1,232 @@
+{
+  "id": "ielts-r-0239",
+  "slug": "keep-a-watchful-eye-on-the-bridges",
+  "title": "Keep a Watchful Eye on the Bridges",
+  "page_range": [
+    1210,
+    1215
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "flange",
+    "2": "C",
+    "9": "C",
+    "3": "C",
+    "10": "H",
+    "4": "B",
+    "11": "G",
+    "5": "microwave dish",
+    "12": "B",
+    "6": "accelerometers",
+    "13": "E",
+    "7": "steel girders"
+  },
+  "content": {
+    "title": "Keep a Watchful Eye on the Bridges",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Most road and rail bridges are only inspected visually, if at all. Every few months, engineers have to clamber over the structure in an attempt to find problems before the bridge shows obvious signs of damage. Technologies developed at Los Alamos National Laboratory, New Mexico, and Texas A&M University may replace these surveys with microwave sensors that constantly monitor the condition of bridges."
+      },
+      {
+        "label": "B",
+        "content": "“The device uses microwaves to measure the distance between the sensor and the bridge, much like radar does,” says Albert Migliori, a Los Alamos physicist. “Any load on the bridge – such as traffic – induces displacements, which change that distance as the bridge moves up and down.” By monitoring these movements over several minutes, the researchers can find out how the bridge resonates. Changes in its behaviour can give an early warning of damage."
+      },
+      {
+        "label": "C",
+        "content": "The Interstate 40 bridge over the Rio Grande river in Albuquerque provided the researchers with a rare opportunity to test their ideas. Chuck Farrar, an engineer at Los Alamos, explains: “The New Mexico authorities decided to raze this bridge and replace it. We were able to mount instruments on it, test it under various load conditions and even inflict damage just before it was demolished.” In the 1960s and 1970s, 2500 similar bridges were built in the US. They have two steel girders supporting the load in each section. Highway experts know that this design is “fracture critical” because a failure in either girder would cause the bridge to fail."
+      },
+      {
+        "label": "D",
+        "content": "After setting up the microwave dish on the ground below the bridge, the Los Alamos team installed conventional accelerometers at several points along the span to measure its motion. They then tested the bridge while traffic roared across it and while subjecting it to pounding from a “shaker”, which delivered precise punches to a specific point on the road."
+      },
+      {
+        "label": "E",
+        "content": "“We then created damage that we hoped would simulate fatigue cracks that can occur in steel girders,” says Farrar. They first cut a slot about 60 centimetres long in the middle of one girder. They then extended the cut until it reached the bottom of the girder and finally they cut across the flange – the bottom of the girder’s “I” shape."
+      },
+      {
+        "label": "F",
+        "content": "The initial, crude analysis of the bridge’s behaviour, based on the frequency at which the bridge resonates, did not indicate that anything was wrong until the flange was damaged. But later the data were reanalysed with algorithms that took into account changes in the mode shapes of the structure – shapes that the structure takes on when excited at a particular frequency. These more sophisticated algorithms, which were developed by Norris Stubbs at Texas A&M University, successfully identified and located the damage caused by the initial cut."
+      },
+      {
+        "label": "G",
+        "content": "“When any structure vibrates, the energy is distributed throughout with some points not moving, while others vibrate strongly at various frequencies,” says Stubbs. “My algorithms use pattern recognition to detect changes in the distribution of this energy.” NASA already uses Stubbs’ method to check the behaviour of the body flap that slows space shuttles down after they land."
+      },
+      {
+        "label": "H",
+        "content": "A commercial system based on the Los Alamos hardware is now available, complete with the Stubbs algorithms, from the Quatro Corporation in Albuquerque for about $100,000. Tim Darling, another Los Alamos physicist working on the microwave interferometer with Migliori, says that as the electronics become cheaper, a microwave inspection system will eventually be applied to most large bridges in the US. “In a decade I would like to see a battery or solar-powered package mounted under each bridge, scanning it every day to detect changes,” he says."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "How did the traditional way to prevent damage of the bridges before the invention of new monitoring system",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Bridges has to be tested in every movement on two points."
+              },
+              {
+                "label": "B",
+                "text": "Bridges has to be closely monitored by microwave devices."
+              },
+              {
+                "label": "C",
+                "text": "Bridges has already been monitored by sensors."
+              },
+              {
+                "label": "D",
+                "text": "Bridges has to be frequently inspected by professional workers with naked eyes."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "How does the new microwave monitors find out the problems of bridges",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "by changeling the distance between the positions of devices"
+              },
+              {
+                "label": "B",
+                "text": "by controlling the traffic flow on the bridges"
+              },
+              {
+                "label": "C",
+                "text": "by monitoring the distance caused by traffic between two points"
+              },
+              {
+                "label": "D",
+                "text": "by displacement of the several critical parts in the bridges"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Why did the expert believe there is a problem for the design called “fracture critical”",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Engineers failed to apply the newly developed construction materials."
+              },
+              {
+                "label": "B",
+                "text": "There was not enough finance to repair the bridges."
+              },
+              {
+                "label": "C",
+                "text": "The supporting parts of the bridges may crack and cause the bridge to fail."
+              },
+              {
+                "label": "D",
+                "text": "There was bigger traffic load conditions than the designers had anticipated."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Defect was not recognized by a basic method in the beginning",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "until the mid of faces of bridges has fractures."
+              },
+              {
+                "label": "B",
+                "text": "until the damage appears along and down to the flanges."
+              },
+              {
+                "label": "C",
+                "text": "until the points on the road have been punched."
+              },
+              {
+                "label": "D",
+                "text": "until the frequency of resonance appears disordered."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading Passage has eight paragraphs, A–H. Which paragraph contains the following information?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "how is the pressure that they have many a great chance to test bridges",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "a ten-year positive change for microwave device",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "the chance they get a honorable contract",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "explanation of the mechanism for the new microwave monitoring to work",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "how is the damage deliberately created by the researchers",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Filling the blanks in the diagram labels.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "",
+            "answer": "microwave dish",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "",
+            "answer": "accelerometers",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "",
+            "answer": "steel girders",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "",
+            "answer": "flange",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:31:40.748461"
+}

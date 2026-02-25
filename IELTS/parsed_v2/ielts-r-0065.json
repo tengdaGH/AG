@@ -1,0 +1,438 @@
+{
+  "id": "ielts-r-0065",
+  "slug": "bilingualism-in-children",
+  "title": "Bilingualism in Children",
+  "page_range": [
+    333,
+    337
+  ],
+  "raw_answer_key": {
+    "1": "a hundred years/100 years",
+    "8": "ix",
+    "2": "mentally confused/behind",
+    "9": "v monolingual children",
+    "3": "(well-developed) language",
+    "10": "FALSE",
+    "4": "ii",
+    "11": "FALSE",
+    "12": "NOT",
+    "5": "vi GIVEN",
+    "6": "iv",
+    "13": "TRUE",
+    "7": "i"
+  },
+  "content": {
+    "title": "Bilingualism in Children",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "One misguided legacy of over a hundred years of writing on bilingualism is that children’s intelligence will suffer if they are bilingual. Some of the earliest research into bilingualism examined whether bilingual children were ahead or behind monolingual children on IQ tests. From the 1920s through to the 1960s, the tendency was to find monolingual children ahead of bilinguals on IQ tests. The conclusion was that bilingual children were mentally confused. Having two languages in the brain, it was said, disrupted effective thinking. It was argued that having one well-developed language was superior to having two half-developed languages."
+      },
+      {
+        "label": "B",
+        "content": "The idea that bilinguals may have a lower IQ still exists among many people, particularly monolinguals. However, we now know that this early research was misconceived and incorrect. First, such research often gave bilinguals an IQ test in their weaker language – usually English. Had bilinguals been tested in Welsh or Spanish or Hebrew, a different result may have been found. The testing of bilinguals was thus unfair. Second, like was not compared with like. Bilinguals tended to come from, for example, impoverished New York or rural Welsh backgrounds. The monolinguals tended to come from more middle class, urban families. Working class bilinguals were often compared with middle class monolinguals. So the results were more likely to be due to social class differences than language differences. The comparison of monolinguals and bilinguals was unfair."
+      },
+      {
+        "label": "C",
+        "content": "The most recent research from Canada, the United States and Wales suggests that bilinguals are, at least, equal to monolinguals on IQ tests. When bilinguals have two well-developed languages (in the research literature called balanced bilinguals), bilinguals tend to show a slight superiority in IQ tests compared with monolinguals. This is the received psychological wisdom of the moment and is good news for raising bilingual children. Take, for example, a child who can operate in either language in the curriculum in the school. That child is likely to be ahead on IQ tests compared with similar (same gender, social class and age) monolinguals. Far from making people mentally confused, bilingualism is now associated with a mild degree of intellectual superiority."
+      },
+      {
+        "label": "D",
+        "content": "One note of caution needs to be sounded. IQ tests probably do not measure intelligence. IQ tests measure a small sample of the broadest concept of intelligence. IQ tests are simply paper and pencil tests where only ’right and wrong’ answers are allowed. Is all intelligence summed up in such right and wrong, pencil and paper tests? Isn’t there a wider variety of intelligences that are important in everyday functioning and everyday life?"
+      },
+      {
+        "label": "E",
+        "content": "Many questions need answering. Do we only define an intelligent person as somebody who obtains a high score on an IQ test? Are the only intelligent people those who belong to high IQ organisations such as MENSA? Is there social intelligence, musical intelligence, military intelligence, marketing intelligence, motoring intelligence, political intelligence? Are all, or indeed any, of these forms of intelligence measured by a simple pencil and paper IQ test which demands a single, acceptable, correct solution to each question? Defining what constitutes intelligent behaviour requires a personal value judgement as to what type of behaviour, and what kind of person is of more worth."
+      },
+      {
+        "label": "F",
+        "content": "The current state of psychological wisdom about bilingual children is that, where two languages are relatively well developed, bilinguals have thinking advantages over monolinguals. Take an example. A child is asked a simple question: How many uses can you think of for a brick? Some children give two or three answers only. They can think of building walls, building a house and perhaps that is all. Another child scribbles away, pouring out ideas one after the other: blocking up a rabbit hole, breaking a window, using as a bird bath, as a plumb line, as an abstract sculpture in an art exhibition."
+      },
+      {
+        "label": "G",
+        "content": "Research across different continents of the world shows that bilinguals tend to be more fluent, flexible, original and elaborate in their answers to this type of open-ended question. The person who can think of a few answers tends to be termed a convergent thinker. They converge onto a few acceptable conventional answers. People who think of lots of different uses for unusual items (e.g. a brick, tin can, cardboard box) are called divergers. Divergers like a variety of answers to a question and are imaginative and fluent in their thinking."
+      },
+      {
+        "label": "H",
+        "content": "There are other dimensions in thinking where approximately ’balanced’ bilinguals may have temporary and occasionally permanent advantages over monolinguals: increased sensitivity to communication, a slightly speedier movement through the stages of cognitive development, and being less fixed on the sounds of words and more centred on the meaning of words. Such ability to move away from the sound of words and fix on the meaning of words tends to be a (temporary) advantage for bilinguals around the ages of four to six. This advantage may mean an initial head start in learning to read and learning to think about language."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "For more than 1..................... , books and articles were wrong about the intelligence of bilingual children.",
+            "answer": "a hundred years/100 years",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "For approximately 40 years, there was a mistaken belief that children who spoke two languages were 2.....................",
+            "answer": "mentally confused/behind",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "It was commonly thought that people 3..................... with a single were more effective thinkers.",
+            "answer": "(well-developed) language",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Reading Passage 1 has eight paragraphs, A-H. Choose the correct heading for paragraphs B-G from the list of headings below.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "Paragraph B",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "No single definition of intelligence"
+              },
+              {
+                "label": "ii",
+                "text": "Faulty testing, wrong conclusion"
+              },
+              {
+                "label": "iii",
+                "text": "Welsh research supports IQ testing"
+              },
+              {
+                "label": "iv",
+                "text": "Beware: inadequate for Selling intelligence"
+              },
+              {
+                "label": "v",
+                "text": "International research supports bilingualism"
+              },
+              {
+                "label": "vi",
+                "text": "Current thought on the advantage bilinguals have"
+              },
+              {
+                "label": "vii",
+                "text": "Early beliefs regarding bilingualism"
+              },
+              {
+                "label": "viii",
+                "text": "Monolinguals ahead of their bilingual peers"
+              },
+              {
+                "label": "ix",
+                "text": "Exemplifying the bilingual advantage"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph C",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "No single definition of intelligence"
+              },
+              {
+                "label": "ii",
+                "text": "Faulty testing, wrong conclusion"
+              },
+              {
+                "label": "iii",
+                "text": "Welsh research supports IQ testing"
+              },
+              {
+                "label": "iv",
+                "text": "Beware: inadequate for Selling intelligence"
+              },
+              {
+                "label": "v",
+                "text": "International research supports bilingualism"
+              },
+              {
+                "label": "vi",
+                "text": "Current thought on the advantage bilinguals have"
+              },
+              {
+                "label": "vii",
+                "text": "Early beliefs regarding bilingualism"
+              },
+              {
+                "label": "viii",
+                "text": "Monolinguals ahead of their bilingual peers"
+              },
+              {
+                "label": "ix",
+                "text": "Exemplifying the bilingual advantage"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph D",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "No single definition of intelligence"
+              },
+              {
+                "label": "ii",
+                "text": "Faulty testing, wrong conclusion"
+              },
+              {
+                "label": "iii",
+                "text": "Welsh research supports IQ testing"
+              },
+              {
+                "label": "iv",
+                "text": "Beware: inadequate for Selling intelligence"
+              },
+              {
+                "label": "v",
+                "text": "International research supports bilingualism"
+              },
+              {
+                "label": "vi",
+                "text": "Current thought on the advantage bilinguals have"
+              },
+              {
+                "label": "vii",
+                "text": "Early beliefs regarding bilingualism"
+              },
+              {
+                "label": "viii",
+                "text": "Monolinguals ahead of their bilingual peers"
+              },
+              {
+                "label": "ix",
+                "text": "Exemplifying the bilingual advantage"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Paragraph E",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "No single definition of intelligence"
+              },
+              {
+                "label": "ii",
+                "text": "Faulty testing, wrong conclusion"
+              },
+              {
+                "label": "iii",
+                "text": "Welsh research supports IQ testing"
+              },
+              {
+                "label": "iv",
+                "text": "Beware: inadequate for Selling intelligence"
+              },
+              {
+                "label": "v",
+                "text": "International research supports bilingualism"
+              },
+              {
+                "label": "vi",
+                "text": "Current thought on the advantage bilinguals have"
+              },
+              {
+                "label": "vii",
+                "text": "Early beliefs regarding bilingualism"
+              },
+              {
+                "label": "viii",
+                "text": "Monolinguals ahead of their bilingual peers"
+              },
+              {
+                "label": "ix",
+                "text": "Exemplifying the bilingual advantage"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Paragraph F",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "No single definition of intelligence"
+              },
+              {
+                "label": "ii",
+                "text": "Faulty testing, wrong conclusion"
+              },
+              {
+                "label": "iii",
+                "text": "Welsh research supports IQ testing"
+              },
+              {
+                "label": "iv",
+                "text": "Beware: inadequate for Selling intelligence"
+              },
+              {
+                "label": "v",
+                "text": "International research supports bilingualism"
+              },
+              {
+                "label": "vi",
+                "text": "Current thought on the advantage bilinguals have"
+              },
+              {
+                "label": "vii",
+                "text": "Early beliefs regarding bilingualism"
+              },
+              {
+                "label": "viii",
+                "text": "Monolinguals ahead of their bilingual peers"
+              },
+              {
+                "label": "ix",
+                "text": "Exemplifying the bilingual advantage"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Paragraph G",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "No single definition of intelligence"
+              },
+              {
+                "label": "ii",
+                "text": "Faulty testing, wrong conclusion"
+              },
+              {
+                "label": "iii",
+                "text": "Welsh research supports IQ testing"
+              },
+              {
+                "label": "iv",
+                "text": "Beware: inadequate for Selling intelligence"
+              },
+              {
+                "label": "v",
+                "text": "International research supports bilingualism"
+              },
+              {
+                "label": "vi",
+                "text": "Current thought on the advantage bilinguals have"
+              },
+              {
+                "label": "vii",
+                "text": "Early beliefs regarding bilingualism"
+              },
+              {
+                "label": "viii",
+                "text": "Monolinguals ahead of their bilingual peers"
+              },
+              {
+                "label": "ix",
+                "text": "Exemplifying the bilingual advantage"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Balanced bilinguals have more permanent than temporary advantages over monolinguals.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Often bilinguals concentrate more on the way a word sounds than on its meaning.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Monolinguals learn to speak at a younger age than bilinguals.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Bilinguals just starting school might pick up certain skills faster than monolinguals.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T00:40:39.629137"
+}

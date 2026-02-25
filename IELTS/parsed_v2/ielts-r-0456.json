@@ -1,0 +1,433 @@
+{
+  "id": "ielts-r-0456",
+  "slug": "the-development-of-museums",
+  "title": "The Development of Museums",
+  "page_range": [
+    2313,
+    2318
+  ],
+  "raw_answer_key": {
+    "1": "ii",
+    "8": "D",
+    "2": "vi",
+    "9": "C",
+    "3": "i",
+    "10": "B",
+    "4": "iii",
+    "11": "FALSE",
+    "5": "B",
+    "12": "NOT GIVEN",
+    "6": "A",
+    "13": "FALSE",
+    "7": "D",
+    "14": "TRUE"
+  },
+  "content": {
+    "title": "The Development of Museums",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The conviction that historical relics provide infallible testimony about the past is rooted in the nineteenth and early twentieth centuries, when science was regarded as objective and value free. As one writer observes: 'Although it is now evident that artefacts are as easily altered as chronicles, public faith in their veracity endures: a tangible relic seems ipso facto real.' Such conviction was, until recently, reflected in museum displays. Museums used to look - and some still do - much like storage rooms of objects packed together in showcases: good for scholars who wanted to study the subtle differences in design, but not for the ordinary visitor, to whom it all looked alike. Similarly, the information accompanying the objects often made little sense to the lay visitor. The content and format of explanations dated back to a time when the museum was the exclusive domain of the scientific researcher."
+      },
+      {
+        "label": "B",
+        "content": "Recently, however, attitudes towards history and the way it should be presented have altered. The key word in heritage display is now 'experience', the more exciting the better and, if possible, involving all the senses. Good examples of this approach in the UK are the Jorvik Centre in York; the National Museum of Photography, Film and Television in Bradford; and the Imperial War Museum in London. In the US the trend emerged much earlier: Williamsburg has been a prototype for many heritage developments in other parts of the world. No one can predict where the process will end. On so-called heritage sites the re-enactment of historical events is increasingly popular, and computers will soon provide virtual reality experiences, which will present visitors with a vivid image of the period of their choice, in which they themselves can act as if part of the historical environment. Such developments have been criticised as an intolerable vulgarisation, but the success of many historical theme parks and similar locations suggests that the majority of the public does not share this opinion."
+      },
+      {
+        "label": "C",
+        "content": "In a related development, the sharp distinction between museum and heritage sites on the one hand, and theme parks on the other, is gradually evaporating. They already borrow ideas and concepts from one another. For example, museums have adopted story lines for exhibitions, sites have accepted 'theming' as a relevant tool, and theme parks are moving towards more authenticity and research-based presentations. In zoos, animals are no longer kept in cages, but in great spaces, either in the open air or in enormous greenhouses, such as the jungle and desert environments in Burgers' Zoo in Holland. This particular trend is regarded as one of the major developments in the presentation of natural history in the twentieth century."
+      },
+      {
+        "label": "D",
+        "content": "Theme parks are undergoing other changes, too, as they try to present more serious social and cultural issues, and move away from fantasy. This development is a response to market forces and, although museums and heritage sites have a special, rather distinct, role to fulfil, they are also operating in a very competitive environment, where visitors make choices on how and where to spend their free time. Heritage and museum experts do not have to invent stories and recreate historical environments to attract their visitors: their assets are already in place. However, exhibits must be both based on artefacts and facts as we know them, and attractively presented. Those who are professionally engaged in the art of interpreting history are thus in a difficult position, as they must steer a narrow course between the demands of 'evidence' and 'attractiveness', especially given the increasing need in the heritage industry for income-generating activities."
+      },
+      {
+        "label": "E",
+        "content": "It could be claimed that in order to make everything in heritage more 'real', historical accuracy must be increasingly altered. For example, Pithecanthropus erectus is depicted in an Indonesian museum with Malay facial features, because this corresponds to public perceptions. Similarly, in the Museum of Natural History in Washington, Neanderthal man is shown making a dominant gesture to his wife. Such presentations tell us more about contemporary perceptions of the world than about our ancestors. There is one compensation, however, for the professionals who make these interpretations: if they did not provide the interpretation, visitors would do it for themselves, based on their own ideas, misconceptions and prejudices. And no matter how exciting the result, it would contain a lot more bias than the presentations provided by experts."
+      },
+      {
+        "label": "F",
+        "content": "Human bias is inevitable, but another source of bias in the representation of history has to do with the transitory nature of the materials themselves. The simple fact is that not everything from history survives the historical process. Castles, palaces and cathedrals have a longer lifespan than the dwellings of ordinary people. The same applies to the furnishings and other contents of the premises. In a town like Leyden in Holland, which in the seventeenth century was occupied by approximately the same number of inhabitants as today, people lived within the walled town, an area more than five times smaller than modern Leyden. In most of the houses several families lived together in circumstances beyond our imagination. Yet in museums, fine period rooms give only an image of the lifestyle of the upper class of that era. No wonder that people who stroll around exhibitions are filled with nostalgia; the evidence in museums indicates that life was so much better in the past. This notion is induced by the bias in its representation in museums and heritage centres."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs B-E from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Commercial pressures on people in charge"
+              },
+              {
+                "label": "ii",
+                "text": "Mixed views on current changes to museums"
+              },
+              {
+                "label": "iii",
+                "text": "Interpreting the facts to meet visitor expectations"
+              },
+              {
+                "label": "iv",
+                "text": "The international dimension"
+              },
+              {
+                "label": "v",
+                "text": "Collections of factual evidence"
+              },
+              {
+                "label": "vi",
+                "text": "Fewer differences between public attractions"
+              },
+              {
+                "label": "vii",
+                "text": "Current reviews and suggestions"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Commercial pressures on people in charge"
+              },
+              {
+                "label": "ii",
+                "text": "Mixed views on current changes to museums"
+              },
+              {
+                "label": "iii",
+                "text": "Interpreting the facts to meet visitor expectations"
+              },
+              {
+                "label": "iv",
+                "text": "The international dimension"
+              },
+              {
+                "label": "v",
+                "text": "Collections of factual evidence"
+              },
+              {
+                "label": "vi",
+                "text": "Fewer differences between public attractions"
+              },
+              {
+                "label": "vii",
+                "text": "Current reviews and suggestions"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Commercial pressures on people in charge"
+              },
+              {
+                "label": "ii",
+                "text": "Mixed views on current changes to museums"
+              },
+              {
+                "label": "iii",
+                "text": "Interpreting the facts to meet visitor expectations"
+              },
+              {
+                "label": "iv",
+                "text": "The international dimension"
+              },
+              {
+                "label": "v",
+                "text": "Collections of factual evidence"
+              },
+              {
+                "label": "vi",
+                "text": "Fewer differences between public attractions"
+              },
+              {
+                "label": "vii",
+                "text": "Current reviews and suggestions"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Commercial pressures on people in charge"
+              },
+              {
+                "label": "ii",
+                "text": "Mixed views on current changes to museums"
+              },
+              {
+                "label": "iii",
+                "text": "Interpreting the facts to meet visitor expectations"
+              },
+              {
+                "label": "iv",
+                "text": "The international dimension"
+              },
+              {
+                "label": "v",
+                "text": "Collections of factual evidence"
+              },
+              {
+                "label": "vi",
+                "text": "Fewer differences between public attractions"
+              },
+              {
+                "label": "vii",
+                "text": "Current reviews and suggestions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Compared with today’s museums, those of the past",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "did not present history in a detailed way."
+              },
+              {
+                "label": "B",
+                "text": "were not primarily intended for the public."
+              },
+              {
+                "label": "C",
+                "text": "were more clearly organised."
+              },
+              {
+                "label": "D",
+                "text": "preserved items with greater care."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "According to the writer, current trends in the heritage industry",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "emphasise personal involvement."
+              },
+              {
+                "label": "B",
+                "text": "have their origins in York and London."
+              },
+              {
+                "label": "C",
+                "text": "rely on computer images."
+              },
+              {
+                "label": "D",
+                "text": "reflect minority tastes."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The writer says that museums, heritage sites and theme parks",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "often work in close partnership."
+              },
+              {
+                "label": "B",
+                "text": "try to preserve separate identities."
+              },
+              {
+                "label": "C",
+                "text": "have similar exhibits."
+              },
+              {
+                "label": "D",
+                "text": "are less easy to distinguish than before."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The writer says that in preparing exhibits for museums, experts",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "should pursue a single objective."
+              },
+              {
+                "label": "B",
+                "text": "have to do a certain amount of language translation."
+              },
+              {
+                "label": "C",
+                "text": "should be free from commercial constraints."
+              },
+              {
+                "label": "D",
+                "text": "have to balance conflicting priorities."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "In paragraph E, the writer suggests that some museum exhibits",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "fail to match visitor expectations."
+              },
+              {
+                "label": "B",
+                "text": "are based on the false assumptions of professionals."
+              },
+              {
+                "label": "C",
+                "text": "reveal more about present beliefs than about the past."
+              },
+              {
+                "label": "D",
+                "text": "allow visitors to make more use of their imagination."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The passage ends by noting that our view of history is biased because",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "we fail to use our imagination."
+              },
+              {
+                "label": "B",
+                "text": "only very durable objects remain from the past."
+              },
+              {
+                "label": "C",
+                "text": "we tend to ignore things that displease us."
+              },
+              {
+                "label": "D",
+                "text": "museum exhibits focus too much on the local area."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage?",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Consumers prefer theme parks which avoid serious issues.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "More people visit museums than theme parks.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The boundaries of Leyden have changed little since the seventeenth century.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Museums can give a false impression of how life used to be.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T02:03:07.090844"
+}

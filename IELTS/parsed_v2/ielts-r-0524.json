@@ -1,0 +1,207 @@
+{
+  "id": "ielts-r-0524",
+  "slug": "the-need-to-belong",
+  "title": "The Need to Belong",
+  "page_range": [
+    2650,
+    2654
+  ],
+  "raw_answer_key": {
+    "1": "role",
+    "8": "opinions",
+    "2": "survival",
+    "9": "filmed",
+    "3": "the wild",
+    "10": "moved her foot",
+    "4": "protection",
+    "11": "A",
+    "5": "genes",
+    "12": "B",
+    "6": "American football",
+    "13": "C",
+    "7": "passing the ball"
+  },
+  "content": {
+    "title": "The Need to Belong",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "No one likes to feel left out, ignored by colleagues at meetings or not be invited to the big party that everyone is talking about. Imagine not being part of a joke, or worse still, if the joke is on you. For most people, living the life of an outsider can have a negative effect on self-esteem and mood. It can even lead to negative behaviour. The pull to belong is extremely strong. Scientists believe that, in part, there is an evolutionary explanation for why we have this need to belong."
+      },
+      {
+        "content": "In the past, people hunted and cooked together in tribes and each member of the group would be assigned a role. As each member had a purpose, it meant that in the event of the loss of one person, the group as a whole would suffer. For this reason, they had a vested interest in protecting each other. To our prehistoric ancestors, membership of a group meant the difference between survival and death. Those who were rejected and excluded from joining a group had to fend for themselves and struggled to stay alive alone in the wild. Apart from protection, being part of a group also ensured that genes could be passed on to future generations. Although it is very different now from the way our primitive ancestors lived, our brains have not had time to evolve to fit today’s lifestyles. In this day and age, it is no longer a matter of survival to be affiliated to a tribe or group, but the evolutionary instinct to find protection still lingers."
+      },
+      {
+        "content": "This inherent feeling of security that comes with being part of a group is powerful enough to make people employ both conscious and unconscious strategies to gain membership. One obvious way people try to be accepted into a group is self-presentation, which is the act of portraying yourself in the best possible light. An individual will attempt to outwardly display the characteristics which are important to the group’s advancement. At the same time, they will conceal any parts of their personality that may be seen as undesirable or not useful to a group. An example of self-presentation is the job application process. A candidate applying for a job will promote themselves as motivated, but is likely to hide the fact that they are disorganised. These conscious tactics that people use are not a surprise to anyone, but we also use other strategies unknowingly."
+      },
+      {
+        "content": "Psychologists Jessica Larkin, Tanya Chartrand and Robert Arkin suggested that people often resort to automatic mimicry to gain affiliation into groups, much like our primitive ancestors used to do. Before humans had the ability to speak, physical imitation was a method of begging for a place in the group. Most will be unaware they are doing it. Larkin and her co-workers decided to test this hypothesis."
+      },
+      {
+        "content": "They took a group of student volunteers and had them play a game called Cyberball, a ball-tossing arcade game that resembled American football. The volunteers were led to believe they were all playing against each other, but in actual fact they were not. The computer was manipulating the game by passing the ball to some volunteers and excluding others."
+      },
+      {
+        "content": "The ‘accepted’ and ‘rejected’ students were then asked if they enjoyed the game and about their opinions of the other players. Participants were then put alone in a room and their natural foot movements were filmed. Then a female entered the room under the pretence of conducting a fake photo description task. The female deliberately moved her foot during the task, but not in a way that would be noticeable to the volunteer. It turned out that the rejected students mimicked the female’s foot movements the most. This revealed that after exclusion, people will automatically mimic to affiliate with someone new."
+      },
+      {
+        "content": "However, Larkin and her colleagues wanted to go further. They believed that more often than not, in the real world, we actually know the people that reject us. How do we behave towards the group that we know has excluded us? The experiment was repeated with this question in mind. In the second experiment, only female volunteers played the Cyberball game, during which they experienced rejection by either men or women. Then each volunteer did the fake photo task, but this time with a man and then a woman. The results clearly indicated that the female students that felt rejected would unconsciously make more of an effort to mimic members of their own in-group – that is, other women – rather than men. This deep-wired instinct to mimic was not only directed towards random people, as initially thought, but targeted to specific groups, the particular group that did the rejecting in the first place."
+      },
+      {
+        "content": "To some, it is inconceivable why people will go to great lengths to be accepted into one of life’s social groups or clubs, enduring rejection and sometimes humiliation in order to be accepted. You only have to look at college campuses, which are notorious for strict initiations inflicted on candidates desperately seeking membership. But it happens and will continue to happen, because the desire to belong is a very powerful force and a fundamental part of human nature."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Each person within the group had a ..................... to play and was considered integral to the entire group's dynamics and success.",
+            "answer": "role",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "For an individual, belonging to a group could affect their chances of .....................",
+            "answer": "survival",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "In those times, few could avoid death living alone in .....................",
+            "answer": "the wild",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Living with other humans offered ..................... from danger.",
+            "answer": "protection",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Staying in a group also meant that ..................... could be passed down to descendants.",
+            "answer": "genes",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "FLOW_CHART_COMPLETION",
+        "instruction": "Complete the flow chart below. Use NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Volunteers believed they were playing a computer game, similar to .....................",
+            "answer": "American football",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "The computer was controlling the gameplay, ..................... to some and not others.",
+            "answer": "passing the ball",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The volunteers gave their ..................... after the game.",
+            "answer": "opinions",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Each volunteer first sat on their own in a room and had their foot movements .....................",
+            "answer": "filmed",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "The volunteer took part in a task with a woman who ..................... on purpose.",
+            "answer": "moved her foot",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Which of the following is NOT mentioned in the first paragraph?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "one expert's view on evolution"
+              },
+              {
+                "label": "B",
+                "text": "the consequences of being excluded"
+              },
+              {
+                "label": "C",
+                "text": "being made fun of by the people around you"
+              },
+              {
+                "label": "D",
+                "text": "a social event that people are eagerly awaiting"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "According to the article, which method do people consciously use to obtain membership into their chosen group?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "They tell the group they are strongly motivated."
+              },
+              {
+                "label": "B",
+                "text": "They convey the best parts of their personality to the group."
+              },
+              {
+                "label": "C",
+                "text": "They show how the group will be important to their lives."
+              },
+              {
+                "label": "D",
+                "text": "They alter aspects of their personality to suit others."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The writer's main purpose in writing this article is to",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "explain how people feel when they face rejection."
+              },
+              {
+                "label": "B",
+                "text": "encourage people to go it alone and not be part of a group."
+              },
+              {
+                "label": "C",
+                "text": "show the unconscious drive behind the need to belong."
+              },
+              {
+                "label": "D",
+                "text": "compare how the modern lifestyle is different to the past."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:44:01.940518"
+}

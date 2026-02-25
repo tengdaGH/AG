@@ -1,0 +1,237 @@
+{
+  "id": "ielts-r-0184",
+  "slug": "glow-worms",
+  "title": "Glow-worms",
+  "page_range": [
+    935,
+    938
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "FALSE",
+    "2": "B",
+    "9": "NOT GIVEN",
+    "3": "A",
+    "10": "TRUE",
+    "4": "B",
+    "11": "FALSE",
+    "5": "E",
+    "12": "TRUE",
+    "6": "C",
+    "13": "TRUE",
+    "7": "NOT GIVEN"
+  },
+  "content": {
+    "title": "Glow-worms",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The glow-worm belongs to a family of beetles known as the Lampyridae or fireflies. The fireflies are a huge group containing over 2000 species, with new ones being discovered all the time. The feature which makes fireflies and glow-worms so appealing is their ability to produce an often dazzling display of light. The light is used by the adult fireflies as a signal to attract a mate, and each species must develop its own 'call-sign' to avoid being confused with other species glowing nearby. So within any one area each species will differ from its neighbours in some way, for example in the colour or pattern of its light, how long the pulses of light last, the interval between pulses and whether it displays in flight or from the ground."
+      },
+      {
+        "label": "B",
+        "content": "The firefly’s almost magical light has attracted human attention for generations. It is described in an ancient Chinese encyclopaedia written over 2000 years ago by a pupil of Confucius. Fireflies often featured in Japanese and Arabian folk medicine. All over the world they have been the inspiration for countless poems, paintings and stories. In Britain, for example, there are plenty of anecdotes describing how glow-worms have been used to read by or used as emergency bicycle lamps when a cyclist's batteries have failed without warning. Early travellers in the New World came back with similar stories, of how the native people of Central America would collect a type of click beetle and release them indoors to light up their huts. Girls threaded them around their feet to illuminate the forest paths at night. Fireflies very similar to those we see today have been found fossilised in rocks which were formed about 30 million years ago, and their ancestors were probably glowing long before then. It is impossible to be sure exactly when and where the first firefly appeared. The highest concentrations of firefly species today are to be found in the tropics of South America, which may mean either that this is where they first evolved, or simply that they prefer the conditions there. Wherever they first arose, fireflies have since spread to almost every part of the globe. Today members of the firefly family can be found almost anywhere outside the Arctic and Antarctic circles."
+      },
+      {
+        "label": "C",
+        "content": "As with many insects, the glow-worm's life is divided into four distinct stages: the egg, the larva (equivalent to the caterpillar of a butterfly), the pupa (or chrysalis) and the adult. The glow-worm begins its life in the autumn as a pale yellow egg. The freshly laid egg is extremely fragile but within a day its surface has hardened into a shell. The egg usually takes about 35 days to hatch, but the exact time varies according to the temperature, from about 27 days in hot weather to more than 45 days in cold weather. By the time it is due to hatch, the glow-worm's light organ is fully developed, and its glow signals that the egg will soon hatch. After it has left the egg, the larva slowly grows from a few millimetres into the size and shape of a matchstick. The larval stage is the only time the insect can feed. The larva devotes much of its life to feeding and building up its food reserves so that as an adult it will be free to concentrate all its efforts on the task of finding a mate and reproducing. Throughout its time as a larva, approximately 15 months, the glow-worm emits a bright light. The larva's light is much fainter than the adult female's but it can still be seen more than five metres away. In the final stage of a glow-worm's life, the larva encases itself in a pupa skin while it changes from the simple larva to the more complex adult fly. When the adult fly emerges from the pupa the male seeks a female with whom it can mate. After mating, the female lays about 120 eggs. The adult flies have no mouth parts, cannot eat and therefore only live a few days. When people talk of seeing a glow-worm they normally mean the brightly glowing adult female."
+      },
+      {
+        "label": "D",
+        "content": "In some countries the numbers of glow-worms have been falling. Evidence suggests that there has been a steady decrease in the British glow-worm population since the 1950s and possibly before that. Possible causes for the decline include habitat destruction, pollution and changes in climate. Thousands of acres of grassland have been built upon and glow-worm sites have become increasingly isolated from each other. The widespread use of pesticides and fertilisers may also have endangered the glow-worm. Being at the top of a food chain it is likely to absorb any pollutants eaten by the snails on which it feeds. The effect of global warming on rainfall and other weather patterns may also be playing a part in the disappearance of glow-worms. A lot more research will be needed, however, before the causes of the glow-worm's gradual decline are clear."
+      },
+      {
+        "label": "E",
+        "content": "Although glow-worms are found wherever conditions are damp, food is in good supply and there is an over-hanging wall, they are most spectacular in caves. For more than 100 years the glow-worm caves in New Zealand have attracted millions of people from all over the world. The caves were first explored in 1887 by a local Maori chief, Tane Tinorau, and an English surveyor, Fred Mace. They built a raft and, with candles as their only light, they floated into the cave where the stream goes underground. As their eyes adjusted to the darkness they saw myriad lights reflecting off the water. Looking up they discovered that the ceiling was dotted with the lights of thousands of glow-worms. They returned many times to explore further, and on an independent trip Tane discovered the upper level of the cave and an easier access. The authorities were advised and government surveyors mapped the caves. By 1888 Tane Tinorau had opened the cave to tourists."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading passage has five sections labelled A-E. Which section contains the following information? Write the correct letter A-E in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "threats to the glow-worm",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "ways in which glow-worms have been used",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "variations in type of glow-worm",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "glow-worm distribution",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "glow-worms becoming an attraction",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "the life-cycle of a glow-worm",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the reading passage? In boxes 7-13 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Scientists have only recently been able to list the exact number of glow-worm species.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The first fireflies appeared 30 million years ago.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Glow-worm populations are decreasing faster in some countries than in others.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Heat affects the production of glow-worm larvae.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Adulthood is the longest stage of a glow-worm's life.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The exact reason why glow-worm numbers are decreasing is unknown.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Glow-worms are usually found in wet areas.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:14:13.793675"
+}

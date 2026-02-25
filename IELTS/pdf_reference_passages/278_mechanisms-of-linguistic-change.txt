@@ -1,0 +1,151 @@
+TITLE: Mechanisms of Linguistic Change
+INDEX: 278
+============================================================
+
+Mechanisms of Linguistic Change
+
+A The changes that have caused the most disagreement are those in pronunciation. We
+have various sources of evidence for the pronunciations of earlier times, such as the
+spellings, the treatment of words borrowed from other languages or borrowed by them, the
+descriptions of contemporary grammarians and spelling-reformers, and the modern
+pronunciations in all the languages and dialects concerned From the middle of the
+sixteenth century, there are in England writers who attempt to describe the position of the
+speech-organs for the production of English phonemes, and who invent what are in effect
+systems of phonetic symbols. These various kinds of evidence, combined with a
+knowledge of the mechanisms of speech-production, can often give us a very good idea of
+the pronunciation of an earlier age, though absolute certainty is never possible.
+
+B When we study the pronunciation of a language over any period of a few generations or
+more, we find there are always large-scale regularities in the changes: for example, over a
+certain period of time, just about all the long [a:] vowels in a language may change into long
+[e:] vowels, or all the [b] consonants in a certain position (for example at the end of a word)
+may change into [p] consonants. Such regular changes are often called sound laws. There
+are no universal sound laws (even though sound laws often reflect universal tendencies),
+but simply particular sound laws for one given language (or dialect) at one given period
+
+C It is also possible that fashion plays a part in the process of change. It certainly plays a
+part in the spread of change: one person imitates another, and people with the most
+prestige are most likely to be imitated, so that a change that takes place in one social group
+may be imitated (more or less accurately) by speakers in another group. When a social
+group goes up or down in the world, its pronunciation of Russian, which had formerly been
+considered desirable, became on the contrary an undesirable kind of accent to have, so
+that people tried to disguise it. Some of the changes in accepted English pronunciation in
+the seventeenth and eighteenth centuries have been shown to consist in the replacement
+of one style of pronunciation by another style already existing, and it is likely that such
+substitutions were a result of the great social changes of the period: the increased power
+and wealth of the middle classes, and their steady infiltration upwards into the ranks of the
+landed gentry, probably carried elements of middle-class pronunciation into upper-class
+speech.
+D A less specific variant of the argument is that the imitation of children is imperfect: they
+copy their parents’ speech, but never reproduce it exactly. This is true, but it is also true
+that such deviations from adult speech are usually corrected in later childhood. Perhaps it
+is more significant that even adults show a certain amount of random variation in their
+pronunciation of a given phoneme, even if the phonetic context is kept unchanged. This,
+however, cannot explain changes in pronunciation unless it can be shown that there is
+some systematic trend in the failures of imitation: if they are merely random deviations they
+will cancel one another out and there will be no net change in the language.
+
+E One such force which is often invoked is the principle of ease, or minimization of effort.
+The change from fussy to fuzzy would be an example of assimilation, which is a very
+common kind of change. Assimilation is the changing of a sound under the influence of a
+neighbouring one. For example, the word scant was once skamt, but the /m/ has been
+changed to /n/ under the influence of the following /t/. Greater efficiency has hereby been
+achieved, because /n/ and /t/ are articulated in the same place (with the tip of the tongue
+against the teeth-ridge), whereas /m/ is articulated elsewhere (with the two lips). So the
+place of articulation of the nasal consonant has been changed to conform with that of the
+following plosive. A more recent example of the same kind of thing is the common
+pronunciation of football as football.
+
+F Assimilation is not the only way in which we change our pronunciation in order to
+increase efficiency. It is very common for consonants to be lost at the end of a word: in
+
+Middle English, word-final [-n] was often lost in unstressed syllables, so that baken ‘to bake’
+changed from [‘ba:kan] to [‘ba:k3],and later to [ba:k]. Consonant-clusters are often
+simplified. At one time there was a [t] in words like castle and Christmas, and an initial [k] in
+words like knight and know. Sometimes a whole syllable is dropped out when two
+successive syllables begin with the same consonant (haplology): a recent example is
+temporary, which in Britain is often pronounced as if it were tempory.
+
+Questions 1-4
+
+Complete the summary below.
+
+Choose NO MORE THAN THREE WORDS from the passage for each answer.
+
+Write your answers in boxes 1-4 on your answer sheet.
+
+The pronunciation of living language undergo changes throughout thousands of years.
+Large scale regular Changes are usually called 1...................... There are three reasons
+for these changes. Firstly, the influence of one language on another; when one person
+imitates another pronunciation(the most prestige’s), the imitation always partly involving
+factor of 2...................... Secondly, the imitation of children from adults1 language
+sometimes are 3....................., and may also contribute to this change if there are
+insignificant deviations tough later they may be corrected Finally, for those random
+variations in pronunciation, the deeper evidence lies in the
+4..................... or minimization of effort.
+
+
+Questions 5-11
+
+Do the following statements agree with the information given in Reading Passage?
+In boxes 5-11 on your answer sheet, write
+
+TRUE if the statement agrees with the information
+
+FALSE if the statement contradicts the information
+
+NOT GIVEN if there is no information on this
+
+5..................... It is impossible for modern people to find pronunciation of words in an
+earlier age
+
+6..................... The great change of language in Russian history is related to the rising
+status and fortune of middle classes.
+
+7..................... All the children learn speeches from adults white they assume that certain
+language is difficult to imitate exactly.
+
+8..................... Pronunciation with causal inaccuracy will not exert big influence on
+language changes.
+
+9..................... The word 'scant' can be pronounced more easily than 'skamt'
+
+10..................... The [g] in gnat not being pronounced will not be spelt out in the future.
+
+11..................... The sound of ‘temporary’ cannot wholly present its spelling.
+
+
+Questions 12-14
+
+Look at the following sentences and the list of statements below. Match each statement
+with the correct sentence, A-D.
+Write the correct letter, A-D, in boxes 12-14 on your answer sheet
+
+
+A Since the speakers can pronounce it with less effort
+
+B Assimilation of a sound under the influence of a neighbouring one
+
+C It is a trend for changes in pronunciation in a large scale in a given period
+
+D Because the speaker can pronounce [n] and [t] both in the same time
+
+
+12..................... As a consequence, ‘b’ will be pronounced as
+
+13..................... The pronunciation of [mt] changed to [nt]
+
+14..................... The omit of ‘f in the sound of Christmas
+
+Solution:
+
+1. sound laws 8. TRUE
+2. fashion 9. TRUE
+
+3. imperfect 10. NOT GIVEN
+4. principle of ease 11. TRUE
+
+5. FALSE 12. C
+6. FALSE 13. B
+
+7. NOT GIVEN 14. A

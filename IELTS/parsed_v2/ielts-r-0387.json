@@ -1,0 +1,280 @@
+{
+  "id": "ielts-r-0387",
+  "slug": "second-nature",
+  "title": "Second nature",
+  "page_range": [
+    1967,
+    1971
+  ],
+  "raw_answer_key": {
+    "1": "transformation/change",
+    "8": "G",
+    "2": "young age",
+    "9": "A",
+    "3": "optimism",
+    "10": "E",
+    "4": "skills/techniques",
+    "11": "C",
+    "5": "negative emotions / feelings",
+    "12": "G",
+    "6": "E",
+    "13": "H",
+    "7": "C"
+  },
+  "content": {
+    "title": "Second Nature",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Your personality isn't necessarily set in stone. With a little experimentation, people can reshape their temperaments and inject passion, optimism, joy and courage into their lives. Psychologists have long held that a person's character cannot undergo a transformation in any meaningful way and that the key traits of personality are determined at a very young age. However, researchers have begun looking more closely at ways we can change. Positive psychologists have identified 24 qualities we admire, such as loyalty and kindness, and are studying them to find out why they come so naturally to some people. What they're discovering is that many of these qualities amount to habitual behaviour that determines the way we respond to the world. The good news is that all this can be learned."
+      },
+      {
+        "label": "B",
+        "content": "'The evidence is good that most personality traits can be altered,' says Christopher Peterson, professor of psychology at the University of Michigan, who cites himself as an example. Inherently introverted, he realised early on that as an academic, his reticence would prove disastrous in the lecture hall. So he learned to be more outgoing and to entertain his classes. 'Now my extroverted behaviour is spontaneous,' he says."
+      },
+      {
+        "label": "C",
+        "content": "David Fajgenbaum had to make a similar transition. He was preparing for university, when he had an accident that put an end to his sports career. On campus, he quickly found that beyond ordinary counselling, the university had no services for students who were undergoing physical rehabilitation and suffering from depression like him. He therefore launched a support group to help others in similar situations. He took action despite his own pain - a typical response of an optimist."
+      },
+      {
+        "label": "D",
+        "content": "Suzanne Segerstrom, professor of psychology at the University of Kentucky, believes that the key to increasing optimism is through cultivating optimistic behaviour, rather than positive thinking. She recommends you train yourself to pay attention to good fortune by writing down three positive things that come about each day. This will help you convince yourself that favourable outcomes actually happen all the time, making it easier to begin taking action."
+      },
+      {
+        "label": "E",
+        "content": "You can recognise a person who is passionate about a pursuit by the way they are so strongly involved in it. Tanya Streeter's passion is freediving - the sport of plunging deep into the water without tanks or other breathing equipment. Beginning in 1998, she set nine world records and can hold her breath for six minutes. The physical stamina required for this sport is intense but the psychological demands are even more overwhelming. Streeter learned to untangle her fears from her judgment of what her body and mind could do. 'In my career as a competitive freediver, there was a limit to what I could do - but it wasn't anywhere near what I thought it was,' she says."
+      },
+      {
+        "label": "F",
+        "content": "Finding a pursuit that excites you can improve anyone's life. The secret about consuming passions, though, according to psychologist Paul Silvia of the University of North Carolina, is that 'they require discipline, hard work and ability, which is why they are so rewarding.' Psychologist Todd Kashdan has this advice for those people taking up a new passion: 'As a newcomer, you also have to tolerate and laugh at your own ignorance. You must be willing to accept the negative feelings that come your way,' he says."
+      },
+      {
+        "label": "G",
+        "content": "In 2004, physician-scientist Mauro Zappaterra began his PhD research at Harvard Medical School. Unfortunately, he was miserable as his research wasn't compatible with his curiosity about healing. He finally took a break and during eight months in Santa Fe, Zappaterra learned about alternative healing techniques not taught at Harvard. When he got back, he switched labs to study how cerebrospinal fluid nourishes the developing nervous system. He also vowed to look for the joy in everything, including failure, as this could help him learn about his research and himself."
+      },
+      {
+        "label": "H",
+        "content": "Usually, we think of courage in physical terms but ordinary life demands something else. For marketing executive Kenneth Pedeleose, it meant speaking out against something he thought was ethically wrong. The new manager was intimidating staff so Pedeleose carefully recorded each instance of bullying and eventually took the evidence to a senior director, knowing his own job security would be threatened. Eventually the manager was the one to go. According to Cynthia Pury, a psychologist at Clemson University, Pedeleose's story proves the point that courage is not motivated by fearlessness, but by moral obligation. Pury also believes that people can acquire courage. Many of her students said that faced with a risky situation, they first tried to calm themselves down, then looked for a way to mitigate the danger, just as Pedeleose did by documenting his allegations. Over the long term, picking up a new character trait may help you move toward being the person you want to be. And in the short term, the effort itself could be surprisingly rewarding, a kind of internal adventure."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Psychologists have traditionally believed that a personality 1..................... was impossible and that by a 2..................... a person’s character tends to be fixed.",
+            "answer": "transformation/change",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Psychologists have traditionally believed that a personality transformation/change was impossible and that by a 2..................... a person’s character tends to be fixed.",
+            "answer": "young age",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "This is not true according to positive psychologists, who say that our personal qualities can be seen as habitual behaviour. One of the easiest qualities to acquire is 3......................",
+            "answer": "optimism",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "However, regardless of the quality, it is necessary to learn a wide variety of different 4..................... in order for a new quality to develop.",
+            "answer": "skills/techniques",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "For example, a person must understand and feel some 5..................... in order to increase their happiness.",
+            "answer": "negative emotions / feelings",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each statement with the correct person, A-G.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "People must accept that they do not know much when first trying something new.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Christopher Peterson"
+              },
+              {
+                "label": "B",
+                "text": "David Fajgenbaum"
+              },
+              {
+                "label": "C",
+                "text": "Suzanne Segerstrom"
+              },
+              {
+                "label": "D",
+                "text": "Tanya Streeter"
+              },
+              {
+                "label": "E",
+                "text": "Todd Kashdan"
+              },
+              {
+                "label": "F",
+                "text": "Kenneth Pedeleose"
+              },
+              {
+                "label": "G",
+                "text": "Cynthia Pury"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "It is important for people to actively notice when good things happen.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Christopher Peterson"
+              },
+              {
+                "label": "B",
+                "text": "David Fajgenbaum"
+              },
+              {
+                "label": "C",
+                "text": "Suzanne Segerstrom"
+              },
+              {
+                "label": "D",
+                "text": "Tanya Streeter"
+              },
+              {
+                "label": "E",
+                "text": "Todd Kashdan"
+              },
+              {
+                "label": "F",
+                "text": "Kenneth Pedeleose"
+              },
+              {
+                "label": "G",
+                "text": "Cynthia Pury"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Courage can be learned once its origins in a sense of responsibility are understood.",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "Christopher Peterson"
+              },
+              {
+                "label": "B",
+                "text": "David Fajgenbaum"
+              },
+              {
+                "label": "C",
+                "text": "Suzanne Segerstrom"
+              },
+              {
+                "label": "D",
+                "text": "Tanya Streeter"
+              },
+              {
+                "label": "E",
+                "text": "Todd Kashdan"
+              },
+              {
+                "label": "F",
+                "text": "Kenneth Pedeleose"
+              },
+              {
+                "label": "G",
+                "text": "Cynthia Pury"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "It is possible to overcome shyness when faced with the need to speak in public.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Christopher Peterson"
+              },
+              {
+                "label": "B",
+                "text": "David Fajgenbaum"
+              },
+              {
+                "label": "C",
+                "text": "Suzanne Segerstrom"
+              },
+              {
+                "label": "D",
+                "text": "Tanya Streeter"
+              },
+              {
+                "label": "E",
+                "text": "Todd Kashdan"
+              },
+              {
+                "label": "F",
+                "text": "Kenneth Pedeleose"
+              },
+              {
+                "label": "G",
+                "text": "Cynthia Pury"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has eight sections, A-H. Which section contains the following information?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "a mention of how rational thinking enabled someone to achieve physical goals",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "an account of how someone overcame a sad experience",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "a description of how someone decided to rethink their academic career path",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "an example of how someone risked his career out of a sense of duty",
+            "answer": "H",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:17:56.050309"
+}

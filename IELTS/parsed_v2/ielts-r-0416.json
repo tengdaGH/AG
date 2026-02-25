@@ -1,0 +1,284 @@
+{
+  "id": "ielts-r-0416",
+  "slug": "sunny-days-for-silicon",
+  "title": "Sunny Days For Silicon",
+  "page_range": [
+    2110,
+    2114
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "NOT GIVEN",
+    "2": "C",
+    "9": "TRUE",
+    "10": "multi-crystalline silicon",
+    "3": "A cell",
+    "4": "A",
+    "11": "proprietary wet process",
+    "12": "neighboring active",
+    "5": "A material",
+    "6": "TRUE",
+    "13": "textured mirror surfaces",
+    "7": "FALSE",
+    "14": "Total internal reflection"
+  },
+  "content": {
+    "title": "Sunny Days For Silicon",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The old saw that \"the devil is in the details\" characterizes the kind of needling obstacles that prevent an innovative concept from becoming a working technology. It also often describes the type of problems that must be overcome to shave cost from the resulting product so that people will buy it. Emanuel Sachs of the Massachusetts Institute of Technology has struggled with many such little devils in his career-long endeavor to develop low-cost, high-efficiency solar cells. In his latest effort, Sachs has found incremental ways to boost the amount of electricity that common photovoltaics (PVs) generate from sunlight without increasing the costs. Specifically, he has raised the conversion efficiency of test cells made from multi-crystalline silicon from the typical 15.5 percent to nearly 20 percent—on par with pricier single-crystal silicon cells. Such improvements could bring the cost of PV power down from the current $1.90 to $2.10 per watt to $1.65 per watt. With additional tweaks, Sachs anticipates creating within four years solar cells that can produce juice at a dollar per watt, a feat that would make electricity from the sun competitive with that from coal-burning power plants."
+      },
+      {
+        "label": "B",
+        "content": "Most PV cells, such as those on home rooftops, rely on silicon to convert sunlight into electric current. Metal interconnects then funnel the electricity out from the silicon to power devices or to feed an electrical grid. Since solar cells became practical and affordable three decades ago, engineers have mostly favored using single-crystal silicon as the active material, says Michael Rogol, managing director of Germany-based Photon Consulting. Wafers of the substance are typically sawed from an ingot consisting of one large crystal that has been pulled like taffy out of a vat of molten silicon. Especially at first, the high-purity ingots were left over from integrated-circuit manufacture, but later the process was used to make PV cells themselves, Rogol recounts. Although single-crystal cells offer high conversion efficiencies, they are expensive to make. The alternatives—multi-crystalline silicon cells, which factories fabricate from lower-purity, cast ingots composed of many smaller crystals—are cheaper to make, but unfortunately they are less efficient than single-crystal cells."
+      },
+      {
+        "label": "C",
+        "content": "Sachs, who has pioneered several novel ways to make silicon solar cells less costly and more effective, recently turned his focus to the details of multi-crystalline silicon cell manufacture. The first small improvement concerns the little silver fingers that gather electric current from the surface of the bulk silicon,\" he explains. In conventional fabrication processes, cell manufacturers use screen-printing techniques (\"like high-accuracy silk-screening of T-shirts,\" Sachs notes) and inks containing silver particles to create these bus wires. The trouble is that standard silver wires come out wide and short, about 120 by 10 microns, and include many nonconductive voids. As a result, they block considerable sunlight and do not carry as much current as they should."
+      },
+      {
+        "label": "D",
+        "content": "At his start-up company—Lexington, Mass-based 1366 Technologies (the number refers to the flux of sunlight that strikes the earth's outer atmosphere: 1.366 watts per square meter)—Sachs is employing \"a proprietary wet process that can produce thinner and taller\" wires that are 20 by 20 microns. The slimmer bus wires use less costly silver and can be placed closer together so they can draw more current from the neighboring active material, through which free electrons can travel only so far. At the same time, the wires block less incoming light than their standard counterparts."
+      },
+      {
+        "label": "E",
+        "content": "The second innovation alters the wide, flat interconnect wires that collect current from the silver bus wires and electrically link adjacent cells. Interconnect wires at the top can shade as much as 5 percent of the area of a cell. \"We place textured mirror surfaces on the faces of these rolled wires. These little mirrors reflect incoming light at a lower angle--around 30 degrees—so that when the reflected rays hit the glass layer at the top, they stay within the silicon wafer by way of total internal reflection,\" Sachs explains. (Divers and snorkelers commonly see this optical effect when they view water surfaces from below.) The longer that light remains inside, the more chance it has to be absorbed and transformed into electricity."
+      },
+      {
+        "label": "F",
+        "content": "Sachs expects that new antireflection coatings will further raise multi-crystalline cell efficiencies. One of his firm's future goals will be a switch from expensive silver bus wires to cheaper copper ones. And he has a few ideas regarding how to successfully make the substitution. \"Unlike silver, copper poisons the performance of silicon PVs,\" Sachs says, \"so it will be crucial to include a low-cost diffusion barrier that stops direct contact between copper and the silicon.\" In this business, it's always the little devilish details that count."
+      },
+      {
+        "label": "G",
+        "content": "The cost of silicon solar cells is likely to fall as bulk silicon prices drop, according to the U.S. Energy Information Administration and the industry tracking firm Solarbuzz. A steep rise in solar panel sales in recent years had led to a global shortage of silicon because production capacity for the active material lagged behind, but now new silicon manufacturing plants are coming online. The reduced materials costs and resulting lower system prices will greatly boost demand for solar-electric technology, according to market watcher Michael Rogol of Photon Consulting."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the people or companies (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 1-5 on your answer sheet. NB you may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Gives a brief account of the history of the common practice to manufacture silicon batteries for a long time.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Emanuel Sachs"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rogol"
+              },
+              {
+                "label": "C",
+                "text": "Solarbuzz"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Made a joint prediction with another national agency.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Emanuel Sachs"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rogol"
+              },
+              {
+                "label": "C",
+                "text": "Solarbuzz"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Established an enterprise with a meaningful name.",
+            "answer": "A cell",
+            "options": [
+              {
+                "label": "A",
+                "text": "Emanuel Sachs"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rogol"
+              },
+              {
+                "label": "C",
+                "text": "Solarbuzz"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Led forward in the solar-electric field by reducing the cost while raising the efficiency.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Emanuel Sachs"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rogol"
+              },
+              {
+                "label": "C",
+                "text": "Solarbuzz"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Expects to lower the cost of solar cells to a level that they could contend with the traditional way to generate electricity.",
+            "answer": "A material",
+            "options": [
+              {
+                "label": "A",
+                "text": "Emanuel Sachs"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rogol"
+              },
+              {
+                "label": "C",
+                "text": "Solarbuzz"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 6-9 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "The Achille’s heel of single-crystal cells is the high cost.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The multi-crystalline silicon cells are ideal substitutions for single-crystal cells.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Emanuel Sachs has some determining dues about the way to block the immediate contact between an alternative metal for silver and the silicon.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "In the last few years, there is a sharp increase in the demand for solar panels.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage, using No More than Three words from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Emanuel Sachs made two major changes to the particulars of the manufacture",
+            "answer": "multi-crystalline silicon",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "One is to take a in the production of finer wires which means more current could be attracted from the",
+            "answer": "proprietary wet process",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "The other one is to set above the interconnect silver bus wires to keep the incoming sunlight by",
+            "answer": "neighboring active",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "",
+            "answer": "textured mirror surfaces",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "",
+            "answer": "Total internal reflection",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:17:15.525041"
+}

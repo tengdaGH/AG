@@ -1,0 +1,208 @@
+TITLE: Mind readers
+INDEX: 285
+============================================================
+
+Mind readers
+
+It may one day be possible to eavesdrop on another person’s inner voice.
+
+As you begin to read this article and your eyes follow the words across the page, you may
+be aware of a voice in your head silently muttering along. The very same thing happens
+when we write: a private, internal narrative shapes the words before we commit them to
+text.
+
+What if it were possible to tap into this inner voice? Thinking of words does, after all. create
+characteristic electrical signals in our brains, and decoding them could make it possible to
+piece together someone’s thoughts. Such an ability would have phenomenal prospects, not
+least for people unable to communicate as a result of brain damage. But it would also carry
+profoundly worrisome implications for the future of privacy.
+
+The first scribbled records of electrical activity in the human brain were made in 1924 by a
+German doctor called Hans Berger using his new invention - the electroencephalogram
+
+(EEG). This uses electrodes placed on the skull to read the output of the brain's billions of
+nerve cells or neurons. By the mid-1990s, the ability to translate the brain's activity into
+readable signals had advanced so far that people could move computer cursors using only
+the electrical fields created by their thoughts.
+
+The electrical impulses such innovations tap into are produced in a part of the brain called
+the motor cortex, which is responsible for muscle movement. To move a cursor on a
+screen, you do not think 'move left’ in natural language. Instead, you imagine a specific
+motion like hitting a ball with a tennis racket. Training the machine to realise which
+electrical signals correspond to your imagined movements, however, is time consuming
+and difficult. And while this method works well for directing objects on a screen, its
+drawbacks become apparent when you try using it to communicate. At best, you can use
+the cursor to select letters displayed on an on-screen keyboard. Even a practised mind
+would be lucky to write 15 words per minute with that approach. Speaking, we can manage
+150.
+
+Matching the speed at which we can think and talk would lead to devices that could
+instantly translate the electrical signals of someone’s inner voice into sound produced by a
+speech synthesiser. To do this, it is necessary to focus only on the signals coming from the
+brain areas that govern speech. However, real mind reading requires some way to
+intercept those signals before they hit the motor cortex.
+
+The translation of thoughts to language in the brain is an incredibly complex and largely
+mysterious process, but this much is known: before they end up in the motor cortex,
+thoughts destined to become spoken words pass through two ‘staging areas’ associated
+with the perception and expression of speech.
+
+The first is called Wernicke’s area, which deals with semantics - in this case, ideas based
+in meaning, which can include images, smells or emotional memories. Damage to
+Wernicke’s area can result in the loss of semantic associations: words can’t make sense
+when they are decoupled from their meaning. Suffer a stroke in that region, for example,
+and you will have trouble understanding not just what others are telling you, but what you
+yourself are thinking.
+The second is called Broca’s area, agreed to be the brain’s speech-processing centre.
+Here, semantics are translated into phonetics and. ultimately, word components. From
+here, the assembled sentences take a quick trip to the motor cortex, which activates the
+muscles that will turn the desired words into speech.
+
+Injure Broca’s area, and though you might know what you want to say. you just can’t send
+those impulses.
+
+When you listen to your inner voice, two things arc happening. You ‘hear’ yourself
+producing language in Wernicke’s area as you construct it in Broca’s area. The key to mind
+reading seems to lie in these two areas.
+
+44 The work of Bradley Greger in 2010 broke new ground by marking the first-ever
+excursion beyond the motor cortex into the brain’s language centres. His team used
+electrodes placed inside the skull to detect the electrical signatures of whole words, such
+as 'yes’, ’no’, ’hot’, ‘cold’, 'thirsty', ‘hungry’, etc. Promising as it is. this approach requires a
+new signal to be learned for each new word. English contains a quarter of a million distinct
+words. And though this was the first instance of monitoring Wernicke’s area, it still relied
+largely on the facial motor cortex.
+
+Greger decided there might be another way. The building blocks of language are called
+phonemes, and the English language has about 40 of them - the ‘kuh’ sound in ‘school’, for
+example the ’$h' in ‘shy’. Every English word contains some subset of these components.
+Decode the brain signals that correspond to the phonemes, and you would have a system
+to unlock any word at the moment someone thinks it.
+
+In 2011, Eric Leuthardt and his colleague Gerwin Schalk positioned electrodes over the
+language regions of four fully conscious people and were able to detect the phonemes ’oo’,
+‘ah’, ‘eh’ and ‘ee’. What they also discovered was that spoken phonemes activated both the
+language areas and the motor cortex, while imagined speech - that inner voice - boosted
+the activity of neurons in Wernike’s area. Leuthardt had effectively read his subjects' minds.
+‘I would call it brain reading,’ he says. To arrive at whole words. Leuthardt’s next step is to
+expand his library of sounds and to find out how the production of phonemes translates
+across different languages.
+
+For now. the research is primarily aimed at improving the lives of people with locked-in
+syndrome, but the ability to explore the brain’s language centres could revolutionise other
+fields. The consequences of these findings could ripple out to more general audiences who
+might like to use extreme hands-free mobile communication technologies that can be
+manipulated by inner voice alone. For linguists, it could provide previously unobtainable
+insight into the neural origins and structures of language. Knowing what someone is
+thinking without needing words at all would be functionally indistinguishable from telepathy.
+
+Questions 1-6
+
+Do the following statements agree with the claims of the writer in the Reading Passage?
+
+Write
+
+YES if the statement agrees with the claims of the writer
+
+NO if the statement contradicts the claims of the writer
+
+NOT GIVEN if it is impossible to say what the writer thinks about this
+1..................... Our inner voice can sometimes distract us when we are reading or
+writing.
+2..................... The possibility of reading minds has both positive and negative
+implications.
+3..................... Little progress was made in understanding electrical activity in the brain
+between 1924 and the mid-1990s.
+4..................... Machines can be readily trained to interpret electrical signals from the
+brain that correspond to movements on a keyboard.
+
+5..................... Much has been written about the potential use of speech synthesisers
+with paralysed patients.
+
+6..................... It has been proven that the perception and expression of speech occur in
+different parts of the brain.
+
+
+Questions 7-10
+
+Complete each sentence with the correct ending, A-G.
+
+7..................... In Wernicke’s area, our thoughts
+8..................... It is only in Broca’s area that ideas we wish to express
+
+9..................... The muscles that articulate our sentences
+
+10..................... The words and sentences that we speak
+
+
+A receive impulses from the motor cortex.
+
+B pass directly to the motor cortex.
+
+C are processed into language.
+
+D require a listener.
+
+E consist of decoded phonemes.
+
+F are largely non-verbal.
+G match the sounds that they make.
+
+
+Questions 11-14
+
+Choose the correct letter, A, B, C or D.
+
+11. What does the underlined phrase 'broke new ground’ in line 44 mean?
+
+A built on the work of others
+
+B produced unusual or unexpected results
+
+C proved earlier theories on the subject to be false
+
+D achieved something that had not been done before
+
+
+12. What was most significant about Leuthardt and Schalk's work?
+A They succeeded in grouping certain phonemes into words.
+
+B They linked the production of certain phonemes to recognisable brain activity.
+
+C Their methods worked for speakers of languages other than English.
+
+D Their subjects were awake during the course of their experiments.
+
+
+13. What does the writer conclude about mind reading?
+
+A It could become a form of entertainment.
+
+B It may contribute to studies on language acquisition.
+C Most people are keenly awaiting the possibility of doing it.
+
+D Mobile technologies may become unreliable because of it.
+
+
+14. What is the main purpose of the writer of this passage?
+
+A to give an account of the developments in mind-reading research
+
+B to show how scientists’ attitudes towards mind reading have changed
+
+C to explain why mind-reading research should be given more funding
+
+D to fully explore the arguments for and against mind reading
+
+Solution:
+
+1. NOT GIVEN 8. C
+2. YES 9. A
+
+3. NO 10. E
+4. NO 11. D
+
+5. NOT GIVEN 12. B
+6. YES 13. B
+
+7. F 14. A

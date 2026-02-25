@@ -1,0 +1,284 @@
+{
+  "id": "ielts-r-0012",
+  "slug": "air-pollution",
+  "title": "Air pollution",
+  "page_range": [
+    74,
+    79
+  ],
+  "raw_answer_key": {
+    "1": "Los Angeles",
+    "8": "NO",
+    "2": "London",
+    "9": "NO",
+    "3": "Singapore",
+    "10": "NO",
+    "4": "London",
+    "11": "A",
+    "5": "Los Angeles",
+    "12": "D",
+    "6": "YES",
+    "13": "C",
+    "7": "YES"
+  },
+  "content": {
+    "title": "Air Pollution",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Air pollution is increasingly becoming the focus of government and citizen concern around the globe. From Mexico City and New York, to Singapore and Tokyo, new solutions to this old problem are being proposed, tested and implemented with ever increasing speed. It is feared that unless pollution reduction measures are able to keep pace with the continued pressures of urban growth, air quality in many of the world’s major cities will deteriorate beyond reason."
+      },
+      {
+        "label": "B",
+        "content": "Action is being taken along several fronts: through new legislation, improved enforcement and innovative technology. In Los Angeles, state regulations are forcing manufacturers to try to sell ever cleaner cars: their first of the cleanest, titled 'Zero Emission Vehicles', have to be available soon, since they are intended to make up 2 per cent of sales in 1997. Local authorities in London are campaigning to be allowed to enforce anti-pollution laws themselves; at present only the police have the power to do so, but they tend to be busy elsewhere. In Singapore, renting out road space to users is the way of the future."
+      },
+      {
+        "label": "C",
+        "content": "When Britain’s Royal Automobile Club monitored the exhausts of 60,000 vehicles, it found that 12 per cent of them produced more than half the total pollution. Older cars were the worst offenders; though a sizeable number of quite new cars were also identified as gross polluters, they were simply badly tuned. California has developed a scheme to get these gross polluters off the streets: they offer a flat $700 for any old, run-down vehicle driven in by its owner. The aim is to remove the heaviest-polluting, most decrepit vehicles from the roads."
+      },
+      {
+        "label": "D",
+        "content": "As part of a European Union environmental programme, a London council is testing an infra-red spectrometer from the University of Denver in Colorado. It gauges the pollution from a passing vehicle - more useful than the annual stationary test that is the British standard today - by bouncing a beam through the exhaust and measuring what gets blocked. The council's next step may be to link the system to a computerized video camera able to read number plates automatically."
+      },
+      {
+        "label": "E",
+        "content": "The effort to clean up cars may do little to cut pollution if nothing is done about the tendency to drive them more. Los Angeles has some of the world’s cleanest cars - far better than those of Europe - but the total number of miles those cars drive continues to grow. One solution is car-pooling, an arrangement in which a number of people who share the same destination share the use of one car. However, the average number of people in a car on the freeway in Los Angeles, which is 1.0, has been falling steadily. Increasing it would be an effective way of reducing emissions as well as easing congestion. The trouble is, Los Angeles seems to like being alone in their cars."
+      },
+      {
+        "label": "F",
+        "content": "Singapore has for a while had a scheme that forces drivers to buy a badge if they wish to visit a certain part of the city. Electronic innovations make possible increasing sophistication: rates can vary according to road conditions, time of day and so on. Singapore is advancing in this direction, with a city-wide network of transmitters to collect information and charge drivers as they pass certain points. Such road-pricing, however, can be controversial. When the local government in Cambridge, England, considered introducing Singaporean techniques, it faced vocal and ultimately successful opposition."
+      },
+      {
+        "label": null,
+        "content": "The scope of the problem facing the world’s cities is immense. In 1992, the United Nations Environmental Programme and the World Health Organisation (WHO) concluded that all of a sample of twenty megacities - places likely to have more than ten million inhabitants in the year 2000 - already exceeded the level the WHO deems healthy in at least one major pollutant. Two-thirds of them exceeded the guidelines for two, seven for three or more. Of the six pollutants monitored by the WHO - carbon dioxide, nitrogen dioxide, ozone, sulphur dioxide, lead and particulate matter - it is this last category that is attracting the most attention from health researchers. PM10, a sub-category of particulate matter measuring ten-millionths of a metre across, has been implicated in thousands of deaths a year in Britain alone. Research being conducted in two counties of Southern California is reaching similarly disturbing conclusions concerning this little-understood pollutant."
+      },
+      {
+        "label": null,
+        "content": "A world-wide rise in allergies, particularly asthma, over the past four decades is now said to be linked with increased air pollution. The lungs and brains of children who grow up in polluted air offer further evidence of its destructive power. The old and ill, however, are the most vulnerable to the acute effects of heavily polluted stagnant air. It can actually hasten death, as it did in December 1991 when a cloud of exhaust fumes lingered over the city of London for over a week."
+      },
+      {
+        "label": null,
+        "content": "The United Nations has estimated that in the year 2000 there will be twenty-four megacities and a further eighty-five cities of more than three million people. The pressure on public officials, corporations and urban citizens to reverse established trends in air pollution is likely to grow in proportion with the growth of cities themselves. Progress is being made. The question, though, remains the same: 'Will change happen quickly enough?'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Look at the following solutions (Questions 1-5) and locations. Match each solution with one location.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Manufacturers must sell cleaner cars.",
+            "answer": "Los Angeles",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Authorities want to have power to enforce anti-pollution laws.",
+            "answer": "London",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Drivers will be charged according to the roads they use.",
+            "answer": "Singapore",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Moving vehicles will be monitored for their exhaust emissions.",
+            "answer": "London",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Commuters are encouraged to share their vehicles with others.",
+            "answer": "Los Angeles",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements reflect the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "According to British research, a mere twelve per cent of vehicles tested produced over fifty per cent of total pollution produced by the sample group.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "It is currently possible to measure the pollution coming from individual vehicles whilst they are moving.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Residents of Los Angeles are now tending to reduce the yearly distances they travel by car.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Car-pooling has steadily become more popular in Los Angeles in recent years.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Charging drivers for entering certain parts of the city has been successfully done in Cambridge, England.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A—D and write them in boxes 11-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "How many pollutants currently exceed WHO guidelines in all megacities studied?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "one"
+              },
+              {
+                "label": "B",
+                "text": "two"
+              },
+              {
+                "label": "C",
+                "text": "three"
+              },
+              {
+                "label": "D",
+                "text": "seven"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Which pollutant is currently the subject of urgent research?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "nitrogen dioxide"
+              },
+              {
+                "label": "B",
+                "text": "ozone"
+              },
+              {
+                "label": "C",
+                "text": "lead"
+              },
+              {
+                "label": "D",
+                "text": "particulate matter"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Which of the following groups of people are the most severely affected by intense air pollution?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "allergy sufferers"
+              },
+              {
+                "label": "B",
+                "text": "children"
+              },
+              {
+                "label": "C",
+                "text": "the old and ill"
+              },
+              {
+                "label": "D",
+                "text": "asthma sufferers"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:22:33.031728"
+}

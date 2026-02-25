@@ -1,0 +1,302 @@
+{
+  "id": "ielts-r-0017",
+  "slug": "alternative-medicine-in-australia",
+  "title": "Alternative Medicine in Australia",
+  "page_range": [
+    100,
+    104
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "NOT GIVEN",
+    "2": "B",
+    "9": "NO",
+    "3": "YES",
+    "10": "YES",
+    "11": "emotional// emotional",
+    "4": "NO problems",
+    "5": "YES",
+    "12": "headache// headaches",
+    "6": "YES",
+    "13": "general ill health",
+    "7": "YES"
+  },
+  "content": {
+    "title": "Alternative Medicine in Australia",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The first students to study alternative medicine at university level in Australia began their four-year, full-time course at the University of Technology, Sydney, in early 1994. Their course covered, among other therapies, acupuncture. The theory they learnt is based on the traditional Chinese explanation of this ancient healing art: that it can regulate the flow of ‘Qi’ or energy through pathways in the body. This course reflects how far some alternative therapies have come in their struggle for acceptance by the medical establishment."
+      },
+      {
+        "label": null,
+        "content": "Australia has been unusual in the Western world in having a very conservative attitude to natural or alternative therapies, according to Dr Paul Laver, a lecturer in Public Health at the University of Sydney. ‘We’ve had a tradition of doctors being fairly powerful and I guess they are pretty loath to allow any pretenders to their position to come into it.’ In many other industrialized countries, orthodox and alternative medicines have worked ‘hand in glove’ for years. In Europe, only orthodox doctors can prescribe herbal medicine. In Germany, plant remedies account for 10% of the national turnover of pharmaceutical. Americans made more visits to alternative therapist than to orthodox doctors in 1990, and each year they spend about $US 12 billion on the therapies that have not been scientifically tested."
+      },
+      {
+        "label": null,
+        "content": "Disenchantment with orthodox medicine has seen the popularity of alternative therapies in Australia climb steadily during the past 20 years. In a 1983 national health survey, 1.9% of people said they had contacted a chiropractor, naturopath, osteopath, acupuncturist or herbalist in the two weeks prior to the survey. By 1990, this figure had risen to 2.6% of the population. The 550,000 consultations with alternative therapists reported in the 1990 survey represented about an eighth of the total number of consultations with medically qualified personnel covered by the survey, according to Dr Laver and colleagues writing in the Australian Journal of Public Health in 1993. ‘A better educated and less accepting public has become disillusion with the experts in general and increasingly skeptical about science and empirically based knowledge,’ they said. ‘The high standing of professionals, including doctors, has been eroded as a consequence.’"
+      },
+      {
+        "label": null,
+        "content": "Rather than resisting or criticizing this trend, increasing numbers of Australian doctors, particularly younger ones, are forming group practices with alternative therapists or taking courses themselves, particularly in acupuncture and herbalism. Part of the incentive was financial, Dr Laver said. ‘The bottom line is that most general practitioners are business people. If they see potential clientele going elsewhere, they might want to be able to offer a similar service.’"
+      },
+      {
+        "label": null,
+        "content": "In 1993, Dr Laver and his colleagues published a survey of 289 Sydney people who attended eight alternative therapists’ practices in Sydney. These practices offered a wide range of alternative therapies from 25 therapists. Those surveyed had experience chronic illnesses, for which orthodox medicine had been able to provide little relief. They commented that they liked the holistic approach of their alternative therapists and the friendly, concerned and detailed attention they had received. The cold, impersonal manner of orthodox doctors featured in the survey. An increasing exodus from their clinics, coupled with this and a number of other relevant surveys carried out in Australia, all pointing to orthodox doctors’ inadequacies, have led mainstream doctors themselves to begin to admit they could learn from the personal style of alternative therapists."
+      },
+      {
+        "label": null,
+        "content": "Dr Patrick Store, President of the Royal College of General Practitioners, concurs that orthodox doctors could learn a lot about bedside manner and advising patients on preventative health from alternative therapists."
+      },
+      {
+        "label": null,
+        "content": "According to the Australian Journal of Public Health, 18% of patients visiting alternative therapists do so because they suffer from musculo-skeletal complaints; 12% suffer from digestive problems, which is only 1% more than those suffering from emotional problems. Those suffering from respiratory complaints represent 7% of their patients, and candida sufferers represent an equal percentage. Headache sufferers and those complaining of general ill health represent 6% and 5% of patients respectively, and a further 4% see therapists for general health maintenance."
+      },
+      {
+        "label": null,
+        "content": "The survey suggested that complementary medicine is probably a better term than alternative medicine. Alternative medicine appears to be an adjunct, sought in times of disenchantment when conventional medicine seems not to offer the answer."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Traditionally, how have Australian doctors differed from doctors in many Western countries?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "They have worked closely with pharmaceutical companies."
+              },
+              {
+                "label": "B",
+                "text": "They have often worked alongside other therapists."
+              },
+              {
+                "label": "C",
+                "text": "They have been reluctant to accept alternative therapists."
+              },
+              {
+                "label": "D",
+                "text": "They have regularly prescribed alternative remedies."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "In 1990, Americans",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "were prescribed more herbal medicines than in previous years."
+              },
+              {
+                "label": "B",
+                "text": "consulted alternative therapists more often than doctors."
+              },
+              {
+                "label": "C",
+                "text": "spent more on natural therapies than orthodox medicines."
+              },
+              {
+                "label": "D",
+                "text": "made more complaints about doctors than in previous years."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 3,
+            "text": "Australians have been turning to alternative therapies in increasing numbers over the past 20 years.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Between 1983 and 1990 the numbers of patients visiting alternative therapists rose to include a further 8% of the population.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "The 1990 survey related to 550,000 consultations with alternative therapists.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "In the past, Australians had a higher opinion of doctors than they do today.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Some Australian doctors are retraining in alternative therapies.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Alternative therapists earn higher salaries than doctors.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The 1993 Sydney survey involved 289 patients who visited alternative therapists for acupuncture treatment.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "All the patients in the 1993 Sydney survey had long-term medical complaints.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the vertical axis on the table below.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "",
+            "answer": "emotional// emotional",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "",
+            "answer": "headache// headaches",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "",
+            "answer": "general ill health",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:23:20.805238"
+}

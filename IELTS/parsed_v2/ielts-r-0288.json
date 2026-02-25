@@ -1,0 +1,222 @@
+{
+  "id": "ielts-r-0288",
+  "slug": "migratory-beekeeping",
+  "title": "Migratory Beekeeping",
+  "page_range": [
+    1453,
+    1457
+  ],
+  "raw_answer_key": {
+    "9": "frames (of",
+    "1": "prepare comb)",
+    "2": "full",
+    "10": "screen",
+    "11": "brood",
+    "3": "smoke chamber",
+    "4": "charge",
+    "12": "NOT GIVEN",
+    "5": "machines",
+    "13": "YES",
+    "6": "combs",
+    "14": "YES",
+    "7": "split",
+    "15": "NO",
+    "8": "(hexagonal) cells//comb"
+  },
+  "content": {
+    "title": "Migratory Beekeeping",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "To eke out a full-time living from their honeybees, about half the nation’s 2,000 commercial beekeepers pull up stakes each spring, migrating north to find more flowers for their bees. Besides turning floral nectar into honey, these hardworking insects also pollinate crops for farmers - for a fee. As autumn approaches, the beekeepers pack up their hives and go south, scrambling for pollination contracts in hot spots like California’s fertile Central Valley."
+      },
+      {
+        "content": "Of the 2,000 commercial beekeepers in the United States about half migrate. This pays off in two ways. Moving north in the summer and south in the winter lets bees work a longer blooming season, making more honey — and money — for their keepers. Second, beekeepers can carry their hives to farmers who need bees to pollinate their crops. Every spring a migratory beekeeper in California may move up to 160 million bees to flowering fields in Minnesota and every winter his family may haul the hives back to California, where farmers will rent the bees to pollinate almond and cherry trees."
+      },
+      {
+        "content": "Migratory beekeeping is nothing new. The ancient Egyptians moved clay hives, probably on rafts, down the Nile to follow the bloom and nectar flow as it moved toward Cairo. In the 1880s North American beekeepers experimented with the same idea, moving bees on barges along the Mississippi and on waterways in Florida, but their lighter, wooden hives kept falling into the water. Other keepers tried the railroad and horse-drawn wagons, but that didn’t prove practical. Not until the 1920s when cars and trucks became affordable and roads improved, did migratory beekeeping begin to catch on."
+      },
+      {
+        "content": "For the Californian beekeeper, the pollination season begins in February. At this time, the beehives are in particular demand by farmers who have almond groves; they need two hives an acre. For the three-week long bloom, beekeepers can hire out their hives for $32 each. It’s a bonanza for the bees too. Most people consider almond honey too bitter to eat so the bees get to keep it for themselves."
+      },
+      {
+        "content": "By early March it is time to move the bees. It can take up to seven nights to pack the 4,000 or so hives that a beekeeper may own. These are not moved in the middle of the day because too many of the bees would end up homeless. But at night, the hives are stacked onto wooden pallets, back-to-back in sets of four, and lifted onto a truck. It is not necessary to wear gloves or a beekeeper’s veil because the hives are not being opened and the bees should remain relatively quiet. Just in case some are still lively, bees can be pacified with a few puffs of smoke blown into each hive’s narrow entrance."
+      },
+      {
+        "content": "In their new location, the beekeeper will pay the farmer to allow his bees to feed in such places as orange groves. The honey produced here is fragrant and sweet and can be sold by the beekeepers. To encourage the bees to produce as much honey as possible during this period, the beekeepers open the hives and stack extra boxes called supers on top. These temporary hive extensions contain frames of empty comb for the bees to fill with honey. In the brood chamber below, the bees will stash honey to eat later. To prevent the queen from crawling up to the top and laying eggs, a screen can be inserted between the brood chamber and the supers. Three weeks later the honey can be gathered."
+      },
+      {
+        "content": "Foul smelling chemicals are often used to irritate the bees and drive them down into the hive’s bottom boxes, leaving the honey-filled supers more or less bee free. These can then be pulled off the hive. They are heavy with honey and may weigh up to 90 pounds each. The supers are taken to a warehouse. In the extracting room, the frames are lifted out and lowered into an “uncapper” where rotating blades shave away the wax that covers each cell. The uncapped frames are put in a carousel that sits on the bottom of a large stainless steel drum. The carousel is filled to capacity with 72 frames. A switch is flipped and the frames begin to whirl at 300 revolutions per minute; centrifugal force throws the honey out of the combs. Finally the honey is poured into barrels for shipment."
+      },
+      {
+        "content": "After this, approximately a quarter of the hives weakened by disease, mites, or an ageing or dead queen, will have to be replaced. To create new colonies, a healthy double hive, teeming with bees, can be separated into two boxes. One half will hold the queen and a young, already mated queen can be put in the other half, to make two hives from one. By the time the flowers bloom, the new queens will be laying eggs, filling each hive with young worker bees. The beekeeper’s family will then migrate with them to their summer location."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the flow chart using the words provided in the box.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "In March, beekeepers ..................... for migration at night when the hives are full and the bees are generally tranquil.",
+            "answer": "prepare comb)",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "In March, beekeepers prepare comb) for migration at night when the hives are..................... and the bees are generally tranquil.",
+            "answer": "full",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "A little ..................... can ensure that this is the case.",
+            "answer": "smoke chamber",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "They transport their hives to orange groves where farmers ..................... beekeepers for placing them on their land.",
+            "answer": "charge",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "After three weeks, the supers can be taken to a warehouse where ..................... are used to remove the wax and extract the honey from the combs.",
+            "answer": "machines",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "After three weeks, the supers can be taken to a warehouse where machines are used to remove the wax and extract the honey from the ..................... .",
+            "answer": "combs",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Good double hives are ..................... and re-queened and the beekeeper transports them to their summer base.",
+            "answer": "split",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Label the diagram of a beehive using ONE OR TWO WORDS from the passage.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Label the part of the beehive marked as 8.",
+            "answer": "(hexagonal) cells//comb",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Label the part of the beehive marked as 9.",
+            "answer": "frames (of",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Label the part of the beehive marked as 10.",
+            "answer": "screen",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Label the part of the beehive marked as 11.",
+            "answer": "brood",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Indicate whether the statements agree with the information in the passage.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "The Egyptians keep bees on the banks of the Nile.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information given."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information given."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "First attempts at migratory beekeeping in America were unsuccessful.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information given."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information given."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Bees keep honey for themselves in the bottom of the hive.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information given."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information given."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this."
+              }
+            ]
+          },
+          {
+            "number": 15,
+            "text": "The honey is spun to make it liquid.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information given."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information given."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 15
+  },
+  "processed_at": "2026-02-25T20:46:32.502834"
+}

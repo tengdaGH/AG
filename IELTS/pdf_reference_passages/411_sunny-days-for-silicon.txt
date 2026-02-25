@@ -1,0 +1,152 @@
+TITLE: Sunny Days For Silicon
+INDEX: 411
+============================================================
+
+Sunny Days For Silicon
+
+A The old saw that "the devil is in the details" characterizes the kind of needling obstacles
+that prevent an innovative concept from becoming a working technology. It also often
+describes the type of problems that must be overcome to shave cost from the resulting
+product so that people will buy it. Emanuel Sachs of the Massachusetts Institute of
+Technology has struggled with many such little devils in his career-tong endeavor to
+develop low-cost, high-efficiency solar cells. In his latest effort, Sachs has found
+incremental ways to boost the amount of electricity that common photovoltaics (PVs)
+generate from sunlight without increasing the costs. Specifically, he has raised the
+conversion efficiency of test cells made from multi-crystalline silicon from the typical 15.5
+percent to nearly 20 percent—on par with pricier single-crystal silicon cells. Such
+improvements could bring the cost of PV power down from the current $1.90 to $2.10 per
+watt to $1.65 per watt. With additional tweaks, Sachs anticipates creating within Four years
+solar cells that can produce juice at a dollar per watt, a feat that would make electricity (rum
+the sun competitive with that from coal-burning power plants.
+
+B Most PV cells, such as those on home rooftops, rely on silicon to convert sunlight into
+electric current. Metal interconnects then funnel the electricity out from the silicon to power
+devices or to feed an electrical grid. Since solar cells became practical and affordable three
+decades ago, engineers have mostly favored using single-crystal silicon as the active
+material, says Michael Rogol, managing director of Germany- based Photon Consulting.
+Wafers of the substance are typically sawed from an ingot consisting of one large crystal
+that has been pulled like taffy out of a vat of molten silicon. Especially at first, the high-
+purity ingots were left over from integrated-circuit manufacture, but later the process was
+used to make PV cells themselves, Rogol recounts. Although single-crystal cells offer high
+conversion efficiencies, they are expensive to make. The alternatives- multi-crystalline
+silicon cells, which factories fabricate from lower-purity, cast ingots composed of many
+smaller crystals—are cheaper to make, but unfortunately they are less efficient than single-
+crystal cells.
+C Sachs, who has pioneered several novel ways to make silicon solar cells less costly and
+more effective, recently turned his focus to the details of multi-crystalline silicon cell
+manufacture. The first small improvement concerns the little silver fingers that gather
+electric current from the surface of the bulk silicon," he explains. In conventional fabrication
+processes, cell manufacturers use screen-printing techniques ("like high-accuracy silk-
+screening of T-shirts," Sachs notes) and inks containing, silver particles to create these bus
+wires. The trouble is that standard silver wires come out wide and short, about 120 by 10
+microns, and include many nonconductive voids. As a result, they block considerable
+sunlight and do not carry as much current as they should.
+
+D At his start-up company—Lexington, Mass- based 1366 Technologies (the number refers
+to the flux of sunlight that strikes the earth's outer atmosphere: 1.366 watts per square
+meter)—Sachs is employing "a proprietary wet process that can produce thinner and taller"
+wires that are 20 by 20 microns. The slimmer bus wires use less costly silver and can be
+placed closer together so they can draw more current from the neighboring active material,
+through which free electrons can travel only so far. At the same time, the wires block less
+incoming light than their standard counterparts.
+E The second innovation alters the wide, flat interconnect wires that collect current from the
+silver bus wires and electrically link adjacent cells. Interconnect wires at the top can shade
+as much as 5 percent of the area of a cell. "We place textured mirror surfaces on the faces
+of these rolled wires. These little mirrors reflect incoming light at a lower angle--around 30
+degrees-—so that when the reflected rays hit the glass layer at Lire top, they stay within the
+silicon wafer by way of total internal reflection,” Sachs explains. (Divers and snorkelers
+commonly see this optical effect when they view water surfaces from below.) The longer
+that light remains inside, the more chance it has to be absorbed and transformed into
+electricity.
+
+F Sachs expects that new antireflection coatings will further raise multi-crystal line cell
+efficiencies. One of his firm's future goals will be a switch from expensive silver bus wires
+to cheaper copper ones. And he has a few ideas regarding how to successfully make the
+substitution. "Unlike silver, copper poisons the performance of silicon PVs," Sachs says,
+"so it will be crucial to include a low-cost diffusion barrier that stops direct contact between
+copper and the silicon." In this business, it's always the little devilish details that count.
+
+G The cost of silicon solar cells is likely to fall as bulk silicon prices drop, according to the
+U.S. Energy information Administration and the industry tracking firm Solarbuzz. A steep
+rise in solar panel sales in recent years had led to a global shortage of silicon because
+production capacity for the active material lagged behind, but now new silicon
+manufacturing plants are coming online. The reduced materials costs and resulting lower
+system prices will greatly boost demand for solar-electric technology, according to market
+watcher Michael Rogol of Photon Consulting.
+
+Questions 1-5
+
+Use the information in the passage to match the people or companies (listed A-C) with
+opinions or deeds below. Write the appropriate letters A-C in boxes 1-5 on your answer
+sheet.
+
+NB you may use any letter more than once
+
+A. Emanuel Sach
+
+B. Michael Rogol
+
+C. Solarbuzz
+
+1..................... Gives a brief account of the history of the common practice to manufacture
+silicon batteries for a long time.
+
+2..................... Made a joint prediction with another national agency.
+
+3..................... Established an enterprise with a meaningful name.
+4..................... Led forward in the solar-electric field by reducing the cost while raising the
+efficiency.
+
+5..................... Expects to lower the cost of solar cells to a level that they could contend
+with the traditional way to generate electricity.
+
+
+Questions 6-9
+
+Do the following statements agree with the information given in Reading Passage?
+
+In boxes 6-9 on your answer sheet, write
+TRUE if the statement is true
+
+FALSE if the statement is false
+
+NOT GIVEN if the information is not given in the passage
+
+6..................... The Achille’s heel of single-crystal cells is the high cost.
+
+7..................... The multi-crystalline silicon cells are ideal substitutions for single-crystal
+cells.
+
+8..................... Emanuel Sachs has some determining dues about the way to block the
+immediate contact between an alternative metal for silver and the silicon.
+
+9..................... In the last few years, there is a sharp increase in the demand for solar
+panels.
+
+
+Questions 10-14
+
+Complete the following summary of the paragraphs of Reading Passage, using No More
+than Three words from the Reading Passage for each answer. Write your answers in boxes
+10-14 on your answer sheet.
+
+Emanuel Sachs made two major changes to the particulars of the manufacture
+10...................... One is to take a 11..................... in the production of finer wires which
+means more current could be attracted from the 12...................... The other one is to set
+13..................... above the interconnect silver bus wires to keep the incoming sunlight by
+14......................
+
+Solution:
+
+1. B 8. NOT GIVEN
+2. C 9. TRUE
+
+10. multi-crystalline silicon
+3. A
+cell
+4. A 11. proprietary wet process
+12. neighboring active
+5. A
+material
+6. TRUE 13. textured mirror surfaces
+7. FALSE 14. Total internal reflection

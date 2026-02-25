@@ -1,0 +1,177 @@
+TITLE: Intelligence and Giftedness
+INDEX: 224
+============================================================
+
+Intelligence and Giftedness
+
+A
+
+In 1904 the French minister of education, facing limited resources for schooling, sought a
+way to separate the unable from the merely lazy. Alfred Binet got the job of devising
+selection principles and his brilliant solution put a stamp on the study of intelligence and
+was the forerunner of intelligence tests still used today, he developed a thirty-problem test
+in 1905, which tapped several abilities related to intellect, such as judgment and reasoning,
+the test determined a given child’s mental age’. The test previously established a norm for
+children of a given physical age. (for example, five-year-old on average get ten items
+correct), therefore, a child with a mental age of five should score 10, which would mean
+that he or she was functioning pretty much as others of that age. The child’s mental age
+was then compared to his physical age.
+
+B
+
+A large disparity in the wrong direction (e.g., a child of nine with a mental age of four) might
+suggest inability rather than laziness and mean he or she was earmarked for special
+schooling, Binet, however, denied that the test was measuring intelligence, its purpose was
+simply diagnostic, for selection only. This message was however lost and caused many
+problems and misunderstanding later.
+
+C
+
+Although Binet’s test was popular, it was a bit inconvenient to deal with a variety of physical
+and mental ages. So in 1912, Wilhelm Stern suggested simplifying this by reducing the two
+to a single number, he divided the mental age by the physical age and multiplied the result
+by 100. An average child, irrespective of age, would score 100. A number much lower than
+100 would suggest the need for help, and one much higher would suggest a child well
+ahead of his peer.
+
+D
+
+This measurement is what is now termed the IQ (for intelligence quotient) score and it has
+evolved to be used to show how a person, adult or child, performed in relation to others.
+(the term IQ was coined by Lewis M. Terman, professor of psychology and education of
+Stanford University, in 1916. He had constructed an enormously influential revision of
+Binet’s test, called the Stanford-Binet test, versions of which are still given extensively.)
+
+E
+
+The field studying intelligence and developing tests eventually coalesced into a sub-field of
+psychology called psychometrics (psycho for ‘mind’ and metrics for ‘measurements’). The
+practical side of psychometrics (the development and use of tests) became widespread
+quite early, by 1917, when Einstein published his grand theory of relativity, mass-scale
+testing was already in use. Germany’s unrestricted submarine warfare (which led to the
+sinking of the Lusitania in 1915) provoked the United States to finally enter the First World
+War in the same year. The military had to build up an army very quickly; it had two million
+inductees to sort out. Who would become officers and who enlisted men?
+Psychometricians developed two intelligence tests that help sort all these people out, at
+least to some extent, this was the first major use of testing to decide who lived and who
+died, as officers were a lot safer on the battlefield, the tests themselves were given under
+horrendously bad conditions, and the examiners seemed to lack commonsense, a lot of
+recruits simply had no idea what to do and in several sessions most inductees scored zero!
+The examiners also came up with the quite astounding conclusion from the testing that the
+average American adult’s intelligence was equal to that of a thirteen-year-old!
+F
+
+Intelligence testing enforced political and social prejudice, their results were used to argue
+that Jews ought to be kept out of the united states because they were so intelligently
+inferior that they would pollute the racial mix, and blacks ought not to be allowed to breed
+at all. And so abuse and test bias controversies continued to plaque psychometrics.
+
+G
+Measurement is fundamental to science and technology, science often advances in leaps
+and bounds when measurement devices improve, psychometrics has long tried to develop
+ways to gauge psychological qualities such as intelligence and more specific abilities,
+anxiety, extroversion, emotional stability, compatibility, with a marriage partner, and so on.
+Their scores are often given enormous weight, a single IQ measurement can take on a life
+of its own if teachers and parents see it as definitive, it became a major issue in the 70s,
+when court cases were launched to stop anyone from making important decisions based
+on IQ test scores, the main criticism was and still is that current tests don’t really measure
+intelligence, whether intelligence can be measured at all is still controversial, some say it
+cannot others say that IQ tests are psychology’s greatest accomplishments.
+
+Questions 14-17
+
+The Reading Passage has seven paragraphs A-G
+
+Which paragraph contains the following information?
+
+Write the correct letter A-G, in boxes 14-17 on your answer sheet.
+
+
+14..................... IQ is just one single factor of human characteristics.
+
+
+15..................... Discussion of the methodology behind Professor Stern’s test.
+
+16..................... Inadequacy of IQ test from Binet.
+
+17..................... The definition of IQ was created by a professor.
+
+
+Questions 18-21
+
+18 Professor Binet devises the test to ……………………
+
+A find those who do not perform satisfied
+
+B choose the best one
+
+C measure the intelligence
+D establish the standard of intelligence
+
+
+19 The test is designed according to ……………………
+
+A math
+
+B age
+
+C reading skill
+
+D gender
+
+
+20 U.S. Army used Intelligence tests to select………………………
+
+A Officers
+
+B Normal Soldiers
+
+C Examiners
+
+D Submarine drivers.
+21 the purpose of the text is to……………………
+
+A Give credit to the contribution of Binet in IQ test
+
+B prove someone’s theory is feasible.
+
+C discuss the validity and limitation of the test
+D outline the history of the test
+
+
+Questions 22-26
+
+Do the following statements agree with the information given in Reading Passage 2?
+In boxes 22-26 on your answer sheet, write
+
+TRUE if the statement is true
+
+FALSE if the statement is false
+
+NOT GIVEN if the information is not given in the passage
+
+
+22..................... Part the intension in designing the test by professor Binet has been
+misunderstood.
+
+23..................... Age as a factor is completely overlooked in the simplified tests by
+Wilhelm Stern
+
+24..................... Einstein was a counter-example of IQ test conclusion.
+
+25..................... IQ test may probably lead to racial discrimination as a negative effect.
+
+26..................... The author regards measuring intelligent test as a goal hardly meaningful.
+
+Solution:
+
+1. G 8. C
+2. C 9. TRUE
+
+3. B 10. FALSE
+4. D 11. NOT GIVEN
+
+5. B 12. TRUE
+6. B 13. NOT GIVEN
+
+7. A

@@ -1,0 +1,423 @@
+{
+  "id": "ielts-r-0236",
+  "slug": "john-franklin-the-discovery-of-the-slowness",
+  "title": "John Franklin: “the discovery of the slowness”",
+  "page_range": [
+    1195,
+    1199
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "J",
+    "2": "D",
+    "9": "H",
+    "3": "H",
+    "10": "F",
+    "4": "C",
+    "11": "D",
+    "5": "B",
+    "12": "C",
+    "6": "H",
+    "13": "C",
+    "7": "C",
+    "14": "A"
+  },
+  "content": {
+    "title": "John Franklin: “the discovery of the slowness”",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "John Franklin (1786-1847) was the most famous vanisher of the Victorian era. He joined the Navy as a midshipman at the age of 14 and fought in the battles of Copenhagen and Trafalgar. When peace with the French broke out, he turned his attention to, and in particular to solve the conundrum of the Northwest Passage, the mythical clear-water route which would, if it existed, link the Atlantic and the Pacific Oceans above the northern coast of the American continent. The first expedition Franklin led to the Arctic was an arduous overland journey from Hudson Bay to the shores of the so-called Polar Ocean east of the Coppermine River. Between 1819 and 1822, Franklin and his twenty-strong team covered 5550 miles on foot. Their expedition was a triumph of surveying – they managed to chart hundreds of miles of previously unknown coastline."
+      },
+      {
+        "label": "B",
+        "content": "There followed a career as a travel writer and salon-goer (‘the man who ate his boots’ was Franklin’s tag-line), a second long Arctic expedition, and a controversial spell as Governor of Van Diemen’s Land. Then, in May 1845, Franklin set off with two ships – the Erebus and the Terror – and 129 men on the voyage that would kill him. In July, the convoy was seen by two whalers, entering Lancaster Sound. Nothing more would be heard of it for 14 years. Had the ships sunk or been iced in? Were the men dead, or in need of rescue? Or had they broken through to the legendary open polar sea, beyond the ‘ice barrier’?"
+      },
+      {
+        "label": "C",
+        "content": "In his personal correspondence and in his published memoirs, Franklin comes across as a man dedicated to the external duties of war and exploration, who kept introspection and self-analysis to a minimum. His blandness makes him an amenably malleable subject for a novelist, and Sten Nadolny has taken full advantage of this licence. Most important, he has endowed his John Franklin with a defining character trait for which there is no historical evidence: (‘slowness’, or ‘calmness’)."
+      },
+      {
+        "label": "D",
+        "content": "Slowness influences not only Franklin’s behaviour but also his vision, his thought and his speech. The opening scene of The Discovery of Slowness (The Discovery of Slowness by Sten Nadolny) – depicts Franklin as a young boy, playing catch badly because his reaction time is too slow. Despite the bullying of his peers, Franklin resolves not to fall into step with ‘their way of doing things’. For Nadolny, Franklin’s fated fascination with the Arctic stems from his desire to find an environment suited to his peculiar slowness."
+      },
+      {
+        "label": "E",
+        "content": "He describes Franklin as a boy dreaming of the ‘open water and the time without hours and days’ which exist in the far north, and of finding in the Arctic a place ‘where nobody would find him too slow’. Ice is a slow mover. Ice demands a corresponding patience from those who venture onto it. The explorers who have thrived at high latitude and at high altitudes haven’t usually been men of great speed. They have tended instead to demonstrate unusual self-possession, a considerable capacity for boredom, and a talent for what the Scots call ‘tholing’, the uncomplaining endurance of suffering."
+      },
+      {
+        "label": "F",
+        "content": "These were all qualities which the historical Franklin possessed in abundance, and so Nadolny’s concentration and exaggeration of them isn’t unreasonable. Even as an adult, his slowness of thought means that he is unable to speak fluently, so he memorises ‘entire fleets of words and batteries of response’, and speaks a languid, bric-a-brac language. In the Navy, his method of thinking first and acting later initially provokes mockery from his fellow sailors. But Franklin persists in doing things his way, and gradually earns the respect of those around him. To a commodore who tells him to speed up his report of an engagement, he replies: ‘When I tell something, sir, I use my own rhythm.’ A lieutenant says approvingly of him: ‘Because Franklin is so slow, he never loses time.’"
+      },
+      {
+        "label": "G",
+        "content": "Since it was first published in Germany in 1983, The Discovery of Slowness has sold more than a million copies and been translated into 13 languages. It has been named as one of German literature’s twenty ‘contemporary classics’, and it has been used as a manual by European pressure groups and institutions representing causes as diverse as sustainable development, the Protestant Church, management science, motoring policy and pacifism."
+      },
+      {
+        "label": "H",
+        "content": "The various groups that have taken the novel up have one thing in common: a dislike of the high-speed culture of Postmodernity. Nadolny’s Franklin appeals to them because he is immune to ‘the compulsion to be constantly occupied’, and to the idea that ‘someone was better if he could do the same thing fast.’ Several German churches have used him in their symposia and focus groups as an example of peacefulness, piety and self-confidence. A centre scheme (a ‘march of slowness’ or ‘of the slow’), inspired by the novel, has been developed. Nadolny has appeared as a guest speaker for RIO, a Lucerne-based organisation which aims to reconcile management principles with ideas of environmental sustainability. The novel has even become involved in the debate about speed limits on German roads. Drive down an autobahn today, and you will see large road-side signs proclaiming ‘unhurriedness’, a slogan which deliberately plays off the title of the novel."
+      },
+      {
+        "label": "I",
+        "content": "A management journal in the US described The Discovery of Slowness as a ‘major event not only for connoisseurs of fine historical fiction but also for those of us who concern themselves with leadership, communication and systems-thinking, issues’. It’s easy to see where the attraction lies for the management crowd. The novel is crammed with quotations about time-efficiency, punctiliousness and profitability: ‘As a rule, there are always three points in time: the right one, the lost one and the premature one’. ‘What did too late mean? They hadn’t waited for it long enough, that’s what it meant.’"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage 3 has seven paragraphs A-H. Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What was Sir John Franklin’s occupation before he went on a career of the arctic exploration?",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "A story John Franklin reacted strangely when he met bullies by other children.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Reason of popularity for the book The Discovery of Slowness.",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "A depiction that Sten Nadolny’s biography on John Franklin is not much based on facts.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The particular career Sir John Franklin took after his expedition unmatched before.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "What is the central scheme and environment conveyed by the book The Discovery of Slowness.",
+            "answer": "H",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the Summary paragraph described below. In boxes 7-10 on your answer sheet, write the correct answer with ONE WORD chosen from the box below.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "In his personal correspondence to and in his published memoirs by Sten Nadolny, John Franklin was depicted as a man dedicated to the exploration, and the word of “slowness” was used to define his...",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "exploration"
+              },
+              {
+                "label": "B",
+                "text": "blandness"
+              },
+              {
+                "label": "C",
+                "text": "personality"
+              },
+              {
+                "label": "D",
+                "text": "policy"
+              },
+              {
+                "label": "E",
+                "text": "pressure"
+              },
+              {
+                "label": "F",
+                "text": "guidebook"
+              },
+              {
+                "label": "G",
+                "text": "management"
+              },
+              {
+                "label": "H",
+                "text": "timelessness"
+              },
+              {
+                "label": "I",
+                "text": "sports"
+              },
+              {
+                "label": "J",
+                "text": "bully"
+              },
+              {
+                "label": "K",
+                "text": "evidence"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Franklin was in his childhood, his determination to the ... of the schoolboys was too slow for him to fall into step.",
+            "answer": "J",
+            "options": [
+              {
+                "label": "A",
+                "text": "exploration"
+              },
+              {
+                "label": "B",
+                "text": "blandness"
+              },
+              {
+                "label": "C",
+                "text": "personality"
+              },
+              {
+                "label": "D",
+                "text": "policy"
+              },
+              {
+                "label": "E",
+                "text": "pressure"
+              },
+              {
+                "label": "F",
+                "text": "guidebook"
+              },
+              {
+                "label": "G",
+                "text": "management"
+              },
+              {
+                "label": "H",
+                "text": "timelessness"
+              },
+              {
+                "label": "I",
+                "text": "sports"
+              },
+              {
+                "label": "J",
+                "text": "bully"
+              },
+              {
+                "label": "K",
+                "text": "evidence"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "And Franklin was said to be a boy dreaming finding in a place he could enjoy the ... in the Arctic.",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "exploration"
+              },
+              {
+                "label": "B",
+                "text": "blandness"
+              },
+              {
+                "label": "C",
+                "text": "personality"
+              },
+              {
+                "label": "D",
+                "text": "policy"
+              },
+              {
+                "label": "E",
+                "text": "pressure"
+              },
+              {
+                "label": "F",
+                "text": "guidebook"
+              },
+              {
+                "label": "G",
+                "text": "management"
+              },
+              {
+                "label": "H",
+                "text": "timelessness"
+              },
+              {
+                "label": "I",
+                "text": "sports"
+              },
+              {
+                "label": "J",
+                "text": "bully"
+              },
+              {
+                "label": "K",
+                "text": "evidence"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Later in 20th, His biography of the discovery of slowness has been adopted as a ... as for the movement such as sustainable development, or management science, motoring policy.",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "exploration"
+              },
+              {
+                "label": "B",
+                "text": "blandness"
+              },
+              {
+                "label": "C",
+                "text": "personality"
+              },
+              {
+                "label": "D",
+                "text": "policy"
+              },
+              {
+                "label": "E",
+                "text": "pressure"
+              },
+              {
+                "label": "F",
+                "text": "guidebook"
+              },
+              {
+                "label": "G",
+                "text": "management"
+              },
+              {
+                "label": "H",
+                "text": "timelessness"
+              },
+              {
+                "label": "I",
+                "text": "sports"
+              },
+              {
+                "label": "J",
+                "text": "bully"
+              },
+              {
+                "label": "K",
+                "text": "evidence"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 11-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Why does the author mention “the ice is a slow mover” in the geological arctic, to demonstrate the idea",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "of the difficulties Franklin conquered"
+              },
+              {
+                "label": "B",
+                "text": "that Franklin had a dream since his childhood"
+              },
+              {
+                "label": "C",
+                "text": "of fascination with the Arctic exploration"
+              },
+              {
+                "label": "D",
+                "text": "that explorer like Franklin should possess the quality of being patient"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "When Franklin was on board with sailors, how did he speak to his follow sailors",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "he spoke in a way mocking his followers"
+              },
+              {
+                "label": "B",
+                "text": "he spoke a bric-a-brac language to show his languish attitude"
+              },
+              {
+                "label": "C",
+                "text": "he spoke in the words and phrases he previously memorized"
+              },
+              {
+                "label": "D",
+                "text": "he spoke in a rhythmical tune to save chatting time"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "His effort to overcome his slowness in marine time life had finally won the",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "understanding of his personality better"
+              },
+              {
+                "label": "B",
+                "text": "capacity for coping with boredom"
+              },
+              {
+                "label": "C",
+                "text": "respect for him as he insisted to overcome his difficulties"
+              },
+              {
+                "label": "D",
+                "text": "valuable time he can use to finish a report"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Why is the book The Discovery of Slowness sold more than a million copies",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "it contains aspects of the life people would like to enjoy"
+              },
+              {
+                "label": "B",
+                "text": "it contains the information for the flag language applied in ships"
+              },
+              {
+                "label": "C",
+                "text": "it induces a debate about speed limits German"
+              },
+              {
+                "label": "D",
+                "text": "it contains the technique for symposia German churches"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T01:17:37.763980"
+}

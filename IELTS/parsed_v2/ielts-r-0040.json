@@ -1,0 +1,401 @@
+{
+  "id": "ielts-r-0040",
+  "slug": "artists-fingerprints",
+  "title": "Artists’ Fingerprints",
+  "page_range": [
+    211,
+    215
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "7": "I",
+    "2": "J",
+    "8": "F",
+    "3": "A",
+    "9": "A",
+    "4": "G",
+    "10": "D",
+    "5": "D",
+    "11": "C",
+    "6": "G",
+    "12": "A"
+  },
+  "content": {
+    "title": "Artists' Fingerprints",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The unique character of ridges on our hands has been recognized for thousands of years. The study of ancient pottery for example reveals the utilization of fingerprint impressions in the clay as a maker’s mark. In prehistoric times, we find examples of handprints in cave paintings. Only as recently as 1858 did Sir William Herschel establish its use for identification. In 1888, Sir Francis Galton undertook to refine and formulate Herschel’s observations. Identification by fingerprint was first adopted in England in 1905 and received general acceptance worldwide in 1908."
+      },
+      {
+        "label": "B",
+        "content": "The combination of a number of characteristics in a given finger impression is specific to a particular print. The placing of reliance on fingerprint evidence has always been on the assumption that no two fingers can have identical ridge characteristics. Galton’s mathematical conclusions predicted the possible existence of some 64 billion different fingerprint patterns. The functionality of this technique is that the probability for the existence of two identical finger impressions from different individuals is nil and no such possibility has ever been noticed in any part of the world at any time."
+      },
+      {
+        "label": "C",
+        "content": "The individuality of a fingerprint is not determined by its general shape or pattern but by the careful study of its ridge characteristics. Since at a scene of the crime, usually only partial prints are found, comparison of a relatively small number of characteristics is accepted in legal practice. In a judicial proceeding, a point-by-point comparison must be demonstrated by the fingerprint expert. This is exactly the principle that must be followed in art-related fingerprint issues."
+      },
+      {
+        "label": "D",
+        "content": "Artists in the area of the visual arts use their hands for creation. Their tools, such as brushes often isolate them from the surface they are working on. Inaccurate deposits of paint are often corrected by modelling with the fingertip. Some artists used the fingertip to soften the marks left by the brush by gently tapping or stroking the still wet surface. In some instances, the fingertip was used for literally 'stamping' the fine network of ridges onto the painting."
+      },
+      {
+        "label": "E",
+        "content": "The eventual authentication of a painting by J. M. W. Turner entitled Landscape with Rainbow in 1993 is a good illustration of the process. The painting was discovered in the early 1980s. Biros took the painting to the Tate Gallery, in London, to show it to the world’s leading Turner experts and connoisseurs. The verdict was unanimous – the painting was a tattered imitation. However, fingerprint evidence was discovered on the painting during restoration, appropriately documented, and re-examined by a veteran expert from the RCMP. A match was found between a fingerprint on “Landscape with Rainbow and fingerprints photographed on another Turner painting, 'Chichester Canal'. When an independent fingerprint examination by John Manners of the West Yorkshire Police confirmed the conclusions that the fingerprints on both paintings were identical, the unbelievers changed their minds. In addition, it is well known that Turner always worked alone and had no assistants. This reduces the chances of accidental contribution substantially. The painting, originally bought for a few hundred dollars, finally sold for close to $200,000 at auction at Phillips in London in 1995."
+      },
+      {
+        "label": "F",
+        "content": "In 1998, three envelopes containing old correspondence had been purchased in an antique shop. One of the envelopes postmarked April 2, 1915, was found to contain a drawing folded in half. The drawing depicts a woman’s head. It is executed in red chalk with an inscription written in reverse with brown ink. The design is faded and worn. Some spots suggest foxing and subsequent discolouration. The paper is yellowed and contaminated."
+      },
+      {
+        "label": "G",
+        "content": "The newly discovered design bears great similarity to that of the Head of St Anne by Leonardo da Vinci, (RL 12533) in the Windsor Collection since 1629. The medium is different, red chalk being used instead of black. The scale of the two images is different so offsetting (copying by contact transference) is not a satisfactory explanation for the new drawing. When the paper was first examined, several fingerprints were noticed on the verso. One of them was found clear and containing many ridges suitable for comparison, however, no analysis was done at the time due to the lack of reference material. Many of Leonardo’s works are not easily accessible and fingerprint data either does not exist or is not published."
+      },
+      {
+        "label": "H",
+        "content": "By chance, on March 30, 1999, several clear and usable fingerprints were found on an unusually good detail photo in a publication on Leonardo. The photograph of Leonardo’s St Jerome, in the Vatican Museum, revealed no less than 16 partial fingertip marks. The importance of this is that the fingerprints are left in the still-wet paint and without doubt, the use of the fingertip served to model paint. Since the authorship of the painting of St Jerome is unquestioned by scholarship and has always been ascribed to Leonardo, the conclusion that these fingerprints are his would be hard to argue against."
+      },
+      {
+        "label": "I",
+        "content": "The fingerprints on the St Jerome illustration were scanned and enlarged so comparisons could be made with the fingerprint on the newly discovered drawing. One of them proved to match. The result of our analyses was presented on March 31, 1999, to fingerprint examiner Staff Sergeant André Turcotte for an independent assessment. He agreed with the findings and confirmed the conclusion. The fingerprint on the St Jerome painting in the Vatican and the newly discovered drawing were created by the same finger."
+      },
+      {
+        "label": "J",
+        "content": "Remember, the authentication approach should rest on strict considerations and rigorous methodology. Only prints that are clearly from the original creative process are admitted for consideration. The reference samples should ideally come from unquestioned works of art with good provenance. Spurious contributors must be eliminated such as assistants who may have touched the painting while still wet. A match is never made unless corroborated by at least one fully trained and experienced fingerprint examiner."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading passage has ten paragraphs A-J. Which paragraph contains the following information? Write the correct letter A-J in boxes 1-4 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Mention of fingerprint identification in the legal process.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The author’s advice on fingerprint authentication of arts.",
+            "answer": "J",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The use of fingerprints in ancient times.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The medium comparison between two drawings.",
+            "answer": "G",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending A-I below. Write the correct letters in boxes 5-9 on your answer sheet.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "The fingerprint in ancient pottery",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "might use fingers to remove unwanted paint left by brushes."
+              },
+              {
+                "label": "B",
+                "text": "revealed the utilization of clay."
+              },
+              {
+                "label": "C",
+                "text": "was first used on Galton’s mathematical assumption."
+              },
+              {
+                "label": "D",
+                "text": "was left to identify the person who made it."
+              },
+              {
+                "label": "E",
+                "text": "was restored at a high expense."
+              },
+              {
+                "label": "F",
+                "text": "was finally determined at an appropriate price."
+              },
+              {
+                "label": "G",
+                "text": "has been accepted as a reliable system available."
+              },
+              {
+                "label": "H",
+                "text": "was preserved at the Windsor Collection."
+              },
+              {
+                "label": "I",
+                "text": "could be authenticated by comparing fingerprints from other sources."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The science of fingerprint identification",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "might use fingers to remove unwanted paint left by brushes."
+              },
+              {
+                "label": "B",
+                "text": "revealed the utilization of clay."
+              },
+              {
+                "label": "C",
+                "text": "was first used on Galton’s mathematical assumption."
+              },
+              {
+                "label": "D",
+                "text": "was left to identify the person who made it."
+              },
+              {
+                "label": "E",
+                "text": "was restored at a high expense."
+              },
+              {
+                "label": "F",
+                "text": "was finally determined at an appropriate price."
+              },
+              {
+                "label": "G",
+                "text": "has been accepted as a reliable system available."
+              },
+              {
+                "label": "H",
+                "text": "was preserved at the Windsor Collection."
+              },
+              {
+                "label": "I",
+                "text": "could be authenticated by comparing fingerprints from other sources."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The authentication of a painting without a signature",
+            "answer": "I",
+            "options": [
+              {
+                "label": "A",
+                "text": "might use fingers to remove unwanted paint left by brushes."
+              },
+              {
+                "label": "B",
+                "text": "revealed the utilization of clay."
+              },
+              {
+                "label": "C",
+                "text": "was first used on Galton’s mathematical assumption."
+              },
+              {
+                "label": "D",
+                "text": "was left to identify the person who made it."
+              },
+              {
+                "label": "E",
+                "text": "was restored at a high expense."
+              },
+              {
+                "label": "F",
+                "text": "was finally determined at an appropriate price."
+              },
+              {
+                "label": "G",
+                "text": "has been accepted as a reliable system available."
+              },
+              {
+                "label": "H",
+                "text": "was preserved at the Windsor Collection."
+              },
+              {
+                "label": "I",
+                "text": "could be authenticated by comparing fingerprints from other sources."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Landscape with Rainbow",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "might use fingers to remove unwanted paint left by brushes."
+              },
+              {
+                "label": "B",
+                "text": "revealed the utilization of clay."
+              },
+              {
+                "label": "C",
+                "text": "was first used on Galton’s mathematical assumption."
+              },
+              {
+                "label": "D",
+                "text": "was left to identify the person who made it."
+              },
+              {
+                "label": "E",
+                "text": "was restored at a high expense."
+              },
+              {
+                "label": "F",
+                "text": "was finally determined at an appropriate price."
+              },
+              {
+                "label": "G",
+                "text": "has been accepted as a reliable system available."
+              },
+              {
+                "label": "H",
+                "text": "was preserved at the Windsor Collection."
+              },
+              {
+                "label": "I",
+                "text": "could be authenticated by comparing fingerprints from other sources."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "When painting, artists",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "might use fingers to remove unwanted paint left by brushes."
+              },
+              {
+                "label": "B",
+                "text": "revealed the utilization of clay."
+              },
+              {
+                "label": "C",
+                "text": "was first used on Galton’s mathematical assumption."
+              },
+              {
+                "label": "D",
+                "text": "was left to identify the person who made it."
+              },
+              {
+                "label": "E",
+                "text": "was restored at a high expense."
+              },
+              {
+                "label": "F",
+                "text": "was finally determined at an appropriate price."
+              },
+              {
+                "label": "G",
+                "text": "has been accepted as a reliable system available."
+              },
+              {
+                "label": "H",
+                "text": "was preserved at the Windsor Collection."
+              },
+              {
+                "label": "I",
+                "text": "could be authenticated by comparing fingerprints from other sources."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D. Write your answers in boxes 10-12 on your answer sheet.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The attribution of Landscape with Rainbow to Turner",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "was in overwhelming consensus at the beginning."
+              },
+              {
+                "label": "B",
+                "text": "was first brought forward by the West Yorkshire Police."
+              },
+              {
+                "label": "C",
+                "text": "was rejected by the Biros."
+              },
+              {
+                "label": "D",
+                "text": "was not exactly located for years."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The drawing of a woman’s head contained in the envelope",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "was finished in 1915."
+              },
+              {
+                "label": "B",
+                "text": "was executed in brown ink."
+              },
+              {
+                "label": "C",
+                "text": "was in poor condition."
+              },
+              {
+                "label": "D",
+                "text": "was folded for protection."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The drawing of The Head of St Anne",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "is the work of Leonardo da Vinci."
+              },
+              {
+                "label": "B",
+                "text": "is softer due to fading and contamination."
+              },
+              {
+                "label": "C",
+                "text": "bears some fingerprints on the verso."
+              },
+              {
+                "label": "D",
+                "text": "is in the Vatican Museum."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-25T18:30:19.240271"
+}

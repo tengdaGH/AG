@@ -1,0 +1,114 @@
+{
+  "id": "ielts-r-0312",
+  "slug": "new-book-releases",
+  "title": "New Book Releases",
+  "page_range": [
+    1583,
+    1585
+  ],
+  "raw_answer_key": {
+    "1": "x",
+    "5": "ix",
+    "2": "i",
+    "6": "iv",
+    "3": "v",
+    "7": "viii",
+    "4": "ii"
+  },
+  "content": {
+    "title": "New Book Releases",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "This book describes the creativity of Aboriginal people living in the driest parts of Australia. Stunning reproductions of paintings, beautiful photography and informative text."
+      },
+      {
+        "label": "B",
+        "content": "Pocket-sized maps and illustrations with detailed information on the nesting sites and migration patterns of Australian birds. This is a classic booklet suitable for both beginner and expert."
+      },
+      {
+        "label": "C",
+        "content": "Packed full of information for the avid hiker, this book is a must. Photographs, maps and practical advice will guide your journeys on foot through the forests of the southern continent."
+      },
+      {
+        "label": "D",
+        "content": "More than an atlas - this book contains maps, photographs and an abundance of information on the geography and climate of countries from around the globe."
+      },
+      {
+        "label": "E",
+        "content": "Australia's premier mountain biking guidebook - taking you through a host of national parks and state forests."
+      },
+      {
+        "label": "F",
+        "content": "Here's the A-Z of Australian native animals - take an in-depth look at their lives and characteristics, complete with fantastic photographs and informative text."
+      },
+      {
+        "label": "G",
+        "content": "Graphic artists have worked with researchers and scientists to illustrate how these prehistoric creatures lived and died on the Australian continent."
+      },
+      {
+        "label": "H",
+        "content": "A definitive handbook on outdoor safety - with a specific focus on equipment, nutrition, first aid, clothing and bush skills."
+      },
+      {
+        "label": "I",
+        "content": "Detailed guides to 15 scenic car tours that will take you onto fascinating wilderness tracks and trails that you could otherwise have missed."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Choose the correct title for each book from the list of book titles below. Write the correct number i-xi in boxes 8-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Book A",
+            "answer": "x",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Book B",
+            "answer": "i",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Book C",
+            "answer": "v",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Book E",
+            "answer": "ii",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Book F",
+            "answer": "ix",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Book G",
+            "answer": "iv",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Book H",
+            "answer": "viii",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T20:52:18.832199"
+}

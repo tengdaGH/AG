@@ -1,0 +1,106 @@
+{
+  "id": "ielts-r-0574",
+  "slug": "the-weeks-best",
+  "title": "The Week's Best",
+  "page_range": [
+    2904,
+    2906
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "5": "E",
+    "2": "F",
+    "6": "D OR G",
+    "3": "C OR E",
+    "7": "A",
+    "4": "G"
+  },
+  "content": {
+    "title": "The Week's Best",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Wild Rose (Tuesday 19.00) This TV drama is about a young private detective robberies. When she gets there, she discovers that the hotels, which are owned by the businessmen, authorities have no record of any robberies."
+      },
+      {
+        "label": "B",
+        "content": "Animal Planet (Wednesday 23.00) planet ruled entirely by animals. It is a first-class suspense adventure which also looks at the human condition, although this is not always a successful part of the film."
+      },
+      {
+        "label": "C",
+        "content": "Strange Encounter (Saturday 21.00) Suspense is skilfully built up in this clever, small-scale supernatural story. A young couple view a deserted old house that they are interested in of the mystical powers of the house and haw previous owners have been able to travel back through the centuries to meet their. ancestors."
+      },
+      {
+        "label": "D",
+        "content": "The Longest Walk (Tuesday 21.30) Ffyona Campbell is nearly there. story to Janet Street-Porter before she set employed by a team of New York businessmen who Pyrenees mountains. send her to Brazil to look into a series of hotel"
+      },
+      {
+        "label": "E",
+        "content": "Rubicon 5 (Thursday 20.30) This is a TV film being used to launch a ne fiction series. It has impressive special effe strong, believable cast of characters who t twenty-third century. The action takes plac underground cities where the environment This is a classic black-and-white film from the forties by computers."
+      },
+      {
+        "label": "F",
+        "content": "New Science (Friday 19.30) This popular half-hour science magazine c its twenty-ninth year, proving itself to be a survivor in the television world. Tonight it is by Carol Vorderman who introduces five re include computer-driven cars and in-flight t bowling."
+      },
+      {
+        "label": "G",
+        "content": "There and Back Again (Sunday 22.00) Paul Theroux's account of his recent journ London to Japan and back makes ideal ma evening's travel slot. Based on his own novel, the progress of h the railways of Europe and Asia (Victoria s Istanbul...) acts as a fascinating travelogue inhabitants gradually shift from the West to"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Look at the seven television programmes A-G on the given page and answer Questions 1-7. For which programme are the following statements true? Write the correct letter A-G in boxes 1-7 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "This programme is in the form of a personal interview.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "This programme is a documentary about technological developments.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "This programme is about time travel.",
+            "answer": "C OR E",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "This programme is taken from a book.",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "This film is the introduction to a set of programmes.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "This programme is about present-day travellers.",
+            "answer": "D OR G",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "This programme is about investigating a possible crime.",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T22:01:00.934681"
+}

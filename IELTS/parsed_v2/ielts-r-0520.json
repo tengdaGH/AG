@@ -1,0 +1,247 @@
+{
+  "id": "ielts-r-0520",
+  "slug": "the-muscles-in-our-body",
+  "title": "The Muscles in Our Body",
+  "page_range": [
+    2631,
+    2634
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "5": "C",
+    "2": "D",
+    "6": "D",
+    "3": "B",
+    "7": "A OR C IN EITHER ORDER",
+    "4": "C",
+    "8": "A OR C IN EITHER ORDER"
+  },
+  "content": {
+    "title": "The Muscles in Our Body",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Our human body is made up of many muscles. All these muscles work together to help you move. They form the muscle system. 650 muscles are wrapped around your bones. They basically cover the bones like a blanket. Muscles are fastened to the bones by tough bands. These bands are called tendons. You can see your tendons when you wiggle your finger. Moving your fingers back and forth makes your tendons move."
+      },
+      {
+        "label": null,
+        "content": "These muscles around the bone must be told when to move. They are controlled by your thinking. If you want to walk, talk or smile, you send a message to the brain. Your brain picks up the message. It receives it and processes it. Then it sends out an electrical signal through the nerves. The nerves make connections until the signal reaches the proper muscle. This signal tells a muscle what it has to do. The muscle simply does exactly what the brain tells it to do. When you jump, hundreds of muscles work to help you do that."
+      },
+      {
+        "label": null,
+        "content": "Muscles work by contracting. They shorten and pull the bone to move the body. They always pull and never push. Muscles work in pairs. One muscle pulls, while the other relaxes. Then they switch around. For instance, when you move your forearm, you use one pair of muscles. The muscles on the inside of your arm is the biceps. It contracts to make you bend your arm. The muscle on the outside is the triceps. It relaxes when you bend your arm. If you want to straighten your arm, the muscles switch roles. The biceps relaxes, whereas the triceps contracts. The biceps and triceps are long and thread-like. The longest muscle, the sartorius, helps you cross your legs. The shortest muscle is in your ear."
+      },
+      {
+        "label": null,
+        "content": "However, you cannot control all your muscles. Some muscles work without you thinking about them. This is the case with your heart muscle. Heart muscles are stripped and oval in shape. They are extremely powerful and pump your heart. This pumping motion gets the blood moving through your body. As well, the stomach muscle mixes food around in your stomach. Then it pushes the food through your intestines and into the blood system. Stomach muscles are short and have pointed ends."
+      },
+      {
+        "label": null,
+        "content": "Muscles work all the time. They even work when you are fast asleep. They keep your body firm and strong. Therefore, it is important to be in good shape. You need to stay healthy so that your muscles can remain powerful too. One thing that muscles need is good food. Muscles develop when they have protein. Milk, eggs, red meat, fish and beans are rich in protein. A healthy diet includes these food types. Muscles also need to be exercised to remain firm and toned. Regular exercise makes your muscles bigger, strengthens your heart and lungs and makes you more flexible. Good ways to exercise are walking, swimming, cycling, dancing or playing soccer. These activities improve your stamina. If you have good stamina, you can keep going for a long time without getting tired."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What is the topic word of paragraph 1?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Muscles"
+              },
+              {
+                "label": "B",
+                "text": "The muscle system"
+              },
+              {
+                "label": "C",
+                "text": "Bones"
+              },
+              {
+                "label": "D",
+                "text": "Tendons"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "In what order do the following happen?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Processed message, nerve connection, electric signal, execution"
+              },
+              {
+                "label": "B",
+                "text": "Execution, electric signal, nerve connection, processed message"
+              },
+              {
+                "label": "C",
+                "text": "Execution, nerve connection, electric signal, processed message"
+              },
+              {
+                "label": "D",
+                "text": "Processed message, electric signal, nerve connection, execution"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Choose the right word below to fill in the blank. “Muscles work by _____.”",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Shorten"
+              },
+              {
+                "label": "B",
+                "text": "Squeezing"
+              },
+              {
+                "label": "C",
+                "text": "Pushing"
+              },
+              {
+                "label": "D",
+                "text": "Relaxing"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What happens after the biceps contracts?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "The triceps contracts."
+              },
+              {
+                "label": "B",
+                "text": "The arm straightens."
+              },
+              {
+                "label": "C",
+                "text": "The arm bends."
+              },
+              {
+                "label": "D",
+                "text": "The muscles switch around."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What is true about the heart muscle?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is the most powerful muscle in the whole body."
+              },
+              {
+                "label": "B",
+                "text": "It helps you move food into the blood."
+              },
+              {
+                "label": "C",
+                "text": "It looks different than other muscles."
+              },
+              {
+                "label": "D",
+                "text": "It is controlled by your brain."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "What does the author think about regular swimming?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is better than walking or dancing."
+              },
+              {
+                "label": "B",
+                "text": "It is not as good as playing soccer."
+              },
+              {
+                "label": "C",
+                "text": "It makes you stronger and more flexible."
+              },
+              {
+                "label": "D",
+                "text": "It helps you to keep going for a long time without getting tired."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose TWO letters, A-D.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "What are two things muscles need to stay strong?",
+            "answer": "A OR C IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Protein"
+              },
+              {
+                "label": "B",
+                "text": "A lot of food"
+              },
+              {
+                "label": "C",
+                "text": "Good exercise"
+              },
+              {
+                "label": "D",
+                "text": "A lot of sleep"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "What are two things muscles need to stay strong?",
+            "answer": "A OR C IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Protein"
+              },
+              {
+                "label": "B",
+                "text": "A lot of food"
+              },
+              {
+                "label": "C",
+                "text": "Good exercise"
+              },
+              {
+                "label": "D",
+                "text": "A lot of sleep"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 8
+  },
+  "processed_at": "2026-02-25T21:42:54.503724"
+}

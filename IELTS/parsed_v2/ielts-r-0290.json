@@ -1,0 +1,371 @@
+{
+  "id": "ielts-r-0290",
+  "slug": "mind-readers",
+  "title": "Mind readers",
+  "page_range": [
+    1463,
+    1467
+  ],
+  "raw_answer_key": {
+    "1": "NOT GIVEN",
+    "8": "C",
+    "2": "YES",
+    "9": "A",
+    "3": "NO",
+    "10": "E",
+    "4": "NO",
+    "11": "D",
+    "5": "NOT GIVEN",
+    "12": "B",
+    "6": "YES",
+    "13": "B",
+    "7": "F",
+    "14": "A"
+  },
+  "content": {
+    "title": "Mind readers",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "1",
+        "content": "It may one day be possible to eavesdrop on another person’s inner voice. As you begin to read this article and your eyes follow the words across the page, you may be aware of a voice in your head silently muttering along. The very same thing happens when we write: a private, internal narrative shapes the words before we commit them to text. What if it were possible to tap into this inner voice? Thinking of words does, after all, create characteristic electrical signals in our brains, and decoding them could make it possible to piece together someone’s thoughts. Such an ability would have phenomenal prospects, not least for people unable to communicate as a result of brain damage. But it would also carry profoundly worrisome implications for the future of privacy."
+      },
+      {
+        "label": "2",
+        "content": "The first scribbled records of electrical activity in the human brain were made in 1924 by a German doctor called Hans Berger using his new invention - the electroencephalogram (EEG). This uses electrodes placed on the skull to read the output of the brain's billions of nerve cells or neurons. By the mid-1990s, the ability to translate the brain's activity into readable signals had advanced so far that people could move computer cursors using only the electrical fields created by their thoughts."
+      },
+      {
+        "label": null,
+        "content": "The electrical impulses such innovations tap into are produced in a part of the brain called the motor cortex, which is responsible for muscle movement. To move a cursor on a screen, you do not think 'move left’ in natural language. Instead, you imagine a specific motion like hitting a ball with a tennis racket. Training the machine to realise which electrical signals correspond to your imagined movements, however, is time consuming and difficult. And while this method works well for directing objects on a screen, its drawbacks become apparent when you try using it to communicate. At best, you can use the cursor to select letters displayed on an on-screen keyboard. Even a practised mind would be lucky to write 15 words per minute with that approach. Speaking, we can manage 150."
+      },
+      {
+        "label": null,
+        "content": "Matching the speed at which we can think and talk would lead to devices that could instantly translate the electrical signals of someone’s inner voice into sound produced by a speech synthesiser. To do this, it is necessary to focus only on the signals coming from the brain areas that govern speech. However, real mind reading requires some way to intercept those signals before they hit the motor cortex."
+      },
+      {
+        "label": null,
+        "content": "The translation of thoughts to language in the brain is an incredibly complex and largely mysterious process, but this much is known: before they end up in the motor cortex, thoughts destined to become spoken words pass through two ‘staging areas’ associated with the perception and expression of speech."
+      },
+      {
+        "label": null,
+        "content": "The first is called Wernicke’s area, which deals with semantics - in this case, ideas based in meaning, which can include images, smells or emotional memories. Damage to Wernicke’s area can result in the loss of semantic associations: words can’t make sense when they are decoupled from their meaning. Suffer a stroke in that region, for example, and you will have trouble understanding not just what others are telling you, but what you yourself are thinking."
+      },
+      {
+        "label": null,
+        "content": "The second is called Broca’s area, agreed to be the brain’s speech-processing centre. Here, semantics are translated into phonetics and, ultimately, word components. From here, the assembled sentences take a quick trip to the motor cortex, which activates the muscles that will turn the desired words into speech. Injure Broca’s area, and though you might know what you want to say, you just can’t send those impulses."
+      },
+      {
+        "label": null,
+        "content": "When you listen to your inner voice, two things are happening. You ‘hear’ yourself producing language in Wernicke’s area as you construct it in Broca’s area. The key to mind reading seems to lie in these two areas."
+      },
+      {
+        "label": null,
+        "content": "The work of Bradley Greger in 2010 broke new ground by marking the first-ever excursion beyond the motor cortex into the brain’s language centres. His team used electrodes placed inside the skull to detect the electrical signatures of whole words, such as 'yes’, 'no’, 'hot’, 'cold’, 'thirsty', 'hungry', etc. Promising as it is, this approach requires a new signal to be learned for each new word. English contains a quarter of a million distinct words. And though this was the first instance of monitoring Wernicke’s area, it still relied largely on the facial motor cortex."
+      },
+      {
+        "label": null,
+        "content": "Greger decided there might be another way. The building blocks of language are called phonemes, and the English language has about 40 of them - the 'kuh' sound in 'school', for example the 'sh' in 'shy'. Every English word contains some subset of these components. Decode the brain signals that correspond to the phonemes, and you would have a system to unlock any word at the moment someone thinks it."
+      },
+      {
+        "label": null,
+        "content": "In 2011, Eric Leuthardt and his colleague Gerwin Schalk positioned electrodes over the language regions of four fully conscious people and were able to detect the phonemes 'oo', 'ah', 'eh' and 'ee'. What they also discovered was that spoken phonemes activated both the language areas and the motor cortex, while imagined speech - that inner voice - boosted the activity of neurons in Wernike’s area. Leuthardt had effectively read his subjects' minds. 'I would call it brain reading,' he says. To arrive at whole words, Leuthardt’s next step is to expand his library of sounds and to find out how the production of phonemes translates across different languages."
+      },
+      {
+        "label": null,
+        "content": "For now, the research is primarily aimed at improving the lives of people with locked-in syndrome, but the ability to explore the brain’s language centres could revolutionise other fields. The consequences of these findings could ripple out to more general audiences who might like to use extreme hands-free mobile communication technologies that can be manipulated by inner voice alone. For linguists, it could provide previously unobtainable insight into the neural origins and structures of language. Knowing what someone is thinking without needing words at all would be functionally indistinguishable from telepathy."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in the Reading Passage? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, and NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Our inner voice can sometimes distract us when we are reading or writing.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The possibility of reading minds has both positive and negative implications.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Little progress was made in understanding electrical activity in the brain between 1924 and the mid-1990s.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Machines can be readily trained to interpret electrical signals from the brain that correspond to movements on a keyboard.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Much has been written about the potential use of speech synthesisers with paralysed patients.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "It has been proven that the perception and expression of speech occur in different parts of the brain.",
+            "answer": "YES",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "instruction": "Complete each sentence with the correct ending, A-G.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "In Wernicke’s area, our thoughts",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "receive impulses from the motor cortex."
+              },
+              {
+                "label": "B",
+                "text": "pass directly to the motor cortex."
+              },
+              {
+                "label": "C",
+                "text": "are processed into language."
+              },
+              {
+                "label": "D",
+                "text": "require a listener."
+              },
+              {
+                "label": "E",
+                "text": "consist of decoded phonemes."
+              },
+              {
+                "label": "F",
+                "text": "are largely non-verbal."
+              },
+              {
+                "label": "G",
+                "text": "match the sounds that they make."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "It is only in Broca’s area that ideas we wish to express",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "receive impulses from the motor cortex."
+              },
+              {
+                "label": "B",
+                "text": "pass directly to the motor cortex."
+              },
+              {
+                "label": "C",
+                "text": "are processed into language."
+              },
+              {
+                "label": "D",
+                "text": "require a listener."
+              },
+              {
+                "label": "E",
+                "text": "consist of decoded phonemes."
+              },
+              {
+                "label": "F",
+                "text": "are largely non-verbal."
+              },
+              {
+                "label": "G",
+                "text": "match the sounds that they make."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The muscles that articulate our sentences",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "receive impulses from the motor cortex."
+              },
+              {
+                "label": "B",
+                "text": "pass directly to the motor cortex."
+              },
+              {
+                "label": "C",
+                "text": "are processed into language."
+              },
+              {
+                "label": "D",
+                "text": "require a listener."
+              },
+              {
+                "label": "E",
+                "text": "consist of decoded phonemes."
+              },
+              {
+                "label": "F",
+                "text": "are largely non-verbal."
+              },
+              {
+                "label": "G",
+                "text": "match the sounds that they make."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The words and sentences that we speak",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "receive impulses from the motor cortex."
+              },
+              {
+                "label": "B",
+                "text": "pass directly to the motor cortex."
+              },
+              {
+                "label": "C",
+                "text": "are processed into language."
+              },
+              {
+                "label": "D",
+                "text": "require a listener."
+              },
+              {
+                "label": "E",
+                "text": "consist of decoded phonemes."
+              },
+              {
+                "label": "F",
+                "text": "are largely non-verbal."
+              },
+              {
+                "label": "G",
+                "text": "match the sounds that they make."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "What does the underlined phrase 'broke new ground’ in line 44 mean?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "built on the work of others"
+              },
+              {
+                "label": "B",
+                "text": "produced unusual or unexpected results"
+              },
+              {
+                "label": "C",
+                "text": "proved earlier theories on the subject to be false"
+              },
+              {
+                "label": "D",
+                "text": "achieved something that had not been done before"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "What was most significant about Leuthardt and Schalk's work?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "They succeeded in grouping certain phonemes into words."
+              },
+              {
+                "label": "B",
+                "text": "They linked the production of certain phonemes to recognisable brain activity."
+              },
+              {
+                "label": "C",
+                "text": "Their methods worked for speakers of languages other than English."
+              },
+              {
+                "label": "D",
+                "text": "Their subjects were awake during the course of their experiments."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "What does the writer conclude about mind reading?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "It could become a form of entertainment."
+              },
+              {
+                "label": "B",
+                "text": "It may contribute to studies on language acquisition."
+              },
+              {
+                "label": "C",
+                "text": "Most people are keenly awaiting the possibility of doing it."
+              },
+              {
+                "label": "D",
+                "text": "Mobile technologies may become unreliable because of it."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "What is the main purpose of the writer of this passage?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "to give an account of the developments in mind-reading research"
+              },
+              {
+                "label": "B",
+                "text": "to show how scientists’ attitudes towards mind reading have changed"
+              },
+              {
+                "label": "C",
+                "text": "to explain why mind-reading research should be given more funding"
+              },
+              {
+                "label": "D",
+                "text": "to fully explore the arguments for and against mind reading"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:50:26.022196"
+}

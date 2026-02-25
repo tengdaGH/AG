@@ -1,0 +1,141 @@
+TITLE: London Swaying Footbridge
+INDEX: 258
+============================================================
+
+London Swaying Footbridge
+
+A. In September 1996 a competition was organized by the Financial Times in association
+with the London Borough of Southwark to design a new footbridge across the Thames. The
+competition attracted over 200 entries and was won by a team comprising Arup
+(engineers), Foster and Partners (architects) and the sculptor Sir Anthony Caro.
+
+B. The bridge opened to the public on 10 June 2000. Up to 100,000 people crossed it that
+day with up to 2000 people on the bridge at any one time. At first, the bridge was still. Then
+it began to sway just slightly. Then, almost from one moment to the next, when large
+groups of people were crossing, the wobble intensified. This movement became sufficiently
+large for people to stop walking to retain their balance and sometimes to hold onto the
+hand rails for support. It was decided immediately to limit the number of people on the
+bridge, but even so the deck movement was sufficient to be uncomfortable and to raise
+concern for public safety so that on 12 June the bridge was closed until the problem could
+be solved.
+
+
+C. The embarrassed engineers found the videotape that day which showed the center span
+swaying about 3 inches side to side every second. The engineers first thought that winds
+might be exerting excessive force on the many large flags and banners bedecking the
+bridge for its gala premiere. What’s more, they also discovered that the pedestrians also
+played a key role. Human activities, such as walking, running, jumping, swaying, etc. could
+cause horizontal force which in turn could cause excessive dynamic vibration in the lateral
+direction in the bridge. As the structure began moving, pedestrians adjusted their gait to the
+same lateral rhythm as the bridge. The adjusted footsteps magnified the motion – just like
+when four people all stand up in a small boat at the same time. As more pedestrians locked
+into the same rhythm, the increasing oscillations led to the dramatic swaying captured on
+film.
+
+D. In order to design a method of reducing the movements, the force exerted by the
+pedestrians had to be quantified and related to the motion of the bridge. Although there are
+some descriptions of this phenomenon in existing literature, none of these actually
+quantifies the force. So there was no quantitative analytical way to design the bridge
+against this effect. An immediate research program was launched by the bridge’s
+engineering designers Ove Arup, supported by a number of universities and research
+organizations.
+
+E. The tests at the University of Southampton involved a person walking ‘on the spot’ on a
+small shake table. The tests at Imperial College involved persons walking along a specially
+built, 7.2m-long platform which could be driven laterally at different frequencies (n and
+amplitudes. Each type of test had its limitations. The Imperial College tests were only able
+to capture 7-8 footsteps, and the ‘walking on the spot’ tests, although monitoring many
+footsteps, could not investigate normal forward walking. Neither test could investigate any
+influence of other people in a crowd on the behavior of the individual being tested.
+
+
+F. The results of the laboratory tests provided information which enabled the initial design
+of a retro-fit to be progressed. However, the limitations of these tests was clear and it was
+felt that the only way to replicate properly the precise conditions of the Millennium Bridge
+was to carry out crowd tests on the bridge deck itself. These tests done by the Arup
+engineers could incorporate factors not possible in the laboratory tests. The first of these
+was carried out with 100 people in July 2000. The results of these tests were used to refine
+the load model for the pedestrians. A second series of crowd tests was carried out on the
+bridge in December 2000. The purpose of these tests was to further validate the design
+assumptions and to load test a prototype damper installation. The test was carried out with
+275 people.
+
+G. Unless the usage of the bridge was to be greatly restricted, only two generic options to
+improve its performance were considered feasible. The first was to increase the stiffness of
+the bridge to move all its lateral natural frequencies out of the range that could be excited
+by the lateral footfall forces, and the second was to increase the damping of the bridge to
+reduce the resonant response.
+
+Questions 1-4
+
+Choose FOUR letters, A-H.
+
+Write the correct letters in boxes 1-4 on your answer sheet.
+
+Which FOUR of the following situation were witnessed on the opening ceremony of the
+bridge?
+
+
+A The frequency of oscillation increased after some time
+
+B All the engineers went to see the ceremony that day
+
+C The design of the bridge astonished the people
+
+D Unexpected sideway movement of the bridge occurred
+
+E Pedesfrians had difficulty in walking on the deck
+F The bridge fell down when people tried to retain their balance
+
+G Vibration could be detected on the deck by the pedestrians
+
+H It was raining when the ceremony began
+
+
+Questions 5-9
+
+Complete the following summary of the paragraphs of Reading Passage using NO MORE
+
+THAN THREE WORDS from the Reading Passage for each answer.
+Write your answers in boxes 5-9 on your answer sheet
+
+After the opening ceremony, the embarrassed engineers tried to find out the reason of the
+bridge’s wobbling. Judged from the videotape, they thought that 5.....................
+
+and 6.....................might create excessive force on the bridge. The distribution
+of 7..................... resulted from human activities could cause 8..................... throughout the
+structure. This swaying prompted people to start adjusting the way they walk, which in turn
+reinforced the 9......................
+
+
+Questions 10-13
+
+Complete the table below.
+
+Choose NO MORE THAN THREE WORDS from Reading Passage for each answer.
+
+Write your answers in boxes 10-13 on your answer sheet.
+
+
+Research programs launched by universities and organizations
+
+Universities / People Activity
+Test at 10..................... Limited ability to have 7-8 footsteps
+‘walking on the spot’ at Southampton Not enough data on 11.....................
+Crowd test conducted by 12.....................Aim to verify 13.....................
+
+Solution:
+
+1. A 8. vibration
+2. D 9. motion
+
+3. E 10. Imperial College
+11. normal forward
+4. G
+walking
+5. winds 12. Arup engineers
+
+13. design
+6. pedestrians
+assumptions
+7. forces

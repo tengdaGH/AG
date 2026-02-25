@@ -1,0 +1,419 @@
+{
+  "id": "ielts-r-049",
+  "source_file": "49. P2 - Surviving city life 动物适应城市【高】.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    26
+  ],
+  "difficulty": "high",
+  "title": "Surviving city life",
+  "title_cn": "动物适应城市",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Ecologists often prefer to study plants and animals in exotic locations, but a growing number have turned their attention to the complex interactions of the wildlife that inhabits concrete jungles. Inner-city Sydney is the laboratory of choice for a number of ecologists, and their research is timely. More than half the world’s human population resides in cities, and urban development continues to increase all over the world. By 2030, the United Nations projects five billion people will live in cities. Associate Professor Dieter Hochuli, a biologist at the University of Sydney, believes that ‘we need to understand how cities are changing the ecology of the systems they are built on, and how plants and animals are adapting to them’."
+      },
+      {
+        "label": "B",
+        "text": "If any species has learnt to thrive in an urban environment, it’s the native white ibis. A strange long-legged bird with a bow-shaped beak, it is known as the ‘garbage turkey’. The bird’s reputation for digging through inner-city bins and scavenging street garbage has not endeared it to the public. The white ibis began its move to the city in the 1970s, when large parts of its natural habitat of inland wetlands became degraded due to years of low rainfall. ‘The species is a wetland forager,’ wildlife officer John Martin from Sydney’s Royal Botanic Gardens says. ‘Now it happily forages in city parks and landfill.’ During the peak of its spring breeding season, there are more than 9 000 of these birds in Sydney."
+      },
+      {
+        "label": "C",
+        "text": "Specimens at Sydney’s Australian Museum show that the city’s overall bird life has changed dramatically over the two centuries since colonisation. Prior to urban development, Sydney’s native bushland was populated by large numbers of small insect-eating birds, such as the superb fairy-wren and the eastern yellow robin. Today, homeowners prefer to landscape their backyards with tall trees and manicured lawns—an environment that provides little protection for small birds. But one bird’s trash is another’s treasure. Gardens filled with flowering plants and fruit trees favour omnivorous birds such as currawongs, bowerbirds and the city’s most despised resident – the noisy miner. ‘They’re a real winner in cities,’ Australian Museum ornithologist Richard Major says. ‘The predominant driver in the decline of small birds is that we’ve made a suitable environment for native noisy miners.’"
+      },
+      {
+        "label": "D",
+        "text": "Many invertebrates, such as the golden orb-weaver spider and the blue triangle butterfly, also relish living in the city. The golden orb spiders in Sydney are fatter and fitter than species found elsewhere, and Professor Hochuli and his team are trying to understand why. ‘We’re trying to determine whether it’s more food or the urban heat – as it’s up to four degrees warmer in the city.’ Hochuli has also found some varieties of ant more at home in the city. ‘The green ant, known for its painful bite, will build a nest where there is space and food, regardless of whether it’s a backyard or a sports oval.’ ‘It’s remarkable how many things persist in city environments,’ he says. The decline in birds that eat small invertebrates means these populations grow unchecked, allowing them to chew their way through the foliage of the city’s trees."
+      },
+      {
+        "label": "E",
+        "text": "While some species can survive in relatively small areas, mammals have been confined to patches of bushland scattered around Sydney and its nearby national parks. However, the rabbit-sized, long-nosed bandicoot has discovered the advantages of venturing out to grassy suburban backyards and gardens. ‘They forage for invertebrates in the grass and like the surrounding habitat to nest and escape from predators,’ Catherine Price, a research associate at the University of Sydney, says. Dr Price is trying to understand what encourages the little mammal into urban environments. ‘We don’t know if it’s an overflow from the park, or if they’ve got particular survival traits that allow them to evade dogs and cats, and use the urban habitat that benefits them,’ she says."
+      },
+      {
+        "label": "F",
+        "text": "It’s not just native wildlife that has sought comfort in city living. Non-native species such as black rodents, cockroaches and foxes have developed survival strategies too. But weeds are the pest that has gained the most advantage. ‘In residential Sydney there would not be a single area of remnant bushland not infested by introduced plant life,’ Michelle Leishman, a Macquarie University plant biologist, says. Over 20 years, Leishman and her colleagues have shown how Sydney’s huge stretches of impermeable concrete, together with the storm-water system, have helped weeds infiltrate the few remaining pockets of bushland. As rain washes over backyards and roadways, it collects chemicals which enter the storm-water system, where they are piped to the edges of bushland. The nutrient-rich water seeps into the earth, favouring the many exotic species that ‘live fast and die young,’ Leishman says. Indigenous plants prefer low-fertility soil and struggle to cope with one that is more fertile."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "HEADING_MATCHING",
+      "range": [
+        14,
+        19
+      ],
+      "instructions": "Reading Passage 2 has six paragraphs, A–F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i–vii, in boxes 14–19 on your answer sheet.",
+      "questions": [
+        {
+          "number": 14,
+          "text": "Paragraph A",
+          "options": [
+            {
+              "letter": "i",
+              "text": "The behaviour of a small animal expanding its territory"
+            },
+            {
+              "letter": "ii",
+              "text": "The urban environment encouraging the spread of imported flora and fauna"
+            },
+            {
+              "letter": "iii",
+              "text": "Insects that thrive in urban areas"
+            },
+            {
+              "letter": "iv",
+              "text": "A creature which likes rubbish"
+            },
+            {
+              "letter": "v",
+              "text": "Creatures which change their shape and colour"
+            },
+            {
+              "letter": "vi",
+              "text": "Why natural scientists are interested in studying urban areas"
+            },
+            {
+              "letter": "vii",
+              "text": "Changes in the urban built environments encourage particular species"
+            }
+          ],
+          "answer": "vi",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 15,
+          "text": "Paragraph B",
+          "options": [
+            {
+              "letter": "i",
+              "text": "The behaviour of a small animal expanding its territory"
+            },
+            {
+              "letter": "ii",
+              "text": "The urban environment encouraging the spread of imported flora and fauna"
+            },
+            {
+              "letter": "iii",
+              "text": "Insects that thrive in urban areas"
+            },
+            {
+              "letter": "iv",
+              "text": "A creature which likes rubbish"
+            },
+            {
+              "letter": "v",
+              "text": "Creatures which change their shape and colour"
+            },
+            {
+              "letter": "vi",
+              "text": "Why natural scientists are interested in studying urban areas"
+            },
+            {
+              "letter": "vii",
+              "text": "Changes in the urban built environments encourage particular species"
+            }
+          ],
+          "answer": "iv",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 16,
+          "text": "Paragraph C",
+          "options": [
+            {
+              "letter": "i",
+              "text": "The behaviour of a small animal expanding its territory"
+            },
+            {
+              "letter": "ii",
+              "text": "The urban environment encouraging the spread of imported flora and fauna"
+            },
+            {
+              "letter": "iii",
+              "text": "Insects that thrive in urban areas"
+            },
+            {
+              "letter": "iv",
+              "text": "A creature which likes rubbish"
+            },
+            {
+              "letter": "v",
+              "text": "Creatures which change their shape and colour"
+            },
+            {
+              "letter": "vi",
+              "text": "Why natural scientists are interested in studying urban areas"
+            },
+            {
+              "letter": "vii",
+              "text": "Changes in the urban built environments encourage particular species"
+            }
+          ],
+          "answer": "vii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 17,
+          "text": "Paragraph D",
+          "options": [
+            {
+              "letter": "i",
+              "text": "The behaviour of a small animal expanding its territory"
+            },
+            {
+              "letter": "ii",
+              "text": "The urban environment encouraging the spread of imported flora and fauna"
+            },
+            {
+              "letter": "iii",
+              "text": "Insects that thrive in urban areas"
+            },
+            {
+              "letter": "iv",
+              "text": "A creature which likes rubbish"
+            },
+            {
+              "letter": "v",
+              "text": "Creatures which change their shape and colour"
+            },
+            {
+              "letter": "vi",
+              "text": "Why natural scientists are interested in studying urban areas"
+            },
+            {
+              "letter": "vii",
+              "text": "Changes in the urban built environments encourage particular species"
+            }
+          ],
+          "answer": "iii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 18,
+          "text": "Paragraph E",
+          "options": [
+            {
+              "letter": "i",
+              "text": "The behaviour of a small animal expanding its territory"
+            },
+            {
+              "letter": "ii",
+              "text": "The urban environment encouraging the spread of imported flora and fauna"
+            },
+            {
+              "letter": "iii",
+              "text": "Insects that thrive in urban areas"
+            },
+            {
+              "letter": "iv",
+              "text": "A creature which likes rubbish"
+            },
+            {
+              "letter": "v",
+              "text": "Creatures which change their shape and colour"
+            },
+            {
+              "letter": "vi",
+              "text": "Why natural scientists are interested in studying urban areas"
+            },
+            {
+              "letter": "vii",
+              "text": "Changes in the urban built environments encourage particular species"
+            }
+          ],
+          "answer": "i",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 19,
+          "text": "Paragraph F",
+          "options": [
+            {
+              "letter": "i",
+              "text": "The behaviour of a small animal expanding its territory"
+            },
+            {
+              "letter": "ii",
+              "text": "The urban environment encouraging the spread of imported flora and fauna"
+            },
+            {
+              "letter": "iii",
+              "text": "Insects that thrive in urban areas"
+            },
+            {
+              "letter": "iv",
+              "text": "A creature which likes rubbish"
+            },
+            {
+              "letter": "v",
+              "text": "Creatures which change their shape and colour"
+            },
+            {
+              "letter": "vi",
+              "text": "Why natural scientists are interested in studying urban areas"
+            },
+            {
+              "letter": "vii",
+              "text": "Changes in the urban built environments encourage particular species"
+            }
+          ],
+          "answer": "ii",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "PERSON_MATCHING",
+      "range": [
+        20,
+        23
+      ],
+      "instructions": "Look at the following statements and the list of researchers below. Match each statement with the correct researcher, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 20–23 on your answer sheet. NB You may use any letter more than once.",
+      "questions": [
+        {
+          "number": 20,
+          "text": "It is not clear why one small animal is moving from its natural environment.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Dieter Hochuli"
+            },
+            {
+              "letter": "B",
+              "text": "John Martin"
+            },
+            {
+              "letter": "C",
+              "text": "Richard Major"
+            },
+            {
+              "letter": "D",
+              "text": "Catherine Price"
+            }
+          ],
+          "answer": "D",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 21,
+          "text": "Hot weather might positively affect the health of a species.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Dieter Hochuli"
+            },
+            {
+              "letter": "B",
+              "text": "John Martin"
+            },
+            {
+              "letter": "C",
+              "text": "Richard Major"
+            },
+            {
+              "letter": "D",
+              "text": "Catherine Price"
+            }
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 22,
+          "text": "Sydney’s residential gardens suit some species better than others.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Dieter Hochuli"
+            },
+            {
+              "letter": "B",
+              "text": "John Martin"
+            },
+            {
+              "letter": "C",
+              "text": "Richard Major"
+            },
+            {
+              "letter": "D",
+              "text": "Catherine Price"
+            }
+          ],
+          "answer": "C",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 23,
+          "text": "Research into the natural world’s responses to urban settings is vital.",
+          "options": [
+            {
+              "letter": "A",
+              "text": "Dieter Hochuli"
+            },
+            {
+              "letter": "B",
+              "text": "John Martin"
+            },
+            {
+              "letter": "C",
+              "text": "Richard Major"
+            },
+            {
+              "letter": "D",
+              "text": "Catherine Price"
+            }
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SUMMARY_COMPLETION",
+      "range": [
+        24,
+        26
+      ],
+      "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 24–26 on your answer sheet.",
+      "questions": [
+        {
+          "number": 24,
+          "text": "Examples of successful ‘city dwellers’ include small, non-native rats and non-native insects such as ___.",
+          "options": null,
+          "answer": "cockroaches",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 25,
+          "text": "Michelle Leishman, a scientist from Macquarie University, has proven that Sydney’s large areas of ___ and its drainage network favour the growth of weeds.",
+          "options": null,
+          "answer": "concrete",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 26,
+          "text": "Water gathers ___ as it passes from gardens and streets into the city drainage network.",
+          "options": null,
+          "answer": "chemicals",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "HEADING_MATCHING",
+      "PERSON_MATCHING",
+      "SUMMARY_COMPLETION"
+    ],
+    "parsed_at": "2026-02-24T03:41:41.493540",
+    "llm_structured_at": "2026-02-24T03:49:36+0800",
+    "parser_version": "1.0",
+    "needs_review": true
+  }
+}

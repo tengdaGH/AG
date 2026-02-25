@@ -1,0 +1,79 @@
+1
+00:00:01,006 --> 00:00:06,494
+Good morning, everyone, and welcome to Art History 201.
+
+2
+00:00:06,494 --> 00:00:12,224
+Today we'll be looking at the evolution of painting techniques during the Italian Renaissance.
+
+3
+00:00:12,224 --> 00:00:19,002
+The Renaissance marked a dramatic shift from the flat, symbolic imagery of the medieval period.
+
+4
+00:00:19,002 --> 00:00:26,634
+Artists began to experiment with perspective, which allowed them to create a convincing illusion of depth on a flat surface.
+
+5
+00:00:26,634 --> 00:00:34,020
+One of the earliest examples of linear perspective can be found in Masaccio's fresco, The Holy Trinity.
+
+6
+00:00:34,020 --> 00:00:43,036
+By using a single vanishing point, Masaccio was able to give the viewer the impression of looking into an actual architectural space.
+
+7
+00:00:43,036 --> 00:00:51,422
+Another key development was the use of chiaroscuro, a technique that involves strong contrasts between light and dark.
+
+8
+00:00:51,422 --> 00:01:01,074
+Leonardo da Vinci refined this approach in works like the Mona Lisa, where the soft gradation of tones creates a remarkably lifelike appearance.
+
+9
+00:01:01,074 --> 00:01:08,171
+It's worth noting that Renaissance painters didn't simply abandon all earlier traditions overnight.
+
+10
+00:01:08,171 --> 00:01:16,213
+Many continued to work within the framework of religious commissions while gradually incorporating these new naturalistic techniques.
+
+11
+00:01:16,213 --> 00:01:27,770
+The patronage system played a crucial role in shaping artistic production, as wealthy families like the Medici commissioned works to demonstrate their power and cultural sophistication.
+
+12
+00:01:27,770 --> 00:01:35,941
+Raphael's School of Athens is often considered one of the finest examples of High Renaissance composition and spatial harmony.
+
+13
+00:01:35,941 --> 00:01:47,483
+What makes this painting particularly remarkable is the way Raphael arranged dozens of figures within a complex architectural setting without creating a sense of visual clutter.
+
+14
+00:01:47,483 --> 00:01:57,042
+The introduction of oil paint, which originated in Northern Europe, gave artists far greater control over color blending and surface texture.
+
+15
+00:01:57,042 --> 00:02:06,307
+Unlike tempera, which dries very quickly, oil paint remains workable for much longer, allowing for subtle adjustments and layered effects.
+
+16
+00:02:06,307 --> 00:02:16,437
+Titian, one of the leading painters of the Venetian school, exploited this property of oil paint to achieve an extraordinary richness and warmth of color.
+
+17
+00:02:16,437 --> 00:02:30,102
+It's important to recognize that the technical innovations of the Renaissance did not emerge in isolation but were closely tied to broader intellectual movements, including humanism and the revival of classical learning.
+
+18
+00:02:30,102 --> 00:02:41,821
+Scholars have argued that the growing emphasis on observation and empirical study in the sciences directly influenced how painters approached the representation of the natural world.
+
+19
+00:02:41,821 --> 00:02:52,188
+For next week's class, I'd like you to read the chapter on Michelangelo's Sistine Chapel ceiling and think about how it reflects the themes we discussed today.
+
+20
+00:02:52,188 --> 00:03:03,869
+If anyone would like to explore this topic further, I've placed a list of recommended readings and museum resources on the course website, and I encourage you to take advantage of them before the midterm examination.

@@ -1,0 +1,33 @@
+{
+  "meta": {},
+  "prompts": [
+    {
+      "id": "ETS-S1-W-EMAIL",
+      "prompt": "Write an Email \nYou will read some information and use the information to write an email. \nYou will have 7 minutes to write the email. \nA new poetry magazine has asked its readers for submissions, and you decided to submit two of your \npoems. However, you had a problem using the online submission form, and you are not certain that your \nsubmissions were received. \nWrite an email to the editor of the magazine. In your email, do the following. \n• Tell the editor what you like about the new magazine. \n• Describe the problem you experienced. \n• Ask about the status of your submissions. \nWrite as much as you can and in complete sentences. \nYour Response: \nTo: editor@sunshinepoetrymagazine.com \nSubject: Problem using submission form"
+    },
+    {
+      "id": "ETS-S2-W-EMAIL",
+      "prompt": "Write an Email \nYou will read some information and use the information to write an email. \nYou will have 7 minutes to write the email. \nYour coworker, Kevin, recently recommended a new restaurant for your team to visit. You took the team \nthere, but everyone was disappointed. The food was not as good as expected, and the service was slow. \nYou need to inform Kevin about the situation and discuss future lunch options. \nWrite an email to Kevin. In your email, do the following. \n• Explain what was wrong with the restaurant. \n• Describe the team's reaction to the visit. \n• Suggest alternative lunch arrangements. \nWrite as much as you can and in complete sentences. \nYour Response: \nTo: Kevin \nSubject: Team Lunch Experience"
+    },
+    {
+      "id": "ETS-T1-W-EMAIL",
+      "prompt": "Write an Email \n \nYou will read some information and use the information to write an email. \nYou will have 7 minutes to write the email. \n \n \n \nYou are planning a business trip to another city. Your colleague, Maria, recently traveled to the same city \nfor work. You want to ask her recommendations for places to eat and things to do during your free time. \n \nWrite an email to Maria. In your email, do the following. \n• Explain why you are traveling to the city. \n• Ask for her recommendations about restaurants and activities. \n• Mention what you’d most like to do and what you’d like to avoid. \n \nWrite as much as you can and in complete sentences. \n \nYour Response: \nTo: Maria \nSubject: Recommendations for Upcoming Business Trip"
+    },
+    {
+      "id": "ETS-T2-W-EMAIL",
+      "prompt": "Write an Email \n \nYou will read some information and use the information to write an email. \nYou will have 7 minutes to write the email. \n \n \n \nYou have been working on a group project with several classmates for a course. One of your group \nmembers, Alex, has not been participating actively and has missed several assignments. You want to \naddress this issue and find a solution. \n \nWrite an email to Alex. In your email, do the following. \n• Describe the current progress of the group project. \n• Explain how his lack of participation is affecting the group. \n• Suggest ways he can contribute to the project moving forward. \n \nWrite as much as you can and in complete sentences. \n \nYour Response: \nTo: Alex \nSubject: Group Project Participation"
+    },
+    {
+      "id": "ETS-T3-W-EMAIL",
+      "prompt": "Write an Email\n \nYou will read some information and use the information to write an email.\nYou will have 7 minutes to write the email.\n \n \n \nYou are a member of the neighborhood association, and you have noticed that the local \npark needs some maintenance. You decide to contact the association president, Mr. \nWilliams, to discuss the issues and offer a suggestion. \n \nWrite an email to Mr. Williams. In your email, do the following: \nDescribe the maintenance issue you have observed in the park. \nExplain why it is important to address the issue. \nMake a suggestion for how to deal with the issue. \n\nWrite as much as you can and in complete sentences. \n \nYour Response: \n \nTo: Mr. Williams   \nSubject: Concern about park maintenance\nWriting Section"
+    },
+    {
+      "id": "ETS-T4-W-EMAIL",
+      "prompt": "Write an Email\n \nYou will read some information and use the information to write an email.\nYou will have 7 minutes to write the email.\n \n \n \nYou are a student organizing a study group for an upcoming exam. You want to invite \nyour classmates to join the group and explain to them your ideas about how the group \nshould proceed. \n \nWrite an email to your classmates. In your email, do the following: \nExplain the purpose of the study group.  \nDescribe the topics you plan to cover during the study sessions and other ideas    \nyou have for the sessions. \nSuggest a time and location for the first meeting.\n\nWrite as much as you can and in complete sentences. \n \nYour Response: \n \nTo: Classmates    \nSubject: Invitation to join study group\nWriting Section"
+    },
+    {
+      "id": "ETS-T5-W-EMAIL",
+      "prompt": "Write an Email\n \nYou will read some information and use the information to write an email.\nYou will have 7 minutes to write the email.\n \n \n \nYou recently attended a workshop on digital marketing and found it to be very \ninformative. You want to thank the presenter, Ms. Clark, and ask for additional resources \nto further your understanding of the topic. \n \nWrite an email to Ms. Clark. In your email, do the following: \nThank her for the workshop.  \nProvide a detailed explanation of why you found the workshop to be informative. \nAsk for additional resources or recommendations for further study. \n\nWrite as much as you can and in complete sentences. \n \nYour Response: \n \nTo: Ms. Clark  \nSubject: Appreciation and request for additional resources\nWriting Section"
+    }
+  ]
+}

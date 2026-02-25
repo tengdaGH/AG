@@ -1,0 +1,57 @@
+{
+  "id": "ielts-r-0176",
+  "slug": "geothermal-power-for-britain",
+  "title": "Geothermal power for Britain",
+  "page_range": [
+    894,
+    896
+  ],
+  "raw_answer_key": {
+    "1": "C"
+  },
+  "content": {
+    "title": "Geothermal power for Britain",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Huge reserves of energy have been found in rocks far below the surface of the ground in Britain. It is estimated that the north and southwest regions could hold enough energy in the form of heat to provide power for millions of homes. In fact, up to a fifth of Britain’s energy could be provided by this geothermal source. Extracting the heat and converting it into electricity is difficult and expensive. Thousands of bore holes would be needed; but once they were in place, the heat would keep regenerating indefinitely."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Read the text and answer the question by selecting the correct response. Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What is the writer’s main purpose in this paragraph?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "to show how common the use of geothermal power is in Britain"
+              },
+              {
+                "label": "B",
+                "text": "to describe the problems related to using geothermal power in Britain"
+              },
+              {
+                "label": "C",
+                "text": "to highlight the potential benefits of geothermal power for Britain"
+              },
+              {
+                "label": "D",
+                "text": "to give a detailed description of how geothermal energy is produced in Britain"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 1
+  },
+  "processed_at": "2026-02-25T20:06:32.781725"
+}

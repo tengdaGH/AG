@@ -1,0 +1,1073 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Read in Daily Life",
+    "rules": "Short nonacademic texts (15–150 words). 2–3 multiple-choice questions per passage. Skills: main purpose, inferences, informal language, skimming/scanning.",
+    "reviewLogRef": "docs/item-review-log.md",
+    "reviewLog": [
+      { "date": "2026-02-13", "scope": "ETS-style item review", "summary": "Flawed options (D02-03), key position variety, stem wording, explanations. See docs/item-review-log.md for item-level detail." }
+    ]
+  },
+  "sets": {
+    "D01": {
+      "label": "Set 1 — Mixed Daily Life",
+      "passages": [
+        {
+          "id": "D01-01",
+          "type": "email",
+          "title": "Email from Building Management",
+          "from": "Building Management <management@rivercourt-residents.org>",
+          "to": "All residents",
+          "subject": "Scheduled water maintenance – Tuesday 14 March",
+          "date": "Mon, 13 Mar 2026",
+          "content": "Dear residents,\n\nPlease be informed that our water supply will be temporarily shut off on Tuesday, 14 March, between 9:00 AM and 12:00 noon. This is necessary for repairs to the main pipeline in the basement.\n\nWe advise you to store some water in advance for drinking and basic use. The lift will continue to operate as usual. We apologise for any inconvenience and will complete the work as quickly as possible.\n\nIf you have any questions, please contact the management office.\n\nBest regards,\nBuilding Management",
+          "wordCount": 95,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "What is the main purpose of this email?",
+              "options": [
+                "To announce a new building management team",
+                "To inform residents about a temporary water shut-off for repairs",
+                "To remind residents to pay their water bills",
+                "To invite residents to a meeting about the building"
+              ],
+              "correct": 1,
+              "explanation": "The email states that the water supply will be shut off for repairs to the main pipeline, so the main purpose is to inform residents about this scheduled maintenance."
+            },
+            {
+              "text": "What should residents do before Tuesday?",
+              "options": [
+                "Leave the building during the maintenance",
+                "Contact the lift company",
+                "Store some water for drinking and basic use",
+                "Pay an extra fee for the repairs"
+              ],
+              "correct": 2,
+              "explanation": "The email advises residents to store some water in advance for drinking and basic use."
+            }
+          ]
+        },
+        {
+          "id": "D01-02",
+          "type": "text_messages",
+          "title": "Text messages: planning a meetup",
+          "messages": [
+            { "sender": "Maya", "text": "Hey! Free this weekend?" },
+            { "sender": "James", "text": "Yeah Saturday afternoon works" },
+            { "sender": "Maya", "text": "Perfect. Café on High St? 3pm?" },
+            { "sender": "James", "text": "Sure. I'll bring the book you wanted" },
+            { "sender": "Maya", "text": "Thanks! See you then" }
+          ],
+          "wordCount": 32,
+          "difficulty": "A2",
+          "questions": [
+            {
+              "text": "When do Maya and James plan to meet?",
+              "options": [
+                "Sunday afternoon",
+                "Saturday morning",
+                "Saturday at 3 p.m.",
+                "Sunday at 3 p.m."
+              ],
+              "correct": 2,
+              "explanation": "James says 'Saturday afternoon works' and Maya suggests '3pm'; they agree on the café on High St at that time."
+            },
+            {
+              "text": "What will James bring?",
+              "options": [
+                "Coffee for both of them",
+                "A book that Maya wanted",
+                "A friend",
+                "Nothing"
+              ],
+              "correct": 1,
+              "explanation": "James says \"I'll bring the book you wanted\" and Maya thanks him."
+            }
+          ]
+        },
+        {
+          "id": "D01-03",
+          "type": "menu",
+          "title": "The Garden Café – lunch menu",
+          "content": "The Garden Café – Lunch\n\nSoups\nTomato soup – £4.50\nVegetable soup of the day – £5.00\n\nSandwiches (all served with salad)\nCheese and tomato – £6.50\nChicken salad – £7.50\nTuna mayo – £7.00\n\nHot drinks\nCoffee (regular) – £2.80\nTea – £2.50\nHot chocolate – £3.20\n\n* All prices include tax. Gluten-free bread available on request.",
+          "wordCount": 68,
+          "difficulty": "A2",
+          "questions": [
+            {
+              "text": "How much does the chicken salad sandwich cost?",
+              "options": [
+                "£6.50",
+                "£7.00",
+                "£5.00",
+                "£7.50"
+              ],
+              "correct": 3,
+              "explanation": "Under Sandwiches, 'Chicken salad – £7.50' is listed."
+            },
+            {
+              "text": "Which drink is the most expensive?",
+              "options": [
+                "Coffee",
+                "Hot chocolate",
+                "Tea",
+                "Tomato soup"
+              ],
+              "correct": 1,
+              "explanation": "Among hot drinks, Hot chocolate is £3.20, Coffee £2.80, Tea £2.50. Hot chocolate is the most expensive drink."
+            },
+            {
+              "text": "What can customers ask for if they avoid gluten?",
+              "options": [
+                "A different soup",
+                "A discount",
+                "Gluten-free bread",
+                "Extra salad"
+              ],
+              "correct": 2,
+              "explanation": "The menu states 'Gluten-free bread available on request.'"
+            }
+          ]
+        },
+        {
+          "id": "D01-04",
+          "type": "schedule",
+          "title": "Campus shuttle bus – North Gate to Library",
+          "content": "Campus shuttle – North Gate to Library\n\nMon–Fri\n07:15  07:45  08:15  08:45  09:15  09:45\n10:15  10:45  11:15  11:45  12:15  12:45\n13:15  13:45  14:15  14:45  15:15  15:45\n16:15  16:45  17:15\n\nSat–Sun\n09:00  10:00  11:00  12:00  13:00  14:00  15:00  16:00\n\nNo service on public holidays.",
+          "wordCount": 58,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "On weekdays, how often does the shuttle leave in the morning between 07:15 and 09:15?",
+              "options": [
+                "Every 15 minutes",
+                "Every 30 minutes",
+                "Every hour",
+                "Only at 07:15 and 09:15"
+              ],
+              "correct": 1,
+              "explanation": "On Mon–Fri the times listed are 07:15, 07:45, 08:15, 08:45, 09:15, 09:45 — that is every 30 minutes."
+            },
+            {
+              "text": "When is there no shuttle service?",
+              "options": [
+                "On Sundays",
+                "After 17:15 on weekdays",
+                "Before 09:00 on weekends",
+                "On public holidays"
+              ],
+              "correct": 3,
+              "explanation": "The schedule says 'No service on public holidays.'"
+            }
+          ]
+        },
+        {
+          "id": "D01-05",
+          "type": "social_media",
+          "title": "Community notice",
+          "author": "Greenfield Community Centre",
+          "date": "5 March 2026",
+          "content": "Join us this Saturday for our Spring Clean-Up! We'll meet at the main gate at 9:00 AM. We'll provide gloves and bags – just bring yourself and some water. All ages welcome. After the clean-up we'll have free tea and biscuits. No need to sign up in advance; just turn up. Let's make our neighbourhood greener! #GreenfieldCleanUp #Community",
+          "wordCount": 68,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "What is the main purpose of this post?",
+              "options": [
+                "To sell gloves and bags",
+                "To announce a new café at the community centre",
+                "To invite people to a community clean-up event",
+                "To ask for donations"
+              ],
+              "correct": 2,
+              "explanation": "The post invites people to join a Spring Clean-Up, meet at the main gate, and help make the neighbourhood greener."
+            },
+            {
+              "text": "What do participants need to bring?",
+              "options": [
+                "Gloves and bags",
+                "Tea and biscuits",
+                "A sign-up form",
+                "Themselves and some water"
+              ],
+              "correct": 3,
+              "explanation": "The post says 'We'll provide gloves and bags – just bring yourself and some water.'"
+            }
+          ]
+        },
+        {
+          "id": "D01-06",
+          "type": "notice",
+          "title": "Gym notice",
+          "content": "GYM RULES\n\n• No food or drinks (except water in a closed bottle).\n• Wipe equipment after use.\n• Respect the 20-minute limit on cardio machines at busy times.\n• Appropriate sportswear and closed-toe shoes required.\n• Management is not responsible for lost or stolen items.\n\nThank you for your cooperation.",
+          "wordCount": 45,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "What are users allowed to bring into the gym?",
+              "options": [
+                "Any food or drinks",
+                "Water in a closed bottle",
+                "Open cups of water",
+                "Snacks in a bag"
+              ],
+              "correct": 1,
+              "explanation": "The notice says 'No food or drinks (except water in a closed bottle).'"
+            },
+            {
+              "text": "What must users do after using equipment?",
+              "options": [
+                "Report to management",
+                "Leave after 20 minutes",
+                "Wipe the equipment",
+                "Wear closed-toe shoes"
+              ],
+              "correct": 2,
+              "explanation": "One of the rules is 'Wipe equipment after use.'"
+            }
+          ]
+        }
+      ]
+    },
+    "D02": {
+      "label": "A2 — Elementary",
+      "passages": [
+        {
+          "id": "D02-01",
+          "type": "notice",
+          "title": "Pool sign",
+          "content": "OPEN\nMon–Fri 7am–8pm\nSat–Sun 8am–6pm\n\nNo running.\nNo food.\nChildren under 10 must be with an adult.",
+          "wordCount": 25,
+          "difficulty": "A2",
+          "questions": [
+            {
+              "text": "When does the pool close on Saturday?",
+              "options": [
+                "7pm",
+                "8pm",
+                "6pm",
+                "8am"
+              ],
+              "correct": 2,
+              "explanation": "Sat–Sun hours are 8am–6pm, so it closes at 6pm."
+            },
+            {
+              "text": "What must children under 10 have?",
+              "options": [
+                "Food",
+                "An adult with them",
+                "Running shoes",
+                "A ticket"
+              ],
+              "correct": 1,
+              "explanation": "The sign says 'Children under 10 must be with an adult.'"
+            }
+          ]
+        },
+        {
+          "id": "D02-02",
+          "type": "text_messages",
+          "title": "Shopping",
+          "messages": [
+            { "sender": "Dad", "text": "Can you get milk?" },
+            { "sender": "Lin", "text": "OK. Anything else?" },
+            { "sender": "Dad", "text": "Bread please. Thanks!" }
+          ],
+          "wordCount": 15,
+          "difficulty": "A2",
+          "questions": [
+            {
+              "text": "What does Dad want Lin to buy?",
+              "options": [
+                "Only bread",
+                "Milk and bread",
+                "Only milk",
+                "Nothing"
+              ],
+              "correct": 1,
+              "explanation": "Dad asks for milk, then adds 'Bread please.'"
+            }
+          ]
+        },
+        {
+          "id": "D02-03",
+          "type": "menu",
+          "title": "Snack bar",
+          "content": "DRINKS\nWater  $1.50\nJuice  $2.00\nMilk   $2.00\n\nSNACKS\nApple  $1.00\nCookie $1.50",
+          "wordCount": 22,
+          "difficulty": "A2",
+          "questions": [
+            {
+              "text": "According to the menu, how much is the juice?",
+              "options": [
+                "$1.50",
+                "$1.00",
+                "$2.00",
+                "$3.00"
+              ],
+              "correct": 2,
+              "explanation": "The menu lists Juice as $2.00 under DRINKS."
+            }
+          ]
+        },
+        {
+          "id": "D02-04",
+          "type": "notice",
+          "title": "Library sign",
+          "content": "QUIET PLEASE\nNo phones.\nNo food or drink.\nBooks: 3 weeks.\nReturn on time.",
+          "wordCount": 18,
+          "difficulty": "A2",
+          "questions": [
+            {
+              "text": "How long can you keep books?",
+              "options": [
+                "3 days",
+                "3 weeks",
+                "3 months",
+                "No limit"
+              ],
+              "correct": 1,
+              "explanation": "The sign says 'Books: 3 weeks.'"
+            },
+            {
+              "text": "According to the sign, what are you not allowed to bring into the library?",
+              "options": [
+                "Books",
+                "Quiet",
+                "Phones or food",
+                "Nothing"
+              ],
+              "correct": 2,
+              "explanation": "The sign states 'No phones' and 'No food or drink.'"
+            }
+          ]
+        },
+        {
+          "id": "D02-05",
+          "type": "text_messages",
+          "title": "Meeting place",
+          "messages": [
+            { "sender": "Sam", "text": "Where are you?" },
+            { "sender": "Jin", "text": "At the bus stop" },
+            { "sender": "Sam", "text": "Which one? North or south?" },
+            { "sender": "Jin", "text": "North. See you in 2 min" }
+          ],
+          "wordCount": 22,
+          "difficulty": "A2",
+          "questions": [
+            {
+              "text": "Where is Jin?",
+              "options": [
+                "At the south bus stop",
+                "At the north bus stop",
+                "On the bus",
+                "At home"
+              ],
+              "correct": 1,
+              "explanation": "Jin says 'North' when Sam asks which bus stop."
+            }
+          ]
+        }
+      ]
+    },
+    "D03": {
+      "label": "B1 — Intermediate",
+      "passages": [
+        {
+          "id": "D03-01",
+          "type": "email",
+          "title": "Class change",
+          "from": "School Office",
+          "to": "Students",
+          "subject": "Room change – Friday",
+          "date": "Thu",
+          "content": "Hello,\n\nYour Friday morning class (English) will be in Room 12 this week, not Room 7. Room 7 is closed for repairs. Please tell your teacher if you did not get this message.\n\nSchool Office",
+          "wordCount": 42,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "Why is the room changing?",
+              "options": [
+                "The teacher asked for a new room",
+                "Room 7 is closed for repairs",
+                "Room 12 is bigger",
+                "Friday is a special day"
+              ],
+              "correct": 1,
+              "explanation": "The email says 'Room 7 is closed for repairs.'"
+            },
+            {
+              "text": "According to the email, what should students do if they did not get the message?",
+              "options": [
+                "Tell the teacher",
+                "Go to Room 7",
+                "Stay at home",
+                "Call the office"
+              ],
+              "correct": 0,
+              "explanation": "The email states: 'Please tell your teacher if you did not get this message.'"
+            }
+          ]
+        },
+        {
+          "id": "D03-02",
+          "type": "schedule",
+          "title": "Film times",
+          "content": "CINEMA – This week\n\nFinding Home (PG)\nTue 2pm, 5pm\nWed 2pm, 5pm, 8pm\nThu 5pm only\n\nTickets: £8 adults, £5 under 16.",
+          "wordCount": 35,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "On which day can you see the film at 8pm?",
+              "options": [
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "No 8pm showing"
+              ],
+              "correct": 1,
+              "explanation": "Wednesday has 2pm, 5pm, 8pm."
+            },
+            {
+              "text": "According to the schedule, how much is a ticket for someone under 16?",
+              "options": [
+                "£8",
+                "£2",
+                "Free",
+                "£5"
+              ],
+              "correct": 3,
+              "explanation": "The schedule states '£8 adults, £5 under 16,' so a child's ticket is £5."
+            }
+          ]
+        },
+        {
+          "id": "D03-03",
+          "type": "email",
+          "title": "Trip reminder",
+          "from": "Sports Club",
+          "to": "Members",
+          "subject": "Saturday trip",
+          "date": "Wed",
+          "content": "Hi everyone,\n\nRemember our trip to the lake is this Saturday. We will meet at the club at 8:00 AM. Please bring a packed lunch and wear comfortable shoes. If it rains we will go to the indoor climbing centre instead. Reply to this email if you are coming so we know the numbers.\n\nSee you Saturday!",
+          "wordCount": 58,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "What should members bring?",
+              "options": [
+                "Climbing shoes",
+                "A packed lunch and comfortable shoes",
+                "An umbrella",
+                "Nothing"
+              ],
+              "correct": 1,
+              "explanation": "The email says 'Please bring a packed lunch and wear comfortable shoes.'"
+            },
+            {
+              "text": "According to the email, what will happen if it rains?",
+              "options": [
+                "They will go to the indoor climbing centre",
+                "The trip is cancelled",
+                "They will meet later",
+                "They will stay at the club"
+              ],
+              "correct": 0,
+              "explanation": "The email states: 'If it rains we will go to the indoor climbing centre instead.'"
+            }
+          ]
+        },
+        {
+          "id": "D03-04",
+          "type": "social_media",
+          "title": "Lost item",
+          "author": "Maria K.",
+          "date": "Yesterday",
+          "content": "I left my blue backpack on the number 14 bus this morning. It has my laptop and my keys inside. If anyone finds it please contact the bus company or message me. I really need it back! Thank you.",
+          "wordCount": 42,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "What did Maria lose?",
+              "options": [
+                "Her phone",
+                "Her blue backpack with laptop and keys",
+                "Her bus ticket",
+                "Her keys only"
+              ],
+              "correct": 1,
+              "explanation": "She says she left her blue backpack and it has her laptop and keys inside."
+            },
+            {
+              "text": "Where did she leave it?",
+              "options": [
+                "At home",
+                "At the bus company",
+                "On the number 14 bus",
+                "At school"
+              ],
+              "correct": 2,
+              "explanation": "She says 'I left my blue backpack on the number 14 bus.'"
+            }
+          ]
+        },
+        {
+          "id": "D03-05",
+          "type": "notice",
+          "title": "Canteen notice",
+          "content": "The canteen will be closed next Monday and Tuesday for kitchen improvements. On those days you can buy sandwiches and drinks from the kiosk near the main entrance. The canteen will reopen on Wednesday with a new menu. We apologise for any inconvenience.",
+          "wordCount": 48,
+          "difficulty": "B1",
+          "questions": [
+            {
+              "text": "Why is the canteen closed?",
+              "options": [
+                "New staff",
+                "Kitchen improvements",
+                "Holiday",
+                "No food left"
+              ],
+              "correct": 1,
+              "explanation": "The notice says it is closed 'for kitchen improvements.'"
+            },
+            {
+              "text": "According to the notice, where can you get food on Monday?",
+              "options": [
+                "At the kiosk near the main entrance",
+                "In the canteen",
+                "Nowhere",
+                "From the new menu"
+              ],
+              "correct": 0,
+              "explanation": "The notice states that on Monday and Tuesday you can buy sandwiches and drinks from the kiosk near the main entrance."
+            }
+          ]
+        }
+      ]
+    },
+    "D04": {
+      "label": "B2 — Upper intermediate",
+      "passages": [
+        {
+          "id": "D04-01",
+          "type": "email",
+          "title": "Refund policy",
+          "from": "Customer Service <support@shop.com>",
+          "to": "Customer",
+          "subject": "Your refund request",
+          "date": "12 Feb 2026",
+          "content": "Thank you for contacting us. We have received your request for a refund on order #8821. Our policy allows refunds within 30 days of delivery if the item is unused and in its original packaging. We see that your order was delivered on 20 January, so you are within the window. Please send the item back to the address on our website with the returns form. Once we receive it, we will process your refund within 5–7 working days. If you have any questions, reply to this email.\n\nBest regards,\nCustomer Service",
+          "wordCount": 95,
+          "difficulty": "B2",
+          "questions": [
+            {
+              "text": "What must the customer do to get the refund?",
+              "options": [
+                "Call within 30 days",
+                "Send the item back with the returns form",
+                "Keep the original packaging only",
+                "Reply to the email"
+              ],
+              "correct": 1,
+              "explanation": "The email says to send the item back with the returns form; then the refund will be processed."
+            },
+            {
+              "text": "According to the email, when was the order delivered?",
+              "options": [
+                "20 January",
+                "12 February",
+                "30 days ago",
+                "Not stated"
+              ],
+              "correct": 0,
+              "explanation": "The email states: 'your order was delivered on 20 January.'"
+            }
+          ]
+        },
+        {
+          "id": "D04-02",
+          "type": "social_media",
+          "title": "Event page",
+          "author": "City Arts Council",
+          "date": "1 March 2026",
+          "content": "We're pleased to announce that the annual Street Arts Festival will take place from 15–17 May in the city centre. This year we're extending the programme to include live music and workshops as well as the usual performances. Applications for performers and stallholders are open until 31 March. We're also looking for volunteers to help with setup and stewarding. If you'd like to get involved, follow the link in our bio. Full programme and timings will be published in April.",
+          "wordCount": 95,
+          "difficulty": "B2",
+          "questions": [
+            {
+              "text": "What is new about the festival this year?",
+              "options": [
+                "It is in the city centre",
+                "Live music and workshops are included",
+                "It runs for three days",
+                "Applications are open"
+              ],
+              "correct": 1,
+              "explanation": "The post says 'we're extending the programme to include live music and workshops.'"
+            },
+            {
+              "text": "By when must performers apply?",
+              "options": [
+                "15 May",
+                "17 May",
+                "31 March",
+                "April"
+              ],
+              "correct": 2,
+              "explanation": "Applications are open until 31 March."
+            }
+          ]
+        },
+        {
+          "id": "D04-03",
+          "type": "email",
+          "title": "Booking confirmation",
+          "from": "Travel Agency <bookings@travelplus.com>",
+          "to": "Customer",
+          "subject": "Your booking ref. TRP-4492",
+          "date": "10 Feb 2026",
+          "content": "Dear Customer,\n\nThank you for booking with us. Your flight and hotel for 22–25 March are confirmed. Please check the attached document for full details. Note that you must check in online between 24 and 2 hours before departure; failure to do so may result in a fee. Your e-ticket will be sent in a separate email. For any changes, our cancellation policy is available on our website. If you have questions, our support team is available 9am–6pm.\n\nKind regards,\nTravel Plus",
+          "wordCount": 95,
+          "difficulty": "B2",
+          "questions": [
+            {
+              "text": "What must the customer do before the flight?",
+              "options": [
+                "Pay a fee",
+                "Check in online between 24 and 2 hours before departure",
+                "Reply to the email",
+                "Visit the website"
+              ],
+              "correct": 1,
+              "explanation": "The email states they 'must check in online between 24 and 2 hours before departure.'"
+            },
+            {
+              "text": "Where can the customer find the cancellation policy?",
+              "options": [
+                "In the attachment",
+                "In a separate email",
+                "On the website",
+                "By calling support"
+              ],
+              "correct": 2,
+              "explanation": "It says 'our cancellation policy is available on our website.'"
+            }
+          ]
+        },
+        {
+          "id": "D04-04",
+          "type": "notice",
+          "title": "Parking terms",
+          "content": "Users of this car park do so at their own risk. The management does not accept responsibility for theft or damage to vehicles or their contents. Parking is limited to 24 hours per stay; vehicles left longer may be clamped. Payment must be made at the machine before leaving. Lost tickets will incur the full daily charge. CCTV is in operation for security purposes only.",
+          "wordCount": 62,
+          "difficulty": "B2",
+          "questions": [
+            {
+              "text": "What might happen if you leave your car for more than 24 hours?",
+              "options": [
+                "You get a refund",
+                "The car may be clamped",
+                "CCTV will record you",
+                "You pay at the machine"
+              ],
+              "correct": 1,
+              "explanation": "The notice says 'vehicles left longer may be clamped.'"
+            },
+            {
+              "text": "According to the notice, when must you pay?",
+              "options": [
+                "Before leaving",
+                "When you arrive",
+                "After 24 hours",
+                "Only if you lose your ticket"
+              ],
+              "correct": 0,
+              "explanation": "The notice states: 'Payment must be made at the machine before leaving.'"
+            }
+          ]
+        },
+        {
+          "id": "D04-05",
+          "type": "social_media",
+          "title": "Workshop announcement",
+          "author": "Tech Hub",
+          "date": "3 March 2026",
+          "content": "Our next coding workshop is on 20 March, 2–5pm. We'll cover the basics of Python and how to build a simple web app. You don't need experience, but bring your own laptop. Places are limited to 20 and we're already half full, so sign up soon. The fee is £15 and includes materials. Register via the link in our bio. Questions? Drop us a message.",
+          "wordCount": 72,
+          "difficulty": "B2",
+          "questions": [
+            {
+              "text": "Who is the workshop for?",
+              "options": [
+                "Only experts",
+                "People with no experience are welcome",
+                "Only 20 people",
+                "People without a laptop"
+              ],
+              "correct": 1,
+              "explanation": "It says 'You don't need experience.'"
+            },
+            {
+              "text": "According to the post, what does the £15 fee include?",
+              "options": [
+                "Materials",
+                "A laptop",
+                "Lunch",
+                "A certificate"
+              ],
+              "correct": 0,
+              "explanation": "The post states: 'The fee is £15 and includes materials.'"
+            }
+          ]
+        }
+      ]
+    },
+    "D05": {
+      "label": "C1 — Advanced",
+      "passages": [
+        {
+          "id": "D05-01",
+          "type": "notice",
+          "title": "Terms of use",
+          "content": "By accessing this facility you agree to use it solely for the purpose for which it was intended and in accordance with the guidelines displayed on site. Misuse may result in access being withdrawn without notice. The management disclaims liability for any loss or damage to personal property brought onto the premises. Complaints should be submitted in writing within 14 days of the incident. We reserve the right to amend these terms at any time.",
+          "wordCount": 72,
+          "difficulty": "C1",
+          "questions": [
+            {
+              "text": "What can happen if someone misuses the facility?",
+              "options": [
+                "They must pay a fee",
+                "They get a written warning",
+                "Access may be withdrawn without notice",
+                "They must complain in writing"
+              ],
+              "correct": 2,
+              "explanation": "The text states 'Misuse may result in access being withdrawn without notice.'"
+            },
+            {
+              "text": "What does management not accept responsibility for?",
+              "options": [
+                "Changes to the terms",
+                "Loss or damage to personal property on the premises",
+                "Complaints after 14 days",
+                "Guidelines on site"
+              ],
+              "correct": 1,
+              "explanation": "It 'disclaims liability for any loss or damage to personal property brought onto the premises.'"
+            }
+          ]
+        },
+        {
+          "id": "D05-02",
+          "type": "email",
+          "title": "Contract amendment",
+          "from": "Legal Team",
+          "to": "Tenant",
+          "subject": "Amendment to tenancy agreement",
+          "date": "Mon",
+          "content": "Further to our recent correspondence, please find attached the revised clause 4.2 regarding the notice period. The amendment reflects the statutory minimum of two months and aligns the contract with current legislation. Should you have any queries or wish to discuss the implications, we would ask that you arrange a call with our office within the next seven working days. Failure to respond will be taken as acceptance of the revised terms.\n\nYours sincerely,\nLegal Team",
+          "wordCount": 78,
+          "difficulty": "C1",
+          "questions": [
+            {
+              "text": "What does the amendment to clause 4.2 do?",
+              "options": [
+                "Extends the notice period",
+                "Brings the notice period in line with the statutory minimum of two months",
+                "Removes the notice period",
+                "Requires a call within seven days"
+              ],
+              "correct": 1,
+              "explanation": "The email says the amendment 'reflects the statutory minimum of two months' and 'aligns the contract with current legislation.'"
+            },
+            {
+              "text": "What happens if the tenant does not respond?",
+              "options": [
+                "The contract is cancelled",
+                "They must call within seven days",
+                "The revised terms are taken as accepted",
+                "They get a new attachment"
+              ],
+              "correct": 2,
+              "explanation": "The email states 'Failure to respond will be taken as acceptance of the revised terms.'"
+            }
+          ]
+        },
+        {
+          "id": "D05-03",
+          "type": "email",
+          "title": "Project update",
+          "from": "Project Lead",
+          "to": "Team",
+          "subject": "Q2 deliverables – revision",
+          "date": "Mon",
+          "content": "Following the client feedback session, we need to revise the scope of the Q2 deliverables. The deadline remains 30 April; however, the client has requested that we prioritise the user-testing phase and defer the documentation package to Q3. I will circulate an updated timeline by Wednesday. In the meantime, please hold off on any further documentation work and focus on the testing scenarios we agreed last week. Apologies for the short notice.\n\nBest,\nProject Lead",
+          "wordCount": 82,
+          "difficulty": "C1",
+          "questions": [
+            {
+              "text": "What has the client asked the team to do?",
+              "options": [
+                "Finish everything by 30 April",
+                "Prioritise user-testing and defer documentation to Q3",
+                "Stop all work until Wednesday",
+                "Focus on documentation"
+              ],
+              "correct": 1,
+              "explanation": "The email says the client requested 'that we prioritise the user-testing phase and defer the documentation package to Q3.'"
+            },
+            {
+              "text": "According to the email, what should the team do with documentation for now?",
+              "options": [
+                "Finish it by Wednesday",
+                "Send it to the client",
+                "Hold off and focus on testing scenarios",
+                "Revise the scope"
+              ],
+              "correct": 2,
+              "explanation": "The email asks the team to 'hold off on any further documentation work and focus on the testing scenarios.'"
+            }
+          ]
+        },
+        {
+          "id": "D05-04",
+          "type": "notice",
+          "title": "Data protection",
+          "content": "Personal data collected via this form will be processed in accordance with applicable data protection legislation. It will be used solely for the purposes indicated at the point of collection and will not be disclosed to third parties except where required by law or with your explicit consent. Data will be retained only for as long as necessary to fulfil those purposes. You have the right to request access to, rectification of, or deletion of your data. For further information or to exercise your rights, contact the data protection officer.",
+          "wordCount": 85,
+          "difficulty": "C1",
+          "questions": [
+            {
+              "text": "When can your data be given to third parties?",
+              "options": [
+                "Whenever the organisation wants",
+                "Only when required by law or with your explicit consent",
+                "After deletion",
+                "For any purpose"
+              ],
+              "correct": 1,
+              "explanation": "It states data 'will not be disclosed to third parties except where required by law or with your explicit consent.'"
+            },
+            {
+              "text": "According to the notice, what can you request regarding your data?",
+              "options": [
+                "Access, rectification, or deletion",
+                "That it be sold",
+                "That it be retained longer",
+                "Disclosure to third parties"
+              ],
+              "correct": 0,
+              "explanation": "The notice states that you have the right to request access to, rectification of, or deletion of your data."
+            }
+          ]
+        },
+        {
+          "id": "D05-05",
+          "type": "social_media",
+          "title": "Policy blog",
+          "author": "Research Institute",
+          "date": "Feb 2026",
+          "content": "Our latest briefing examines the implications of the new regulations for small and medium-sized enterprises. While the phased implementation allows time to adapt, many businesses have expressed concern about the administrative burden and the cost of compliance. We argue that early engagement with the guidance—rather than waiting until the final phase—is likely to reduce both. The full briefing is available on our website; we welcome feedback from practitioners.",
+          "wordCount": 72,
+          "difficulty": "C1",
+          "questions": [
+            {
+              "text": "What do the authors recommend?",
+              "options": [
+                "Waiting until the final phase",
+                "Early engagement with the guidance to reduce burden and cost",
+                "Ignoring the regulations",
+                "Focusing only on large enterprises"
+              ],
+              "correct": 1,
+              "explanation": "They 'argue that early engagement with the guidance—rather than waiting until the final phase—is likely to reduce both' (administrative burden and cost)."
+            },
+            {
+              "text": "Who has expressed concern?",
+              "options": [
+                "The Research Institute only",
+                "Small businesses only",
+                "Many businesses about administrative burden and compliance cost",
+                "Practitioners only"
+              ],
+              "correct": 2,
+              "explanation": "The text says 'many businesses have expressed concern about the administrative burden and the cost of compliance.'"
+            }
+          ]
+        }
+      ]
+    },
+    "D06": {
+      "label": "C2 — Proficient",
+      "passages": [
+        {
+          "id": "D06-01",
+          "type": "notice",
+          "title": "Policy statement",
+          "content": "The organisation is committed to ensuring that no applicant or participant receives less favourable treatment on grounds of race, gender, age, disability, religion, or sexual orientation. We recognise that equality of opportunity cannot be achieved by a policy statement alone; it requires the active promotion of inclusive practices and the removal of barriers that may persist in spite of legal compliance. All staff and contractors are expected to familiarise themselves with the full policy document and to report any concerns through the designated channels. This statement is subject to periodic review in line with evolving best practice and regulatory guidance.",
+          "wordCount": 95,
+          "difficulty": "C2",
+          "questions": [
+            {
+              "text": "According to the text, what does the organisation believe is needed beyond the policy?",
+              "options": [
+                "Legal compliance only",
+                "Periodic review",
+                "Active promotion of inclusive practices and removal of barriers",
+                "Reporting through designated channels"
+              ],
+              "correct": 2,
+              "explanation": "The text states that equality of opportunity requires the active promotion of inclusive practices and the removal of barriers that may persist in spite of legal compliance."
+            },
+            {
+              "text": "According to the text, what are staff and contractors required to do?",
+              "options": [
+                "Familiarise themselves with the full policy and report concerns through designated channels",
+                "Undergo periodic review",
+                "Comply with the law only",
+                "Promote the policy statement"
+              ],
+              "correct": 0,
+              "explanation": "The text states they are expected to familiarise themselves with the full policy document and to report any concerns through the designated channels."
+            }
+          ]
+        },
+        {
+          "id": "D06-02",
+          "type": "email",
+          "title": "Consultation response",
+          "from": "Policy Unit",
+          "to": "Stakeholders",
+          "subject": "Summary of consultation outcomes",
+          "date": "Fri",
+          "content": "Thank you to all who contributed to the recent consultation on the proposed changes. The majority of respondents expressed support for the principle of the reforms, whilst raising substantive concerns regarding the proposed timeline and the adequacy of the transition arrangements. In light of the feedback, we are revising the implementation schedule and will publish a supplementary document addressing the transition by the end of the month. We do not consider it appropriate to proceed to the next phase until that document has been circulated and stakeholders have had a further opportunity to comment.",
+          "wordCount": 95,
+          "difficulty": "C2",
+          "questions": [
+            {
+              "text": "What did most respondents support?",
+              "options": [
+                "The timeline",
+                "The transition arrangements",
+                "The principle of the reforms",
+                "Proceeding to the next phase immediately"
+              ],
+              "correct": 2,
+              "explanation": "The email says 'The majority of respondents expressed support for the principle of the reforms.'"
+            },
+            {
+              "text": "Why will the next phase not start yet?",
+              "options": [
+                "There was no support for the reforms",
+                "A supplementary document will be published and stakeholders will have a further chance to comment",
+                "The timeline was rejected",
+                "The Policy Unit has not finished revising"
+              ],
+              "correct": 1,
+              "explanation": "They 'do not consider it appropriate to proceed... until that document has been circulated and stakeholders have had a further opportunity to comment.'"
+            }
+          ]
+        },
+        {
+          "id": "D06-03",
+          "type": "notice",
+          "title": "Governance",
+          "content": "Decisions of the committee shall be binding on all members. Where a matter falls within the remit of more than one subcommittee, the chair shall determine which body shall take the lead; the other(s) shall be consulted and their views recorded in the minutes. No resolution may be passed in the absence of a quorum, which is defined as two-thirds of the appointed members. Members with a declared conflict of interest must recuse themselves from both the discussion and the vote. The committee shall report to the board on a quarterly basis.",
+          "wordCount": 95,
+          "difficulty": "C2",
+          "questions": [
+            {
+              "text": "What must happen when a matter involves more than one subcommittee?",
+              "options": [
+                "Both must vote",
+                "The chair decides which takes the lead; the others are consulted and their views minuted",
+                "No quorum is needed",
+                "The board decides"
+              ],
+              "correct": 1,
+              "explanation": "The notice states that the chair shall determine which body takes the lead; the other(s) shall be consulted and their views recorded in the minutes."
+            },
+            {
+              "text": "According to the notice, what is a quorum?",
+              "options": [
+                "Two-thirds of the appointed members",
+                "All members",
+                "The chair only",
+                "Members without a conflict"
+              ],
+              "correct": 0,
+              "explanation": "The notice defines quorum as two-thirds of the appointed members."
+            }
+          ]
+        },
+        {
+          "id": "D06-04",
+          "type": "email",
+          "title": "Legal notice",
+          "from": "Legal Department",
+          "to": "Recipient",
+          "subject": "Without prejudice – proposed settlement",
+          "date": "Mon",
+          "content": "This communication is sent without prejudice and does not constitute an admission of liability. Our client is prepared to make an offer in full and final settlement of the matter on the terms set out in the attached draft. The offer remains open for 14 days from the date of this email. Acceptance must be in writing and received by us within that period. Our client reserves the right to withdraw or amend the offer at any time prior to acceptance. No waiver of privilege is intended by this correspondence.",
+          "wordCount": 88,
+          "difficulty": "C2",
+          "questions": [
+            {
+              "text": "What does 'without prejudice' mean in this context?",
+              "options": [
+                "The offer is final",
+                "The communication does not constitute an admission of liability",
+                "Acceptance can be verbal",
+                "The offer cannot be withdrawn"
+              ],
+              "correct": 1,
+              "explanation": "The email states it 'does not constitute an admission of liability.'"
+            },
+            {
+              "text": "According to the email, how long is the offer valid?",
+              "options": [
+                "Until acceptance",
+                "Until the client withdraws it",
+                "14 days from the date of the email",
+                "Indefinitely"
+              ],
+              "correct": 2,
+              "explanation": "The email states: 'The offer remains open for 14 days from the date of this email.'"
+            }
+          ]
+        },
+        {
+          "id": "D06-05",
+          "type": "notice",
+          "title": "Procurement",
+          "content": "Tenders will be evaluated against the published criteria, which include technical capability, price, and delivery schedule. The contracting authority is not bound to accept the lowest-priced or any tender and reserves the right to cancel the process without liability. Clarification requests must be submitted in writing by the deadline specified in the invitation; responses will be published in an addendum. Tenderers are responsible for satisfying themselves as to the accuracy of their submissions. Late submissions will not be considered.",
+          "wordCount": 78,
+          "difficulty": "C2",
+          "questions": [
+            {
+              "text": "What can the contracting authority do?",
+              "options": [
+                "Must accept the lowest price",
+                "Is not bound to accept any tender and may cancel the process",
+                "Must accept the first tender",
+                "Cannot cancel once started"
+              ],
+              "correct": 1,
+              "explanation": "The authority 'is not bound to accept the lowest-priced or any tender and reserves the right to cancel the process without liability.'"
+            },
+            {
+              "text": "According to the notice, what happens to late submissions?",
+              "options": [
+                "They will not be considered",
+                "They get extra time",
+                "They are published in an addendum",
+                "They can request clarification"
+              ],
+              "correct": 0,
+              "explanation": "The notice states: 'Late submissions will not be considered.'"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

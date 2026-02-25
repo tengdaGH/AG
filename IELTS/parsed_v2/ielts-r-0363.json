@@ -1,0 +1,381 @@
+{
+  "id": "ielts-r-0363",
+  "slug": "recovering-a-damaged-reputation",
+  "title": "Recovering a damaged reputation",
+  "page_range": [
+    1849,
+    1853
+  ],
+  "raw_answer_key": {
+    "1": "NO",
+    "8": "C",
+    "2": "YES",
+    "9": "C",
+    "3": "NO",
+    "10": "D",
+    "4": "YES",
+    "11": "C",
+    "5": "NOT GIVEN",
+    "12": "F",
+    "6": "YES",
+    "13": "D",
+    "7": "A",
+    "14": "A"
+  },
+  "content": {
+    "title": "Recovering a damaged reputation",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "In 2009, it was revealed that some of the information published by the University of East Anglia's Climatic Research Unit (CRU) in the UK, concerning climate change, had been inaccurate. Furthermore, it was alleged that some of the relevant statistics had been withheld from publication. The ensuing controversy affected the reputation not only of that institution, but also of the Intergovernmental Panel on Climate Change (IPCC), with which the CRU is closely involved, and of climate scientists in general. Even if the claims of misconduct and incompetence were eventually proven to be largely untrue, or confined to a few individuals, the damage was done. The perceived wrongdoings of a few people had raised doubts about the many."
+      },
+      {
+        "content": "The response of most climate scientists was to cross their fingers and hope for the best, and they kept a low profile. Many no doubt hoped that subsequent independent inquiries into the IPCC and CRU would draw a line under their problems. However, although these were likely to help, they were unlikely to undo the harm caused by months of hostile news reports and attacks by critics."
+      },
+      {
+        "content": "The damage that has been done should not be underestimated. As Ralph Cicerone, the President of the US National Academy of Sciences, wrote in an editorial in the journal Science: 'Public opinion has moved toward the view that scientists often try to suppress alternative hypotheses and ideas and that scientists will withhold data and try to manipulate some aspects of peer review to prevent dissent.' He concluded that 'the perceived misbehavior of even a few scientists can diminish the credibility of science as a whole.'"
+      },
+      {
+        "content": "An opinion poll taken at the beginning of 2010 found that the proportion of people in the US who trust scientists as a source of information about global warming had dropped from 83 percent, in 2008, to 74 percent. Another survey carried out by the British Broadcasting Corporation in February 2010 found that just 26 percent of British people now believe that climate change is confirmed as being largely human-made, down from 41 percent in November 2009."
+      },
+      {
+        "content": "Regaining the confidence and trust of the public is never easy. Hunkering down and hoping for the best - climate science’s current strategy - makes it almost impossible. It is much better to learn from the successes and failures of organisations that have dealt with similar blows to their public standing."
+      },
+      {
+        "content": "In fact, climate science needs professional help to rebuild its reputation. It could do worse than follow the advice given by Leslie Gaines-Ross, a 'reputation strategist' at Public Relations (PR) company Webef Shandwick, in her recent book Corporate Reputation: 12 Steps to Safeguarding and Recovering Reputation. Gaines-Ross’s strategy is based on her analysis of how various organisations responded to crises, such as desktop-printer firm Xerox, whose business plummeted during the 1990s, and the USA’s National Aeronautics and Space Administration (NASA) after the Columbia shuttle disaster in 2003."
+      },
+      {
+        "content": "The first step she suggests is to 'take the heat - leader first'. In many cases, chief executives who publicly accept responsibility for corporate failings can begin to reverse the freefall of their company’s reputations, but not always. If the leader is held at least partly responsible for the fall from grace, it can be almost impossible to convince critics that a new direction can be charted with that same person at the helm."
+      },
+      {
+        "content": "This is the dilemma facing the heads of the IPCC and CRU. Both have been blamed for their organisations’ problems, not least for the way in which they have dealt with critics, and both have been subjected to public calls for their removal. Yet both organisations appear to believe they can repair their reputations without a change of leadership."
+      },
+      {
+        "content": "The second step outlined by Gaines-Ross is to 'communicate tirelessly'. Yet many climate researchers have avoided the media and the public, at least until the official enquiries have concluded their reports. This reaction may be understandable, but it has backfired. Journalists following the story have often been unable to find spokespeople willing to defend climate science. In this case, 'no comment' is commonly interpreted as an admission of silent, collective guilt."
+      },
+      {
+        "content": "Remaining visible is only a start, though; climate scientists also need to be careful what they say. They must realise that they face doubts not just about their published results, but also about their conduct and honesty. It simply won’t work for scientists to continue to appeal to the weight of the evidence, while refusing to discuss the integrity of their profession. The harm has been increased by a perceived reluctance to admit even the possibility of mistakes or wrongdoing."
+      },
+      {
+        "content": "The third step put forward by Gaines-Ross is 'don’t underestimate your critics and competitors'. This means not only recognising the skill with which the opponents of climate research have executed their campaigns through Internet blogs and other media, but also acknowledging the validity of some of their criticisms. It is clear, for instance, that climate scientists need better standards of transparency, to allow for scrutiny not just by their peers, but also by critics from outside the world of research."
+      },
+      {
+        "content": "It is also important to engage with those critics. That doesn’t mean conceding to unfounded arguments which are based on prejudice rather than evidence, but there is an obligation to help the public understand the causes of climate change, as well as the options for avoiding and dealing with the consequences."
+      },
+      {
+        "content": "To begin the process of rebuilding trust in their profession, climate scientists need to follow these three steps. But that is just the start. Gaines-Ross estimates that it typically takes four years for a company to rescue and restore a broken reputation."
+      },
+      {
+        "content": "Winning back public confidence is a marathon, not a sprint, but you can’t win at all if you don’t step up to the starting line."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "If a majority of scientists at the CRU were cleared of misconduct, the public would be satisfied.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "In the aftermath of the CRU scandal, most scientists avoided attention.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Journalists have defended the CRU and the IPCC against their critics.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Ralph Cicerone regarded the damage caused by the CRU as extending beyond the field of climate science.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Since 2010, confidence in climate science has risen slightly in the US.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Climate scientists should take professional advice on regaining public confidence.",
+            "answer": "YES",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "In accordance with Gaines-Ross’s views, the heads of the CRU and IPCC should have",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "resigned from their posts."
+              },
+              {
+                "label": "B",
+                "text": "accepted responsibility and continued in their posts."
+              },
+              {
+                "label": "C",
+                "text": "shifted attention onto more junior staff."
+              },
+              {
+                "label": "D",
+                "text": "ignored the criticisms directed at them."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Which mistake have staff at the CRU and IPCC made?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "They have blamed each other for problems."
+              },
+              {
+                "label": "B",
+                "text": "They have publicly acknowledged failings."
+              },
+              {
+                "label": "C",
+                "text": "They have avoided interviews with the press."
+              },
+              {
+                "label": "D",
+                "text": "They have made conflicting public statements."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "People who challenge the evidence of climate change have generally",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "presented their case poorly."
+              },
+              {
+                "label": "B",
+                "text": "missed opportunities for publicity."
+              },
+              {
+                "label": "C",
+                "text": "made some criticisms which are justified."
+              },
+              {
+                "label": "D",
+                "text": "been dishonest in their statements."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "What does the reference to 'a marathon' indicate in the final paragraph?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "The rate at which the climate is changing."
+              },
+              {
+                "label": "B",
+                "text": "The competition between rival theories of climate change."
+              },
+              {
+                "label": "C",
+                "text": "The ongoing need for new climate data."
+              },
+              {
+                "label": "D",
+                "text": "The time it might take for scientists to win back confidence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words/phrases, A-H, below.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "critics"
+              },
+              {
+                "label": "B",
+                "text": "corruption"
+              },
+              {
+                "label": "C",
+                "text": "statistics"
+              },
+              {
+                "label": "D",
+                "text": "guidelines"
+              },
+              {
+                "label": "E",
+                "text": "managers"
+              },
+              {
+                "label": "F",
+                "text": "public relations"
+              },
+              {
+                "label": "G",
+                "text": "sources"
+              },
+              {
+                "label": "H",
+                "text": "computer modelling"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "critics"
+              },
+              {
+                "label": "B",
+                "text": "corruption"
+              },
+              {
+                "label": "C",
+                "text": "statistics"
+              },
+              {
+                "label": "D",
+                "text": "guidelines"
+              },
+              {
+                "label": "E",
+                "text": "managers"
+              },
+              {
+                "label": "F",
+                "text": "public relations"
+              },
+              {
+                "label": "G",
+                "text": "sources"
+              },
+              {
+                "label": "H",
+                "text": "computer modelling"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "critics"
+              },
+              {
+                "label": "B",
+                "text": "corruption"
+              },
+              {
+                "label": "C",
+                "text": "statistics"
+              },
+              {
+                "label": "D",
+                "text": "guidelines"
+              },
+              {
+                "label": "E",
+                "text": "managers"
+              },
+              {
+                "label": "F",
+                "text": "public relations"
+              },
+              {
+                "label": "G",
+                "text": "sources"
+              },
+              {
+                "label": "H",
+                "text": "computer modelling"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "critics"
+              },
+              {
+                "label": "B",
+                "text": "corruption"
+              },
+              {
+                "label": "C",
+                "text": "statistics"
+              },
+              {
+                "label": "D",
+                "text": "guidelines"
+              },
+              {
+                "label": "E",
+                "text": "managers"
+              },
+              {
+                "label": "F",
+                "text": "public relations"
+              },
+              {
+                "label": "G",
+                "text": "sources"
+              },
+              {
+                "label": "H",
+                "text": "computer modelling"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:16:17.123127"
+}

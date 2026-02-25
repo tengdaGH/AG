@@ -1,0 +1,212 @@
+{
+  "id": "ielts-r-0489",
+  "slug": "the-history-of-glass",
+  "title": "The history of glass",
+  "page_range": [
+    2479,
+    2483
+  ],
+  "raw_answer_key": {
+    "1": "obsidian",
+    "8": "taxes",
+    "2": "spears",
+    "9": "TRUE",
+    "3": "beads",
+    "10": "FALSE",
+    "4": "impurities",
+    "11": "NOT GIVEN",
+    "5": "Romans",
+    "12": "TRUE",
+    "6": "lead",
+    "13": "FALSE",
+    "7": "clouding"
+  },
+  "content": {
+    "title": "The history of glass",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "From our earliest origins, man has been making use of glass. Historians have discovered that a type of natural glass - obsidian - formed in places such as the mouth of a volcano as a result of the intense heat of an eruption melting sand - was first used as tips for spears. Archaeologists have even found evidence of man-made glass which dates back to 4000 BC; this took the form of glazes used for coating stone beads. It was not until 1500 BC, however, that the first hollow glass container was made by covering a sand core with a layer of molten glass."
+      },
+      {
+        "content": "Glass blowing became the most common way to make glass containers from the first century BC. The glass made during this time was highly coloured due to the impurities of the raw material. In the first century AD, methods of creating colourless glass were developed, which was then tinted by the addition of colouring materials. The secret of glass making was taken across Europe by the Romans during this century. However, they guarded the skills and technology required to make glass very closely, and it was not until their empire collapsed in 476 AD that glass-making knowledge became widespread throughout Europe and the Middle East. From the 10th century onwards, the Venetians gained a reputation for technical skill and artistic ability in the making of glass bottles, and many of the city’s craftsmen left Italy to set up glassworks throughout Europe."
+      },
+      {
+        "content": "A major milestone in the history of glass occurred with the invention of lead crystal glass by the English glass manufacturer George Ravenscroft (1632 - 1683). He attempted to counter the effect of clouding that sometimes occurred in blown glass by introducing lead to the raw materials used in the process. The new glass he created was softer and easier to decorate, and had a higher refractive index, adding to its brilliance and beauty, and it proved invaluable to the optical industry. It is thanks to Ravenscroft’s invention that optical lenses, astronomical telescopes, microscopes and the like became possible."
+      },
+      {
+        "content": "In Britain, the modern glass industry only really started to develop after the repeal of the Excise Act in 1845. Before that time, heavy taxes had been placed on the amount of glass melted in a glasshouse, and were levied continuously from 1745 to 1845. Joseph Paxton’s Crystal Palace at London’s Great Exhibition of 1851 marked the beginning of glass as a material used in the building industry. This revolutionary new building encouraged the use of glass in public, domestic and horticultural architecture. Glass manufacturing techniques also improved with the advancement of science and the development of better technology."
+      },
+      {
+        "content": "From 1887 onwards, glass making developed from traditional mouth-blowing to a semi-automatic process, after factory-owner HM Ashley introduced a machine capable of producing 200 bottles per hour in Castleford, Yorkshire, England - more than three times quicker than any previous production method. Then in 1907, the first fully automated machine was developed in the USA by Michael Owens - founder of the Owens Bottle Machine Company (later the major manufacturers Owens-Illinois) - and installed in its factory. Owens’ invention could produce an impressive 2,500 bottles per hour. Other developments followed rapidly, but it was not until the First World War when Britain became cut off from essential glass suppliers, that glass became part of the scientific sector. Previous to this, glass had been seen as a craft rather than a precise science."
+      },
+      {
+        "content": "Today, glass making is big business. It has become a modern, hi-tech industry operating in a fiercely competitive global market where quality, design and service levels are critical to maintaining market share. Modern glass plants are capable of making millions of glass containers a day in many different colours, with green, brown and clear remaining the most popular. Few of us can imagine modern life without glass. It features in almost every aspect of our lives - in our homes, our cars and whenever we sit down to eat or drink. Glass packaging is used for many products, many beverages are sold in glass, as are numerous foodstuffs, as well as medicines and cosmetics."
+      },
+      {
+        "content": "Glass is an ideal material for recycling, and with growing consumer concern for green issues, glass bottles and jars are becoming ever more popular. Glass recycling is good news for the environment. It saves used glass containers being sent to landfill. As less energy is needed to melt recycled glass than to melt down raw materials, this also saves fuel and production costs. Recycling also reduces the need for raw materials to be quarried, thus saving precious resources."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Early humans used a material called __________ to make the sharp points of their __________.",
+            "answer": "obsidian",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Early humans used a material called obsidian to make the sharp points of their __________.",
+            "answer": "spears",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "4000 BC: __________ made of stone were covered in a coating of man-made glass.",
+            "answer": "beads",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "First century BC: glass was coloured because of the __________ in the material.",
+            "answer": "impurities",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Until 476 AD: Only the __________ knew how to make glass.",
+            "answer": "Romans",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "17th century: George Ravenscroft developed a process using __________ to avoid the occurrence of __________ in blown glass.",
+            "answer": "lead",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "17th century: George Ravenscroft developed a process using lead to avoid the occurrence of __________ in blown glass.",
+            "answer": "clouding",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Mid-19th century: British glass production developed after changes to laws concerning __________.",
+            "answer": "taxes",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "In boxes 9-13 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "In 1887, HM Ashley had the fastest bottle-producing machine that existed at the time.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "In 1887, HM Ashley had the fastest bottle-producing machine that existed at the time."
+              },
+              {
+                "label": "FALSE",
+                "text": "In 1887, HM Ashley did not have the fastest bottle-producing machine that existed at the time."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on whether HM Ashley had the fastest bottle-producing machine at the time."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Michael Owens was hired by a large US company to design a fully-automated bottle manufacturing machine for them.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Michael Owens was hired by a large US company to design a fully-automated bottle manufacturing machine for them."
+              },
+              {
+                "label": "FALSE",
+                "text": "Michael Owens was not hired by a large US company to design a fully-automated bottle manufacturing machine for them."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on whether Michael Owens was hired by a large US company to design a fully-automated bottle manufacturing machine."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Nowadays, most glass is produced by large international manufacturers.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Nowadays, most glass is produced by large international manufacturers."
+              },
+              {
+                "label": "FALSE",
+                "text": "Nowadays, most glass is not produced by large international manufacturers."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on whether most glass is produced by large international manufacturers."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Concern for the environment is leading to an increased demand for glass containers.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Concern for the environment is leading to an increased demand for glass containers."
+              },
+              {
+                "label": "FALSE",
+                "text": "Concern for the environment is not leading to an increased demand for glass containers."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on whether concern for the environment is leading to an increased demand for glass containers."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "It is more expensive to produce recycled glass than to manufacture new glass.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "It is more expensive to produce recycled glass than to manufacture new glass."
+              },
+              {
+                "label": "FALSE",
+                "text": "It is not more expensive to produce recycled glass than to manufacture new glass."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on whether it is more expensive to produce recycled glass than to manufacture new glass."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:36:06.471858"
+}

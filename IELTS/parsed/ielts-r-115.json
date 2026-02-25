@@ -1,0 +1,210 @@
+{
+  "id": "ielts-r-115",
+  "source_file": "115. P2 - Mind Music 脑海中的音乐(心灵音乐)【高】.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    26
+  ],
+  "difficulty": "high",
+  "title": "Mind Music",
+  "title_cn": "脑海中的音乐(心灵音乐)",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Ever had a song stuck in your head, playing on an endless loop? Scientists call them ‘involuntary musical images’, or ‘earworms’, and a wave of new research is shining light on why they occur and what can be learned from them. Some neuroscientists and cognitive psychologists are studying earworms to explore the mysteries of memory and the part of the brain that is beyond our conscious control. ‘The idea that we have full control over our thought processes is an illusion,’ says psychologist Lauren Stewart, who founded the master’s program in music, mind and brain at Goldsmiths, University of London, UK, where recent research has taken place. Researchers haven’t been able to watch what happens in the brain when earworms occur, because they happen unpredictably. Much of what is known about them comes from surveys, questionnaires, diaries and lab experiments."
+      },
+      {
+        "label": "B",
+        "text": "A Goldsmiths study published in the journal Memory and Cognition this year showed that the singing we hear in our heads tends to be true to actual recordings. Researchers had 17 volunteers tap to the beat of any earworm they heard during a four-day period while a device attached to their wrist recorded their movements. The tapping tempos were within 10% of the tempos of the original recordings. Another Goldsmiths study, published this year in Consciousness and Cognition, found that people who report hearing earworms often, and find them most intrusive, have slightly different brain structures, with more gray matter in areas associated with processing emotions."
+      },
+      {
+        "label": "C",
+        "text": "Studies also show that the music in our heads often starts playing during times of ‘low cognitive load’, such as while showering, getting dressed, walking, or doing chores. Dr Stewart likens earworms to ‘sonic screen savers’ that keep the mind entertained while it is otherwise unoccupied. She and her colleagues tested that theory by having volunteers listen to songs and giving them various tasks afterwards. The volunteers who sat idly for the next five minutes were the most likely to report hearing the music in their heads. Dr Stewart observed that the more challenging the activity, the less likely the volunteers were to hear the music. Diary studies also show songs tend to match people’s moods and therefore they are not random. If you are energized and upbeat, an earworm that occurs is likely to be uptempo too."
+      },
+      {
+        "label": "D",
+        "text": "Songs the brain fixates on are usually those it has been exposed to recently, surveys show, which is why tunes getting heavy radio play frequently top the earworm charts. Even tunes you may have heard but didn’t pay attention to can worm their way into your subconscious, says Ira Hyman, a psychologist at Western Washington University in Bellingham, USA. In an unpublished study there, participants who listened to music while doing other tasks were more likely to report that the songs returned as earworms later on, compared with participants who simply listened."
+      },
+      {
+        "label": "E",
+        "text": "Some earworms are just fragments of a song that repeat like a broken record. So, when the mind hits a part of a song it can’t remember, it loops back rather than moving on. That could make an earworm even more entrenched, Dr Hyman says. According to a theory known as the Zeigarnik effect, named for a Soviet psychologist, Bluma Zeigarnik, unfinished thoughts and activities weigh on the mind more heavily than those that are completed, although experiments exposing students to interrupted songs have yielded mixed results."
+      },
+      {
+        "label": "F",
+        "text": "Researchers say they can’t pinpoint a spot in the brain where earworms live. Imaging studies by Andrea Halpern at Bucknell University, in Lewisburg, USA, have shown that deliberately imagining music and actually listening to music activate many of the same neurological networks. Dr Halpern’s earlier studies showed that when subjects listened to the first few notes of familiar music, areas in the right frontal and superior temporal portions of the brain became activated, along with the supplementary motor area at the top, which is typically involved in remembering sequences. When the same subjects listened to unfamiliar music and were asked to recall it, there was activity in the left frontal portions of the brain instead."
+      },
+      {
+        "label": "G",
+        "text": "One factor that makes some songs stick might be repetition. ‘Repetition leads to familiarity which leads to anticipation, which is satisfied by hearing the song,’ says John Seabrook, author of The Song Machine: Inside the Hit Factory, about how producers pump pop songs full of aural ‘hooks’, the punchy melodic phrases designed to target the brain and leave it wanting more. The researchers are comparing the melodic structure of 100 often mentioned songs with 100 similarly popular songs that weren’t cited as earworms, to assess the difference. Songs with earworm potential appear to share certain features: a repeating pattern of ups and downs in pitch, and irregular musical intervals."
+      },
+      {
+        "label": "H",
+        "text": "The researchers plan next to test their results in reverse, and play ringtones from songs of both the earworm and non-earworm variety for volunteers several times a day to see which ones get stuck. Drs Stewart and Halpern are now working together to recruit survey participants for a study looking at whether people at different stages of life experience earworms differently. ‘You can argue that older people might get them more often because they know more songs,’ Dr Halpern says. ‘But the few responses we have so far indicate that they have earworms less often. It could be that they don’t play music as often as younger people do.’"
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "PARAGRAPH_MATCHING",
+      "range": [
+        14,
+        17
+      ],
+      "instructions": "Reading Passage 2 has eight paragraphs, A-H Which paragraph contains the following information? Write the correct letter, A-H, in boxes 14-17 on your answer sheet.",
+      "questions": [
+        {
+          "number": 14,
+          "text": "a description of the characteristics common to songs with earworms",
+          "options": null,
+          "answer": "G",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 15,
+          "text": "a justification for research into earworms",
+          "options": null,
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 16,
+          "text": "a description of the brain’s reaction to known and unknown songs",
+          "options": null,
+          "answer": "F",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 17,
+          "text": "details of proposed research into the frequency with which earworms occur in different age groups.",
+          "options": null,
+          "answer": "H",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SUMMARY_COMPLETION",
+      "range": [
+        18,
+        21
+      ],
+      "instructions": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 18-21 on your answer sheet.",
+      "questions": [
+        {
+          "number": 18,
+          "text": "Goldsmiths study Researchers from Goldsmiths concluded that the music we imagine in our minds is quite similar to recordings. They proved this by asking volunteers to record the rhythm of music using a monitor on their ________.",
+          "options": null,
+          "answer": "wrist",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 19,
+          "text": "Further research has demonstrated that those who hear earworms more frequently have brains that may deal with ________ differently from other people,",
+          "options": null,
+          "answer": "emotions",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 20,
+          "text": "Dr Stewart also believes that the brain is ________ by earworms when it is not focused on a task.",
+          "options": null,
+          "answer": "entertained",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 21,
+          "text": "In Fact, a reduction in the occurrence of earworms was found to be directly related to how ________ the task was. Interestingly, volunteers’ diaries revealed that the songs they heard inside their head reflected their moods, so the choice of music is not accidental.",
+          "options": null,
+          "answer": "challenging",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "PERSON_MATCHING",
+      "range": [
+        22,
+        26
+      ],
+      "instructions": "Look at the following statements and the list of researchers below. Match each statement with the correct person, A, B, C or D. Write the correct letter A, B, C or D, in boxes 22-26 on your answer sheet. NB You may use any letter more than once.\nList of Researchers\nA Lauren Stewart\nB Ira Hyman\nC Andrea Halpern\nD John Seabrook",
+      "questions": [
+        {
+          "number": 22,
+          "text": "Some musicians create music that is intentionally memorable.",
+          "options": [
+            "A Lauren Stewart",
+            "B Ira Hyman",
+            "C Andrea Halpern",
+            "D John Seabrook"
+          ],
+          "answer": "D",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 23,
+          "text": "People are unable to completely regulate how they think",
+          "options": [
+            "A Lauren Stewart",
+            "B Ira Hyman",
+            "C Andrea Halpern",
+            "D John Seabrook"
+          ],
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 24,
+          "text": "We can remember songs without knowing that we have heard them.",
+          "options": [
+            "A Lauren Stewart",
+            "B Ira Hyman",
+            "C Andrea Halpern",
+            "D John Seabrook"
+          ],
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 25,
+          "text": "Thinking about music has a similar effect on the brain to hearing music.",
+          "options": [
+            "A Lauren Stewart",
+            "B Ira Hyman",
+            "C Andrea Halpern",
+            "D John Seabrook"
+          ],
+          "answer": "C",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 26,
+          "text": "Earworms are more persistent when only a short section of the song is constantly replayed.",
+          "options": [
+            "A Lauren Stewart",
+            "B Ira Hyman",
+            "C Andrea Halpern",
+            "D John Seabrook"
+          ],
+          "answer": "B",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "PARAGRAPH_MATCHING",
+      "SUMMARY_COMPLETION",
+      "PERSON_MATCHING"
+    ],
+    "parsed_at": "2026-02-24T03:41:39.193284",
+    "parser_version": "1.0",
+    "needs_review": true,
+    "llm_structured_at": "2026-02-24T12:05:00+0800"
+  }
+}

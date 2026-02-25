@@ -1,0 +1,233 @@
+{
+  "id": "ielts-r-0585",
+  "slug": "tool-for-ancient-writing",
+  "title": "Tool for ancient writing",
+  "page_range": [
+    2956,
+    2960
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "B",
+    "2": "E",
+    "9": "D",
+    "3": "C",
+    "10": "B",
+    "11": "LENGTHY PREPARATION",
+    "4": "D TIME",
+    "5": "F",
+    "12": "IN 1436",
+    "6": "C",
+    "13": "MODERN FOUNTAIN PENS",
+    "7": "A"
+  },
+  "content": {
+    "title": "Tool for ancient writing",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "With time, the record-keepers developed systematized symbols from their drawings. These symbols represented words and sentences but were easier and faster to draw and universally recognized for meaning. The discovery of clay made portable records possible (you can’t carry a cave wall around with you). Early merchants used clay tokens with pictographs to record the quantities of materials traded or shipped. These tokens date back to about 8,500 B.C. With the high volume and the repetition inherent in record keeping, pictographs evolved and slowly lost their picture detail. They became abstract figures representing sounds in spoken communication. The alphabet replaced pictographs between 1700 and 1500 B.C. in the Sinaitic world. The current Hebrew alphabet and writing became popular around 600 B.C. About 400 B.C. the Greek alphabet was developed. Greek was the first script written from left to right. From Greek followed the Byzantine and the Roman (later Latin) writings. In the beginning, all writing systems had only uppercase letters, when the writing instruments were refined enough for detailed faces, lowercase was used as well (around 600 A.D.)."
+      },
+      {
+        "label": "B",
+        "content": "The earliest means of writing that approached pen and paper as we know them today was developed by the Greeks. They employed a writing stylus, made of metal, bone, or ivory, to placemarks upon wax-coated tablets. The tablets are made in hinged pairs, closed to protect the scribe’s notes. The first examples of handwriting (purely text messages made by hand) originated in Greece. The Grecian scholar, Cadmus invented the written letter – text messages on paper sent from one individual to another."
+      },
+      {
+        "label": "C",
+        "content": "Writing was advancing beyond chiselling pictures into stone or wedging pictographs into wet clay. The Chinese invented and perfected ‘Indian Ink’. Originally designed for blacking the surfaces of raised stone-carved hieroglyphics, the ink was a mixture of soot from pine smoke and lamp oil mixed with the gelatin of donkey skin and musk. The ink invented by the Chinese philosopher, Tien-Lcheu (2697 B.C.), became common by the year 1200 B.C. Other cultures developed inks using natural dyes and colours derived from berries, plants, and minerals. In early writings, different coloured inks had ritual meanings attached to each colour."
+      },
+      {
+        "label": "D",
+        "content": "The invention of inks paralleled the introduction of the paper. The early Egyptians, Romans, Greeks, and Hebrews, used papyrus and parchment papers. One of the oldest pieces of writing on papyrus known to us today is the Egyptian “Prisse Papyrus” which dates back to 2000 B.C. The Romans created a reed-pen perfect for parchment and ink, from the hollow tubular stems of marsh grasses, especially from the jointed bamboo plant. They converted bamboo stems into a primitive form of a fountain pen. They cut one end into the form of a pen nib or point. A writing fluid or ink filled the stem, squeezing the reed forced fluid to the nib."
+      },
+      {
+        "label": "E",
+        "content": "By 400 A.D. a stable form of ink developed, a composite of iron salts, nutgalls, and gum, the basic formula, which was to remain in use for centuries. Its colour when first applied to paper was a bluish-black, rapidly turning into a darker black and then over the years fading to the familiar dull brown colour commonly seen in old documents. Wood-fiber paper was invented in China in 105 A.D. but it only became known about (due to Chinese secrecy) in Japan around 700 A.D. and was brought to Spain by the Arabs in 711 A.D."
+      },
+      {
+        "label": "F",
+        "content": "The writing instrument that dominated for the longest period in history (over one thousand years) was the quill pen. Introduced around 700 A.D., the quill is a pen made from a bird feather. The strongest quills were those taken from living birds in the spring from the five outer left wing feathers. The left wing was favoured because the feathers curved outward and away when used by a right-handed writer. Goose feathers were most common; swan feathers were of a premium grade being scarcer and more expensive. For making fine lines, crow feathers were the best, and then came the feathers of the eagle, owl, hawk, and turkey."
+      },
+      {
+        "label": "G",
+        "content": "There were also disadvantages associated with the use of quill pens, including a lengthy preparation time. The early European writing parchments made from animal skins required much scraping and cleaning. A lead and a ruler made margins. To sharpen the quill, the writer needed a special knife (origins of the term “pen-knife”.) Beneath the writer’s high-top desk was a coal stove, used to dry the ink as fast as possible."
+      },
+      {
+        "label": "H",
+        "content": "Glass-fiber paper became the primary medium for writing after another dramatic invention took place: Johannes Gutenberg invented the printing press with replaceable wooden or metal letters in 1436. Simpler kinds of printing e.g. stamps with names used much earlier in China, did not find their way to Europe. During the centuries, many newer printing technologies were developed based on Gutenberg’s printing machine e.g. offset printing."
+      },
+      {
+        "label": "I",
+        "content": "Articles written by hand had resembled printed letters until scholars began to change the form of writing, using capitals and small letters, writing with more of a slant and connecting letters. Gradually writing became more suitable to the speed the new writing instruments permitted. The credit of inventing Italian ‘running hand’ or cursive handwriting with its Roman capitals and small letters, goes to Aldus Manutius of Venice, who departed from the old set forms in 1495 A.D. By the end of the 16th century, the old Roman capitals and Greek letterforms transformed into the twenty-six alphabet letters we know today, both for upper and lower-case letters. When writers had both better inks and paper, and handwriting had developed into both an art form and an everyday occurrence, man’s inventive nature once again turned to improving the writing instrument, leading to the development of the modern fountain pens."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "What two features do record retention possess in nature?",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What two features do record retention possess in nature?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Easier and faster"
+              },
+              {
+                "label": "B",
+                "text": "Capaciousness"
+              },
+              {
+                "label": "C",
+                "text": "Portable"
+              },
+              {
+                "label": "D",
+                "text": "Convenient"
+              },
+              {
+                "label": "E",
+                "text": "Iterance"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What two features do record retention possess in nature?",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Easier and faster"
+              },
+              {
+                "label": "B",
+                "text": "Capaciousness"
+              },
+              {
+                "label": "C",
+                "text": "Portable"
+              },
+              {
+                "label": "D",
+                "text": "Convenient"
+              },
+              {
+                "label": "E",
+                "text": "Iterance"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "What hurts the technique of producing wooden paper from popularity for a long time?",
+        "questions": [
+          {
+            "number": 3,
+            "text": "What hurts the technique of producing wooden paper from popularity for a long time?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Scarcity"
+              },
+              {
+                "label": "B",
+                "text": "Complexity"
+              },
+              {
+                "label": "C",
+                "text": "Confidentiality by the inventors"
+              },
+              {
+                "label": "D",
+                "text": "High cost"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading Passage has eleven paragraphs A-I. Which paragraph contains the following information? Write the correct letter A-I, in boxes 4-10 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "the working principle of the primitive pens made of plant stems",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "a writing tool commonly implemented for the longest time",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "liquid for writing firstly devised by Chinese",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "majuscule scripts as the unique written form originally",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "the original invention of today’s correspondences",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "the mention of two basic writing instruments being invented coordinately",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "a design to safeguard the written content",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "What makes it not so convenient to use the quill pens?",
+            "answer": "LENGTHY PREPARATION",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "When did one more breakthrough occur following the popularity of paper of plant fibres?",
+            "answer": "IN 1436",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "What inventions were the results of human’s creative instinct of developing writing tools?",
+            "answer": "MODERN FOUNTAIN PENS",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:03:34.224908"
+}

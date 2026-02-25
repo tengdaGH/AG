@@ -1,0 +1,169 @@
+{
+  "id": "ielts-r-0506",
+  "slug": "the--kiwi",
+  "title": "THE KIWI",
+  "page_range": [
+    2563,
+    2565
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "4": "B",
+    "2": "A",
+    "5": "A",
+    "3": "C"
+  },
+  "content": {
+    "title": "THE KIWI",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The Kiwi lives only in New Zealand. It is a very strange bird because it cannot fly. The Kiwi is the same size as a chicken. It has no wings or tails. It does not have any feathers like other birds. It has hair on its body. Each foot has four toes. Its beak is very long."
+      },
+      {
+        "label": null,
+        "content": "The shy, flightless kiwi likes a lot of trees around it. It sleeps during the day because the sunlight hurts its eyes.This nocturnal bird is active only at night. It can smell things with its nose. It is the only bird in the world that can smell things. The kiwi's eggs are very big."
+      },
+      {
+        "label": null,
+        "content": "There are only a few kiwis in New Zealand now. A recent survey shows that kiwis are disappearing rapidly from the forests where they have lived for thousands of years. People hardly see them except in a New Zealand Zoo. The kiwi is heading towards extinction."
+      },
+      {
+        "label": null,
+        "content": "In the past millions of kiwis living in the forests. Their only predator during that time was the large New Zealand eagle.This great eagle became extinct many years ago. The rapid disappearance of the kiwis started when man came to settle here. They brought along with them dogs, cats and Australian possums. Besides man, these animals also like to kill and eat kiwis. Thus reducing the numbers of this nocturnal bird. Many people who are concern to conserve the kiwi predict that it may disappear completely in less than 10 years."
+      },
+      {
+        "label": null,
+        "content": "To avoid this, the government states that people cannot simply kill kiwis because they are on the endangered species list. New Zealanders want their kiwis to live. The kiwi is very special to the New Zealanders. It has become the country's national symbol as one can see a picture of a kiwi on New Zealand money. Apart from that, people from New Zealand are sometimes called kiwis."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Where does the kiwi live?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Australia"
+              },
+              {
+                "label": "B",
+                "text": "Thailand"
+              },
+              {
+                "label": "C",
+                "text": "New Zealand"
+              },
+              {
+                "label": "D",
+                "text": "Malaysia"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "How big is a kiwi?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "As big as a chicken."
+              },
+              {
+                "label": "B",
+                "text": "As big as a mouse."
+              },
+              {
+                "label": "C",
+                "text": "As big as an eagle"
+              },
+              {
+                "label": "D",
+                "text": "As big as a hamster"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "How many toes does it have all together?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Four toes"
+              },
+              {
+                "label": "B",
+                "text": "Six toes"
+              },
+              {
+                "label": "C",
+                "text": "Eight toes"
+              },
+              {
+                "label": "D",
+                "text": "Two toes"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "A kiwi sleeps...",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "at night."
+              },
+              {
+                "label": "B",
+                "text": "during the day."
+              },
+              {
+                "label": "C",
+                "text": "day and night."
+              },
+              {
+                "label": "D",
+                "text": "once in a fortnight"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "People cannot kill kiwis because...",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "they are on the endangered species list."
+              },
+              {
+                "label": "B",
+                "text": "they are unique and strange."
+              },
+              {
+                "label": "C",
+                "text": "they are the national symbol of the country."
+              },
+              {
+                "label": "D",
+                "text": "the government said so."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 5
+  },
+  "processed_at": "2026-02-25T21:38:48.391951"
+}

@@ -1,0 +1,221 @@
+{
+  "id": "ielts-r-0175",
+  "slug": "geoff-brash",
+  "title": "Geoff Brash",
+  "page_range": [
+    889,
+    893
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "(a) trade fair",
+    "2": "FALSE",
+    "9": "jazz",
+    "3": "TRUE",
+    "10": "1998",
+    "4": "TRUE",
+    "11": "education",
+    "5": "NOT GIVEN",
+    "12": "technology",
+    "6": "(a) share scheme",
+    "13": "branches",
+    "7": "Roland/ Roland group/ the Roland group"
+  },
+  "content": {
+    "title": "Geoff Brash: A Legacy of Business and Philanthropy",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Geoff Brash, who died in 2010, was a gregarious Australian businessman and philanthropist who encouraged the young to reach their potential. Born in Melbourne to Elsa and Alfred Brash, he was educated at Scotch College. His sister, Barbara, became a renowned artist and printmaker. His father, Alfred, ran the Brash retail music business that had been founded in 1862 by his grandfather, the German immigrant Marcus Brasch, specialising in pianos. It carried the slogan ‘A home is not a home without a piano.’"
+      },
+      {
+        "content": "In his young days, Brash enjoyed the good life, playing golf and sailing, and spending some months travelling through Europe, having a leisurely holiday. He worked for a time at Myer department stores before joining the family business in 1949, where he quickly began to put his stamp on things. In one of his first management decisions, he diverged from his father’s sense of frugal aesthetics by re-carpeting the old man’s office while he was away. After initially complaining of his extravagance, his father grew to accept the change and gave his son increasing responsibility in the business."
+      },
+      {
+        "content": "After World War II (1939-1945), Brash’s had begun to focus on white goods, such as washing machines and refrigerators, as the consumer boom took hold. However, while his father was content with the business he had built, the younger Brash viewed expansion as vital. When Geoff Brash took over as managing director in 1957, the company had two stores, but after floating it on the stock exchange the following year, he expanded rapidly and opened suburban stores, as well as buying into familiar music industry names such as Allans, Palings and Suttons. Eventually, 170 stores traded across the continent under the Brash’s banner."
+      },
+      {
+        "content": "Geoff Brash learned from his father’s focus on customer service. Alfred Brash had also been a pioneer in introducing a share scheme for his staff, and his son retained and expanded the plan following the float."
+      },
+      {
+        "content": "Geoff Brash was optimistic and outward looking. As a result, he was a pioneer in both accessing and selling new technology, and developing overseas relationships. He sourced and sold electric guitars, organs, and a range of other modern instruments, as well as state-of-the-art audio and video equipment. He developed a relationship with Taro Kakehashi, the founder of Japan’s Roland group, which led to a joint venture that brought electronic musical devices to Australia."
+      },
+      {
+        "content": "In 1965, Brash and his wife attended a trade fair in Guangzhou, the first of its kind in China; they were one of the first Western business people allowed into the country following Mao Zedong’s Cultural Revolution. He returned there many times, helping advise the Chinese in establishing a high quality piano factory in Beijing; he became the factory’s agent in Australia. Brash also took leading jazz musicians Don Burrows and James Morrison to China, on a trip that reintroduced jazz to many Chinese musicians."
+      },
+      {
+        "content": "He stood down as Executive Chairman of Brash’s in 1988, but under the new management debt became a problem, and in 1994 the banks called in administrators. The company was sold to Singaporean interests and continued to trade until 1998, when it again went into administration. The Brash name then disappeared from the retail world. Brash was greatly disappointed by the collapse and the eventual disappearance of the company he had run for so long. But it was not long before he invested in a restructured Allan’s music business."
+      },
+      {
+        "content": "Brash was a committed philanthropist who, in the mid-1980s, established the Brash Foundation, which eventually morphed, with other partners, into the Soundhouse Music Alliance. This was a not-for-profit organisation overseeing and promoting multimedia music making and education for teachers and students. The Soundhouse offers teachers and young people the opportunity to get exposure to the latest music technology, and to use this to compose and record their own music, either alone or in collaboration. The organisation has now also established branches in New Zealand, South Africa and Ireland, as well as numerous sites around Australia."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The Brash business originally sold pianos.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Geoff Brash’s first job was with his grandfather’s company.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Alfred Brash thought that his son wasted money.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "By the time Geoff Brash took control, the Brash business was selling some electrical products.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Geoff Brash had ambitions to open Brash stores in other countries.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Which arrangement did Alfred Brash set up for his employees?",
+            "answer": "(a) share scheme",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Which Japanese company did Geoff Brash collaborate with?",
+            "answer": "Roland/ Roland group/ the Roland group",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "What type of event in China marked the beginning of Geoff Brash’s relationship with that country?",
+            "answer": "(a) trade fair",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "What style of music did Geoff Brash help to promote in China?",
+            "answer": "jazz",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "When did the Brash company finally stop doing business?",
+            "answer": "1998",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Soundhouse Music Alliance - Grew out of the Brash Foundation. - A non-commercial organisation providing support for music and music",
+            "answer": "education",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "- Allows opportunities for using up-to-date",
+            "answer": "technology",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "- Has",
+            "answer": "branches",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:06:42.875715"
+}

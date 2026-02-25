@@ -1,0 +1,292 @@
+{
+  "id": "ielts-r-0134",
+  "slug": "dinosaurs-and-the-secrets-they-still-hold",
+  "title": "Dinosaurs and the secrets they still hold",
+  "page_range": [
+    685,
+    689
+  ],
+  "raw_answer_key": {
+    "1": "sheep",
+    "8": "C",
+    "2": "shellfish",
+    "9": "A",
+    "3": "beak",
+    "10": "D",
+    "4": "rock",
+    "11": "D",
+    "5": "school",
+    "12": "D",
+    "6": "D",
+    "13": "C",
+    "7": "B"
+  },
+  "content": {
+    "title": "Dinosaurs and the secrets they still hold",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Dinosaur expert Dr Steve Brusatte continues to investigate the mysteries surrounding these fascinating prehistoric creatures. I was recently part of a team of palaeontologists that discovered a new dinosaur. Living in what is now China, the species would have resembled a strange bird. It was about the size of a sheep and covered in feathers, with a sharp beak that it probably used to crack open shellfish. It was given the formal scientific name Tongtianlong, but we called it ‘Mud Dragon’ because its skeleton was discovered in rock that had hardened from ancient mud. It seems that the creature got trapped in the mud and died. Then its fossil remains were found a few months ago when workmen were excavating a site in order to build a school. It is every dinosaur-obsessed child’s dearest wish to discover and name a completely new species. In fact what my colleagues and I did wasn’t that unusual. New dinosaurs are appearing everywhere these days – about 50 each year. And this pace shows no signs of slowing, as different areas continue to open up to fossil hunters and a fresh generation of scientists comes of age. Because of this plentiful supply of new fossils, we now know more about dinosaurs than we do about many modern animals. But there are still many unsolved mysteries."
+      },
+      {
+        "label": null,
+        "content": "Dinosaurs didn’t start out as huge predators like Tyrannosaurus Rex. Instead they evolved from a group of angular, cat-sized reptiles called dinosauromorphs. These creatures remained small and rare for millions of years until they developed into dinosaurs. The boundary between dinosauromorphs and dinosaurs is becoming less and less distinct with each new discovery that’s made, but what’s becoming clear is that it took millions of years for these first dinosaurs to spread around the world, grow to huge sizes and become truly dominant."
+      },
+      {
+        "label": null,
+        "content": "Some discoveries in the 1970s, like the agile and strangely bird-like Deinonychus, proved that dinosaurs were far more dynamic and intelligent than previously thought. Some palaeontologists even proposed that they were warm-blooded creatures like modern birds with a constant high body temperature that they controlled internally, rather than from warming themselves by lying in the sun. A few decades later opinions are still mixed. The problem is that dinosaurs can’t be observed. Palaeontologists must rely on studying fossils. Some results are convincing: we know from studying their bones that dinosaurs had rapid growth rates, just like modern, warm-blooded animals. Other palaeontologists, however, use the same fossils to suggest that dinosaurs were somewhere between cold-blooded reptiles and warm-blooded birds. More studies are needed to provide more clarity."
+      },
+      {
+        "label": null,
+        "content": "The discovery of Deinonychus with its long arms, skinny legs, arched neck and big claws on its feet, helped to strengthen the theory that birds evolved from dinosaurs. In the late 1990s, the discovery of thousands of feather-covered dinosaurs closed the argument. But the fossils raised another question: why did feathers first develop in dinosaurs? They probably originated as simple, hair-like strands — a necessary means of keeping warm. Many dinosaurs retained this basic fluffy coat, but in one group the strands modified. They grew bigger, started to branch out and changed into feathers like those on modern birds. They lined the arms, and sometimes the legs, forming wings. These feathers were probably for display: to attract mates or scare off rivals. They appeared in species such as the ostrich-like Ornithomimosaur. Such creatures were too large to fly. Flight may actually have come about by accident when smaller winged dinosaurs began jumping between trees or leaping in the air, and suddenly found that their wings had aerodynamic properties. This is one of the most stimulating new notions about dinosaurs and a fascinating area for further investigation."
+      },
+      {
+        "label": null,
+        "content": "There’s something else that these feathers can tell us. They allow us to determine what colour dinosaurs were. If you look at modern bird feathers under a microscope, you can see tiny blobs called melanosomes. These structures contain melanin, one of the main colour-producing pigments in animals. Some are round, others are egg-shaped, etc. And that’s important, because different shapes contain different colour pigments. So if you can identify the shape, you can identify the colour. A few years ago, some palaeontologists realised that you could find melanosomes in particularly well-preserved fossil feathers. They discovered that different dinosaurs had different melanosomes, which meant they had a variety of colours. Dinosaurs, therefore, probably came in a rainbow of colours – yet another thing that links them to modern birds."
+      },
+      {
+        "label": null,
+        "content": "The most enduring mystery of all, which has been argued about ever since the first dinosaur fossils were found, is ‘Why aren’t dinosaurs around today?’ Of course, we now know that birds evolved from dinosaurs, so some dinosaurs do continue in a sense. But there’s nothing like a Tyrannosaurus Rex today. They dominated the planet for over 150 million years, but suddenly disappeared from the fossil record 66 million years ago. That’s when a 10 km-wide asteroid came out of space and struck what is now Mexico, impacting with huge force and unleashing earthquakes, tidal waves, wildfires and hurricane-force winds. Although palaeontologists still like to argue about what part the asteroid played in the dinosaurs’ extinction, there really isn’t much of a mystery left. The asteroid did it and did it quickly. There are few signs that dinosaurs were struggling before the impact. None survived except a few birds and some small furry mammals. They found themselves in an empty world, and as the planet started to recover, they evolved into new creatures, including the first apes, and so the long journey began to the beginning of humankind."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose ONE WORD ONLY from the text for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "This species of dinosaur has only recently been found in an area of China. Scientists believe that it was bird-like in appearance and probably no bigger than a __________.",
+            "answer": "sheep",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "It is thought to have eaten __________.",
+            "answer": "shellfish",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "It used its __________ to get through their hard exterior.",
+            "answer": "beak",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The fossil of Tongtianlong was found surrounded by __________ under the ground.",
+            "answer": "rock",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The fossil was found where the foundations of a new __________ were being dug.",
+            "answer": "school",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "What does the writer suggest about finding new dinosaurs?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Many scientists dream of being able to do so one day."
+              },
+              {
+                "label": "B",
+                "text": "It is probable that most have now been discovered."
+              },
+              {
+                "label": "C",
+                "text": "People are running out of places to look for them."
+              },
+              {
+                "label": "D",
+                "text": "It is becoming relatively common to dig one up."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "In the fourth paragraph, what does the writer suggest about palaeontologists?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "They should study the fossilised bones of dinosaurs more closely."
+              },
+              {
+                "label": "B",
+                "text": "Their theories are based on evidence that can be interpreted in different ways."
+              },
+              {
+                "label": "C",
+                "text": "It is impossible to have any confidence in the proposals they have made."
+              },
+              {
+                "label": "D",
+                "text": "It is worrying that they still cannot agree about dinosaurs’ body temperature."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "When describing the theory of how dinosaurs began to fly, the writer is",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "amused that their flight probably came about by chance."
+              },
+              {
+                "label": "B",
+                "text": "surprised by the reason for the initial development of feathers."
+              },
+              {
+                "label": "C",
+                "text": "excited by the different possibilities it holds for future research."
+              },
+              {
+                "label": "D",
+                "text": "confused that feathers were also present on some creatures’ legs."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "One significance of melanosomes is that they",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "provide further evidence of where birds evolved from."
+              },
+              {
+                "label": "B",
+                "text": "are only found in certain parts of the world."
+              },
+              {
+                "label": "C",
+                "text": "can be clearly seen in most fossilised feathers."
+              },
+              {
+                "label": "D",
+                "text": "are only found in certain birds and dinosaurs."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Which of the following best summarises the writer’s point in the final paragraph?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Scientists are right to continue questioning the effects of the asteroid strike."
+              },
+              {
+                "label": "B",
+                "text": "Large flightless dinosaurs may have existed after the asteroid hit."
+              },
+              {
+                "label": "C",
+                "text": "The dinosaurs were already declining before the asteroid hit."
+              },
+              {
+                "label": "D",
+                "text": "The effects of the asteroid strike killed most dinosaurs."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following statements (Questions 11-13) and the list of prehistoric animals below. Match each statement with the correct animal, A, B, C or D.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "It may have used its feathers to frighten off members of the same species.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Tongtianlong"
+              },
+              {
+                "label": "B",
+                "text": "Tyrannosaurus Rex"
+              },
+              {
+                "label": "C",
+                "text": "Deinonychus"
+              },
+              {
+                "label": "D",
+                "text": "Ornithomimosaur"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "This species resembles a large flightless bird that exists today.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Tongtianlong"
+              },
+              {
+                "label": "B",
+                "text": "Tyrannosaurus Rex"
+              },
+              {
+                "label": "C",
+                "text": "Deinonychus"
+              },
+              {
+                "label": "D",
+                "text": "Ornithomimosaur"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Finding this species made scientists revise their opinion of the brain power of dinosaurs.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Tongtianlong"
+              },
+              {
+                "label": "B",
+                "text": "Tyrannosaurus Rex"
+              },
+              {
+                "label": "C",
+                "text": "Deinonychus"
+              },
+              {
+                "label": "D",
+                "text": "Ornithomimosaur"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:55:02.857355"
+}

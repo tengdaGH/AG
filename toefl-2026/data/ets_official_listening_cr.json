@@ -1,0 +1,3765 @@
+{
+  "meta": {},
+  "items": [
+    {
+      "id": "ETS-S1-L-M1-CR-1",
+      "text": {
+        "text": "1. Woman: Didn’t I just see you in the library an hour ago?",
+        "options": [
+          "As a matter of fact, I was returning a book.",
+          "Yes, you can find it in the reference section.",
+          "I don’t think I’ll have enough time to do that.",
+          "Actually, I think I can get there a little earlier."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-CR-2",
+      "text": {
+        "text": "2. Man: Where is the nearest bus stop?",
+        "options": [
+          "I nearly missed the bus.",
+          "Every 30 minutes.",
+          "I can help you find it.",
+          "I'll take the subway instead."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-CR-3",
+      "text": {
+        "text": "3. Woman: How do I contact customer service?",
+        "options": [
+          "Yes, you're allowed to do that.",
+          "Use the convenient chat feature.",
+          "No, I don't mind.",
+          "They provide good service."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-CR-4",
+      "text": {
+        "text": "4. Woman: I'm afraid I'm not available this evening.",
+        "options": [
+          "Oh, that's too early.",
+          "How about tomorrow night then?",
+          "She arrived this afternoon.",
+          "No, that's not necessary."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-CR-5",
+      "text": {
+        "text": "5. Man: Isn't the post office open today?",
+        "options": [
+          "No, it's my package.",
+          "It's just around the corner!",
+          "I think he's come home already.",
+          "Let's check the schedule online."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-CR-6",
+      "text": {
+        "text": "6. Woman: If you need me, just text.",
+        "options": [
+          "I can help you with that.",
+          "You don't need any more information.",
+          "You have a lot of questions, don't you?",
+          "You haven't given me your number yet."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-CR-7",
+      "text": {
+        "text": "7. Woman: So the store is open for business all weekend?",
+        "options": [
+          "Yes, there is a major power outage.",
+          "Yes, it's under renovation.",
+          "Yes, it's closed all day on Sunday.",
+          "Yes, they're having a huge sale."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-CR-8",
+      "text": {
+        "text": "8. Man: Did you attend the seminar?",
+        "options": [
+          "I overslept.",
+          "No, not very well.",
+          "Have you asked your professor?",
+          "I forgot to look."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-CR-1",
+      "text": {
+        "text": "1. Woman: Who is the new manager?",
+        "options": [
+          "She started last week.",
+          "I’m unsure, but I can find out.",
+          "Let's welcome the new manager.",
+          "The position has been filled."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-CR-2",
+      "text": {
+        "text": "2. Man: When is the due date for the report?",
+        "options": [
+          "Please wait while I look that up.",
+          "Give me some dates.",
+          "No, I have another due date.",
+          "Yes, that's correct."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-CR-3",
+      "text": {
+        "text": "3. Man: I’m going to get some groceries.",
+        "options": [
+          "Every Wednesday.",
+          "In aisle 4.",
+          "The cinema is not open today.",
+          "Let’s go together."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-CR-4",
+      "text": {
+        "text": "4. Woman: Would you like a copy of my notes?",
+        "options": [
+          "The research facility.",
+          "That would be great.",
+          "The break is in an hour.",
+          "Two bullet points."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-CR-5",
+      "text": {
+        "text": "5. Man: Sami and Layla are on their way to the café.",
+        "options": [
+          "Should we join them?",
+          "Did you like the concert?",
+          "Yesterday evening.",
+          "The best coffee."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-CR-6",
+      "text": {
+        "text": "6. Woman: I'd like to hear your thoughts on the job candidates.",
+        "options": [
+          "I'm revising my résumé.",
+          "I’ll set up a meeting for us to talk.",
+          "She just got a promotion.",
+          "Yes, the training is complete."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-CR-7",
+      "text": {
+        "text": "7. Woman: How much does expedited shipping cost?",
+        "options": [
+          "It's one of many.",
+          "Twice last week.",
+          "We don't offer that.",
+          "I'd like the bill, please."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-CR-8",
+      "text": {
+        "text": "8. Man: If you need more information, contact Ms. Lee.",
+        "options": [
+          "I can help with that.",
+          "What is her role in the company?",
+          "You ask a lot of questions.",
+          "And whom should I contact?"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-CR-1",
+      "text": {
+        "text": "1. Man: How can I get this light to work?",
+        "options": [
+          "The lighter one is over there.",
+          "There's a switch on the back wall.",
+          "The side door is open.",
+          "I prefer to work at home."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-CR-2",
+      "text": {
+        "text": "2. Woman: I'm not available tomorrow.",
+        "options": [
+          "Let's try to get there early.",
+          "What's a better day for you?",
+          "It's not on my schedule either.",
+          "I was in a meeting last night."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-CR-3",
+      "text": {
+        "text": "3. Man: The campus talent contest will be held next Saturday evening.",
+        "options": [
+          "I can hold that for you.",
+          "Stage lighting is usually very hot.",
+          "My roommate is a talented basketball player.",
+          "Do you know who the judges will be?"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-CR-4",
+      "text": {
+        "text": "4. Man: What time do I need to pick up Michael from the train station?",
+        "options": [
+          "Don't worry about it--I'll get him.",
+          "He said he prefers the window seat.",
+          "The station now has a snack shop.",
+          "There's road construction near the entrance."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-CR-5",
+      "text": {
+        "text": "5. Woman: Isn't the grocery store open late tonight?",
+        "options": [
+          "Yes, it is.",
+          "No, shopping takes time.",
+          "It's next to the store.",
+          "I'd rather not."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-CR-6",
+      "text": {
+        "text": "6. Woman: Did you bring the identification documents?",
+        "options": [
+          "They are in the blue folder.",
+          "Who can identify them?",
+          "Both can be done.",
+          "Yes, I would."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-CR-7",
+      "text": {
+        "text": "7. Man: Wait, isn't the concert tomorrow night?",
+        "options": [
+          "No, it's tonight.",
+          "No, I can't wait.",
+          "Yes, I would.",
+          "Yes, that's fine."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-CR-8",
+      "text": {
+        "text": "8. Woman: I'm not available this afternoon.",
+        "options": [
+          "So am I.",
+          "It takes a while.",
+          "I didn't mean it.",
+          "Well, I understand."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-CR-1",
+      "text": {
+        "text": "1. Woman: Who is responsible for the project timeline?",
+        "options": [
+          "I do.",
+          "I'm not sure.",
+          "A few unexpected delays.",
+          "It stays on track."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-CR-2",
+      "text": {
+        "text": "2. Woman: Why did the team meeting get canceled?",
+        "options": [
+          "Two days ago.",
+          "Meeting attendees.",
+          "Actually, it was rescheduled.",
+          "How about another time?"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-CR-3",
+      "text": {
+        "text": "3. Man: Can you assist me with my science report?",
+        "options": [
+          "Let me know what you think.",
+          "You're very kind.",
+          "What exactly do you need help with?",
+          "It doesn't matter."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-CR-4",
+      "text": {
+        "text": "4. Man: I'm not sure about the current plan.",
+        "options": [
+          "That's unfortunate.",
+          "Sure, I can.",
+          "I think you have it.",
+          "No, it's planned."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-CR-5",
+      "text": {
+        "text": "5. Man: If you need help, ask Ms. Johnson.",
+        "options": [
+          "Either is fine by me.",
+          "Happy to help.",
+          "That's what I'll do.",
+          "I'm available."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-CR-6",
+      "text": {
+        "text": "6. Woman: What time does the event start?",
+        "options": [
+          "In the party room.",
+          "At 1 p.m.",
+          "It's crowded.",
+          "Event coordinators."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-CR-7",
+      "text": {
+        "text": "7. Man: Who is hosting the party tonight?",
+        "options": [
+          "The marketing team is.",
+          "It's tonight.",
+          "I can't help it.",
+          "It's good for two days."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-CR-8",
+      "text": {
+        "text": "8. Man: Let's go hiking this weekend.",
+        "options": [
+          "Maybe it is.",
+          "Why not this weekend instead?",
+          "Have you checked the weather?",
+          "Are you busy?"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-CR-1",
+      "text": {
+        "text": "1. Man: Does the building have a parking garage?",
+        "options": [
+          "No, I haven't received it yet.",
+          "Yes, it’s just around the corner.",
+          "Let's walk to the park.",
+          "Several times a month."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-CR-2",
+      "text": {
+        "text": "2. Woman: Didn't you book a trip to Australia?",
+        "options": [
+          "No, the airport is on the right.",
+          "Yes, I loved that book!",
+          "I'd be happy to sell tickets for the fundraiser.",
+          "I'm going to New Zealand instead."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-CR-3",
+      "text": {
+        "text": "3. Woman: Who's conducting the safety training?",
+        "options": [
+          "Elizabeth would be the person to ask.",
+          "We'll be gathering in the main conference room.",
+          "Did Robert place the food order?",
+          "The train station closes at midnight."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-CR-4",
+      "text": {
+        "text": "4. Man: Can I purchase this shirt in a different size?",
+        "options": [
+          "Are you looking for the same color?",
+          "Yes, we stock a variety of styles of pants.",
+          "All of our stores are open on Sundays.",
+          "The store will be remodeled this summer."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-CR-5",
+      "text": {
+        "text": "5. Man: Why did Sharon relocate to Belfast?",
+        "options": [
+          "The suitcases can be stored overhead.",
+          "Because I have a doctor's appointment.",
+          "I know you have some vacation time coming up.",
+          "She was offered a new role."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-CR-6",
+      "text": {
+        "text": "6. Woman: How much do these watches cost?",
+        "options": [
+          "Did you watch the game yesterday?",
+          "They start at a hundred dollars.",
+          "These models feature a new display.",
+          "The admission fee has gone up by twenty dollars."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-CR-7",
+      "text": {
+        "text": "7. Woman: Where can I buy a charger for my phone?",
+        "options": [
+          "Battery recycling is available on Saturdays.",
+          "The cost of those phones just went up.",
+          "There's a shopping center a few minutes from here.",
+          "The cashier charged me too much."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-CR-8",
+      "text": {
+        "text": "8. Man: What streaming services do you like to watch shows on?",
+        "options": [
+          "I don't have a cleaning service.",
+          "I'm too busy to watch anything right now.",
+          "The stream runs behind the house.",
+          "The magazine subscription is expensive."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-CR-1",
+      "text": {
+        "text": "1. Man: Don't you have class right now?",
+        "options": [
+          "My professor is out this week.",
+          "The syllabus was just posted.",
+          "Yes, it's in my backpack.",
+          "I don't think I received one."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-CR-2",
+      "text": {
+        "text": "2. Woman: Have you met our new neighbor?",
+        "options": [
+          "It's a quiet neighborhood.",
+          "I haven’t yet.",
+          "Yes, I'll drop it off tomorrow.",
+          "Not usually at this time of day."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-CR-3",
+      "text": {
+        "text": "3. Woman: Why does my computer keep shutting down?",
+        "options": [
+          "Sure, you can borrow my charging cord.",
+          "The door should remain shut and locked.",
+          "Because the schedule was changed at the last minute.",
+          "Sounds like it needs to be repaired."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-CR-4",
+      "text": {
+        "text": "4. Man: Why didn't Andy come to the business dinner?",
+        "options": [
+          "I just met his assistant.",
+          "The cafeteria closes at 2 o'clock.",
+          "He’s working late tonight.",
+          "Because I lost mine."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-CR-5",
+      "text": {
+        "text": "5. Man: Should we repaint the classrooms in that building?",
+        "options": [
+          "They usually study together.",
+          "The library is past the cafeteria.",
+          "I think it’s time to do it.",
+          "Some new classroom equipment."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-CR-6",
+      "text": {
+        "text": "6. Woman: Would you mind making copies of the syllabus for me?",
+        "options": [
+          "I'll put them on your desk.",
+          "Yes, I'll pass along the message.",
+          "I like that new coffee maker.",
+          "No, the other textbook."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-CR-7",
+      "text": {
+        "text": "7. Woman: You managed to get to the concert, didn't you?",
+        "options": [
+          "I was able to make it to the trade show.",
+          "I do not play any instruments.",
+          "My manager agreed to the new schedule.",
+          "It was a very long drive."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-CR-8",
+      "text": {
+        "text": "8. Man: Does the restaurant use organic vegetables?",
+        "options": [
+          "The menu features two fish entrées.",
+          "It depends on the season.",
+          "The cost of broccoli has increased.",
+          "Yes, the natural lighting is lovely."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-CR-1",
+      "text": {
+        "text": "1. Woman: Who's attending the trade show in Dubai?",
+        "options": [
+          "I'm going to the concert with friends.",
+          "Sheila and I traded work shifts yesterday.",
+          "Only the managers are going.",
+          "The location is the same as last year."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-CR-2",
+      "text": {
+        "text": "2. Man: Don't we need to finish the sales report tomorrow?",
+        "options": [
+          "I took vacation time last week.",
+          "Which supervisor does Jack report to?",
+          "Yes, the annual sale begins tomorrow.",
+          "The deadline isn’t until next week."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-CR-3",
+      "text": {
+        "text": "3. Woman: When will the house be put up for sale?",
+        "options": [
+          "Tomorrow morning.",
+          "Every Tuesday.",
+          "It arrived yesterday at 5 o'clock.",
+          "She put it up on the shelf."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-CR-4",
+      "text": {
+        "text": "4. Man: The online store offers multiple delivery options, doesn't it?",
+        "options": [
+          "I've shopped there many times.",
+          "There is only one free option.",
+          "Warehouse space is limited.",
+          "Inventory is taken every Friday."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-CR-5",
+      "text": {
+        "text": "5. Man: When is the budget meeting?",
+        "options": [
+          "He will meet her today.",
+          "We've exceeded the budget.",
+          "In about an hour.",
+          "On the fourth floor."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-CR-6",
+      "text": {
+        "text": "6. Woman: How long before the furniture arrives?",
+        "options": [
+          "The couch is so comfortable.",
+          "The movers were delayed.",
+          "The desk is 1.5 meters long.",
+          "We're remodeling the kitchen."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-CR-7",
+      "text": {
+        "text": "7. Man: Where can I go for a quick lunch?",
+        "options": [
+          "We had eggs for breakfast.",
+          "Not more than twenty minutes",
+          "I love to cook too.",
+          "Anne's on Fourth Street is good."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-CR-8",
+      "text": {
+        "text": "8. Woman: Where is the fashion show next week?",
+        "options": [
+          "No, the week after!",
+          "Formal wear is expected.",
+          "At the new convention center downtown.",
+          "That play has gotten good reviews."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-CR-1",
+      "text": {
+        "text": "1. Man: Who should present at the research seminar?",
+        "options": [
+          "Other research.",
+          "Dr. Wang can.",
+          "At Jenna's house.",
+          "On Thursday."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-CR-2",
+      "text": {
+        "text": "2. Woman: Where's the nearest movie theater?",
+        "options": [
+          "An afternoon showing.",
+          "Five large screens.",
+          "I'm not available.",
+          "I'm not familiar with this area."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-CR-3",
+      "text": {
+        "text": "3. Man: Tom told me he likes playing chess.",
+        "options": [
+          "I’ve never seen him play before.",
+          "I just took my turn.",
+          "Some pieces are missing.",
+          "That's tomorrow."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-CR-4",
+      "text": {
+        "text": "4. Woman: Would you like to join us for a coffee break?",
+        "options": [
+          "Two sugars, please.",
+          "On the left.",
+          "Sure, that’s great.",
+          "I lost mine."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-CR-5",
+      "text": {
+        "text": "5. Man: Would you rather watch TV or read a book?",
+        "options": [
+          "I lost my bookmark.",
+          "At 3 o'clock.",
+          "I prefer watching shows.",
+          "Over on the bookshelf."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-CR-6",
+      "text": {
+        "text": "6. Woman: Where can I find more printer paper?",
+        "options": [
+          "There's some in the cabinet.",
+          "The technician called.",
+          "First thing in the morning.",
+          "I finished reading the paper."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-CR-7",
+      "text": {
+        "text": "7. Man: Can I call you if I have questions about tomorrow's delivery?",
+        "options": [
+          "Yesterday morning.",
+          "I forget what it's called.",
+          "In the copy room.",
+          "It's better if you text."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-CR-8",
+      "text": {
+        "text": "8. Woman: I can't figure out how to fix my bicycle.",
+        "options": [
+          "A broken chain.",
+          "Every day.",
+          "Ask Kenny.",
+          "The new trail."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-CR-1",
+      "text": {
+        "text": "1.  Man: Who can fix the printer?",
+        "options": [
+          "Mike can.",
+          "Sarah said so.",
+          "At the library.",
+          "Each weekend."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-CR-2",
+      "text": {
+        "text": "2.  Woman: Please update the expense report.",
+        "options": [
+          "I hope so.",
+          "Yesterday, I think.",
+          "Straight ahead, then left.",
+          "I'll get to it."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-CR-3",
+      "text": {
+        "text": "3.  Man: Would you mind turning down the music?",
+        "options": [
+          "Sure, I'll do it.",
+          "I just found mine.",
+          "I put it on the shelf.",
+          "The concert is on Friday."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-CR-4",
+      "text": {
+        "text": "4.  Man: It's quite hot, isn't it?",
+        "options": [
+          "Over the weekend, I think.",
+          "It should cool down tomorrow.",
+          "The movie is at 5 p.m.",
+          "Sure, it's at the bakery."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-CR-5",
+      "text": {
+        "text": "5.  Woman: Why did you leave early?",
+        "options": [
+          "I think that it could be nice.",
+          "Yes, the trees are beautiful.",
+          "I was feeling unwell.",
+          "At some point in the evening."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-CR-6",
+      "text": {
+        "text": "6.  Man: When is the next train to Paris?",
+        "options": [
+          "At the main station downtown.",
+          "Probably with breakfast.",
+          "In the evening.",
+          "Yesterday morning."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-CR-7",
+      "text": {
+        "text": "7.  Man:  Would you prefer to fly to the conference or take the train?",
+        "options": [
+          "Both locations have closed.",
+          "The new one should be better.",
+          "Which is less expensive?",
+          "How many are there?\nListening Section, Module 1"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-CR-8",
+      "text": {
+        "text": "8.  Man: Are you planning to attend the dance performance?",
+        "options": [
+          "They had two rehearsals.",
+          "Maybe once in a while.",
+          "I wouldn't want to miss it.",
+          "Modern choreography."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-CR-1",
+      "text": {
+        "text": "1. Woman: Which bus goes to the airport?",
+        "options": [
+          "Bus number 30.",
+          "Jake might do it.",
+          "The flight is quite long.",
+          "A 25-minute drive."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-CR-2",
+      "text": {
+        "text": "2. Woman: Why is the gym closed?",
+        "options": [
+          "Yesterday's storm caused damage.",
+          "Be sure to shut down the equipment.",
+          "A new workout routine.",
+          "Because he has two already."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-CR-3",
+      "text": {
+        "text": "3. Man: Could you proofread this document?",
+        "options": [
+          "I should have time tomorrow.",
+          "Every weekend over the past few months.",
+          "Yes, last week at the library.",
+          "It's downtown, I think."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-CR-4",
+      "text": {
+        "text": "4. Man: Do you mind if I take the aisle seat?",
+        "options": [
+          "Everyone is seated.",
+          "Not for me, thank you.",
+          "Only single seats.",
+          "Not at all."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-CR-5",
+      "text": {
+        "text": "5. Woman: Did you repair your bicycle yourself?",
+        "options": [
+          "That brand has a good reputation.",
+          "I took it to a professional.",
+          "No, it's not far from here.",
+          "Sure, I'll take a look at it."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-CR-6",
+      "text": {
+        "text": "6. Woman: This café just opened for business, didn't it?",
+        "options": [
+          "Sure, right away.",
+          "On the right.",
+          "Every evening.",
+          "Only last week."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-CR-7",
+      "text": {
+        "text": "7. Man: How do you feel about the new marketing strategy?",
+        "options": [
+          "I remember it well.",
+          "I'm still thinking about it.",
+          "I don't know if I can attend.",
+          "I'd like to visit them.\nListening Section, Module 2"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-CR-8",
+      "text": {
+        "text": "8. Woman: Do we need to postpone the software training session?",
+        "options": [
+          "A compatibility issue.",
+          "It's already been rescheduled.",
+          "The newest version.",
+          "Thank you for letting me know."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-CR-1",
+      "text": {
+        "text": "1.  Man: Is the library open now?",
+        "options": [
+          "Yes, until nine p.m.",
+          "Maybe last week.",
+          "Every book.",
+          "No, dinner is at eight p.m."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-CR-2",
+      "text": {
+        "text": "2.  Woman: Could you help me organize these files?",
+        "options": [
+          "Sure, I can.",
+          "The calendar is current.",
+          "Yes, on the left.",
+          "The kitchen is large."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-CR-3",
+      "text": {
+        "text": "3.  Man:  It looks like you didn't finish the slides for the presentation.",
+        "options": [
+          "Yes, I agree with the manager.",
+          "The concert was fantastic.",
+          "Sorry—I forgot.",
+          "Yes, I'll leave tomorrow evening."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-CR-4",
+      "text": {
+        "text": "4.  Woman: It's quite warm, isn't it?",
+        "options": [
+          "I haven't had a chance to check the schedule.",
+          "It's not in the budget for this year.",
+          "The hallway lights are out again.",
+          "Especially for this time of year."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-CR-5",
+      "text": {
+        "text": "5.  Man: Will you be able to meet the deadline for your research paper?",
+        "options": [
+          "Sure, I'll call them tomorrow.",
+          "Sorry to hear that.",
+          "I'm on track to finish on  time.",
+          "Not such a good idea."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-CR-6",
+      "text": {
+        "text": "6.  Woman: When is your job interview?",
+        "options": [
+          "It will be in the conference room.",
+          "It's been rescheduled to Monday morning.",
+          "I'll do that next time.",
+          "We went out for lunch afterward."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-CR-7",
+      "text": {
+        "text": "7.  Man: I'm having trouble resetting my password.",
+        "options": [
+          "Let me find the instructions for you.",
+          "I can't attend tonight.",
+          "I don't know how many.",
+          "Set the documents on the table.\nListening Section, Module 1"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-CR-8",
+      "text": {
+        "text": "8.  Woman: I can't find the invoice for last month's catering order.",
+        "options": [
+          "Did you check the file folder?",
+          "Two copies of the billing statement.",
+          "Didn't they offer to write a review?",
+          "A month from now."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-CR-1",
+      "text": {
+        "text": "1. Man: Would you mind closing the window?",
+        "options": [
+          "Sure, I'll call tomorrow.",
+          "Check under the table.",
+          "No problem.",
+          "Closed on Mondays."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-CR-2",
+      "text": {
+        "text": "2. Woman: The seminar meets at eight thirty a.m. on Wednesdays.",
+        "options": [
+          "Nearly 90 minutes.",
+          "Thank you for reminding me.",
+          "The bookstore opens at noon on Sundays.",
+          "About 200 faculty members."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-CR-3",
+      "text": {
+        "text": "3. Man: Have you created the syllabus for the art history course?",
+        "options": [
+          "Sure, I'll check them.",
+          "No, the artwork is being shipped.",
+          "I'll have time tomorrow morning.",
+          "The professor called me back."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-CR-4",
+      "text": {
+        "text": "4. Woman: Where can I find the cafeteria?",
+        "options": [
+          "On the ground floor.",
+          "A bigger lobby.",
+          "Usually at eleven thirty a.m.",
+          "Good meal selections."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-CR-5",
+      "text": {
+        "text": "5. Man: Who will summarize our team's research findings",
+        "options": [
+          "Jacob already found his.",
+          "No more than 1,000 words.",
+          "Emily would do a great job.",
+          "Different lab equipment."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-CR-6",
+      "text": {
+        "text": "6. Woman: How do you use this software?",
+        "options": [
+          "Follow the tutorial.",
+          "Purchase a computer.",
+          "A soft touch is needed.",
+          "Thursday afternoons."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-CR-7",
+      "text": {
+        "text": "7. Man: Is the café open now?",
+        "options": [
+          "Around back.",
+          "Coffee and tea.",
+          "It’s closed.",
+          "She is available.\nListening Section, Module 2"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-CR-8",
+      "text": {
+        "text": "8. Man: Let's schedule an extra study-group meeting.",
+        "options": [
+          "Doesn't the librarian know?",
+          "Longer than expected.",
+          "I ordered a subscription yesterday.",
+          "For Thursday evening?"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-CR-1",
+      "text": {
+        "text": "1.  Woman: Is the gym open right now?",
+        "options": [
+          "I think so.",
+          "He is tired.",
+          "Yesterday evening.",
+          "Last time."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-CR-2",
+      "text": {
+        "text": "2.  Woman: Could you help me review this report?",
+        "options": [
+          "It's on the table.",
+          "Not right now.",
+          "Yes, last Monday.",
+          "Sure, let's have some."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-CR-3",
+      "text": {
+        "text": "3.  Man: Could you please forward me the e-mail?",
+        "options": [
+          "Yes, in the computer.",
+          "I had the same complaint.",
+          "It's facing forward.",
+          "I'll send it immediately."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-CR-4",
+      "text": {
+        "text": "4.  Man: It's quite chilly outside, isn't it?",
+        "options": [
+          "Last night, I think.",
+          "Perhaps soon.",
+          "The soup is great.",
+          "Not really."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-CR-5",
+      "text": {
+        "text": "5.  Woman: Did you finalize the proposal?",
+        "options": [
+          "Sure, I'm free.",
+          "That's a good choice.",
+          "Sorry—I forgot.",
+          "We saved you a seat."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-CR-6",
+      "text": {
+        "text": "6.  Man: Is the meeting at ten a.m.?",
+        "options": [
+          "This evening is fine.",
+          "Sure, let's talk soon.",
+          "No, in the conference room.",
+          "I believe it was cancelled."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-CR-7",
+      "text": {
+        "text": "7.  Man: Where is the nearest pharmacy?",
+        "options": [
+          "They are open late.",
+          "The shipment arrived this morning.",
+          "There's one inside the supermarket.",
+          "I had a good experience there.\nListening Section, Module 1"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-CR-8",
+      "text": {
+        "text": "8.  Man: Which room is the meeting in?",
+        "options": [
+          "The same one as last week.",
+          "A lot of people can't make it.",
+          "Right after lunch.",
+          "There wasn't enough room for everyone last time."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-CR-1",
+      "text": {
+        "text": "1. Woman: How do you turn on the projector?",
+        "options": [
+          "The images are a little fuzzy.",
+          "I think it might be broken.",
+          "It printed ten copies by mistake.",
+          "I've needed a new monitor for a while."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-CR-2",
+      "text": {
+        "text": "2. Woman: Should we meet today or tomorrow?",
+        "options": [
+          "I'm available either day.",
+          "I will forward it to the team.",
+          "We were short-staffed yesterday.",
+          "It was printed this morning."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-CR-3",
+      "text": {
+        "text": "3. Man: When is the next train to London?",
+        "options": [
+          "Later this evening.",
+          "Not too far from here.",
+          "It stops in Oxford.",
+          "It's often crowded."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-CR-4",
+      "text": {
+        "text": "4. Woman: Why did you leave early?",
+        "options": [
+          "I'll add it to the agenda.",
+          "I wasn't interested in the second half.",
+          "As soon as possible.",
+          "I'll need to check the schedule."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-CR-5",
+      "text": {
+        "text": "5. Woman: Do you prefer tea or coffee?",
+        "options": [
+          "With milk, please.",
+          "On Thursday.",
+          "Try some sugar.",
+          "Coffee would be great."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-CR-6",
+      "text": {
+        "text": "6. Man: Could you assist with the presentation?",
+        "options": [
+          "Here's your receipt.",
+          "At the library.",
+          "On the right.",
+          "Maybe later."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-CR-7",
+      "text": {
+        "text": "7. Man: Where did you leave the keys?",
+        "options": [
+          "At five p.m.",
+          "In the drawer.",
+          "Every Sunday.",
+          "Under the weather.\nListening Section, Module 2"
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-CR-8",
+      "text": {
+        "text": "8. Woman: It's really noisy in the lobby, isn't it?",
+        "options": [
+          "Yes, I turned mine down.",
+          "I haven't been able to work with them yet.",
+          "They don't know how to do it.",
+          "It's the first day of the big medical conference."
+        ]
+      },
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    }
+  ]
+}

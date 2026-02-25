@@ -1,0 +1,284 @@
+{
+  "id": "ielts-r-0333",
+  "slug": "paul-nash",
+  "title": "Paul Nash",
+  "page_range": [
+    1687,
+    1691
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "E",
+    "2": "C",
+    "9": "A",
+    "3": "D",
+    "10": "C",
+    "4": "E",
+    "11": "A WAR ARTIST",
+    "5": "D",
+    "12": "SELF-TAUGHT",
+    "6": "B",
+    "13": "MORE ABSTRACT",
+    "7": "I"
+  },
+  "content": {
+    "title": "Paul Nash",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Paul Nash, the elder son of William Nash and his first wife, Caroline Jackson, was born in London on 11th May 1889. His father was a successful lawyer who became the Recorder of Abingdon. According to Ronald Blythe: “In 1901 the family returned to its native Buckinghamshire, where the garden of Wood Lane House at Iver Heath, and the countryside of the Chiltern Hills, with its sculptural beeches and chalky contours, were early influences on the development of the three children. Their lives were overshadowed by their mother’s mental illness and Nash himself was greatly helped by his nurse who, with some elderly neighbors, introduced him to the universe of plants.”"
+      },
+      {
+        "label": "B",
+        "content": "Nash was educated at St. Paul’s School and the Slade School of Art, where he met Dora Carrington. Unlike some of his contemporaries at the Slade School, Nash remained untouched by the two post-impressionist exhibitions organized by Roger Fry in 1910 and 1912. Instead, he was influenced by the work of William Blake. He also became a close friend of Gordon Bottomley, who took a keen interest in his career."
+      },
+      {
+        "label": "C",
+        "content": "Nash had his first one-man show, of ink and wash drawings, at the Carfax Gallery in 1912. The following year he shared an exhibition at the Dorian Leigh Gallery with his brother, John Nash. Myfanwy Piper has added: “Nash had a noteworthy sense of order and of the niceties of presentation; his pictures were beautifully framed, drawings mounted, his studio precisely and decoratively tidy, and oddments which he collected were worked up into compositions.”"
+      },
+      {
+        "label": "D",
+        "content": "Paul Nash was strongly attracted to Dora Carrington: He later recalled: “Carrington… was the dominating personality, I got an introduction to her and eventually won her regard by lending her my braces for a fancy-dress party. We were on the top of a bus and she wanted them then and there.”"
+      },
+      {
+        "label": "E",
+        "content": "On the outbreak Nash considered the possibility of joining the British Army. He told a friend: “I am not keen to rush off and be a soldier. The whole damnable war is too horrible of course and I am all against killing anybody, speaking off-hand, but besides all that I believe both Jack and I might be more useful as ambulance and red cross men, and to that end we are training. Nash enlisted in the Artists’ Rifles. He told Gordon Bottomley: “I have joined the Artists’ London Regiment of Territorials, the old Corps which started with Rossetti, Leighton, and Millais as members in 1860. Every man must do his bit in this horrible business so I have given up painting. There are many nice creatures in my company and I enjoy the burst of exercise – marching, drilling all day in the open air about the pleasant parts of Regents Park and Hampstead Heath.”"
+      },
+      {
+        "label": "F",
+        "content": "In March 1917 he was sent to the Western Front Nash, who took part in the offensive at Ypres, had reached the rank of lieutenant in the Hampshire Regiment by 1916. Whenever possible, Nash made sketches of life in the trenches. In May 1917 he was invalided home after a non-military accident. While recuperating in London, Nash worked from his sketches to produce a series of war paintings. This work was well-received when exhibited later that year. As a result of this exhibition, Charles Masterman, head of the government’s War Propaganda Bureau (WPB), and the advice of Edward Marsh and William Rothenstein, it was decided to recruit Nash as a war artist. In November 1917 in the immediate aftermath of the battle of Passchendaele Nash returned to France."
+      },
+      {
+        "label": "G",
+        "content": "Nash was unhappy with his work as a member of the War Propaganda Bureau. He wrote at the time: “I am no longer an artist. I am a messenger who will bring back word from the men who are fighting to those who want the war to go on forever. Feeble, inarticulate will be my message, but it will have a bitter truth and may burn their lousy souls.” However, as Myfanwy Piper has pointed out: “The drawings he made then, of shorn trees in ruined and flooded landscapes, were the works that made Nash’s reputation. They were shown at the Leicester Galleries in 1918 together with his first efforts at oil painting, in which he was self-taught and quickly successful, though his drawings made in the field had a more immediate public impact."
+      },
+      {
+        "label": "H",
+        "content": "In 1919 Nash moved to Dymchurch in Kent, beginning his well-known series of pictures of the sea, the breakwaters, and the long wall that prevents the sea from flooding Romney Marsh. This included the Winter Sea and Dymchurch Steps. Nash also painted the landscapes of the Chiltern Hills. In 1924 and 1928 he had successful exhibitions at the Leicester Galleries. Despite this popular acclaim in 1929, his work became more abstract. In 1933 Nash founded Unit One, the group of experimental painters, sculptors, and architects."
+      },
+      {
+        "label": "I",
+        "content": "During the Second World War Nash was employed by the Ministry of Information and the Air Ministry and paintings produced by him during this period include the Battle of Britain and Totes Meer. His biographer, Myfanwy Piper, has argued: “This war disturbed Nash but did not change his art as the last one had. His style and his habits were formed, and in the new war, he treated his new subjects as he had treated those he had been thinking about for so long. His late paintings, both oils, and watercolors are alternately brilliant and somber in color with the light of setting suns and rising moons spreading over wooded and hilly landscapes. “Paul Nash died at 35 Boscombe Spa Road, Bournemouth, on 11th July 1946."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A-G, for each statement that is correct concerning Nash’s story.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "He did not make an effort after becoming a high-ranking official in the army.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "He did not make an effort after becoming a high-ranking official in the army."
+              },
+              {
+                "label": "B",
+                "text": "He had a dream since his childhood."
+              },
+              {
+                "label": "C",
+                "text": "He once temporarily ceased his painting career for some reason."
+              },
+              {
+                "label": "D",
+                "text": "He was not affected by certain shows attractive to his other peers."
+              },
+              {
+                "label": "E",
+                "text": "He had cooperation in art with his relative."
+              },
+              {
+                "label": "F",
+                "text": "Some of his paintings were presented in a chaotic way."
+              },
+              {
+                "label": "G",
+                "text": "His achievement after being enlisted in the army did not as much attention as his previous works."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "He had a dream since his childhood.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "He did not make an effort after becoming a high-ranking official in the army."
+              },
+              {
+                "label": "B",
+                "text": "He had a dream since his childhood."
+              },
+              {
+                "label": "C",
+                "text": "He once temporarily ceased his painting career for some reason."
+              },
+              {
+                "label": "D",
+                "text": "He was not affected by certain shows attractive to his other peers."
+              },
+              {
+                "label": "E",
+                "text": "He had cooperation in art with his relative."
+              },
+              {
+                "label": "F",
+                "text": "Some of his paintings were presented in a chaotic way."
+              },
+              {
+                "label": "G",
+                "text": "His achievement after being enlisted in the army did not as much attention as his previous works."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "He was not affected by certain shows attractive to his other peers.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "He did not make an effort after becoming a high-ranking official in the army."
+              },
+              {
+                "label": "B",
+                "text": "He had a dream since his childhood."
+              },
+              {
+                "label": "C",
+                "text": "He once temporarily ceased his painting career for some reason."
+              },
+              {
+                "label": "D",
+                "text": "He was not affected by certain shows attractive to his other peers."
+              },
+              {
+                "label": "E",
+                "text": "He had cooperation in art with his relative."
+              },
+              {
+                "label": "F",
+                "text": "Some of his paintings were presented in a chaotic way."
+              },
+              {
+                "label": "G",
+                "text": "His achievement after being enlisted in the army did not as much attention as his previous works."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "He had cooperation in art with his relative.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "He did not make an effort after becoming a high-ranking official in the army."
+              },
+              {
+                "label": "B",
+                "text": "He had a dream since his childhood."
+              },
+              {
+                "label": "C",
+                "text": "He once temporarily ceased his painting career for some reason."
+              },
+              {
+                "label": "D",
+                "text": "He was not affected by certain shows attractive to his other peers."
+              },
+              {
+                "label": "E",
+                "text": "He had cooperation in art with his relative."
+              },
+              {
+                "label": "F",
+                "text": "Some of his paintings were presented in a chaotic way."
+              },
+              {
+                "label": "G",
+                "text": "His achievement after being enlisted in the army did not as much attention as his previous works."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information?",
+        "questions": [
+          {
+            "number": 5,
+            "text": "a charming lady in Nash’s eyes",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Nash’s passion for following particularly appreciated artists",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Nash’s works with contrast elements",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "the true cause for Nash to join the military service",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "the noticeable impact on Nash’s growth exerted from the rearing environment",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "high praise for Nash’s unique taste of presenting his works",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Because of a popular display of Nash’s works created in the army, what did his leader designate him as?",
+            "answer": "A WAR ARTIST",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "How did Nash learn oil painting?",
+            "answer": "SELF-TAUGHT",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "What change took place for Nash’s painting style in the late second decade of the twentieth century?",
+            "answer": "MORE ABSTRACT",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:15:38.361682"
+}

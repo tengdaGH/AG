@@ -1,0 +1,1943 @@
+{
+  "meta": {},
+  "items": [
+    {
+      "id": "ETS-S1-W-BAS-1",
+      "context": "What was the highlight of your trip?",
+      "endPunctuation": ".",
+      "fragments": [
+        "were",
+        "the",
+        "was",
+        "old city",
+        "showed us around",
+        "who",
+        "tour guides"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-2",
+      "context": "I heard Anna got a promotion.",
+      "endPunctuation": ".",
+      "fragments": [
+        "a different department",
+        "if",
+        "moving to",
+        "know",
+        "do",
+        "you"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-3",
+      "context": "We’re planning a trip to the mountains next weekend.",
+      "endPunctuation": ".",
+      "fragments": [
+        "the cabins",
+        "available",
+        "whether",
+        "can",
+        "will be",
+        "you"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-4",
+      "context": "I'm looking forward to the concert this weekend.",
+      "endPunctuation": ".",
+      "fragments": [
+        "does",
+        "what",
+        "time",
+        "it",
+        "start"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-5",
+      "context": "The museum exhibition opens next month.",
+      "endPunctuation": ".",
+      "fragments": [
+        "do",
+        "you",
+        "how",
+        "know",
+        "tickets",
+        "will cost",
+        "much"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-6",
+      "context": "I'm planning to go to the beach tomorrow.",
+      "endPunctuation": ".",
+      "fragments": [
+        "is",
+        "time of year",
+        "what",
+        "the water",
+        "this",
+        "like",
+        "temperature"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-7",
+      "context": "I need to buy groceries today.",
+      "endPunctuation": ".",
+      "fragments": [
+        "list",
+        "do",
+        "a",
+        "have",
+        "shopping",
+        "you"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-8",
+      "context": "I'll be taking a cooking class this weekend.",
+      "endPunctuation": ".",
+      "fragments": [
+        "learn",
+        "what",
+        "will",
+        "you",
+        "recipes"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-9",
+      "context": "What did Maria ask you about the book you're reading?",
+      "endPunctuation": ".",
+      "fragments": [
+        "she",
+        "wanted",
+        "a copy",
+        "buy",
+        "to know",
+        "could",
+        "where"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-W-BAS-10",
+      "context": "How did you prepare for the exam?",
+      "endPunctuation": ".",
+      "fragments": [
+        "by",
+        "the professor",
+        "that",
+        "the study guide",
+        "was provided",
+        "it"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 The tour guides who showed us around the old city were fantastic.",
+          "2 Do you know if she will be moving to a different department?",
+          "3 Can you tell me whether the cabins will be available?",
+          "4 What time does it start?",
+          "5 Do you know how much tickets will cost?",
+          "6 What is the water temperature like this time of year?",
+          "7 Do you have a shopping list?",
+          "8 What recipes will you learn?",
+          "9 She wanted to know where she could buy a copy.",
+          "10 I used the study guide that was provided by the professor."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-1",
+      "context": "I need to buy a new laptop.",
+      "endPunctuation": ".",
+      "fragments": [
+        "has",
+        "the best",
+        "which",
+        "store",
+        "deals"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-2",
+      "context": "I'm thinking about starting a blog.",
+      "endPunctuation": ".",
+      "fragments": [
+        "decided",
+        "you",
+        "a topic",
+        "have",
+        "on"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-3",
+      "context": "I'm going to study at the library this afternoon.",
+      "endPunctuation": ".",
+      "fragments": [
+        "to",
+        "do",
+        "borrow",
+        "any books",
+        "you",
+        "need"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-4",
+      "context": "I'm thinking about getting a pet.",
+      "endPunctuation": ".",
+      "fragments": [
+        "are",
+        "you",
+        "considering",
+        "kind",
+        "of",
+        "what",
+        "animal"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-5",
+      "context": "I'm excited to see the new science fiction movie tonight.",
+      "endPunctuation": ".",
+      "fragments": [
+        "it",
+        "showing",
+        "is",
+        "where"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-6",
+      "context": "I have an interview for a new job next week.",
+      "endPunctuation": ".",
+      "fragments": [
+        "ready",
+        "resume",
+        "have",
+        "you",
+        "do",
+        "your"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-7",
+      "context": "I need to submit my assignment by tomorrow.",
+      "endPunctuation": ".",
+      "fragments": [
+        "writing",
+        "finished",
+        "you",
+        "it",
+        "have"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-8",
+      "context": "I'm planning a trip to Europe this summer.",
+      "endPunctuation": ".",
+      "fragments": [
+        "did",
+        "flight",
+        "you",
+        "yet"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-9",
+      "context": "I just started learning French.",
+      "endPunctuation": ".",
+      "fragments": [
+        "you",
+        "taking",
+        "are",
+        "where",
+        "classes"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-W-BAS-10",
+      "context": "Why are you asking about the project deadline?",
+      "endPunctuation": ".",
+      "fragments": [
+        "checking",
+        "to see",
+        "if",
+        "has been",
+        "extended",
+        "it"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "Which store has the best deals?",
+          "Have you decided on a topic yet?",
+          "Do you need to borrow any books?",
+          "What kind of animal are you considering?",
+          "Where is it showing?",
+          "Do you have your resume ready?",
+          "Have you finished writing it?",
+          "Did you book your flight yet?",
+          "Where are you taking classes?",
+          "I'm checking to see if it has been extended."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-1",
+      "context": "What did Andre ask you at the party?",
+      "endPunctuation": ".",
+      "fragments": [
+        "wanted",
+        "does",
+        "he",
+        "ended",
+        "when",
+        "to know",
+        "it"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-2",
+      "context": "Why was the meeting rescheduled?",
+      "endPunctuation": ".",
+      "fragments": [
+        "was moved",
+        "to",
+        "it",
+        "a time",
+        "when",
+        "everyone",
+        "could attend"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-3",
+      "context": "I just spoke with the boss about applying for the open position.",
+      "endPunctuation": ".",
+      "fragments": [
+        "curious",
+        "if",
+        "mentioned",
+        "any specific requirements",
+        "because",
+        "he"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-4",
+      "context": "Why are you asking about the new restaurant?",
+      "endPunctuation": ".",
+      "fragments": [
+        "is wondering",
+        "it",
+        "when",
+        "is going",
+        "to open",
+        "she",
+        "friend",
+        "Jenna"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-5",
+      "context": "Do you know anyone who can give me directions to the Big Tree Bistro?",
+      "endPunctuation": ".",
+      "fragments": [
+        "there",
+        "to get",
+        "how",
+        "think",
+        "I",
+        "where",
+        "knows"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-6",
+      "context": "What are your plans for the summer?",
+      "endPunctuation": ".",
+      "fragments": [
+        "I",
+        "don't",
+        "I'm",
+        "where",
+        "to do",
+        "going",
+        "know",
+        "what"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-7",
+      "context": "What did Ruby ask about the new software?",
+      "endPunctuation": ".",
+      "fragments": [
+        "help",
+        "however",
+        "if",
+        "it",
+        "to know",
+        "with",
+        "need",
+        "you"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-8",
+      "context": "Why did Gustavo call you this morning?",
+      "endPunctuation": ".",
+      "fragments": [
+        "where",
+        "a leak",
+        "could find",
+        "he",
+        "to know",
+        "a plumber",
+        "to fix",
+        "is"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-9",
+      "context": "I heard that the supervisor was looking for you.",
+      "endPunctuation": ".",
+      "fragments": [
+        "we",
+        "wanted",
+        "to finish",
+        "finished",
+        "to know",
+        "when",
+        "the project",
+        "expect"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-W-BAS-10",
+      "context": "Julio said you had a question about the research paper.",
+      "endPunctuation": ".",
+      "fragments": [
+        "me",
+        "you",
+        "can",
+        "tell",
+        "where",
+        "some reliable sources",
+        "find"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "He wanted to know when it ended.",
+          "It was moved to a time when everyone could attend.",
+          "I am curious if he mentioned any specific requirements.",
+          "My friend Jenna is wondering when it is going to open.",
+          "I think Sally knows how to get there.",
+          "I don't know what I'm going to do yet.",
+          "She wanted to know if you need help with it.",
+          "He wanted to know where he could find a plumber to fix a leak.",
+          "She wanted to know when we expect the project to finish.",
+          "I'm hoping you can tell me where I might find some reliable resources."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-1",
+      "context": "Are you going to the concert tonight?",
+      "endPunctuation": ".",
+      "fragments": [
+        "do",
+        "kind",
+        "of",
+        "that",
+        "not",
+        "like",
+        "I"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-2",
+      "context": "Did you enjoy the book I lent you?",
+      "endPunctuation": ".",
+      "fragments": [
+        "find",
+        "to be",
+        "was",
+        "very engaging",
+        "the story"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-3",
+      "context": "The latest marketing campaign was a tremendous success!",
+      "endPunctuation": ".",
+      "fragments": [
+        "realized",
+        "I",
+        "never",
+        "too",
+        "social media",
+        "how",
+        "effective"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-4",
+      "context": "Why was Martha talking to the owner of the garden shop?",
+      "endPunctuation": ".",
+      "fragments": [
+        "planting",
+        "some flowers",
+        "start",
+        "when",
+        "to know",
+        "to",
+        "so"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-5",
+      "context": "Evan said you have a question for me.",
+      "endPunctuation": ".",
+      "fragments": [
+        "to know",
+        "where",
+        "because",
+        "the programming job",
+        "you",
+        "about",
+        "found out"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-6",
+      "context": "What did you think of the movie?",
+      "endPunctuation": ".",
+      "fragments": [
+        "was",
+        "very",
+        "my opinion",
+        "it",
+        "not",
+        "entertaining"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-7",
+      "context": "Do you want to try the new recipe I found?",
+      "endPunctuation": ".",
+      "fragments": [
+        "at cooking",
+        "am",
+        "good",
+        "not",
+        "complex dishes"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-8",
+      "context": "Have you finished reading the novel?",
+      "endPunctuation": ".",
+      "fragments": [
+        "reached",
+        "I",
+        "the last chapter",
+        "already",
+        "haven't"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-9",
+      "context": "Will you attend the seminar tomorrow?",
+      "endPunctuation": ".",
+      "fragments": [
+        "have",
+        "topic",
+        "interest",
+        "in",
+        "that",
+        "no",
+        "not"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-W-BAS-10",
+      "context": "Did you buy the groceries I asked for?",
+      "endPunctuation": ".",
+      "fragments": [
+        "not",
+        "did",
+        "have",
+        "everything",
+        "on",
+        "none",
+        "the list"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "1 I do not like that kind of music.",
+          "2 I did not find the story to be very engaging.",
+          "3 I never realized how effective social media can be.",
+          "4 She wanted to know when to start planting some flowers.",
+          "5 I'd like to know where you found out about the programming job.",
+          "6 In my opinion it was not very entertaining.",
+          "7 No, I am not good at cooking complex dishes.",
+          "8 I haven't reached the last chapter yet.",
+          "9 I have no interest in that topic.",
+          "10 The store did not have everything on the list."
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-1",
+      "context": "I'm planning to study abroad next year.",
+      "endPunctuation": ".",
+      "fragments": [
+        "you",
+        "which",
+        "planning",
+        "countries",
+        "in Europe",
+        "are",
+        "plan"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-2",
+      "context": "I'm excited to go camping this weekend.",
+      "endPunctuation": "?",
+      "fragments": [
+        "that",
+        "you",
+        "have",
+        "black bears",
+        "live",
+        "heard"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-3",
+      "context": "I'm planning to take a photography class.",
+      "endPunctuation": "?",
+      "fragments": [
+        "the",
+        "interests",
+        "what",
+        "more",
+        "you",
+        "photography",
+        "most",
+        "of"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-4",
+      "context": "I'm thinking of adopting a dog this summer.",
+      "endPunctuation": "?",
+      "fragments": [
+        "which",
+        "plan",
+        "of dog",
+        "you",
+        "do",
+        "to adopt",
+        "planning"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-5",
+      "context": "I’m going to start writing a biography",
+      "endPunctuation": "?",
+      "fragments": [
+        "have",
+        "about",
+        "to write",
+        "which",
+        "chosen",
+        "you",
+        "choose"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-6",
+      "context": "I'm moving to a new city next month.",
+      "endPunctuation": "?",
+      "fragments": [
+        "to move",
+        "from here",
+        "away",
+        "why",
+        "have",
+        "chosen"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-7",
+      "context": "I'm planning to start a new project at work.",
+      "endPunctuation": "?",
+      "fragments": [
+        "to complete",
+        "the new assignment",
+        "when",
+        "expect",
+        "you",
+        "do"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-8",
+      "context": "I'm going to submit my application today.",
+      "endPunctuation": ".",
+      "fragments": [
+        "the position",
+        "applied",
+        "your coworkers",
+        "any",
+        "has",
+        "of",
+        "for"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-W-BAS-9",
+      "context": "I'm attending a friend’s wedding next week.",
+      "endPunctuation": "?",
+      "fragments": [
+        "plan to attend",
+        "the wedding reception",
+        "you",
+        "do"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Which countries in Europe are you planning to visit?",
+          "Have you heard that black bears live near the campground?",
+          "What type of photography interests you the most?",
+          "Which breed of dog do you plan to adopt?",
+          "Which historical figure have you chosen to write about?",
+          "Why have you chosen to move away from here?",
+          "When do you expect to complete the new assignment?",
+          "Have any of your coworkers applied for the position?",
+          "Do you plan to attend the wedding reception afterward?",
+          "Did they serve any appetizers before the main course?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-1",
+      "context": "Where did you get your shoes?",
+      "endPunctuation": ".",
+      "fragments": [
+        "visited",
+        "had",
+        "it",
+        "last month",
+        "the shop",
+        "a sale",
+        "I"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-2",
+      "context": "The workshop yesterday was very informative.",
+      "endPunctuation": "?",
+      "fragments": [
+        "another one",
+        "do",
+        "there",
+        "if",
+        "be",
+        "you know",
+        "will"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-3",
+      "context": "The new restaurant downtown has amazing reviews.",
+      "endPunctuation": "?",
+      "fragments": [
+        "know",
+        "do",
+        "if",
+        "has",
+        "vegetarian options",
+        "have",
+        "you",
+        "they"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-4",
+      "context": "That was a great movie we watched last night.",
+      "endPunctuation": "?",
+      "fragments": [
+        "that",
+        "by",
+        "director",
+        "would",
+        "like",
+        "another film",
+        "to see"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-5",
+      "context": "I’m planning to visit my grandparents next weekend.",
+      "endPunctuation": "?",
+      "fragments": [
+        "to the airport",
+        "tell me",
+        "you",
+        "can",
+        "need",
+        "a lift",
+        "whether"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-6",
+      "context": "The book you lent me was fascinating.",
+      "endPunctuation": "?",
+      "fragments": [
+        "has",
+        "you know",
+        "have",
+        "the author",
+        "if",
+        "other books",
+        "do"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-7",
+      "context": "The new software update looks promising.",
+      "endPunctuation": ".",
+      "fragments": [
+        "able",
+        "which",
+        "the download",
+        "website",
+        "to find",
+        "were you"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-8",
+      "context": "The new coffee shop downtown is very popular.",
+      "endPunctuation": ".",
+      "fragments": [
+        "that",
+        "football matches",
+        "you can",
+        "on screen",
+        "watch",
+        "where",
+        "the one"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-9",
+      "context": "We had a great time at the concert last night.",
+      "endPunctuation": "?",
+      "fragments": [
+        "that band",
+        "is performing",
+        "when",
+        "how",
+        "find out",
+        "again",
+        "can we"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-W-BAS-10",
+      "context": "I really enjoyed the hiking trip last weekend.",
+      "endPunctuation": "?",
+      "fragments": [
+        "if",
+        "more trips",
+        "planned",
+        "there are",
+        "you",
+        "tell me",
+        "can"
+      ],
+      "keys": {
+        "raw_keys": [
+          "The shop I visited last month had a sale.",
+          "Do you know if there will be another one soon?",
+          "Do you know if they have vegetarian options?",
+          "Would you like to see another film by that director?",
+          "Can you tell me whether you need a lift to the airport?",
+          "Do you know if the author has written other books?",
+          "On which website were you able to find the download?",
+          "Is that the one where you can watch football matches on screen?",
+          "How can we find out when that band is performing again?",
+          "Can you tell me if there are more trips planned for this month?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-1",
+      "context": "Your presentation yesterday was impressive.",
+      "endPunctuation": ".",
+      "fragments": [
+        "you want",
+        "of it",
+        "me",
+        "you",
+        "to send",
+        "do",
+        "a copy"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-2",
+      "context": "I wish I hadn't missed the conference last week.",
+      "endPunctuation": "?",
+      "fragments": [
+        "the recordings",
+        "where",
+        "don’t",
+        "know",
+        "the sessions",
+        "of",
+        "to get"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-3",
+      "context": "The new yoga class was very relaxing.",
+      "endPunctuation": ".",
+      "fragments": [
+        "are",
+        "a few",
+        "classes",
+        "wonder",
+        "I",
+        "held",
+        "if"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-4",
+      "context": "We had a blast at the national park yesterday.",
+      "endPunctuation": "?",
+      "fragments": [
+        "does",
+        "it",
+        "anybody",
+        "whether",
+        "is open",
+        "know",
+        "they"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-5",
+      "context": "The film festival this weekend was amazing.",
+      "endPunctuation": "?",
+      "fragments": [
+        "they",
+        "if",
+        "are",
+        "can",
+        "find out",
+        "planning",
+        "another one"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-6",
+      "context": "The workshop on graphic design was very helpful.",
+      "endPunctuation": "?",
+      "fragments": [
+        "why",
+        "each",
+        "tell me",
+        "how long",
+        "was",
+        "workshop session",
+        "could"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-7",
+      "context": "The new art exhibit at the museum is stunning.",
+      "endPunctuation": "?",
+      "fragments": [
+        "would",
+        "to know",
+        "how",
+        "I",
+        "you",
+        "happen",
+        "can get"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-8",
+      "context": "Let's go to that new gym this afternoon.",
+      "endPunctuation": "?",
+      "fragments": [
+        "know",
+        "you",
+        "do",
+        "is",
+        "usually crowded",
+        "if",
+        "it"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-9",
+      "context": "I really enjoyed the documentary we watched yesterday.",
+      "endPunctuation": "?",
+      "fragments": [
+        "you",
+        "how",
+        "heard",
+        "it",
+        "they filmed",
+        "any details",
+        "have"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-W-BAS-10",
+      "context": "I'm applying for a position at that new technology hub.",
+      "endPunctuation": "?",
+      "fragments": [
+        "do",
+        "they",
+        "have",
+        "how many",
+        "you",
+        "open positions"
+      ],
+      "keys": {
+        "raw_keys": [
+          "Do you want me to send you a copy?",
+          "Don't you know where to get the recordings of the sessions?",
+          "I wonder if a few classes are held on Saturdays.",
+          "Does anybody know whether it is open all year long?",
+          "Can we find out if they are planning another one?",
+          "Could you tell me how long each workshop session was?",
+          "Would you happen to know how I can get exhibit information?",
+          "Do you know if it is usually crowded at this time?",
+          "Have you heard any details about how they filmed it?",
+          "Do you know how many open positions they have?"
+        ]
+      }
+    }
+  ]
+}

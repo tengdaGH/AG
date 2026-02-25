@@ -1,0 +1,280 @@
+{
+  "id": "ielts-r-0326",
+  "slug": "orientation-of-birds",
+  "title": "Orientation of birds",
+  "page_range": [
+    1649,
+    1653
+  ],
+  "raw_answer_key": {
+    "1": "visual memory",
+    "8": "C",
+    "2": "migration direction",
+    "9": "G",
+    "3": "destination",
+    "10": "C",
+    "4": "landmarks",
+    "11": "F",
+    "5": "(laysan) albatross",
+    "12": "A",
+    "6": "C",
+    "13": "D",
+    "7": "B"
+  },
+  "content": {
+    "title": "Orientation of Birds",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "For many of US, the way birds are able to orientate is both astounding and difficult to appreciate fully. For instance, the annual migration of the golden plover of the Pacific takes it from Alaska to Hawaii on a flight of well over 3000 kilometres, and if it were to deviate by only one degree, it would miss the island on which it nests."
+      },
+      {
+        "label": "B",
+        "content": "The first systematic studies on orientation in birds were made possible by the 'homing instinct' exhibited by so many species. Birds are caught at a time when they show an attachment to their territory, especially during the nesting season. They are taken to some spot, released, and the percentage of returns is recorded. The distance can be varied, and the direction, as well as the method of transporting them, and then the influence of climatic and other factors on their ability to find their way home can be studied. These experiments have shown a wide variation in ability to home, and three types of homing behaviour have been identified."
+      },
+      {
+        "label": "C",
+        "content": "In the first type, birds methodically explore the area in which they are released until they pick up some familiar feature, and then they quickly find their way back to the nest. Such birds possess a highly developed visual memory, as experiments with pigeons have shown. Domestic pigeons have been trained to peck at a certain point on an aerial photograph, with a system of rewards, and four years later the birds were still able to respond to this training when placed on the aerial photograph. Birds' eyes have a power of resolution two to three times greater than ours, enabling them to pick up very fine details. If a bird uses only this type of homing behaviour, however, it can only succeed if the point of release is not too far away. If the birds are transported 800 kilometres from their nest, it is only by good fortune that they find their way back as a result of long exploratory flights. Usually, the area known to a bird is its feeding territory. Released within this area, the birds soon make their return; release them outside it and far fewer return. However, if a bird is released for a second time in the same place, its visual memory comes into play, and the bird, no longer requiring tedious exploratory flights, will return much more quickly."
+      },
+      {
+        "label": "D",
+        "content": "The second type of homing behaviour is shown by birds that are capable of choosing their flight direction and holding to it for the rest of their journey. How do they decide what direction to take? They appear to choose their normal migration direction even if they are released in a different place from their usual stalling point. If, for example, birds which normally fly to the north-east to reach latitude 45 degrees north are released at that latitude, they will immediately start flying north-east anyway. So if they're released further to the west, they'll maintain the correct direction, but fly west of their destination, and so fail to arrive."
+      },
+      {
+        "label": "E",
+        "content": "The third type of homing behaviour shows the highest degree of orientation. Released at one point, the birds immediately take stock of it, compare its position with that of the nest, decide on the direction and fly off. This happens even if the birds are in a country right off their migration routes, where they have never been before. In one example, a laysan albatross returned to its nesting area on Midway Island in the middle of the Pacific, having flown over 5000 kilometres from the west coastal of the USA in just over ten days. This is a perfect example of the third type of homing, for the albatross clearly couldn't rely on any landmarks over the vast expanse of the Pacific Ocean."
+      },
+      {
+        "label": "F",
+        "content": "The percentage of successful birds varies greatly, being highest in those species with a strong migratory behaviour. Thus the lesser black-backed gull is more migratory than the herring gull and more often reaches 'home'. Great migrants such as the swift have the highest percentage of returns. In one case, seven out of nine alpine swifts were recaptured at their nests after being displaced some 1400 kilometres; one made the journey in three days."
+      },
+      {
+        "label": "G",
+        "content": "What part does heredity play in all this? Two research studies suggest that instinctive, i.e. genetically inherited, behaviour patterns play a part in navigation. The first was carried out by Ernst Schuz and it is highly significant. Schuz caught first year European storks and released them later, after the departure of the adult storks at a time when they normally make their south-west autumn migration to Africa. The recaptures showed that, in spite of the fact that there were no adults to guide them, the birds unanimously headed south-west. This was a most striking finding, for it showed that the birds had an innate and unlearned attraction for the African wintering area that they have occupied for thousands of years."
+      },
+      {
+        "label": "H",
+        "content": "The case of starlings is a little different. These birds have a great aptitude for homing, but this behaviour differs in the different age groups. Birds that were shifted to the south-east of their normal migration route split into two lots. The adults, in full possession of their gift for orientation, found their wintering area by modifying their direction by 90 degrees, whereas the juveniles sought their winter quarters to the south-east of their real position."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Birds rely on their sophisticated 1...................... However, they are generally most successful if they are released within their feeding territory.",
+            "answer": "visual memory",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Second type: Birds select their accustomed 2....................., no matter where they are released.",
+            "answer": "migration direction",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "As a result, they may miss their 3.....................",
+            "answer": "destination",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Third type: Birds orientate correctly, even when they are released in an unfamiliar place and have no 4..................... to make use of.",
+            "answer": "landmarks",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "One bird with this type of skill is the 5.....................",
+            "answer": "(laysan) albatross",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has eight paragraphs, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 6-9 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "the effects of distance on some birds’ ability to find their nests",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "a methodology for testing the general ability of birds to find their nests",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "one aspect of physical ability in humans and birds",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "how some birds’ migration was delayed for experimental purposes",
+            "answer": "G",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following types of birds (Questions 10-13) and the list of points below. Match each bird with the point which it illustrates, A-G.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "domestic pigeon",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "an ability to orientate without previous training"
+              },
+              {
+                "label": "B",
+                "text": "the speed at which birds can fly"
+              },
+              {
+                "label": "C",
+                "text": "the ability to remember things seen previously"
+              },
+              {
+                "label": "D",
+                "text": "the effect of age on homing ability"
+              },
+              {
+                "label": "E",
+                "text": "the strength required to fly a great distance"
+              },
+              {
+                "label": "F",
+                "text": "a high success rate in finding nests"
+              },
+              {
+                "label": "G",
+                "text": "the importance of seasonal cues for migrating birds"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "alpine swift",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "an ability to orientate without previous training"
+              },
+              {
+                "label": "B",
+                "text": "the speed at which birds can fly"
+              },
+              {
+                "label": "C",
+                "text": "the ability to remember things seen previously"
+              },
+              {
+                "label": "D",
+                "text": "the effect of age on homing ability"
+              },
+              {
+                "label": "E",
+                "text": "the strength required to fly a great distance"
+              },
+              {
+                "label": "F",
+                "text": "a high success rate in finding nests"
+              },
+              {
+                "label": "G",
+                "text": "the importance of seasonal cues for migrating birds"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "European stork",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "an ability to orientate without previous training"
+              },
+              {
+                "label": "B",
+                "text": "the speed at which birds can fly"
+              },
+              {
+                "label": "C",
+                "text": "the ability to remember things seen previously"
+              },
+              {
+                "label": "D",
+                "text": "the effect of age on homing ability"
+              },
+              {
+                "label": "E",
+                "text": "the strength required to fly a great distance"
+              },
+              {
+                "label": "F",
+                "text": "a high success rate in finding nests"
+              },
+              {
+                "label": "G",
+                "text": "the importance of seasonal cues for migrating birds"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "starling",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "an ability to orientate without previous training"
+              },
+              {
+                "label": "B",
+                "text": "the speed at which birds can fly"
+              },
+              {
+                "label": "C",
+                "text": "the ability to remember things seen previously"
+              },
+              {
+                "label": "D",
+                "text": "the effect of age on homing ability"
+              },
+              {
+                "label": "E",
+                "text": "the strength required to fly a great distance"
+              },
+              {
+                "label": "F",
+                "text": "a high success rate in finding nests"
+              },
+              {
+                "label": "G",
+                "text": "the importance of seasonal cues for migrating birds"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:56:45.841034"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "ielts-r-0393",
+  "slug": "sir-francis-ronalds-and-telegraph",
+  "title": "Sir Francis Ronalds and Telegraph",
+  "page_range": [
+    1997,
+    2002
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "800km",
+    "9": "frictional-electricity",
+    "2": "A machine",
+    "3": "E",
+    "10": "G",
+    "4": "D",
+    "11": "A",
+    "5": "G",
+    "12": "E",
+    "6": "letters and",
+    "13": "D numbers",
+    "7": "glass",
+    "14": "I tubes"
+  },
+  "content": {
+    "title": "Sir Francis Ronalds and Telegraph",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "RONALDS, Sir FRANCIS (1788-1873), inventor of the electric telegraph and meteorologist, son of Francis Ronalds, a London merchant, and of his wife, Jane, daughter of William Field, was born in London on 21 Feb. 1788. Ronalds was educated at a private school at Cheshunt by the Rev. E. Cogan. At an early age he displayed a taste for experiment, and he acquired great skill later in practical mechanics and draughtsmanship. Under the influence of Jean Andre de Luc (1727-1817), whose acquaintance he made in 1814, he began to devote himself to practical electricity. In 1814 and 1815 he published several papers on electricity in Tilloch’s 'Philosophical Magazine,' one of which records an ingenious use of De Luc's 'electric column' as a motive power for a clock."
+      },
+      {
+        "label": "B",
+        "content": "Ronalds's name is chiefly remembered as the inventor of an electric telegraph. Since 1753, when the first proposal for an electric telegraph worked by statical electricity was made by a writer signing 'C.' (said to be Charles Morrison) in the 'Scots Magazine', successive advances had been made abroad by Volta, Le Sage, Lomond, Cavallo, Salva, and others; but much was needed to perfect the invention."
+      },
+      {
+        "label": "C",
+        "content": "In 1816 Francis Ronalds, then living at Upper Mall, Hammersmith, built in his back garden two frames to accommodate eight miles of wire for his new invention of an electrostatic telegraph. It used clockwork-driven rotating dials, engraved with letters of the alphabet and numbers, synchronized with each other, at both ends of the circuit. For the past three or four years, encouraged by the octogenarian Swiss meteorologist, Jean Andre De Luc, Ronalds had been enthusiastically experimenting with electrostatic clockwork devices. When someone desired to send a message he earthed the wire at his end at the moment when the dial indicated the desired letter. At the receiving end the pith balls would fall together when earthed and the recipient noted the letter showing on his dial at that moment. The system was slow and depended on the two dials staying in step, but Ronalds successfully transmitted and received letters over 150 meters of wire; later he succeeded in sending messages through eight miles of iron wire suspended above his garden in London."
+      },
+      {
+        "label": "D",
+        "content": "After sending messages along his wires on the frame, he developed another version in which the wires were enclosed in glass tubes buried in the ground. At each end of the line a clockwork mechanism turned synchronously revolving discs with letters on them. A frictional-electricity machine kept the wire continuously charged, while at each end two pith balls hung from the wire on silk threads, and since they were similarly charged from the wire they stayed apart. Ronalds' instrument was of real practical use, and the brilliant idea of using synchronously rotating discs, now employed in the Hughes printing apparatus, was entirely his own. The only defect in his invention was the comparative slowness with which a succession of symbols could be transmitted."
+      },
+      {
+        "label": "E",
+        "content": "With communications between London and Portsmouth in mind, he believed his telegraph would work over distances of 800km. In the same year, Ronalds wrote to offer his invention to the Admiralty. In fact, in 1806, Ralph Wedgwood submitted a telegraph based on frictional electricity to the Admiralty, but was told that the semaphore was sufficient for the country. In a pamphlet he suggested the establishment of a telegraph system with public offices in different centers. Francis Ronalds, in 1816, brought a similar telegraph of his invention to the notice of the Admiralty, and was politely informed that 'telegraphs of any kind are now wholly unnecessary.'"
+      },
+      {
+        "label": "F",
+        "content": "After this disappointment, Ronalds set off for the continent. He travelled throughout Europe and the Eastern Mediterranean, taking notes, sketching and collecting scientific books between 1816 and 1823. He had begun collecting his large library of works on electricity and kindred subjects. The last activity formed the beginnings of the Ronalds Library, left in trust to the IEE (now the IET) after his death. In a small pamphlet published in 1823, Ronalds described his invention and listed some of its possible uses, 'Why should not government govern at Portsmouth almost as promptly as in Downing Street? Why should our defaulters escape by default of our foggy climate? Let US have Electrical Conversazione offices communicating with each other all over the kingdom if we can.'"
+      },
+      {
+        "label": "G",
+        "content": "However, Ronalds never patented his invention in electric telegraph. Ronalds seems to have made few or no practical contributions to science. In the meanwhile, one person did benefit from this work-Charles Wheatstone who saw the telegraph as a boy. When Charles Wheatstone was quite a child, his father had seen the Ronalds telegraph at work. Later, the invention of an electric telegraph had been marvelously developed by Wheatstone, who had seen many of the Hammersmith experiments, in conjunction with Mr. William Fothergill Cooke, and these two men together devised and patented in 1837 the first electric telegraph used publicly and commercially in England. When, in 1855, a controversy arose between Wheatstone and Cooke with regard to their respective shares in the invention, Wheatstone at once acknowledged his direct debt to Ronalds, and Cooke, though less fully, acknowledged the priority of Ronalds's work; Until 1855 Ronalds's share in the invention had been forgotten by the public."
+      },
+      {
+        "label": "H",
+        "content": "Early in 1843 Ronalds was made honorary director and superintendent of the Meteorological Observatory, which was then established at Kew by the British Association for the Advancement of Science. He began work on a system for registering meteorological data using photography and this time was awarded a grant to continue his work. A similar system was developed independently by Charles Brooke, aided like Ronalds by grants from the Royal Society, had invented independently about this time. But the British Association confirmed Ronalds's priority. This was the beginning of automatic, accurate recording of meteorological data and remained in use for some years after Ronalds's death."
+      },
+      {
+        "label": "I",
+        "content": "Ronalds lived long enough to see his prophecies come to fruition and to receive belated official recognition: in 1870, three years before he died, he was knighted by Queen Elizabeth I, for his 'early and remarkable labors in telegraphic investigations.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Matching each correct year to the historical event in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "When did Francis Ronalds achieve a satisfactory result in the electricity experiment conducted first time?",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "When was the first proposal of an electric telegraph based on static electricity?",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "When did Ronalds get patent of his invention firstly?",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Ronalds first made it known and revealed the applicable significance of his telegram to public.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The contribution being done by Ronalds' invention in meteorological data.",
+            "answer": "G",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN FOUR WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "What were carved in the experimental dials when doing Ronalds' experiment this in garden?",
+            "answer": "letters and",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "What were enclosed with the buried telegram wires when Ronalds did the improved experiment?",
+            "answer": "glass",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "What is the greatest distance Ronalds believed his telegram can send?",
+            "answer": "800km",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "What kind of power supplied to keeping the wire charged continuously?",
+            "answer": "frictional-electricity",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The passage has paragraphs as A-l; which paragraph contains the following information?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "the fundamental aims of mapmaking remain unchanged.",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "the possibilities of satellite mapping are infinite.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "There is a commercial use of the telegram.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "There is a contributory influence on Ronalds from a fellow he got to know.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Ronalds’s proposal was rejected as the preceding reference to another application.",
+            "answer": "I",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:15:53.595955"
+}

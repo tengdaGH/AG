@@ -1,0 +1,158 @@
+{
+  "id": "ielts-r-0503",
+  "slug": "the-intersection-of-health-sciences-and-geography",
+  "title": "The Intersection of Health Sciences and Geography",
+  "page_range": [
+    2548,
+    2551
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "antibiotics",
+    "2": "C",
+    "9": "mosquitos",
+    "3": "F",
+    "10": "factories",
+    "4": "G",
+    "11": "forests",
+    "5": "D",
+    "12": "polio",
+    "6": "B",
+    "13": "mountain",
+    "7": "vaccinations"
+  },
+  "content": {
+    "title": "The Intersection of Health Sciences and Geography",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "While many diseases that affect humans have been eradicated due to improvements in vaccinations and the availability of healthcare, there are still areas around the world where certain health issues are more prevalent. In a world that is far more globalised than ever before, people come into contact with one another through travel and living closer and closer to each other. As a result, super-viruses and other infections resistant to antibiotics are becoming more and more common."
+      },
+      {
+        "label": "B",
+        "content": "Geography can often play a very large role in the health concerns of certain populations. For instance, depending on where you live, you will not have the same health concerns as someone who lives in a different geographical region. Perhaps one of the most obvious examples of this idea is malaria-prone areas, which are usually tropical regions that foster a warm and damp environment in which the mosquitos that can give people this disease can grow. Malaria is much less of a problem in high-altitude deserts, for instance."
+      },
+      {
+        "label": "C",
+        "content": "In some countries, geographical factors influence the health and well-being of the population in very obvious ways. In many large cities, the wind is not strong enough to clear the air of the massive amounts of smog and pollution that cause asthma, lung problems, eyesight issues and more in the people who live there. Part of the problem is, of course, the massive number of cars being driven, in addition to factories that run on coal power. The rapid industrialisation of some countries in recent years has also led to the cutting down of forests to allow for the expansion of big cities, which makes it even harder to fight the pollution with the fresh air that is produced by plants."
+      },
+      {
+        "label": "D",
+        "content": "It is in situations like these that the field of health geography comes into its own. It is an increasingly important area of study in a world where diseases like polio are re-emerging, respiratory diseases continue to spread, and malaria-prone areas are still fighting to find a better cure. Health geography is the combination of, on the one hand, knowledge regarding geography and methods used to analyse and interpret geographical information, and on the other, the study of health, diseases and healthcare practices around the world. The aim of this hybrid science is to create solutions for common geography-based health problems. While people will always be prone to illness, the study of how geography affects our health could lead to the eradication of certain illnesses, and the prevention of others in the future. By understanding why and how we get sick, we can change the way we treat illness and disease specific to certain geographical locations."
+      },
+      {
+        "label": "E",
+        "content": "The geography of disease and ill health analyses the frequency with which certain diseases appear in different parts of the world, and overlays the data with the geography of the region, to see if there could be a correlation between the two. Health geographers also study factors that could make certain individuals or a population more likely to be taken ill with a specific health concern or disease, as compared with the population of another area. Health geographers in this field are usually trained as healthcare workers, and have an understanding of basic epidemiology as it relates to the spread of diseases among the population."
+      },
+      {
+        "label": "F",
+        "content": "Researchers study the interactions between humans and their environment that could lead to illness (such as asthma in places with high levels of pollution) and work to create a clear way of categorising illnesses, diseases and epidemics into local and global scales. Health geographers can map the spread of illnesses and attempt to identify the reasons behind an increase or decrease in illnesses, as they work to find a way to halt the further spread or re-emergence of diseases in vulnerable populations."
+      },
+      {
+        "label": "G",
+        "content": "The second subcategory of health geography is the geography of healthcare provision. This group studies the availability (of lack thereof) of healthcare resources to individuals and populations around the world. In both developed and developing nations there is often a very large discrepancy between the options available to people in different social classes, income brackets, and levels of education. Individuals working in the area of the geography of healthcare provision attempt to assess the levels of healthcare in the area (for instance, it may be very difficult for people to get medical attention because there is a mountain between their village and the nearest hospital). These researchers are on the frontline of making recommendations regarding policy to international organisations, local government bodies and others."
+      },
+      {
+        "label": "H",
+        "content": "The field of health geography is often overlooked, but it constitutes a huge area of need in the fields of geography and healthcare. If we can understand how geography affects our health no matter where in the world we are located, we can better treat disease, prevent illness, and keep people safe and well."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has eight sections, A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "an acceptance that not all diseases can be totally eliminated",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "examples of physical conditions caused by human behaviour",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "a reference to classifying diseases on the basis of how far they extend geographically",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "reasons why the level of access to healthcare can vary within a country",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "a description of health geography as a mixture of different academic fields",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "a description of the type of area where a particular illness is rare",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Certain diseases have disappeared, thanks to better 7..................... and healthcare.",
+            "answer": "vaccinations",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Because there is more contact between people, 8..................... are losing their usefulness.",
+            "answer": "antibiotics",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Disease-causing 9..................... are most likely to be found in hot, damp regions.",
+            "answer": "mosquitos",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "One cause of pollution is 10..................... that burn a particular fuel.",
+            "answer": "factories",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The growth of cities often has an impact on nearby 11.....................",
+            "answer": "forests",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "12..................... is one disease that is growing after having been eradicated.",
+            "answer": "polio",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "A physical barrier such as a 13..................... can prevent people from reaching a hospital.",
+            "answer": "mountain",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:38:35.291978"
+}

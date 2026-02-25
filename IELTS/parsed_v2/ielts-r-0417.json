@@ -1,0 +1,318 @@
+{
+  "id": "ielts-r-0417",
+  "slug": "sunset-for-the-oil-business",
+  "title": "Sunset for the Oil Business",
+  "page_range": [
+    2115,
+    2120
+  ],
+  "raw_answer_key": {
+    "1": "YES",
+    "8": "expensive",
+    "2": "NOT GIVEN",
+    "9": "competitive",
+    "3": "NO",
+    "10": "E",
+    "4": "NO",
+    "11": "D",
+    "5": "YES",
+    "12": "B",
+    "6": "controversial",
+    "13": "A",
+    "7": "tapped",
+    "14": "C"
+  },
+  "content": {
+    "properties": {
+      "title": {
+        "description": "The title of the reading passage.",
+        "title": "Title",
+        "type": "string"
+      },
+      "has_paragraph_labels": {
+        "description": "True if the passage has labeled paragraphs (e.g., A, B, C).",
+        "title": "Has Paragraph Labels",
+        "type": "boolean"
+      },
+      "paragraphs": {
+        "description": "List of structured paragraphs.",
+        "items": {
+          "$ref": "#/$defs/Paragraph"
+        },
+        "title": "Paragraphs",
+        "type": "array"
+      }
+    },
+    "required": [
+      "title",
+      "has_paragraph_labels",
+      "paragraphs"
+    ],
+    "title": "Sunset for the Oil Business",
+    "type": "object",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Members of the Department Analysis Centre (ODAC) recently met in London and presented technical data that support their grim forecast that the world is perilously close to running out of oil. Leading lights of this moment, including the geologists Colin Campbell, rejected rival views presented by American geological survey and the international energy agency that contradicted their findings. Dr Campbell even decried the amazing display of ignorance, denial and obfuscation by government, industry and academics on this topic."
+      },
+      {
+        "label": "B",
+        "content": "So is the oil really running out? The answer is easy: Yes. Nobody seriously disputes the notion that oil is, for all practical purposes, a non-renewable resource that will run out someday, be that years or decades away. The harder question is determining when precisely oil will begin to get scarce. And answering that question involves scaling Hubbert’s peak."
+      },
+      {
+        "label": "C",
+        "content": "M. King Hubbert, a Shell geologist of legendary status among depletion experts, forecast in 1956 that oil production in the United States would peak in the early 1970s and then slowly decline, in something resembling a bell-shaped curve. At the time, his forecast was controversial, and many rubbished it. After 1970, however, empirical evidence proved him correct: oil production in America did indeed peak and has been in decline ever since."
+      },
+      {
+        "label": "D",
+        "content": "Dr Hubbert’s analysis drew on the observation that oil production in a new area typically rises quickly at first, as the easiest and cheapest reserves are tapped. Over time, reservoirs age and go into decline, and so lifting oil becomes more expensive. Oil from that area then becomes less competitive in relation to other fuels, or to oil from other areas. As a result, production slows down and usually tapers off and declines. That, he argued, made for a bell-shaped curve."
+      },
+      {
+        "label": "E",
+        "content": "His successful prediction has emboldened a new generation of geologists to apply his methodology on a global scale. Chief among them are the experts at ODAC, who worry that the global peak in production will come in the next decade. Dr Campbell used to argue that the peak should have come already; he now thinks it is just around the corner. A heavyweight has now joined this gloomy chorus. Kenneth Deffeyes of Princeton University argues in a lively new book (“The View from Hubbert’s Peak”) that global oil production could peak as soon as 2004."
+      },
+      {
+        "label": "F",
+        "content": "That sharply contradicts mainstream thinking. America’s Geological Survey prepared an exhaustive study of oil depletion last year (in part to rebut Dr Campbell’s arguments) that put the peak of production some decades off. The IEA has just weighed in with its new “World Energy Outlook”, which foresees enough oil to comfortably meet the demand to 2020 from remaining reserves. René Dahan, one of ExxonMobil’s top managers, goes further: with an assurance characteristic of the world’s largest energy company, he insists that the world will be awash in oil for another 70 years."
+      },
+      {
+        "label": "G",
+        "content": "Who is right? In making sense of these wildly opposing views, it is useful to look back at the pitiful history of oil forecasting. Doomsters have been predicting dry wells since the 1970s, but so far the oil is still gushing. Nearly all the predictions for 2000 made after the 1970s oil shocks were far too pessimistic. America’s Department of Energy thought that oil would reach $150 a barrel (at 2000 prices); even Exxon predicted a price of $100."
+      },
+      {
+        "label": "H",
+        "content": "Michael Lynch of DRI-WEFA, an economic consultancy, is one of the few oil forecasters who has got things generally right. In a new paper, Dr Lynch analyses those historical forecasts. He finds evidence of both bias and recurring errors, which suggests that methodological mistakes (rather than just poor data) were the problem. In particular, he faults forecasters who used Hubbert-style analysis for relying on fixed estimates of how much “ultimately recoverable” oil there really is below ground, in the industry’s jargon: that figure, he insists, is actually a dynamic one, as improvements in infrastructure, knowledge and technology raise the amount of oil which is recoverable."
+      },
+      {
+        "label": "I",
+        "content": "That points to what will probably determine whether the pessimists or the optimists are right: technological innovation. The first camp tends to be dismissive of claims of forthcoming technological revolutions in such areas as deep-water drilling and enhanced recovery. Dr Deffeyes captures this end-of-technology mindset well. He argues that because the industry has already spent billions on technology development, it makes it difficult to ask today for new technology, as most of the wheels have already been invented."
+      },
+      {
+        "label": "J",
+        "content": "Yet techno-optimists argue that the technological revolution in oil has only just begun. Average recovery rates (how much of the known oil in a reservoir can actually be brought to the surface) are still only around 30-35%. Industry optimists believe that new techniques on the drawing board today could lift that figure to 50-60% within a decade."
+      },
+      {
+        "label": "K",
+        "content": "Given the industry’s astonishing track record of innovation, it may be foolish to bet against it. That is the result of adversity: the nationalisations of the 1970s forced Big Oil to develop reserves in expensive, inaccessible places such as the North Sea and Alaska, undermining Dr Hubbert’s assumption that cheap reserves are developed first. The resulting upstream investments have driven down the cost of finding and developing wells over the last two decades from over $20 a barrel to around $6 a barrel. The cost of producing oil has fallen by half, to under $4 a barrel."
+      },
+      {
+        "label": "L",
+        "content": "Such miracles will not come cheap, however, since much of the world’s oil is now produced in ageing fields that are rapidly declining. The IEA concludes that global oil production need not peak in the next two decades if the necessary investments are made. So how much is necessary? If oil companies are to replace the output lost at those ageing fields and meet the world’s ever-rising demand for oil, the agency reckons they must invest $1 trillion in non-OPEC countries over the next decade alone. That’s quite a figure."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 1-5 on your answer sheet, write YES if the statement agrees with the information, NO if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Hubbert has a high-profile reputation amongst ODAC members.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Oil is likely to last longer than some other energy sources.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The majority of geologists believe that oil will start to run out sometime this decade.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Over 50 percent of the oil we know about is currently being recovered.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "History has shown that some of Hubbert’s principles were mistaken.",
+            "answer": "YES",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Many people believed Hubbert’s theory was 6..................... when it was originally presented.",
+            "answer": "controversial",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "When an oilfield is 7....................., it is easy to…",
+            "answer": "tapped",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The recovery of the oil gets more 8..................... as the reservoir gets older.",
+            "answer": "expensive",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "The oilfield can’t be as 9..................... as other areas.",
+            "answer": "competitive",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following statements (questions 10-14) and the list of people below. Match each statement with the correct person, A-E. Write the correct letter, A-E in boxes 10-14 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "has found fault in the geological research procedure.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Colin Campbell"
+              },
+              {
+                "label": "B",
+                "text": "M. King Hubbert"
+              },
+              {
+                "label": "C",
+                "text": "Kenneth Deffeyes"
+              },
+              {
+                "label": "D",
+                "text": "René Dahan"
+              },
+              {
+                "label": "E",
+                "text": "Michael Lynch"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "has provided the longest-range forecast regarding oil supply.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Colin Campbell"
+              },
+              {
+                "label": "B",
+                "text": "M. King Hubbert"
+              },
+              {
+                "label": "C",
+                "text": "Kenneth Deffeyes"
+              },
+              {
+                "label": "D",
+                "text": "René Dahan"
+              },
+              {
+                "label": "E",
+                "text": "Michael Lynch"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "has convinced others that oil production will follow a particular model.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Colin Campbell"
+              },
+              {
+                "label": "B",
+                "text": "M. King Hubbert"
+              },
+              {
+                "label": "C",
+                "text": "Kenneth Deffeyes"
+              },
+              {
+                "label": "D",
+                "text": "René Dahan"
+              },
+              {
+                "label": "E",
+                "text": "Michael Lynch"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "has accused fellow scientists of refusing to see the truth.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Colin Campbell"
+              },
+              {
+                "label": "B",
+                "text": "M. King Hubbert"
+              },
+              {
+                "label": "C",
+                "text": "Kenneth Deffeyes"
+              },
+              {
+                "label": "D",
+                "text": "René Dahan"
+              },
+              {
+                "label": "E",
+                "text": "Michael Lynch"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "has expressed doubt over whether improved methods of extracting oil are possible.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Colin Campbell"
+              },
+              {
+                "label": "B",
+                "text": "M. King Hubbert"
+              },
+              {
+                "label": "C",
+                "text": "Kenneth Deffeyes"
+              },
+              {
+                "label": "D",
+                "text": "René Dahan"
+              },
+              {
+                "label": "E",
+                "text": "Michael Lynch"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:12:43.413852"
+}

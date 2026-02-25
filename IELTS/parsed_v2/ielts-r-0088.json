@@ -1,0 +1,222 @@
+{
+  "id": "ielts-r-0088",
+  "slug": "changes-in-air",
+  "title": "Changes in Air",
+  "page_range": [
+    449,
+    453
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "TRUE",
+    "2": "C",
+    "9": "FALSE",
+    "3": "A",
+    "10": "A FEDERAL BAN",
+    "11": "GENERIC INHALED",
+    "4": "C ALBUTEROL",
+    "12": "CFCS/",
+    "5": "A CHLOROFLUOROCARBONS",
+    "6": "13. REFORMULATED BRAND- TRUE NAME ALTERNATIVES",
+    "7": "NOT",
+    "14": "UNINSURED GIVEN"
+  },
+  "content": {
+    "title": "Changes in Air",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A federal ban on ozone-depleting chlorofluorocarbons (CFCs), to conform with the Clean Air Act, is, ironically, affecting 22.9 million people in the U.S. who suffer from asthma. Generic inhaled albuterol, which is the most commonly prescribed short-acting asthma medication and requires CFCs to propel it into the lungs, will no longer be legally sold after December 31, 2008. Physicians and patients are questioning the wisdom of the ban, which will have an insignificant effect on ozone but a measurable impact on wallets: the reformulated brand-name alternatives can be three times as expensive, raising the cost to about $40 per inhaler. The issue is even more disconcerting considering that asthma disproportionately affects the poor and that, according to recent surveys, an estimated 20 percent of asthma patients are uninsured."
+      },
+      {
+        "label": "B",
+        "content": "“The decision to make the change was political, not medical or scientific,” says pharmacist Leslie Hendeles of the University of Florida, who co-authored a 2007 paper in the New England Journal of Medicine explaining the withdrawal and transition. In 1987 Congress signed on to the Montreal Protocol on Substances That Deplete the Ozone Layer, an international treaty requiring the phasing out of all nonessential uses of CFCs. At that time, medical inhalers were considered an essential use because no viable alternative propellant existed. In 1989 pharmaceutical companies banded together and eventually, in 1996, reformulated albuterol with hydrofluoroalkane."
+      },
+      {
+        "label": "C",
+        "content": "The transition began quietly, but as more patients see their prescriptions change and costs go up, many question why this ban must begin before generics become available. At least one member of the FDA advisory committee, Nicholas J. Gross of the Stritch-Loyola School of Medicine, has publicly regretted the decision, recanting his support and requesting that the ban be pushed back until 2010, when the first patent expires."
+      },
+      {
+        "label": "D",
+        "content": "Gross notes that the decision had nothing to do with the environment. Albuterol inhalers contributed less than 0.1 percent of the CFCs released when the treaty was signed. “It’s a symbolic issue,” Gross remarks. Some skeptics instead point to the billions of dollars to be gained by the three companies holding the patents on the available HFA-albuterol inhalers, namely Glaxo-SmithKline, Schering-Plough and Teva. Although the FDA advisory committee recognized that the expenses would go up, Hendeles says, it also believed that the companies would help defray the added costs for individuals. Firms, for instance, had committed to donating a million HFA inhalers to clinics around the country. According to Hendeles, GlaxoSmithKline did not follow through, although Schering-Plough and Teva did. GlaxoSmithKline did not respond to requests for comment."
+      },
+      {
+        "label": "E",
+        "content": "The issue now, Hendeles says, is that pharmaceutical-grade CFCs are in short supply, and the public faces the risk of a shortage of albuterol inhalers if the FDA does not continue promoting the production of HFA inhalers. He posits that even costs of generics would go up as CFCs become scarcer. Gross disagrees, saying that the inhaler shortage and the closure of CFC manufacturing plants are a result of the ban."
+      },
+      {
+        "label": "F",
+        "content": "The HFA inhalers also have encountered resistance because some asthmatics insist that they do not work as well as the CFC variety. But, Hendeles says, the differences are in the mechanics and maintenance—unlike CFC inhalers, the HFA versions must be primed more diligently and rinsed to accommodate the stickier HFA formulation. They also run out suddenly without the warning with a CFC inhaler, that the device is running low. “Pharmacists may not tell people of these things, and the doctors don’t know,” Hendeles says."
+      },
+      {
+        "label": "G",
+        "content": "The main public health issue in this decision may be the side effects of the economics, not the drug chemistry. Multiple studies have shown that raising costs leads to poorer adherence to treatment. One study discovered that patients took 30 percent less antiasthma medication when their co-pay doubled. In the case of a chronic disease such as asthma, it is particularly difficult to get people to follow regular treatment plans. “Generally speaking, for any reason you don’t take medication, cost makes it more likely” that you do not, comments Michael Chernew, a health policy expert at Harvard Medical School."
+      },
+      {
+        "label": "H",
+        "content": "Such choices to forgo medication could affect more than just the patients themselves. “For example,” Hendeles points out, “in a pregnant mother with untreated asthma, less oxygen is delivered to the fetus, which can lead to congenital problems and premature birth.” And considering that the disease disproportionately strikes the poor, what seemed to be a good, responsible environmental decision might in the end exact an unexpected human toll."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 1-5 on your answer sheet. NB you may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Put forward that the increase in the price of drugs would contribute to the patients’ negative decision on the treatment.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Spoke out a secret that the druggists try to hold back.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Pointed out that the protocol itself is not concerning the environment.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Demonstrated that the stop of providing alternatives for CFCs would worsen rather than help with the situation.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "In public repented of his previous backing up of the prohibition proposal.",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 6-9 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "It took almost a decade before the replacement drug for the asthma therapy was ultimately developed by the joint effort of several drug companies.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "One of the FDA committee members had a decisive impact on the implementation of the ban on chlorofluorocarbons.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "As a matter of fact, the emitted chlorofluorocarbons in asthma treatment took up quite an insignificant amount at the time when the pact was reached.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The HFA and CFC inhalers have something different regarding the therapeutic effect.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage, using No More than Three words from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "American people with asthma would be impacted by 10..................... about chlorofluorocarbons which would consume the ozone layer.",
+            "answer": "A FEDERAL BAN",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The usually used 11..................... would be considered illegal because it needs the propelment of 12.....................",
+            "answer": "GENERIC INHALED",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "The usually used 11..................... would be considered illegal because it needs the propelment of 12.....................",
+            "answer": "CFCS/",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The 13..................... would cost the patients considerably more money.",
+            "answer": "REFORMULATED BRAND-NAME ALTERNATIVES",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Impoverished people are far more likely to suffer from asthma and what makes it even worse is that some of them are in 14..................... condition.",
+            "answer": "UNINSURED",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T19:42:58.506471"
+}

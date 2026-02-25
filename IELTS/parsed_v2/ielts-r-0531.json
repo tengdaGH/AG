@@ -1,0 +1,341 @@
+{
+  "id": "ielts-r-0531",
+  "slug": "the-pompidou-centre",
+  "title": "The Pompidou Centre",
+  "page_range": [
+    2685,
+    2689
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "A",
+    "2": "A",
+    "9": "YES",
+    "3": "C",
+    "10": "NOT GIVEN",
+    "4": "C",
+    "11": "NO",
+    "5": "D",
+    "12": "NO",
+    "6": "B",
+    "13": "NO",
+    "7": "F",
+    "14": "YES"
+  },
+  "content": {
+    "title": "The Pompidou Centre",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "More than three decades after it was built, the Pompidou Centre in Paris has survived its moment at the edge of architectural fashion and proved itself to be one of the most remarkable buildings of the 20th century. It was the most outstanding new building constructed in Paris for two generations. It looked like an explosion of brightly coloured service pipes in the calm of the city centre. However, when in 1977 the architects Richard Rogers and Renzo Piano stood among a large crowd of 5,000 at the opening of the Centre Culturel d'Art Georges Pompidou (known as the Pompidou), no one was really aware of the significance of this unusual building."
+      },
+      {
+        "label": null,
+        "content": "Rogers was only 38 when he and Piano won the competition to design a new cultural centre for Paris in the old market site. Young, unknown architects, they had been chosen from a field of nearly 700 to design one of the most prestigious buildings of its day. After six difficult years, with 25,000 drawings, seven lawsuits, battles over budgets, and a desperate last-minute scramble to finish the building, it had finally been done."
+      },
+      {
+        "label": null,
+        "content": "Yet the opening was a downbeat moment. The Pompidou Centre had been rubbished by the critics while it was being built, there was no more work in prospect for the architects, and their partnership had effectively broken down. But this was just a passing crisis. The Centre, which combined the national museum of modern art, exhibition space, a public library and a centre for modern music, proved an enormous success. It attracted six million visitors in its first year, and with its success, the critics swiftly changed their tune."
+      },
+      {
+        "label": null,
+        "content": "The architects had been driven by the desire for ultimate flexibility, for a building that would not limit the movement of its users. All the different parts were approached through the same enormous entrance hall and served by the same escalator, which was free to anyone to ride, whether they wanted to visit an exhibition or just admire the view. With all the services at one end of the building, escalators and lifts at the other, and the floors hung on giant steel beams providing uninterrupted space the size of two football pitches, their dream had become a reality."
+      },
+      {
+        "label": null,
+        "content": "The image of the Pompidou pervaded popular culture in the 1970s, making appearances everywhere - on record-album covers and a table lamp, and even acting as the set for a James Bond film. This did much to overcome the secretive nature of the architectural culture of its time, as it enabled a wider audience to appreciate the style and content of the building and so moved away from the strictly professional view."
+      },
+      {
+        "label": null,
+        "content": "The following year, Rogers was commissioned to design a new headquarters for Lloyd's Bank in London and went on to create one of Britain's most dynamic architectural practices. Piano is now among the world's most respected architects. But what of their shared creation?"
+      },
+      {
+        "label": null,
+        "content": "It was certainly like no previous museum, with its plans for a flexible interior that not only had movable walls but floors that could also be adjusted up or down. This second feature did not in the end survive when the competition drawings were turned into a real building. In other ways, however, the finished building demonstrated a remarkable degree of refinement - of craftsmanship even - in the way the original diagram was transformed into a superbly detailed structure. It was this quality which, according to some critics, suggested that the Pompidou should be seen as closer to the 19th-century engineering tradition than the space age."
+      },
+      {
+        "label": null,
+        "content": "Nevertheless, as a model for urban planning, it has proved immensely influential. The Guggenheim in Bilbao and the many other major landmark projects that were built in the belief that innovatively designed cultural buildings can bring about urban renewal are all following the lead of the Pompidou Centre."
+      },
+      {
+        "label": null,
+        "content": "Other buildings may now challenge it for the title of Europe's most outlandish work of architecture. However, more than a quarter of a century later, this construction - it is hard to call it a building when there is no façade, just a lattice of steel beams and pipes and a long external escalator snaking up the outside - still seems extreme."
+      },
+      {
+        "label": null,
+        "content": "Today, the Pompidou Centre itself still looks much as it did when it opened. The shock value of its colour-coded plumbing and its structure has not faded with the years. But while traditionalists regarded it as an ugly attack on Paris when it was built, they now see it for what it is - an enormous achievement, technically and conceptually."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What does the writer say in the first paragraph about the opening of the Pompidou Centre?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "The elderly did not like it."
+              },
+              {
+                "label": "B",
+                "text": "The architects were not present."
+              },
+              {
+                "label": "C",
+                "text": "The atmosphere was very noisy."
+              },
+              {
+                "label": "D",
+                "text": "The people did not realise its importance."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What does the writer say in the second paragraph about the construction of the Pompidou?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "There was a hurry to complete it."
+              },
+              {
+                "label": "B",
+                "text": "It cost less than expected."
+              },
+              {
+                "label": "C",
+                "text": "Other experts helped draw the plans."
+              },
+              {
+                "label": "D",
+                "text": "The market location was criticised."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What is the writer’s main purpose in the third paragraph?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "to explain the multi-functional role of the centre"
+              },
+              {
+                "label": "B",
+                "text": "to praise the architects for their design ideas"
+              },
+              {
+                "label": "C",
+                "text": "to say why some people’s opinions quickly altered"
+              },
+              {
+                "label": "D",
+                "text": "to show how the media benefited from its success"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What was the architects’ 'dream', referred to in the fourth paragraph?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "to become famous"
+              },
+              {
+                "label": "B",
+                "text": "to provide entertainment"
+              },
+              {
+                "label": "C",
+                "text": "to allow visitors to use it freely"
+              },
+              {
+                "label": "D",
+                "text": "to build the biggest museum in the world"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending, A-F, below.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "The escalators and lifts inside the Pompidou",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "reminded some people of past building styles."
+              },
+              {
+                "label": "B",
+                "text": "were used to decorate everyday objects."
+              },
+              {
+                "label": "C",
+                "text": "fitted in well with the external surroundings."
+              },
+              {
+                "label": "D",
+                "text": "were situated on one side of the building."
+              },
+              {
+                "label": "E",
+                "text": "showed people which area to visit."
+              },
+              {
+                "label": "F",
+                "text": "were changed during the construction process."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "In the 1970s, pictures of the Pompidou",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "reminded some people of past building styles."
+              },
+              {
+                "label": "B",
+                "text": "were used to decorate everyday objects."
+              },
+              {
+                "label": "C",
+                "text": "fitted in well with the external surroundings."
+              },
+              {
+                "label": "D",
+                "text": "were situated on one side of the building."
+              },
+              {
+                "label": "E",
+                "text": "showed people which area to visit."
+              },
+              {
+                "label": "F",
+                "text": "were changed during the construction process."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The original plans for the floors of the Pompidou",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "reminded some people of past building styles."
+              },
+              {
+                "label": "B",
+                "text": "were used to decorate everyday objects."
+              },
+              {
+                "label": "C",
+                "text": "fitted in well with the external surroundings."
+              },
+              {
+                "label": "D",
+                "text": "were situated on one side of the building."
+              },
+              {
+                "label": "E",
+                "text": "showed people which area to visit."
+              },
+              {
+                "label": "F",
+                "text": "were changed during the construction process."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The detailed structure of the finished building",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "reminded some people of past building styles."
+              },
+              {
+                "label": "B",
+                "text": "were used to decorate everyday objects."
+              },
+              {
+                "label": "C",
+                "text": "fitted in well with the external surroundings."
+              },
+              {
+                "label": "D",
+                "text": "were situated on one side of the building."
+              },
+              {
+                "label": "E",
+                "text": "showed people which area to visit."
+              },
+              {
+                "label": "F",
+                "text": "were changed during the construction process."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in the reading passage?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "The Pompidou has influenced the way cities are designed.",
+            "answer": "YES"
+          },
+          {
+            "number": 10,
+            "text": "The Guggenheim has been more popular than the Pompidou.",
+            "answer": "NOT GIVEN"
+          },
+          {
+            "number": 11,
+            "text": "The word building fits the Pompidou better than the word construction.",
+            "answer": "NO"
+          },
+          {
+            "number": 12,
+            "text": "The Pompidou’s appearance has changed considerably since it opened.",
+            "answer": "NO"
+          },
+          {
+            "number": 13,
+            "text": "Nowadays, the design of the Pompidou fails to shock people.",
+            "answer": "NO"
+          },
+          {
+            "number": 14,
+            "text": "The traditionalist view of the Pompidou has changed over the years.",
+            "answer": "YES"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:46:24.754360"
+}

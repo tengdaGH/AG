@@ -1,0 +1,306 @@
+{
+  "id": "ielts-r-0644",
+  "slug": "willpower",
+  "title": "Willpower",
+  "page_range": [
+    3253,
+    3257
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "E",
+    "2": "FALSE",
+    "9": "D",
+    "3": "FALSE",
+    "10": "A",
+    "4": "TRUE",
+    "11": "C",
+    "5": "NOT GIVEN",
+    "12": "C",
+    "6": "TRUE",
+    "13": "B",
+    "7": "NOT GIVEN",
+    "14": "C"
+  },
+  "content": {
+    "title": "Willpower",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Although willpower does not shape our decisions, it determines whether and how long we can follow through on them. It almost single-handedly determines life outcomes. Interestingly, research suggests the general population is indeed aware of how essential willpower is to their wellbeing; survey participants routinely identify a 'lack of willpower' as the major impediment to making beneficial life changes. There are, however, misunderstandings surrounding the nature of willpower and how we can acquire more of it. There is a widespread misperception, for example, that increased leisure time would lead to subsequent increases in willpower."
+      },
+      {
+        "label": "B",
+        "content": "Although the concept of willpower is often explained through single-word terms, such as 'resolve' or 'drive', it refers in fact to a variety of behaviours and situations. There is a common perception that willpower entails resisting some kind of a 'treat', such as a sugary drink or a lazy morning in bed, in favour of decisions that we know are better for us, such as drinking water or going to the gym. Of course this is a familiar phenomenon for all. Yet willpower also involves elements such as overriding negative thought processes, biting your tongue in social situations, or persevering through a difficult activity. At the heart of any exercise of willpower, however, is the notion of 'delayed gratification', which involves resisting immediate satisfaction for a course that will yield greater or more permanent satisfaction in the long run."
+      },
+      {
+        "label": "C",
+        "content": "Scientists are making general investigations into why some individuals are better able than others to delay gratification and thus employ their willpower, but the genetic or environmental origins of this ability remain a mystery for now. Some groups who are particularly vulnerable to reduced willpower capacity, such as those with addictive personalities, may claim a biological origin for their problems. What is clear is that levels of willpower typically remain consistent over time (studies tracking individuals from early childhood to their adult years demonstrate a remarkable consistency in willpower abilities). In the short term, however, our ability to draw on willpower can fluctuate dramatically due to factors such as fatigue, diet and stress. Indeed, research by Matthew Gailliot suggests that willpower, even in the absence of physical activity, both requires and drains blood glucose levels, suggesting that willpower operates more or less like a 'muscle', and, like a muscle, requires fuel for optimum functioning."
+      },
+      {
+        "label": "D",
+        "content": "These observations lead to an important question: if the strength of our willpower at the age of thirty-five is somehow pegged to our ability at the age of four, are all efforts to improve our willpower certain to prove futile? According to newer research, this is not necessarily the case. Gregory M. Walton, for example, found that a single verbal cue – telling research participants how strenuous mental tasks could 'energise' them for further challenging activities – made a profound difference in terms of how much willpower participants could draw upon to complete the activity. Just as our willpower is easily drained by negative influences, it appears that willpower can also be boosted by other prompts, such as encouragement or optimistic self-talk."
+      },
+      {
+        "label": "E",
+        "content": "Strengthening willpower thus relies on a two-pronged approach: reducing negative influences and improving positive ones. One of the most popular and effective methods simply involves avoiding willpower depletion triggers, and is based on the old adage, 'out of sight, out of mind'. In one study, workers who kept a bowl of enticing candy on their desks were far more likely to indulge than those who placed it in a desk drawer. It also appears that finding sources of motivation from within us may be important. In another study, Mark Muraven found that those who felt compelled by an external authority to exert self-control experienced far greater rates of willpower depletion than those who identified their own reasons for taking a particular course of action. This idea that our mental convictions can influence willpower was borne out by Veronika Job. Her research indicates that those who think that willpower is a finite resource exhaust their supplies of this commodity long before those who do not hold this opinion."
+      },
+      {
+        "label": "F",
+        "content": "Willpower is clearly fundamental to our ability to follow through on our decisions but, as psychologist Roy Baumeister has discovered, a lack of willpower may not be the sole impediment every time our good intentions fail to manifest themselves. A critical precursor, he suggests, is motivation – if we are only mildly invested in the change we are trying to make, our efforts are bound to fall short. This may be why so many of us abandon our New Year’s Resolutions – if these were actions we really wanted to take, rather than things we felt we ought to be doing, we would probably be doing them already. In addition, Muraven emphasises the value of monitoring progress towards a desired result, such as by using a fitness journal, or keeping a record of savings toward a new purchase. The importance of motivation and monitoring cannot be overstated. Indeed, it appears that, even when our willpower reserves are entirely depleted, motivation alone may be sufficient to keep us on the course we originally chose."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Willpower is the most significant factor in determining success in life.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "People with more free time typically have better willpower.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Willpower mostly applies to matters of diet and exercise.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The strongest indicator of willpower is the ability to choose long-term rather than short-term rewards.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Researchers have studied the genetic basis of willpower.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Levels of willpower usually stay the same throughout our lives.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Regular physical exercise improves our willpower ability.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following statements (Questions 8-13) and the list of researchers below. Match each statement with the correct person, A–D. Write the correct letter, A–D, in boxes 8-13 on your answer sheet. NB You may use some letters more than once.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "identified a key factor that is necessary for willpower to function.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Matthew Gailliot"
+              },
+              {
+                "label": "B",
+                "text": "Gregory M. Walton"
+              },
+              {
+                "label": "C",
+                "text": "Mark Muraven"
+              },
+              {
+                "label": "D",
+                "text": "Veronika Job"
+              },
+              {
+                "label": "E",
+                "text": "Roy Baumeister"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "suggested that willpower is affected by our beliefs.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Matthew Gailliot"
+              },
+              {
+                "label": "B",
+                "text": "Gregory M. Walton"
+              },
+              {
+                "label": "C",
+                "text": "Mark Muraven"
+              },
+              {
+                "label": "D",
+                "text": "Veronika Job"
+              },
+              {
+                "label": "E",
+                "text": "Roy Baumeister"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "examined how our body responds to the use of willpower.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Matthew Gailliot"
+              },
+              {
+                "label": "B",
+                "text": "Gregory M. Walton"
+              },
+              {
+                "label": "C",
+                "text": "Mark Muraven"
+              },
+              {
+                "label": "D",
+                "text": "Veronika Job"
+              },
+              {
+                "label": "E",
+                "text": "Roy Baumeister"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "discovered how important it is to make and track goals.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Matthew Gailliot"
+              },
+              {
+                "label": "B",
+                "text": "Gregory M. Walton"
+              },
+              {
+                "label": "C",
+                "text": "Mark Muraven"
+              },
+              {
+                "label": "D",
+                "text": "Veronika Job"
+              },
+              {
+                "label": "E",
+                "text": "Roy Baumeister"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "found that taking actions to please others decreases our willpower.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Matthew Gailliot"
+              },
+              {
+                "label": "B",
+                "text": "Gregory M. Walton"
+              },
+              {
+                "label": "C",
+                "text": "Mark Muraven"
+              },
+              {
+                "label": "D",
+                "text": "Veronika Job"
+              },
+              {
+                "label": "E",
+                "text": "Roy Baumeister"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "found that willpower can increase through simple positive thoughts.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Matthew Gailliot"
+              },
+              {
+                "label": "B",
+                "text": "Gregory M. Walton"
+              },
+              {
+                "label": "C",
+                "text": "Mark Muraven"
+              },
+              {
+                "label": "D",
+                "text": "Veronika Job"
+              },
+              {
+                "label": "E",
+                "text": "Roy Baumeister"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which of the following is NOT mentioned as a factor in willpower?",
+        "questions": [
+          {
+            "number": 14,
+            "text": "Willpower is affected by:",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "physical factors such as tiredness"
+              },
+              {
+                "label": "B",
+                "text": "our fundamental ability to delay pleasure"
+              },
+              {
+                "label": "C",
+                "text": "the levels of certain chemicals in our brains"
+              },
+              {
+                "label": "D",
+                "text": "environmental cues such as the availability of a trigger"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:19:54.062367"
+}

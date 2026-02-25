@@ -1,0 +1,79 @@
+1
+00:00:01,005 --> 00:00:05,689
+Good afternoon, and welcome to the biology lab.
+
+2
+00:00:05,689 --> 00:00:11,332
+Before we begin, I'd like to go over some important safety rules.
+
+3
+00:00:11,332 --> 00:00:16,137
+Safety goggles must be worn at all times during experiments.
+
+4
+00:00:16,137 --> 00:00:20,217
+Lab coats are available in the cabinet next to the door.
+
+5
+00:00:20,217 --> 00:00:24,575
+Never eat or drink anything while you are working in the laboratory.
+
+6
+00:00:24,575 --> 00:00:29,406
+All chemicals should be handled with gloves to avoid skin contact.
+
+7
+00:00:29,406 --> 00:00:34,727
+The emergency eyewash station is located right behind the instructor's desk.
+
+8
+00:00:34,727 --> 00:00:40,264
+If you accidentally spill any chemicals, notify your instructor immediately.
+
+9
+00:00:40,264 --> 00:00:45,299
+Fire extinguishers are mounted on the wall near both exits of this room.
+
+10
+00:00:45,299 --> 00:00:51,547
+Make sure you know the location of the nearest emergency exit before starting your work.
+
+11
+00:00:51,547 --> 00:00:57,996
+Used materials must be disposed of in the designated waste containers, not in the regular trash.
+
+12
+00:00:57,996 --> 00:01:04,785
+Biological samples should always be stored in sealed containers and clearly labeled with your name.
+
+13
+00:01:04,785 --> 00:01:11,226
+When using a microscope, make sure the lens is clean before placing your slide on the stage.
+
+14
+00:01:11,226 --> 00:01:17,148
+Each group is responsible for cleaning their workstation at the end of every lab session.
+
+15
+00:01:17,148 --> 00:01:24,326
+If the fire alarm goes off during an experiment, turn off all equipment and exit through the nearest door.
+
+16
+00:01:24,326 --> 00:01:31,545
+You are required to complete the online safety quiz before you will be allowed to participate in any lab activities.
+
+17
+00:01:31,545 --> 00:01:39,484
+Proper ventilation is essential when working with volatile substances, so always use the fume hood provided.
+
+18
+00:01:39,484 --> 00:01:47,006
+In the event of a chemical burn, immediately rinse the affected area with cold water for at least fifteen minutes.
+
+19
+00:01:47,006 --> 00:01:55,088
+All lab reports must follow the standard format outlined in the course syllabus and be submitted by the end of the week.
+
+20
+00:01:55,088 --> 00:02:03,087
+If you have any questions about today's procedures or the equipment we'll be using, please raise your hand and I'll come over to help.

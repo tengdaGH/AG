@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Write an Email Question Bank",
+    "source": "Better TOEFL Scores, ETS Official",
+    "totalQuestions": 20,
+    "lastUpdated": "2026-02-20"
+  },
+  "questions": [
+    {
+      "id": "WE01",
+      "topic": "Missed Class Due to Illness",
+      "topicChinese": "因病错过课程",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You are a student at a university. You recently missed an important class because of an illness. You need to email your instructor to explain the situation and ask about making up the missed work.",
+      "bullets": [
+        "Explain why you missed the class",
+        "Ask what you should do to catch up",
+        "Use a polite and appropriate tone"
+      ]
+    },
+    {
+      "id": "WE02",
+      "topic": "Requesting an Extension",
+      "topicChinese": "请求延期",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You are a student in a university course. An important assignment is due tomorrow, but you have had an unexpected personal situation that has limited your time.",
+      "bullets": [
+        "Briefly explain the situation",
+        "Ask whether an extension is possible",
+        "Maintain a polite and respectful tone"
+      ]
+    },
+    {
+      "id": "WE03",
+      "topic": "Clarifying Assignment Instructions",
+      "topicChinese": "澄清作业说明",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You are confused about part of an assignment description posted online. You want to make sure you understand the expectations before submitting your work.",
+      "bullets": [
+        "Explain what part of the assignment is unclear",
+        "Ask for clarification",
+        "Show that you have already reviewed the instructions"
+      ]
+    },
+    {
+      "id": "WE04",
+      "topic": "Group Project Issue",
+      "topicChinese": "小组项目问题",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You are working on a group project. One group member has not been responding to messages, and the deadline is approaching.",
+      "bullets": [
+        "Explain the situation objectively",
+        "Ask for advice on how to proceed",
+        "Avoid blaming or emotional language"
+      ]
+    },
+    {
+      "id": "WE05",
+      "topic": "Thanking Instructor and Follow-Up",
+      "topicChinese": "感谢老师并后续提问",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "Your instructor recently gave you helpful feedback on an assignment. You want to thank them and ask one follow-up question about improving future work.",
+      "bullets": [
+        "Thank the instructor for the feedback",
+        "Mention briefly how it helped you",
+        "Ask one clear follow-up question"
+      ]
+    },
+    {
+      "id": "WE06",
+      "topic": "Scheduling Office Hours",
+      "topicChinese": "预约办公时间",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You want to meet with your instructor during office hours, but the scheduled time conflicts with another class.",
+      "bullets": [
+        "Explain the scheduling conflict",
+        "Ask if an alternative meeting time is available",
+        "Use a polite and professional tone"
+      ]
+    },
+    {
+      "id": "WE07",
+      "topic": "Reporting Technical Problem",
+      "topicChinese": "报告技术问题",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You attempted to submit an assignment online, but the system did not accept your file before the deadline.",
+      "bullets": [
+        "Explain what happened",
+        "Indicate when you attempted to submit the assignment",
+        "Ask what you should do next"
+      ]
+    },
+    {
+      "id": "WE08",
+      "topic": "Requesting Feedback on Progress",
+      "topicChinese": "请求进度反馈",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You are halfway through the semester and want feedback on how you are doing in the course.",
+      "bullets": [
+        "Ask for feedback on your progress",
+        "Mention one area you are trying to improve",
+        "Show motivation to learn"
+      ]
+    },
+    {
+      "id": "WE09",
+      "topic": "Clarifying Course Policies",
+      "topicChinese": "澄清课程政策",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You are unsure about the course policy on late assignments and want to confirm the rules.",
+      "bullets": [
+        "Refer to the course syllabus",
+        "Ask for clarification about the policy",
+        "Use a formal academic tone"
+      ]
+    },
+    {
+      "id": "WE10",
+      "topic": "Apologizing for Missed Deadline",
+      "topicChinese": "为错过截止日期道歉",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You missed a minor assignment deadline because you misunderstood the due date.",
+      "bullets": [
+        "Apologize briefly and clearly",
+        "Take responsibility for the mistake",
+        "Ask how you can proceed"
+      ]
+    },
+    {
+      "id": "WE11",
+      "topic": "Asking About Exam Format",
+      "topicChinese": "询问考试形式",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "Your instructor announced an upcoming exam, but you are unsure about the format.",
+      "bullets": [
+        "Ask about the exam format",
+        "Mention what information you already know",
+        "Use a polite academic tone"
+      ]
+    },
+    {
+      "id": "WE12",
+      "topic": "Requesting Recommendation Letter",
+      "topicChinese": "请求推荐信",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You are applying for a graduate program and would like to ask your instructor for a recommendation letter.",
+      "bullets": [
+        "Politely ask if they would be willing to write a recommendation",
+        "Mention the purpose of the letter",
+        "Acknowledge their time and effort"
+      ]
+    },
+    {
+      "id": "WE13",
+      "topic": "Explaining Late Arrival to Class",
+      "topicChinese": "解释上课迟到",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You have been arriving late to class because of a change in your transportation schedule.",
+      "bullets": [
+        "Explain the situation briefly",
+        "Apologize for the disruption",
+        "Indicate how you plan to address it"
+      ]
+    },
+    {
+      "id": "WE14",
+      "topic": "Asking Permission to Record Lecture",
+      "topicChinese": "请求允许录制讲座",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You would like to record a lecture for study purposes but are unsure if it is allowed.",
+      "bullets": [
+        "Ask for permission",
+        "Explain your reason briefly",
+        "Assure appropriate use"
+      ]
+    },
+    {
+      "id": "WE15",
+      "topic": "Requesting Grading Criteria Clarification",
+      "topicChinese": "请求澄清评分标准",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You received a grade lower than expected on an assignment and want clarification.",
+      "bullets": [
+        "Ask about the grading criteria",
+        "Avoid challenging the grade directly",
+        "Express interest in improvement"
+      ]
+    },
+    {
+      "id": "WE16",
+      "topic": "Informing About Upcoming Absence",
+      "topicChinese": "通知即将缺席",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You will miss an upcoming class due to a previously scheduled obligation.",
+      "bullets": [
+        "Inform them of the absence",
+        "Ask about missed materials",
+        "Maintain a professional tone"
+      ]
+    },
+    {
+      "id": "WE17",
+      "topic": "Following Up on Previous Email",
+      "topicChinese": "跟进之前的邮件",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You emailed your instructor last week but did not receive a response.",
+      "bullets": [
+        "Politely reference the previous message",
+        "Restate your question briefly",
+        "Remain courteous"
+      ]
+    },
+    {
+      "id": "WE18",
+      "topic": "Requesting Course Materials",
+      "topicChinese": "请求课程材料",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You missed a class and need access to the materials that were discussed.",
+      "bullets": [
+        "Explain why you missed the class",
+        "Ask how to access the materials",
+        "Thank them for their help"
+      ]
+    },
+    {
+      "id": "WE19",
+      "topic": "Asking About Extra Credit",
+      "topicChinese": "询问额外学分",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You want to know if there are any opportunities to earn extra credit in the course.",
+      "bullets": [
+        "Ask about extra credit politely",
+        "Explain your interest in improving",
+        "Accept that the answer may be no"
+      ]
+    },
+    {
+      "id": "WE20",
+      "topic": "Confirming Course Registration",
+      "topicChinese": "确认课程注册",
+      "timeLimit": 7,
+      "wordTarget": "65-90",
+      "scenario": "You recently added a course late and want to confirm that your registration is complete.",
+      "bullets": [
+        "Explain your situation",
+        "Ask if you are fully enrolled",
+        "Ask about any immediate tasks"
+      ]
+    }
+  ]
+}

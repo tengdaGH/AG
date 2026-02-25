@@ -1,0 +1,355 @@
+{
+  "id": "ielts-r-0545",
+  "slug": "-the-risks-of-cigarette-smoke",
+  "title": "The Risks of Cigarette Smoke",
+  "page_range": [
+    2758,
+    2763
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "E",
+    "2": "A",
+    "9": "G",
+    "3": "C",
+    "10": "H",
+    "4": "NO",
+    "11": "A",
+    "5": "NOT GIVEN",
+    "12": "B",
+    "6": "YES",
+    "13": "B",
+    "7": "NOT GIVEN",
+    "14": "C"
+  },
+  "content": {
+    "title": "The Risks of Cigarette Smoke",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Discovered in the early 1800s and named nicotianine, the oily essence now called nicotine is the main active ingredient of tobacco. Nicotine, however, is only a small component of cigarette smoke, which contains more than 4,700 chemical compounds, including 43 cancer-causing substances. In recent times, scientific research has been providing evidence that years of cigarette smoking vastly increases the risk of developing fatal medical conditions."
+      },
+      {
+        "label": null,
+        "content": "In addition to being responsible for more than 85 per cent of lung cancers, smoking is associated with cancers of, amongst others, the mouth, stomach and kidneys, and is thought to cause about 14 per cent of leukemia and cervical cancers. In 1990, smoking caused more than 84,000 deaths, mainly resulting from such problems as pneumonia, bronchitis and influenza. Smoking, it is believed, is responsible for 30 per cent of all deaths from cancer and clearly represents the most important preventable cause of cancer in countries like the United States today."
+      },
+      {
+        "label": null,
+        "content": "Passive smoking, the breathing in of the side-stream smoke from the burning of tobacco between puffs or of the smoke exhaled by a smoker, also causes a serious health risk. A report published in 1992 by the US Environmental Protection Agency (EPA) emphasized the health dangers, especially from side-stream smoke. This type of smoke contains more, smaller particles and is therefore more likely to be deposited deep in the lungs. On the basis of this report, the EPA has classified environmental tobacco smoke in the highest risk category for causing cancer."
+      },
+      {
+        "label": null,
+        "content": "As an illustration of the health risks, in the case of a married couple where one partner is a smoker and one a non-smoker, the latter is believed to have a 30 per cent higher risk of death from heart disease because of passive smoking. The risk of lung cancer also increases over the years of exposure and the figure jumps to 80 per cent if the spouse has been smoking four packs a day for 20 years. It has been calculated that 17 per cent of cases of lung cancer can be attributed to high levels of exposure to second-hand tobacco smoke during childhood and adolescence."
+      },
+      {
+        "label": null,
+        "content": "A more recent study by researchers at the University of California at San Francisco (UCSF) has shown that second-hand cigarette smoke does more harm to non-smokers than to smokers. Leaving aside the philosophical question of whether anyone should have to breathe someone else's cigarette smoke, the report suggests that the smoke experienced by many people in their daily lives is enough to produce substantial adverse effects on a person's heart and lungs."
+      },
+      {
+        "label": null,
+        "content": "The report, published in the Journal of the American Medical Association (AMA), was based on the researchers' own earlier research but also includes a review of studies over the past few years. The American Medical Association represents about half of all US doctors and is a strong opponent of smoking. The study suggests that people who smoke cigarettes are continually damaging their cardiovascular system, which adapts in order to compensate for the effects of smoking. It further states that people who do not smoke do not have the benefit of their system adapting to the smoke inhalation. Consequently, the effects of passive smoking are far greater on non-smokers than on smokers."
+      },
+      {
+        "label": null,
+        "content": "This report emphasizes that cancer is not caused by a single element in cigarette smoke; harmful effects to health are caused by many components. Carbon monoxide, for example, competes with oxygen in red blood cells and interferes with the blood's ability to deliver life-giving oxygen to the heart. Nicotine and other toxins in cigarette smoke activate small blood cells called platelets, which increases the likelihood of blood clots, thereby affecting blood circulation throughout the body."
+      },
+      {
+        "label": null,
+        "content": "The researchers criticize the practice of some scientific consultants who work with the tobacco industry for assuming that cigarette smoke has the same impact on smokers as it does on non-smokers. They argue that those scientists are underestimating the damage done by passive smoking and, in support of their recent findings, cite some previous research which points to passive smoking as the cause for between 30,000 and 60,000 deaths from heart attacks each year in the United States. This means that passive smoking is the third most preventable cause of death after active smoking and alcohol-related diseases."
+      },
+      {
+        "label": null,
+        "content": "The study argues that the type of action needed against passive smoking should be similar to that being taken against illegal drugs and AIDS (SIDA). The UCSF researchers maintain that the simplest and most cost-effective action is to establish smoke-free work places, schools and public places."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A—D and write them in boxes 1-3 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "According to information in the text, leukaemia and pneumonia",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "are responsible for 84,000 deaths each year."
+              },
+              {
+                "label": "B",
+                "text": "are strongly linked to cigarette smoking."
+              },
+              {
+                "label": "C",
+                "text": "are strongly linked to lung cancer."
+              },
+              {
+                "label": "D",
+                "text": "result in 30 per cent of deaths per year."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "According to information in the text, intake of carbon monoxide",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "inhibits the flow of oxygen to the heart."
+              },
+              {
+                "label": "B",
+                "text": "increases absorption of other smoke particles."
+              },
+              {
+                "label": "C",
+                "text": "inhibits red blood cell formation."
+              },
+              {
+                "label": "D",
+                "text": "promotes nicotine absorption."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "According to information in the text, intake of nicotine encourages",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "blood circulation through the body."
+              },
+              {
+                "label": "B",
+                "text": "activity of other toxins in the blood."
+              },
+              {
+                "label": "C",
+                "text": "formation of blood clots."
+              },
+              {
+                "label": "D",
+                "text": "an increase of platelets in the blood."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements reflect the claims of the writer in Reading Passage? In boxes 4-7 on your answer sheet write YES if the statement reflects the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "Thirty per cent of deaths in the United States are caused by smoking-related diseases.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "If one partner in a marriage smokes, the other is likely to take up smoking.",
+            "answer": "NOT_GIVEN",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Teenagers whose parents smoke are at risk of getting lung cancer at some time during their lives.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Opponents of smoking financed the UCSF study.",
+            "answer": "NOT_GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "instruction": "Choose ONE phrase from the list of phrases A-J below to complete each of the following sentences (Questions 8-10).",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Passive smoking",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "includes reviews of studies in its report."
+              },
+              {
+                "label": "B",
+                "text": "argues for stronger action against smoking."
+              },
+              {
+                "label": "C",
+                "text": "is one of the two most preventable causes of death."
+              },
+              {
+                "label": "D",
+                "text": "is more likely to be at risk from passive smoking."
+              },
+              {
+                "label": "E",
+                "text": "is more harmful to non-smokers than to smokers."
+              },
+              {
+                "label": "F",
+                "text": "is less likely to be at risk of contracting lung cancer."
+              },
+              {
+                "label": "G",
+                "text": "is more likely to be at risk of contracting lung cancer."
+              },
+              {
+                "label": "H",
+                "text": "opposes smoking and publishes research."
+              },
+              {
+                "label": "I",
+                "text": "is just as harmful to smokers as it is to non-smokers."
+              },
+              {
+                "label": "J",
+                "text": "reduces the quantity of blood flowing to the heart."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Compared with a non-smoker, a smoker",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "includes reviews of studies in its report."
+              },
+              {
+                "label": "B",
+                "text": "argues for stronger action against smoking."
+              },
+              {
+                "label": "C",
+                "text": "is one of the two most preventable causes of death."
+              },
+              {
+                "label": "D",
+                "text": "is more likely to be at risk from passive smoking."
+              },
+              {
+                "label": "E",
+                "text": "is more harmful to non-smokers than to smokers."
+              },
+              {
+                "label": "F",
+                "text": "is less likely to be at risk of contracting lung cancer."
+              },
+              {
+                "label": "G",
+                "text": "is more likely to be at risk of contracting lung cancer."
+              },
+              {
+                "label": "H",
+                "text": "opposes smoking and publishes research."
+              },
+              {
+                "label": "I",
+                "text": "is just as harmful to smokers as it is to non-smokers."
+              },
+              {
+                "label": "J",
+                "text": "reduces the quantity of blood flowing to the heart."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The American Medical Association",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "includes reviews of studies in its report."
+              },
+              {
+                "label": "B",
+                "text": "argues for stronger action against smoking."
+              },
+              {
+                "label": "C",
+                "text": "is one of the two most preventable causes of death."
+              },
+              {
+                "label": "D",
+                "text": "is more likely to be at risk from passive smoking."
+              },
+              {
+                "label": "E",
+                "text": "is more harmful to non-smokers than to smokers."
+              },
+              {
+                "label": "F",
+                "text": "is less likely to be at risk of contracting lung cancer."
+              },
+              {
+                "label": "G",
+                "text": "is more likely to be at risk of contracting lung cancer."
+              },
+              {
+                "label": "H",
+                "text": "opposes smoking and publishes research."
+              },
+              {
+                "label": "I",
+                "text": "is just as harmful to smokers as it is to non-smokers."
+              },
+              {
+                "label": "J",
+                "text": "reduces the quantity of blood flowing to the heart."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Classify the following statements as being A a finding of the UCSF study, B an opinion of the UCSF study, C a finding of the EPA report, D an assumption of consultants to the tobacco industry.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Smokers’ cardiovascular systems adapt to the intake of environmental smoke.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "There is a philosophical question as to whether people should have to inhale others’ smoke.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Smoke-free public places offer the best solution.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "The intake of side-stream smoke is more harmful than smoke exhaled by a smoker.",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:55:31.046278"
+}

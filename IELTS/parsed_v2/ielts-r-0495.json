@@ -1,0 +1,223 @@
+{
+  "id": "ielts-r-0495",
+  "slug": "the-history-of-the-invention-of-plastics",
+  "title": "The History of the Invention of Plastics",
+  "page_range": [
+    2506,
+    2510
+  ],
+  "raw_answer_key": {
+    "1": "F",
+    "8": "TRUE",
+    "2": "A",
+    "9": "FALSE",
+    "3": "E",
+    "10": "METAL FABRICATION",
+    "4": "C",
+    "11": "BRASS FOUNDRY",
+    "5": "B",
+    "12": "HIS INVENTION SPIRIT",
+    "6": "TRUE",
+    "13": "METALS AND PLASTICS",
+    "7": "NOT",
+    "14": "NITROCELLULOSE AND GIVEN SOLVENTS"
+  },
+  "content": {
+    "title": "The History of the Invention of Plastics",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Natural polymers include such familiar substances as silk, rubber, and cotton. Plastics are artificial polymers. Plastics are used on a daily basis throughout the world. The word plastic is a common term that is used for many materials of a synthetic or semi-synthetic nature. The term was derived from the Greek plastikos, which means “fit for molding.” Plastics are a wide variety of combinations of properties when viewed as a whole. They are used for shellac, cellulose, rubber, and asphalt. We also synthetically manufacture items such as clothing, packaging, automobiles, electronics, aircraft, medical supplies, and recreational items. The list could go on and on and it is obvious that much of what we have today would not be possible without plastics."
+      },
+      {
+        "label": "B",
+        "content": "In the early part of the twentieth century, a big boom occurred in polymer chemistry when polymer materials such as nylon and Kevlar came on the scene. Much of the work done with polymers focuses on improvement while using existing technologies, but chemists do have opportunities ahead. There is a need for the development of new applications for polymers, always looking for less expensive materials that can replace what is used now. Chemists have to be more aware of what the market yearns for, such as products with a green emphasis, polymers that break down or are environmentally friendly. Concerns such as these have brought new activity to the science arena and there are always new discoveries to be made."
+      },
+      {
+        "label": "C",
+        "content": "The evolution of the chemistry behind plastics is mind-numbing, and the uses for plastics are endless. In the Middle Ages, when scientists first started to experiment, plastics were derived from organic natural sources, such as egg and blood proteins. It wasn’t until the 19th and 20th centuries that the plastics we know today were created. Many Americans will recognize the name Goodyear; it was Charles Goodyear who began the modern-day plastic revolution when he vulcanized rubber in 1839, paving the way for the tire. Prior to his discovery, products made with rubber did not hold up well in warm temperatures or climates. Rubber is only one source of plastic, however, and three key inventors followed Goodyear’s path and took plastic from a nearly unusable hard substance to the invaluable man-made resource it is today."
+      },
+      {
+        "label": "D",
+        "content": "The son of a brass lock manufacturer, Alexander Parkes was born in Birmingham, England in 1813. Parkes was raised around metal fabrication. In his first job he worked as an apprentice at Birmingham’s brass foundry, owned by Samuel S. Messengers and Sons. Parkes switched his attention from brass work to electroplating when he went to work for George and Henry Elkington. It was there Parkes developed his inventive spirit. Parkes’ first patent, awarded in 1841, dealt with electroplating delicate items such as flowers, but throughout his career Parkes reportedly held more than 80 patents on his works with both metals and plastics. Parkes is credited with inventing the first man-made plastic, which he patented as Parkesine in 1856. Parkes introduced this combination of nitrocellulose and solvents to England in 1862 at the London International Exhibition. While Parkesine itself did not prove to be a successful material in its original formulation, it was too flammable, it laid the groundwork for successful derivative materials from future inventors. One of those inventors being John Wesley Hyatt."
+      },
+      {
+        "label": "E",
+        "content": "What Alexander Parkes started, John Wesley Hyatt took to the next level. Hyatt was born in Starkey, New York in 1837, and patented several hundred inventions. Hyatt’s link to plastics comes in the form of the game of billiards. Billiard balls were originally made of ivory, a commodity that was in steep decline in the 1800s. Most likely inspired by the $10,000 reward being offered, Hyatt took on the challenge of finding a substitute material to manufacture billiard balls. Hyatt’s experiments began with a combination of Parkes’ Parkesine, a solid form of nitrocellulose, and another English inventor, Frederick Scott Archer, discovery of liquid nitrocellulose. Hyatt combined two to create celluloid, which he patented in 1870."
+      },
+      {
+        "label": "F",
+        "content": "Celluloid was used for numerous products, including billiard balls for Hyatt’s own company rather than his former employer. Celluloid also produced false teeth, combs, baby rattles, and piano keys. Despite its replacement by newer synthetic materials in today’s marketplace, Hyatt’s patented version of celluloid is still used to produce ping-pong balls. There is no doubt that the invention of celluloid was the next important rung in the plastic manufacturing ladder, including the use of celluloid in film production."
+      },
+      {
+        "label": "G",
+        "content": "Much like Parkes’ invention led to Hyatt’s success, Hyatt’s celluloid influenced Leo Baekeland. This Belgium-born chemist paved the way for George Eastman, of Eastman Kodak, to build the photographic empire we know today. Born in 1863, Baekeland’s first invention was Velox, a paper that allowed photographs to be taken in artificial light. Eastman purchased the Velox process from Baekeland for a reported $750,000 in 1899. Baekeland used that money to fund his own in-home laboratory."
+      },
+      {
+        "label": "H",
+        "content": "Baekeland moved his experiments from photography paper to synthetic resins, and invented Bakelite, a combination of phenol and formaldehyde in 1907. Bakelite was officially patented in 1909. Bakelite was a hard, yet moldable, plastic, and was considered the product that led the world into the Age of Plastics. Bakelite was used in everything from buttons to art deco furniture to television sets. While these items are made from different types of materials today, Bakelite is still used in the production of items such as car brakes and materials used in the space shuttle."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the inventors, chemists, or companies (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Invested a considerable amount of money in buying a technique that had a huge impact on the success of his well-known business.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Invented a chemical formula that was successful only in a lab experimental stage yet marked the beginning of an important era.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Had a lab sustained by his own capital.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "In the motivation of an attractive financial incentive, successfully created a succedaneum based on the work accomplished by chemists prior to him.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Established a famous business on auto parts.",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in IELTS Data Reading Passage 230 – The History of the Invention of Plastics Reading Passage? In boxes 6-9 on your answer sheet, write TRUE if the statement is True, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Silk, cotton as well as plastics have something in common.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is True."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "There are sometimes conflicts between what the chemists are trying on and what the markets are driving for.",
+            "answer": "NOT",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is True."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The majority of Alexander Parkes’ patents lie in two major fields.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is True."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The importance of celluloid has completely faded out of in commercial use because of the occurrence of other alternative products.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is True."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage, using No More than Three words from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Alexander Parkes, a well-known chemist, was brought up in an industrial city surrounded by...",
+            "answer": "METAL FABRICATION",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "He began his work by learning in a...",
+            "answer": "BRASS FOUNDRY",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "He later fostered his...",
+            "answer": "HIS INVENTION SPIRIT",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "He started his journey of getting over 80 patents in the...",
+            "answer": "METALS AND PLASTICS",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Although his most important invention Parkesine, made up of...",
+            "answer": "NITROCELLULOSE AND GIVEN SOLVENTS",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:37:32.353430"
+}

@@ -1,0 +1,675 @@
+{
+  "id": "ielts-r-0436",
+  "slug": "the-beginning-of-football",
+  "title": "The Beginning of Football",
+  "page_range": [
+    2211,
+    2215
+  ],
+  "raw_answer_key": {
+    "1": "ix",
+    "8": "I",
+    "2": "x",
+    "9": "D",
+    "3": "i",
+    "10": "B",
+    "4": "vii",
+    "11": "H",
+    "5": "iii",
+    "12": "E",
+    "6": "viii",
+    "13": "A",
+    "7": "vi"
+  },
+  "content": {
+    "title": "The Beginning of Football",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Football as we now know it developed in Britain in the 19th century, but the game is far older than this. In fact, the term has historically been applied to games played on foot, as opposed to those played on horseback, so ‘football’ hasn’t always involved kicking a ball. It has generally been played by men, though at the end of the 17th century, games were played between married and single women in a town in Scotland. The married women regularly won."
+      },
+      {
+        "label": "B",
+        "content": "The very earliest form of football for which we have evidence is the ‘tsu’chu’, which was played in China and may date back 3,000 years. It was performed in front of the Emperor during festivities to mark his birthday. It involved kicking a leather ball through a 30-40 cm opening into a small net fixed onto long bamboo canes – a feat that demanded great skill and excellent technique."
+      },
+      {
+        "label": "C",
+        "content": "Another form of the game, also originating from the Far East, was the Japanese ‘kemari’ which dates from about the fifth century and is still played today. This is a type of circular football game, a more dignified and ceremonious experience requiring certain skills, but not competitive in the way the Chinese game was, nor is there the slightest sign of struggle for possession of the ball. The players had to pass the ball to each other, in a relatively small space, trying not to let it touch the ground."
+      },
+      {
+        "label": "D",
+        "content": "The Romans had a much livelier game, ‘harpastum’. Each team member had his own specific tactical assignment took a noisy interest in the proceedings and the score. The role of the feet was so small as scarcely to be of consequence. The game remained popular for 700 or 800 years, but, although it was taken to England, it is doubtful whether it can be considered as a forerunner of contemporary football."
+      },
+      {
+        "label": "E",
+        "content": "The game that flourished in Britain from the 8th to the 19th centuries was substantially different from all the previously known forms – more disorganised, more violent, more spontaneous and usually played by an indefinite number of players. Frequently, the games took the form of a heated contest between whole villages. Kicking opponents were allowed, as in fact was almost everything else."
+      },
+      {
+        "label": "F",
+        "content": "There was tremendous enthusiasm for football, even though the authorities repeatedly intervened to restrict it, as a public nuisance. In the 14th and 15th centuries, England, Scotland and France all made football punishable by law, because of the disorder that commonly accompanied it, or because the well-loved recreation prevented subjects from practicing more useful military disciplines. None of these efforts had much effect."
+      },
+      {
+        "label": "G",
+        "content": "The English passion for football was particularly strong in the 16th century, influenced by the popularity of the rather better organised Italian game of ‘calcio’. English football was as rough as ever, but it found a prominent supporter in the school headmaster Richard Mulcaster. He pointed out that it had positive educational value and promoted health and strength. Mulcaster claimed that all that was needed was to refine it a little, limit the number of participants in each team and, more importantly, have a referee to oversee the game."
+      },
+      {
+        "label": "H",
+        "content": "The game persisted in a disorganised form until the early 19th century, when a number of influential English schools developed their own adaptations. In some, including Rugby School, the ball could be touched with the hands or carried; opponents could be tripped up and even kicked. It was recognised in educational circles that, as a team game, football helped to develop such fine qualities as loyalty, selflessness, cooperation, subordination and deference to the team spirit. A ‘games cult’ developed in schools and some form of football became an obligatory part of the curriculum."
+      },
+      {
+        "label": "I",
+        "content": "In 1863, developments reached a climax. At Cambridge University, an initiative began to establish some uniform standards and rules that would be accepted by everyone, but there were essentially two camps: the minority – Rugby School and some others – wished to continue with their own form of the game, in particular allowing players to carry the ball. In October of the same year, eleven London clubs and schools sent representatives to establish a set of fundamental rules to govern the matches played amongst them. This meeting marked the birth of the Football Association."
+      },
+      {
+        "label": "J",
+        "content": "The dispute concerning kicking and tripping opponents and carrying the ball was discussed thoroughly at this and subsequent meetings, until eventually, on 8 December, the die-hard exponents of the Rugby style withdrew, marking a final split between rugby and football. Within eight years, the Football Association already had 50 member clubs, and the first football competition in the world was started – the FA Cup."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct headings for paragraphs D-J from the list of headings below. Write the correct number i-x in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph D",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "Limited success in suppressing the game"
+              },
+              {
+                "label": "ii",
+                "text": "Opposition to the role of football in schools"
+              },
+              {
+                "label": "iii",
+                "text": "A way of developing moral values"
+              },
+              {
+                "label": "iv",
+                "text": "Football matches between countries"
+              },
+              {
+                "label": "v",
+                "text": "A game that has survived"
+              },
+              {
+                "label": "vi",
+                "text": "Separation into two sports"
+              },
+              {
+                "label": "vii",
+                "text": "Proposals for minor improvements"
+              },
+              {
+                "label": "viii",
+                "text": "Attempts to standardize the game"
+              },
+              {
+                "label": "ix",
+                "text": "Probably not an early version of football"
+              },
+              {
+                "label": "x",
+                "text": "A chaotic activity with virtually no rules"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph E",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "Limited success in suppressing the game"
+              },
+              {
+                "label": "ii",
+                "text": "Opposition to the role of football in schools"
+              },
+              {
+                "label": "iii",
+                "text": "A way of developing moral values"
+              },
+              {
+                "label": "iv",
+                "text": "Football matches between countries"
+              },
+              {
+                "label": "v",
+                "text": "A game that has survived"
+              },
+              {
+                "label": "vi",
+                "text": "Separation into two sports"
+              },
+              {
+                "label": "vii",
+                "text": "Proposals for minor improvements"
+              },
+              {
+                "label": "viii",
+                "text": "Attempts to standardize the game"
+              },
+              {
+                "label": "ix",
+                "text": "Probably not an early version of football"
+              },
+              {
+                "label": "x",
+                "text": "A chaotic activity with virtually no rules"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph F",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Limited success in suppressing the game"
+              },
+              {
+                "label": "ii",
+                "text": "Opposition to the role of football in schools"
+              },
+              {
+                "label": "iii",
+                "text": "A way of developing moral values"
+              },
+              {
+                "label": "iv",
+                "text": "Football matches between countries"
+              },
+              {
+                "label": "v",
+                "text": "A game that has survived"
+              },
+              {
+                "label": "vi",
+                "text": "Separation into two sports"
+              },
+              {
+                "label": "vii",
+                "text": "Proposals for minor improvements"
+              },
+              {
+                "label": "viii",
+                "text": "Attempts to standardize the game"
+              },
+              {
+                "label": "ix",
+                "text": "Probably not an early version of football"
+              },
+              {
+                "label": "x",
+                "text": "A chaotic activity with virtually no rules"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph G",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Limited success in suppressing the game"
+              },
+              {
+                "label": "ii",
+                "text": "Opposition to the role of football in schools"
+              },
+              {
+                "label": "iii",
+                "text": "A way of developing moral values"
+              },
+              {
+                "label": "iv",
+                "text": "Football matches between countries"
+              },
+              {
+                "label": "v",
+                "text": "A game that has survived"
+              },
+              {
+                "label": "vi",
+                "text": "Separation into two sports"
+              },
+              {
+                "label": "vii",
+                "text": "Proposals for minor improvements"
+              },
+              {
+                "label": "viii",
+                "text": "Attempts to standardize the game"
+              },
+              {
+                "label": "ix",
+                "text": "Probably not an early version of football"
+              },
+              {
+                "label": "x",
+                "text": "A chaotic activity with virtually no rules"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph H",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Limited success in suppressing the game"
+              },
+              {
+                "label": "ii",
+                "text": "Opposition to the role of football in schools"
+              },
+              {
+                "label": "iii",
+                "text": "A way of developing moral values"
+              },
+              {
+                "label": "iv",
+                "text": "Football matches between countries"
+              },
+              {
+                "label": "v",
+                "text": "A game that has survived"
+              },
+              {
+                "label": "vi",
+                "text": "Separation into two sports"
+              },
+              {
+                "label": "vii",
+                "text": "Proposals for minor improvements"
+              },
+              {
+                "label": "viii",
+                "text": "Attempts to standardize the game"
+              },
+              {
+                "label": "ix",
+                "text": "Probably not an early version of football"
+              },
+              {
+                "label": "x",
+                "text": "A chaotic activity with virtually no rules"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph I",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Limited success in suppressing the game"
+              },
+              {
+                "label": "ii",
+                "text": "Opposition to the role of football in schools"
+              },
+              {
+                "label": "iii",
+                "text": "A way of developing moral values"
+              },
+              {
+                "label": "iv",
+                "text": "Football matches between countries"
+              },
+              {
+                "label": "v",
+                "text": "A game that has survived"
+              },
+              {
+                "label": "vi",
+                "text": "Separation into two sports"
+              },
+              {
+                "label": "vii",
+                "text": "Proposals for minor improvements"
+              },
+              {
+                "label": "viii",
+                "text": "Attempts to standardize the game"
+              },
+              {
+                "label": "ix",
+                "text": "Probably not an early version of football"
+              },
+              {
+                "label": "x",
+                "text": "A chaotic activity with virtually no rules"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Paragraph J",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Limited success in suppressing the game"
+              },
+              {
+                "label": "ii",
+                "text": "Opposition to the role of football in schools"
+              },
+              {
+                "label": "iii",
+                "text": "A way of developing moral values"
+              },
+              {
+                "label": "iv",
+                "text": "Football matches between countries"
+              },
+              {
+                "label": "v",
+                "text": "A game that has survived"
+              },
+              {
+                "label": "vi",
+                "text": "Separation into two sports"
+              },
+              {
+                "label": "vii",
+                "text": "Proposals for minor improvements"
+              },
+              {
+                "label": "viii",
+                "text": "Attempts to standardize the game"
+              },
+              {
+                "label": "ix",
+                "text": "Probably not an early version of football"
+              },
+              {
+                "label": "x",
+                "text": "A chaotic activity with virtually no rules"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending A-I from the box below. Write the correct letter A-I in boxes 8-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Tsu’chu",
+            "answer": "I",
+            "options": [
+              {
+                "label": "A",
+                "text": "was seen as something to be encouraged in the young."
+              },
+              {
+                "label": "B",
+                "text": "involved individual players having different responsibilities."
+              },
+              {
+                "label": "C",
+                "text": "was influenced by a game from another country."
+              },
+              {
+                "label": "D",
+                "text": "was a cooperative effort by all the players."
+              },
+              {
+                "label": "E",
+                "text": "distracted people from more important activities."
+              },
+              {
+                "label": "F",
+                "text": "was played by teams of a fixed size."
+              },
+              {
+                "label": "G",
+                "text": "was less popular than it later became."
+              },
+              {
+                "label": "H",
+                "text": "was often played by one community against another."
+              },
+              {
+                "label": "I",
+                "text": "formed part of a celebration."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Kemari",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "was seen as something to be encouraged in the young."
+              },
+              {
+                "label": "B",
+                "text": "involved individual players having different responsibilities."
+              },
+              {
+                "label": "C",
+                "text": "was influenced by a game from another country."
+              },
+              {
+                "label": "D",
+                "text": "was a cooperative effort by all the players."
+              },
+              {
+                "label": "E",
+                "text": "distracted people from more important activities."
+              },
+              {
+                "label": "F",
+                "text": "was played by teams of a fixed size."
+              },
+              {
+                "label": "G",
+                "text": "was less popular than it later became."
+              },
+              {
+                "label": "H",
+                "text": "was often played by one community against another."
+              },
+              {
+                "label": "I",
+                "text": "formed part of a celebration."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Harpastum",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "was seen as something to be encouraged in the young."
+              },
+              {
+                "label": "B",
+                "text": "involved individual players having different responsibilities."
+              },
+              {
+                "label": "C",
+                "text": "was influenced by a game from another country."
+              },
+              {
+                "label": "D",
+                "text": "was a cooperative effort by all the players."
+              },
+              {
+                "label": "E",
+                "text": "distracted people from more important activities."
+              },
+              {
+                "label": "F",
+                "text": "was played by teams of a fixed size."
+              },
+              {
+                "label": "G",
+                "text": "was less popular than it later became."
+              },
+              {
+                "label": "H",
+                "text": "was often played by one community against another."
+              },
+              {
+                "label": "I",
+                "text": "formed part of a celebration."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "From the 8th centuries, football in the British Isles",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "was seen as something to be encouraged in the young."
+              },
+              {
+                "label": "B",
+                "text": "involved individual players having different responsibilities."
+              },
+              {
+                "label": "C",
+                "text": "was influenced by a game from another country."
+              },
+              {
+                "label": "D",
+                "text": "was a cooperative effort by all the players."
+              },
+              {
+                "label": "E",
+                "text": "distracted people from more important activities."
+              },
+              {
+                "label": "F",
+                "text": "was played by teams of a fixed size."
+              },
+              {
+                "label": "G",
+                "text": "was less popular than it later became."
+              },
+              {
+                "label": "H",
+                "text": "was often played by one community against another."
+              },
+              {
+                "label": "I",
+                "text": "formed part of a celebration."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "In the past, the authorities legitimately despised the football and acted on the belief that football",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "was seen as something to be encouraged in the young."
+              },
+              {
+                "label": "B",
+                "text": "involved individual players having different responsibilities."
+              },
+              {
+                "label": "C",
+                "text": "was influenced by a game from another country."
+              },
+              {
+                "label": "D",
+                "text": "was a cooperative effort by all the players."
+              },
+              {
+                "label": "E",
+                "text": "distracted people from more important activities."
+              },
+              {
+                "label": "F",
+                "text": "was played by teams of a fixed size."
+              },
+              {
+                "label": "G",
+                "text": "was less popular than it later became."
+              },
+              {
+                "label": "H",
+                "text": "was often played by one community against another."
+              },
+              {
+                "label": "I",
+                "text": "formed part of a celebration."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "When it was accepted in academic settings, football",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "was seen as something to be encouraged in the young."
+              },
+              {
+                "label": "B",
+                "text": "involved individual players having different responsibilities."
+              },
+              {
+                "label": "C",
+                "text": "was influenced by a game from another country."
+              },
+              {
+                "label": "D",
+                "text": "was a cooperative effort by all the players."
+              },
+              {
+                "label": "E",
+                "text": "distracted people from more important activities."
+              },
+              {
+                "label": "F",
+                "text": "was played by teams of a fixed size."
+              },
+              {
+                "label": "G",
+                "text": "was less popular than it later became."
+              },
+              {
+                "label": "H",
+                "text": "was often played by one community against another."
+              },
+              {
+                "label": "I",
+                "text": "formed part of a celebration."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:18:57.791020"
+}

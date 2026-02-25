@@ -1,0 +1,357 @@
+{
+  "id": "ielts-r-0243",
+  "slug": "koalas-",
+  "title": "Koalas",
+  "page_range": [
+    1230,
+    1234
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "NO",
+    "2": "C",
+    "9": "NOT GIVEN",
+    "3": "A",
+    "10": "YES",
+    "4": "B",
+    "11": "NOT GIVEN",
+    "5": "A",
+    "12": "YES",
+    "6": "YES",
+    "13": "A",
+    "7": "NO"
+  },
+  "content": {
+    "title": "Koalas",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Koalas are just too nice for their own good. And except for the occasional baby taken by birds of prey, koalas have no natural enemies. In an ideal world, the life of an arboreal couch potato would be perfectly safe and acceptable."
+      },
+      {
+        "label": "B",
+        "content": "Just two hundred years ago, koalas flourished across Australia. Now they seem to be in decline, but exact numbers are not available as the species would not seem to be ‘under threat’. Their problem, however, has been man, more specifically, the white man. Koala and aborigine had co-existed peacefully for centuries."
+      },
+      {
+        "label": "C",
+        "content": "Today koalas are found only in scattered pockets of southeast Australia, where they seem to be at risk on several fronts. The koala’s only food source, the eucalyptus tree has declined. In the past 200 years, a third of Australia’s eucalyptus forests have disappeared. Koalas have been killed by parasites, chlamydia epidemics and a tumour-causing retrovirus. And every year 11000 are killed by cars, ironically most of them in wildlife sanctuaries, and thousands are killed by poachers. Some are also taken illegally as pets. The animals usually soon die, but they are easily replaced."
+      },
+      {
+        "label": "D",
+        "content": "Bush fires pose another threat. The horrific ones that raged in New South Wales recently killed between 100 and 1000 koalas. Many that were taken into sanctuaries and shelters were found to have burnt their paws on the glowing embers. But zoologists say that the species should recover. The koalas will be aided by the eucalyptus, which grows quickly and is already burgeoning forth after the fires. So the main problem to their survival is their slow reproductive rate – they produce only one baby a year over a reproductive lifespan of about nine years."
+      },
+      {
+        "label": "E",
+        "content": "The latest problem for the species is perhaps more insidious. With plush, grey fur, dark amber eyes and button nose, koalas are cuddliness incarnate. Australian zoos and wildlife parks have taken advantage of their uncomplaining attitudes, and charge visitors to be photographed hugging the furry bundles. But people may not realise how cruel this is, but because of the koala’s delicate disposition, constant handling can push an already precariously balanced physiology over the edge."
+      },
+      {
+        "label": "F",
+        "content": "Koalas only eat the foliage of certain species of eucalyptus trees, between 600 and 1250 grams a day. The tough leaves are packed with cellulose, tannins, aromatic oils and precursors of toxic cyanides. To handle this cocktail, koalas have a specialised digestive system. Cellulose-digesting bacteria in the break down fibre, while a specially adapted gut and liver process the toxins. To digest their food properly, koalas must sit still for 21 hours every day."
+      },
+      {
+        "label": "G",
+        "content": "Koalas are the epitome of innocence and inoffensiveness. Although they are capable of ripping open a man’s arm with their needle-sharp claws, or giving a nasty nip, they simply wouldn’t. If you upset a koala, it may blink or swallow, or hiccup. But attack? No way! Koalas are just not aggressive. They use their claws to grip the hard smooth bark of eucalyptus trees."
+      },
+      {
+        "label": "H",
+        "content": "They are also very sensitive, and the slightest upset can prevent them from breeding, cause them to go off their food, and succumb to gut infections. Koalas are stoic creatures and put on a brave face until they are at death’s door. One day they may appear healthy, the next they could be dead. Captive koalas have to be weighed daily to check that they are feeding properly. A sudden loss of weight is usually the only warning keepers have that their charge is ill. Only two keepers plus a vet were allowed to handle London Zoo’s koalas, as these creatures are only comfortable with people they know. A request for the koala to be taken to meet the Queen was refused because of the distress this would have caused the marsupial. Sadly, London’s Zoo no longer has a koala. Two years ago the female koala died of a cancer caused by a retrovirus. When they come into heat, female koalas become more active, and start losing weight, but after about sixteen days, heat ends and the weight piles back on. London’s koala did not. Surgery revealed hundreds of pea-sized tumours. Almost every zoo in Australia has koalas – the marsupial has become the Animal Ambassador of the nation, but nowhere outside Australia would handling by the public be allowed. Koala cuddling screams in the face of every rule of good care. First, some zoos allow koalas to be passed from stranger to stranger, many children who love to squeeze. Secondly, most people have no idea of how to handle the animals; they like to cling on to their handler, all in their own good time and use his or her arm as a tree. For such reasons, the Association of Fauna and Marine parks, an Australian conservation society is campaigning to ban koala cuddling. Policy on koala handling is determined by state government authorities. “And the largest of the numbers in the Australian Nature Conservation Agency, with the aim of instituting national guidelines. Following a wave of publicity, some zoos and wildlife parks have stopped turning their koalas into photo."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The main reason why koala declined is that they are killed EXCEPT FOR",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "by poachers"
+              },
+              {
+                "label": "B",
+                "text": "by diseases they got"
+              },
+              {
+                "label": "C",
+                "text": "giving too many birth yet survived little!"
+              },
+              {
+                "label": "D",
+                "text": "accidents on the road"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What can help koalas folly digest their food?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "toxic substance in the leaves"
+              },
+              {
+                "label": "B",
+                "text": "organs that dissolve the fibres"
+              },
+              {
+                "label": "C",
+                "text": "remaining inactive for a period to digest"
+              },
+              {
+                "label": "D",
+                "text": "eating eucalyptus trees"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What would koalas do when facing the dangerous situation?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "show signs of being offended"
+              },
+              {
+                "label": "B",
+                "text": "counter attack furiously"
+              },
+              {
+                "label": "C",
+                "text": "use sharp claws to rip the man"
+              },
+              {
+                "label": "D",
+                "text": "use claws to grip the bark of trees."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "In what ways Australian zoos exploit koalas?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "encourage people to breed koalas as pets"
+              },
+              {
+                "label": "B",
+                "text": "allow tourists to hug the koalas"
+              },
+              {
+                "label": "C",
+                "text": "put them on the trees as a symbol"
+              },
+              {
+                "label": "D",
+                "text": "establish a koala campaign"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What would the government do to protect koalas from being endangered?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "introduce koala protection guidelines"
+              },
+              {
+                "label": "B",
+                "text": "close some of the zoos"
+              },
+              {
+                "label": "C",
+                "text": "encourage people to resist visiting the zoos"
+              },
+              {
+                "label": "D",
+                "text": "persuade the public to learn more knowledge"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "New coming human settlers caused danger to koalas.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Koalas can still be seen in most of the places in Australia.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "It takes decade for the eucalyptus trees to recover after the fire.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Koalas will fight each other when food becomes scarce.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "It is not easy to notice that koalas are ill.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Koalas are easily infected with human contagious disease via cuddling",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Koalas like to hold a person’s arm when they are embraced.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "From your opinion this article written by",
+        "questions": [
+          {
+            "number": 13,
+            "text": "From your opinion this article written by",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "a journalist who write for magazine"
+              },
+              {
+                "label": "B",
+                "text": "a zoo keeper in London Zoo."
+              },
+              {
+                "label": "C",
+                "text": "a tourist who traveling back from Australia"
+              },
+              {
+                "label": "D",
+                "text": "a government official who studies koalas to establish a law"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:33:36.685659"
+}

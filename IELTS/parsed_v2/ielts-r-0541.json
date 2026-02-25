@@ -1,0 +1,293 @@
+{
+  "id": "ielts-r-0541",
+  "slug": "the-return-of-monkey-life",
+  "title": "The return of monkey life",
+  "page_range": [
+    2737,
+    2741
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "DROUGHT",
+    "2": "G",
+    "9": "B",
+    "3": "E",
+    "10": "C",
+    "4": "B",
+    "11": "C",
+    "5": "REPRODUCTION",
+    "12": "A",
+    "6": "FRUIT",
+    "13": "A",
+    "7": "TOXICS"
+  },
+  "content": {
+    "title": "The Return of Monkey Life",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Hacienda La Pacifica, a remote working cattle ranch in Guanacaste province of northern Costa Rica, has for decades been home to a community of mantled howler monkeys. Other native primates- white-faced capuchin monkeys and spider monkeys were once common in this area, too, but vanished after the Pan-American Highway was built nearby in the 1950s and most of the surrounding land was cleared for cattle-raising. At Hacienda La Pacifica, however, an enlightened ranch owner chose to leave some strips of native trees growing. He used these as windbreaks to protect both cattle and their food crops from dry-season winds. In the process, the farmer unwittingly founded a unique laboratory for the study of monkeys."
+      },
+      {
+        "label": "B",
+        "content": "Ken Glander, a primatologist from Duke University in the USA, is studying La Pacifica’s monkeys in an effort to understand the relationship between howlers and regenerating forests at the edges of grazing lands. Studying such disturbed woodlands is increasingly important because throughout much of the New World Tropics, these are the only forests left. In the 18th century, tropical dry forests once covered most of Central America, but by the 1980s less than two percent remained undisturbed, and less than one percent was protected."
+      },
+      {
+        "label": "C",
+        "content": "Howlers persist at La Pacifica, Glander explains, because they are leaf-eaters. They eat fruit when it is available but, unlike capuchin and spider monkeys, do not depend on large areas of fruiting trees. Glander is particularly interested in howlers’ ability to thrive on leaves loaded with toxins- poisonous substances designed to protect the plants. For leaf-eaters, long-term exposure to a specific plant toxin can increase their ability to neutralize the poisonous substances and absorb the leaf nutrients. Watching generations of howlers at La Pacifica has shown Glander that the monkeys keep their systems primed by sampling a variety of plants and then focusing on a small number of the most nutritious food items. The leaves that grow in regenerating forests, like those at La Pacifica, are actually more howler-friendly than those produced by the centuries-old trees that survive farther south. In younger forests, trees put most of their limited energy into growing wood, leaves, and fruit, so they produce much lower levels of toxin than do well-established, old-growth trees."
+      },
+      {
+        "label": "D",
+        "content": "The value of maturing forests to primates is also a subject of study at Santa Rosa National Park, about 35 miles northwest of La Pacifica. Large areas of Santa Rosa’s forests had at one time been burnt to make space for cattle ranching and coffee farming, thereby devastating local monkey habitat. But in 1971 the government protected the area by designating it a National Park, and species of Indigenous trees which had been absent for decades began to invade the abandoned pastures. Capuchins were the first to begin using the reborn forests, followed by howlers. Eventually, even spider monkeys, fruit-eaters that need large areas of continuous forest, returned. In the first 28 years following protection of the area, the capuchin population doubled, while the number of howlers increased sevenfold."
+      },
+      {
+        "label": "E",
+        "content": "Some of the same traits that allow howlers to survive at La Pacifica also explain their population boom in Santa Rosa. Howler reproduction is faster than that of other native monkey species. They give birth for the first time at about 3.5 years of age, compared with seven years for capuchins, and eight or more for spider monkeys. Also, while a female spider monkey will have a baby about once every four years, well-fed howlers can produce an infant every two years. Another factor is diet. Howlers are very adaptable feeders, and only need a comparatively small home range. Spider monkeys, on the other hand, need to occupy a huge home range. Also crucial is the fact that the leaves howlers eat hold plenty of water, so the monkeys can survive away from open streams and water holes. This ability gives them a real advantage over capuchin and spider monkeys, which have suffered during the long, ongoing drought in the area."
+      },
+      {
+        "label": "F",
+        "content": "Alejandro Estrada, an ecologist at Estacion de Biologia Los Tuxtlas in Veracruz, Mexico, has been studying the ecology of a group of howler monkeys that thrive in a habitat totally altered by humans: a cacao plantation in Tabasco state, Mexico. Cacao plants need shade to grow, so 40 years ago the owners of Cholula Cacao Farm planted figs, monkeypod and other tall trees to form a protective canopy over their crop. The howlers moved in about 25 years ago after nearby forests were cut. This strange habitat seems to support about as many monkeys as would a same-sized patch of wild forest. The howlers eat the leaves and fruit of the shade trees, leaving the valuable cacao pods alone."
+      },
+      {
+        "label": "G",
+        "content": "Estrada believes the monkeys bring underappreciated benefits to such plantations, dispersing the seeds of fruits such as fig and other shade trees, and fertilizing the soil. Spider monkeys also forage for fruit here, though they need nearby areas of forest to survive in the long term. He hopes that farmers will begin to see the advantages of associating with wild monkeys, which could include potential ecotourism projects. 'Conservation is usually viewed as a conflict between farming practices and the need to preserve nature,' Estrada says. 'We’re moving away from that vision and beginning to consider ways in which commercial activities may become a tool for the conservation of primates in human-modified landscapes.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Where are the howler monkeys studied by Ken Glander found?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Santa Rosa National Park"
+              },
+              {
+                "label": "B",
+                "text": "Cholula Cacao Farm"
+              },
+              {
+                "label": "C",
+                "text": "Hacienda La Pacifica"
+              },
+              {
+                "label": "D",
+                "text": "Estacion de Biologia Los Tuxtlas"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What is the main reason why howler monkeys can survive at Hacienda La Pacifica?",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "They are adaptable feeders."
+              },
+              {
+                "label": "B",
+                "text": "They have a small home range."
+              },
+              {
+                "label": "C",
+                "text": "They eat a variety of plants."
+              },
+              {
+                "label": "D",
+                "text": "They are leaf-eaters."
+              },
+              {
+                "label": "E",
+                "text": "They are not dependent on fruiting trees."
+              },
+              {
+                "label": "F",
+                "text": "They can neutralize toxins in leaves."
+              },
+              {
+                "label": "G",
+                "text": "They can survive on leaves with toxins."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What is the primary food source for howler monkeys at La Pacifica?",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Fruit"
+              },
+              {
+                "label": "B",
+                "text": "Insects"
+              },
+              {
+                "label": "C",
+                "text": "Birds"
+              },
+              {
+                "label": "D",
+                "text": "Small mammals"
+              },
+              {
+                "label": "E",
+                "text": "Leaves"
+              },
+              {
+                "label": "F",
+                "text": "Seeds"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What is the main reason why spider monkeys disappeared from the area around Hacienda La Pacifica?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "They were hunted by humans."
+              },
+              {
+                "label": "B",
+                "text": "Their habitat was destroyed."
+              },
+              {
+                "label": "C",
+                "text": "They migrated to other areas."
+              },
+              {
+                "label": "D",
+                "text": "They were outcompeted by other species."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What factor contributes to the faster reproduction rate of howler monkeys compared to other monkey species?",
+            "answer": "REPRODUCTION",
+            "options": [
+              {
+                "label": "A",
+                "text": "Diet"
+              },
+              {
+                "label": "B",
+                "text": "Home range"
+              },
+              {
+                "label": "C",
+                "text": "Reproduction"
+              },
+              {
+                "label": "D",
+                "text": "Adaptability"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "What do howler monkeys primarily eat when fruit is not available?",
+            "answer": "FRUIT",
+            "options": [
+              {
+                "label": "A",
+                "text": "Insects"
+              },
+              {
+                "label": "B",
+                "text": "Seeds"
+              },
+              {
+                "label": "C",
+                "text": "Bark"
+              },
+              {
+                "label": "D",
+                "text": "Fruit"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "What allows howler monkeys to thrive on leaves that are toxic to other species?",
+            "answer": "TOXICS",
+            "options": [
+              {
+                "label": "A",
+                "text": "Their digestive system neutralizes the toxics."
+              },
+              {
+                "label": "B",
+                "text": "They have a high tolerance for toxics."
+              },
+              {
+                "label": "C",
+                "text": "They gradually build resistance to toxics."
+              },
+              {
+                "label": "D",
+                "text": "They eat a variety of leaves to balance the toxics."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions with a word or short phrase.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "What environmental factor has affected capuchin and spider monkeys in the area?",
+            "answer": "DROUGHT",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Which species of monkey was the first to return to Santa Rosa National Park after protection?",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "What type of habitat do howler monkeys occupy at Cholula Cacao Farm?",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "What is the main benefit of howler monkeys to cacao plantations?",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "What is the main reason why spider monkeys need large areas of forest?",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "What is the main reason why howler monkeys can survive away from open streams and water holes?",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:49:41.285554"
+}

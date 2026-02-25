@@ -1,0 +1,293 @@
+{
+  "id": "ielts-r-0052",
+  "slug": "australias-biggest-daily-to-find-the-selection-of-job-ads",
+  "title": "Australia's biggest daily to find the selection of job ads",
+  "page_range": [
+    269,
+    272
+  ],
+  "raw_answer_key": {
+    "1": "Saturday and",
+    "8": "J Tuesday",
+    "2": "Saturday and",
+    "9": "TRUE Thursday",
+    "3": "B",
+    "10": "NOT GIVEN",
+    "4": "H",
+    "11": "TRUE",
+    "5": "G",
+    "12": "TRUE",
+    "6": "A",
+    "13": "FALSE",
+    "7": "I",
+    "14": "FALSE"
+  },
+  "content": {
+    "title": "Employment Guide and Theatre Booking Information",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Australia's biggest daily to find the selection of job ads - helping perfect position for you"
+      },
+      {
+        "label": "B",
+        "content": "Saturday Job Guide"
+      },
+      {
+        "label": "C",
+        "content": "Government Positions (New South Wales)"
+      },
+      {
+        "label": "D",
+        "content": "Higher Education (Academic staff)"
+      },
+      {
+        "label": "E",
+        "content": "Primary and Secondary Schools (Academic staff)"
+      },
+      {
+        "label": "F",
+        "content": "Hospitals and Medical (Medical staff)"
+      },
+      {
+        "label": "G",
+        "content": "IT and Computing"
+      },
+      {
+        "label": "H",
+        "content": "Accountancy and Finance (Private)"
+      },
+      {
+        "label": "I",
+        "content": "Hospitality and Kitchen Staff"
+      },
+      {
+        "label": "J",
+        "content": "Self-employment Opportunities"
+      },
+      {
+        "label": null,
+        "content": "Rural Posts (incl. farm work)"
+      },
+      {
+        "label": null,
+        "content": "Casual Work Available"
+      },
+      {
+        "label": null,
+        "content": "Monday - Friday Job Highlights"
+      },
+      {
+        "label": null,
+        "content": "TUESDAY: Education Local Government Hospital and Medical"
+      },
+      {
+        "label": null,
+        "content": "THURSDAY: Government Health Vacancies (New South Wales)"
+      },
+      {
+        "label": null,
+        "content": "STANFIELD THEATRE BOOKING There are four easy ways to book seats for performances: - in person The Box Office is open Monday to Saturday, 10 am-8 pm. - by post Simply complete the booking form and return it to Stanfield Theatre Box Office, PO Box 220, Stan 6GF AII cheques should be made payable to Stanfield Theatre. - by telephone Ring 01316 753219 to reserve your tickets or to pay by credit card (Visa, Mastercard and Amex a - on-line Complete the on-line booking form at www.stanfieldtheatre.com"
+      },
+      {
+        "label": null,
+        "content": "DISCOUNTS Saver: £2 off any seat booked any time in advance for performances from Monday to Thursday in for all matinees. Savers are available for children up to 16 years old, over 60s and full-time stude Supersaver: half-price seats are available for people with disabilities and one companion. It is ad book in advance. There is a maximum of eight wheelchair spaces available and one wheelchair s held until one hour before the show (subject to availability). Standby: best available seats are on sale for £6 from one hour before the performance for peopl Saver and Supersaver discounts and thirty minutes before for all other customers. Group Bookings: there is a ten per cent discount for parties of twelve or more. Schools: school parties of ten or more can book £6 Standby tickets in advance and will get every free."
+      },
+      {
+        "label": null,
+        "content": "Please note: we are unable to exchange tickets or refund money unless a performance is cance unforeseen circumstances."
+      },
+      {
+        "label": null,
+        "content": "GIFT VOUCHERS Gift vouchers for any value can be bought at the Box Office."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Choose NO MORE THAN THREE WORDS from the text, for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "On which TWO days does the newspaper advertise jobs for teachers?",
+            "answer": "Saturday and",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "On which TWO days does the newspaper advertise jobs for nurses?",
+            "answer": "Saturday and",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Look at the ten categories of job advertisement A-J, in the Saturday Job Guide. Write the correct letter A-J in boxes 3-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 3,
+            "text": "you are looking for a job as a university lecturer?",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "you want to start your own business?",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "you want a permanent job in a hotel?",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "you are looking for a job in public administration?",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "you are looking for agricultural work in the country?",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "you are looking for temporary work?",
+            "answer": "J Tuesday",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the reading passage.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "It is possible to book tickets for performances using the Internet.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "60-year-olds who want to book in advance have to prove their age to get a discount.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Someone accompanying a wheelchair user to a performance receives a discount.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Students can get Standby tickets 45 minutes before a performance begins.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "A group of ten adults going to a performance can claim a discount.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Theatre-goers who are unexpectedly unable to attend a performance can get their money back.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:32:49.433138"
+}

@@ -1,0 +1,162 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Build a Sentence",
+    "description": "CEFR-graded practice sets. Each set has 20 sentences. One correct word order per item.",
+    "reviewLogRef": "docs/item-review-log.md",
+    "reviewLog": [
+      { "date": "2026-02-13", "scope": "Item review + A1–C2 sets", "summary": "Caps (Monday/March), ambiguous item 11 fixed, A1–C2 sets added, possessives. See docs/item-review-log.md for item-level detail." }
+    ]
+  },
+  "sets": {
+    "A1": {
+      "label": "A1 — Beginner",
+      "sentences": [
+        { "id": 1, "context": "", "fragments": ["the", "students", "study", "in", "the", "library"], "endPunctuation": "." },
+        { "id": 2, "context": "", "fragments": ["she", "is", "my", "best", "friend"], "endPunctuation": "." },
+        { "id": 3, "context": "", "fragments": ["i", "like", "coffee", "in", "the", "morning"], "endPunctuation": "." },
+        { "id": 4, "context": "", "fragments": ["the", "book", "is", "on", "the", "table"], "endPunctuation": "." },
+        { "id": 5, "context": "", "fragments": ["he", "works", "at", "a", "hospital"], "endPunctuation": "." },
+        { "id": 6, "context": "", "fragments": ["we", "live", "in", "a", "small", "town"], "endPunctuation": "." },
+        { "id": 7, "context": "", "fragments": ["they", "have", "two", "children"], "endPunctuation": "." },
+        { "id": 8, "context": "", "fragments": ["the", "cat", "is", "under", "the", "chair"], "endPunctuation": "." },
+        { "id": 9, "context": "", "fragments": ["my", "name", "is", "Anna"], "endPunctuation": "." },
+        { "id": 10, "context": "", "fragments": ["the", "shop", "opens", "at", "nine"], "endPunctuation": "." },
+        { "id": 11, "context": "", "fragments": ["is", "this", "your", "bag"], "endPunctuation": "?" },
+        { "id": 12, "context": "", "fragments": ["where", "is", "the", "train", "station"], "endPunctuation": "?" },
+        { "id": 13, "context": "", "fragments": ["the", "museum", "opens", "at", "nine", "in", "the", "morning"], "endPunctuation": "." },
+        { "id": 14, "context": "", "fragments": ["she", "has", "a", "new", "bike"], "endPunctuation": "." },
+        { "id": 15, "context": "", "fragments": ["the", "class", "starts", "at", "eight", "o'clock"], "endPunctuation": "." },
+        { "id": 16, "context": "", "fragments": ["do", "you", "speak", "English"], "endPunctuation": "?" },
+        { "id": 17, "context": "", "fragments": ["the", "conference", "will", "take", "place", "in", "March"], "endPunctuation": "." },
+        { "id": 18, "context": "", "fragments": ["his", "brother", "is", "a", "teacher"], "endPunctuation": "." },
+        { "id": 19, "context": "", "fragments": ["there", "is", "a", "cafe", "near", "here"], "endPunctuation": "." },
+        { "id": 20, "context": "", "fragments": ["what", "time", "is", "it"], "endPunctuation": "?" }
+      ]
+    },
+    "A2": {
+      "label": "A2 — Elementary",
+      "sentences": [
+        { "id": 1, "context": "", "fragments": ["she", "quickly", "finished", "her", "homework", "yesterday"], "endPunctuation": "." },
+        { "id": 2, "context": "", "fragments": ["did", "you", "see", "the", "movie", "last", "night"], "endPunctuation": "?" },
+        { "id": 3, "context": "", "fragments": ["she", "decided", "to", "apply", "for", "the", "scholarship"], "endPunctuation": "." },
+        { "id": 4, "context": "", "fragments": ["is", "there", "a", "bus", "that", "goes", "to", "the", "airport"], "endPunctuation": "?" },
+        { "id": 5, "context": "", "fragments": ["if", "it", "rains", "tomorrow", "we", "will", "stay", "indoors"], "endPunctuation": "." },
+        { "id": 6, "context": "", "fragments": ["they", "went", "to", "Paris", "last", "summer"], "endPunctuation": "." },
+        { "id": 7, "context": "", "fragments": ["how", "much", "does", "this", "book", "cost"], "endPunctuation": "?" },
+        { "id": 8, "context": "", "fragments": ["the", "meeting", "was", "cancelled", "because", "of", "the", "storm"], "endPunctuation": "." },
+        { "id": 9, "context": "", "fragments": ["i", "have", "never", "been", "to", "Japan"], "endPunctuation": "." },
+        { "id": 10, "context": "", "fragments": ["she", "is", "going", "to", "visit", "her", "grandmother", "next", "week"], "endPunctuation": "." },
+        { "id": 11, "context": "", "fragments": ["we", "need", "to", "finish", "this", "before", "the", "deadline"], "endPunctuation": "." },
+        { "id": 12, "context": "", "fragments": ["he", "did", "not", "come", "to", "the", "party", "last", "Saturday"], "endPunctuation": "." },
+        { "id": 13, "context": "", "fragments": ["when", "did", "you", "start", "learning", "English"], "endPunctuation": "?" },
+        { "id": 14, "context": "", "fragments": ["the", "restaurant", "was", "full", "so", "we", "went", "home"], "endPunctuation": "." },
+        { "id": 15, "context": "", "fragments": ["she", "has", "been", "working", "on", "this", "since", "Monday"], "endPunctuation": "." },
+        { "id": 16, "context": "", "fragments": ["could", "you", "tell", "me", "where", "the", "station", "is"], "endPunctuation": "?" },
+        { "id": 17, "context": "", "fragments": ["the", "film", "starts", "at", "seven", "thirty", "this", "evening"], "endPunctuation": "." },
+        { "id": 18, "context": "", "fragments": ["they", "are", "planning", "to", "move", "house", "next", "year"], "endPunctuation": "." },
+        { "id": 19, "context": "", "fragments": ["why", "did", "you", "leave", "the", "meeting", "early"], "endPunctuation": "?" },
+        { "id": 20, "context": "", "fragments": ["my", "sister", "has", "just", "passed", "her", "driving", "test"], "endPunctuation": "." }
+      ]
+    },
+    "B1": {
+      "label": "B1 — Intermediate",
+      "sentences": [
+        { "id": 1, "context": "", "fragments": ["where", "did", "the", "researchers", "discover", "the", "new", "species"], "endPunctuation": "?" },
+        { "id": 2, "context": "", "fragments": ["the", "book", "on", "the", "table", "belongs", "to", "my", "sister"], "endPunctuation": "." },
+        { "id": 3, "context": "", "fragments": ["the", "students", "were", "asked", "to", "read", "three", "chapters"], "endPunctuation": "." },
+        { "id": 4, "context": "", "fragments": ["the", "report", "that", "she", "wrote", "was", "published", "last", "month"], "endPunctuation": "." },
+        { "id": 5, "context": "", "fragments": ["the", "professor", "who", "taught", "the", "course", "retired", "last", "year"], "endPunctuation": "." },
+        { "id": 6, "context": "", "fragments": ["the", "experiment", "was", "conducted", "by", "the", "research", "team"], "endPunctuation": "." },
+        { "id": 7, "context": "", "fragments": ["i", "wish", "i", "had", "known", "about", "the", "change", "earlier"], "endPunctuation": "." },
+        { "id": 8, "context": "", "fragments": ["the", "hotel", "where", "we", "stayed", "was", "very", "comfortable"], "endPunctuation": "." },
+        { "id": 9, "context": "", "fragments": ["she", "told", "me", "that", "she", "would", "call", "back", "later"], "endPunctuation": "." },
+        { "id": 10, "context": "", "fragments": ["the", "document", "has", "been", "sent", "to", "all", "participants"], "endPunctuation": "." },
+        { "id": 11, "context": "", "fragments": ["do", "you", "know", "when", "the", "results", "will", "be", "announced"], "endPunctuation": "?" },
+        { "id": 12, "context": "", "fragments": ["the", "project", "that", "we", "started", "in", "January", "is", "now", "complete"], "endPunctuation": "." },
+        { "id": 13, "context": "", "fragments": ["he", "said", "he", "could", "not", "attend", "the", "meeting", "on", "Friday"], "endPunctuation": "." },
+        { "id": 14, "context": "", "fragments": ["the", "building", "which", "was", "damaged", "in", "the", "fire", "is", "being", "repaired"], "endPunctuation": "." },
+        { "id": 15, "context": "", "fragments": ["we", "have", "been", "waiting", "for", "the", "bus", "for", "twenty", "minutes"], "endPunctuation": "." },
+        { "id": 16, "context": "", "fragments": ["could", "you", "explain", "how", "this", "machine", "works"], "endPunctuation": "?" },
+        { "id": 17, "context": "", "fragments": ["the", "article", "that", "appeared", "in", "the", "paper", "was", "widely", "discussed"], "endPunctuation": "." },
+        { "id": 18, "context": "", "fragments": ["she", "asked", "the", "receptionist", "whether", "there", "was", "a", "room", "available"], "endPunctuation": "." },
+        { "id": 19, "context": "", "fragments": ["the", "data", "has", "not", "yet", "been", "analysed", "by", "the", "team"], "endPunctuation": "." },
+        { "id": 20, "context": "", "fragments": ["they", "are", "not", "sure", "if", "the", "event", "will", "go", "ahead"], "endPunctuation": "." }
+      ]
+    },
+    "B2": {
+      "label": "B2 — Upper Intermediate",
+      "sentences": [
+        { "id": 1, "context": "", "fragments": ["had", "he", "known", "the", "truth", "he", "would", "have", "acted", "differently"], "endPunctuation": "." },
+        { "id": 2, "context": "", "fragments": ["although", "the", "weather", "was", "bad", "we", "decided", "to", "go", "hiking"], "endPunctuation": "." },
+        { "id": 3, "context": "", "fragments": ["the", "boss", "asked", "whether", "she", "could", "help", "with", "the", "project"], "endPunctuation": "." },
+        { "id": 4, "context": "", "fragments": ["the", "proposal", "that", "was", "submitted", "last", "week", "has", "been", "approved"], "endPunctuation": "." },
+        { "id": 5, "context": "", "fragments": ["despite", "the", "delay", "the", "flight", "arrived", "on", "schedule"], "endPunctuation": "." },
+        { "id": 6, "context": "", "fragments": ["she", "would", "have", "called", "earlier", "if", "she", "had", "had", "your", "number"], "endPunctuation": "." },
+        { "id": 7, "context": "", "fragments": ["the", "committee", "has", "not", "yet", "reached", "a", "decision", "on", "the", "matter"], "endPunctuation": "." },
+        { "id": 8, "context": "", "fragments": ["whereas", "the", "first", "draft", "was", "short", "the", "final", "version", "is", "much", "longer"], "endPunctuation": "." },
+        { "id": 9, "context": "", "fragments": ["he", "insisted", "that", "the", "contract", "should", "be", "signed", "by", "Friday"], "endPunctuation": "." },
+        { "id": 10, "context": "", "fragments": ["the", "results", "suggest", "that", "further", "research", "is", "needed"], "endPunctuation": "." },
+        { "id": 11, "context": "", "fragments": ["not", "until", "the", "deadline", "had", "passed", "did", "they", "submit", "the", "report"], "endPunctuation": "." },
+        { "id": 12, "context": "", "fragments": ["the", "manager", "who", "had", "been", "in", "charge", "of", "the", "department", "resigned", "yesterday"], "endPunctuation": "." },
+        { "id": 13, "context": "", "fragments": ["provided", "that", "the", "funding", "is", "approved", "we", "can", "start", "in", "September"], "endPunctuation": "." },
+        { "id": 14, "context": "", "fragments": ["the", "issue", "was", "raised", "by", "several", "members", "at", "the", "last", "meeting"], "endPunctuation": "." },
+        { "id": 15, "context": "", "fragments": ["she", "apologised", "for", "not", "having", "replied", "to", "the", "email", "sooner"], "endPunctuation": "." },
+        { "id": 16, "context": "", "fragments": ["it", "is", "unlikely", "that", "the", "situation", "will", "improve", "before", "next", "year"], "endPunctuation": "." },
+        { "id": 17, "context": "", "fragments": ["the", "report", "being", "discussed", "today", "was", "prepared", "by", "the", "consultants"], "endPunctuation": "." },
+        { "id": 18, "context": "", "fragments": ["had", "the", "alarm", "gone", "off", "earlier", "everyone", "could", "have", "left", "safely"], "endPunctuation": "." },
+        { "id": 19, "context": "", "fragments": ["they", "objected", "to", "the", "plan", "on", "the", "grounds", "that", "it", "was", "too", "costly"], "endPunctuation": "." },
+        { "id": 20, "context": "", "fragments": ["the", "fact", "that", "so", "many", "people", "attended", "showed", "the", "interest", "in", "the", "topic"], "endPunctuation": "." }
+      ]
+    },
+    "C1": {
+      "label": "C1 — Advanced",
+      "sentences": [
+        { "id": 1, "context": "", "fragments": ["not", "only", "did", "she", "pass", "the", "exam", "but", "she", "also", "received", "the", "highest", "mark"], "endPunctuation": "." },
+        { "id": 2, "context": "", "fragments": ["the", "extent", "to", "which", "the", "policy", "has", "succeeded", "remains", "open", "to", "debate"], "endPunctuation": "." },
+        { "id": 3, "context": "", "fragments": ["had", "it", "not", "been", "for", "the", "delay", "we", "would", "have", "reached", "an", "agreement"], "endPunctuation": "." },
+        { "id": 4, "context": "", "fragments": ["what", "struck", "the", "panel", "most", "was", "the", "candidate's", "breadth", "of", "experience"], "endPunctuation": "." },
+        { "id": 5, "context": "", "fragments": ["the", "committee's", "recommendation", "that", "funding", "be", "increased", "was", "accepted", "unanimously"], "endPunctuation": "." },
+        { "id": 6, "context": "", "fragments": ["so", "compelling", "was", "the", "evidence", "that", "the", "jury", "reached", "a", "verdict", "within", "hours"], "endPunctuation": "." },
+        { "id": 7, "context": "", "fragments": ["it", "is", "essential", "that", "all", "applicants", "submit", "their", "documents", "by", "the", "stated", "deadline"], "endPunctuation": "." },
+        { "id": 8, "context": "", "fragments": ["the", "report", "having", "been", "approved", "the", "board", "moved", "on", "to", "the", "next", "item"], "endPunctuation": "." },
+        { "id": 9, "context": "", "fragments": ["under", "no", "circumstances", "should", "the", "data", "be", "shared", "with", "third", "parties"], "endPunctuation": "." },
+        { "id": 10, "context": "", "fragments": ["little", "did", "they", "realise", "that", "the", "decision", "would", "have", "such", "far-reaching", "effects"], "endPunctuation": "." },
+        { "id": 11, "context": "", "fragments": ["the", "assumption", "that", "prices", "would", "remain", "stable", "proved", "to", "be", "incorrect"], "endPunctuation": "." },
+        { "id": 12, "context": "", "fragments": ["only", "when", "all", "the", "figures", "had", "been", "checked", "did", "she", "sign", "the", "document"], "endPunctuation": "." },
+        { "id": 13, "context": "", "fragments": ["there", "is", "no", "denying", "that", "the", "scheme", "has", "brought", "significant", "benefits", "to", "the", "region"], "endPunctuation": "." },
+        { "id": 14, "context": "", "fragments": ["the", "possibility", "of", "the", "project's", "being", "abandoned", "cannot", "be", "ruled", "out"], "endPunctuation": "." },
+        { "id": 15, "context": "", "fragments": ["were", "the", "authorities", "to", "change", "their", "position", "a", "compromise", "might", "be", "possible"], "endPunctuation": "." },
+        { "id": 16, "context": "", "fragments": ["what", "the", "researchers", "had", "not", "anticipated", "was", "the", "scale", "of", "the", "response"], "endPunctuation": "." },
+        { "id": 17, "context": "", "fragments": ["the", "director's", "insistence", "that", "the", "budget", "be", "cut", "led", "to", "widespread", "concern"], "endPunctuation": "." },
+        { "id": 18, "context": "", "fragments": ["seldom", "has", "such", "a", "clear", "consensus", "emerged", "from", "so", "diverse", "a", "group", "of", "experts"], "endPunctuation": "." },
+        { "id": 19, "context": "", "fragments": ["the", "proposal", "that", "further", "consultation", "take", "place", "before", "any", "decision", "was", "welcomed"], "endPunctuation": "." },
+        { "id": 20, "context": "", "fragments": ["it", "is", "worth", "noting", "that", "the", "findings", "are", "consistent", "with", "earlier", "studies"], "endPunctuation": "." }
+      ]
+    },
+    "C2": {
+      "label": "C2 — Proficient",
+      "sentences": [
+        { "id": 1, "context": "", "fragments": ["so", "intricate", "was", "the", "legislation", "that", "even", "specialists", "disagreed", "on", "its", "interpretation"], "endPunctuation": "." },
+        { "id": 2, "context": "", "fragments": ["the", "notion", "that", "such", "measures", "might", "prove", "counterproductive", "was", "dismissed", "by", "the", "chair"], "endPunctuation": "." },
+        { "id": 3, "context": "", "fragments": ["were", "it", "not", "for", "the", "safeguards", "in", "place", "the", "system", "would", "be", "vulnerable", "to", "abuse"], "endPunctuation": "." },
+        { "id": 4, "context": "", "fragments": ["what", "emerged", "from", "the", "inquiry", "was", "a", "picture", "of", "systematic", "failures", "at", "every", "level"], "endPunctuation": "." },
+        { "id": 5, "context": "", "fragments": ["the", "implication", "that", "the", "board", "had", "acted", "in", "bad", "faith", "was", "strongly", "rejected"], "endPunctuation": "." },
+        { "id": 6, "context": "", "fragments": ["scarcely", "had", "the", "announcement", "been", "made", "when", "objections", "began", "to", "pour", "in"], "endPunctuation": "." },
+        { "id": 7, "context": "", "fragments": ["it", "is", "imperative", "that", "all", "parties", "refrain", "from", "comment", "until", "the", "investigation", "is", "concluded"], "endPunctuation": "." },
+        { "id": 8, "context": "", "fragments": ["the", "extent", "to", "which", "the", "two", "phenomena", "are", "related", "has", "yet", "to", "be", "established"], "endPunctuation": "." },
+        { "id": 9, "context": "", "fragments": ["no", "sooner", "had", "the", "policy", "been", "implemented", "than", "calls", "for", "its", "revision", "were", "heard"], "endPunctuation": "." },
+        { "id": 10, "context": "", "fragments": ["that", "the", "scheme", "should", "proceed", "despite", "the", "reservations", "was", "a", "matter", "of", "considerable", "controversy"], "endPunctuation": "." },
+        { "id": 11, "context": "", "fragments": ["the", "proposition", "that", "such", "outcomes", "are", "inevitable", "under", "the", "current", "framework", "is", "disputed"], "endPunctuation": "." },
+        { "id": 12, "context": "", "fragments": ["only", "by", "acknowledging", "the", "limitations", "of", "the", "data", "can", "we", "draw", "reliable", "conclusions"], "endPunctuation": "." },
+        { "id": 13, "context": "", "fragments": ["the", "likelihood", "of", "their", "having", "overlooked", "such", "a", "critical", "factor", "was", "dismissed", "as", "remote"], "endPunctuation": "." },
+        { "id": 14, "context": "", "fragments": ["were", "the", "criteria", "to", "be", "applied", "strictly", "few", "applicants", "would", "qualify"], "endPunctuation": "." },
+        { "id": 15, "context": "", "fragments": ["the", "assertion", "that", "the", "findings", "have", "been", "misrepresented", "has", "been", "vigorously", "contested"], "endPunctuation": "." },
+        { "id": 16, "context": "", "fragments": ["at", "no", "point", "did", "the", "panel", "suggest", "that", "the", "original", "aims", "should", "be", "abandoned"], "endPunctuation": "." },
+        { "id": 17, "context": "", "fragments": ["the", "possibility", "that", "the", "two", "events", "were", "unrelated", "cannot", "be", "discounted"], "endPunctuation": "." },
+        { "id": 18, "context": "", "fragments": ["what", "remains", "unclear", "is", "whether", "the", "authorities", "were", "aware", "of", "the", "risks", "involved"], "endPunctuation": "." },
+        { "id": 19, "context": "", "fragments": ["the", "recommendation", "that", "the", "matter", "be", "referred", "to", "an", "independent", "body", "was", "accepted"], "endPunctuation": "." },
+        { "id": 20, "context": "", "fragments": ["it", "is", "questionable", "whether", "the", "measures", "taken", "thus", "far", "have", "addressed", "the", "underlying", "causes"], "endPunctuation": "." }
+      ]
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "id": "ielts-r-0063",
+  "slug": "beyond-the-blue-horizon",
+  "title": "Beyond the blue horizon",
+  "page_range": [
+    321,
+    326
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "D",
+    "2": "F",
+    "9": "C",
+    "3": "I",
+    "10": "NO",
+    "4": "G",
+    "11": "YES",
+    "5": "D",
+    "12": "NOT GIVEN",
+    "6": "C",
+    "13": "YES",
+    "7": "A",
+    "14": "NOT GIVEN"
+  },
+  "content": {
+    "title": "Beyond the blue horizon",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "1",
+        "content": "An important archaeological discovery on the island of Efate in the Pacific archipelago of Vanuatu has revealed traces of an ancient seafaring people, the distant ancestors of today's Polynesians. The site came to light only by chance. An agricultural worker, digging in the grounds of a derelict plantation, scraped open a grave – the first of dozens in a burial ground some 3,000 years old. It is the oldest cemetery ever found in the Pacific islands, and it harbors the remains of an ancient people archaeologists call the Lapita."
+      },
+      {
+        "label": "2",
+        "content": "They were daring blue-water adventurers who used basic canoes to rove across the ocean. But they were not just explorers. They were also pioneers who carried with them everything they would need to build new lives – their livestock, taro seedlings and stone tools. Within the span of several centuries, the Lapita stretched the boundaries of their world from the jungle-clad volcanoes of Papua New Guinea to the loneliest coral outliers of Tonga."
+      },
+      {
+        "label": "3",
+        "content": "The Lapita left precious few clues about themselves, but Efate expands the volume of data available to researchers dramatically. The remains of 62 individuals have been uncovered so far, and archaeologists were also thrilled to find six complete Lapita pots. Other items included a Lapita burial urn with modeled birds arranged on the rim as though peering down at the human remains sealed inside. ‘It’s an important discovery,’ says Matthew Spriggs, professor of archaeology at the Australian National University and head of the international team digging up the site, ‘for it conclusively identifies the remains as Lapita.’"
+      },
+      {
+        "label": "4",
+        "content": "DNA teased from these human remains may help answer one of the most puzzling questions in Pacific anthropology: did all Pacific islanders spring from one source or many? Was there only one outward migration from a single point in Asia, or several from different points? ‘This represents the best opportunity we’ve had yet,’ says Spriggs, ‘to find out who the Lapita actually were, where they came from, and who their closest descendants are today.’"
+      },
+      {
+        "label": "5",
+        "content": "There is one stubborn question for which archaeology has yet to provide any answers: how did the Lapita accomplish the ancient equivalent of a moon landing, many times over? No-one has found one of their canoes or any rigging, which could reveal how the canoes were sailed. Nor do the oral histories and traditions of later Polynesians offer any insights, for they turn into myths long before they reach as far back in time as the Lapita."
+      },
+      {
+        "label": "6",
+        "content": "‘All we can say for certain is that the Lapita had canoes that were capable of ocean voyages, and they had the ability to sail them,’ says Geoff Irwin, a professor of archaeology at the University of Auckland. Those sailing skills, he says, were developed and passed down over thousands of years by earlier mariners who worked their way through the archipelagoes of the western Pacific, making short crossings to nearby islands. The real adventure didn’t begin, however, until their Lapita descendants sailed out of sight of land, with empty horizons on every side. This must have been as difficult for them as landing on the moon is for us today. Certainly it distinguished them from their ancestors, but what gave them the courage to launch out on such risky voyages?"
+      },
+      {
+        "label": "7",
+        "content": "The Lapita’s thrust into the Pacific was eastward, against the prevailing trade winds, Irwin notes. Those nagging headwinds, he argues, may have been the key to their success. ‘They could sail out for days into the unknown and assess the area, secure in the knowledge that if they didn’t find anything, they could turn about and catch a swift ride back on the trade winds. This is what would have made the whole thing work.’ Once out there, skilled seafarers would have detected abundant leads to follow to land: seabirds, coconuts and twigs carried out to sea by the tides, and the afternoon pile-up of clouds on the horizon which often indicates an island in the distance."
+      },
+      {
+        "label": "8",
+        "content": "For returning explorers, successful or not, the geography of their own archipelagoes would have provided a safety net. Without this to go by, overshooting their home ports, getting lost and sailing off into eternity would have been all too easy. Vanuatu, for example, stretches more than 500 miles in a northwest-southeast trend, its scores of inrervisible islands forming a backstop for mariners riding the trade winds home."
+      },
+      {
+        "label": "9",
+        "content": "All this presupposes one essential detail, says Atholl Anderson, professor of prehistory at the Australian National University: the Lapita had mastered the advanced art of sailing against the wind. ‘And there’s no proof they could do any such thing,’ Anderson says. ‘There has been this assumption they did, and people have built canoes to re-create those early voyages based on that assumption. But nobody has any idea what their canoes looked like or how they were rigged.’"
+      },
+      {
+        "label": "10",
+        "content": "Rather than give all the credit to human skill, Anderson invokes the winds of chance. El Nino, the same climate disruption that affects the Pacific today, may have helped scatter the Lapita, Anderson suggests. He points out that climate data obtained from slow-growing corals around the Pacific indicate a series of unusually frequent El Ninos around the time of the Lapita expansion. By reversing the regular east-to-west flow of the trade winds for weeks at a time, these super El Ninos might have taken the Lapita on long unplanned voyages."
+      },
+      {
+        "label": "11",
+        "content": "However they did it, the Lapita spread themselves a third of the way across the Pacific, then called it quits for reasons known only to them. Ahead lay the vast emptiness of the central Pacific and perhaps they were too thinly stretched to venture farther. They probably never numbered more than a few thousand in total, and in their rapid migration eastward they encountered hundreds of islands – more than 300 in Fiji alone."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words and phrases, A-J, below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The Efate burial site\nA 3,000-year-old burial ground of a seafaring people called the Lapita has been found on\nan abandoned .................... on the Pacific island of Efate.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The cemetery, which is a significant ...................., was uncovered accidentally by an\nagricultural worker.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The Lapita explored and colonised many Pacific islands over several centuries. They took\nmany things with them on their voyages including .................... and tools.",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The burial ground increases the amount of information about the Lapita available to\nscientists. A team of researchers, led by Matthew Spriggs from the Australian National\nUniversity, are helping with the excavation of the site. Spriggs believes the\n.................... which was found at the site is very important since it confirms that the",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": ".................... found inside are Lapita.",
+            "answer": "D",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "According to the writer, there are difficulties explaining how the Lapita accomplished\ntheir journeys because",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the canoes that have been discovered offer relatively few clues."
+              },
+              {
+                "label": "B",
+                "text": "archaeologists have shown limited interest in this area of research."
+              },
+              {
+                "label": "C",
+                "text": "little information relating to this period can be relied upon for accuracy."
+              },
+              {
+                "label": "D",
+                "text": "technological advances have altered the way such achievements are viewed."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "According to the sixth paragraph, what was extraordinary about the Lapita?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "They sailed beyond the point where land was visible."
+              },
+              {
+                "label": "B",
+                "text": "Their cultural heritage discouraged the expression of fear."
+              },
+              {
+                "label": "C",
+                "text": "They were able to build canoes that withstood ocean voyages."
+              },
+              {
+                "label": "D",
+                "text": "Their navigational skills were passed on from one generation to the next."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "What does 'This' refer to in the seventh paragraph?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "the Lapita’s seafaring talent"
+              },
+              {
+                "label": "B",
+                "text": "the Lapita’s ability to detect signs of land"
+              },
+              {
+                "label": "C",
+                "text": "the Lapita’s extensive knowledge of the region"
+              },
+              {
+                "label": "D",
+                "text": "the Lapita’s belief they would be able to return home"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "According to the eighth paragraph, how was the geography of the region significant?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It played an important role in Lapita culture."
+              },
+              {
+                "label": "B",
+                "text": "It meant there were relatively few storms at sea."
+              },
+              {
+                "label": "C",
+                "text": "It provided a navigational aid for the Lapita."
+              },
+              {
+                "label": "D",
+                "text": "It made a large number of islands habitable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "It is now clear that the Lapita could sail into a prevailing wind.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Extreme climate conditions may have played a role in Lapita migration.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The Lapita learnt to predict the duration of El Ninos.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "It remains unclear why the Lapita halted their expansion across the Pacific.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "It is likely that the majority of Lapita settled on Fiji.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T19:36:01.485435"
+}

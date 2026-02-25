@@ -1,0 +1,177 @@
+{
+  "id": "ielts-r-047",
+  "source_file": "47. P2 - Skyscraper Farming 摩天大楼种植.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    26
+  ],
+  "difficulty": "unmarked",
+  "title": "Skyscraper Farming",
+  "title_cn": "摩天大楼种植",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Today’s environmental scientists are in no doubt that the world’s resources of fertile soil are rapidly deteriorating, and that new land for agriculture is becoming ever more sparse. Intensive farming, urbanisation, desertification and sea-level rises are all putting growing pressure on the planet’s agricultural land and therefore on food supplies. Currently 24 per cent of the world’s 11.5 billion hectares of cultivated land has already undergone human-induced soil degradation, particularly through erosion, according to a recent study by the UK Government Office for Science."
+      },
+      {
+        "label": "B",
+        "text": "The global population is expected to exceed nine billion by 2050 — up a third from today’s level — and studies suggest that food production will have to go up by 70 per cent if we are to feed all of those new mouths. This means that scientists will have to develop new ways of growing crops if we are to avoid a humanitarian crisis. Indeed, UN Food and Agriculture Organization figures suggest that the number of under-nourished people is already growing, and with escalating climate change, crop yields in many areas have been projected to decline."
+      },
+      {
+        "label": "C",
+        "text": "With this in mind, some scientists and agricultural experts are advocating an innovative alternative to traditional farming whereby skyscrapers packed with shelf-based systems for growing vegetables on each storey — known as ‘vertical farms’ — could hold the key to revolutionising agriculture. Columbia University professor Dickson Despommier claims that vertical farming could boost crop yields many times over. A single 20-storey vertical farm could theoretically feed 50 000 people. And if the theory translates into reality as proposed, 160 skyscraper-sized vertical farms could feed the entire population of New York City, while 180 would be needed for London, 289 for Cairo and 302 for Kolkata."
+      },
+      {
+        "label": "D",
+        "text": "It’s a compelling vision, and one that has already been put into practice in Asia — albeit on a smaller scale. ‘But there are problems, such as initial investment and operating costs that are too great,’ says a spokesman for Japan’s Ministry of Agriculture, Forestry and Fisheries. Nevertheless, Tokyo-based mushroom producer Hokuto Corporation is a model example of how a vertical farm can be profitable. With 28 vertical mushroom farms operating across the country, it produces some 68 000 tonnes of mushrooms annually. ‘Vertical mushroom farms have more advantages than ground-level farms,’ says Hokuto’s Ted Yamanoko, who highlights the relative cost-effectiveness of his organisation’s farming practices together with reduced emissions of greenhouse gases."
+      },
+      {
+        "label": "E",
+        "text": "And the impact of vertical farms could extend beyond feeding established urban populations. Despommier sees them as being capable of helping centres of displaced persons — such as refugee camps — in much the same way that Mobile Army Surgical Hospital (MASH) units are deployed in emergencies. ‘Developing an emergency-response system for crop production inside specially constructed modular and highly transportable greenhouses would allow for humanitarian interventions,’ he says. ‘If you have three or four storeys of food already growing someplace, they could become mobile units that could be picked up by helicopters and dropped into the middle of a crisis zone.’"
+      },
+      {
+        "label": "F",
+        "text": "But it isn’t only about increasing food production. Despommier is concerned about the harm that farming has done to the world’s landscape over a relatively short time span, particularly the elimination of hardwood forests. ‘Farming is only 12 000 years old,’ he points out. ‘Vertical farming could allow us for the first time to feed everyone on Earth and still return land to its original ecological function.’ Natalie Jeremijenko of New York University agrees. Reducing the land needed for food production could enrich biodiversity, which in turn can raise the productivity of conventional farms. Furthermore, vertical farming could dramatically cut fossil-fuel use and reduce geopolitical tensions in regions where poor farming conditions drive conflict and malnutrition."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "HEADING_MATCHING",
+      "range": [
+        14,
+        19
+      ],
+      "instructions": "Reading Passage 2 has six paragraphs, A–F. Choose the correct heading for each paragraph from the list of headings below. Write the correct number, i–ix, in boxes 14–19 on your answer sheet.\nList of Headings\ni Potential production capabilities of vertical farms\nii Opposition to new ideas about food production\niii A successful application of vertical-farming technology\niv The potential to provide urgent relief\nv The original inspiration for vertical farming\nvi Various environmental benefits of vertical farming\nvii An increasing problem for farmers worldwide\nviii A return to traditional farming methods\nix A rising demand for food",
+      "questions": [
+        {
+          "number": 14,
+          "text": "Paragraph A",
+          "options": null,
+          "answer": "vii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 15,
+          "text": "Paragraph B",
+          "options": null,
+          "answer": "ix",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 16,
+          "text": "Paragraph C",
+          "options": null,
+          "answer": "i",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 17,
+          "text": "Paragraph D",
+          "options": null,
+          "answer": "iii",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 18,
+          "text": "Paragraph E",
+          "options": null,
+          "answer": "iv",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 19,
+          "text": "Paragraph F",
+          "options": null,
+          "answer": "vi",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "SENTENCE_COMPLETION",
+      "range": [
+        20,
+        22
+      ],
+      "instructions": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 20–22 on your answer sheet.",
+      "questions": [
+        {
+          "number": 20,
+          "text": "A UK Government study found that ___ is a significant factor contributing to worldwide levels of soil degradation.",
+          "options": null,
+          "answer": "erosion",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 21,
+          "text": "Disadvantages of vertical-farming projects include the expense of setting them up, as well as their high ___.",
+          "options": null,
+          "answer": "operating costs",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 22,
+          "text": "___ could potentially be used to take vertical-farming facilities to areas where there is a critical food shortage.",
+          "options": null,
+          "answer": "helicopters",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "PERSON_MATCHING",
+      "range": [
+        23,
+        26
+      ],
+      "instructions": "Look at the following statements and the list of people below. Match each statement with the correct person, A, B or C. Write the correct letter, A, B or C, in boxes 23–26 on your answer sheet. NB You may use any letter more than once.\nList of People\nA Dickson Despommier\nB Ted Yamanoko\nC Natalie Jeremijenko",
+      "questions": [
+        {
+          "number": 23,
+          "text": "Vertical farming can have financial benefits.",
+          "options": null,
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 24,
+          "text": "Traditional farming has had a negative effect on the natural world.",
+          "options": null,
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 25,
+          "text": "Vertical farming could dramatically increase world food production.",
+          "options": null,
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 26,
+          "text": "Traditional farms may benefit from wider use of vertical farming.",
+          "options": null,
+          "answer": "C",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "HEADING_MATCHING",
+      "SENTENCE_COMPLETION",
+      "PERSON_MATCHING"
+    ],
+    "parsed_at": "2026-02-24T03:41:41.407860",
+    "llm_structured_at": "2026-02-24T03:49:24+0800",
+    "parser_version": "1.0",
+    "needs_review": true
+  }
+}

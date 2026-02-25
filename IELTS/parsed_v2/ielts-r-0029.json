@@ -1,0 +1,385 @@
+{
+  "id": "ielts-r-0029",
+  "slug": "an-introduction-to-film-sound",
+  "title": "An Introduction to Film Sound",
+  "page_range": [
+    161,
+    166
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "NOT GIVEN",
+    "2": "A",
+    "9": "TRUE",
+    "3": "B",
+    "10": "FALSE",
+    "4": "D",
+    "11": "C",
+    "5": "C",
+    "12": "A",
+    "6": "TRUE",
+    "13": "E",
+    "7": "TRUE"
+  },
+  "content": {
+    "title": "An Introduction to Film Sound",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Though we might think of film as an essentially visual experience, we really cannot afford to underestimate the importance of film sound. A meaningful sound track is often as complicated as the image on the screen, and is ultimately just as much the responsibility of the director. The entire sound track consists of three essential ingredients: the human voice, sound effects and music. These three tracks must be mixed and balanced so as to produce the necessary emphases which in turn create desired effects."
+      },
+      {
+        "label": null,
+        "content": "Topics which essentially refer to the three previously mentioned tracks are discussed below. They include dialogue, synchronous and asynchronous sound effects, and music. Let us start with dialogue. As is the case with stage drama, dialogue serves to tell the story and expresses feelings and motivations of characters as well. Often with film characterization the audience perceives little or no difference between the character and the actor. Thus, for example, the actor Humphrey Bogart is the character Sam Spade; film personality and life personality seem to merge. Perhaps this is because the very texture of a performer's voice supplies an element of character."
+      },
+      {
+        "label": null,
+        "content": "When voice textures fit the performer's physiognomy and gestures, a whole and very realistic persona emerges. The viewer sees not an actor working at his craft, but another human being struggling with life. It is interesting to note that how dialogue is used and the very amount of dialogue used varies widely among films. For example, in the highly successful science-fiction film 2001, little dialogue was evident, and most of it was banal and of little intrinsic interest. In this way the film-maker was able to portray what Thomas Sobochack and Vivian Sobochack call, in An Introduction to Film, the 'inadequacy of human responses when compared with the magnificent technology created by man and the visual beauties of the universe'."
+      },
+      {
+        "label": null,
+        "content": "The comedy Bringing Up Baby, on the other hand, presents practically non-stop dialogue delivered at breakneck speed. This use of dialogue underscores not only the dizzy quality of the character played by Katherine Hepburn, but also the absurdity of the film itself and thus its humor. The audience is bounced from gag to gag and conversation to conversation; there is no time for audience reflection. The audience is caught up in a whirlwind of activity in simply managing to follow the plot. This film presents pure escapism - largely due to its frenetic dialogue."
+      },
+      {
+        "label": null,
+        "content": "Synchronous sound effects are those sounds which are synchronized or matched with what is viewed. For example, if the film portrays a character playing the piano, the sounds of the piano are projected. Synchronous sounds contribute to the realism of film and also help to create a particular atmosphere."
+      },
+      {
+        "label": null,
+        "content": "For example, the 'click' of a door being opened may simply serve to convince the audience that the image portrayed is real, and the audience may only subconsciously note the expected sound. However, if the 'click' of an opening door is part of an ominous action such as a burglary, the sound mixer may call attention to the 'click' with an increase in volume; this helps to engage the audience in a moment of suspense."
+      },
+      {
+        "label": null,
+        "content": "Asynchronous sound effects, on the other hand, are not matched with a visible source of the sound on screen. Such sounds are included so as to provide an appropriate emotional nuance, and they may also add to the realism of the film. For example, a film-maker might opt to include the background sound of an ambulance's siren while the foreground sound and image portrays an arguing couple. The asynchronous ambulance siren underscores the psychic injury incurred in the argument; at the same time the noise of the siren adds to the realism of the film by acknowledging the film's city setting."
+      },
+      {
+        "label": null,
+        "content": "We are probably all familiar with background music in films, which has become so ubiquitous as to be noticeable in its absence. We are aware that it is used to add emotion and rhythm. Usually not meant to be noticeable, it often provides a tone or an emotional attitude toward the story and/or the characters depicted. In addition, background music often foreshadows a change in mood. For example, dissonant music may be used in film to indicate an approaching (but not yet visible) menace or disaster."
+      },
+      {
+        "label": null,
+        "content": "Background music may aid viewer understanding by linking scenes. For example, a particular musical theme associated with an individual character or situation may be repeated at various points in a film in order to remind the audience of salient motifs or ideas."
+      },
+      {
+        "label": null,
+        "content": "Film sound comprises conventions and innovations. We have come to expect an acceleration of music during car chases and creaky doors in horror films. Yet, it is important to note as well that sound is often brilliantly conceived. The effects of sound are often largely subtle and often are noted by only our subconscious minds. We need to foster an awareness of film sound as well as film space so as to truly appreciate an art form that sprang to life during the twentieth century - the modern film."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "In the first paragraph, the writer makes a point that",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the director should plan the sound track at an early stage in filming."
+              },
+              {
+                "label": "B",
+                "text": "it would be wrong to overlook the contribution of sound to the artistry of films."
+              },
+              {
+                "label": "C",
+                "text": "the music industry can have a beneficial influence on sound in film."
+              },
+              {
+                "label": "D",
+                "text": "it is important for those working on the sound in a film to have sole responsibility for it."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "One reason that the writer refers to Humphrey Bogart is to exemplify",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the importance of the actor and the character appearing to have similar personalities."
+              },
+              {
+                "label": "B",
+                "text": "the audience’s wish that actors are visually appropriate for their roles."
+              },
+              {
+                "label": "C",
+                "text": "the value of the actor having had similar feelings to the character."
+              },
+              {
+                "label": "D",
+                "text": "the audience’s preference for dialogue to be as authentic as possible."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "In the third paragraph, the writer suggests that",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "audiences are likely to be critical of film dialogue that does not reflect their own experience."
+              },
+              {
+                "label": "B",
+                "text": "film dialogue that appears to be dull may have a specific purpose."
+              },
+              {
+                "label": "C",
+                "text": "filmmakers vary considerably in the skill with which they handle dialogue."
+              },
+              {
+                "label": "D",
+                "text": "the most successful films are those with dialogue of a high quality."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What does the writer suggest about Bringing Up Baby?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "The plot suffers from the filmmaker’s wish to focus on humorous dialogue."
+              },
+              {
+                "label": "B",
+                "text": "The dialogue helps to make it one of the best comedy films ever produced."
+              },
+              {
+                "label": "C",
+                "text": "There is a mismatch between the speed of the dialogue and the speed of actions."
+              },
+              {
+                "label": "D",
+                "text": "The nature of the dialogue emphasises key elements of the film."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "The writer refers to the ‘click’ of a door to make the point that realistic sounds",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "are often used to give the audience a false impression of events in the film."
+              },
+              {
+                "label": "B",
+                "text": "may be interpreted in different ways by different members of the audience."
+              },
+              {
+                "label": "C",
+                "text": "may be modified in order to manipulate the audience’s response to the film."
+              },
+              {
+                "label": "D",
+                "text": "tend to be more significant in films presenting realistic situations."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 6-10 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Audiences are likely to be surprised if a film lacks background music.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Background music may anticipate a development in a film.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Background music has more effect on some people than on others.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Background music may help the audience to make certain connections within the film.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Audiences tend to be aware of how the background music is affecting them.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct letter below. Write the correct letter, A-E, in boxes 11-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "The audience’s response to different parts of a film can be controlled",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "when the audience listens to the dialogue."
+              },
+              {
+                "label": "B",
+                "text": "if the film reflects the audience’s own concerns."
+              },
+              {
+                "label": "C",
+                "text": "if voice, sound and music are combined appropriately."
+              },
+              {
+                "label": "D",
+                "text": "when the director is aware of how the audience will respond."
+              },
+              {
+                "label": "E",
+                "text": "when the actor’s appearance, voice and moves are consistent with each other."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The feelings and motivations of characters become clear",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "when the audience listens to the dialogue."
+              },
+              {
+                "label": "B",
+                "text": "if the film reflects the audience’s own concerns."
+              },
+              {
+                "label": "C",
+                "text": "if voice, sound and music are combined appropriately."
+              },
+              {
+                "label": "D",
+                "text": "when the director is aware of how the audience will respond."
+              },
+              {
+                "label": "E",
+                "text": "when the actor’s appearance, voice and moves are consistent with each other."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "A character seems to be a real person rather than an actor",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "when the audience listens to the dialogue."
+              },
+              {
+                "label": "B",
+                "text": "if the film reflects the audience’s own concerns."
+              },
+              {
+                "label": "C",
+                "text": "if voice, sound and music are combined appropriately."
+              },
+              {
+                "label": "D",
+                "text": "when the director is aware of how the audience will respond."
+              },
+              {
+                "label": "E",
+                "text": "when the actor’s appearance, voice and moves are consistent with each other."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:27:25.839835"
+}

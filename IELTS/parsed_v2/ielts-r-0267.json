@@ -1,0 +1,102 @@
+{
+  "id": "ielts-r-0267",
+  "slug": "mail-order-brochure",
+  "title": "Mail Order Brochure",
+  "page_range": [
+    1351,
+    1353
+  ],
+  "raw_answer_key": {
+    "1": "NOT GIVEN",
+    "5": "TRUE",
+    "2": "NOT GIVEN",
+    "6": "FALSE",
+    "3": "FALSE",
+    "7": "FALSE",
+    "4": "NOT GIVEN"
+  },
+  "content": {
+    "title": "Mail Order Brochure",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Want some great clothing ideas for your family? Our key for clothing specials in July: M for men, W for women, C for children"
+      },
+      {
+        "label": null,
+        "content": "For under $10\n\nCotton socks C - made of pure cotton for long wearing\nWoollen socks C - to keep young feet warm in winter\nSports socks M - to go with jeans and other casual clothes\nPatterned belts W - to go with jeans and other casual clothes"
+      },
+      {
+        "label": null,
+        "content": "For under $25\n\nCotton shirts W - for day and evening wear\nSilk shirts M - five sizes, in designer colours, for that special social occasion\nT shirts C - hard-wearing, white with a variety of animal motifs\nColour T-shirts M W - cotton and polyester blend, plain colours, no ironing"
+      },
+      {
+        "label": null,
+        "content": "For under $50\n\nBlue jeans M W - non-shrink, colourfast, small sizes only\nSilk shirts M W - plain and patterned, all sizes\nHooded jacket C - protects from the wind, 4 sizes, large strong pockets\njacket W - waterproof with zipper front, all sizes"
+      },
+      {
+        "label": null,
+        "content": "Or you can buy a gift voucher so that someone else can choose. These come in $10, $20 and $50 amounts. Additional monthly specials for July to September\n\nJuly\n- $10 voucher with any purchase over $60\nAugust\n- Travel alarm clock worth $19.95 free with purchases of $80 or more!\nSeptember\n- Children's backpacks. Free with any credit card purchase over $75!"
+      },
+      {
+        "label": null,
+        "content": "Note: Postage and packing charges\n\nThese are applied to each order as follows:\n\nWithin Australia:\n$7.95 per address, regular post\n$17.95 for Express Delivery Service (overnight)\n\nOverseas:\nSurface Mail (allow a minimum of two months for delivery)\nAirmail (allow around two weeks delivery to most destinations)"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the text. In boxes 1-7 on your answer sheet, write TRUE if the statement is true according to the passage, FALSE if the statement is false according to the passage, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Women's cotton socks cost less than men's.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Men's silk shirts are available in more than five colours.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Children's T-shirts come in a variety of colours.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The child's jacket has four pockets.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "If you buy clothes worth $80 in August, you will receive a free alarm clock.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The charge for special next-day delivery in Australia is $7.95.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "All clothing is guaranteed to arrive within two months.",
+            "answer": "FALSE",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T20:38:34.277446"
+}

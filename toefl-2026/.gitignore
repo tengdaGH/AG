@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Environment
+.env
+
+# macOS
+.DS_Store
+
+# Backups
+*.bak
+
+# Node
+node_modules/
+.next/
+
+# Databases (keep toefl_2026.db tracked explicitly if needed)
+*.db.bak
+
+# Logs
+logs/
+
+# IDE
+.vscode/
+.idea/

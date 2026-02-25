@@ -1,0 +1,304 @@
+{
+  "id": "ielts-r-0152",
+  "slug": "environmentally-friendly-vehicles",
+  "title": "Environmentally-Friendly! Vehicles",
+  "page_range": [
+    775,
+    779
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "NO",
+    "2": "B",
+    "9": "YES",
+    "3": "A",
+    "10": "D",
+    "4": "C",
+    "11": "B",
+    "5": "YES",
+    "12": "I",
+    "6": "NO",
+    "13": "E",
+    "7": "NOT GIVEN",
+    "14": "G"
+  },
+  "content": {
+    "title": "Environmentally-Friendly Vehicles",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In the early 1990s, the California Air Resources Board (CARB), the government of California’s “clean air agency”, began a push for more fuel-efficient, lower-emissions vehicles, with the ultimate goal being a move to zero-emissions vehicles such as electric vehicles. In response, automakers developed electric models, including the Chrysler TEVan, Ford Ranger EV pickup truck, GM EV1 and S10 EV pickup, Honda EV Plus hatchback, Nissan lithium-battery Altra EV miniwagon and Toyota RAV4 EV. Ford Fusion is manufactured at Ford’s Hermosillo Stamping & Assembly plant, located in Sonora Mexico. I thought going green was supposed to provide the U.S. with more jobs."
+      },
+      {
+        "label": "B",
+        "content": "The automakers were accused of pandering to the wishes of CARB in order to continue to be allowed to sell cars in the lucrative Californian market, while failing to adequately promote their electric vehicles in order to create the impression that the consumers were not interested in the cars, all the while joining oil industry lobbyists in vigorously protesting CARB’s mandate. GM’s program came under particular scrutiny; in an unusual move, consumers were not allowed to purchase EV1s, but were instead asked to sign closed-end leases, meaning that the cars had to be returned to GM at the end of the lease period, with no option to purchase, despite lesser interest in continuing to own the cars. Chrysler, Toyota, and a group of GM dealers sued CARB in Federal court, leading to the eventual neutering of CARB’s ZEV Mandate."
+      },
+      {
+        "label": "C",
+        "content": "After public protests by EV drivers’ groups upset by the repossession of their cars, Toyota offered the last 328 RAV4-EVs for sale to the general public during six months, up until November 22, 2002. Almost all other production electric cars were withdrawn from the market and were in some cases seen to have been destroyed by their manufactures. Toyota continues to support the several hundred Toyota RAV4-EV in the hands of the general public and in fleet usage. GM famously de-activated the few EV1s that were donated to engineering schools and museums."
+      },
+      {
+        "label": "D",
+        "content": "Throughout the 1990s, the appeal of fuel-efficient or environmentally friendly cars declined among Americans, who instead favored sport utility vehicles, which were affordable to operate despite their poor fuel efficiency thanks to lower gasoline prices. American automakers chose to focus their product lines around the truck-based vehicles, which enjoyed larger profit margins than the smaller cars which were preferred in places like Europe or Japan. In 1999, the Honda Insight hybrid car became the first hybrid to be sold in North America since the little-known Woods hybrid of 1917."
+      },
+      {
+        "label": "E",
+        "content": "In 1995, Toyota debuted a hybrid concept car at the Tokyo Motor Show, with testing following a year later. The first Prius, model NHW10, went on sale on December 10, 1997. It was available only in Japan, though it has been imported privately to at least the United Kingdom, Australia, and New Zealand. The first-generation Prius, at its launch, became the world’s first mass-produced gasoline-electric hybrid car. The NHW10 Prius styling originated from California designers, who were selected over competing designs from other Toyota design studios."
+      },
+      {
+        "label": "F",
+        "content": "In the United States, the NHW11 was the first Prius to be sold. The Prius was marketed between the smaller Corolla and the larger Camry. The published retail price of the car was US$19,995. The NHW11 Prius became more powerful partly to satisfy the higher speeds and longer distances that Americans drive. Air conditioning and electric power steering were standard equipment. The vehicle was the second mass-produced hybrid on the American market, after the two-seat Honda Insight. While the larger Prius could seat five, its battery pack restricted cargo space."
+      },
+      {
+        "label": "G",
+        "content": "Hybrids, which featured a combined gasoline and electric powertrain, were seen as a balance, offering an environmentally friendly image and improved fuel economy, without being hindered by the low range of electric vehicles, albeit at an increased price over comparable gasoline cars. Sales were poor, the lack of interest attributed to the car’s small size and the lack of necessity for a fuel-efficient car at the time. The 2000s energy crisis brought renewed interest in hybrid and electric cars. In America, sales of the Toyota Prius jumped, and a variety of automakers followed suit, releasing hybrid models of their own. Several began to produce new electric car prototypes, as consumers called for cars that would free them from the fluctuations of oil prices."
+      },
+      {
+        "label": "H",
+        "content": "In 2000, Hybrid Technologies, later renamed Li-ion Motors, started manufacturing electric cars in Mooresville, North Carolina. There has been increasing controversy with Li-ion Motors though due to the ongoing ‘Lemon issues’ regarding their product. And their attempt to cover it up. California electric-car maker Tesla Motors began development in 2004 on the Tesla Roadster, which was first delivered to customers in 2008. The Roadster remained the only highway-capable EV in serial production and available for sale until 2010. Senior leaders at several large automakers, including Nissan and General Motors, have stated that the Roadster was a catalyst which demonstrated that there is pent-up consumer demand for more efficient vehicles. GM Vice Chairman Bob Lutz said in 2007 that the Tesla Roadster inspired him to push GM to develop the Chevrolet Volt, a plug-in hybrid sedan prototype that aims to reverse years of dwindling market share and massive financial losses for America’s largest automaker. In an August 2009 edition of The New Yorker, Lutz was quoted as saying, “All the geniuses here at General Motors kept saying lithium-ion technology is 10 years away, and Toyota agreed with us – and boom, along comes Tesla. So I said, ‘How come some tiny little California startup, run by guys who know nothing about the car business, can do this, and we can’t?’ That was the crowbar that helped break up the log jam.”"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 27,
+            "text": "What does the author think of the factory in Sonora in Mexico where the Ford Fusion is manufactured?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "The factory should be helpful in the US soil business."
+              },
+              {
+                "label": "B",
+                "text": "Employment of US will be created as consumers change their awareness."
+              },
+              {
+                "label": "C",
+                "text": "More competitive cars will be introduced into the market."
+              },
+              {
+                "label": "D",
+                "text": "This issue is hard to give a predict."
+              }
+            ]
+          },
+          {
+            "number": 28,
+            "text": "In the 1990s, what dropped in America for environmentally friendly vehicles?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Production."
+              },
+              {
+                "label": "B",
+                "text": "Attractiveness."
+              },
+              {
+                "label": "C",
+                "text": "Announcement."
+              },
+              {
+                "label": "D",
+                "text": "Expectation."
+              }
+            ]
+          },
+          {
+            "number": 29,
+            "text": "What did GM notably send to engineering schools and museums?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "EV 1."
+              },
+              {
+                "label": "B",
+                "text": "CARB."
+              },
+              {
+                "label": "C",
+                "text": "RAV4."
+              },
+              {
+                "label": "D",
+                "text": "MINI E."
+              }
+            ]
+          },
+          {
+            "number": 30,
+            "text": "Nissan and GM high-level leaders declared the real reason for the popularity of the Roadster is its",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Legendary concert."
+              },
+              {
+                "label": "B",
+                "text": "Huge population in the market."
+              },
+              {
+                "label": "C",
+                "text": "Bursting demand."
+              },
+              {
+                "label": "D",
+                "text": "Artistic design."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 31,
+            "text": "Some automakers misled and suppressed the real demand for electric cars of keeping profit in a certain market by luring the want of CARB.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement is true."
+              },
+              {
+                "label": "NO",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 32,
+            "text": "Toyota started to sell 328 RAV4-EVs for taking up the market share.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement is true."
+              },
+              {
+                "label": "NO",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 33,
+            "text": "In some countries, American auto-makers would like to grab the opportunity to earn money in the vehicle of bigger litre engine cars rather than smaller ones.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement is true."
+              },
+              {
+                "label": "NO",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 34,
+            "text": "Hybrid cars are superior vehicles that combine the impression of an environmental friend electric power engine and a lower price in the unit sale.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement is true."
+              },
+              {
+                "label": "NO",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 35,
+            "text": "An inspiration to make an effort to produce hybrid cars is to cope with economic difficulties result from a declining market for General Motors.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement is true."
+              },
+              {
+                "label": "NO",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words, A-L below.",
+        "questions": [
+          {
+            "number": 36,
+            "text": "A was firstly introduced by Car maker Toyota in 1995.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 37,
+            "text": "Then it started for sale in 1997 with a new first-generation model. Not only in Japan but included other countries such as and Oceania in which the Prius was imported to.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 38,
+            "text": "The first-generation Prius was the first car in mass production which is powered by.",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 39,
+            "text": "The model NHW10 was designed by a winning Californian designer. The innovated NHW 11 Prius has considerably higher running velocity and than American counterparts.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 40,
+            "text": "Still, the load capacity of current Prius version was limited in its.",
+            "answer": "G",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T19:57:56.456111"
+}

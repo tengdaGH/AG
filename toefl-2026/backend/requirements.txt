@@ -1,0 +1,9 @@
+fastapi==0.111.0
+uvicorn==0.29.0
+pydantic==2.7.1
+sqlalchemy==2.0.30
+alembic==1.13.1
+psycopg2-binary
+requests==2.31.0
+google-genai==1.0.0
+google-cloud-texttospeech

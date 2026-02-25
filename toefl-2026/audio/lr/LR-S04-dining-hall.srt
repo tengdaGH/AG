@@ -1,0 +1,79 @@
+1
+00:00:01,029 --> 00:00:05,169
+Hi there, welcome to the dining hall.
+
+2
+00:00:05,169 --> 00:00:10,058
+We serve breakfast, lunch, and dinner.
+
+3
+00:00:10,058 --> 00:00:14,589
+Breakfast starts at seven thirty every morning.
+
+4
+00:00:14,589 --> 00:00:18,509
+You can pick up a tray at the entrance.
+
+5
+00:00:18,509 --> 00:00:22,846
+The salad bar is on your left when you walk in.
+
+6
+00:00:22,846 --> 00:00:27,065
+Hot meals are served at the counter straight ahead.
+
+7
+00:00:27,065 --> 00:00:32,004
+Today's special is grilled chicken with roasted vegetables.
+
+8
+00:00:32,004 --> 00:00:36,067
+All drinks are included with your meal plan.
+
+9
+00:00:36,067 --> 00:00:40,817
+You can refill your water bottle at the station over there.
+
+10
+00:00:40,817 --> 00:00:45,640
+Please return your tray to the drop-off area when you're done.
+
+11
+00:00:45,640 --> 00:00:50,577
+We have a vegetarian section with fresh options every day.
+
+12
+00:00:50,577 --> 00:00:55,903
+If you have any food allergies, please check the labels on each dish.
+
+13
+00:00:55,903 --> 00:01:01,290
+The dessert table is next to the beverage station near the window.
+
+14
+00:01:01,290 --> 00:01:07,097
+We try to use locally grown ingredients whenever they are available.
+
+15
+00:01:07,097 --> 00:01:12,908
+Students with a meal plan can eat here up to three times a day.
+
+16
+00:01:12,908 --> 00:01:19,185
+Guest passes can be purchased at the front desk for five dollars each.
+
+17
+00:01:19,185 --> 00:01:26,582
+The dining hall gets really busy around noon, so you might want to come a little earlier.
+
+18
+00:01:26,582 --> 00:01:34,799
+On weekends, we offer a special brunch menu from ten in the morning until two in the afternoon.
+
+19
+00:01:34,799 --> 00:01:41,662
+If you have any suggestions about the menu, there's a feedback box right next to the exit.
+
+20
+00:01:41,662 --> 00:01:48,504
+We hope you enjoy your meals here, and please don't hesitate to ask the staff if you need anything at all.

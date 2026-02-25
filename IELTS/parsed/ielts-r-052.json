@@ -1,0 +1,219 @@
+{
+  "id": "ielts-r-052",
+  "source_file": "52. P2 - The fascinating world of attine ants 切叶蚁【高】.pdf",
+  "position": "P2",
+  "question_range": [
+    14,
+    26
+  ],
+  "difficulty": "high",
+  "title": "The fascinating world of attine ants",
+  "title_cn": "切叶蚁",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "text": "Leaf-cutting ants and their fungus ‘farm’ are a marvel of nature and perhaps the best-known example of symbiosis — the mutual dependence of two species. Ants cultivate a mushroom-like fungus in ‘farms’. Both the ants and their so-called ‘agriculture’ have been extensively studied over the years, but recent research has uncovered intriguing new findings. Ants invented agriculture 50 million years before people did, and the leaf-cutters, members of the large attine ant family, practise the most sophisticated example of it. They grow their fungus in underground chambers that can reach the size of a football. A single leaf-cutter nest may contain a thousand such chambers, embedded in an underground metropolis up to 18 feet deep, and support a society of more than a million ants."
+      },
+      {
+        "label": "B",
+        "text": "These ant communities are the dominant plant-eaters of the Neotropics, the region comprising South and Central America, Mexico and the Caribbean. Biologists believe 15 percent of the leaf production of tropical forests disappears down the nests of leaf-cutter ants. In the nest, the leaves are shredded and added to the fungus, which digests the leaves and is in turn eaten by the ants. The attine ants’ achievement is remarkable because it allows them to consume, courtesy of their mushroom’s digestive powers, the harvest of tropical forests whose leaves are laden with poisonous chemicals."
+      },
+      {
+        "label": "C",
+        "text": "There are more than 200 known species of the attine ant tribe, divided into 12 groups, or genera. The leaf-cutters use fresh vegetation; the other groups, known as the lower attines because their nests are smaller and their techniques more primitive, feed their gardens with similar leaves that have fallen on the ground and insects that lie on the forest floor. Lower attine ants are all a similar size. However, leaf-cutter worker ants come in made-to-fit sizes — large ants to saw off leaves, medium ones to shred them, and miniature workers to seed them with fungus and clean off alien growths."
+      },
+      {
+        "label": "D",
+        "text": "In 1994, biologists from the United States Department of Agriculture analysed the DNA of ant fungi. They found that the leaf-cutters’ fungus was descended from a single pure strain, propagated for at least 23 million years. However, the fungi grown by lower attine ants fell into four different groups, as if the ants had domesticated wild fungi at least four times in evolutionary history. What could be driving these two patterns of fungus gardening — the pure clone cultivation of the leaf-cutters and the multiple varieties of the lower attines?"
+      },
+      {
+        "label": "E",
+        "text": "The answer has been suggested by Cameron Currie of the University of Toronto. The pure strain of fungus grown by the leaf-cutters, it seemed to him, resembled the single crops grown by humans to the exclusion of all others, such as potato growing. These ‘monocultures’, which lack the genetic diversity to respond to changing environmental threats, are particularly vulnerable to parasites — organisms that live and feed on their host, often causing harm. Currie felt there had to be a parasite in the ant-fungus system. But a century of ant research had provided no evidence for his idea. Textbooks describe how leaf-cutter ants scrupulously weed their gardens of all foreign organisms. “People kept telling me the ants keep their gardens free of parasites,” said Currie. Nevertheless, after three years of sifting through attine ant gardens, Currie discovered several alien organisms, particularly a family of parasitic moulds called ‘Escovopsis’."
+      },
+      {
+        "label": "F",
+        "text": "Escovopsis is a deadly disease that can devastate a fungus garden in a couple of days. It blooms like a white cloud which envelops the whole garden. Other ants won’t go near it, and the ants associated with the garden just starve to death. Evidently, the ants usually manage to keep Escovopsis and other parasites under control. Nevertheless, with any lapse in control Escovopsis will quickly burst forth. Although new leaf-cutter gardens start off free of Escovopsis, within two years some 60 percent become infected."
+      },
+      {
+        "label": "G",
+        "text": "The discovery of Escovopsis’s role brings a new level of understanding to the evolution of the attine ants. In the last decade, evolutionary biologists have been increasingly aware of the role of parasites as driving forces in evolution. With Currie’s work, there is now a possible reason for the different varieties of fungus in the lower attine mushroom gardens — to stay one step ahead of the relentless Escovopsis. Interestingly, the leaf-cutters had, in general, fewer alien moulds in their gardens than the lower attines, yet more Escovopsis infections. Clearly, the price they pay for cultivating a pure variety of fungus is a higher risk from Escovopsis."
+      },
+      {
+        "label": "H",
+        "text": "So how do attine ants keep this parasite under control? People have known for a hundred years that ants have a whitish growth on their body surface. It was thought to be wax but, after examining it under a microscope, Currie discovered a specialised patch on the ants’ bodies that harbours a particular kind of bacterium, one well known to the pharmaceutical industry and the source of half the antibiotics used in medicine. This bacterium is a potent poisoner of Escovopsis, inhibiting its growth and suppressing spore formation. Astoundingly, the leaf-cutter ants are accomplishing feats beyond the power of humans: they are growing a monocultural crop year after year without disaster, and they are using an antibiotic apparently so wisely that, unlike people, they are not provoking antibiotic resistance in the target disease-producing organism."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "PARAGRAPH_MATCHING",
+      "range": [
+        14,
+        19
+      ],
+      "instructions": "Reading Passage 2 has eight paragraphs, A–H. Which section contains the following information? Write the correct letter, A–H, in boxes 14–19 on your answer sheet.",
+      "questions": [
+        {
+          "number": 14,
+          "text": "two things at which leaf-cutter ants have succeeded but humans have failed.",
+          "options": null,
+          "answer": "H",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 15,
+          "text": "a comparison between the nests of leaf-cutter ants and lower attine ants.",
+          "options": null,
+          "answer": "C",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 16,
+          "text": "an assessment of the impact leaf-cutter ants have on their environment.",
+          "options": null,
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 17,
+          "text": "the effect Escovopsis has on ant communities.",
+          "options": null,
+          "answer": "F",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 18,
+          "text": "the advantage for lower attine ants of growing a range of fungi.",
+          "options": null,
+          "answer": "G",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 19,
+          "text": "the discovery of the age of the attine-ant fungi.",
+          "options": null,
+          "answer": "D",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "CLASSIFICATION",
+      "range": [
+        20,
+        24
+      ],
+      "instructions": "Classify the following descriptions as relating to A Leaf-cutting ants B Lower attines C Both leaf-cutting ants and lower attine ants Write the correct letter, A, B or C, in boxes 20-24 on your answer sheet.",
+      "questions": [
+        {
+          "number": 20,
+          "text": "the use of dead vegetation to cultivate their fungus",
+          "options": null,
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 21,
+          "text": "very small ants that keep the fungus free of foreign organisms",
+          "options": null,
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 22,
+          "text": "the ability to safely eat harmful plants",
+          "options": null,
+          "answer": "C",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 23,
+          "text": "the cultivation of a single fungus",
+          "options": null,
+          "answer": "A",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 24,
+          "text": "a nest with a very large number of rooms for growing fungus",
+          "options": null,
+          "answer": "A",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "MCQ",
+      "range": [
+        25,
+        26
+      ],
+      "instructions": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 25 and 26 on your answer sheet.",
+      "questions": [
+        {
+          "number": 25,
+          "text": "What does the writer say about Cameron Currie’s research?",
+          "options": [
+            {
+              "letter": "A",
+              "text": "No previous work had been done in this area."
+            },
+            {
+              "letter": "B",
+              "text": "Earlier studies did not support his theory."
+            },
+            {
+              "letter": "C",
+              "text": "Textbooks on this subject lacked specific detail."
+            },
+            {
+              "letter": "D",
+              "text": "Currie’s initial theory had proven to be incorrect."
+            }
+          ],
+          "answer": "B",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 26,
+          "text": "Using a microscope, Currie was the first to discover that the body of attine ants",
+          "options": [
+            {
+              "letter": "A",
+              "text": "has a white covering."
+            },
+            {
+              "letter": "B",
+              "text": "is covered in wax."
+            },
+            {
+              "letter": "C",
+              "text": "is poisonous to humans."
+            },
+            {
+              "letter": "D",
+              "text": "has a substance useful to humans."
+            }
+          ],
+          "answer": "D",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "PARAGRAPH_MATCHING",
+      "CLASSIFICATION",
+      "MCQ"
+    ],
+    "parsed_at": "2026-02-24T03:41:41.659113",
+    "llm_structured_at": "2026-02-24T03:49:44+0800",
+    "parser_version": "1.0",
+    "needs_review": true
+  }
+}

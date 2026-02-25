@@ -1,0 +1,52 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Complete the Words Question Bank",
+    "source": "ETS Official, englishwitharik.id",
+    "totalPassages": 2,
+    "lastUpdated": "2026-02-20"
+  },
+  "passages": [
+    {
+      "id": "CW01",
+      "title": "Early Human Dances",
+      "titleChinese": "早期人类舞蹈",
+      "difficulty": "B1-B2",
+      "wordCount": 95,
+      "text": "We know from drawings that have been preserved in caves for over 10,000 years that early humans performed dances as a group activity. We mi_ _ _ think th_ _ prehistoric peo_ _ _ concentrated on_ _ on ba_ _ _ survival. How_ _ _ _, it i_ clear fr_ _ the rec_ _ _ that dan_ _ _ _ was important to them. They recorded more drawings of dances than of any other group activity. Dances served various purposes, including ritualistic communication with the divine, storytelling, and social cohesion.",
+      "gaps": [
+        {"position": "mi_ _ _", "answer": "might", "wordIndex": 0},
+        {"position": "th_ _", "answer": "that", "wordIndex": 1},
+        {"position": "peo_ _ _", "answer": "people", "wordIndex": 2},
+        {"position": "concentrated on_ _", "answer": "only", "wordIndex": 3},
+        {"position": "ba_ _ _", "answer": "basic", "wordIndex": 4},
+        {"position": "How_ _ _ _,", "answer": "However,", "wordIndex": 5},
+        {"position": "i_", "answer": "is", "wordIndex": 6},
+        {"position": "fr_ _", "answer": "from", "wordIndex": 7},
+        {"position": "rec_ _ _", "answer": "record", "wordIndex": 8},
+        {"position": "dan_ _ _ _", "answer": "dances", "wordIndex": 9}
+      ],
+      "topic": "History/Anthropology"
+    },
+    {
+      "id": "CW02",
+      "title": "Early Societies and Natural Events",
+      "titleChinese": "早期社会与自然事件",
+      "difficulty": "B1-B2",
+      "wordCount": 82,
+      "text": "Archaeologists have found evidence that early societies used simple tools to understand natural events. They deter_ _ _ _ _ that anci_ _ _ communities care_ _ _ _ _ observed t_ _ movement pat_ _ _ _ _ of t_ _ sun a_ _ storms t_ predict sea_ _ _ _ _ changes. Ov_ _ time, these systems became more sophisticated and allowed groups to organize their daily activities. Such knowledge helped communities prepare for harvests, ceremonies, and major social gatherings.",
+      "gaps": [
+        {"position": "deter_ _ _ _ _", "answer": "determined", "wordIndex": 0},
+        {"position": "anci_ _ _", "answer": "ancient", "wordIndex": 1},
+        {"position": "care_ _ _ _ _", "answer": "carefully", "wordIndex": 2},
+        {"position": "t_ _", "answer": "the", "wordIndex": 3},
+        {"position": "pat_ _ _ _ _", "answer": "patterns", "wordIndex": 4},
+        {"position": "t_ _", "answer": "the", "wordIndex": 5},
+        {"position": "a_ _", "answer": "and", "wordIndex": 6},
+        {"position": "t_", "answer": "to", "wordIndex": 7},
+        {"position": "sea_ _ _ _ _", "answer": "seasonal", "wordIndex": 8},
+        {"position": "Ov_ _", "answer": "Over", "wordIndex": 9}
+      ],
+      "topic": "History/Archaeology"
+    }
+  ]
+}

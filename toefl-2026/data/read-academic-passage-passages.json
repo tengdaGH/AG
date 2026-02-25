@@ -1,0 +1,208 @@
+{
+  "meta": {
+    "format": "TOEFL 2026 Read an Academic Passage",
+    "rules": "Academic passages by domain. Two per domain: one easier, one harder. MC: main idea, detail, inference, purpose. Use 'According to the passage' for factual stems. Key balance across A/B/C/D.",
+    "reviewLogRef": "docs/item-review-log.md",
+    "reviewLog": []
+  },
+  "sets": {
+    "NATSCI": {
+      "label": "Natural Sciences",
+      "passages": [
+        {
+          "id": "NATSCI-01",
+          "title": "The Water Cycle",
+          "topic": "Earth science",
+          "content": "The water cycle, also known as the hydrological cycle, describes the continuous movement of water on, above, and below the surface of the Earth. Water changes state between liquid, vapour, and ice as it moves through the cycle.\n\nEvaporation from oceans, lakes, and rivers adds water vapour to the atmosphere. Plants also release water vapour through a process called transpiration. When the water vapour rises and cools, it condenses to form clouds. Precipitation—rain, snow, sleet, or hail—returns water to the surface. Some of this water runs off into streams and rivers, eventually reaching the ocean. Another portion seeps into the ground and becomes groundwater, which may later emerge in springs or be taken up by plant roots.\n\nThe cycle has no real beginning or end, but scientists often start by describing the ocean, which holds about 97 percent of Earth's water. Solar energy drives evaporation, and gravity pulls precipitation downward. Human activities, such as irrigation and the building of reservoirs, can alter local water distribution, but the global cycle as a whole remains balanced. Understanding the water cycle is essential for managing freshwater resources and predicting the effects of climate change on rainfall and drought.",
+          "wordCount": 198,
+          "difficulty": "Easier",
+          "questions": [
+            {"text": "What is the main purpose of the passage?", "options": ["To compare different types of precipitation", "To describe the continuous movement of water on Earth", "To explain how plants use groundwater", "To argue that human activities harm the water cycle"], "correct": 1, "explanation": "The passage focuses on describing the water cycle: the continuous movement of water through evaporation, condensation, precipitation, runoff, and groundwater."},
+            {"text": "According to the passage, what process do plants use to release water vapour into the atmosphere?", "options": ["Evaporation", "Condensation", "Transpiration", "Precipitation"], "correct": 2, "explanation": "The passage states that plants release water vapour through a process called transpiration."},
+            {"text": "According to the passage, where is most of Earth's water stored?", "options": ["In the ocean", "In rivers and streams", "In the atmosphere as vapour", "In groundwater"], "correct": 0, "explanation": "The passage states that the ocean holds about 97 percent of Earth's water."},
+            {"text": "The passage suggests that the global water cycle remains balanced despite human activities because", "options": ["human activities only affect small areas", "evaporation and precipitation always increase together", "scientists have found ways to restore the balance", "the cycle as a whole continues even when local distribution changes"], "correct": 3, "explanation": "The passage says human activities can alter local water distribution, but the global cycle as a whole remains balanced."}
+          ]
+        },
+        {
+          "id": "NATSCI-02",
+          "title": "Plate Tectonics and Earthquake Zones",
+          "topic": "Earth science",
+          "content": "Earth's outer layer, the lithosphere, is broken into several large plates that move slowly over the underlying asthenosphere. This movement is driven by heat from the planet's interior. Where plates meet, they may pull apart, collide, or slide past one another. These boundaries are the primary sites of earthquakes and volcanic activity.\n\nAt divergent boundaries, such as the Mid-Atlantic Ridge, plates move apart and new crust forms from magma rising from below. At convergent boundaries, one plate may sink beneath another in a process called subduction, often forming deep ocean trenches and mountain ranges. Transform boundaries, where plates slide past each other, can produce large earthquakes when stress builds up and is suddenly released—as along the San Andreas Fault in California.\n\nScientists use the theory of plate tectonics to explain the distribution of volcanoes and earthquakes worldwide. Because plate boundaries are where the greatest stress accumulates, they are monitored closely for seismic hazard. Understanding plate motion also helps explain the long-term evolution of continents and ocean basins.",
+          "wordCount": 178,
+          "difficulty": "Harder",
+          "questions": [
+            {"text": "What is the passage mainly about?", "options": ["How mountains form", "The movement of Earth's plates and its effects on earthquakes and volcanoes", "The difference between the lithosphere and asthenosphere", "How to predict earthquakes in California"], "correct": 1, "explanation": "The passage describes plate tectonics—plate movement and boundaries—and links them to earthquakes and volcanic activity."},
+            {"text": "According to the passage, what happens at divergent boundaries?", "options": ["One plate sinks beneath another", "Plates slide past each other", "Plates move apart and new crust forms", "Stress builds up and is released as earthquakes"], "correct": 2, "explanation": "The passage states that at divergent boundaries, such as the Mid-Atlantic Ridge, plates move apart and new crust forms from magma."},
+            {"text": "According to the passage, why are plate boundaries monitored closely?", "options": ["To find new mineral deposits", "To measure the speed of plate movement", "Because they are where the greatest seismic hazard occurs", "To study the asthenosphere"], "correct": 2, "explanation": "The passage says plate boundaries are where the greatest stress accumulates and are therefore monitored for seismic hazard."},
+            {"text": "The author mentions the San Andreas Fault in order to", "options": ["compare it to the Mid-Atlantic Ridge", "explain subduction", "describe volcanic activity", "illustrate earthquakes at transform boundaries"], "correct": 3, "explanation": "The passage uses the San Andreas Fault as an example of a transform boundary where plates slide past each other and produce large earthquakes."}
+          ]
+        }
+      ]
+    },
+    "SOCSCI": {
+      "label": "Social Sciences",
+      "passages": [
+        {
+          "id": "SOCSCI-01",
+          "title": "How Groups Make Decisions",
+          "topic": "Psychology",
+          "content": "When people make decisions in groups, the outcome can differ from what any one person would choose alone. In some cases, groups discuss ideas and reach a better solution because they combine different viewpoints. In other cases, groups make riskier or more cautious decisions than individuals would.\n\nOne well-known effect is called group polarisation. After a group discusses a topic, members often end up holding more extreme views than they did at the start. If most people initially lean in one direction, discussion tends to push them further in that direction. Another effect is groupthink, when the desire for agreement leads the group to ignore doubts or outside information. Groupthink can lead to poor decisions because criticism is suppressed.\n\nResearchers study these effects to understand how juries, committees, and organisations reach conclusions. Knowing about group polarisation and groupthink can help people design better meetings and encourage more careful decision-making.",
+          "wordCount": 168,
+          "difficulty": "Easier",
+          "questions": [
+            {"text": "What is the main purpose of the passage?", "options": ["To argue that individuals make better decisions than groups", "To describe how group discussion can affect decisions", "To explain how juries reach verdicts", "To recommend longer meetings"], "correct": 1, "explanation": "The passage describes how group discussion can lead to different outcomes, including group polarisation and groupthink."},
+            {"text": "According to the passage, what is group polarisation?", "options": ["When discussion pushes members toward more extreme views", "When groups ignore outside information", "When one person dominates the group", "When groups take longer to decide"], "correct": 0, "explanation": "The passage defines group polarisation as the tendency for members to hold more extreme views after discussion than at the start."},
+            {"text": "According to the passage, why can groupthink lead to poor decisions?", "options": ["Because groups are too large", "Because members have different viewpoints", "Because meetings are too short", "Because the desire for agreement suppresses criticism"], "correct": 3, "explanation": "The passage states that groupthink occurs when the desire for agreement leads the group to ignore doubts and suppress criticism."},
+            {"text": "The passage suggests that understanding these effects is useful for", "options": ["predicting the outcome of any vote", "reducing the size of groups", "avoiding discussion altogether", "designing better meetings and decision-making processes"], "correct": 3, "explanation": "The passage says knowing about group polarisation and groupthink can help people design better meetings and encourage more careful decision-making."}
+          ]
+        },
+        {
+          "id": "SOCSCI-02",
+          "title": "Cognitive Dissonance",
+          "topic": "Psychology",
+          "content": "Cognitive dissonance is the discomfort people feel when they hold two conflicting beliefs or when their behaviour conflicts with their beliefs. According to the theory, first developed by Leon Festinger in the 1950s, people are motivated to reduce this discomfort. They may do so by changing one of the beliefs, changing their behaviour, or adding new information that makes the conflict seem less important.\n\nFor example, a person who values health but smokes might minimise the health risks of smoking, quit smoking, or decide that the pleasure of smoking outweighs the risk. How people reduce dissonance depends on how committed they are to their beliefs and how easy it is to change their behaviour. In some cases, people may even deny or distort evidence to protect their self-image.\n\nDissonance theory has been used to study decisions about consumer behaviour, political attitudes, and moral behaviour. Critics have noted that the theory is broad and that people sometimes tolerate inconsistency without obvious discomfort. Nevertheless, the idea that people seek consistency between their attitudes and actions remains influential in social psychology.",
+          "wordCount": 198,
+          "difficulty": "Harder",
+          "questions": [
+            {"text": "What is the passage mainly about?", "options": ["The life of Leon Festinger", "Cognitive dissonance and how people reduce it", "The health risks of smoking", "Consumer behaviour and advertising"], "correct": 1, "explanation": "The passage defines cognitive dissonance and explains how people reduce it by changing beliefs, behaviour, or adding information."},
+            {"text": "According to the passage, how might a person who values health but smokes reduce dissonance?", "options": ["By changing the belief, changing behaviour, or reweighing the conflict", "By avoiding information about health", "By joining a support group only", "By blaming others for their habit"], "correct": 0, "explanation": "The passage gives the example of minimising risk, quitting, or deciding pleasure outweighs risk—all ways of changing beliefs or behaviour or reweighing the conflict."},
+            {"text": "According to the passage, what have critics said about dissonance theory?", "options": ["That it was developed too early", "That it only applies to smoking", "That Festinger did not do enough experiments", "That it is broad and that people sometimes tolerate inconsistency"], "correct": 3, "explanation": "The passage states that critics have noted the theory is broad and that people sometimes tolerate inconsistency without obvious discomfort."},
+            {"text": "The author mentions consumer behaviour and political attitudes in order to", "options": ["criticise the theory", "argue that dissonance is increasing", "explain Festinger's research method", "give examples of areas where the theory has been applied"], "correct": 3, "explanation": "The passage says dissonance theory has been used to study decisions about consumer behaviour, political attitudes, and moral behaviour."}
+          ]
+        }
+      ]
+    },
+    "HUM": {
+      "label": "Humanities",
+      "passages": [
+        {
+          "id": "HUM-01",
+          "title": "The Printing Press and the Spread of Ideas",
+          "topic": "History",
+          "content": "The invention of the printing press in Europe in the mid-fifteenth century is often regarded as one of the most important developments in human history. Before the press, books were copied by hand, which was slow and expensive. Only a small number of people had access to written works.\n\nJohannes Gutenberg's press, which used movable type, made it possible to produce many copies of a text quickly and at lower cost. The first major book printed in this way was the Bible. Soon, printers across Europe were producing not only religious texts but also scientific works, political pamphlets, and literature. Ideas could spread much faster than before.\n\nScholars have argued that the printing press contributed to major social and intellectual movements. The Protestant Reformation, for example, relied on the wide distribution of Bibles and pamphlets so that people could read and interpret religious texts for themselves. Similarly, the scientific revolution was aided by the rapid exchange of research and ideas through printed books and letters. Literacy rates rose as more people had reason to learn to read.\n\nOf course, the press did not act alone. Political, economic, and religious conditions in Europe shaped how and where printing spread. Nevertheless, the technology made it possible for ideas to reach a far wider audience than ever before, with lasting effects on education, religion, and politics.",
+          "wordCount": 228,
+          "difficulty": "Easier",
+          "questions": [
+            {"text": "What is the passage mainly about?", "options": ["The life of Johannes Gutenberg", "How the printing press changed the spread of ideas in Europe", "The cost of books before and after the printing press", "The role of the Bible in the Protestant Reformation"], "correct": 1, "explanation": "The passage focuses on the invention of the printing press and its impact on the spread of ideas, including religion, science, and literacy."},
+            {"text": "According to the passage, what was the first major book printed using Gutenberg's press?", "options": ["A scientific work", "A political pamphlet", "The Bible", "A literary text"], "correct": 2, "explanation": "The passage states that the first major book printed in this way was the Bible."},
+            {"text": "According to the passage, how did the printing press support the Protestant Reformation?", "options": ["By making religious education compulsory", "By enabling the wide distribution of Bibles and pamphlets", "By reducing the power of the Catholic Church directly", "By inventing movable type for religious texts only"], "correct": 1, "explanation": "The passage says the Reformation relied on the wide distribution of Bibles and pamphlets so people could read and interpret religious texts for themselves."},
+            {"text": "The author mentions that 'the press did not act alone' in order to", "options": ["criticise the importance of the printing press", "suggest that Gutenberg had many helpers", "explain why literacy rates rose slowly", "emphasise that other factors also influenced how printing spread"], "correct": 3, "explanation": "The author acknowledges that political, economic, and religious conditions also shaped how and where printing spread, while still emphasising the technology's impact."}
+          ]
+        },
+        {
+          "id": "HUM-02",
+          "title": "Historical Causation and Multiple Factors",
+          "topic": "History",
+          "content": "Historians rarely explain major change by pointing to a single cause. Instead, they look for multiple factors—economic, political, cultural, and technological—that interact over time. The decline of a dynasty, the rise of industrialisation, or the spread of a new religion can seldom be attributed to one event or one person.\n\nFor instance, the fall of the Roman Empire in the West has been explained by military pressure at the borders, economic strain, political instability, and cultural shifts. No single factor is sufficient on its own; historians debate how to weigh each. Similarly, the Industrial Revolution in Britain depended on technological innovation, access to raw materials and capital, labour supply, and a legal and political environment that allowed investment and trade. Change in one area made change in others possible.\n\nThis approach does not mean that individual actions or events are unimportant. Rather, it means that they are understood within a broader context. Historians also distinguish between short-term triggers—a battle, a treaty, a discovery—and long-term causes that may have developed over decades or centuries. Understanding both helps explain why events unfolded as they did.",
+          "wordCount": 198,
+          "difficulty": "Harder",
+          "questions": [
+            {"text": "What is the main purpose of the passage?", "options": ["To argue that single causes are more important than multiple causes", "To explain how historians use multiple factors to explain major change", "To describe the fall of the Roman Empire in detail", "To compare the Roman Empire and the Industrial Revolution"], "correct": 1, "explanation": "The passage explains that historians look for multiple interacting factors rather than a single cause when explaining major change."},
+            {"text": "According to the passage, which of the following has been cited as a factor in the fall of the Roman Empire in the West?", "options": ["The invention of the printing press", "Military pressure at the borders", "The Protestant Reformation", "British industrialisation"], "correct": 1, "explanation": "The passage lists military pressure at the borders, economic strain, political instability, and cultural shifts as factors used to explain the fall."},
+            {"text": "According to the passage, how do historians often view short-term triggers?", "options": ["As more important than long-term causes", "As unrelated to long-term causes", "As part of a broader context that includes long-term causes", "As the only true causes of change"], "correct": 2, "explanation": "The passage says historians distinguish between short-term triggers and long-term causes and that understanding both helps explain events."},
+            {"text": "The author uses the Industrial Revolution in Britain to illustrate", "options": ["that technology alone caused the revolution", "that historians disagree about everything", "that short-term triggers are sufficient", "that multiple factors—technology, materials, capital, labour, law—interacted"], "correct": 3, "explanation": "The passage uses the Industrial Revolution as an example of change depending on technological, economic, and political factors that interacted."}
+          ]
+        }
+      ]
+    },
+    "ARTS": {
+      "label": "Arts",
+      "passages": [
+        {
+          "id": "ARTS-01",
+          "title": "Renaissance Art and Perspective",
+          "topic": "Art history",
+          "content": "During the Renaissance, artists in Italy and elsewhere in Europe began to use new techniques to create a sense of depth on a flat surface. One of the most important was linear perspective. By drawing lines that converge at a single point on the horizon—the vanishing point—artists could make a painting look like a window into a real space.\n\nBefore this period, many paintings had a flatter, more symbolic style. Figures might be sized by importance rather than by their position in space. Renaissance artists studied geometry and optics to represent the world more as the eye sees it. Buildings, tiles, and roads could be drawn so that they appeared to recede into the distance.\n\nThe technique was used in religious and secular works alike. It gave viewers the feeling that they could step into the scene. Linear perspective became a standard tool for Western art for centuries and influenced how people thought about space and representation.",
+          "wordCount": 158,
+          "difficulty": "Easier",
+          "questions": [
+            {"text": "What is the passage mainly about?", "options": ["The history of Italy during the Renaissance", "The use of linear perspective in Renaissance art to create depth", "The difference between religious and secular painting", "The importance of geometry in education"], "correct": 1, "explanation": "The passage focuses on how Renaissance artists used linear perspective to create a sense of depth on a flat surface."},
+            {"text": "According to the passage, what is the vanishing point?", "options": ["A type of paint used by Renaissance artists", "The most important figure in a painting", "A technique for painting faces", "A point on the horizon where lines converge in perspective"], "correct": 3, "explanation": "The passage states that artists drew lines that converge at a single point on the horizon—the vanishing point."},
+            {"text": "According to the passage, how might figures have been sized in art before the Renaissance?", "options": ["By their position in space", "By importance rather than position in space", "By the same size as in real life", "By the viewer's distance"], "correct": 1, "explanation": "The passage says that before this period, figures might be sized by importance rather than by their position in space."},
+            {"text": "The passage suggests that linear perspective", "options": ["was only used in Italy", "was replaced quickly by photography", "was used only for religious works", "became a standard tool in Western art for centuries"], "correct": 3, "explanation": "The passage states that linear perspective became a standard tool for Western art for centuries."}
+          ]
+        },
+        {
+          "id": "ARTS-02",
+          "title": "Impressionism and the Shift to Modern Art",
+          "topic": "Art history",
+          "content": "Impressionism, which emerged in France in the 1860s and 1870s, broke with the academic tradition that had dominated European painting. Instead of carefully finished surfaces and historical or mythological subjects, Impressionist painters often worked outdoors, capturing the effects of light and atmosphere at a particular moment. Brushwork became more visible; colour was often applied in separate strokes that blended in the viewer's eye.\n\nArtists such as Monet, Renoir, and Degas were initially rejected by the official Salon. They organised their own exhibitions and were criticised for their \"unfinished\" look and their choice of everyday subjects—street scenes, cafés, gardens. Critics argued that the works lacked the finish and moral seriousness of academic art. Over time, however, the movement gained acceptance and influenced later developments in modern art.\n\nThe emphasis on light, colour, and the perception of the moment also reflected broader changes in nineteenth-century culture, including the rise of photography and new theories of vision. Impressionism is now seen as a bridge between the realist tradition and the more radical experiments of the twentieth century.",
+          "wordCount": 198,
+          "difficulty": "Harder",
+          "questions": [
+            {"text": "What is the passage mainly about?", "options": ["The history of the Salon in France", "Impressionism as a break from academic tradition and its focus on light and moment", "The biographies of Monet, Renoir, and Degas", "The invention of photography"], "correct": 1, "explanation": "The passage describes Impressionism's break with academic tradition and its focus on light, atmosphere, and the moment."},
+            {"text": "According to the passage, how did Impressionist painters often work?", "options": ["Only in studios", "From memory only", "Outdoors, capturing effects of light and atmosphere", "Only with historical subjects"], "correct": 2, "explanation": "The passage states that Impressionist painters often worked outdoors, capturing the effects of light and atmosphere at a particular moment."},
+            {"text": "According to the passage, why were Impressionist works initially criticised?", "options": ["For being too dark", "For their \"unfinished\" look and everyday subjects", "For being too large", "For using only black and white"], "correct": 1, "explanation": "The passage says they were criticised for their \"unfinished\" look and their choice of everyday subjects."},
+            {"text": "The author describes Impressionism as a 'bridge' in order to", "options": ["compare it to a physical bridge", "suggest it was only a short-lived movement", "explain why it was rejected at first", "emphasise its connection between realist tradition and later modern art"], "correct": 3, "explanation": "The passage states that Impressionism is now seen as a bridge between the realist tradition and the more radical experiments of the twentieth century."}
+          ]
+        }
+      ]
+    },
+    "BUS": {
+      "label": "Business & Economics",
+      "passages": [
+        {
+          "id": "BUS-01",
+          "title": "Supply and Demand",
+          "topic": "Economics",
+          "content": "In a market economy, prices are largely determined by supply and demand. Demand refers to how much of a good or service consumers are willing and able to buy at different prices. Generally, when the price goes down, demand goes up. Supply refers to how much producers are willing and able to sell at different prices. Usually, when the price goes up, supply goes up, because higher prices give producers an incentive to produce more.\n\nThe point where supply and demand meet is called the equilibrium. At the equilibrium price, the quantity that producers want to sell equals the quantity that consumers want to buy. If the price is above equilibrium, there is a surplus: more is supplied than demanded. If the price is below equilibrium, there is a shortage: more is demanded than supplied. In both cases, market forces tend to push the price toward equilibrium.\n\nThis model is a simplification. In reality, other factors—such as government rules, taxes, or the number of competitors—also affect prices. Still, the idea of supply and demand helps explain why prices change when conditions in the market change.",
+          "wordCount": 198,
+          "difficulty": "Easier",
+          "questions": [
+            {"text": "What is the main purpose of the passage?", "options": ["To argue that government should control prices", "To explain how supply and demand affect prices in a market", "To compare different types of markets", "To recommend that producers increase supply"], "correct": 1, "explanation": "The passage explains how supply and demand determine prices and describes equilibrium, surplus, and shortage."},
+            {"text": "According to the passage, what happens at the equilibrium price?", "options": ["The quantity producers want to sell equals the quantity consumers want to buy", "Supply is zero", "Demand is at its highest", "Prices begin to fall"], "correct": 0, "explanation": "The passage states that at the equilibrium price, the quantity that producers want to sell equals the quantity that consumers want to buy."},
+            {"text": "According to the passage, what typically happens when the price is above equilibrium?", "options": ["A shortage occurs", "Demand increases", "A surplus occurs", "Supply decreases"], "correct": 2, "explanation": "The passage says that if the price is above equilibrium, there is a surplus: more is supplied than demanded."},
+            {"text": "The passage notes that the supply-and-demand model is a simplification because", "options": ["prices never change", "consumers never respond to prices", "equilibrium does not exist in reality", "other factors such as government rules and competition also affect prices"], "correct": 3, "explanation": "The passage states that in reality, other factors—such as government rules, taxes, or the number of competitors—also affect prices."}
+          ]
+        },
+        {
+          "id": "BUS-02",
+          "title": "Externalities and Market Failure",
+          "topic": "Economics",
+          "content": "When a market transaction affects people who are not directly involved in the transaction, economists call this an externality. If a factory pollutes a river, the cost of the pollution may be borne by people who live downstream—they are not part of the sale of the factory's product, but they are harmed. This is a negative externality. The market price of the product does not include this social cost, so the factory may produce more than is socially desirable.\n\nPositive externalities also exist. Education, for example, benefits not only the person who receives it but also society through a more skilled workforce and lower crime. If individuals do not take these broader benefits into account, they may invest less in education than would be optimal for society as a whole.\n\nWhen externalities are significant, markets may fail to allocate resources efficiently. Governments often respond with taxes, subsidies, or regulations. A tax on pollution can make the producer bear part of the social cost; a subsidy for education can encourage more investment. Economists debate how much intervention is appropriate, but the concept of externalities helps explain why unregulated markets do not always lead to the best outcome for society.",
+          "wordCount": 218,
+          "difficulty": "Harder",
+          "questions": [
+            {"text": "What is the passage mainly about?", "options": ["How to run a factory without pollution", "Externalities—when market transactions affect third parties—and possible policy responses", "The benefits of education for individuals only", "Why markets always work well"], "correct": 1, "explanation": "The passage defines externalities (positive and negative), explains how they can lead to market failure, and mentions policy responses."},
+            {"text": "According to the passage, why may a polluting factory produce more than is socially desirable?", "options": ["Because demand is very high", "Because the government requires it", "Because downstream residents buy the product", "Because the market price does not include the social cost of pollution"], "correct": 3, "explanation": "The passage states that the market price of the product does not include the social cost, so the factory may produce more than is socially desirable."},
+            {"text": "According to the passage, how can a subsidy for education address a positive externality?", "options": ["By reducing the cost of pollution", "By replacing private schools", "By taxing those who do not study", "By encouraging more investment in education than individuals might choose alone"], "correct": 3, "explanation": "The passage says that if individuals do not take broader benefits into account they may invest less than optimal, and a subsidy for education can encourage more investment."},
+            {"text": "The author mentions that 'economists debate how much intervention is appropriate' in order to", "options": ["reject all government intervention", "argue that taxes are always best", "explain why externalities are rare", "indicate that the extent of policy response is contested"], "correct": 3, "explanation": "The passage acknowledges debate over how much intervention is appropriate while still explaining why externalities justify some policy response."}
+          ]
+        }
+      ]
+    },
+    "TECH": {
+      "label": "Technology & Engineering",
+      "passages": [
+        {
+          "id": "TECH-01",
+          "title": "How Batteries Store Energy",
+          "topic": "Engineering",
+          "content": "A battery stores chemical energy and converts it into electrical energy when it is connected to a device. Inside a typical battery are two electrodes—a positive and a negative—and a substance called an electrolyte between them. When the battery is used, a chemical reaction occurs: electrons flow from the negative electrode through the external circuit to the positive electrode, while ions move through the electrolyte. This flow of electrons is the electric current that powers the device.\n\nWhen a rechargeable battery is charged, the reaction is reversed. Energy from an external source pushes electrons and ions back, restoring the chemical state of the battery so it can be used again. The amount of energy a battery can store depends on the materials used and the design. Over time, repeated charging and discharging can reduce a battery's capacity because the materials degrade.\n\nBatteries are used in everything from phones and laptops to electric vehicles and grid storage. Research continues into materials that can store more energy, last longer, and be made from more abundant or less harmful substances.",
+          "wordCount": 188,
+          "difficulty": "Easier",
+          "questions": [
+            {"text": "What is the main purpose of the passage?", "options": ["To compare different brands of batteries", "To explain how batteries store and convert energy", "To argue that all devices should use batteries", "To describe the history of the battery"], "correct": 1, "explanation": "The passage explains how a battery stores chemical energy, converts it to electrical energy, and how rechargeable batteries work."},
+            {"text": "According to the passage, what flows through the external circuit when a battery is used?", "options": ["Ions", "Electrolyte", "Electrons", "Chemical energy"], "correct": 2, "explanation": "The passage states that electrons flow from the negative electrode through the external circuit to the positive electrode."},
+            {"text": "According to the passage, why can repeated charging and discharging reduce a battery's capacity?", "options": ["Because the electrolyte evaporates", "Because the voltage increases", "Because the device uses more power", "Because the materials degrade"], "correct": 3, "explanation": "The passage says that over time, repeated charging and discharging can reduce capacity because the materials degrade."},
+            {"text": "The passage suggests that current research on batteries aims to", "options": ["phase out all batteries", "use only non-rechargeable batteries", "eliminate the need for electrolytes", "find materials that store more energy, last longer, and may be less harmful"], "correct": 3, "explanation": "The passage states that research continues into materials that can store more energy, last longer, and be made from more abundant or less harmful substances."}
+          ]
+        },
+        {
+          "id": "TECH-02",
+          "title": "Integrating Renewable Energy into the Grid",
+          "topic": "Engineering",
+          "content": "Electricity grids were designed for power that can be adjusted to match demand. Traditional power plants—coal, gas, nuclear—can increase or decrease output as needed. Wind and solar power, by contrast, depend on the weather. The sun does not shine at night; the wind does not always blow. This variability poses a challenge for grid operators who must keep supply and demand in balance at all times.\n\nTo integrate more renewable energy, grids need flexibility. One approach is to use energy storage, such as large batteries or pumped hydro, to store excess renewable power when supply is high and release it when supply is low. Another is to improve connections between regions so that surplus power in one area can be sent to another. Demand response—in which consumers reduce or shift their use when the grid is under stress—also helps.\n\nNo single solution is sufficient. Grids will likely combine storage, transmission, and demand management. The transition to higher shares of renewable energy also requires changes in market rules and planning, so that the system remains reliable and affordable as the mix of generation changes.",
+          "wordCount": 198,
+          "difficulty": "Harder",
+          "questions": [
+            {"text": "What is the passage mainly about?", "options": ["The history of electricity grids", "The challenge of variable wind and solar power and how grids can integrate more renewables", "Why coal and nuclear power are better than renewables", "How to build more wind farms"], "correct": 1, "explanation": "The passage describes the variability of renewables, the challenge for grid operators, and approaches such as storage, transmission, and demand response."},
+            {"text": "According to the passage, why is wind and solar power more challenging for grid operators than traditional power plants?", "options": ["Because their output depends on the weather and cannot be adjusted to match demand", "Because they are more expensive to build", "Because they produce too much power", "Because they are located far from cities"], "correct": 0, "explanation": "The passage states that wind and solar depend on the weather and that this variability poses a challenge for keeping supply and demand in balance."},
+            {"text": "According to the passage, which of the following is mentioned as a way to integrate more renewable energy?", "options": ["Building only solar plants", "Eliminating demand response", "Using only one region for generation", "Using energy storage to store excess power and release it when needed"], "correct": 3, "explanation": "The passage says one approach is to use energy storage to store excess renewable power when supply is high and release it when supply is low."},
+            {"text": "The passage suggests that the transition to more renewable energy requires", "options": ["only better batteries", "no change to existing grids", "reducing demand only", "changes in market rules and planning as well as technical solutions"], "correct": 3, "explanation": "The passage states that the transition requires changes in market rules and planning so that the system remains reliable and affordable."}
+          ]
+        }
+      ]
+    }
+  }
+}

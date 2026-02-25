@@ -1,0 +1,404 @@
+{
+  "id": "ielts-r-0352",
+  "slug": "quiet-roads-ahead",
+  "title": "Quiet roads ahead",
+  "page_range": [
+    1791,
+    1795
+  ],
+  "raw_answer_key": {
+    "1": "G",
+    "8": "9",
+    "2": "D",
+    "9": "concrete",
+    "3": "J",
+    "10": "E",
+    "4": "B",
+    "11": "J",
+    "5": "I",
+    "12": "G",
+    "6": "C",
+    "13": "C",
+    "7": "asphalt",
+    "14": "A"
+  },
+  "content": {
+    "title": "Quiet roads ahead",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The noise produced by busy roads is a growing problem. While vehicle designers have worked hard to quieten engines, they have been less successful elsewhere. The sound created by the tyres on the surface of the road now accounts for more than half the noise that vehicles create, and as road building and car sales continue to boom - particularly in Asia and the US - this is turning into a global issue."
+      },
+      {
+        "label": "B",
+        "content": "According to the World Health Organization, exposure to noise from road traffic over long periods can lead to stress-related health problems. And where traffic noise exceeds a certain threshold, road builders have to spend money erecting sound barriers and installing double glazing in blighted homes. Houses become harder to sell where environmental noise is high, and people are not as efficient or productive at work."
+      },
+      {
+        "label": "C",
+        "content": "Already, researchers in the Netherlands - one of the most densely populated countries in the world - are working to develop techniques for silencing the roads. In the next five years the Dutch government aims to have reduced noise levels from the country's road surfaces by six decibels overall. Dutch mechanical engineer Ard Kuijpers has come up with one of the most promising, and radical, ideas. He set out to tackle the three most important factors: surface texture, hardness and ability to absorb sound."
+      },
+      {
+        "label": "D",
+        "content": "The rougher the surface, the more likely it is that a tyre will vibrate and create noise. Road builders usually eliminate bumps on freshly laid asphalt with heavy rollers, but Kuijpers has developed a method of road building that he thinks can create the ultimate quiet road. His secret is a special mould 3 metres wide and 50 metres long. Hot asphalt, mixed with small stones, is spread into the mould by a railmounted machine which flattens the asphalt mix with a roller. When it sets, the 10-millimetre-thick sheet has a surface smoother than anything that can be achieved by conventional methods."
+      },
+      {
+        "label": "E",
+        "content": "To optimise the performance of his road surface - to make it hard wearing yet soft enough to snuff out vibrations - he then adds another layer below the asphalt. This consists of a 30-millimetre-thick layer of rubber, mixed with stones which are larger than those in the layer above. 'It's like a giant mouse mat, making the road softer,' says Kuijpers."
+      },
+      {
+        "label": "F",
+        "content": "The size of the stones used in the two layers is important, since they create pores of a specific size in the road surface. Those used in the top layer are just 4 or 5 millimetres across, while the ones below are approximately twice that size - about 9 millimetres. Kuijpers says the surface can absorb any air that is passing through a tyre's tread (the indentations or ridges on the surface of a tyre), damping oscillations that would otherwise create noise. And in addition they make it easier for the water to drain away, which can make the road safer in wet weather."
+      },
+      {
+        "label": "G",
+        "content": "Compared with the complex manufacturing process, laying the surface is quite simple. It emerges from the factory rolled, like a carpet, onto a drum 1.5 metres in diameter. On site, it is unrolled and stuck onto its foundation with bitumen. Even the white lines are applied in the factory."
+      },
+      {
+        "label": "H",
+        "content": "The foundation itself uses an even more sophisticated technique to reduce noise further. It consists of a sound-absorbing concrete base containing flask-shaped slots up to 10 millimetres wide and 30 millimetres deep that are open at the top and sealed at the lower end. These cavities act like Helmholtz resonators - when sound waves of specific frequencies enter the top of a flask, they set up resonances inside and the energy of the sound dissipates into the concrete as heat. The cavities play another important role: they help to drain water that seeps through from the upper surface. This flow will help flush out waste material and keep the pores in the outer layers clear."
+      },
+      {
+        "label": "I",
+        "content": "Kuijpers can even control the sounds that his resonators absorb, simply by altering their dimensions. This could prove especially useful since different vehicles produce noise at different frequencies. Car tyres peak at around 1000 hertz, for example, but trucks generate lower-frequency noise at around 600 hertz. By varying the size of the Kuijpers resonators, it is possible to control which frequencies the concrete absorbs. On large highways, trucks tend to use the inside lane, so resonators here could be tuned to absorb sounds at around 600 hertz while those in other lanes could deal with higher frequency noise from cars."
+      },
+      {
+        "label": "J",
+        "content": "Kuijpers believes he can cut noise by five decibels compared to the quietest of today's roads. He has already tested a l00-metre-long section of his road on a motorway near Apeldoorn, and Dutch construction company Heijmans is discussing the location of the next roll-out road with the country's government. The success of Kuijpers' design will depend on how much it eventually costs. But for those affected by traffic noise there is hope of quieter times ahead."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage 3 has ten paragraphs labelled A-J. Which paragraph contains the following information? Write the correct letter A-J in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "a description of the form in which Kuijpers' road surface is taken to its destination",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "an explanation of how Kuijpers makes a smooth road surface",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "something that has to be considered when evaluating Kuijpers' proposal",
+            "answer": "J",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "various economic reasons for reducing road noise",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "a generalisation about the patterns of use of vehicles on major roads",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "a summary of the different things affecting levels of noise on roads",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "DIAGRAM_LABEL_COMPLETION",
+        "instruction": "Label the diagram below. Choose NO MORE THAN ONE WORD AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 7-9 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Cross section of Kuijpers’ proposed noise-reducing road",
+            "answer": "asphalt",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Cross section of Kuijpers’ proposed noise-reducing road",
+            "answer": "9",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Cross section of Kuijpers’ proposed noise-reducing road",
+            "answer": "concrete",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below using the list of words (A-K) from the box below. Write the correct letters in boxes 10-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "upper and lower stones",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "frequencies"
+              },
+              {
+                "label": "B",
+                "text": "the engine"
+              },
+              {
+                "label": "C",
+                "text": "rubbish"
+              },
+              {
+                "label": "D",
+                "text": "resonators"
+              },
+              {
+                "label": "E",
+                "text": "air flow"
+              },
+              {
+                "label": "F",
+                "text": "dissipation"
+              },
+              {
+                "label": "G",
+                "text": "sound energy"
+              },
+              {
+                "label": "H",
+                "text": "pores"
+              },
+              {
+                "label": "I",
+                "text": "lanes"
+              },
+              {
+                "label": "J",
+                "text": "drainage"
+              },
+              {
+                "label": "K",
+                "text": "sources"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "create pores which help",
+            "answer": "J",
+            "options": [
+              {
+                "label": "A",
+                "text": "frequencies"
+              },
+              {
+                "label": "B",
+                "text": "the engine"
+              },
+              {
+                "label": "C",
+                "text": "rubbish"
+              },
+              {
+                "label": "D",
+                "text": "resonators"
+              },
+              {
+                "label": "E",
+                "text": "air flow"
+              },
+              {
+                "label": "F",
+                "text": "dissipation"
+              },
+              {
+                "label": "G",
+                "text": "sound energy"
+              },
+              {
+                "label": "H",
+                "text": "pores"
+              },
+              {
+                "label": "I",
+                "text": "lanes"
+              },
+              {
+                "label": "J",
+                "text": "drainage"
+              },
+              {
+                "label": "K",
+                "text": "sources"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "convert",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "frequencies"
+              },
+              {
+                "label": "B",
+                "text": "the engine"
+              },
+              {
+                "label": "C",
+                "text": "rubbish"
+              },
+              {
+                "label": "D",
+                "text": "resonators"
+              },
+              {
+                "label": "E",
+                "text": "air flow"
+              },
+              {
+                "label": "F",
+                "text": "dissipation"
+              },
+              {
+                "label": "G",
+                "text": "sound energy"
+              },
+              {
+                "label": "H",
+                "text": "pores"
+              },
+              {
+                "label": "I",
+                "text": "lanes"
+              },
+              {
+                "label": "J",
+                "text": "drainage"
+              },
+              {
+                "label": "K",
+                "text": "sources"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "help to remove",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "frequencies"
+              },
+              {
+                "label": "B",
+                "text": "the engine"
+              },
+              {
+                "label": "C",
+                "text": "rubbish"
+              },
+              {
+                "label": "D",
+                "text": "resonators"
+              },
+              {
+                "label": "E",
+                "text": "air flow"
+              },
+              {
+                "label": "F",
+                "text": "dissipation"
+              },
+              {
+                "label": "G",
+                "text": "sound energy"
+              },
+              {
+                "label": "H",
+                "text": "pores"
+              },
+              {
+                "label": "I",
+                "text": "lanes"
+              },
+              {
+                "label": "J",
+                "text": "drainage"
+              },
+              {
+                "label": "K",
+                "text": "sources"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "can be adapted to absorb different",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "frequencies"
+              },
+              {
+                "label": "B",
+                "text": "the engine"
+              },
+              {
+                "label": "C",
+                "text": "rubbish"
+              },
+              {
+                "label": "D",
+                "text": "resonators"
+              },
+              {
+                "label": "E",
+                "text": "air flow"
+              },
+              {
+                "label": "F",
+                "text": "dissipation"
+              },
+              {
+                "label": "G",
+                "text": "sound energy"
+              },
+              {
+                "label": "H",
+                "text": "pores"
+              },
+              {
+                "label": "I",
+                "text": "lanes"
+              },
+              {
+                "label": "J",
+                "text": "drainage"
+              },
+              {
+                "label": "K",
+                "text": "sources"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:06:59.299329"
+}

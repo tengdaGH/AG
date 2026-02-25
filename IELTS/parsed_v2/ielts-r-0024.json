@@ -1,0 +1,405 @@
+{
+  "id": "ielts-r-0024",
+  "slug": "a-neuroscientist-reveals-how-to-think-differently",
+  "title": "A neuroscientist reveals how to think differently",
+  "page_range": [
+    134,
+    139
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "NOT GIVEN",
+    "2": "B",
+    "9": "NO",
+    "3": "D",
+    "10": "NOT GIVEN",
+    "4": "C",
+    "11": "NO",
+    "5": "B",
+    "12": "A",
+    "6": "YES",
+    "13": "B",
+    "7": "YES",
+    "14": "C"
+  },
+  "content": {
+    "title": "A neuroscientist reveals how to think differently",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In the last decade a revolution has occurred in the way that scientists think about the brain. We now know that the decisions humans make can be traced to the firing patterns of neurons in specific parts of the brain. These discoveries have led to the field known as neuroeconomics, which studies the brain's secrets to success in an economic environment that demands innovation and being able to do things differently from competitors. A brain that can do this is an iconoclastic one. Briefly, an iconoclast is a person who does something that others say can't be done."
+      },
+      {
+        "label": "B",
+        "content": "This definition implies that iconoclasts are different from other people, but more precisely, it is their brains that are different in three distinct ways: perception, fear response, and social intelligence. Each of these three functions utilizes a different circuit in the brain. Naysayers might suggest that the brain is irrelevant, that thinking in an original, even revolutionary, way is more a matter of personality than brain function. But the field of neuroeconomics was born out of the realization that the physical workings of the brain place limitations on the way we make decisions. By understanding these constraints, we begin to understand why some people march to a different drumbeat."
+      },
+      {
+        "label": "C",
+        "content": "The first thing to realize is that the brain suffers from limited resources. It has a fixed energy budget, about the same as a 40 watt light bulb, so it has evolved to work as efficiently as possible. This is where most people are impeded from being an iconoclast. For example, when confronted with information streaming from the eyes, the brain will interpret this information in the quickest way possible. Thus it will draw on both past experience and any other source of information, such as what other people say, to make sense of what it is seeing. This happens all the time. The brain takes shortcuts that work so well we are hardly ever aware of them."
+      },
+      {
+        "label": "D",
+        "content": "We think our perceptions of the world are real, but they are only biological and electrical rumblings. Perception is not simply a product of what your eyes or ears transmit to your brain. More than the physical reality of photons or sound waves, perception is a product of the brain."
+      },
+      {
+        "label": "E",
+        "content": "Perception is central to iconoclasm. Iconoclasts see things differently to other people. Their brains do not fall into efficiency pitfalls as much as the average person's brain. Iconoclasts, either because they were born that way or through learning, have found ways to work around the perceptual shortcuts that plague most people. Perception is not something that is hardwired into the brain. It is a learned process, which is both a curse and an opportunity for change. The brain faces the fundamental problem of interpreting physical stimuli from the senses. Everything the brain sees, hears, or touches has multiple interpretations. The one that is ultimately chosen is simply the brain's best theory. In technical terms, these conjectures have their basis in the statistical likelihood of one interpretation over another and are heavily influenced by past experience and, importantly for potential iconoclasts, what other people say."
+      },
+      {
+        "label": "F",
+        "content": "The best way to see things differently to other people is to bombard the brain with things it has never encountered before. Novelty releases the perceptual process from the chains of past experience and forces the brain to make new judgments. Successful iconoclasts have an extraordinary willingness to be exposed to what is fresh and different. Observation of iconoclasts shows that they embrace novelty while most people avoid things that are different."
+      },
+      {
+        "label": "G",
+        "content": "The problem with novelty, however, is that it tends to trigger the brain's fear system. Fear is a major impediment to thinking like an iconoclast and stops the average person in his tracks. There are many types of fear, but the two that inhibit iconoclastic thinking and people generally find difficult to deal with are fear of uncertainty and fear of public ridicule. These may seem like trivial phobias. But fear of public speaking, which everyone must do from time to time, afflicts one-third of the population. This makes it too common to be considered a mental disorder. It is simply a common variant of human nature, one which iconoclasts do not let inhibit their reactions."
+      },
+      {
+        "label": "H",
+        "content": "Finally, to be successful iconoclasts, individuals must sell their ideas to other people. This is where social intelligence comes in. Social intelligence is the ability to understand and manage people in a business setting. In the last decade there has been an explosion of knowledge about the social brain and how the brain works when groups coordinate decision making. Neuroscience has revealed which brain circuits are responsible for functions like understanding what other people think, empathy, fairness, and social identity. These brain regions play key roles in whether people convince others of their ideas."
+      },
+      {
+        "label": "I",
+        "content": "Perception is important in social cognition too. The perception of someone's enthusiasm, or reputation, can make or break a deal. Understanding how perception becomes intertwined with social decision making shows why successful iconoclasts are so rare."
+      },
+      {
+        "label": "J",
+        "content": "Iconoclasts create new opportunities in every area from artistic expression to technology to business. They supply creativity and innovation not easily accomplished by committees. Rules aren't important to them. Iconoclasts face alienation and failure, but can also be a major asset to any organization. It is crucial for success in any field to understand how the iconoclastic mind works."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Neuroeconomics is a field of study which seeks to",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "cause a change in how scientists understand brain chemistry."
+              },
+              {
+                "label": "B",
+                "text": "understand how good decisions are made in the brain."
+              },
+              {
+                "label": "C",
+                "text": "understand how the brain is linked to achievement in competitive fields."
+              },
+              {
+                "label": "D",
+                "text": "trace the specific firing patterns of neurons in different areas of the brain."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "According to the writer, iconoclasts are distinctive because",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "they create unusual brain circuits."
+              },
+              {
+                "label": "B",
+                "text": "their brains function differently."
+              },
+              {
+                "label": "C",
+                "text": "their personalities are distinctive."
+              },
+              {
+                "label": "D",
+                "text": "they make decisions easily."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "According to the writer, the brain works efficiently because",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "it uses the eyes quickly."
+              },
+              {
+                "label": "B",
+                "text": "it interprets data logically."
+              },
+              {
+                "label": "C",
+                "text": "it generates its own energy."
+              },
+              {
+                "label": "D",
+                "text": "it relies on previous events."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "The writer says that perception is",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "a combination of photons and sound waves."
+              },
+              {
+                "label": "B",
+                "text": "a reliable product of what your senses transmit."
+              },
+              {
+                "label": "C",
+                "text": "a result of brain processes."
+              },
+              {
+                "label": "D",
+                "text": "a process we are usually conscious of."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "According to the writer, an iconoclastic thinker",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "centralises perceptual thinking in one part of the brain."
+              },
+              {
+                "label": "B",
+                "text": "avoids cognitive traps."
+              },
+              {
+                "label": "C",
+                "text": "has a brain that is hardwired for learning."
+              },
+              {
+                "label": "D",
+                "text": "has more opportunities than the average person."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Exposure to different events forces the brain to think differently.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Iconoclasts are unusually receptive to new experiences.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Most people are too shy to try different things.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "If you think in an iconoclastic way, you can easily overcome fear.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "When concern about embarrassment matters less, other fears become irrelevant.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Fear of public speaking is a psychological illness.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending, A-E, below.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Thinking like a successful iconoclast is demanding because it",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "requires both perceptual and social intelligence skills."
+              },
+              {
+                "label": "B",
+                "text": "focuses on how groups decide on an action."
+              },
+              {
+                "label": "C",
+                "text": "works in many fields, both artistic and scientific."
+              },
+              {
+                "label": "D",
+                "text": "leaves one open to criticism and rejection."
+              },
+              {
+                "label": "E",
+                "text": "involves understanding how organisations manage people."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The concept of the social brain is useful to iconoclasts because it",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "requires both perceptual and social intelligence skills."
+              },
+              {
+                "label": "B",
+                "text": "focuses on how groups decide on an action."
+              },
+              {
+                "label": "C",
+                "text": "works in many fields, both artistic and scientific."
+              },
+              {
+                "label": "D",
+                "text": "leaves one open to criticism and rejection."
+              },
+              {
+                "label": "E",
+                "text": "involves understanding how organisations manage people."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Iconoclasts are generally an asset because their way of thinking",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "requires both perceptual and social intelligence skills."
+              },
+              {
+                "label": "B",
+                "text": "focuses on how groups decide on an action."
+              },
+              {
+                "label": "C",
+                "text": "works in many fields, both artistic and scientific."
+              },
+              {
+                "label": "D",
+                "text": "leaves one open to criticism and rejection."
+              },
+              {
+                "label": "E",
+                "text": "involves understanding how organisations manage people."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:25:57.784531"
+}

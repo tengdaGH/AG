@@ -1,0 +1,303 @@
+{
+  "id": "ielts-r-0561",
+  "slug": "the-sweet-scent-of-success",
+  "title": "The Sweet Scent of Success",
+  "page_range": [
+    2842,
+    2846
+  ],
+  "raw_answer_key": {
+    "1": "F",
+    "8": "C",
+    "2": "E",
+    "9": "A",
+    "3": "C",
+    "10": "D",
+    "4": "B",
+    "11": "B",
+    "5": "G",
+    "12": "B",
+    "6": "D",
+    "13": "D",
+    "7": "A"
+  },
+  "content": {
+    "properties": {
+      "title": {
+        "description": "The title of the reading passage.",
+        "title": "Title",
+        "type": "string"
+      },
+      "has_paragraph_labels": {
+        "description": "True if the passage has labeled paragraphs (e.g., A, B, C).",
+        "title": "Has Paragraph Labels",
+        "type": "boolean"
+      },
+      "paragraphs": {
+        "description": "List of structured paragraphs.",
+        "items": {
+          "$ref": "#/$defs/Paragraph"
+        },
+        "title": "Paragraphs",
+        "type": "array"
+      }
+    },
+    "required": [
+      "title",
+      "has_paragraph_labels",
+      "paragraphs"
+    ],
+    "title": "The Sweet Scent of Success",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Innovation and entrepreneurship, in the right mix, can bring spectacular results and propel a business ahead of the pack. Across a diverse range of commercial successes, from the Hills Hoist clothes line to the Cochlear ear implant, it is hard to generalize beyond saying the creators tapped into something consumers could not wait to get their hands on. However, most ideas never make it to the market. Some ideas that innovators are spruiking to potential investors include new water-saving shower heads, a keyless locking system, ping-pong balls that keep pollution out of rainwater tanks, making teeth grow from stem cells inserted in the gum, and technology to stop LPG tanks from exploding. Grant Kearney, chief executive of the Innovation Xchange, which connects businesses to innovation networks, says he hears of great business ideas that he knows will never get on the market. “Ideas by themselves are absolutely useless,” he says. “An idea only becomes innovation when it is connected to the right resources and capabilities.”"
+      },
+      {
+        "label": "B",
+        "content": "One of Australia’s latest innovation successes stems from a lemon-scented bathroom cleaner called Shower Power, the formula for which was concocted in a factory in Yatala, Queensland. In 1995, Tom Quinn and John Heron bought a struggling cleaning products business, OzKleen, for $250,000. It was selling 100 different kinds of cleaning products, mainly in bulk. The business was in bad shape, the cleaning formulas were ineffective and environmentally harsh, and there were few regular clients. Now Shower Power is claimed to be the top-selling bathroom cleaning product in the country. In the past 12 months, almost four million bottles of OzKleen’s Power products have been sold and the company forecasts 2004 sales of 10 million bottles. The company’s sales in 2003 reached $11 million, with $700,000 of business being exports. In particular, Shower Power is making big inroads on the British market."
+      },
+      {
+        "label": "C",
+        "content": "OzKleen’s turnaround began when Quinn and Heron hired an industrial chemist to revitalize the product line. Market research showed that people were looking for a better cleaner for the bathroom, universally regarded as the hardest room in the home to clean. The company also wanted to make the product formulas more environmentally friendly. One of Tom Quinn’s sons, Peter, aged 24 at the time, began working with the chemist on the formulas, looking at the potential for citrus-based cleaning products. He detested all the chlorine-based cleaning products that dominated the market. “We didn’t want to use chlorine, simple as that,” he says. “It offers bad working conditions and there’s no money in it.” Peter looked at citrus ingredients, such as orange peel, to replace the petroleum by-products in cleaners. He is credited with finding the Shower Power formula. “The head,” he says. The company is the recipe is in a vault somewhere and in my sole owner of the intellectual property."
+      },
+      {
+        "label": "D",
+        "content": "To begin with, Shower Power was sold only in commercial quantities but Tom Quinn decided to sell it in 750ml bottles after the constant “raves” from customers at their retail store at Beenleigh, near Brisbane. Customers were traveling long distances to buy supplies. Others began writing to OzKleen to say how good Shower Power was. “We did a dummy label and went to see Woolworths,” Tom Quinn says. The Woolworths buyer took a bottle home and was able to remove a stain from her basin that had been impossible to shift. From that point on, she championed the product and OzKleen had its first supermarket order, for a palette of Shower Power worth $3000. “We were over the moon,” says OzKleen’s financial controller, Belinda McDonnell."
+      },
+      {
+        "label": "E",
+        "content": "Shower Power was released in Australian supermarkets in 1997 and became the top-selling product in its category within six months. It was all hands on deck at the factory, labeling and bottling Shower Power to keep up with demand. OzKleen ditched all other products and rebuilt the business around Shower Power. This stage, recalls McDonnell, was very tough. “It was hand-to-mouth, cash flow was very difficult,” she says. OzKleen had to pay new-line fees to supermarket chains, which also squeezed margins."
+      },
+      {
+        "label": "F",
+        "content": "OzKleen’s next big break came when the daughter of a Coles Myer executive used the product while on holidays in Queensland and convinced her father that Shower Power should be in Coles supermarkets. Despite the product success, Peter Quinn says the company was wary of how long the sales would last and hesitated to spend money on upgrading the manufacturing process. As a result, he remembers long periods of working round the clock to keep up with orders. Small tanks were still being used, so batches were small and bottles were labeled and filled manually. The privately owned OzKleen relied on cash flow to expand. “The equipment could not keep up with demand,” Peter Quinn says. Eventually a new bottling machine was bought for $50,000 in the hope of streamlining production, but he says: “We got ripped off.” Since then, he has been developing a new automated bottling machine that can control the amount of foam produced in the liquid, so that bottles can be filled more effectively - “I love coming up with new ideas.” The machine is being patented."
+      },
+      {
+        "label": "G",
+        "content": "Peter Quinn says OzKleen’s approach to research and development is open slather. “If I need it, I get it. It is about doing something simple that no one else is doing. Most of these things are just sitting in front of people ... it’s just seeing the opportunities.” With a tried and tested product, OzKleen is expanding overseas and developing more Power-brand household products. Tom Quinn, who previously ran a real estate agency, says: “We are competing with the same market all over the world, the cleaning products are sold everywhere.” Shower Power, known as Bath Power in Britain, was launched four years ago with the help of an export development grant from the Federal Government. “We wanted to do it straight away because we realised we had the same opportunities worldwide.” OzKleen is already number three in the British market, and the next stop is France. The Power range includes cleaning products for carpets, kitchens and pre-wash stain removal. The Quinn and Heron families are still involved. OzKleen has been approached with offers to buy the company, but Tom Quinn says he is happy with things as they are. “We’re having too much fun.”"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has six paragraphs, A-G. Which paragraph contains the following information? Write the correct letter A-G, in boxes 1-7 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Description of one family member persuading another of selling cleaning products",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "An account of the cooperation of all factory staff to cope with sales increase",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "An account of the creation of the formula of Shower Power",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "An account of buying the original OzKleen company",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Description of Shower Power’s international expansion",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The reason of changing the packaging size of Shower Power",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "An example of some innovative ideas",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following people and list of statements below. Match each person with the correct statement. Write the correct letter A-E in boxes 8-11 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Grant Kearney",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Described his story of selling his product to a chain store"
+              },
+              {
+                "label": "B",
+                "text": "Explained there was a shortage of money when sales suddenly increased"
+              },
+              {
+                "label": "C",
+                "text": "Believe innovations need support to succeed"
+              },
+              {
+                "label": "D",
+                "text": "Believes new products like Shower Power may incur risks"
+              },
+              {
+                "label": "E",
+                "text": "Says business won’t succeed with innovations"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Tom Quinn",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Described his story of selling his product to a chain store"
+              },
+              {
+                "label": "B",
+                "text": "Explained there was a shortage of money when sales suddenly increased"
+              },
+              {
+                "label": "C",
+                "text": "Believe innovations need support to succeed"
+              },
+              {
+                "label": "D",
+                "text": "Believes new products like Shower Power may incur risks"
+              },
+              {
+                "label": "E",
+                "text": "Says business won’t succeed with innovations"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Peter Quinn",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Described his story of selling his product to a chain store"
+              },
+              {
+                "label": "B",
+                "text": "Explained there was a shortage of money when sales suddenly increased"
+              },
+              {
+                "label": "C",
+                "text": "Believe innovations need support to succeed"
+              },
+              {
+                "label": "D",
+                "text": "Believes new products like Shower Power may incur risks"
+              },
+              {
+                "label": "E",
+                "text": "Says business won’t succeed with innovations"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Belinda McDonnell",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Described his story of selling his product to a chain store"
+              },
+              {
+                "label": "B",
+                "text": "Explained there was a shortage of money when sales suddenly increased"
+              },
+              {
+                "label": "C",
+                "text": "Believe innovations need support to succeed"
+              },
+              {
+                "label": "D",
+                "text": "Believes new products like Shower Power may incur risks"
+              },
+              {
+                "label": "E",
+                "text": "Says business won’t succeed with innovations"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D. Write your answers in boxes 12-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Tom Quinn changed the bottle size to 750ml to make Shower Power",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Easier to package."
+              },
+              {
+                "label": "B",
+                "text": "Appealing to individual customers."
+              },
+              {
+                "label": "C",
+                "text": "Popular in foreign markets."
+              },
+              {
+                "label": "D",
+                "text": "Attractive to supermarkets."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Why did Tom Quinn decide not to sell OzKleen?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "No one wanted to buy OzKleen."
+              },
+              {
+                "label": "B",
+                "text": "New products were being developed in OzKleen."
+              },
+              {
+                "label": "C",
+                "text": "He couldn’t make an agreement on the price with the buyer."
+              },
+              {
+                "label": "D",
+                "text": "He wanted to keep things unchanged."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:15:16.679843"
+}

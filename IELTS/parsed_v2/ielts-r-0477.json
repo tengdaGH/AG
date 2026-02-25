@@ -1,0 +1,255 @@
+{
+  "id": "ielts-r-0477",
+  "slug": "the-future-never-dies",
+  "title": "The future never dies?",
+  "page_range": [
+    2422,
+    2426
+  ],
+  "raw_answer_key": {
+    "8": "(molten) rock /",
+    "1": "YES ash",
+    "2": "NO",
+    "9": "food",
+    "3": "YES",
+    "10": "tidal wave",
+    "4": "NOT GIVEN",
+    "11": "ice age",
+    "5": "NO",
+    "12": "rockets",
+    "6": "NOT GIVEN",
+    "13": "D",
+    "7": "temperature"
+  },
+  "content": {
+    "title": "The Future of Humanity and the World",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "By ‘glorious’, I mean that our descendants – all who are born on to this Earth – could live very comfortably and securely, and could continue to do so for as long as the Earth can support life, which should be for a very long time indeed. We should at least be thinking in terms of the next million years. Furthermore, our descendants could continue to enjoy the company of other species – establishing a much better relationship with them than we have now. Other animals need not live in constant fear of us. Many of those fellow species now seem bound to become extinct, but a significant proportion could and should continue to live alongside us. Such a future may seem ideal, and so it is. Yet I do not believe it is fanciful. There is nothing in the physical fabric of the Earth or in our own biology to suggest that this is not possible."
+      },
+      {
+        "label": "B",
+        "content": "‘Dire’ means that we human beings could be in deep trouble within the next few centuries, living but also dying in large numbers in political terror and from starvation, while huge numbers of our fellow creatures would simply disappear, leaving only the ones that we find convenient – chickens, cattle – or that we can’t shake off, like flies and mice. I’m taking it to be self-evident that glory is preferable."
+      },
+      {
+        "label": "C",
+        "content": "Our future is not entirely in our own hands because the Earth has its own rules, is part of the solar system and is neither stable nor innately safe. Other planets in the solar system are quite beyond habitation, because their temperature is far too high or too low to be endured, and ours, too, in principle could tip either way. Even relatively unspectacular changes in the atmosphere could do the trick. The core of the Earth is hot, which in many ways is good for living creatures, but every now and again, the molten rock bursts through volcanoes on the surface. Among the biggest volcanic eruptions in recent memory was Mount St Helens, in the USA, which threw out a cubic kilometre of ash – fortunately, in an area where very few people live. In 1815, Tambora (in present-day Indonesia) expelled so much ash into the upper atmosphere that climatic effects seriously harmed food production around the world for the season after season. Entire civilisations have been destroyed by volcanoes."
+      },
+      {
+        "label": "D",
+        "content": "Yet nothing we have so far experienced shows what volcanoes can really do. Yellowstone National Park in the USA occupies the caldera (the crater formed when a volcano collapses) of an exceedingly ancient volcano of extraordinary magnitude. Modern surveys show that its centre is now rising. Sometime in the next 200 million years, Yellowstone could erupt again, and when it does, the whole world will be transformed. Yellowstone could erupt tomorrow. But there’s a very good chance that it will give us another million years, and that surely is enough to be going on with. It seems sensible to assume that this will be the case."
+      },
+      {
+        "label": "E",
+        "content": "The universe at large is dangerous, too: in particular, we share the sky with vast numbers of asteroids, and now and again, they come into our planet’s atmosphere. An asteroid the size of a small island, hitting the Earth at 15,000 kilometres an hour (a relatively modest speed by the standards of heavenly bodies), would strike the ocean bed like a rock in a puddle, send a tidal wave around the world as high as a small mountain and as fast as a jumbo jet, and propel us into an ice age that could last for centuries. There are plans to head off such disasters (including rockets to push approaching asteroids into new trajectories), but in truth, it’s down to luck."
+      },
+      {
+        "label": "F",
+        "content": "On the other hand, the archaeological and the fossil evidence shows that no truly devastating asteroid has struck since the one that seems to have accounted for the extinction of the dinosaurs 65 million years ago. So again, there seems no immediate reason for despair. The Earth is indeed an uncertain place, in an uncertain universe, but with average luck, it should do us well enough. If the world does become inhospitable in the next few thousand or million years, then it will probably be our own fault. In short, despite the underlying uncertainty, our own future and that of our fellow creatures are very much in our own hands."
+      },
+      {
+        "label": "G",
+        "content": "Given average luck on the geological and the cosmic scale, the difference between glory and disaster will be made and is being made, by politics. Certain kinds of political systems and strategies would predispose us to long-term survival (and indeed to comfort and security and pleasure of being alive), while others would take us more and more frenetically towards collapse. The broad point is, though, that we need to look at ourselves – humanity – and at the world in general in a quite new light. Our material problems are fundamentally those of biology. We need to think, and we need our politicians to think, biologically. Do that, and take the ideas seriously, and we are in with a chance. Ignore biology and we and our fellow creatures haven’t a hope."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements reflect the claims of the writer in Reading Passage? In boxes 1-6 on your answer sheet write YES if the statement is true, NO if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "It seems predictable that some species will disappear.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "A",
+                "text": "YES"
+              },
+              {
+                "label": "B",
+                "text": "NO"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The nature of the Earth and human biology make it impossible for human beings to survive another million years.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "A",
+                "text": "YES"
+              },
+              {
+                "label": "B",
+                "text": "NO"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "An eruption by Yellowstone is likely to be more destructive than previous volcanic eruptions.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "A",
+                "text": "YES"
+              },
+              {
+                "label": "B",
+                "text": "NO"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "There is a greater chance of the Earth being hit by small asteroids than large ones.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "YES"
+              },
+              {
+                "label": "B",
+                "text": "NO"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "If the world becomes uninhabitable, it is most likely to be as a result of a natural disaster.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "A",
+                "text": "YES"
+              },
+              {
+                "label": "B",
+                "text": "NO"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Politicians currently in power seem unlikely to change their way of thinking.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "YES"
+              },
+              {
+                "label": "B",
+                "text": "NO"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 7-12 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "The Earth could become uninhabitable, like other planets, through a major change in the",
+            "answer": "temperature",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Volcanic eruptions of",
+            "answer": "(molten) rock /",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "can lead to shortages of",
+            "answer": "food",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "An asteroid hitting the Earth could create a",
+            "answer": "tidal wave",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "that would result in a new",
+            "answer": "ice age",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Plans are being made to use",
+            "answer": "rockets",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D. Write your answer in box 26 on your answer sheet.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "What is the writer’s purpose in Reading Passage 2?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "to propose a new theory about the causes of natural disasters"
+              },
+              {
+                "label": "B",
+                "text": "to prove that generally held beliefs about the future are all mistaken"
+              },
+              {
+                "label": "C",
+                "text": "to present a range of opinions currently held by scientists"
+              },
+              {
+                "label": "D",
+                "text": "to argue the need for a general change in behavior"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:33:52.558496"
+}

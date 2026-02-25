@@ -1,0 +1,217 @@
+{
+  "id": "ielts-r-0215",
+  "slug": "how-tsunamis-are-made",
+  "title": "How tsunamis are made",
+  "page_range": [
+    1089,
+    1092
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "5": "C",
+    "2": "A",
+    "6": "B",
+    "3": "A",
+    "7": "D",
+    "4": "D"
+  },
+  "content": {
+    "title": "How tsunamis are made",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The word tsunami comes from the Japanese. It means “harbor\" (tsu) and “wave” (nami). The first person to discover a tsunami was a fisherman. He returned to shore on his boat. When he reached the beach, he saw the harbor was gone. This caught him by surprise. The fisherman did not expect this to happen. He did not feel a strong wave out in the ocean. He realized that it was not wind that created waves in the ocean. It was something stronger and deeper."
+      },
+      {
+        "label": null,
+        "content": "Tsunamis form after an earthquake. Earthquakes happen in special zones. These are called Subduction zones. They lie deep on the ocean floor. Famous Subduction zones are in the Indian Ocean and the South East Pacific Ocean. Here the ocean floor is divided into two plates. These two pieces of floor slide one over the other very gently. But sometimes they collide. They crash into each other. The shock causes an earthquake. The earth shakes and lifts the ocean water above. Huge waves are generated. The waves made by the earthquake form a tsunami."
+      },
+      {
+        "label": null,
+        "content": "A tsunami carries a lot of energy. It has created deep in the ocean. Thus its waves have far more power than normal waves. They carry a lot of speed. They travel faster and faster and get bigger and bigger. These waves travel across the ocean with 500 to 1,000 km/h. A set of waves is called a train. There is usually a big distance between these waves. Sometimes it can take an hour for a new tsunami wave to pass. But these waves are extremely long. A tsunami wave can have a length of several hundred kilometers. In the open ocean, a tsunami wave is only a few meters high. People on the open ocean do not feel it."
+      },
+      {
+        "label": null,
+        "content": "But things change when tsunami waves get close to shore. The sea becomes shallower. The water is not so deep anymore. The tsunami waves have no room to carry their energy and cannot travel as quickly. So they begin to pile up. They start to get on top of each other. There is no more distance between the waves. The waves get steeper and taller until they reach huge heights. A typical tsunami wave on shore is 30 m high. All the energy is now inside this huge wave. When it crashes on land, it carries great power and destroys everything in its path."
+      },
+      {
+        "label": null,
+        "content": "The biggest tsunami in the history of the world happened on December 26, 2004. It hit South East Asia. 230,000 people were killed, 168,000 in Indonesia alone. There were millions of dollars worth in damage. Scientists have analyzed this tsunami. They are trying to figure out new methods to track down tsunamis. One way to discover a tsunami is to use a tsunameter. This device is put deep into the ocean near Subduction zones. It senses when an earthquake happens. Then it sends signals to a nearby computer. The computer generates a tsunami model. Scientists read the computer model and can send early warnings to people in danger."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer for each question based on the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What is the main idea of paragraph 1?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "The word tsunami comes from the Japanese."
+              },
+              {
+                "label": "B",
+                "text": "A fisherman discovered a tsunami by accident."
+              },
+              {
+                "label": "C",
+                "text": "A fisherman was caught in a huge tsunami."
+              },
+              {
+                "label": "D",
+                "text": "Tsunamis are not created by wind."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What is a Subduction zone?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "An area under the ocean where earthquakes happen"
+              },
+              {
+                "label": "B",
+                "text": "An area under the ocean where tsunamis happen"
+              },
+              {
+                "label": "C",
+                "text": "An area in the Indian and South Pacific Ocean"
+              },
+              {
+                "label": "D",
+                "text": "The deepest area of a seafloor"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "In what order does a tsunami happen?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Plate collision, earthquake shock, water lifting, huge waves"
+              },
+              {
+                "label": "B",
+                "text": "Earthquake shock, plate collision, water lifting, huge waves"
+              },
+              {
+                "label": "C",
+                "text": "Plate collision, water lifting, earthquake shock, huge waves"
+              },
+              {
+                "label": "D",
+                "text": "Earthquake shock, water lifting, plate collision, huge waves"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Why does the author use the word “train” in paragraph 3?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "To compare the speed of a tsunami wave with that of a train"
+              },
+              {
+                "label": "B",
+                "text": "To emphasize the big distance between two tsunami waves"
+              },
+              {
+                "label": "C",
+                "text": "To contrast the length of a tsunami wave with that of a train"
+              },
+              {
+                "label": "D",
+                "text": "To define a term related to tsunami waves"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Which of the following is NOT true?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Tsunamis have great energy when they reach shore."
+              },
+              {
+                "label": "B",
+                "text": "Tsunamis get closer together when they reach shore."
+              },
+              {
+                "label": "C",
+                "text": "Tsunamis are shallow waves when they reach shore."
+              },
+              {
+                "label": "D",
+                "text": "Tsunamis lose some speed when they reach shore."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "What does the sentence “There were millions of dollars worth in damage\" in paragraph 5 mean?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "The people hit by the tsunami paid $1 million."
+              },
+              {
+                "label": "B",
+                "text": "It costs millions of dollars to rebuild the destroyed countries."
+              },
+              {
+                "label": "C",
+                "text": "People donated millions of dollars to help clean the damage."
+              },
+              {
+                "label": "D",
+                "text": "Banks must pay millions of dollars in insurance for the damage."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Why do scientists use tsunameters?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "To sense when an earthquake happens"
+              },
+              {
+                "label": "B",
+                "text": "To send signals to a nearby computer"
+              },
+              {
+                "label": "C",
+                "text": "To generate a tsunami model"
+              },
+              {
+                "label": "D",
+                "text": "To warn people about possible tsunamis"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T20:25:02.927718"
+}

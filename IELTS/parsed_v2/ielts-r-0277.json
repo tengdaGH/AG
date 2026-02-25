@@ -1,0 +1,94 @@
+{
+  "id": "ielts-r-0277",
+  "slug": "marcel-bich",
+  "title": "MARCEL BICH",
+  "page_range": [
+    1396,
+    1398
+  ],
+  "raw_answer_key": {
+    "1": "afford",
+    "5": "studied",
+    "2": "high cost",
+    "6": "public",
+    "3": "commercially",
+    "7": "products successful",
+    "4": "(original) invention"
+  },
+  "content": {
+    "title": "MARCEL BICH",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Marcel Bich, a French manufacturer of traditional ink pens, was the man who turned the ballpoint pen into an item that today almost anyone can afford. Bich was appalled at the poor quality of the ballpoint pens that were available, and was also shocked at their high cost. However, he recognised that the ballpoint was a firmly established invention, and he decided to design a cheap pen that worked well and would be commercially successful."
+      },
+      {
+        "label": null,
+        "content": "Bich went to the Biro brothers and asked them if he could use the design of their original invention in one of his own pens. In return, he offered to pay them every time he sold a pen. Then, for two years, Bich studied the detailed construction of every ballpoint pen that was being sold, often working with a microscope."
+      },
+      {
+        "label": null,
+        "content": "By 1950, he was ready to introduce his new wonder: a plastic pen with a clear barrel that wrote smoothly, did not leak and only cost a few cents. He called it the 'Bic Cristal'. The ballpoint pen had finally become a practical writing instrument. The public liked it immediately, and today it is as common as the pencil. In Britain, they are still called Biros, and many Bic models also say 'Biro' on the side of the pen, to remind people of their original inventors."
+      },
+      {
+        "label": null,
+        "content": "Bich became extremely wealthy thanks to his invention, which had worldwide appeal. Over the next 60 years his company, Societe Bic, opened factories all over the world and expanded its range of inexpensive products. Today, Bic is as famous for its lighters and razors as it is for its pens, and you can even buy a Bic mobile phone."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions using words from the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What did Marcel Bich make the ballpoint pen affordable for?",
+            "answer": "afford",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "What did Marcel Bich find shocking about the ballpoint pens available at the time?",
+            "answer": "high cost",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "What did Marcel Bich want his pen to be successful as?",
+            "answer": "commercially",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "What did Marcel Bich ask the Biro brothers if he could use in his own pens?",
+            "answer": "(original) invention",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "What did Marcel Bich do with the detailed construction of every ballpoint pen being sold?",
+            "answer": "studied",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Who liked Marcel Bich's new pen immediately?",
+            "answer": "public",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "What did Marcel Bich's company become famous for besides pens?",
+            "answer": "products successful",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T20:40:57.535485"
+}

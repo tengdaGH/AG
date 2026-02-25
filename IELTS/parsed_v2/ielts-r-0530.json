@@ -1,0 +1,276 @@
+{
+  "id": "ielts-r-0530",
+  "slug": "the-politics-of-pessimism",
+  "title": "The politics of pessimism",
+  "page_range": [
+    2679,
+    2684
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "C",
+    "2": "H",
+    "9": "B",
+    "3": "I",
+    "10": "NOT GIVEN",
+    "4": "K",
+    "11": "YES",
+    "5": "J",
+    "12": "YES",
+    "6": "A",
+    "13": "NOT GIVEN",
+    "7": "C"
+  },
+  "content": {
+    "title": "The Politics of Pessimism",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Newspaper headlines and TV or radio news bulletins would have us believe erroneously that a new age has come upon us, the Age of Cassandra. People are being assailed not just with contemporary doom, or past gloom, but with prophecies of disasters about to befall. The dawn of the new millennium has now passed; the earth is still intact, and the fin de siècle Jeremiahs have now gone off to configure a new date for the apocalypse. It can, I believe, be said with some certainty that the doom-mongers will never run out of business. Human nature has an inclination for pessimism and anxiety, with each age having its demagogues, foretelling doom or dragging it in their wake. But what makes the modern age so different is that the catastrophes are more “in your face”. Their assault on our senses is relentless. Whether it be sub-conscious or not, this is a situation not lost on politicians. They play upon people’s propensity for unease, turning it into a very effective political tool."
+      },
+      {
+        "label": null,
+        "content": "Deluding the general public: All too often, when politicians want to change the status quo, they take advantage of people’s fears of the unknown and their uncertainties about the future. For example, details about a new policy may be leaked to the press. Of course, the worst case scenario is presented in all its depressing detail. When the general public reacts in horror, the government appears to cave in. And then, accepting some of the suggestions from their critics, ministers water down their proposals. This allows the government to get what it wants, while at the same time fooling the public into believing that they have got one over on the government, or even that they have some say in the making of policy. There are several principles at play here, and both are rather simple: unsettle people and then play on their fears; and second, people must be given an opportunity to make a contribution, however insignificant, in a given situation; otherwise, they become dissatisfied, not fearful or anxious."
+      },
+      {
+        "label": null,
+        "content": "A similar ruse, at a local level, will further illustrate how easily people’s base fears are exploited. A common practice is to give people a number of options, say in a housing development, ranging from no change to radical transformation of an area. The aim is to persuade people to agree to significant modifications, which may involve disruption to their lives, and possibly extra expenditure. The individuals, fearful of the worst possible outcome, plump for the middle course. And this, incidentally, is invariably the option favoured by the authorities. Everything is achieved under the guise of market research, but it is obviously a blatant exercise in the manipulation of people’s fears."
+      },
+      {
+        "label": null,
+        "content": "Fear and survival: Fear and anxieties about the future affect us still. People are wracked with self-doubt and low self-esteem. In the struggle to exist and advance in life, a seemingly endless string of obstacles is encountered, so many, in fact, that any accomplishment seems surprising. Even when people do succeed, they are still nagged by uncertainty. Not surprisingly, feelings like doubt, fear, anxiety and pessimism are usually associated with failure. Yet, if properly harnessed, they are the driving force behind success, the very engines of genius."
+      },
+      {
+        "label": null,
+        "content": "If things turn out well for a long time, there is a further anxiety: that of constantly waiting for something to go wrong. People then find themselves propitiating the gods: not walking on lines on the pavements, performing rituals before public performances, wearing particular clothes and colours so that they can blame the ritual, not themselves, when things go wrong. But surely the real terror comes when success continues uninterrupted for such a long period of time that we forget what failure is like!"
+      },
+      {
+        "label": null,
+        "content": "We crave for and are fed a daily diet of anxiety. Horror films and disaster movies have an increasing appeal. Nostradamus pops his head up now and again, and other would-be prophets make a brief appearance, predicting the demise of humankind. Perhaps this is all just a vestige of the hardships of early man – our attempt to recreate the struggles of a past age, as life becomes more and more comfortable. Mankind cannot live by contentment alone. And so, a world awash with anxieties and pessimism has been created. Being optimistic is a struggle. But survival dictates that mankind remain ever sanguine."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "instruction": "Choose one phrase (A-K) from the List of phrases to complete each Key point below. Write the appropriate letters (A-K) in Boxes 1-5 on your answer sheet. The information in the completed sentences should be an accurate summary of the points made by the writer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Newspaper headlines and TV or radio news bulletins",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Doom-mongers are popular, because people",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Today, catastrophes",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "To politicians, people’s inclination for fear",
+            "answer": "K",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The government",
+            "answer": "J",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A-D and write them in boxes 6-9 on your answer sheet.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "The housing development example shows that people ...",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "are not that easily deceived"
+              },
+              {
+                "label": "B",
+                "text": "like market research"
+              },
+              {
+                "label": "C",
+                "text": "lead their fears"
+              },
+              {
+                "label": "D",
+                "text": "are easy to delude"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Which one of the following statements is true, according to the passage?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Market research uses people’s fears for their own good"
+              },
+              {
+                "label": "B",
+                "text": "People are scared by market research techniques"
+              },
+              {
+                "label": "C",
+                "text": "Market research techniques are used as a means of taking advantage of people’s fears"
+              },
+              {
+                "label": "D",
+                "text": "Market research makes people happy"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The engines of genius are ...",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "properly harnessed"
+              },
+              {
+                "label": "B",
+                "text": "the driving force behind success"
+              },
+              {
+                "label": "C",
+                "text": "driven by feelings like fear"
+              },
+              {
+                "label": "D",
+                "text": "usually associated with failure"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Continual success ...",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "makes people arrogant"
+              },
+              {
+                "label": "B",
+                "text": "worries people"
+              },
+              {
+                "label": "C",
+                "text": "does not have any negative effects on people"
+              },
+              {
+                "label": "D",
+                "text": "increases people’s self-esteem"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the statements below agree with the information in Reading Passage 1? In Boxes 10-13, write: YES if the statement agrees with the information in the passage, NO if the statement contradicts the information in the passage, NOT GIVEN if there is no information about the statement in the passage.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The complex relationship between failure and success needs to be addressed carefully.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "People perform certain rituals to try to avoid failure.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Anxiety in daily life is what we want.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The writer believes that Nostradamus and certain other prophets are right about their predictions for the end of the human race.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:45:53.512481"
+}

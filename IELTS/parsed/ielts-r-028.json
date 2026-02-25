@@ -1,0 +1,166 @@
+{
+  "id": "ielts-r-028",
+  "source_file": "28. P1 - Triumph of the City 城市的胜利.pdf",
+  "position": "P1",
+  "question_range": [
+    1,
+    13
+  ],
+  "difficulty": "unmarked",
+  "title": "Triumph of the City",
+  "title_cn": "城市的胜利",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": "",
+        "text": "Triumph of the City, by Edward Glaeser, is a thrilling and very readable hymn of praise to an invention so vast and so effective that it is generally taken for granted. More than half the global population already live in urban areas and, every month, five million more flood into the cities of the developed and developing worlds. The crowds and poverty of some of these modern cities may horrify us. They shouldn’t, says Glaeser; they are signs of growth, energy and aspiration. Cities are our best and brightest hope."
+      },
+      {
+        "label": "",
+        "text": "This idea has had more than two hundred years of resistance. Not long after the Industrial Revolution began in Britain, the Romantic poets turned away from the smoke and factories of their cities to celebrate the air and light of untouched nature. In 19th-century America, the writer Henry David Thoreau retreated to the wilderness of Walden Pond to live the solitary, simple life, and convinced generations of Americans that cities were bad and nature was good. They had, Glaeser admits, a point. The early industrial cities were dirty, since they lacked efficient waste-disposal systems, and disease spread rapidly among the population. But more importantly they were profitable, and there were enormous commercial incentives to make them work, as well as political ones. Their transformation could be achieved at a stroke: in the second half of the 19th century, the French Emperor Napoleon III gave Baron Haussmann unrestricted power to turn the slum-infested city of Paris into one of the wonders and delights of the modern world. Or the transformation could be done by trial and error. Glaeser gives a brilliant account of the stop-start progression of New York to its late 20th-century position as the cultural and economic centre of the world. Either way, Paris, New York and other cities developed because they were truly effective markets of ideas and innovation."
+      },
+      {
+        "label": "",
+        "text": "For these and many other reasons, we should not be so upset by the spectacle of urban poverty. The poor flock to cities in the hope of becoming richer (which, by and large, they do). They also reinvigorate the economy of the city. It is folly to drive them away by forcing property prices to soar with unreasonable planning regulations. Instead, cities should build more houses and thereby hold property prices in check."
+      },
+      {
+        "label": "",
+        "text": "It can go wrong, of course. In Glaeser’s view, this is primarily because municipal authorities fail to understand the principal virtues of their cities. The heart of Paris, as many Parisians say, is turning into a museum because of the desire to preserve Baron Haussmann’s 19th-century boulevards. Glaeser defends their preservation, but argues that in the 1950s the French made a mistake in establishing a huge high-rise commercial development — La Défense — on the outskirts of the city. Far better, he says, to have turned the central area of Montparnasse into a new commercial district. This would have revitalised much of the city centre without destroying its fabric."
+      },
+      {
+        "label": "",
+        "text": "In India, Mumbai could save itself from ever-more inefficient sprawl over the surrounding area simply by relaxing the rules presently imposed on the height of new constructions. In America, it is the suburbs that have proved to be the real disaster. Glaeser is repentant on this subject himself. He moved to the suburbs when he had children. His entirely legitimate excuse is that the government made him (and millions like him) do it. By under-taxing petrol and imposing tight planning restrictions on inner cities that drove up the cost of property, it made flight to the suburbs more or less inevitable for the middle classes."
+      },
+      {
+        "label": "",
+        "text": "This is a disaster because nothing is more inefficient than a suburb. Suburbanites mingle less, and lose the face-to-face contact that makes being an urbanite so much more creative. Moreover, houses are costlier to heat and cool than flats, and suburbanites drive thousands more miles per year than city dwellers. Every aspect of life involves more consumption. This leads to the strongest and newest argument in favour of cities — they are good for the environment. To live in the country or the suburbs is to have a vastly larger carbon footprint than any urbanite. Full of characters and accessible information, this is a tremendous book, not least because, like me, you will find yourself constantly seeking reasons to disagree. Like the poor in the city, this is a sign of success. If you hate the city and get moist-eyed at the thought of the country then, one way or another, Glaeser is the man you will have to take on."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "TABLE_COMPLETION",
+      "range": [
+        1,
+        8
+      ],
+      "instructions": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 1–8 on your answer sheet. Cities • Problems with early cities – dirt – 1 _______ but there were commercial and 2 _______ reasons for improving them • Urban poverty is not a major problem because poor people – generally get 3 _______ – help to develop the urban 4 _______ • Cities do have some problems – e.g. – the centre of Paris is becoming a 5 _______ – Mumbai is negatively affected by height restrictions on new buildings. • In the US, the middle classes have moved to the suburbs due to – cheap petrol – high 6 _______ prices in inner cities • Disadvantages of suburbs – less personal 7 _______ – increased 8 _______ of resources such as heating – which damages the environment",
+      "questions": [
+        {
+          "number": 1,
+          "text": "Problems with early cities – dirt – 1 _______",
+          "options": null,
+          "answer": "disease",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 2,
+          "text": "but there were commercial and 2 _______ reasons for improving them",
+          "options": null,
+          "answer": "political",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 3,
+          "text": "Urban poverty is not a major problem because poor people – generally get 3 _______",
+          "options": null,
+          "answer": "richer",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 4,
+          "text": "– help to develop the urban 4 _______",
+          "options": null,
+          "answer": "economy",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 5,
+          "text": "Cities do have some problems – e.g. – the centre of Paris is becoming a 5 _______",
+          "options": null,
+          "answer": "museum",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 6,
+          "text": "In the US, the middle classes have moved to the suburbs due to – cheap petrol – high 6 _______ prices in inner cities",
+          "options": null,
+          "answer": "property",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 7,
+          "text": "Disadvantages of suburbs – less personal 7 _______",
+          "options": null,
+          "answer": "contact",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 8,
+          "text": "– increased 8 _______ of resources such as heating – which damages the environment",
+          "options": null,
+          "answer": "consumption",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "TFNG",
+      "range": [
+        9,
+        13
+      ],
+      "instructions": "Do the following statements agree with the information given in Reading Passage 1? In boxes 9–13 on your answer sheet, write TRUE if the statement agrees with the information FALSE if the statement contradicts the information NOT GIVEN if there is no information on this",
+      "questions": [
+        {
+          "number": 9,
+          "text": "Glaeser believes that congestion and poverty in some modern cities indicate serious problems.",
+          "options": null,
+          "answer": "FALSE",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 10,
+          "text": "The writer Henry David Thoreau discussed the ideas of the Romantic poets in his work.",
+          "options": null,
+          "answer": "NOT GIVEN",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 11,
+          "text": "Emperor Napoleon III was influenced by the complaints of poor people living in Paris.",
+          "options": null,
+          "answer": "NOT GIVEN",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 12,
+          "text": "Strict planning regulations may be beneficial for a city’s development.",
+          "options": null,
+          "answer": "FALSE",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 13,
+          "text": "Glaeser argues that the location of commercial development at La Défense was a bad idea.",
+          "options": null,
+          "answer": "TRUE",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "TABLE_COMPLETION",
+      "TFNG"
+    ],
+    "parsed_at": "2026-02-24T03:41:40.552588",
+    "llm_structured_at": "2026-02-24T03:48:06+0800",
+    "parser_version": "1.0",
+    "needs_review": true
+  }
+}

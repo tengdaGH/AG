@@ -1,0 +1,1574 @@
+{
+  "meta": {},
+  "sets": {
+    "ETS": {
+      "passages": [
+        {
+          "id": "ETS-S1-R-M1-DL-1",
+          "content": "Municipal Charter \nSign up for paperless billing statements today. \nSafe, convenient, easy. Enroll in paperless billing to receive \nmonthly savings account statements in an electronic PDF \ndocument. Access your Municipal Charter account through \nthe mobile app and select account preferences in the upper \nright-hand corner to enroll.",
+          "questions": [
+            {
+              "text": "11. What type of business issued the notice?",
+              "options": [
+                "An Internet provider",
+                "A computer company",
+                "A paper company",
+                "A bank"
+              ]
+            },
+            {
+              "text": "12. How can customers enroll in paperless billing?",
+              "options": [
+                "By visiting a Municipal Charter office",
+                "By accessing the Municipal Charter website",
+                "By using the Municipal Charter app",
+                "By calling a Municipal Charter customer service representative"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "ght",
+              "at",
+              "ple",
+              "ly",
+              "sic",
+              "ever",
+              "s",
+              "om",
+              "ord",
+              "cing",
+              "D",
+              "C",
+              "B",
+              "C",
+              "B",
+              "B",
+              "A",
+              "B",
+              "D",
+              "A"
+            ]
+          }
+        },
+        {
+          "id": "ETS-S1-R-M2-DL-1",
+          "content": "To: \nedward56L@dmail.com \nFrom: \nartforeveryone@dmail.com \nDate: \n10/09/2025 \nSubject: \nArt Workshop Reservation Confirmation \nDear Ms. Edwards, \nThe reservation for the art workshop that you made \non September 10th has been confirmed. The \nworkshop will take place on September 20th at 3:00 \nPM. All necessary arts supplies will be provided, but \nplease bring your own apron or smock. \nBest regards, \nLaura Bennett",
+          "questions": [
+            {
+              "text": "11. When is the date of the art workshop?",
+              "options": [
+                "September 10th",
+                "September 12th",
+                "September 20th",
+                "September 30th"
+              ]
+            },
+            {
+              "text": "12. What should Ms. Edwards bring to the workshop?",
+              "options": [
+                "A payment method",
+                "Extra paint",
+                "A protective garment",
+                "Proof of reservation"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "s",
+              "to",
+              "ions",
+              "th",
+              "les",
+              "ts",
+              "rt",
+              "lved",
+              "itive",
+              "ch",
+              "C",
+              "C",
+              "A",
+              "C",
+              "D",
+              "D",
+              "B",
+              "C",
+              "B",
+              "C",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+              "spoken English. There are three types of tasks.",
+              "Type of Task",
+              "Description",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question or statement.",
+              "Listen to a Conversation",
+              "Listen to announcements",
+              "and academic talks",
+              "talks.",
+              "You WILL NOT be able to return to previous questions."
+            ]
+          }
+        },
+        {
+          "id": "ETS-S1-R-M2-DL-2",
+          "content": "To: \nnguyenbooklover@dmail.com \nFrom: \npart.gymworkers@dmail.com \nSubject: \nYou're Invited - Bring Friends & Family to Our Grand Opening! \nDear Ms. Nguyen, \nWe're excited to invite you-and your friends and family-to the grand \nopening of our new branch at 25 Orchid Street, happening next Monday. \nThis event is a great opportunity to explore our state-of-the-art facility, \nfeaturing top-tier equipment, energizing group classes, and expert \npersonal training. \nThis celebration, exclusively for our valued members and their guests, \nwill include guided tours, live fitness demonstrations, and complimentary \nrefreshments. It's the perfect chance to experience our \ncommunity-focused approach to wellness and introduce others to a \nspace designed for all fitness levels. \nBring your friends and family! We're offering a special one-day-only \ndiscount on memberships for all attendees. \nFor questions or to RSVP, contact our customer service team at \n555-1234. \nWarm regards, \nJohn Parker",
+          "questions": [
+            {
+              "text": "13. What is the main purpose of the email?",
+              "options": [
+                "To attract customers to a new fitness center",
+                "To provide Ms. Nguyen with an opportunity to provide expert personal training",
+                "To celebrate Ms. Nguyen's achievements in wellness",
+                "To announce a discount available to fitness-center members"
+              ]
+            },
+            {
+              "text": "14. What can be inferred about Ms. Nguyen's relationship with the fitness center?",
+              "options": [
+                "She helps the fitness center to organize activities.",
+                "She has already explored the new facility.",
+                "She is a member at one of the fitness center's other locations.",
+                "She is new to using fitness centers and exercise equipment."
+              ]
+            },
+            {
+              "text": "15. The new fitness center is intended for use by which of the following groups of people?",
+              "options": [
+                "Expert personal trainers",
+                "Top-tier athletes",
+                "Existing fitness-center members",
+                "Community members of all fitness levels"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "s",
+              "to",
+              "ions",
+              "th",
+              "les",
+              "ts",
+              "rt",
+              "lved",
+              "itive",
+              "ch",
+              "C",
+              "C",
+              "A",
+              "C",
+              "D",
+              "D",
+              "B",
+              "C",
+              "B",
+              "C",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+              "spoken English. There are three types of tasks.",
+              "Type of Task",
+              "Description",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question or statement.",
+              "Listen to a Conversation",
+              "Listen to announcements",
+              "and academic talks",
+              "talks.",
+              "You WILL NOT be able to return to previous questions."
+            ]
+          }
+        },
+        {
+          "id": "ETS-S2-R-M1-DL-1",
+          "content": "To: \nbrownchocolover@dmail.com \n \nFrom: \nsantos.apartments@dmail.com\nDate: \n05/22/2025 \nSubject: \nMaintenance Request \nDear Mr. Brown, \nYour maintenance request has been received. Our \ntechnician will visit your apartment on June 10th \nbetween 1:00 PM and 3:00 PM. You must be present \nduring that time, as our policy is that only the \nprimary tenant can let the technician in. \nBest regards, \nMaria Santos",
+          "questions": [
+            {
+              "text": "11. What is the earliest time of day that the technician will arrive?",
+              "options": [
+                "10:00 AM",
+                "11:00 AM",
+                "1:00 PM",
+                "3:00 PM"
+              ]
+            },
+            {
+              "text": "12. Why must Mr. Brown be present?",
+              "options": [
+                "To sign off on completed work",
+                "To provide details about the problem",
+                "To let the technician in",
+                "To complete a survey"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "ow",
+              "tions",
+              "ces",
+              "ies",
+              "nd",
+              "ese",
+              "ides",
+              "so",
+              "pes",
+              "mation",
+              "C",
+              "C",
+              "C",
+              "A",
+              "A",
+              "C",
+              "D",
+              "A",
+              "C",
+              "B"
+            ]
+          }
+        },
+        {
+          "id": "ETS-S2-R-M1-DL-2",
+          "content": "To: \nmiyazakisuzuki@dmail.com \n \nFrom: \nrogersemily.branscomb.services@dmail.com\nDate: \n03/23/2025 \nSubject: \nAudit \nDear Mr. Suzuki, \nBranscomb Technology's annual inventory audit will be performed on \nThursday, April 19, beginning promptly at 8:00 a.m. in the warehouse \non Kramer Boulevard. All department heads like yourself are required \nto attend and assist with the audit process. Please ensure that all \ninventory logs from your department are updated and will be readily \naccessible two days prior to the event. Because the audit is expected \nto take the entire day, we will be providing lunch from Beasly Bistro for \nparticipants. Please look over the attached menu and submit your \nselection to Fran Paloma in the HR department. We ask that you avoid \nscheduling any meetings on the morning of April 20 in the event that \nwe need additional time to complete the process. \nRegards, \nEmily Rogers",
+          "questions": [
+            {
+              "text": "13. Why did Ms. Rogers send the email to Mr. Suzuki?",
+              "options": [
+                "To assist him with an audit process",
+                "To remind him to update inventory logs every day",
+                "To inform him of an upcoming event",
+                "To request his input on how to revise a process"
+              ]
+            },
+            {
+              "text": "14. Why should Mr. Suzuki contact Ms. Paloma?",
+              "options": [
+                "To provide her with his meal preference",
+                "To obtain some information from the HR department",
+                "To share a list of employees who have experience with audits",
+                "To send her an updated inventory log"
+              ]
+            },
+            {
+              "text": "15. What is indicated about the morning of April 20?",
+              "options": [
+                "The audit might continue then.",
+                "Mr. Suzuki might have several meetings then.",
+                "A menu might be updated then.",
+                "Employees might have free time then."
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "ow",
+              "tions",
+              "ces",
+              "ies",
+              "nd",
+              "ese",
+              "ides",
+              "so",
+              "pes",
+              "mation",
+              "C",
+              "C",
+              "C",
+              "A",
+              "A",
+              "C",
+              "D",
+              "A",
+              "C",
+              "B"
+            ]
+          }
+        },
+        {
+          "id": "ETS-S2-R-M2-DL-1",
+          "content": "To: \njhsigh36@dmail.com \n \nFrom: \nemmaj.onlinecourses@dmail.com\nDate: \n08/17/2025 \nSubject: \nYou're in! \nDear Mr. Singh, \nYour registration for the on line coding course, which \nbegins on October 5th at 9:00 AM, is complete. Login \ndetails will be sent a day before the course begins. If \nyou would like to cancel your registration, let us know \nby October 3rd. \nBest regards, \nEmma Johnson",
+          "questions": [
+            {
+              "text": "11. What is the main purpose of the e-mail?",
+              "options": [
+                "To cancel registration for a course",
+                "To confirm registration for a course",
+                "To provide information about a course",
+                "To request payment for a course"
+              ]
+            },
+            {
+              "text": "12. When will Mr. Singh receive login details?",
+              "options": [
+                "October 2nd",
+                "October 3rd",
+                "October 4th",
+                "October 5th"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "nicate",
+              "nds",
+              "nd",
+              "mals",
+              "own",
+              "eir",
+              "ily",
+              "ten",
+              "ch",
+              "n",
+              "B",
+              "C",
+              "B",
+              "A",
+              "C",
+              "A",
+              "B",
+              "D",
+              "C",
+              "C",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+              "spoken English. There are three types of tasks.",
+              "Type of Task",
+              "Description",
+              "Listen and Choose a Response",
+              "Select the best response to the question or",
+              "statement.",
+              "Conversations",
+              "Listen to announcements and",
+              "academic talks.",
+              "academic talks.",
+              "You WILL NOT be able to return to previous questions."
+            ]
+          }
+        },
+        {
+          "id": "ETS-S2-R-M2-DL-2",
+          "content": "To: \ngardnerjardinero@dmail.com \n \nFrom: \nthompson.building.co@dmail.com\nSubject: \nUpcoming Heating System Maintenance -  Tuesday, May 27 \nDear Ms. Gardner, \nI hope you're doing well. I'm writing to inform you of a scheduled \nmaintenance procedure on the office heating system, set to take place \non Tuesday, May 27, from 8:00 A.M. to 5:00 P.M. This essential work is \npart of our seasonal inspection and efficiency upgrade initiative to ensure \noptimal performance during the colder months. \nPlease note that the heating system will be offline throughout the day, \nand indoor temperatures will drop noticeably. We recommend dressing in \nwarm layers and advising your team to do the same. If any team mem-\nbers are particularly sensitive to cooler environments, remote work \narrangements may be considered. \nAdditionally, as external technicians will be on-site, please ensure all \nconfidential materials are secured appropriately. \nShould you have any questions, contact the maintenance team at \n555-7264. \nWarm regards, Robert Thompson",
+          "questions": [
+            {
+              "text": "13. What is indicated about the office heating system?",
+              "options": [
+                "It failed an inspection.",
+                "It will not be functioning during maintenance.",
+                "It is not working properly.",
+                "It performs optimally."
+              ]
+            },
+            {
+              "text": "14. What can be inferred about the weather on May 27?",
+              "options": [
+                "It will be cooler than the temperature at which the office is normally kept.",
+                "It will be unusual for the season.",
+                "It will require office workers to stay home rather than go to the office.",
+                "It will change throughout the day."
+              ]
+            },
+            {
+              "text": "15. Who will be performing maintenance?",
+              "options": [
+                "Ms. Gardner",
+                "Ms. Gardner's team members",
+                "Professionals from another company",
+                "Robert Thompson"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "nicate",
+              "nds",
+              "nd",
+              "mals",
+              "own",
+              "eir",
+              "ily",
+              "ten",
+              "ch",
+              "n",
+              "B",
+              "C",
+              "B",
+              "A",
+              "C",
+              "A",
+              "B",
+              "D",
+              "C",
+              "C",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+              "spoken English. There are three types of tasks.",
+              "Type of Task",
+              "Description",
+              "Listen and Choose a Response",
+              "Select the best response to the question or",
+              "statement.",
+              "Conversations",
+              "Listen to announcements and",
+              "academic talks.",
+              "academic talks.",
+              "You WILL NOT be able to return to previous questions."
+            ]
+          }
+        },
+        {
+          "id": "ETS-T1-R-M1-DL-1",
+          "content": "This is to let all employees know that the staff meeting scheduled for Wednesday, August 10th at 2:00 PM \nhas been rescheduled. The meeting will now take place on Friday, August 12th at 3:00 PM in the main \nconference room. Please be on time. Thank you.",
+          "questions": [
+            {
+              "text": "11. What is the main purpose of the notice?",
+              "options": [
+                "To introduce new employees to staff",
+                "To announce a change in a meeting schedule",
+                "To apologize for a scheduling conflict",
+                "To inform employees of a conference opportunity"
+              ]
+            },
+            {
+              "text": "12. When will the staff meeting take place?",
+              "options": [
+                "Wednesday, August 10th at 2:00 PM",
+                "Wednesday, August 10th at 3:00 PM",
+                "Friday, August 12th at 2:00 PM",
+                "Friday, August 12th at 3:00 PM"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "ey",
+              "ticated",
+              "tures",
+              "uages",
+              "nced",
+              "ich",
+              "em",
+              "ive",
+              "blish",
+              "ade",
+              "B",
+              "D",
+              "D",
+              "B",
+              "A",
+              "D",
+              "C",
+              "B",
+              "C",
+              "A"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T1-R-M1-DL-2",
+          "content": "Subject: RE: inquiry \n \nDear Mr. Santiago,  \n \nWe are pleased that you are considering our facility for your mother’s birthday party. \n \nOur outdoor area includes a playground and picnic tables, which can be set up to your preference. We \noffer a variety of dining options that suit different dietary needs. Please find the menu attached to this \nemail. \n \nOur team can organize activities for people of all ages, including arts and crafts, board games, and more. \nWe do not have photographers on staff, but we have worked with external professional photographers in \nthe past and are happy to provide you with recommendations.  \n \nTo secure your date, we require a down payment of 30 percent of the total cost. If you need to cancel \nyour booking, please notify us at least fourteen days in advance. Cancellations made outside this window \nwill forfeit the down payment. \n \nRegards, \nRebecca Yang",
+          "questions": [
+            {
+              "text": "13. What can be inferred about Mr. Santiago?",
+              "options": [
+                "He is about to celebrate his birthday.",
+                "He has used Rebecca Yang's facility in the past.",
+                "He is a professional event organizer.",
+                "He has requested information about Rebecca Yang's facility."
+              ]
+            },
+            {
+              "text": "14. Rebecca Yang's team does NOT include",
+              "options": [
+                "Cooks",
+                "Professional photographers",
+                "People who can facilitate children's games",
+                "People who can set up picnic tables"
+              ]
+            },
+            {
+              "text": "15. What information is being provided along with the email message?",
+              "options": [
+                "Food choices",
+                "Types of arts and crafts activities",
+                "Dates available for booking",
+                "Contact information of photographers"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "ey",
+              "ticated",
+              "tures",
+              "uages",
+              "nced",
+              "ich",
+              "em",
+              "ive",
+              "blish",
+              "ade",
+              "B",
+              "D",
+              "D",
+              "B",
+              "A",
+              "D",
+              "C",
+              "B",
+              "C",
+              "A"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T1-R-M2-DL-1",
+          "content": "Dear Ms. Simmons, \n \nWe are delighted to confirm your reservation for the Italian cooking class on June 25th at 4:00 PM. Please \narrive fifteen minutes early for registration. Bring an apron, a chef’s knife, and a notebook. We’ll provide a \ncutting board.  \n \nBest regards, \nLily Evans",
+          "questions": [
+            {
+              "text": "11. What is the main purpose of the e-mail?",
+              "options": [
+                "To request attendance at a class",
+                "To confirm a reservation for a class",
+                "To update travel plans",
+                "To provide registration instructions"
+              ]
+            },
+            {
+              "text": "12. What is Ms. Simmons NOT required to bring?",
+              "options": [
+                "An apron",
+                "A cutting board",
+                "A chef’s knife",
+                "A notebook"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "en",
+              "ok",
+              "ror",
+              "self",
+              "ibit",
+              "ich",
+              "ot",
+              "o",
+              "ut",
+              "so",
+              "B",
+              "B",
+              "C",
+              "C",
+              "A",
+              "B",
+              "C",
+              "D",
+              "A",
+              "D",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+              "spoken English. There are three types of tasks.",
+              "Type of Task",
+              "Description",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question or statement.",
+              "Conversations",
+              "Listen to announcements",
+              "and academic talks.",
+              "talks.",
+              "You WILL NOT be able to return to previous questions."
+            ]
+          }
+        },
+        {
+          "id": "ETS-T1-R-M2-DL-2",
+          "content": "Subject: Annual conference \n \nDear Ms. Adams,  \n \nWe are pleased to invite you to the annual educational psychology conference taking place on October \n13–15.  \n \nThis year’s conference theme is “Emotions and Psychological Processes.” The keynote speaker will be Dr. \nJane Smith. We will also organize four panel discussions with leading scholars as well as interactive \nworkshops. More details will be forthcoming.  \n \nWe are excited to announce the return of poster sessions this year, where graduate students and early-\ncareer researchers will present their work. If you would like to present your research in the poster session, \nplease submit an extended abstract for review by the conference committee by August 31.  \n \nBreakfast and lunch will be provided for a nominal fee with a variety of options to accommodate different \ndietary needs. Additionally, all attendees will receive a conference packet, including materials from the \nsessions and a certificate of participation. \n \nRegards, \nMichael Brown",
+          "questions": [
+            {
+              "text": "13. What is the main purpose of the email?",
+              "options": [
+                "To reque\nst information about Ms. Adams' research",
+                "To invite Ms. Adams to speak at a conference",
+                "To provide details about an event",
+                "To announce participants of the poster sessions"
+              ]
+            },
+            {
+              "text": "14. Dr. Jane Smith will",
+              "options": [
+                "lead panel discussions",
+                "organize interactive workshops",
+                "talk about research about emotions",
+                "present her research in the poster session"
+              ]
+            },
+            {
+              "text": "15. What can be inferred about the poster session?",
+              "options": [
+                "It has been part of the conference in the past.",
+                "It is for leading scholars of the field.",
+                "It is open to the public.",
+                "It will be held on August 31."
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "en",
+              "ok",
+              "ror",
+              "self",
+              "ibit",
+              "ich",
+              "ot",
+              "o",
+              "ut",
+              "so",
+              "B",
+              "B",
+              "C",
+              "C",
+              "A",
+              "B",
+              "C",
+              "D",
+              "A",
+              "D",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+              "spoken English. There are three types of tasks.",
+              "Type of Task",
+              "Description",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question or statement.",
+              "Conversations",
+              "Listen to announcements",
+              "and academic talks.",
+              "talks.",
+              "You WILL NOT be able to return to previous questions."
+            ]
+          }
+        },
+        {
+          "id": "ETS-T2-R-M1-DL-1",
+          "content": "The Community Center will host a free language exchange event on Saturday at 3:00 PM. Learn a new \nlanguage, meet people from different cultural backgrounds, and swap languages in a fun, flexible, and \nrelaxed way. We will pair you with a fluent speaker of a language of your choice.",
+          "questions": [
+            {
+              "text": "11. What is the notice about?",
+              "options": [
+                "A foreign language book drive",
+                "A community organization meeting",
+                "A language exchange event",
+                "A student exchange program"
+              ]
+            },
+            {
+              "text": "12. What will participants NOT experience?",
+              "options": [
+                "Learn new languages",
+                "Practice relaxation techniques",
+                "Pair up with speakers of different languages",
+                "Meet people from different cultures"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "ment",
+              "und",
+              "nd",
+              "ects",
+              "ires",
+              "oration",
+              "ny",
+              "ple",
+              "ctors",
+              "ve",
+              "C",
+              "B",
+              "B",
+              "D",
+              "C",
+              "B",
+              "B",
+              "B",
+              "B",
+              "C"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T2-R-M1-DL-2",
+          "content": "Subject: Server Maintenance \n \nThe next university server maintenance is scheduled on May 22 from 2 AM to 6 AM. This is part of a \nscheduled maintenance that we conduct with our external provider.  \n \nDuring this window, access to network drives and cloud storage services will be temporarily unavailable. \nPlease save any important documents and plan your work accordingly. You may also experience \ndisruptions accessing your university email accounts. Online library databases will not be affected.  \n \nA reminder: Routine maintenance windows take place on a semi-monthly basis. In the event that \nmaintenance needs arise outside of the scheduled maintenance windows, we will do our best to give the \nuniversity community advanced notice. \n \nIf you experience issues, contact the IT team. We will send out another notification when maintenance is \ncomplete. We appreciate your understanding as we strive to ensure the security and reliability of our IT \ninfrastructure.",
+          "questions": [
+            {
+              "text": "13. The email is most likely sent to",
+              "options": [
+                "IT support team members",
+                "university students, faculty, and staff",
+                "the external provider of the university server",
+                "people who have encountered issues with the university server"
+              ]
+            },
+            {
+              "text": "14. From 2 AM to 6 AM on May 22, what activity can be done without interruption?",
+              "options": [
+                "Logging onto university network drives",
+                "Saving documents onto the university cloud storage service",
+                "Sending and receiving emails using university email accounts",
+                "Searching for an article in the university library"
+              ]
+            },
+            {
+              "text": "15. What can be inferred about the university's server?",
+              "options": [
+                "It is currently offline.",
+                "It is managed only by the university IT team.",
+                "It sometimes requires emergency maintenance.",
+                "It is the subject of many complaints from the university community."
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "ment",
+              "und",
+              "nd",
+              "ects",
+              "ires",
+              "oration",
+              "ny",
+              "ple",
+              "ctors",
+              "ve",
+              "C",
+              "B",
+              "B",
+              "D",
+              "C",
+              "B",
+              "B",
+              "B",
+              "B",
+              "C"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T2-R-M2-DL-1",
+          "content": "Dear Mr. Clark,  \n \nYour table reservation for 2 at La Bella Restaurant is confirmed for November 15th at 5 PM. Please arrive \n10 minutes early for seating. We have noted your preference for seating close to a window and will \naccommodate that as availability permits.  \n \nBest regards,  \nMaria Lopez",
+          "questions": [
+            {
+              "text": "11. How early should Mr. Clark arrive for seating?",
+              "options": [
+                "5 minutes early",
+                "10 minutes early",
+                "15 minutes early",
+                "20 minutes early"
+              ]
+            },
+            {
+              "text": "12. What will the restaurant try to provide?",
+              "options": [
+                "A private dining room",
+                "Seating near a window",
+                "Personalized service",
+                "A customized menu"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "Number",
+              "ow",
+              "f",
+              "n",
+              "mes",
+              "nd",
+              "ve",
+              "aces",
+              "ay",
+              "ans",
+              "ering",
+              "B",
+              "B",
+              "B",
+              "A",
+              "D",
+              "B",
+              "B",
+              "C",
+              "A",
+              "C",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you understand",
+              "spoken English. There are three types of tasks.",
+              "Type of Task",
+              "Description",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question or statement.",
+              "Conversations",
+              "Listen to announcements",
+              "and academic talks.",
+              "talks.",
+              "You WILL NOT be able to return to previous questions."
+            ]
+          }
+        },
+        {
+          "id": "ETS-T3-R-M1-DL-1",
+          "content": "Subject: Maintenance Notice\n \nDear Mr. Brown,\n \nWe are pleased that you are considering our facility for your mother’s birthday party.\n \nOur maintenance team is scheduled to paint your apartment’s living room on March 11 \nstarting at 9:00 a.m. We ask that you leave the apartment and not return until one hour \nafter the painters have finished at 12:00 p.m.\n \nBest regards,\nAnna Davis",
+          "questions": [
+            {
+              "text": "11.  What room in the apartment will be painted?",
+              "options": [
+                "The kitchen",
+                "The dining room",
+                "The living room",
+                "The bedroom"
+              ]
+            },
+            {
+              "text": "12.  When can Mr. Brown return to the apartment?",
+              "options": [
+                "At 9:00 AM",
+                "At 11:00 AM",
+                "At 12:00 PM",
+                "At 1:00 PM"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "ve",
+              "cies",
+              "ting",
+              "ere",
+              "an",
+              "ely",
+              "so",
+              "he",
+              "out",
+              "tance",
+              "C",
+              "D",
+              "A",
+              "C",
+              "D",
+              "A",
+              "C",
+              "C",
+              "A",
+              "B"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T3-R-M1-DL-2",
+          "content": "This area is specifically designated for quiet reading and study to ensure a peaceful \nenvironment for all patrons. Please adhere to the following guidelines:",
+          "questions": [
+            {
+              "text": "1.  Noise Levels: Please keep noise to a minimum. This includes refraining from loud \nconversations and phone calls.",
+              "options": []
+            },
+            {
+              "text": "2.  Electronic Devices: Ensure that all electronic devices, such as phones and laptops, \nare set to silent mode. The volume on headphones must be kept low.",
+              "options": []
+            },
+            {
+              "text": "3.  Conversations: If you need to have a conversation, please conduct it quietly or \nproceed to another area of the library.",
+              "options": []
+            },
+            {
+              "text": "4. Music and Media: Listening to music or watching videos without headphones is not \nallowed. Please keep the volume of headphones at a level that only you can hear.",
+              "options": []
+            },
+            {
+              "text": "5. Respect for Others: Be mindful of those around you who are studying or reading. \nYour cooperation helps maintain a serene environment for everyone.",
+              "options": []
+            },
+            {
+              "text": "13.  What can be concluded about the library?",
+              "options": [
+                "It has areas that are not specifically designated as quiet zones.",
+                "It has received numerous complaints about noise levels.",
+                "It is located on the campus of a university.",
+                "It holds a large collection of film and music recordings."
+              ]
+            },
+            {
+              "text": "14.  The phrase \"adhere to\" in the opening paragraph is closest in meaning to",
+              "options": [
+                "notice",
+                "read",
+                "follow",
+                "admire"
+              ]
+            },
+            {
+              "text": "15.  What is indicated about headphones?",
+              "options": [
+                "They are not permitted in the library's quiet zone.",
+                "They are only allowed for use with smartphones and laptop computers.",
+                "They may not be shared between two users.",
+                "They should be kept at a low volume."
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "ve",
+              "cies",
+              "ting",
+              "ere",
+              "an",
+              "ely",
+              "so",
+              "he",
+              "out",
+              "tance",
+              "C",
+              "D",
+              "A",
+              "C",
+              "D",
+              "A",
+              "C",
+              "C",
+              "A",
+              "B"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T3-R-M2-DL-1",
+          "content": "Subject: Medical appointment\n \nDear Ms. Patel,\n \nYour appointment at Lakeside Medical Center is scheduled for May 10 at 3:00 P.M. \nPlease arrive 15 minutes early for paperwork. You will be seen by Dr. Liu. Click the link \nbelow to confirm. To reschedule or cancel, call us at 756-8793.\n \nRegards,\nBrittany Jones",
+          "questions": [
+            {
+              "text": "11.  What time should Ms. Patel arrive for her appointment?",
+              "options": [
+                "10:00 AM",
+                "2:45 PM",
+                "3:00 PM",
+                "3:15 PM"
+              ]
+            },
+            {
+              "text": "12.  How can Ms. Patel cancel her appointment?",
+              "options": [
+                "By replying to the e-mail",
+                "By clicking a link",
+                "By calling a phone number",
+                "By sending a text message"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "ines",
+              "f",
+              "esses",
+              "iduals",
+              "he",
+              "ying",
+              "s",
+              "st",
+              "ose",
+              "ire",
+              "B",
+              "C",
+              "C",
+              "B",
+              "A",
+              "A",
+              "C",
+              "B",
+              "B",
+              "C",
+              "Listening Section",
+              "In the listening section, you will answer 30–40 questions to demonstrate how well you",
+              "understand spoken English. There are three types of tasks.",
+              "You WILL NOT be able to return to previous questions.",
+              "Type of Task",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question",
+              "or statement.",
+              "academic talks.",
+              "Conversations",
+              "Announcements and",
+              "Academic Talks",
+              "Description"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T3-R-M2-DL-2",
+          "content": "The programs will begin on May 1.\nVolunteers must be available Saturdays or Sundays, 9 A.M. to 4 P.M., \nand complete a four-hour training session before starting.\nTraining sessions are scheduled for the week of April 15.\nPrevious experience with children preferred but not required.\nResponsibilities include leading nature walks, supervising craft activities, \nand helping with educational demonstrations.\nApplication deadline: March 15.\nBackground check required for all accepted volunteers.\nContact Sarah Mitchell at 555-0199 for more information.",
+          "questions": [
+            {
+              "text": "13.  What is this poster mainly advertising?",
+              "options": [
+                "Career opportunities at the Riverdale Parks Department",
+                "Educational programs for children",
+                "Volunteer opportunities for community members",
+                "Training courses for nature guides"
+              ]
+            },
+            {
+              "text": "14.  What must volunteers do before they can start working?",
+              "options": [
+                "Submit references from previous employers",
+                "Complete training and pass a background check",
+                "Demonstrate experience working with children",
+                "Commit to working both Saturday and Sunday"
+              ]
+            },
+            {
+              "text": "15.  When is the latest someone can apply for this program?",
+              "options": [
+                "March 15th",
+                "April 15th",
+                "May 1st",
+                "May 9th"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "ines",
+              "f",
+              "esses",
+              "iduals",
+              "he",
+              "ying",
+              "s",
+              "st",
+              "ose",
+              "ire",
+              "B",
+              "C",
+              "C",
+              "B",
+              "A",
+              "A",
+              "C",
+              "B",
+              "B",
+              "C",
+              "Listening Section",
+              "In the listening section, you will answer 30–40 questions to demonstrate how well you",
+              "understand spoken English. There are three types of tasks.",
+              "You WILL NOT be able to return to previous questions.",
+              "Type of Task",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question",
+              "or statement.",
+              "academic talks.",
+              "Conversations",
+              "Announcements and",
+              "Academic Talks",
+              "Description"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T4-R-M1-DL-1",
+          "content": "Subject: Bella Italia reservation\n \nDear Ms. Green,\n \nThis concerns your table reservation for 4 at Bella Italia Restaurant for December 5 at \n7:00 P.M. Since you made your reservation more than two weeks ago, the $10.00 charge \nat the door for the night’s live musical entertainment is waived.\n \nThank you,\nAnthony Russos",
+          "questions": [
+            {
+              "text": "11.  How many people will dine with Ms. Green?",
+              "options": [
+                "2",
+                "3",
+                "4",
+                "5"
+              ]
+            },
+            {
+              "text": "12.  What will Ms. Green not be charged for?",
+              "options": [
+                "Canceling the reservation",
+                "Rescheduling the reservation",
+                "Listening to live music",
+                "Inviting additional guests"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "s",
+              "ence",
+              "ines",
+              "nd",
+              "tigate",
+              "tion",
+              "nicate",
+              "he",
+              "nisms",
+              "tain",
+              "B",
+              "C",
+              "C",
+              "B",
+              "C",
+              "C",
+              "B",
+              "B",
+              "D",
+              "A"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T4-R-M1-DL-2",
+          "content": "Name:                                                                                                            \nLibrary Card Number:                                                                                   \nComputer Station Preference:\n              \n Basic (Internet only) \n Premium (Full software access)\nRequested Date:                                                                                           \nTime Slot:  \n 9-11 A.M.   \n 11 A.M.-1 P.M.  \n 1-3 P.M.  \n 3-5 P.M.\nMaximum reservation time: 2 hours per day. Premium stations require advance \nbooking and may be reserved up to one week in advance. Basic stations are \navailable on a first-come first-served basis same day only. Late arrival (more than \n15 minutes) results in automatic cancellation. Photo ID required at check-in.",
+          "questions": [
+            {
+              "text": "13.  What is this form used for?",
+              "options": [
+                "Applying for a new library card",
+                "Reporting problems with library computers",
+                "Booking time to use library computers",
+                "Requesting software installation on computers"
+              ]
+            },
+            {
+              "text": "14.  How far in advance can someone reserve a Premium station?",
+              "options": [
+                "The same day only",
+                "Up to one week ahead",
+                "Up to one month ahead",
+                "Up to two weeks in advance"
+              ]
+            },
+            {
+              "text": "15.  What happens if someone arrives 20 minutes late for their reservation?",
+              "options": [
+                "They can still use the computer for the remaining time.",
+                "They must pay an additional fee.",
+                "Their reservation is automatically canceled.",
+                "They are moved to a Basic station instead."
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "s",
+              "ence",
+              "ines",
+              "nd",
+              "tigate",
+              "tion",
+              "nicate",
+              "he",
+              "nisms",
+              "tain",
+              "B",
+              "C",
+              "C",
+              "B",
+              "C",
+              "C",
+              "B",
+              "B",
+              "D",
+              "A"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T4-R-M2-DL-1",
+          "content": "Subject: Photography class\n \nDear Mr. Clark,\n \nUnfortunately, the photography class you registered for on October 20 has been \nrescheduled. It will now meet on October 28 at 6:00 P.M. instead of October 26 at  \n5:00 P.M. Your registration fee will be refunded if you have a scheduling conflict.\n \nRegards,\nEmily Rodriguez",
+          "questions": [
+            {
+              "text": "11.  When did Mr. Clark register for the class?",
+              "options": [
+                "On October 20",
+                "On October 25",
+                "On October 26",
+                "On October 29"
+              ]
+            },
+            {
+              "text": "12.  Why may Mr. Clark receive a refund?",
+              "options": [
+                "If he registered for the wrong class",
+                "If he could not attend the class",
+                "If he was dissatisfied with the class",
+                "If he rescheduled the class"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "passes",
+              "ities",
+              "ory",
+              "nd",
+              "reas",
+              "lves",
+              "ctive",
+              "f",
+              "are",
+              "se",
+              "A",
+              "B",
+              "B",
+              "A",
+              "C",
+              "C",
+              "D",
+              "A",
+              "D",
+              "D",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you",
+              "understand spoken English. There are three types of tasks.",
+              "You WILL NOT be able to return to previous questions.",
+              "Type of Task",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question",
+              "or statement.",
+              "academic talks.",
+              "Conversations",
+              "Announcements and",
+              "Academic Talks",
+              "Description"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T4-R-M2-DL-2",
+          "content": "A one-day intensive workshop for managers and team leaders. Learn practical strategies \nfor conducting productive meetings, providing constructive feedback, and resolving \nworkplace conflicts. Experienced facilitators will guide participants through interactive \nexercises and real-world scenarios. Workshop includes comprehensive workbook and \nlight refreshments.\n \nEarly bird registration (before April 1): $195. Regular price: $245.\nLimited to 25 participants to ensure personalized attention.\nCertificate of completion provided for continuing education requirements.",
+          "questions": [
+            {
+              "text": "13.  What is this advertisement promoting?",
+              "options": [
+                "A job training program for new employees",
+                "A professional workshop on workplace communication",
+                "A management certification course",
+                "A conflict-resolution consulting service"
+              ]
+            },
+            {
+              "text": "14.  What does someone gain by registering early?",
+              "options": [
+                "A reduction in cost",
+                "A special certificate",
+                "Guaranteed seating in the front row",
+                "A one-on-one session with a facilitator"
+              ]
+            },
+            {
+              "text": "15.  Why is participation limited to 25 people?",
+              "options": [
+                "To keep costs affordable for participants",
+                "To meet continuing education requirements",
+                "To provide personalized attention to participants",
+                "To ensure everyone receives a workbook"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "passes",
+              "ities",
+              "ory",
+              "nd",
+              "reas",
+              "lves",
+              "ctive",
+              "f",
+              "are",
+              "se",
+              "A",
+              "B",
+              "B",
+              "A",
+              "C",
+              "C",
+              "D",
+              "A",
+              "D",
+              "D",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you",
+              "understand spoken English. There are three types of tasks.",
+              "You WILL NOT be able to return to previous questions.",
+              "Type of Task",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question",
+              "or statement.",
+              "academic talks.",
+              "Conversations",
+              "Announcements and",
+              "Academic Talks",
+              "Description"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T5-R-M1-DL-1",
+          "content": "Subject: TechHub shipment\n \nDear Ms. Turner,\n \nTechHub has shipped the order you placed on Thursday. It should arrive by Monday. \nPlease make sure the package contains what you ordered. Returns will only be accepted \nwithin 3 business days of your package’s arrival. Thank you for your purchase.\n \nRegards,\nJames Lee",
+          "questions": [
+            {
+              "text": "11.  When is the latest Ms. Turner will receive her order?",
+              "options": [
+                "By Monday",
+                "By Tuesday",
+                "By Wednesday",
+                "By Thursday"
+              ]
+            },
+            {
+              "text": "12.  What is Ms. Turner advised to do?",
+              "options": [
+                "Review the return policy",
+                "Return the completed warranty form",
+                "Send in the final payment",
+                "Check the contents of the package"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "he",
+              "passes",
+              "nge",
+              "stic",
+              "nical",
+              "om",
+              "nd",
+              "o",
+              "logical",
+              "ch",
+              "A",
+              "D",
+              "B",
+              "C",
+              "A",
+              "A",
+              "B",
+              "C",
+              "B",
+              "B"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T5-R-M1-DL-2",
+          "content": "Enjoy author signings, book readings, and literary workshops. This event is perfect for \nbook lovers of all ages, with a special area dedicated to young readers.\n \n \n \nA variety of food and beverages will be available for purchase from local food trucks \nand vendors.\n \nFree parking is available at the Town Square parking lot and nearby streets.",
+          "questions": [
+            {
+              "text": "13.  What is the main purpose of the notice?",
+              "options": [
+                "To advertise a used-book sales event",
+                "To announce an event for people who like reading",
+                "To promote an event celebrating the publication of a new book",
+                "To advertise prices for a series of writing workshops"
+              ]
+            },
+            {
+              "text": "14.  Where will the event take place?",
+              "options": [
+                "At a local bookstore",
+                "At the library",
+                "At the town square",
+                "At the community center"
+              ]
+            },
+            {
+              "text": "15.  What can be concluded about the Summer Book Festival?",
+              "options": [
+                "It is suitable for children.",
+                "It has a registration fee.",
+                "It will last all day.",
+                "It requires tickets."
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "he",
+              "passes",
+              "nge",
+              "stic",
+              "nical",
+              "om",
+              "nd",
+              "o",
+              "logical",
+              "ch",
+              "A",
+              "D",
+              "B",
+              "C",
+              "A",
+              "A",
+              "B",
+              "C",
+              "B",
+              "B"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T5-R-M2-DL-1",
+          "content": "Subject: Workshop registration\n \nDear Ms. Thompson,\n \nThis is to confirm your registration for the online coding workshop on November 3. We \nrecommend that you check your video and audio settings before joining the class. \nLogin details will be sent to this email address on November 2.\n \nRegards,\nAlex Kim",
+          "questions": [
+            {
+              "text": "11.  What is the main purpose of the email?",
+              "options": [
+                "To confirm registration for a workshop",
+                "To cancel registration for a workshop",
+                "To request payment for a workshop",
+                "To provide technical support for a workshop"
+              ]
+            },
+            {
+              "text": "12.  What information should Ms. Thompson look for in her email?",
+              "options": [
+                "A workshop schedule",
+                "A payment receipt",
+                "Login details",
+                "Equipment requirements"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "tigate",
+              "sition",
+              "ation",
+              "cks",
+              "rals",
+              "over",
+              "esses",
+              "ve",
+              "he",
+              "er",
+              "A",
+              "C",
+              "D",
+              "B",
+              "C",
+              "B",
+              "A",
+              "B",
+              "C",
+              "A",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you",
+              "understand spoken English. There are three types of tasks.",
+              "You WILL NOT be able to return to previous questions.",
+              "Type of Task",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question or",
+              "statement.",
+              "academic talks.",
+              "Conversations",
+              "Listen to Announcements",
+              "and Academic Talks",
+              "Description"
+            ]
+          }
+        },
+        {
+          "id": "ETS-T5-R-M2-DL-2",
+          "content": "Downtown Books, a family-owned bookstore operating for 15 years, recently added a \ncafé area and expanded its evening hours to accommodate working customers.\n \nOwner Janet Miller explains, “We noticed many people wanted to browse books after \nwork but couldn’t make it during our traditional hours.”\n \nThe store now stays open until 9 P.M. on weekdays and offers coffee, pastries, and light \nmeals alongside its selection of books, magazines, and gifts. The café area includes \ncomfortable seating and free Wi-Fi for customers who want to read or work.",
+          "questions": [
+            {
+              "text": "13.  What is this article mainly about?",
+              "options": [
+                "The history of a family-owned bookstore",
+                "How a small bookstore is competing with online retailers",
+                "The growing popularity of bookstore cafés",
+                "Changes that a local bookstore has made"
+              ]
+            },
+            {
+              "text": "14.  Why does the bookstore close at 9 p.m. on weekdays?",
+              "options": [
+                "To compete with other bookstores in the area",
+                "To serve customers who work during traditional business hours",
+                "To provide a place for people to use free Wi-Fi",
+                "To increase sales of coffee and pastries"
+              ]
+            },
+            {
+              "text": "15.  What new service is the bookstore offering?",
+              "options": [
+                "Online ordering and home delivery",
+                "Book club meetings and author readings",
+                "A café area with food, drinks, and Wi-Fi",
+                "Gift wrapping and special ordering"
+              ]
+            }
+          ],
+          "keys": {
+            "raw_keys": [
+              "tigate",
+              "sition",
+              "ation",
+              "cks",
+              "rals",
+              "over",
+              "esses",
+              "ve",
+              "he",
+              "er",
+              "A",
+              "C",
+              "D",
+              "B",
+              "C",
+              "B",
+              "A",
+              "B",
+              "C",
+              "A",
+              "Listening Section",
+              "In the listening section, you will answer up to 47 questions to demonstrate how well you",
+              "understand spoken English. There are three types of tasks.",
+              "You WILL NOT be able to return to previous questions.",
+              "Type of Task",
+              "Listen and Choose a",
+              "Response",
+              "Select the best response to the question or",
+              "statement.",
+              "academic talks.",
+              "Conversations",
+              "Listen to Announcements",
+              "and Academic Talks",
+              "Description"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

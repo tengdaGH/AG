@@ -1,0 +1,170 @@
+{
+  "id": "ielts-r-116",
+  "source_file": "116. P1 - The Development of Plastics 塑料的发展史【次】.pdf",
+  "position": "P1",
+  "question_range": [
+    1,
+    13
+  ],
+  "difficulty": "medium",
+  "title": "The Development of Plastics",
+  "title_cn": "塑料的发展史",
+  "time_allocation": "20 minutes",
+  "passage": {
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": "",
+        "text": "When rubber was first commercially produced in Europe during the nineteenth century, it rapidly became a very important commodity, particularly in the fields of transportation and electricity. However, during the twentieth century a number of new synthetic materials, called plastics, superseded natural rubber in all but a few applications."
+      },
+      {
+        "label": "",
+        "text": "Rubber is a polymer—a compound containing large molecules that are formed by the bonding of many smaller, simpler units, repeated over and over again. The same bonding principle—polymerization—underlies the creation of a huge range of plastics by the chemical industry."
+      },
+      {
+        "label": "",
+        "text": "The first plastic was developed as a result of a competition in the USA. In the 1860s, $10,000 was offered to anybody who could replace ivory—supplies of which were declining—with something equally good as a material for making billiard balls. The prize was won by John Wesley Hyatt with a material called celluloid. Celluloid was made by dissolving cellulose, a carbohydrate derived from plants, in a solution of camphor dissolved in ethanol. This new material rapidly found uses in the manufacture of products such as knife handles, detachable collars and cuffs, spectacle frames and photographic film. Without celluloid, the film industry could never have got off the ground at the end of the 19th century. Celluloid can be repeatedly softened and reshaped by heat, and is known as a thermoplastic."
+      },
+      {
+        "label": "",
+        "text": "In 1907, Leo Baekeland, a Belgian chemist working in the USA, invented a different kind of plastic, by causing phenol and formaldehyde to react together. Baekeland called the material Bakelite, and it was the first of the thermosets—plastics that can be cast and moulded while hot, but cannot be softened by heat and reshaped once they have set. Bakelite was a good insulator, and was resistant to water, acids and moderate heat. With these properties it was soon being used in the manufacture of switches, household items such as knife handles, and electrical components for cars."
+      },
+      {
+        "label": "",
+        "text": "Soon chemists began looking for other small molecules that could be strung together to make polymers. In the 1930s British chemists discovered that the gas ethylene would polymerize under heat and pressure to form a thermoplastic they called polythene. Polypropylene followed in the 1950s. Both were used to make bottles, pipes and plastic bags. A small change in the starting material—replacing a hydrogen atom in ethylene with a chlorine atom—produced PVC (polyvinyl chloride), a hard, fireproof plastic suitable for drains and gutters. And by adding certain chemicals, a soft form of PVC could be produced, suitable as a substitute for rubber in items such as waterproof clothing. A closely related plastic was Teflon, or PTFE (polytetrafluoroethylene). This had a very low coefficient of friction, making it ideal for bearings, rollers, and non-stick frying pans. Polystyrene, developed during the 1930s in Germany, was a clear, glass-like material, used in food containers, domestic appliances and toys. Expanded polystyrene—a white, rigid foam—was widely used in packaging and insulation. Polyurethanes, also developed in Germany, found uses as adhesives, coatings, and—in the form of rigid foams—as insulation materials. They are all produced from chemicals derived from crude oil, which contains exactly the same elements—carbon and hydrogen—as many plastics."
+      },
+      {
+        "label": "",
+        "text": "The first of the man-made fibres, nylon, was also created in the 1930s. Its inventor was a chemist called Wallace Carothers, who worked for the Du Pont company in the USA. He found that under the right conditions, two chemicals—hexamethylenediamine and adipic acid—would form a polymer that could be pumped out through holes and then stretched to form long glossy threads that could be woven like silk. Its first use was to make parachutes for the US armed forces in World War II. In the post-war years nylon completely replaced silk in the manufacture of stockings. Subsequently many other synthetic fibres joined nylon, including Orlon, Acrilan and Terylene. Today most garments are made of a blend of natural fibres, such as cotton and wool, and man-made fibres that make fabrics easier to look after."
+      },
+      {
+        "label": "",
+        "text": "The great strength of plastic is its indestructibility. However, this quality is also something of a drawback: beaches all over the world, even on the remotest islands, are littered with plastic bottles that nothing can destroy. Nor is it very easy to recycle plastics, as different types of plastic are often used in the same items and call for different treatments. Plastics can be made biodegradable by incorporating into their structure a material such as starch, which is attacked by bacteria and causes the plastic to fall apart. Other materials can be incorporated that gradually decay in sunlight—although bottles made of such materials have to be stored in the dark, to ensure that they do not disintegrate before they have been used."
+      }
+    ]
+  },
+  "question_groups": [
+    {
+      "type": "TABLE_COMPLETION",
+      "range": [
+        1,
+        7
+      ],
+      "instructions": "Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 1–7 on your answer sheet.",
+      "questions": [
+        {
+          "number": 1,
+          "text": "Name of plastic: Celluloid | Date of invention: 1860s | Original region: US | Property: _________ | Common use: photographic film, knife handles, etc.",
+          "options": null,
+          "answer": "thermoplastic",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 2,
+          "text": "Name of plastic: _________ | Date of invention: 1907 | Original region: US | Property: Can be cast and moulded but cannot be softened by heat | Common use: switches, household items and car parts",
+          "options": null,
+          "answer": "Bakelite",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 3,
+          "text": "Name of plastic: Bakelite | Date of invention: 1907 | Original region: US | Property: Can be cast and moulded but cannot be softened by heat | Common use: _________, household items and car parts",
+          "options": null,
+          "answer": "switches",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 4,
+          "text": "Name of plastic: Polythene | Date of invention: 1930s | Original region: _________ | Property: thermoplastic | Common use: Bottles, pipes, plastic bags",
+          "options": null,
+          "answer": "Britain",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 5,
+          "text": "Name of plastic: Rigid PVC | Date of invention: N/A | Original region: N/A | Property: hard, fireproof plastic | Common use: _________",
+          "options": null,
+          "answer": "drains and gutters",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 6,
+          "text": "Name of plastic: Polystyrene | Date of invention: 1930s | Original region: Germany | Property: _________ | Common use: Food container",
+          "options": null,
+          "answer": "glass-like",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 7,
+          "text": "Name of plastic: Polyurethanes | Date of invention: N/A | Original region: Germany | Property: _________ foams | Common use: Adhesives, coatings and insulation",
+          "options": null,
+          "answer": "rigid",
+          "answer_source": "llm_generated"
+        }
+      ]
+    },
+    {
+      "type": "TFNG",
+      "range": [
+        8,
+        13
+      ],
+      "instructions": "Do the following statements agree with the information in Reading Passage 1? In boxes 8–13 on your answer sheet, write:\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information about this",
+      "questions": [
+        {
+          "number": 8,
+          "text": "The chemical structure of plastic is very different from that of rubber.",
+          "options": null,
+          "answer": "FALSE",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 9,
+          "text": "John Wesley was a famous chemist.",
+          "options": null,
+          "answer": "NOT GIVEN",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 10,
+          "text": "Celluloid and Bakelite react to heat in the same way.",
+          "options": null,
+          "answer": "FALSE",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 11,
+          "text": "The mix of different varieties of plastic can make recycling more difficult.",
+          "options": null,
+          "answer": "TRUE",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 12,
+          "text": "Adding starch to plastic can make plastic more durable.",
+          "options": null,
+          "answer": "FALSE",
+          "answer_source": "llm_generated"
+        },
+        {
+          "number": 13,
+          "text": "Some plastic containers have to be preserved in special conditions.",
+          "options": null,
+          "answer": "TRUE",
+          "answer_source": "llm_generated"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "parsed_total_questions": 13,
+    "question_types": [
+      "TABLE_COMPLETION",
+      "TFNG"
+    ],
+    "parsed_at": "2026-02-24T03:41:39.232332",
+    "parser_version": "1.0",
+    "needs_review": true,
+    "llm_structured_at": "2026-02-24T12:05:00+0800"
+  }
+}

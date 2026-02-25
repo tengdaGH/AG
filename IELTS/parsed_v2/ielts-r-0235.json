@@ -1,0 +1,274 @@
+{
+  "id": "ielts-r-0235",
+  "slug": "its-eco-logical",
+  "title": "IT’S ECO-LOGICAL",
+  "page_range": [
+    1190,
+    1194
+  ],
+  "raw_answer_key": {
+    "8": "B OR D OR E IN",
+    "1": "YES EITHER ORDER",
+    "9": "B OR D OR E IN",
+    "2": "YES EITHER ORDER",
+    "10": "A OR D IN",
+    "3": "NOT GIVEN EITHER ORDER",
+    "11": "A OR D IN",
+    "4": "NO EITHER ORDER",
+    "12": "World Tourism",
+    "5": "NO Organisation",
+    "13": "city",
+    "6": "NOT GIVEN entrepreneurs",
+    "7": "B OR D OR E IN",
+    "14": "1992 Earth EITHER ORDER Summit"
+  },
+  "content": {
+    "title": "IT'S ECO-LOGICAL",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "1",
+        "content": "Planning an eco-friendly holiday can be a minefield for the well-meaning traveller, says Steve Watkins. But help is now at hand. If there were awards for tourism phrases that have been hijacked, diluted and misused then ‘ecotourism’ would earn top prize. The term first surfaced in the early 1980s reflecting a surge in environmental awareness and a realisation by tour operators that many travellers wanted to believe their presence abroad would not have a negative impact. It rapidly became the hottest marketing tag a holiday could carry. These days the ecotourism label is used to cover anything from a two-week tour living with remote Indonesian tribes, to a one-hour motorboat trip through an Australian gorge. In fact, any tour that involves cultural interaction, natural beauty spots, wildlife or a dash of soft adventure is likely to be included in the overflowing ecotourism folder. There is no doubt the original motives behind the movement were honourable attempts to provide a way for those who cared to make informed choices, but the lack of regulations and a standard industry definition left many travellers lost in an ecotourism jungle."
+      },
+      {
+        "label": "2",
+        "content": "It is easier to understand why the ecotourism market has become so overcrowded when we look at its wider role in the world economy. According to World Tourism Organisation figures, ecotourism is worth US$20 billion a year and makes up one-fifth of all international tourism. Add to this an annual growth rate of around five per cent and the pressure for many operators, both in developed and developing countries, to jump on the accelerating bandwagon is compelling. Without any widely recognised accreditation system, the consumer has been left to investigate the credentials of an operator themselves. This is a time-consuming process and many travellers usually take an operator’s claims at face value, only adding to the proliferation of fake ecotours. However, there are several simple questions that will provide qualifying evidence of a company’s commitment to minimise its impact on the environment and maximise the benefits to the tourism area’s local community. For example, does the company use recycled or sustainable, locally harvested materials to build its tourist properties? Do they pay fair wages to all employees? Do they offer training to employees? It is common for city entrepreneurs to own tour companies in country areas, which can mean the money you pay ends up in the city rather than in the community being visited. By taking a little extra time to investigate the ecotourism options, it is not only possible to guide your custom to worthy operators but you will often find that the experience they offer is far more rewarding."
+      },
+      {
+        "label": null,
+        "content": "The ecotourism business is still very much in need of a shake-up and a standardised approach. There are a few organisations that have sprung up in the last ten years or so that endeavour to educate travellers and operators about the benefits of responsible ecotourism. Founded in 1990, the Ecotourism Society (TES) is a non-profit organisation of travel industry, conservation and ecological professionals, which aims to make ecotourism a genuine tool for conservation and sustainable development. Helping to create inherent economic value in wilderness environments and threatened cultures has undoubtedly been one of the ecotourism movement’s most notable achievements. TES organises an annual initiative to further aid development of the ecotourism industry. This year it is launching ‘Your Travel Choice Makes a Difference’, an educational campaign aimed at helping consumers understand the potential positive and negative impacts of their travel decisions."
+      },
+      {
+        "label": null,
+        "content": "TES also offers guidance on the choice of ecotour and has established a register of approved ecotourism operators around the world. A leading ecotourism operator in the United Kingdom is Tribes, which won the 1999 Tourism Concern and Independent Traveller’s World ‘Award for Most Responsible Tour Operator’. Amanda Marks, owner and director of Tribes, believes that the ecotourism industry still has some way to go to get its house in order. Until now, no ecotourism accreditation scheme has really worked, principally because there has been no systematic way of checking that accredited companies actually comply with the code of practice. Amanda believes that the most promising system is the recently re-launched Green Globe 21 scheme. The Green Globe 21 award is based on the sustainable development standards contained in Agenda 21 from the 1992 Earth Summit and was originally coordinated by the World Travel & Tourism Council (WTTC). The scheme is now an independent concern, though the WTTC still supports it. Until recently, tour companies became affiliates and could use the Green Globe logo merely on payment of an annual fee, hardly a suitable qualifying standard. However, in November 1999 Green Globe 21 introduced an annual, independent check on operators wishing to use the logo."
+      },
+      {
+        "label": null,
+        "content": "Miriam Cain, from the Green Globe 21 marketing development, explains that current and new affiliates will now have one year to ensure that their operations comply with Agenda 21 standards. If they fail the first inspection, they can only reapply once. The inspection process is not a cheap option, especially for large companies, but the benefits of having Green Globe status and the potential operational cost savings that complying with the standards can bring should be significant. ‘We have joint ventures with organisations around the world, including Australia and the Caribbean, that will allow us to effectively check all affiliate operators,’ says Miriam. The scheme also allows destination communities to become Green Globe 21 approved. For a relatively new industry it is not surprising that ecotourism has undergone teething pains. However, there are signs that things are changing for the better. With a committed and unified approach by the travel industry, local communities, travellers and environmental experts could make ecotourism a tag to be proud of and trusted."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage 2?",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The term ‘ecotourism’ has become an advertising gimmick.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The intentions of those who coined the term ‘ecotourism’ were sincere.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Ecotourism is growing at a faster rate than any other type of travel.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "It is surprising that so many tour organisations decided to become involved in ecotourism.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Tourists have learnt to make investigations about tour operators before using them.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Tourists have had bad experiences on ecotour holidays.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "According to the information given in the reading passage, which THREE of the following are true of the Ecotourism Society (TES)?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Which of the following are true of the Ecotourism Society (TES)?",
+            "answer": "B OR D OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "It has monitored the growth in ecotourism."
+              },
+              {
+                "label": "B",
+                "text": "It involves a range of specialists in the field."
+              },
+              {
+                "label": "C",
+                "text": "It has received public recognition for the role it performs."
+              },
+              {
+                "label": "D",
+                "text": "It sets up regular ecotour promotions."
+              },
+              {
+                "label": "E",
+                "text": "It offers information on ecotours at an international level."
+              },
+              {
+                "label": "F",
+                "text": "It consults with people working in tourist destinations."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Which of the following are true of the Ecotourism Society (TES)?",
+            "answer": "B OR D OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "It has monitored the growth in ecotourism."
+              },
+              {
+                "label": "B",
+                "text": "It involves a range of specialists in the field."
+              },
+              {
+                "label": "C",
+                "text": "It has received public recognition for the role it performs."
+              },
+              {
+                "label": "D",
+                "text": "It sets up regular ecotour promotions."
+              },
+              {
+                "label": "E",
+                "text": "It offers information on ecotours at an international level."
+              },
+              {
+                "label": "F",
+                "text": "It consults with people working in tourist destinations."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Which of the following are true of the Ecotourism Society (TES)?",
+            "answer": "B OR D OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "It has monitored the growth in ecotourism."
+              },
+              {
+                "label": "B",
+                "text": "It involves a range of specialists in the field."
+              },
+              {
+                "label": "C",
+                "text": "It has received public recognition for the role it performs."
+              },
+              {
+                "label": "D",
+                "text": "It sets up regular ecotour promotions."
+              },
+              {
+                "label": "E",
+                "text": "It offers information on ecotours at an international level."
+              },
+              {
+                "label": "F",
+                "text": "It consults with people working in tourist destinations."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "According to the information given in the reading passage, which TWO of the following are true of the Green Globe 21 award?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Which of the following are true of the Green Globe 21 award?",
+            "answer": "A OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "The scheme is self-regulating."
+              },
+              {
+                "label": "B",
+                "text": "Amanda Marks was recruited to develop the award."
+              },
+              {
+                "label": "C",
+                "text": "Prior to 1999 companies were not required to pay for membership."
+              },
+              {
+                "label": "D",
+                "text": "Both tour operators and tour sites can apply for affiliation."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Which of the following are true of the Green Globe 21 award?",
+            "answer": "A OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "The scheme is self-regulating."
+              },
+              {
+                "label": "B",
+                "text": "Amanda Marks was recruited to develop the award."
+              },
+              {
+                "label": "C",
+                "text": "Prior to 1999 companies were not required to pay for membership."
+              },
+              {
+                "label": "D",
+                "text": "Both tour operators and tour sites can apply for affiliation."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Using NO MORE THAN THREE WORDS, answer the following questions.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Which body provides information on global tourist numbers?",
+            "answer": "World Tourism Organisation",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Who often gains financially from tourism in rural environments?",
+            "answer": "city entrepreneurs",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Which meeting provided the principles behind the Green Globe 21 regulations?",
+            "answer": "1992 Earth Summit",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:31:13.069696"
+}

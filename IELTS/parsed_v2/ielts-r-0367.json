@@ -1,0 +1,236 @@
+{
+  "id": "ielts-r-0367",
+  "slug": "remains-of-the-pterosaur-a-cousin-of-the-dinosaur-are-found-on-every-continent-richard-monastersky-reports",
+  "title": "Remains of the pterosaur, a cousin of the dinosaur, are found on every continent. Richard Monastersky reports",
+  "page_range": [
+    1868,
+    1872
+  ],
+  "raw_answer_key": {
+    "1": "J",
+    "8": "C",
+    "2": "D",
+    "9": "A",
+    "3": "F",
+    "10": "B",
+    "4": "K",
+    "11": "D",
+    "5": "A",
+    "12": "over a thousand",
+    "6": "E",
+    "13": "11 metres",
+    "7": "G"
+  },
+  "content": {
+    "title": "PTEROSAURS",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Remains of the pterosaur, a cousin of the dinosaur, are found on every continent. Richard Monastersky reports that pterosaurs stand out as one of nature's great success stories. They first appeared during the Triassic period, 215 million years ago, and thrived for 150 million years before becoming extinct at the end of the Cretaceous period. Uncontested in the air, pterosaurs evolved into a variety of shapes and sizes."
+      },
+      {
+        "content": "Until recently, most scientists would not have put pterosaurs in the same class as birds in terms of flying ability. Because pterosaurs were reptiles, generations of researchers imagined that these creatures must have been cold-blooded, like modern snakes and lizards. This would have made flying awkward, as they would have lacked the endurance to power their muscles for long periods of time. However, recent fossil discoveries have prompted researchers to re-examine their views. The new picture of pterosaurs reveals that they were unlike any modern reptile."
+      },
+      {
+        "content": "From a fossil discovered in Kazakhstan, scientists suspect that pterosaurs had a covering resembling fur. If so, this detail provides evidence of a warm-blooded body that could maintain the kind of effort needed to stay in the air. Indeed, scientists now believe that many pterosaurs were gifted airborne predators, built to feed while in flight. And, in fact, such controversy has surrounded pterosaurs since the first discovery of one in the early 1700s."
+      },
+      {
+        "content": "Cosimo Alessandro Collini, the first natural historian to study the fossil and describe it, was unable to classify it. It was not until 1791 that the great French anatomist Georges Cuvier deduced that the animal was in fact a flying reptile, whose fourth finger supported a wing. He named the fossil Pterodactylus, combining the Greek words for wing and finger. A few decades later, the name pterosaur, or winged reptile, was adopted to describe the growing list of similar fossils."
+      },
+      {
+        "content": "In 1873, a remarkable pterosaur specimen came to light that confirmed Cuvier's deduction. Unlike earlier fossils, this new find near the Bavarian town of Solnhofen contained delicate wing impressions, establishing definitely that the extinct reptile was capable of flight. Even though over a thousand pterosaur specimens are known today, such wing impressions remain rare. Normally only bones survive the fossilisation process."
+      },
+      {
+        "content": "In the past three decades, however, a number of fossil discoveries have transformed our understanding of pterosaur evolution. 'Unlike earlier forms of pterosaurs, it could use natural currents, making use of a free energy source,' said Paul MacCready, an aeronautical engineer. 'As pterosaurs got larger, they discovered the benefits of gliding, soaring on air currents without having to flap their wings continuously.'"
+      },
+      {
+        "content": "Quetzalcoatlus represents the triumph of pterosaur evolution. It has a beak the size of a man and wings wider than the planes exhibited near it at the Museum of Flying in San Diego, California. With wings over 11 meters wide, it is the largest flying creature ever known. MacCready, who studied the life-size model of Quetzalcoatlus in San Diego, pointed out its similarity to sailplanes, the most efficient of aeroplanes. Both have long wings designed to fly with minimum power."
+      },
+      {
+        "content": "During flight, sailplanes routinely search for places where air rises from sun-baked earth, forming air currents called thermals. Undoubtedly, Quetzalcoatlus used thermals as well, lazily circling over the river deltas that once covered parts of Texas."
+      },
+      {
+        "content": "But how pterosaurs learnt to fly remains a matter for disagreement. Most researchers conclude that pterosaurs are descended from a small tree-dwelling reptile that spent its life jumping between branches. This creature would have spread its limbs, and used flaps of skin attached to its limbs and body to help it to land gently on the ground. Over many generations the fourth finger on each of its front 'arms' would have grown longer, making the skin surface larger and enabling the animal to glide farther."
+      },
+      {
+        "content": "Meanwhile, the competing argument holds that pterosaurs developed from two-legged reptiles that ran along the ground, perhaps spreading their arms for balance. Through gradual growth, the front arms would then have evolved into wings. This difficult issue will only be resolved with the discovery of earlier forms of pterosaurs."
+      },
+      {
+        "content": "The triumphant reign of pterosaurs ended with this giant flier. The earliest fossils we have are of pterosaurs whose fourth finger has already transformed into a wing, says Fabio dalla Vecchia, an Italian researcher who has spent years searching for flying reptiles. These species have shorter wings than later forms, but there is evidence that they were skilful fliers, capable of catching fish over open water."
+      },
+      {
+        "content": "Proof of this has been found in the fossil of a Eudimorphodon, a 215-million-year-old pterosaur found near Bergamo, Italy. Under a microscope, several fish scales can be seen in the abdomen of the specimen - the remains of the pterosaur's last meal."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information? Write the correct letter, A-K, in boxes 28-34 on your answer sheet.",
+        "questions": [
+          {
+            "number": 28,
+            "text": "similarities between pterosaurs and mechanical flight",
+            "answer": "J",
+            "options": null
+          },
+          {
+            "number": 29,
+            "text": "the identification of the type of creature a pterosaur actually was",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 30,
+            "text": "conflicting theories about how pterosaurs came to fly",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 31,
+            "text": "the cause of widespread destruction of animal life on our planet",
+            "answer": "K",
+            "options": null
+          },
+          {
+            "number": 32,
+            "text": "the fact that pterosaurs once existed all over the world",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 33,
+            "text": "the first clear proof that pterosaurs could fly",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 34,
+            "text": "concrete evidence that pterosaurs hunted their food from the air",
+            "answer": "G",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following statements (Questions 35-38) and the list of people below. Match each statement with the correct person, A, B, C or D. Write the correct letter, A, B, C or D, in boxes 35-38 on your answer sheet.",
+        "questions": [
+          {
+            "number": 35,
+            "text": "He refers to the difficulty of determining how pterosaurs evolved without further evidence.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Cosimo Alessandro Collini"
+              },
+              {
+                "label": "B",
+                "text": "Georges Cuvier"
+              },
+              {
+                "label": "C",
+                "text": "Fabio dalla Vecchia"
+              },
+              {
+                "label": "D",
+                "text": "Paul MacCready"
+              }
+            ]
+          },
+          {
+            "number": 36,
+            "text": "He failed to interpret the evidence before him.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Cosimo Alessandro Collini"
+              },
+              {
+                "label": "B",
+                "text": "Georges Cuvier"
+              },
+              {
+                "label": "C",
+                "text": "Fabio dalla Vecchia"
+              },
+              {
+                "label": "D",
+                "text": "Paul MacCready"
+              }
+            ]
+          },
+          {
+            "number": 37,
+            "text": "He gave an appropriate name to the first pterosaur that was discovered.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Cosimo Alessandro Collini"
+              },
+              {
+                "label": "B",
+                "text": "Georges Cuvier"
+              },
+              {
+                "label": "C",
+                "text": "Fabio dalla Vecchia"
+              },
+              {
+                "label": "D",
+                "text": "Paul MacCready"
+              }
+            ]
+          },
+          {
+            "number": 38,
+            "text": "He mentions the ability of pterosaurs to take advantage of their environment.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Cosimo Alessandro Collini"
+              },
+              {
+                "label": "B",
+                "text": "Georges Cuvier"
+              },
+              {
+                "label": "C",
+                "text": "Fabio dalla Vecchia"
+              },
+              {
+                "label": "D",
+                "text": "Paul MacCready"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the Reading Passage 3 for each answer. Write your answers in boxes 39 and 40 on your answer sheet.",
+        "questions": [
+          {
+            "number": 39,
+            "text": "So far, evidence of a total of 39..................... pterosaurs has been discovered.",
+            "answer": "over a thousand",
+            "options": null
+          },
+          {
+            "number": 40,
+            "text": "The wings of Quetzalcoatlus measured more than 40..................... across.",
+            "answer": "11 metres",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:15:51.544922"
+}

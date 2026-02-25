@@ -1,0 +1,239 @@
+{
+  "id": "ielts-r-0196",
+  "slug": "have-teenagers-always-existed",
+  "title": "Have teenagers always existed",
+  "page_range": [
+    994,
+    998
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "YES",
+    "2": "A",
+    "9": "NOT GIVEN",
+    "3": "B",
+    "10": "NOT GIVEN",
+    "4": "D",
+    "11": "D",
+    "5": "YES",
+    "12": "A",
+    "6": "NO",
+    "13": "B",
+    "7": "NO",
+    "14": "E"
+  },
+  "content": {
+    "title": "Have Teenagers Always Existed",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Our ancestor, Homo erectus, may not have had culture or even language, but did they have teenagers? That question has been contested in the past few years, with some anthropologists claiming evidence of an adolescent phase in human fossil. This is not merely an academic debate. Humans today are the only animals on Earth to have a teenage phase, yet we have very little idea why. Establishing exactly when adolescence first evolved and finding out what sorts of changes in our bodies and lifestyles it was associated with could help us understand its purpose. Why do we, uniquely, have a growth spurt so late in life?"
+      },
+      {
+        "label": null,
+        "content": "Until recently, the dominant explanation was that physical growth is delayed by our need to grow large brains and to learn all the behaviour patterns associated with humanity – speaking, social interaction and so on. While such behaviour is still developing, humans cannot easily fend for themselves, so it is best to stay small and look youthful. That way your parents and other members of the social group are motivated to continue looking after you. What’s more, studies of mammals show a strong relationship between brain size and the rate of development, with larger-brained animals taking longer to reach adulthood. Humans are at the far end of this spectrum. If this theory is correct, and the development of large brains accounts for the teenage growth spurt, the origin of adolescence should have been with the evolution of our own species (Homo sapiens) and Neanderthals, starting almost 200,000 years ago. The trouble is, some of the fossil evidence seems to tell a different story."
+      },
+      {
+        "label": null,
+        "content": "The human fossil record is extremely sparse, and the number of fossilised children minuscule. Nevertheless, in the past few years anthropologists have begun to look at what can be learned of the lives of our ancestors from these youngsters. One of the most studied is the famous Turkana boy, an almost complete skeleton of Homo erectus from 1.6 million years ago found in Kenya in 1984. Accurately assessing how old someone is from their skeleton is a tricky business. Even with a modern human, you can only make a rough estimate based on the developmental stage of teeth and bones and the skeleton’s general size."
+      },
+      {
+        "label": null,
+        "content": "You need as many developmental markers as possible to get an estimate of age. The Turkana boy’s teeth made him 10 or 11 years old. The features of his skeleton put him at 13, but he was as tall as a modern 15-year-old. Susan Anton of New York University points to research by Margaret Clegg who studied a collection of 18th- and 19th-century skeletons whose ages at death were known. When she tried to age the skeletons without checking the records, she found similar discrepancies to those of the Turkana boy. One 10-year-old boy, for example, had a dental age of 9, the skeleton of a 6-year-old but was tall enough to be 11. The Turkana kid still has a rounded skull, and needs more growth to reach the adult shape,’ Anton adds. She thinks that Homo erectus had already developed modern human patterns of growth, with a late, if not quite so extreme, adolescent spurt. She believes Turkana boy was just about to enter it."
+      },
+      {
+        "label": null,
+        "content": "If Anton is right, that theory contradicts the orthodox idea linking late growth with development of a large brain. Anthropologist Steven Leigh from the University of Illinois goes further. He believes the idea of adolescence as catch-up growth does not explain why the growth rate increases so dramatically. He says that many apes have growth spurts in particular body regions that are associated with reaching maturity, and this makes sense because by timing the short but crucial spells of maturation to coincide with the seasons when food is plentiful, they minimise the risk of being without adequate food supplies while growing. What makes humans unique is that the whole skeleton is involved. For Leigh, this is the key."
+      },
+      {
+        "label": null,
+        "content": "According to his theory, adolescence evolved as an integral part of efficient upright locomotion, as well as to accommodate more complex brains. Fossil evidence suggests that our ancestors first walked on two legs six million years ago. If proficient walking was important for survival, perhaps the teenage growth spurt has very ancient origins. While many anthropologists will consider Leigh’s theory a step too far, he is not the only one with new ideas about the evolution of teenagers."
+      },
+      {
+        "label": null,
+        "content": "Another approach, which has produced a surprising result, relies on the minute analysis of tooth growth. Every nine days or so the growing teeth of both apes and humans acquire ridges on their enamel surface. These are like rings in a tree trunk: the number of them tells you how long the crown of a tooth took to form. Across mammals, the rate at which teeth develop is closely related to how fast the brain grows and the age you mature. Teeth are good indicators of life history because their growth is less related to the environment and nutrition than is the growth of the skeleton."
+      },
+      {
+        "label": null,
+        "content": "A more decisive piece of evidence came last year, when researchers in France and Spain published their findings from a study of Neanderthal teeth. Neanderthals had much faster tooth growth than Homo erectus who went before them, and hence, possibly, a shorter childhood. Lead researcher Fernando Ramirez-Rozzi thinks Neanderthals died young – about 25 years old — primarily because of the cold, harsh environment they had to endure in glacial Europe. They evolved to grow up quicker than their immediate ancestors. Neanderthals and Homo erectus probably had to reach adulthood fairly quickly, without delaying for an adolescent growth spurt. So it still looks as though we are the original teenagers."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 1-4 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "In the first paragraph, why does the writer say ‘This is not merely an academic debate’?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Anthropologists’ theories need to be backed up by practical research."
+              },
+              {
+                "label": "B",
+                "text": "There have been some important misunderstandings among anthropologists."
+              },
+              {
+                "label": "C",
+                "text": "The attitudes of anthropologists towards adolescence are changing."
+              },
+              {
+                "label": "D",
+                "text": "The work of anthropologists could inform our understanding of modern adolescence."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What was Susan Anton’s opinion of the Turkana boy?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "He would have experienced an adolescent phase had he lived."
+              },
+              {
+                "label": "B",
+                "text": "His skull showed he had already reached adulthood."
+              },
+              {
+                "label": "C",
+                "text": "His skeleton and teeth could not be compared to those from a more modern age."
+              },
+              {
+                "label": "D",
+                "text": "He must have grown much faster than others alive at the time."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What point does Steven Leigh make?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Different parts of the human skeleton develop at different speeds."
+              },
+              {
+                "label": "B",
+                "text": "The growth period of many apes is confined to times when there is enough food."
+              },
+              {
+                "label": "C",
+                "text": "Humans have different rates of development from each other depending on living conditions."
+              },
+              {
+                "label": "D",
+                "text": "The growth phase in most apes lasts longer if more food is available."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What can we learn from a mammal’s teeth?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "A poor diet will cause them to grow more slowly."
+              },
+              {
+                "label": "B",
+                "text": "They are a better indication of lifestyle than a skeleton."
+              },
+              {
+                "label": "C",
+                "text": "Their growing period is difficult to predict accurately."
+              },
+              {
+                "label": "D",
+                "text": "Their speed of growth is directly related to the body’s speed of development."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 5-10 on your answer sheet, write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "It is difficult for anthropologists to do research on human fossils because they are so rare.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Modern methods mean it is possible to predict the age of a skeleton with accuracy.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Susan Anton’s conclusion about the Turkana boy reinforces an established idea.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Steven Leigh’s ideas are likely to be met with disbelief by many anthropologists.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Researchers in France and Spain developed a unique method of analysing teeth.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "There has been too little research comparing the brains of Homo erectus and Neanderthals.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending, A-G, below. Write the correct letter, A-G, in boxes 11-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Until recently, delayed growth in humans until adolescence was felt to be due to",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "In her research, Margaret Clegg discovered",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Steven Leigh thought the existence of adolescence is connected to",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Research on Neanderthals suggests that they had short lives because of",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:18:25.494495"
+}

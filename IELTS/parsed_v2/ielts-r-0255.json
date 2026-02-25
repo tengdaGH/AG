@@ -1,0 +1,230 @@
+{
+  "id": "ielts-r-0255",
+  "slug": "less-television-less-violence-and-aggression",
+  "title": "Less Television, Less Violence and Aggression",
+  "page_range": [
+    1290,
+    1294
+  ],
+  "raw_answer_key": {
+    "1": "watched tv/television",
+    "8": "FALSE",
+    "2": "violently",
+    "9": "TRUE",
+    "3": "6/six months",
+    "10": "NOT GIVEN",
+    "4": "parents",
+    "11": "NOT GIVEN",
+    "5": "number of hours",
+    "12": "D",
+    "6": "avoided tv/television",
+    "13": "B",
+    "7": "less tv/television"
+  },
+  "content": {
+    "title": "Less Television, Less Violence and Aggression",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Cutting back on television, videos, and video games reduces acts of aggression among schoolchildren, according to a study by Dr. Thomas Robinson and others from the Stanford University School of Medicine. The study, published in the January 2001 issue of the Archives of Pediatric and Adolescent Medicine, found that third- and fourth-grade students who took part in a curriculum to reduce their TV, video, and video game use engaged in fewer acts of verbal and physical aggression than their peers. The study took place in two similar San Jose, California, elementary schools. Students in one school underwent an 18-lesson, 6-month program designed to limit their media usage, while the others did not. Both groups of students had similar reports of aggressive behavior at the beginning of the study. After the six-month program, however, the two groups had very real differences. The students who cut back on their TV time engaged in six fewer acts of verbal aggression per hour and rated 2.4 percent fewer of their classmates as aggressive after the program. Physical acts of violence, parental reports of aggressive behavior, and perceptions of a mean and scary world also decreased, but the authors suggest further study to solidify these results."
+      },
+      {
+        "content": "Although many studies have shown that children who watch a lot of TV are more likely to act violently, this report further verifies that television, videos, and video games actually cause the violent behavior, and it is among the first to evaluate a solution to the problem. Teachers at the intervention school included the program in their existing curriculum. Early lessons encouraged students to keep track of and report on the time they spent watching TV or videos, or playing video games, to motivate them to limit those activities on their own. The initial lessons were followed by TV-Turnoff, an organization that encourages less TV viewing. For ten days, students were challenged to go without television, videos, or video games. After that, teachers encouraged the students to stay within a media allowance of seven hours per week. Almost all students participated in the Turnoff, and most stayed under their budget for the following weeks. Additional lessons encouraged children to use their time more selectively, and many of the final lessons had students themselves advocate reducing screen activities."
+      },
+      {
+        "content": "This study is by no means the first to find a link between television and violence. Virtually all of 3,500 research studies on the subject in the past 40 years have shown the same relationship, according to the American Academy of Pediatrics. Among the most noteworthy studies is Dr. Leonard D. Eron’s, which found that exposure to television violence in childhood is the strongest predictor of aggressive behavior later in life—stronger even than violent behavior as children. The more violent television the subjects watched at age eight, the more serious was their aggressive behavior even 22 years later. Another study by Dr. Brandon S. Centerwall found that murder rates climb after the introduction of television. In the United States and Canada, murder rates doubled 10 to 15 years after the introduction of television, after the first TV generation grew up."
+      },
+      {
+        "content": "Centerwall tested this pattern in South Africa, where television broadcasts were banned until 1975. Murder rates in South Africa remained relatively steady from the mid-1940s through the mid-1970s. By 1987, however, the murder rate had increased 130 percent from its 1974 level. The murder rates in the United States and Canada had leveled off in the meantime. Centerwall's study implies that the medium of television, not just the content, promotes violence and the current study by Dr. Robinson supports that conclusion. The Turnoff did not specifically target violent television, nor did the following allowance period. Reducing television in general reduces aggressive behavior. Even television that is not “violent” is more violent than real life and may lead viewers to believe that violence is funny, inconsequential, and a viable solution to problems. Also, watching television of any content robs us of the time to interact with real people. Watching too much TV may inhibit the skills and patience we need to get along with others without resorting to aggression. TV, as a medium, promotes aggression and violence. The best solution is to turn it off."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using words from the box below. Write your answers in boxes 1-7 on your Answer Sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "When children __________ less, they behaved less __________.",
+            "answer": "watched tv/television",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "When children watched TV/television less, they behaved less __________.",
+            "answer": "violently",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Students in a California elementary school participated in the study, which lasted __________.",
+            "answer": "6/six months",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "By the end of the study, the children’s behavior had changed. For example, the children’s __________ reported that the children were acting less violently than before.",
+            "answer": "parents",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "During the study, the children kept a record of the __________ they watched TV.",
+            "answer": "number of hours",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Then, for ten days, they __________.",
+            "answer": "avoided tv/television",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Near the end of the study, the students began to suggest watching __________.",
+            "answer": "less tv/television",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information in Reading Passage 2? In boxes 8-11 write TRUE if the statement is true according to the passage, FALSE if the statement contradicts the passage, and NOT GIVEN if there is no information about this in the passage.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Only one study has found a connection between TV and violent behavior.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "There were more murders in Canada after people began watching TV.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The United States has more violence on TV than other countries.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "TV was introduced in South Africa in the 1940s.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "For each question, choose the correct letter A-D and write it in boxes 12 and 13 on your Answer Sheet.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "According to the passage,",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "only children are affected by violence on TV."
+              },
+              {
+                "label": "B",
+                "text": "only violent TV programs cause violent behavior."
+              },
+              {
+                "label": "C",
+                "text": "children who watch too much TV get poor grades in school."
+              },
+              {
+                "label": "D",
+                "text": "watching a lot of TV may keep us from learning important social skills."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The authors of this passage believe that",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "some violent TV programs are funny."
+              },
+              {
+                "label": "B",
+                "text": "the best plan is to stop watching TV completely."
+              },
+              {
+                "label": "C",
+                "text": "it’s better to watch TV with other people than on your own."
+              },
+              {
+                "label": "D",
+                "text": "seven hours a week of TV watching is acceptable."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:36:34.828261"
+}

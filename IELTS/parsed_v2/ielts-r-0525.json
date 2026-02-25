@@ -1,0 +1,435 @@
+{
+  "id": "ielts-r-0525",
+  "slug": "the-new-way-to-be-a-fifth-grader",
+  "title": "The new way to be a fifth-grader",
+  "page_range": [
+    2655,
+    2659
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "NO",
+    "2": "B",
+    "9": "NOT GIVEN",
+    "3": "C",
+    "10": "NOT GIVEN",
+    "4": "B",
+    "11": "B",
+    "5": "D",
+    "12": "D",
+    "6": "YES",
+    "13": "G",
+    "7": "NO",
+    "14": "E"
+  },
+  "content": {
+    "title": "The New Way to Be a Fifth-Grader",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "I peer over his shoulder at his laptop screen to see the math problem the fifth-grader is pondering. It's a trigonometry problem. Carpenter, a serious-faced ten-year-old, pauses for a second, fidgets, then clicks on \"0 degrees.\" The computer tells him that he's correct. \"It took a while for me to work it out,\" he admits sheepishly. The software then generates another problem, followed by another, until eventually he's done ten in a row."
+      },
+      {
+        "content": "Last November, his teacher, Kami Thordarson, began using Khan Academy in her class. It is an educational website on which students can watch some 2,400 videos. The videos are anything but sophisticated. At seven to 14 minutes long, they consist of a voiceover by the site's founder, Salman Khan, chattily describing a mathematical concept or explaining how to solve a problem, while his hand-scribbled formulas and diagrams appear on-screen. As a student, you can review a video as many times as you want, scrolling back several times over puzzling parts and fast-forwarding through the boring bits you already know. Once you've mastered a video, you can move on to the next one."
+      },
+      {
+        "content": "Initially, Thordarson thought Khan Academy would merely be a helpful supplement to her normal instruction. But it quickly became far more than that. She is now on her way to \"flipping\" the way her class works. This involves replacing some of her lectures with Khan's videos, which students can watch at home. Then in class, they focus on working on the problem areas together. The idea is to invert the normal rhythms of school, so that lectures are viewed in the children's own time and homework is done at school. It sounds weird, Thordarson admits, but this reversal makes sense when you think about it. It is when they are doing homework that students are really grappling with a subject and are most likely to want someone to talk to. And Khan Academy provides teachers with a dashboard application that lets them see the instant a student gets stuck."
+      },
+      {
+        "content": "For years, teachers like Thordarson have complained about the frustrations of teaching to the \"middle\" of the class. They stand at the whiteboard trying to get 25 or more students to learn at the same pace. Advanced students get bored and tune out, lagging ones get lost and tune out, and pretty soon half the class is not paying attention. Since the rise of personal computers in the 1980s, educators have hoped that technology could save the day by offering lessons tailored to each child. Schools have spent millions of dollars on sophisticated classroom technology, but the effort has been in vain. The one-to-one instruction it requires is, after all, prohibitively expensive. What country can afford such a luxury?"
+      },
+      {
+        "content": "Khan never intended to overhaul the school curricula and he doesn't have a consistent, comprehensive plan for doing so. Nevertheless, some of his fans believe that he has stumbled onto the solution to education's middle-of-the-class mediocrity. Most notable among them is Bill Gates, whose foundation has invested $1.5 million in Khan's site. Students have pointed out that Khan is particularly good at explaining all the hidden, small steps in math problems—steps that teachers often gloss over. He has an uncanny ability to inhabit the mind of someone who doesn't already understand something."
+      },
+      {
+        "content": "However, not all educators are enamoured with Khan and his site. Gary Stager, a longtime educational consultant and advocate of laptops in classrooms, thinks Khan Academy is not innovative at all. The videos and software modules, he contends, are just a high-tech version of the outdated teaching techniques—lecturing and drilling. Schools have become \"joyless test-prep factories,\" he says, and Khan Academy caters to this dismal trend."
+      },
+      {
+        "content": "As Sylvia Martinez, president of an organization focusing on technology in the classroom, puts it, \"The things they're doing are really just rote.\" Flipping the classroom isn't an entirely new idea, Martinez says, and she doubts that it would work for the majority of pupils: \"I'm sorry, but if they can't understand the lecture in a classroom, they're not going to grasp it better when it's done through a video at home.\""
+      },
+      {
+        "content": "Another limitation of Khan's site is that the drilling software can only handle questions where the answers are unambiguously right or wrong, like math or chemistry; Khan has relatively few videos on messier, grey-area subjects like history. Khan and Gates admit there is no easy way to automate the teaching of writing—even though it is just as critical as math."
+      },
+      {
+        "content": "Even if Khan is truly liberating students to advance at their own pace, it is not clear that schools will be able to cope. The very concept of grade levels implies groups of students moving along together at an even pace. So what happens when, using Khan Academy, you wind up with a ten-year-old who has already mastered high-school physics? Khan's programmer, Ben Kamens, has heard from teachers who have seen Khan Academy presentations and loved the idea but wondered whether they could modify it \"to stop students from becoming this advanced.\""
+      },
+      {
+        "content": "Khan's success has injected him into the heated wars over school reform. Reformers today, by and large, believe student success should be carefully tested, with teachers and principals receiving better pay if their students advance more quickly. In essence, Khan doesn't want to change the way institutions teach; he wants to change how people learn, whether they're in a private school or a public school—or for that matter, whether they're a student or an adult trying to self-educate in Ohio, Brazil, Russia, or India. One member of Khan's staff is spearheading a drive to translate the videos into ten major languages. It's classic start-up logic: do something novel, do it with speed, and the people who love it will find you."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What do you learn about the student in the first paragraph?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "He has not used the maths software before."
+              },
+              {
+                "label": "B",
+                "text": "He did not expect his answer to the problem to be correct."
+              },
+              {
+                "label": "C",
+                "text": "He was not initially doing the right maths problem."
+              },
+              {
+                "label": "D",
+                "text": "He did not immediately know how to solve the maths problem."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What does the writer say about the content of the Khan Academy videos?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "They have been produced in a professional manner."
+              },
+              {
+                "label": "B",
+                "text": "They include a mix of verbal and visual features."
+              },
+              {
+                "label": "C",
+                "text": "Some of the maths problems are too easy."
+              },
+              {
+                "label": "D",
+                "text": "Some of the explanations are too brief."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What does this reversal refer to in line 40?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "going back to spending fewer hours in school"
+              },
+              {
+                "label": "B",
+                "text": "students being asked to explain answers to teachers"
+              },
+              {
+                "label": "C",
+                "text": "swapping the activities done in the class and at home"
+              },
+              {
+                "label": "D",
+                "text": "the sudden improvement in students’ maths performance"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What does the writer say about teaching to the 'middle' of the class?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Teachers become too concerned about weaker students."
+              },
+              {
+                "label": "B",
+                "text": "Technology has not until now provided a solution to the problem."
+              },
+              {
+                "label": "C",
+                "text": "Educators have been unwilling to deal with the issues."
+              },
+              {
+                "label": "D",
+                "text": "Students in this category quickly become bored."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Students praise Khan’s videos because they",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "show the extent of his mathematical knowledge."
+              },
+              {
+                "label": "B",
+                "text": "deal with a huge range of maths problems."
+              },
+              {
+                "label": "C",
+                "text": "provide teaching at different ability levels."
+              },
+              {
+                "label": "D",
+                "text": "cover details that are often omitted in class."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in the reading passage?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Thordarson's first impressions of how she would use Khan Academy turned out to be wrong.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Khan wished to completely change the way courses are taught in schools.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "School grade levels are based on the idea of students progressing at different rates.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Some principals have invited Khan into their schools to address students.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Khan has given advice to other people involved in start-up projects.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the claims of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "instruction": "Complete each sentence with the correct ending, A-G, below.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Bill Gates thinks Khan Academy",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "is only suited to subjects where questions have exact answers."
+              },
+              {
+                "label": "B",
+                "text": "can teach both the strongest and the weakest pupils in a class."
+              },
+              {
+                "label": "C",
+                "text": "means the teaching of other school subjects will have to be changed."
+              },
+              {
+                "label": "D",
+                "text": "only prepares students to pass exams."
+              },
+              {
+                "label": "E",
+                "text": "could cause student achievement to improve too quickly."
+              },
+              {
+                "label": "F",
+                "text": "requires all students to own the necessary technology."
+              },
+              {
+                "label": "G",
+                "text": "is unlikely to have a successful outcome for most students."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "According to Gary Stager, Khan Academy",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "is only suited to subjects where questions have exact answers."
+              },
+              {
+                "label": "B",
+                "text": "can teach both the strongest and the weakest pupils in a class."
+              },
+              {
+                "label": "C",
+                "text": "means the teaching of other school subjects will have to be changed."
+              },
+              {
+                "label": "D",
+                "text": "only prepares students to pass exams."
+              },
+              {
+                "label": "E",
+                "text": "could cause student achievement to improve too quickly."
+              },
+              {
+                "label": "F",
+                "text": "requires all students to own the necessary technology."
+              },
+              {
+                "label": "G",
+                "text": "is unlikely to have a successful outcome for most students."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Sylvia Martinez regrets that Khan Academy",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "is only suited to subjects where questions have exact answers."
+              },
+              {
+                "label": "B",
+                "text": "can teach both the strongest and the weakest pupils in a class."
+              },
+              {
+                "label": "C",
+                "text": "means the teaching of other school subjects will have to be changed."
+              },
+              {
+                "label": "D",
+                "text": "only prepares students to pass exams."
+              },
+              {
+                "label": "E",
+                "text": "could cause student achievement to improve too quickly."
+              },
+              {
+                "label": "F",
+                "text": "requires all students to own the necessary technology."
+              },
+              {
+                "label": "G",
+                "text": "is unlikely to have a successful outcome for most students."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Ben Kamens has been told that Khan Academy",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "is only suited to subjects where questions have exact answers."
+              },
+              {
+                "label": "B",
+                "text": "can teach both the strongest and the weakest pupils in a class."
+              },
+              {
+                "label": "C",
+                "text": "means the teaching of other school subjects will have to be changed."
+              },
+              {
+                "label": "D",
+                "text": "only prepares students to pass exams."
+              },
+              {
+                "label": "E",
+                "text": "could cause student achievement to improve too quickly."
+              },
+              {
+                "label": "F",
+                "text": "requires all students to own the necessary technology."
+              },
+              {
+                "label": "G",
+                "text": "is unlikely to have a successful outcome for most students."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T02:13:22.744402"
+}

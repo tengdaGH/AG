@@ -1,0 +1,192 @@
+{
+  "id": "ielts-r-0141",
+  "slug": "early-occupations-around-the-river-thames",
+  "title": "Early occupations around the river Thames",
+  "page_range": [
+    719,
+    723
+  ],
+  "raw_answer_key": {
+    "1": "iii",
+    "8": "C, E (in either order)",
+    "9": "A OR C IN EITHER",
+    "2": "vi ORDER",
+    "10": "A OR C IN EITHER",
+    "3": "ix ORDER",
+    "4": "iv",
+    "11": "regular wage",
+    "5": "ii",
+    "12": "steam power",
+    "6": "vii",
+    "13": "picturesque",
+    "7": "C, E (in either order)"
+  },
+  "content": {
+    "title": "Early Occupations around the River Thames",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In her pioneering survey, Sources of London English, Laura Wright has listed the variety of medieval workers who took their livings from the river Thames. The baillies of Queenhithe and Billingsgate acted as customs officers. There were conservators, who were responsible for maintaining the embankments and the weirs, and there were the garthmen who worked in the fish garths (enclosures). Then there were galleymen and lightermen and shoutmen, called after the names of their boats, and there were hookers who were named after the manner in which they caught their fish. The searcher patrolled the Thames in search of illegal fish weirs, and the tideman worked on its banks and foreshores whenever the tide permitted him to do so."
+      },
+      {
+        "label": "B",
+        "content": "All of these occupations persisted for many centuries, as did those jobs that depended upon the trade of the river. Yet, it was not easy work for any of the workers. They carried most goods upon their backs, since the rough surfaces of the quays and nearby streets were not suitable for wagons or large carts; the merchandise characteristically arrived in barrels which could be rolled from the ship along each quay. If the burden was too great to be carried by a single man, then the goods were slung on poles resting on the shoulders of two men. It was a slow and expensive method of business."
+      },
+      {
+        "label": "C",
+        "content": "However, up to the eighteenth century, river work was seen in a generally favourable light. For Langland, writing in the fourteenth century, the labourers working on river merchandise were relatively prosperous. And the porters of the seventeenth and early eighteenth centuries were, if anything, aristocrats of labour, enjoying high status. However, in the years from the late eighteenth to the early nineteenth century, there was a marked change in attitude. This was in part because the working river was within the region of the East End of London, which in this period acquired an unenviable reputation. By now, dockside labour was considered to be the most disreputable, and certainly the least desirable form of work."
+      },
+      {
+        "label": "D",
+        "content": "It could be said that the first industrial community in England grew up around the Thames. With the host of river workers themselves, as well as the vast assembly of ancillary trades such as tavern-keepers and laundresses, food-sellers and street-hawkers, shopkeepers and marine store dealers - there was a workforce of many thousands congregated in a relatively small area. There were more varieties of business to be observed by the riverside than in any other part of the city. As a result, with the possible exception of the area known as Seven Dials, the East End was also the most intensively inhabited region of London."
+      },
+      {
+        "label": "E",
+        "content": "It was a world apart, with its own language and its own laws. From the sailors in the opium dens of Limehouse to the smugglers on the malarial flats of the estuary, the workers of the river were not part of any civilised society. The alien world of the river had entered them. That alienation was also expressed in the slang of the docks, which essentially amounted to backslang, or the reversal of ordinary words. This backslang also helped in the formulation of Cockney rhyming slang, so that the vocabulary of Londoners was directly affected by the life of the Thames."
+      },
+      {
+        "label": "F",
+        "content": "The reports in the nineteenth-century press reveal a heterogeneous world of dock labour, in which the crowds of casuals waiting for work at the dock gates at 7:45 a.m. include penniless refugees, bankrupts, old soldiers, broken-down gentlemen, discharged servants, and ex-convicts. There were some 400-500 permanent workers who earned a regular wage and who were considered to be the patricians of dockside labour. However, there were some 2,500 casual workers who were hired by the shift. The work for which they competed fiercely had become ever more unpleasant. Steam power could not be used for the cranes, for example, because of the danger of fire. So the cranes were powered by treadmills. Six to eight men entered a wooden cylinder and, laying hold of ropes, would tread the wheel round. They could lift nearly 20 tonnes to an average height of 27 feet (8.2 metres), forty times in an hour. This was part of the life of the river unknown to those who were intent upon its more picturesque aspects."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Reading Passage 2 has SIX paragraphs, A-F. Choose the correct heading, A-F, from the list of headings below. Write the correct number, i-ix.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "iii",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "vi",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "ix",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "iv",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "ii",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "vii",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose TWO letters, A-E. Write the correct letters. Which TWO statements are made about work by the River Thames before the eighteenth century?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Which TWO statements are made about work by the River Thames before the eighteenth century?",
+            "answer": "C, E (in either order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "Goods were transported from the river by cart."
+              },
+              {
+                "label": "B",
+                "text": "The workforce was very poorly paid."
+              },
+              {
+                "label": "C",
+                "text": "Occupations were specialised."
+              },
+              {
+                "label": "D",
+                "text": "Workers were generally looked down upon."
+              },
+              {
+                "label": "E",
+                "text": "Physical strength was required."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose TWO letters, A-E. Write the correct letters. Which TWO statements are made about life by the River Thames in the early nineteenth century?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Which TWO statements are made about life by the River Thames in the early nineteenth century?",
+            "answer": "A OR C IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "The area was very crowded."
+              },
+              {
+                "label": "B",
+                "text": "There was an absence of crime."
+              },
+              {
+                "label": "C",
+                "text": "Casual work was in great demand."
+              },
+              {
+                "label": "D",
+                "text": "Several different languages were in use."
+              },
+              {
+                "label": "E",
+                "text": "Inhabitants were known for their friendliness."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Use NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "In the nineteenth century, only a minority of dock workers received a",
+            "answer": "regular wage",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Cranes were operated manually because",
+            "answer": "steam power",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Observers who were unfamiliar with London’s docks found the River Thames",
+            "answer": "picturesque",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T00:51:34.528734"
+}

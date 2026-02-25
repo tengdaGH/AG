@@ -1,0 +1,317 @@
+{
+  "id": "ielts-r-0487",
+  "slug": "the-history-of-cakes-at-weddings",
+  "title": "The history of cakes at weddings",
+  "page_range": [
+    2469,
+    2473
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "OVENS",
+    "2": "FALSE",
+    "9": "HOBBY",
+    "3": "NOT GIVEN",
+    "10": "BOXES",
+    "4": "TRUE",
+    "11": "COLUMNS",
+    "5": "FALSE",
+    "12": "DESIGN",
+    "6": "TRUE",
+    "13": "ICING",
+    "7": "PASTRY"
+  },
+  "content": {
+    "title": "The history of cakes at weddings",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In Western cultures, since antiquity, weddings have customarily been celebrated with a special cake. Ancient Roman wedding ceremonies were finalized by breaking a cake of wheat or barley over the bride’s head as a symbol of good fortune. The newly married couple then ate some of the crumbs together. Afterward, the wedding guests gathered up the remaining crumbs as tokens of good luck. Wedding guests were also supplied with sweetmeats called confetti, a sweet mixture of nuts, dried fruit, and honeyed almonds. Handfuls of confetti were showered over the bride and groom; indeed, it seems to have been the custom to throw confetti about enthusiastically. Eventually, confetti in the form of sweets and nuts was replaced with rice, flower petals, or colored paper, and these new types of confetti continue to be thrown over newly married couples in many countries around the world."
+      },
+      {
+        "label": "B",
+        "content": "When the Romans invaded Britain in 43 AD, many of their customs and traditions became part of British life. These customs included their wedding customs, and when the Normans invaded Britain in 1066, they brought many French traditions. Other changes came about due to increased trade and contact with Europe, but present-day British wedding traditions remain firmly rooted in the past. In medieval Britain, small spiced buns, which were common everyday fare, were often eaten at weddings. These were stacked in a towering pile, as high as possible. If the bride and groom were able to kiss over the tall stack, it augured a lifetime of riches. The earliest British recipe exclusively for eating at weddings is Bride Pie, which was recorded in 1685. This was a large round pie with an elaborately decorated pastry crust that concealed a filling of oysters, pine nuts, lamb, and spices. Each guest had to eat a small piece of the pie; not to do so was considered extremely impolite. A ring was traditionally placed in the pie, and the lady who found it would be next to marry."
+      },
+      {
+        "label": "C",
+        "content": "In the 17th century, Bride Pie was changed into Bride Cake, the predecessor of the modern British wedding cake. Cakes containing dried fruit and sugar, symbols of prosperity, gradually became the centerpieces for weddings. Some people made Bride Cake in the cheaper form of two large rounds of pastry sandwiched together with currants and sprinkled with sugar. Very few homes at the time could boast of having ovens, but this type of pastry cake could be cooked on a baking stone on the hearth."
+      },
+      {
+        "label": "D",
+        "content": "Later in the 17th century, there was a new development when wedding cakes began to be made in pairs, one for the bride and another for the groom. Both cakes were dark, heavy fruitcakes; the groom’s cake was smaller than the bride’s cake, and was cut up into little squares that were placed in boxes for the guests to take home as a wedding memento. Groom’s cakes gradually died out and are no longer part of British weddings. However, the tradition has undergone a revival in the United States, where for many years the groom’s cake has served as a wedding gift for guests. Modern groom’s cakes are often formed and decorated to depict the groom’s hobby, for example a golf bag, a camera, a chess board."
+      },
+      {
+        "label": "E",
+        "content": "Groom’s cakes were never covered with icing, but Bride Cake covered with white icing first appeared sometime in the 17th century. After the cake was baked, it was covered with a pure white, smooth icing made with double refined sugar, egg whites, and orange-flower water. The mixture was beaten for two hours, then spread over the cake and dried in the oven until hard. A pure white color was much sought after for wedding cake icing because white icing meant that only the finest refined sugar had been used. Thus a pure white cake was a status symbol, as it displayed the family’s wealth."
+      },
+      {
+        "label": "F",
+        "content": "The late 1800s in Britain saw the introduction of a new tradition, with the first multi-tiered wedding cakes. These were impressive cakes: they were heavy because they were made with so much dried fruit, and highly decorated with icing and embellished with sugar flowers, doves, horseshoes, and bells. The first multi-tiered cakes comprised iced cakes stacked on top of each other rather like a succession of boxes gradually decreasing in size. The cakes from the upper tiers did not sink into the lower tiers because they were a bit put on top of each other until the icing between each cake had had time to harden. It was not until the beginning of the 20th century that the cake tiers were separated and supported by columns."
+      },
+      {
+        "label": "G",
+        "content": "Twenty-first-century weddings are big business for Britain’s wedding industry. Over 300,000 people get married each year and a wedding can cost thousands of pounds. The cost of the all-important wedding cake can be hundreds of pounds, depending on the dimension and design. It will be interesting to see whether wedding cakes continue to be popular at weddings."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the passage? Write TRUE if the statement agrees with the information, FALSE if it contradicts the information, and NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The tradition of throwing confetti at weddings dates back to ancient Roman times.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The Romans introduced the tradition of eating small spiced buns at weddings to Britain.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Bride Pie was a dish that originated in medieval Britain.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "The earliest recorded recipe for a wedding cake in Britain is from 1685.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "The groom’s cake was always larger than the bride’s cake.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The tradition of the groom’s cake has been revived in the United States.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "In the 17th century, wedding cakes were often cooked on a baking stone on the hearth.",
+            "answer": "PASTRY",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "In the 17th century, ovens were not common in homes.",
+            "answer": "OVENS",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Modern groom’s cakes often reflect the groom’s hobby.",
+            "answer": "HOBBY",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The groom’s cake was traditionally cut into pieces and given to guests in boxes.",
+            "answer": "BOXES",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The first multi-tiered wedding cakes were supported by columns.",
+            "answer": "COLUMNS",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The cost of a wedding cake depends on its design.",
+            "answer": "DESIGN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The first wedding cakes covered with icing appeared in the 17th century.",
+            "answer": "ICING",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:35:32.633288"
+}

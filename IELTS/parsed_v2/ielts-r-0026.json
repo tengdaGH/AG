@@ -1,0 +1,161 @@
+{
+  "id": "ielts-r-0026",
+  "slug": "a-new-stage-in-the-study-and-teaching-of-history",
+  "title": "A new stage in the study and teaching of history",
+  "page_range": [
+    146,
+    150
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "F",
+    "2": "E",
+    "9": "E",
+    "3": "F",
+    "10": "NOT GIVEN",
+    "4": "A",
+    "11": "YES",
+    "5": "B",
+    "12": "NO",
+    "6": "G",
+    "13": "YES",
+    "7": "C",
+    "14": "NOT GIVEN"
+  },
+  "content": {
+    "title": "A New Stage in the Study and Teaching of History",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The development of this new form of communication is leading to a growing gap between the practice of professional historians based in academia, and the practice of those aiming to popularise the study of history among the general public, and to encourage people to create their own records for the future. On the one hand, there are mainstream academics who continue to use only the written word as they examine more and more fields with an ever-increasing number of sophisticated methodologies. On the other hand, film and video, especially as broadcast on television, are probably the major influence on the public's consciousness of history, as they see film of events of fifty or a hundred years ago, events they had previously only read about."
+      },
+      {
+        "label": "B",
+        "content": "In a related development, a great many people now document local and family events in the form of videos; many schools, too, produce video yearbooks. All these visual records may well prove to be invaluable sources of information for future historians. The glaring contradiction is that the two approaches-the academic and what we might term the popular-have intersected very little: with a few notable exceptions, professional historians have tended to avoid involvement in television programmes about history, and have even less impact on what is being captured and preserved on video. And the potential of moving images has wielded negligible influence on the academic study of history."
+      },
+      {
+        "label": "C",
+        "content": "This gulf can be seen as resulting from the willingness or otherwise of individual historians to accept the validity of new forms of communication in the study of history. This is not the first time that the question has arisen. The study of history, as conceived of today, began with the transition from oral to literate culture, leading to the earliest written records and the earliest historical studies. The next great shift came with the advent of printing, which transformed everything. Today, as the printed word loses its dominance, historians are faced with a variety of forms of communication, ranging from simple audiotape to the promising complexities of videodiscs linked with computers. As yet, however, the use of moving images to record current events for the benefit of future historians does not even have a commonly agreed name."
+      },
+      {
+        "label": "D",
+        "content": "This does not mean that mainstream historians have totally rejected the use of moving images as sources: the majority seem intrigued by the idea, and valuable research has been carried out into the history and analysis of films with a broad circulation, using them as a source of information on the social and intellectual history of the twentieth century. Journals such as American History Review have played a significant role in this field."
+      },
+      {
+        "label": "E",
+        "content": "Yet the number of historians using moving images in their research or teaching is very small. The barrier seems to be that the profession is structured around the medium of the written word, and is somewhat insulated in its academic setting. The use of moving images presents a substantial challenge to this setting and its assumptions. As a result, historians have rejected the training, the institutions, the motivations and the professional structures that would be needed in order to use moving images effectively. Above all, they have rejected the necessity to learn complicated new skills."
+      },
+      {
+        "label": "F",
+        "content": "So why should historians make this change? Clearly, films or videos of events and people can be used as solid evidence of the past, linked to the words of the narrator (whether a television presenter/historian or a university teacher giving a lecture) but carrying information in their own right. Film has reintroduced the oral form as a mode of research and communication for documenting historical events. Now, with moving images, people are reminded that oral communication is not limited to words: it also includes body language, expression and tone, and is embedded in a context. Little of this is evident in a written transcript. A further effect of video and film is that the narrator gives up some control and has less need to give explanations, while the viewer becomes involved in the process of interpreting and understanding history."
+      },
+      {
+        "label": "G",
+        "content": "Film or videotape can also aid historians by simplifying the work of the interviewer. Instead of trying to carry on an interview while simultaneously making notes about setting and other unspoken data, this new kind of historian can concentrate on the interview itself, and study the film later. The many benefits of using moving images as historical evidence easily outweigh worries about cost, technical skills, or the effect of a camera on a person telling his or her story. Moving images enhance the quality of historical research, and suggest new directions for historians to explore."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-9 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "an overview of the range of methods that have been used over time to document history",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "the main reason why many historians are unwilling to use films in their work",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "a reference to some differences between oral and written communication",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "how most citizens today gain an understanding of history",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "how current student events are sometimes captured for future audiences",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "mention of the fact that the advantages of film are greater than the disadvantages",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "the claim that there is no official title for film-based historical work",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "reference to the active role the audience plays when watching films",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "a list of requirements that historians see as obstacles to their use of film to record history",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 10-14 on your answer sheet, write YES – if the statement reflects the claims of the writer, NO – if the statement contradicts the claims of the writer, NOT GIVEN – if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The needs of students in school have led to improvements in the teaching of history.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Academic and popular historians have different attitudes towards the value of innovations in communication.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "It is common for historians to play a major role in creating historical documentaries for television.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Articles in American History Review have explored aspects of modern history through popular films.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Developments in technology are influencing a range of academic subjects.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:25:33.495714"
+}

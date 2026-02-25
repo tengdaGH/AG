@@ -1,0 +1,317 @@
+[
+  {
+    "file": "ielts-r-007.json",
+    "num_paragraphs": 4,
+    "max_words": 365,
+    "total_words": 877,
+    "id": "ielts-r-007"
+  },
+  {
+    "file": "ielts-r-016.json",
+    "num_paragraphs": 3,
+    "max_words": 355,
+    "total_words": 844,
+    "id": "ielts-r-016"
+  },
+  {
+    "file": "ielts-r-046.json",
+    "num_paragraphs": 7,
+    "max_words": 318,
+    "total_words": 826,
+    "id": "ielts-r-046"
+  },
+  {
+    "file": "ielts-r-012.json",
+    "num_paragraphs": 5,
+    "max_words": 312,
+    "total_words": 865,
+    "id": "ielts-r-012"
+  },
+  {
+    "file": "ielts-r-030.json",
+    "num_paragraphs": 4,
+    "max_words": 308,
+    "total_words": 806,
+    "id": "ielts-r-030"
+  },
+  {
+    "file": "ielts-r-019.json",
+    "num_paragraphs": 5,
+    "max_words": 304,
+    "total_words": 983,
+    "id": "ielts-r-019"
+  },
+  {
+    "file": "ielts-r-105.json",
+    "num_paragraphs": 6,
+    "max_words": 303,
+    "total_words": 877,
+    "id": "ielts-r-105"
+  },
+  {
+    "file": "ielts-r-028.json",
+    "num_paragraphs": 4,
+    "max_words": 294,
+    "total_words": 759,
+    "id": "ielts-r-028"
+  },
+  {
+    "file": "ielts-r-020.json",
+    "num_paragraphs": 5,
+    "max_words": 290,
+    "total_words": 840,
+    "id": "ielts-r-020"
+  },
+  {
+    "file": "ielts-r-055.json",
+    "num_paragraphs": 5,
+    "max_words": 275,
+    "total_words": 894,
+    "id": "ielts-r-055"
+  },
+  {
+    "file": "ielts-r-081.json",
+    "num_paragraphs": 6,
+    "max_words": 272,
+    "total_words": 889,
+    "id": "ielts-r-081"
+  },
+  {
+    "file": "ielts-r-018.json",
+    "num_paragraphs": 5,
+    "max_words": 263,
+    "total_words": 999,
+    "id": "ielts-r-018"
+  },
+  {
+    "file": "ielts-r-033.json",
+    "num_paragraphs": 7,
+    "max_words": 262,
+    "total_words": 846,
+    "id": "ielts-r-033"
+  },
+  {
+    "file": "ielts-r-027.json",
+    "num_paragraphs": 7,
+    "max_words": 260,
+    "total_words": 911,
+    "id": "ielts-r-027"
+  },
+  {
+    "file": "ielts-r-123.json",
+    "num_paragraphs": 6,
+    "max_words": 259,
+    "total_words": 878,
+    "id": "ielts-r-123"
+  },
+  {
+    "file": "ielts-r-037.json",
+    "num_paragraphs": 7,
+    "max_words": 254,
+    "total_words": 1161,
+    "id": "ielts-r-037"
+  },
+  {
+    "file": "ielts-r-003.json",
+    "num_paragraphs": 6,
+    "max_words": 254,
+    "total_words": 907,
+    "id": "ielts-r-003"
+  },
+  {
+    "file": "ielts-r-041.json",
+    "num_paragraphs": 7,
+    "max_words": 236,
+    "total_words": 948,
+    "id": "ielts-r-041"
+  },
+  {
+    "file": "ielts-r-022.json",
+    "num_paragraphs": 6,
+    "max_words": 236,
+    "total_words": 878,
+    "id": "ielts-r-022"
+  },
+  {
+    "file": "ielts-r-023.json",
+    "num_paragraphs": 5,
+    "max_words": 235,
+    "total_words": 853,
+    "id": "ielts-r-023"
+  },
+  {
+    "file": "ielts-r-008.json",
+    "num_paragraphs": 6,
+    "max_words": 233,
+    "total_words": 831,
+    "id": "ielts-r-008"
+  },
+  {
+    "file": "ielts-r-118.json",
+    "num_paragraphs": 5,
+    "max_words": 232,
+    "total_words": 887,
+    "id": "ielts-r-118"
+  },
+  {
+    "file": "ielts-r-089.json",
+    "num_paragraphs": 9,
+    "max_words": 227,
+    "total_words": 1169,
+    "id": "ielts-r-089"
+  },
+  {
+    "file": "ielts-r-084.json",
+    "num_paragraphs": 7,
+    "max_words": 227,
+    "total_words": 891,
+    "id": "ielts-r-084"
+  },
+  {
+    "file": "ielts-r-057.json",
+    "num_paragraphs": 7,
+    "max_words": 226,
+    "total_words": 907,
+    "id": "ielts-r-057"
+  },
+  {
+    "file": "ielts-r-044.json",
+    "num_paragraphs": 8,
+    "max_words": 225,
+    "total_words": 901,
+    "id": "ielts-r-044"
+  },
+  {
+    "file": "ielts-r-021.json",
+    "num_paragraphs": 5,
+    "max_words": 222,
+    "total_words": 743,
+    "id": "ielts-r-021"
+  },
+  {
+    "file": "ielts-r-106.json",
+    "num_paragraphs": 12,
+    "max_words": 222,
+    "total_words": 863,
+    "id": "ielts-r-106"
+  },
+  {
+    "file": "ielts-r-113.json",
+    "num_paragraphs": 5,
+    "max_words": 221,
+    "total_words": 883,
+    "id": "ielts-r-113"
+  },
+  {
+    "file": "ielts-r-036.json",
+    "num_paragraphs": 7,
+    "max_words": 221,
+    "total_words": 933,
+    "id": "ielts-r-036"
+  },
+  {
+    "file": "ielts-r-127.json",
+    "num_paragraphs": 8,
+    "max_words": 220,
+    "total_words": 866,
+    "id": "ielts-r-127"
+  },
+  {
+    "file": "ielts-r-065.json",
+    "num_paragraphs": 6,
+    "max_words": 219,
+    "total_words": 806,
+    "id": "ielts-r-065"
+  },
+  {
+    "file": "ielts-r-011.json",
+    "num_paragraphs": 5,
+    "max_words": 218,
+    "total_words": 801,
+    "id": "ielts-r-011"
+  },
+  {
+    "file": "ielts-r-026.json",
+    "num_paragraphs": 6,
+    "max_words": 216,
+    "total_words": 781,
+    "id": "ielts-r-026"
+  },
+  {
+    "file": "ielts-r-058.json",
+    "num_paragraphs": 7,
+    "max_words": 216,
+    "total_words": 871,
+    "id": "ielts-r-058"
+  },
+  {
+    "file": "ielts-r-038.json",
+    "num_paragraphs": 6,
+    "max_words": 215,
+    "total_words": 856,
+    "id": "ielts-r-038"
+  },
+  {
+    "file": "ielts-r-070.json",
+    "num_paragraphs": 7,
+    "max_words": 209,
+    "total_words": 924,
+    "id": "ielts-r-070"
+  },
+  {
+    "file": "ielts-r-088.json",
+    "num_paragraphs": 7,
+    "max_words": 208,
+    "total_words": 911,
+    "id": "ielts-r-088"
+  },
+  {
+    "file": "ielts-r-117.json",
+    "num_paragraphs": 6,
+    "max_words": 208,
+    "total_words": 904,
+    "id": "ielts-r-117"
+  },
+  {
+    "file": "ielts-r-006.json",
+    "num_paragraphs": 6,
+    "max_words": 207,
+    "total_words": 901,
+    "id": "ielts-r-006"
+  },
+  {
+    "file": "ielts-r-119.json",
+    "num_paragraphs": 6,
+    "max_words": 206,
+    "total_words": 859,
+    "id": "ielts-r-119"
+  },
+  {
+    "file": "ielts-r-107.json",
+    "num_paragraphs": 7,
+    "max_words": 206,
+    "total_words": 734,
+    "id": "ielts-r-107"
+  },
+  {
+    "file": "ielts-r-080.json",
+    "num_paragraphs": 9,
+    "max_words": 205,
+    "total_words": 917,
+    "id": "ielts-r-080"
+  },
+  {
+    "file": "ielts-r-116.json",
+    "num_paragraphs": 7,
+    "max_words": 203,
+    "total_words": 774,
+    "id": "ielts-r-116"
+  },
+  {
+    "file": "ielts-r-129.json",
+    "num_paragraphs": 6,
+    "max_words": 202,
+    "total_words": 902,
+    "id": "ielts-r-129"
+  }
+]

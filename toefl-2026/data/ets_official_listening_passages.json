@@ -1,0 +1,2029 @@
+{
+  "meta": {},
+  "passages": [
+    {
+      "id": "ETS-S1-L-M1-PA-1",
+      "transcript": "Listen to a conversation. \nWoman: Need anything from the supermarket? \nMan: Huh? Aren’t we getting ready to go see that play in a few minutes? \nWoman: That’s tomorrow. \nMan: Oh. Wow, I’d forget my head if it wasn’t screwed on…. Guess I don’t need to change my clothes after \nall. \nWoman: So, you weren’t planning to prepare dinner? \nMan: No, but I can. What do you want? \nWoman: Just something light and healthy. So, can you go shopping instead? \nMan: Yeah, sure. How about salmon and salad? Want anything else? \nWoman: No, that’s good. Thanks!",
+      "questions": [
+        {
+          "text": "9. What does the woman imply that she was about to do?",
+          "options": [
+            "See a play",
+            "Change her clothes",
+            "Go shopping",
+            "Eat dinner"
+          ]
+        },
+        {
+          "text": "10. Why does the man say “I’d forget my head if it wasn’t screwed on”?",
+          "options": [
+            "He forgot what the woman wanted him to buy.",
+            "He forgot about the timing of their plans.",
+            "He forgot what they were going to eat for dinner.",
+            "He forgot to buy salmon and salad at the supermarket."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-PA-2",
+      "transcript": "Listen to a conversation. \nMan: Did you see the maintenance request about the air-conditioning? \nWoman: Yes, I called the technician this morning. They said someone should be here shortly. \nMan: That’s a relief. It’s getting uncomfortably warm in here. \nWoman: I know—I called as soon as I noticed. Hopefully, it’s just a minor issue and they can get it working \nagain without too much delay. In the meantime, why don’t you go out to lunch early? Maybe it’ll be better \nwhen you get back.",
+      "questions": [
+        {
+          "text": "11. Why did the woman call a technician?",
+          "options": [
+            "An air-conditioner is leaking.",
+            "A room is too hot.",
+            "An elevator needs maintenance.",
+            "A window will not open."
+          ]
+        },
+        {
+          "text": "12. What does the woman suggest the man do?",
+          "options": [
+            "Finish an assignment early",
+            "Wait for a service agent",
+            "Open a door",
+            "Take a break early"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-PA-3",
+      "transcript": "Listen to an announcement in a classroom. \nMan: Good afternoon, everyone. I am excited to inform you that Dr. Cynthia Palmer, a renowned expert in \nenvironmental science, will be giving a guest lecture next Monday at 2 PM in Waldman Auditorium. Dr. \nPalmer will discuss the latest advancements in sustainable energy solutions and their impact on global \nclimate change. Due to her popularity and the high interest in her work, I highly recommend arriving early \nto secure a seat.",
+      "questions": [
+        {
+          "text": "13. What is the announcement about?",
+          "options": [
+            "A guest lecture",
+            "A different location for a class",
+            "Requirements for a class",
+            "A new university science course"
+          ]
+        },
+        {
+          "text": "14. Why does the professor mention Dr. Palmer’s popularity?",
+          "options": [
+            "To encourage students to read her work",
+            "To indicate why she was invited to the university",
+            "To compare her to other invited experts",
+            "To explain why students should arrive early"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M1-PA-4",
+      "transcript": "Listen to a talk on a podcast about psychology. \nPodcast Host: Did you see that new thriller movie that came out last week? I did and loved it. The action, \nthe plot twists… I was totally captivated. Time just flew by. Not a single thought occurred to me that was \nunrelated to the movie. What I experienced is what psychologists call hard fascination. Hard fascination \nmeans intense focus and concentration. Whether it’s TV programs, video games... hard fascination is all \ntoo easy to come by in this modern world. \nThere’s another type of fascination—soft fascination. There’s still effortless attention, meaning that no \nspecial effort is required for you to stay focused, but there’s still room for other thoughts. When I take a \nwalk in the park and look at the flowers and trees, for example, I might be thinking in the back of my mind \nabout my dinner plans. \nNow, one thing to know is hard fascination causes mental fatigue. The mind is so intensely focused that it \ngets tired fast. What follows mental fatigue? You might find yourself easily distracted, irritable, and \nstressed. Soft fascination, in contrast, engages a different part of the brain—the DMN, or Default Mode \nNetwork, which soothes the mind and helps combat mental fatigue. So next time you feel like your mind is \non overload, turn off the TV, put down your phone. Take a walk, or simply sit and stare at the clouds.",
+      "questions": [
+        {
+          "text": "15. What is the topic of the talk?",
+          "options": [
+            "How psychologists study attention",
+            "How to keep the mind focused",
+            "Two types of fascination",
+            "The benefits of hard fascination"
+          ]
+        },
+        {
+          "text": "16. Why does the speaker mention a movie?",
+          "options": [
+            "To compare different types of movies",
+            "To introduce a concept in psychology",
+            "To explain how movies affect emotions",
+            "To encourage listeners to watch more movies"
+          ]
+        },
+        {
+          "text": "17. What does the speaker say about her walk in the park?",
+          "options": [
+            "It is similar to her experience watching a good movie.",
+            "Her mind has space for thoughts unrelated to nature.",
+            "She needs to put in special effort to stay focused on flowers and trees.",
+            "She gets mental fatigue from her mind engaging in hard fascination."
+          ]
+        },
+        {
+          "text": "18. What does the speaker say about Default Mode Network?",
+          "options": [
+            "It is involved in soft fascination.",
+            "It leads to irritability and stress.",
+            "It is easily tired from overuse.",
+            "Its effect is unknown to psychologists."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "D",
+          "D",
+          "A",
+          "C",
+          "B",
+          "B",
+          "D",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-PA-1",
+      "transcript": "Listen to a conversation. \nMan: I’m trying to decide whether to get a smartphone or a tablet. What do you think? \nWoman: It depends on what you need it for. If you want something portable and easy to use on the go, a \nsmartphone is better. \nMan: That’s true. But I like the larger screen on a tablet for watching videos and reading. \nWoman: In that case.... \nMan: I better think about it some more.",
+      "questions": [
+        {
+          "text": "9. What is the man trying to decide between?",
+          "options": [
+            "A laptop and a smartphone",
+            "A smartphone and a tablet",
+            "A tablet and a desktop computer",
+            "A smartphone and a smartwatch"
+          ]
+        },
+        {
+          "text": "10. What reason does the woman give for her suggestion?",
+          "options": [
+            "The device is cheaper.",
+            "The device is easier to use on the go.",
+            "The device has a larger screen.",
+            "The device has better battery life."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-PA-2",
+      "transcript": "Listen to an announcement in a student lounge. \nMan: Attention everyone! The student lounge will be closed tomorrow from one P.M. to three P.M. for \nmaintenance. We will be repairing a broken pipe in the ceiling. We apologize for any inconvenience this \nmay cause. Please plan accordingly and consider using the library or the campus café during this time.",
+      "questions": [
+        {
+          "text": "11. What is the main purpose of the announcement?",
+          "options": [
+            "To inform students about a schedule change",
+            "To announce new lounge amenities",
+            "To notify students of a new facility",
+            "To encourage students to use the lounge more"
+          ]
+        },
+        {
+          "text": "12. What should students do during the closure?",
+          "options": [
+            "Wait in the lounge",
+            "Assist with the maintenance",
+            "Use alternate spaces",
+            "Visit the library website"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S1-L-M2-PA-3",
+      "transcript": "Listen to a talk in an environmental science class. \nProfessor: An ecological footprint is a measure of the environmental impact of an individual, community, \nor country. It calculates the amount of natural resources consumed and the waste generated by human \nactivities, usually expressed in global hectares. By comparing ecological footprints, we can understand \nhow different lifestyles and practices contribute to resource depletion and environmental degradation. \nFor instance, the ecological footprint of someone living in a developed country is typically larger than that \nof someone living in a developing country, mainly due to higher consumption levels and waste production. \nFactors such as energy use, transportation, food consumption, and housing play significant roles in \ndetermining the size of an ecological footprint. Understanding ecological footprints is crucial for \npromoting sustainability. It helps identify areas where changes can be made to reduce environmental \nimpact. For example, if you consume locally produced foods, you'll likely reduce your ecological footprint \nbecause less energy will be used for transporting that food. Governments and organizations can use \necological footprint data to develop policies aimed at achieving sustainable development. I'll discuss some \nexamples of that next.",
+      "questions": [
+        {
+          "text": "13. What is the main topic of the talk?",
+          "options": [
+            "Changes in consumption in societies over time",
+            "A measure of environmental impact",
+            "Environmentally damaging activities",
+            "The role of governments in sustainability"
+          ]
+        },
+        {
+          "text": "14. Why does the speaker mention developed and developing countries?",
+          "options": [
+            "To contradict a theory related to the ecological footprint",
+            "To show that resource depletion can be similar regardless of lifestyle",
+            "To illustrate the usefulness of comparing ecological footprints",
+            "To point out that production efficiency reduces the ecological footprint"
+          ]
+        },
+        {
+          "text": "15. What does the speaker mention as a way that people can reduce their ecological footprint?",
+          "options": [
+            "By disposing of waste appropriately",
+            "By joining an environmental organization",
+            "By using environmentally friendly forms of transportation",
+            "By eating locally produced food"
+          ]
+        },
+        {
+          "text": "16. What will the speaker most likely discuss next?",
+          "options": [
+            "How information about ecological footprints has been used in creating policies",
+            "How data about ecological footprints has been collected",
+            "Why the idea of ecological footprint is often misunderstood",
+            "Why sustainable development can be difficult to achieve"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "A",
+          "D",
+          "B",
+          "A",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-PA-1",
+      "transcript": "Listen to a conversation. \nMan: I think my laptop is acting up again. It keeps freezing and shutting down randomly. \nWoman: That’s frustrating. Have you tried restarting it or running a virus scan? \nMan: Yes, I did both, but it didn’t help. I might need to take it to a repair shop. \nWoman: That sounds like a good idea. They should be able to diagnose and fix the issue. \nMan: I’ll do that this afternoon.",
+      "questions": [
+        {
+          "text": "9. What problem is the man experiencing with his laptop?",
+          "options": [
+            "It has a cracked screen.",
+            "It won’t turn on.",
+            "It keeps freezing and shutting down.",
+            "It is running slowly."
+          ]
+        },
+        {
+          "text": "10. What will the man most likely do next?",
+          "options": [
+            "Buy a new laptop",
+            "Run another virus scan",
+            "Take his laptop to a repair shop",
+            "Restart his laptop"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-PA-2",
+      "transcript": "Listen to a conversation. \nMan: Are you going to the supermarket today by any chance? \nWoman: I was just there yesterday. Why? \nMan: I suddenly remembered that I’m supposed to bring some drinks to my team’s lunch meeting \ntomorrow at work, and I’m in the middle of a project I need to finish tonight. \nWoman: You’re in luck. I stocked up yesterday.",
+      "questions": [
+        {
+          "text": "11. What is the man’s problem?",
+          "options": [
+            "He has nothing to eat for lunch.",
+            "He is unable to attend a meeting.",
+            "He forgot about an obligation at work.",
+            "He needs more resources to finish a project."
+          ]
+        },
+        {
+          "text": "12. What does the woman imply when she says, “I stocked up yesterday”?",
+          "options": [
+            "She does not plan to go to work tomorrow.",
+            "She will provide the man with drinks for his meeting.",
+            "The supermarket has plenty of drinks available.",
+            "The man will not need extra time to finish his project."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-PA-3",
+      "transcript": "Listen to an announcement at a university club meeting. \nAnnouncer: Welcome to the creative writing club's monthly meeting! Before we get started, I wanted to \nremind you of the guidelines for our upcoming short-story contest. We’re looking for stories on the theme \nof family, and all stories must be submitted by the end of November to be considered. Good luck to \neveryone participating!",
+      "questions": [
+        {
+          "text": "13. Why does the speaker mention family?",
+          "options": [
+            "It is the topic of the story they are reading.",
+            "It was discussed at last month’s meeting.",
+            "It is a contest theme.",
+            "Families are invited to the next meeting."
+          ]
+        },
+        {
+          "text": "14. What does the speaker encourage the participants to do?",
+          "options": [
+            "Observe the guidelines",
+            "Read last month’s submissions",
+            "Prepare for a presentation",
+            "Join the club’s mailing list"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M1-PA-4",
+      "transcript": "Listen to a talk in a physics class. \nProfessor: Dark matter is a type of matter that doesn’t emit, absorb, or reflect light, making it invisible to \ncurrent instruments. Despite being unobservable directly, it’s believed to make up about 27 percent of \nthe universe’s mass-energy content. How do scientists know dark matter exists? Well, all the stars in a \ngalaxy rotate around the center of their galaxy. According to basic physics, the farther a star is from the \ncenter of a galaxy, the slower it should rotate. However, observations show that stars in the outer regions \nof galaxies rotate at unexpectedly high speeds. This anomaly suggests that a massive, unseen matter is \nexerting gravitational force, keeping the stars moving faster than expected. \nDark matter is hugely important for the structure of the universe. Computer simulations show that \ngalaxies wouldn't have formed the way they did if dark matter hadn't been around. But what does dark \nmatter consist of? Well, there are different theories, so let's consider a couple of them.",
+      "questions": [
+        {
+          "text": "15. What is the main topic of the talk?",
+          "options": [
+            "How gravity affects stars",
+            "Material in the universe that cannot be directly seen",
+            "The distribution of stars in galaxies",
+            "The formation of the universe"
+          ]
+        },
+        {
+          "text": "16. According to the speaker, how do scientists infer the existence of dark matter?",
+          "options": [
+            "From the temperature of visible matter",
+            "From the amount of light in the universe",
+            "From the number of stars in galaxies",
+            "From the speed of stars' movement"
+          ]
+        },
+        {
+          "text": "17. Why does the speaker mention computer simulations?",
+          "options": [
+            "To support the claim that dark matter plays an important role in the universe",
+            "To describe how the gravitational forces acting on stars were calculated",
+            "To highlight the anomalies in basic physics",
+            "To explain how the speeds of stars were measured"
+          ]
+        },
+        {
+          "text": "18. What will the speaker most likely discuss next?",
+          "options": [
+            "Measurements of dark matter in galaxies",
+            "Ideas about dark matter’s composition",
+            "The anomalies in galaxy rotation caused by dark matter",
+            "The distribution of dark matter in the universe"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "B",
+          "D",
+          "A",
+          "A",
+          "A",
+          "A",
+          "D",
+          "C",
+          "C",
+          "C",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-PA-1",
+      "transcript": "Listen to a conversation. \nMan: Have you returned the books we borrowed from the library? \nWoman: Why? I thought we could keep them for six weeks. \nMan: Actually, it’s now four weeks. They changed the policy. I guess I forgot to tell you! \nWoman: That means they’re due tomorrow! \nMan: Exactly! \nWoman: In that case, I’ll take care of it right now!",
+      "questions": [
+        {
+          "text": "9. What was the woman not aware of?",
+          "options": [
+            "The library’s new location",
+            "The library’s borrowing policy",
+            "The library’s holiday schedule",
+            "The library’s hours of operation"
+          ]
+        },
+        {
+          "text": "10. What will the woman probably do next?",
+          "options": [
+            "Return books to the library",
+            "Make a phone call to the library",
+            "Pay a fine for returning books late",
+            "Borrow a new book from the library"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-PA-2",
+      "transcript": "Listen to an announcement on the campus radio station. \nAnnouncer: Good evening everyone. Just a friendly reminder that the university's annual charity auction \nwill take place tomorrow at 7 P.M. in the Main Hall. All proceeds will go to local charities. We hope to see \nyou there and appreciate your support!",
+      "questions": [
+        {
+          "text": "11. What is the main topic of the announcement?",
+          "options": [
+            "A new university event",
+            "A lecture on local charities",
+            "A change in venue",
+            "An upcoming fundraiser"
+          ]
+        },
+        {
+          "text": "12. What does the speaker hope the listeners will do?",
+          "options": [
+            "Attend an event",
+            "Prepare for a lecture",
+            "Donate online",
+            "Volunteer at an event"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-S2-L-M2-PA-3",
+      "transcript": "Listen to a talk in an environmental science class. \nProfessor: Biomimicry is the human practice of learning from and imitating things found in nature in order \nto create new inventions. This way, scientists and engineers can create innovative solutions that are both \nefficient and sustainable. \nOne well-known example of biomimicry is the development of a widely used fastening system. The \ninventor was inspired by the way burrs, uh thorns, from plants stuck to his dog’s fur. By replicating the \ntiny hooks found on the burrs he removed from the dog fur, he created the new fastening system. \nAnother example is the design of energy-efficient buildings based on the ventilation system of structures \ncreated by termites. Termites are ground-dwelling insects that use different materials to create hills, or \nmounds, in which the termites live. Termite mounds have a complex network of vents. The vents maintain \na stable internal temperature, which can be emulated in human architecture. \nBiomimicry can also be applied to renewable energy. For instance, researchers are developing wind \nturbine blades modeled after the flippers of humpback whales. The unique shape of the flippers reduces \ndrag and increases efficiency, leading to more effective wind energy capture.",
+      "questions": [
+        {
+          "text": "13. What is the talk mainly about?",
+          "options": [
+            "Ways in which humans use natural materials in clothing and architecture",
+            "Hiding strategies of different animals",
+            "New methods of using renewable energy",
+            "Examples of how humans imitate nature for practical purposes"
+          ]
+        },
+        {
+          "text": "14. Why does the speaker mention a dog?",
+          "options": [
+            "To illustrate how an inventor copied animal behavior",
+            "To compare its efficiency in movement with that of  humpback whales",
+            "To explain how a structure found in plants inspired an invention",
+            "To show the close bond between scientists and animals"
+          ]
+        },
+        {
+          "text": "15. What point does the speaker make about termite mounds?",
+          "options": [
+            "The temperature inside of them does not change much.",
+            "Termites sometimes build them near human-made structures.",
+            "Building them takes a lot of energy.",
+            "They are created mostly from plant material."
+          ]
+        },
+        {
+          "text": "16. What does the speaker imply about wind turbine blades that are being developed?",
+          "options": [
+            "The noise they create can be harmful to whales.",
+            "They can be easily installed on buildings.",
+            "They can be efficiently constructed from renewable materials.",
+            "They are very similar to some whales' flippers in shape."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "C",
+          "C",
+          "A",
+          "C",
+          "B",
+          "A",
+          "C",
+          "B",
+          "A",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-PA-1",
+      "transcript": "Listen to a conversation. \n \nWoman: Have you decided which gym to join? \n \nMan: I'm torn between the Nano Fitness Gym near my house and the Downtown Trainers gym near my \nwork. \n \nWoman: The second one might suit you. You'll enjoy working up some sweat right after sitting at your \ndesk in front of the computer all day, five days a week. \n \nMan: True. And Downtown Trainers has the better instructors and nicer equipment, too. But weekends is \nactually when I do most of my working out, and it’d be easier to do it near home than drive downtown.",
+      "questions": [
+        {
+          "text": "9. What kind of job does the man most likely have?",
+          "options": [
+            "Fitness instructor",
+            "Driver",
+            "Office worker",
+            "Equipment manufacturer"
+          ]
+        },
+        {
+          "text": "10. What does the man indicate about weekends?",
+          "options": [
+            "He sometimes needs to go to work on weekends.",
+            "He sometimes repairs equipment in his house on weekends.",
+            "He likes to exercise outdoors on weekends.",
+            "He exercises more on weekends than on other days."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-PA-2",
+      "transcript": "Listen to a conversation. \n \nMan: Did you manage to fix your computer? \n \nWoman: No, it's still acting up. I think I need professional help. \n \nMan: I know a great repair shop downtown. They fixed mine really quickly last month. \n \nWoman: Could you send me their contact information? \n \nMan: Sure, I'll email it to you right after this meeting.",
+      "questions": [
+        {
+          "text": "11. Why does the woman need professional help?",
+          "options": [
+            "Her computer is not working properly.",
+            "She needs to choose a new computer.",
+            "She needs new software on her computer.",
+            "She has lost access to her email."
+          ]
+        },
+        {
+          "text": "12. What will the man do after the meeting?",
+          "options": [
+            "Offer the woman some advice",
+            "Call a downtown shop",
+            "Get his computer fixed",
+            "Share some contact information"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-PA-3",
+      "transcript": "Listen to an announcement on the campus radio station. \n \nMan: Hello everyone. We are excited to invite you to the annual science fair next Friday at 3 P.M. in the \nuniversity gym. There will be exhibits from various departments showcasing innovative projects in the \nfields of biology, physics, and chemistry. In addition, there will be lectures on scientific topics aimed at a \ngeneral audience. Don’t miss it!",
+      "questions": [
+        {
+          "text": "13. Who is the intended audience of the lectures?",
+          "options": [
+            "Science students",
+            "University professors",
+            "Everyone at the science fair",
+            "A panel of judges"
+          ]
+        },
+        {
+          "text": "14. What does the speaker hope the listeners will do?",
+          "options": [
+            "Attend an event",
+            "Submit a science project",
+            "Join the university gym",
+            "Volunteer for an event"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M1-PA-4",
+      "transcript": "Listen to a talk in an anthropology class. \n \nProfessor: The potlatch is a ceremonial event among Indigenous peoples of the Pacific Northwest coast of \nNorth America. A potlatch involves the host giving away their possessions, including food, blankets, and \neven money, to guests. \n \nThis practice serves multiple social functions, like redistributing wealth, reinforcing social bonds, and \nasserting status. Potlatches are often held to mark significant occasions, like weddings and such, and \nthey involve feasting, dancing, and storytelling. The lavishness of a potlatch can elevate the host’s status \nby demonstrating wealth and generosity. \n \nOne fascinating aspect of the potlatch is its role in the social and economic structures of the \ncommunities that practice it. By redistributing wealth, potlatches ensure that resources circulate within \nthe community, preventing the concentration of wealth in the hands of a few individuals. This practice \nstrengthens community ties and fosters mutual support. \n \nFor people who don't understand the function of potlatches, they may appear to be a waste of resources. \nPotlatches were even prohibited by the Canadian government in the late-nineteenth century because of \nthis perceived wastefulness. The ban was lifted in the mid-twentieth century, and today, potlatches \ncontinue to be an important cultural practice. Let's now examine how Indigenous communities have \nrevived this practice.",
+      "questions": [
+        {
+          "text": "15. What aspect of the Indigenous peoples of the Northwest coast of North America is the talk \nmainly about?",
+          "options": [
+            "Their economic structures",
+            "A traditional event that they participate in",
+            "Their relationship with the Canadian government",
+            "The role of dancing and storytelling in their social functions"
+          ]
+        },
+        {
+          "text": "16. What can a host gain from a potlatch?",
+          "options": [
+            "Food",
+            "Money",
+            "Items like blankets",
+            "Social status"
+          ]
+        },
+        {
+          "text": "17. What does the speaker imply about the Canadian government of the late-nineteenth century?",
+          "options": [
+            "It was not aware of the social function of potlatches.",
+            "It wanted Indigenous people to include other Canadians in potlatches.",
+            "Its policies contributed to economic growth.",
+            "It was extremely wasteful."
+          ]
+        },
+        {
+          "text": "18. What aspect of potlatches will the speaker discuss next?",
+          "options": [
+            "The ways in which communities brought them back",
+            "The countries that ban them",
+            "Their effect on wealth distribution",
+            "Their possible future"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "A",
+          "D",
+          "B",
+          "C",
+          "B",
+          "C",
+          "D",
+          "A",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "A",
+          "A"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-PA-1",
+      "transcript": "Listen to a conversation. \n \nWoman: Did you finish setting up the new online store? \n \nMan: Almost. There's just a few more product descriptions to write. \n \nWoman: Do you need any help with that? I know the stuff we sell pretty intimately. \n \nMan: Thank you! I'd love to collaborate with you on this. Would you like to meet in my office after lunch? \n \nWoman: Later in the afternoon would be safer. I have a lunch-time meeting with our newest client today, \nand I don't know how long that's gonna last.",
+      "questions": [
+        {
+          "text": "9. What does the woman offer to help with?",
+          "options": [
+            "Deciding which products to sell",
+            "Finding new clients",
+            "Producing goods",
+            "Describing items for sale"
+          ]
+        },
+        {
+          "text": "10. Why does the woman mention a client?",
+          "options": [
+            "To emphasize the need for an online store",
+            "To propose a strategy for increasing sales",
+            "To illustrate the importance of collaboration",
+            "To explain why she prefers not to plan a meeting after lunch"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-PA-2",
+      "transcript": "Listen to an announcement in a classroom. \n \nMan: Attention everyone. Several students have added this class in recent weeks, and as you can see, it is \na bit crowded in here. So starting next week, our class will meet in Room 204 instead of Room 105. Room \n204 is in the same building, but one floor up in the east wing. Please remember the change and arrive on \ntime.",
+      "questions": [
+        {
+          "text": "11. What is the reason for the change described in the announcement?",
+          "options": [
+            "Repairs to a classroom",
+            "Increased class enrollment",
+            "A change in meeting time",
+            "An additional assignment"
+          ]
+        },
+        {
+          "text": "12. Why does the speaker mention the east wing?",
+          "options": [
+            "To announce the location of an event",
+            "To notify students of upcoming repairs",
+            "To direct students to the professor’s office",
+            "To help students find a classroom"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T1-L-M2-PA-3",
+      "transcript": "Listen to a talk in an economics class. \n \nProfessor: Today, we are going to talk about the concept of the gig economy. The gig economy is a labor market \ncharacterized by short-term contracts or freelance work, as opposed to permanent jobs. It has gained significant \ntraction in recent years because of technological advancements and the rise of digital platforms like ride-sharing \napps and freelance websites. \n \nIn a gig economy, workers typically take on multiple short-term jobs or projects, and they often do so through online \nplatforms that connect them directly with clients. This can offer greater flexibility compared to traditional \nemployment, as workers can choose when and where they wanna work. Companies benefit from the gig economy \nby reducing overhead costs associated with full-time employees, like for office space. This allows them to vary their \nworkforce according to demand, which can be particularly useful during peak seasons or for specific projects. \n \nOn the other hand, gig workers may face difficulties in securing consistent work and may have to juggle multiple \ngigs to make a living. Next, we will discuss potential regulatory responses to protect gig workers and after that: the \nimplications of the gig economy on traditional labor markets.",
+      "questions": [
+        {
+          "text": "13. What is the main topic of the talk?",
+          "options": [
+            "The advantages of traditional employment",
+            "The benefits of using apps instead of websites",
+            "A new type of work tied to advances in technology",
+            "A plan to restructure contract work"
+          ]
+        },
+        {
+          "text": "14. Why does the speaker mention ride-sharing apps and freelance websites?",
+          "options": [
+            "To give examples of digital platforms in the gig economy",
+            "To explain a problem with overhead costs",
+            "To discuss how work conditions for gig workers have improved",
+            "To illustrate technologies used both by companies and by their customers"
+          ]
+        },
+        {
+          "text": "15. According to the speaker, what is a challenge for gig workers?",
+          "options": [
+            "High overhead costs",
+            "Limited flexibility",
+            "Lack of a stable income",
+            "Little office space"
+          ]
+        },
+        {
+          "text": "16. What will the speaker discuss next?",
+          "options": [
+            "The challenges of digital platforms for gig workers",
+            "The efforts of regulators to protect gig workers",
+            "The types of labor markets with many gig workers",
+            "The advantages of flexible working hours for gig workers"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "A",
+          "B",
+          "D",
+          "C",
+          "C",
+          "A",
+          "D",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "C",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-PA-1",
+      "transcript": "Listen to a conversation. \n \nMan: Going to the farmers market on Saturday? \nWoman: Yes, I need to pick up some fresh vegetables. \nMan: Me too. I love the produce there. I wish it were closer to downtown though. \nWoman: Yeah, changing two bus lines is a bit much. \nMan: Maybe let's try to recruit Michael and Sarah to come with us. Taking a rideshare wouldn't be so \nexpensive if we split the fare among the four of us. \nWoman: That's a thought. Though I'm pretty sure the two of them are going to a wedding this Saturday.",
+      "questions": [
+        {
+          "text": "9. What do the speakers dislike about the farmers market?",
+          "options": [
+            "Its location is inconvenient.",
+            "Its supply of vegetables is limited.",
+            "It is often closed on Saturdays.",
+            "It can be expensive."
+          ]
+        },
+        {
+          "text": "10. Why does the woman mention a wedding?",
+          "options": [
+            "To make a point about rideshare prices",
+            "To explain why she needs to buy vegetables",
+            "To invite the man to an event",
+            "To identify a problem with the man's plan"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-PA-2",
+      "transcript": "Listen to a conversation. \n \nMan: Are you going to the book club meeting tonight? \nWoman: I haven't finished the book yet. \nMan: That's OK! And yeah, Jake Homgren's novels can be a slog sometimes. But the philosophical insights \nin them are fascinating. \nWoman: Maybe if I hear other club members’ perspectives, it'll help me follow the book better and make \nthe reading go faster. \nMan: This was exactly my experience when we discussed Chen Wang's poems last week.",
+      "questions": [
+        {
+          "text": "11. What do the speakers imply about the book that will be discussed tonight?",
+          "options": [
+            "It provides diverse perspectives.",
+            "It is less philosophical than its author's other books.",
+            "It is very popular among book club members.",
+            "It is difficult to understand."
+          ]
+        },
+        {
+          "text": "12. What does the man say about Chen Wang's poems?",
+          "options": [
+            "They are similar to novels in some ways.",
+            "They lack philosophical insights.",
+            "He could read them more quickly after a book club discussion.",
+            "A book of them took him a week to read."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-PA-3",
+      "transcript": "Listen to an announcement on the campus radio station. \n \nMan: Good afternoon, everyone. Just a reminder that the annual Spring Festival will be held this Saturday \nto celebrate the coming warm weather and the end of the school year. It will take place on the main \ncampus lawn from 1 to 4 P.M.. There will be food stands, games, and, from 3 to 4 P.M., live music from \nstudent bands. We hope you all can join us for a fun-filled day!",
+      "questions": [
+        {
+          "text": "13. What is the purpose of the event?",
+          "options": [
+            "To support professional musicians",
+            "To raise funds",
+            "To increase awareness of an issue",
+            "To celebrate spring"
+          ]
+        },
+        {
+          "text": "14. What can students do during the last hour of the event?",
+          "options": [
+            "Listen to music",
+            "Attend lectures",
+            "Watch a sports competition",
+            "Purchase arts and crafts"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M1-PA-4",
+      "transcript": "Listen to a talk in a psychology class. \n \nProfessor: The bystander effect is a social psychological theory according to which individuals are less \nlikely to offer help to a victim when other people are present. The theory was first proposed by \nresearchers in the 1960s, based on observations. The bystander effect can be explained through two \nprimary factors: diffusion of responsibility and social influence. Diffusion of responsibility occurs when \npeople believe that someone else will take action, and so they feel less personal responsibility. Social \ninfluence involves looking to others for cues on how to behave, especially in ambiguous situations. If \nothers are not helping, individuals may interpret the situation as non-emergency and refrain from \nintervening.  \n \nMore recent studies, however, have disputed the claim that the presence of more bystanders can \ndecrease the likelihood of assistance. One study from 2019 that analyzed video footage from multiple \ncities found that in 9 out of 10 incidents, at least one bystander did take action to help. This study found \nthat a bystander was actually more likely to intervene when more bystanders were present. Some factors \nthat may influence bystander behavior include the level of danger and whether bystanders know each \nother.",
+      "questions": [
+        {
+          "text": "15. What is the main topic of the talk?",
+          "options": [
+            "How a social psychological theory was developed",
+            "How the presence of others can affect a decision",
+            "How to help people in different emergencies",
+            "How to identify emergency situations"
+          ]
+        },
+        {
+          "text": "16. According to the talk, how might social influence affect an individual's behavior?",
+          "options": [
+            "A person may interpret a situation as less urgent if no one around them intervenes.",
+            "A person may be unwilling to be the first to act.",
+            "An individual is more likely to act to impress the others in the group.",
+            "An individual is less likely to act when specifically asked to do so."
+          ]
+        },
+        {
+          "text": "17. Why does the speaker discuss a study from 2019?",
+          "options": [
+            "To illustrate how new technologies have improved social psychological research",
+            "To provide evidence that challenges earlier research",
+            "To support the idea that it is dangerous for bystanders to offer help",
+            "To argue that not many bystanders are willing to help"
+          ]
+        },
+        {
+          "text": "18. What is NOT mentioned as a factor that influences bystander behavior?",
+          "options": [
+            "The number of bystanders",
+            "The degree of danger",
+            "The location of the incident",
+            "The familiarity of bystanders to one another"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "C",
+          "D",
+          "A",
+          "B",
+          "C",
+          "B",
+          "D",
+          "C",
+          "A",
+          "D",
+          "D",
+          "C",
+          "D",
+          "A",
+          "B",
+          "A",
+          "B",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-PA-1",
+      "transcript": "Listen to a conversation. \n \nWoman: How are preparations for tomorrow’s meeting with the board coming along. Is your marketing \npresentation all set? \n \nMan: Almost. I’ve finalized the slides, but I still need to print the handouts—and the printer’s acting up. \n \nWoman: Again? That’s the third time this week. Do you want me to check it out? The last couple of times I \nhad an issue, I managed to get it working again. \n \nMan: That would be great. I’ve already tried fiddling with it, but no luck. \n \nWoman: I’ll head down to the copy room right now and see what I can do.",
+      "questions": [
+        {
+          "text": "9. What problem are the speakers discussing?",
+          "options": [
+            "A computer file is not opening.",
+            "A piece of equipment is not working.",
+            "A presentation time has been changed.",
+            "Some slides are not displaying properly."
+          ]
+        },
+        {
+          "text": "10. What does the woman offer to do?",
+          "options": [
+            "Attempt to repair a printer",
+            "Review the man's handouts",
+            "Help the man practice a presentation",
+            "Make copies of the man's presentation"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-PA-2",
+      "transcript": "Listen to an announcement in a student lounge. \n \nMan: Attention everyone! The student lounge will be closed next week from Monday to Friday for \nrenovations. Please use the library or other study areas during this time. We apologize for any \ninconvenience.",
+      "questions": [
+        {
+          "text": "11. What is the main purpose of the announcement?",
+          "options": [
+            "To request help with renovations",
+            "To apologize for the inconvenience",
+            "To announce the availability of new study areas",
+            "To inform students about lounge closure"
+          ]
+        },
+        {
+          "text": "12. What are students advised to do during the lounge closure?",
+          "options": [
+            "Request alternative study spaces",
+            "Schedule meetings elsewhere",
+            "Use the library or other study areas",
+            "Participate in renovation activities"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T2-L-M2-PA-3",
+      "transcript": "Listen to a talk in an economics class. \n \nProfessor:  Behavioral economics is a field that combines insights from psychology and economics to \nunderstand how people make economic decisions. Unlike traditional economics, which assumes that \nindividuals act rationally, behavioral economics recognizes that people often behave irrationally due to \ncognitive biases and emotional factors. \n \nOne key concept in behavioral economics is the idea of heuristics, which are mental shortcuts that people \nuse to make decisions quickly. While heuristics can be helpful, they can also lead to systematic errors in \njudgment. For example, the availability heuristic causes people to overestimate the likelihood of events \nthat are widely reported, such as plane crashes, while underestimating more common risks like car \naccidents. Another important concept is loss aversion, which suggests that people experience the pain of \nloss more intensely than the pleasure of gain. This can lead to risk-averse behavior, where individuals are \nmore likely to avoid losses than to pursue equivalent gains. For instance, investors might hold onto losing \nstocks for too long, hoping they will rebound, rather than cutting their losses. \n \nUnderstanding these and other behavioral biases can help policymakers design better economic policies \nand interventions. Next, we will examine how nudges, or subtle changes in the way choices are presented, \ncan help people reach better decisions.",
+      "questions": [
+        {
+          "text": "13. What is the main topic of the talk?",
+          "options": [
+            "How the field of behavioral economics developed over time",
+            "Why an assumption in traditional economics is not always correct",
+            "Some examples of unusual human behavior",
+            "The role of policymakers in economics"
+          ]
+        },
+        {
+          "text": "14. According to the speaker, what is a problem with using heuristics?",
+          "options": [
+            "They do not allow decisions to be made quickly.",
+            "They can result in mistakes in judgment.",
+            "They ignore the emotional consequences of actions.",
+            "They cause people to focus too much on gains."
+          ]
+        },
+        {
+          "text": "15. Why does the speaker mention stocks?",
+          "options": [
+            "To provide an example of people's desire to avoid losses",
+            "To highlight the pleasure of gains",
+            "To describe the importance of rational decision-making",
+            "To discuss the benefits of heuristics."
+          ]
+        },
+        {
+          "text": "16. What will the speaker most likely discuss next?",
+          "options": [
+            "A popular practice among investors",
+            "A method that economists use to examine human behavior",
+            "An example of an intervention by policymakers",
+            "A way of helping people improve their decision-making"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "Number",
+          "B",
+          "D",
+          "A",
+          "C",
+          "C",
+          "A",
+          "D",
+          "C",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "B",
+          "A",
+          "D"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M1-PA-1",
+      "transcript": "Listen to a conversation.\n \nMan: I just got an email saying that the company picnic at Emerald Park has been \nrescheduled. \n \nWoman: Oh, really? How come? \n \nMan: Apparently the forecast is terrible next Wednesday... heavy rain. \n \nWoman: Oh, that makes sense. Did they mention the new date? \n \nMan: Yes, this Saturday, the tenth. \n \nWoman: I’ll mark my calendar. I’m looking forward to having some food in good company.",
+      "questions": [
+        {
+          "text": "9.  Why was an event rescheduled?",
+          "options": [
+            "Because of the weather",
+            "Because a park will be closed",
+            "Because of a schedule conflict",
+            "Because Saturday is a day off"
+          ]
+        },
+        {
+          "text": "10.  What will the speakers do this Saturday?",
+          "options": [
+            "Go hiking in a park",
+            "Socialize with their coworkers",
+            "Go to a restaurant",
+            "Discuss the new schedule\nListening Section, Module 1"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "A",
+          "D",
+          "A",
+          "B",
+          "C",
+          "C",
+          "C",
+          "C",
+          "A",
+          "B",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "A",
+          "D",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-PA-1",
+      "transcript": "Listen to a conversation. \n \nWoman: Are you all set for your presentation tomorrow? \n \nMan: Almost. I still need to finalize my slides and add a couple more visuals to make it \nengaging. \n \nWoman: If you need any help, let me know. I'm done with mine already. \n \nMan: Well, it'd be helpful for me to practice my speech in front of someone... \n \nWoman: I'm free at 4:30, if you want to come by my office. \n \nMan: Thanks! I appreciate it. I'd love to get your thoughts before I deliver it to the full \naudience tomorrow.",
+      "questions": [
+        {
+          "text": "9. What does the man still need to do for his presentation?",
+          "options": [
+            "Print handouts for the audience",
+            "Finish preparing the visual elements",
+            "Write his speech",
+            "Notify his colleagues about it"
+          ]
+        },
+        {
+          "text": "10. What will the man most likely do this afternoon?",
+          "options": [
+            "Practice his speech",
+            "Deliver his presentation to a group",
+            "Review the woman's presentation",
+            "Express his appreciation\nListening Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-PA-2",
+      "transcript": "Listen to an announcement on a campus radio station.\n \nMan: Environmentally minded students will be happy to know that compost collection \nbins have been placed next to every paper and plastic recycling receptacle in the \nstudent center food court. Now, any uneaten food can be placed into a compost bin.  \nThe contents of the bins are collected daily by agriculture students who are \ntransforming our food waste into plant food through the process of composting.     \nPlease do your part to keep our campus sustainable through recycling and composting.",
+      "questions": [
+        {
+          "text": "11.  According to the talk, what do agriculture students do each day?",
+          "options": [
+            "Place composting bins around the campus",
+            "Water plants at the student center",
+            "Recruit volunteers for a recycling program",
+            "Empty the contents of compost containers"
+          ]
+        },
+        {
+          "text": "12.  What should be placed in the new bins?",
+          "options": [
+            "Plastic bottles",
+            "Paper products",
+            "Food waste",
+            "Metal cans\nListening Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T3-L-M2-PA-3",
+      "transcript": "Listen to a talk in a chemistry class.\n \nWoman: Today, I want to talk about a fascinating topic in chemistry: catalysts—\nsubstances that speed up chemical reactions without being used up. Think of them as \nhelpful assistants that make reactions happen faster and more efficiently, while staying \nunchanged. This means they don’t become part of the final product, so they can be \nreused again and again in multiple reactions. Catalysts are everywhere. In our bodies, \nenzymes act as natural catalysts, helping with digestion and metabolism. In industry, \nthey’re essential for making plastics, medicines, and fuels. What makes catalysts \npowerful is that they lower the energy needed for a reaction to happen. Imagine baking  \na cake: the recipe says to heat the oven to 400°F, but someone gives you a special pan \nthat lets it bake perfectly at 300°F. That pan is like a catalyst—it helps the ingredients \nbecome a cake, a product, using less energy. Now, let’s look at something even more \nadvanced: nanozymes. These are tiny, artificial materials that mimic enzymes. They’re \nmore stable in harsh conditions like heat or acidity, cheaper to produce, and can be \ntailored for specific tasks. For example, nanozymes are used in environmental cleanup \nefforts. They can break down harmful pollutants in extreme conditions—like polluted \nwater or industrial waste—things like pesticides, dyes, or heavy metals—turning them \ninto safer, less toxic substances.",
+      "questions": [
+        {
+          "text": "13. What is the main topic of the talk?",
+          "options": [
+            "How a chemical reaction progresses from start to finish",
+            "The role of catalysts in chemical reactions",
+            "Materials used in the production of nanozymes",
+            "The importance of enzymes in digestion"
+          ]
+        },
+        {
+          "text": "14. What point does the professor make about the unchanging nature of catalysts?",
+          "options": [
+            "It makes them easier to produce in laboratories.",
+            "It causes them to lack flexibility.",
+            "It allows them to be used repeatedly.",
+            "It makes them inefficient for some complex chemical processes."
+          ]
+        },
+        {
+          "text": "15.  Why does the professor mention a cake?",
+          "options": [
+            "To show how catalysts make reactions occur with less energy",
+            "To point out a common problem with  digestion",
+            "To illustrate how certain enzymes produce high temperatures",
+            "To explain how chemical reactions can influence cake flavor\nListening Section, Module 2"
+          ]
+        },
+        {
+          "text": "16. What does the example of environmental cleanup reveal about nanozymes?",
+          "options": [
+            "They are expensive to produce.",
+            "They can be found abundantly in nature.",
+            "They perform reliably in extreme settings.",
+            "They are most effective at breaking down plastics."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "A",
+          "D",
+          "B",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "D",
+          "C",
+          "B",
+          "C",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M1-PA-1",
+      "transcript": "Listen to a conversation.\n \nMan: I’ve been having trouble with my car lately. It makes a weird sound every time I \nstart it. \n \nWoman: That's annoying. Have you taken it to get checked out? \n \nMan: Not yet. I’m planning to go tomorrow. \n \nWoman: That’s a good idea. It might be something minor, but it's better to be safe. \n \nMan: Exactly. I just pray it doesn't cost me an arm and a leg. And I hope to get my car \nback by Sunday. I need to pick up my mother at the airport then.\n\nWoman: Fingers crossed!",
+      "questions": [
+        {
+          "text": "9.  What problem is the man having with his car?",
+          "options": [
+            "It cannot start.",
+            "It makes a strange noise.",
+            "It is unable to move fast.",
+            "It is unsafe to drive."
+          ]
+        },
+        {
+          "text": "10.  What does the man imply at the end of the conversation?",
+          "options": [
+            "He wants to buy a new car.",
+            "He needs his car for an important errand he must do.",
+            "He needs advice about a mechanic to use.",
+            "He hopes an issue is minor.\nListening Section, Module 1"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "A",
+          "A",
+          "C",
+          "D",
+          "C",
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "A",
+          "C",
+          "D",
+          "B",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-PA-1",
+      "transcript": "Listen to a conversation. \n \nMan: I’ve been eyeing the new gym downtown… \n \nWoman: Have you checked their facilities? \n \nMan: Yes, they have modern equipment and offer various classes. \n \nWoman: Are the prices reasonable? \n \nMan: The daily use fees are higher than I expected. So maybe I’ll get a long-term \nmembership instead. \n \nWoman: Well, if you think you’ll go regularly… \n \nMan: Yeah, the fitness book I’m reading says that’s the way to get in shape anyway.",
+      "questions": [
+        {
+          "text": "9. What did the man dislike about the new gym?",
+          "options": [
+            "The location",
+            "The facilities",
+            "The equipment",
+            "The prices for one-time use"
+          ]
+        },
+        {
+          "text": "10. Why does the man mention a book?",
+          "options": [
+            "To offer a reading suggestion for the woman",
+            "To explain how he found out about the new gym",
+            "To give an extra reason for getting a long-term membership",
+            "To point out that there are many different ways to get in shape\nListening Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-PA-2",
+      "transcript": "Listen to an announcement on a campus radio station.\n \nMan: Due to some recent changes in university policy, we need everyone to update \ntheir contact information in the student portal. Doing so will ensure that you receive \nimportant notifications, including about class cancellations and emergency alerts. \nPlease complete the update by the end of this week. Don't take a chance on missing \nout on critical information.",
+      "questions": [
+        {
+          "text": "11.  Why does the speaker mention class cancellations and emergency alerts?",
+          "options": [
+            "To inform students about recent policy changes",
+            "To emphasize the importance of updating contact information",
+            "To promote a new program on personal health",
+            "To point out that classes are often canceled because of bad weather"
+          ]
+        },
+        {
+          "text": "12.  What does the speaker imply when he says, \"Don't take a chance on missing out \non critical information\"?",
+          "options": [
+            "Students should makes updates quickly.",
+            "Class attendance is mandatory.",
+            "The portal can be difficult to navigate.",
+            "Important information has just been posted.\nListening Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T4-L-M2-PA-3",
+      "transcript": "Listen to a talk in a chemistry class.\n \nWoman: Today we’re discussing the notion of the ecological footprint, something that \nmeasures the impact of human activities on the environment uh, in terms of the amount \nof natural resources we consume and the waste we generate. The ecological footprint is \noften expressed in terms of number of global hectares. This number represents the total \narea of biologically productive land or water needed in order to support human activity.\nIt considers various factors, including carbon emissions, food consumption, water usage, \nand land development. One primary component of the ecological footprint is the carbon \nfootprint, which measures the amount of greenhouse gases emitted due to \nconsumption of fossil fuels like petroleum and coal. High carbon footprints contribute \nsignificantly to global warming. Another important aspect is our consumption of natural \nresources like water and food, which can lead to resource depletion and environmental \ndegradation. The concept of ecological footprint is crucial for understanding and \naddressing the sustainability of human activities. By measuring our ecological footprint, \nindividuals, companies, and even whole countries can identify areas where they can \nreduce their impact on the environment. This could include adopting practices like \nrecycling, conserving water, using renewable energy, and reducing waste.",
+      "questions": [
+        {
+          "text": "13. What is the main topic of the talk?",
+          "options": [
+            "Replacing fossil fuels with more sustainable energy sources",
+            "A way of measuring the effects of human activities on the environment",
+            "How fossil fuel use leads to global warming",
+            "The importance of water conservation to a sustainable future"
+          ]
+        },
+        {
+          "text": "14. According to the speaker, the ecological footprint is expressed in terms of",
+          "options": [
+            "area of land and water needed",
+            "amount of greenhouse gas produced",
+            "global temperature increase",
+            "number of natural resources consumed"
+          ]
+        },
+        {
+          "text": "15.  What does the speaker say about the carbon footprint?",
+          "options": [
+            "It primarily applies to industrial activities.",
+            "It includes tracking the biodiversity of an ecosystem.",
+            "It is a component of the ecological footprint.",
+            "It considers the number of vehicles in a given area.\nListening Section, Module 2"
+          ]
+        },
+        {
+          "text": "16. What is one cause of resource depletion that the speaker mentions?",
+          "options": [
+            "Environmental policies",
+            "Food consumption",
+            "Generation of waste",
+            "Carbon emissions"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "C",
+          "B",
+          "C",
+          "A",
+          "C",
+          "A",
+          "C",
+          "D",
+          "D",
+          "C",
+          "B",
+          "A",
+          "B",
+          "A",
+          "C",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M1-PA-1",
+      "transcript": "Listen to a conversation.\n \nWoman: My lease is up at the end of the month. \n \nMan: Have you started looking for a new apartment to rent yet? \n \nWoman: Yes, but I haven’t found anything that I like. \n \nMan: Have you tried looking downtown? Now that they’ve finally finished building the \ngiant new hotel there, it’s a much cleaner and quieter area. \n \nWoman: That’s a good idea. I’ll check online tonight.",
+      "questions": [
+        {
+          "text": "9.  What is the woman trying to do?",
+          "options": [
+            "Find a new job",
+            "Rent a new apartment",
+            "Renew a lease",
+            "Book a hotel room"
+          ]
+        },
+        {
+          "text": "10.  What does the man imply when he mentions a new hotel?",
+          "options": [
+            "The woman should book a room in the new hotel.",
+            "The woman should check information about the new hotel online.",
+            "Downtown apartments are very expensive.",
+            "The downtown area was not a nice place to live until recently.\nListening Section, Module 1"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "A",
+          "B",
+          "D",
+          "D",
+          "C",
+          "D",
+          "C",
+          "A",
+          "B",
+          "D",
+          "B",
+          "B",
+          "A",
+          "D",
+          "B",
+          "D",
+          "A",
+          "B"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-PA-1",
+      "transcript": "Listen to a conversation. \n \n(M-Can) What main dish should we prepare for our dinner party this weekend? \n \n(W-Br) The steak we ate at your parents’ place last week was fabulous. We could do \nsomething similar. \n \n(M-Can) Hmm, I don’t think the Johnsons eat meat. I was thinking more along the lines \nof veggie lasagna. \n \n(W-Br) Oh, I do have a great recipe for that actually. \n \n(M-Can) We have a winner then. I’ll need the list of ingredients for my trip to the \nsupermarket tonight.",
+      "questions": [
+        {
+          "text": "9. Why does the woman mention the man’s parents?",
+          "options": [
+            "To identify people that should be invited",
+            "To request an item from the supermarket",
+            "To explain the source of a lasagna recipe",
+            "To propose a dish for a party"
+          ]
+        },
+        {
+          "text": "10. What will the man most likely do in the evening?",
+          "options": [
+            "Buy some food",
+            "Speak with the Johnsons",
+            "Cook steak",
+            "Visit his parents\nListening Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-PA-2",
+      "transcript": "Listen to an announcement on a campus radio station.\n \nMan: Tickets for this year's spring music extravaganza at Gladstone Auditorium are now \navailable for purchase online and at the student union box office. As always, the event \nwill feature a lineup of your fellow students performing music from various genres, \nincluding rock, jazz, and country. This year features a special guest performer, \ninternationally renowned cellist Ben Bernal, who graduated from our university twenty \nyears ago. Tickets are expected to sell out quickly, so make sure to get yours today.",
+      "questions": [
+        {
+          "text": "11.  What is the main topic of the announcement?",
+          "options": [
+            "A new process for ordering tickets",
+            "A survey of student music preferences",
+            "A change of venue for concert",
+            "An upcoming musical performance"
+          ]
+        },
+        {
+          "text": "12.  What is different about this year's event?",
+          "options": [
+            "It will be held outdoors.",
+            "It will include a performance by a former student.",
+            "It will focus on music from various countries.",
+            "It will feature dance performances.\nListening Section, Module 2"
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    },
+    {
+      "id": "ETS-T5-L-M2-PA-3",
+      "transcript": "Listen to a talk in an environmental science class.\n \nMan: Today, we’re discussing the concept of the carbon footprint and its implications for \nenvironmental sustainability. A carbon footprint measures the total amount of \ngreenhouse gases produced directly and indirectly by human activities, usually \nexpressed in equivalent tons of carbon dioxide. This includes emissions from activities \nsuch as driving a car, using electricity, and manufacturing goods. \nThe importance of understanding our carbon footprint lies in its impact on global \nwarming and climate change. Greenhouse gases trap heat in the atmosphere, leading \nto rising global temperatures, melting ice caps, and more extreme weather events. \nBy measuring our carbon footprint, we can identify the main sources of emissions and \ntake steps to reduce them. For instance, individuals can lower their carbon footprint by \nopting for public transportation, using energy-efficient appliances, and reducing meat \nconsumption, since livestock farming is a significant source of methane emissions, \na potent greenhouse gas. \n \nBusinesses can also play a crucial role by adopting sustainable practices like using \nrenewable energy sources, improving energy efficiency, and minimizing waste. \nMoreover, governments can implement policies that promote carbon reduction, \nsuch as setting emissions targets, providing incentives for green technologies, and \ninvesting in sustainable infrastructure. Reducing our carbon footprint is essential for \nmitigating climate change and promoting a healthier planet for future generations. It \nrequires collective effort and awareness to make meaningful progress.",
+      "questions": [
+        {
+          "text": "13. What is the main topic of the talk?",
+          "options": [
+            "The effects of global warming",
+            "The concept of the carbon footprint",
+            "The benefits of renewable energy",
+            "The role of governments in sustainability"
+          ]
+        },
+        {
+          "text": "14. According to the talk, what can individuals do to lower their carbon footprint?",
+          "options": [
+            "Increase meat consumption",
+            "Use public transportation",
+            "Manufacture more goods",
+            "Trap heat in the atmosphere"
+          ]
+        },
+        {
+          "text": "15.  Why does the speaker mention livestock farming?",
+          "options": [
+            "To explain a source of methane emissions",
+            "To discuss public transportation options",
+            "To highlight energy-efficient practices",
+            "To illustrate the impact of manufacturing goods\nListening Section, Module 2"
+          ]
+        },
+        {
+          "text": "16. What can be inferred about the role of governments in reducing carbon \nfootprints?",
+          "options": [
+            "They can only set emissions targets.",
+            "They are the primary source of greenhouse gases.",
+            "They can implement policies to promote carbon reduction.",
+            "They have a minimal impact on sustainability."
+          ]
+        }
+      ],
+      "keys": {
+        "raw_keys": [
+          "B",
+          "A",
+          "A",
+          "B",
+          "D",
+          "D",
+          "B",
+          "D",
+          "D",
+          "A",
+          "D",
+          "B",
+          "B",
+          "B",
+          "A",
+          "C"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,286 @@
+{
+  "id": "ielts-r-0142",
+  "slug": "economic-evolution",
+  "title": "Economic Evolution",
+  "page_range": [
+    724,
+    728
+  ],
+  "raw_answer_key": {
+    "1": "NOT",
+    "8": "E GIVEN",
+    "2": "FALSE",
+    "9": "COMPLEXITY",
+    "10": "EVOLUTION AND",
+    "3": "TRUE ECONOMICS",
+    "11": "COMPLEX ADAPTIVE",
+    "4": "TRUE SYSTEMS",
+    "5": "NOT",
+    "12": "RANDOM GENETIC GIVEN MUTATIONS",
+    "6": "C",
+    "13": "PERMUTATIONS",
+    "7": "C"
+  },
+  "content": {
+    "title": "Economic Evolution",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Living along the Orinoco River that borders Brazil and Venezuela are the Yanomami people, hunter-gatherers whose average annual income has been estimated at the equivalent of $90 per person per year. Living along the Hudson River that borders New York State and New Jersey are the Manhattan people, consumer traders whose average annual income has been estimated at $36,000 per person per year. That dramatic difference of 400 times, however, pales in comparison to the differences in Stock Keeping Units (SKUs, a measure of the number of types of retail products available), which has been estimated at 300 for the Yanomami and 10 billion for the Manhattans, a difference of 33 million times."
+      },
+      {
+        "label": "B",
+        "content": "How did this happen? According to economist Eric D. Beinhocker, who published these calculations in his revelatory work The Origin of Wealth (Harvard Business School Press, 2006), the explanation is to be found in complexity theory. Evolution and economics are not just analogous to each other, but they are actually two forms of a larger phenomenon called complex adaptive systems, in which individual elements, parts or agents interact, then process information and adapt their behaviour to changing conditions. Immune systems, ecosystems, language, the law and the Internet are all examples of complex adaptive systems."
+      },
+      {
+        "label": "C",
+        "content": "In biological evolution, nature selects from the variation produced by random genetic mutations and the mixing of parental genes. Out of that process of cumulative selection emerges complexity and diversity. In economic evolution, our material economy proceeds through the production and selection of numerous permutations of countless products. Those 10 billion products in the Manhattan village represent only those variations that made it to market, after which there is a cumulative selection by consumers in the marketplace for those deemed most useful: VHS over Betamax, DVDs over VHS, CDs over vinyl records, flip phones over brick phones, computers over typewriters, Google over Altavista, SUVs over station wagons, paper books over e-books (still), and Internet news over network news (soon). Those that are purchased “survive” and “reproduce” into the future through repetitive use and remanufacturing."
+      },
+      {
+        "label": "D",
+        "content": "As with living organisms and ecosystems, the economy looks designed—so just as Humans naturally deduce the existence of a top-down intelligent designer, humans also (understandably) infer that a top-down government designer is needed in nearly every aspect of the economy. But just as living organisms are shaped from the bottom up by natural selection, the economy is moulded from the bottom up by the invisible hand. The correspondence between evolution and economics is not perfect, because some top-down institutional rules and laws are needed to provide a structure within which free and fair trade can occur. But too much top-down interference into the marketplace makes trade neither free nor fair. When such attempts have been made in the past, they have failed—because markets are far too complex, interactive and autocatalytic to be designed from the top down. In his 1922 book, Socialism, Ludwig Von Mises spelt out the reasons why most notably the problem of “economic calculation” in a planned socialist economy. In capitalism, prices are in constant and rapid flux and are determined from below by individuals freely exchanging in the marketplace. Money is a means of exchange, and prices are the information people use to guide their choices. Von Mises demonstrated that socialist economies depend on capitalist economies to determine what prices should be assigned to goods and services. And they do so cumbersomely and inefficiently. Relatively free markets are, ultimately, the only way to find out what buyers are willing to pay and what sellers are willing to accept."
+      },
+      {
+        "label": "E",
+        "content": "Economics helps to explain how Yanomami-like hunter-gatherers evolved into Manhattan-like consumer traders. In the Nineteenth century French economist Frédéric Bastiat well captured the principle: “Where goods do not cross frontiers, armies will.” In addition to being fierce warriors, the Yanomami are also sophisticated traders, and the more they trade the less they fight. The reason is that trade is a powerful social adhesive that creates political alliances. One village cannot go to another village and announce that they are worried about being conquered by a third, more powerful village—that would reveal weakness. Instead, they mask the real motives for alliance through trade and reciprocal feasting. And, as a result, not only gain military protection but also initiate a system of trade that—in the long run—leads to an increase in both wealth and SKUs."
+      },
+      {
+        "label": "F",
+        "content": "Free and fair trade occurs in societies where most individuals interact in ways that provide mutual benefit. The necessary rules weren’t generated by wise men in a sacred temple or lawmakers in congress, but rather evolved over generations and were widely accepted and practised before the law was ever written. Laws that fail this test are ignored. If enforcement becomes too onerous, there is rebellion. Yet the concept that human interaction must, and can be controlled by a higher force is universal. Interestingly, there is no widespread agreement on who the “higher force” is. Religious people ascribe good behaviour to God’s law. They cannot conceive of an orderly society of atheists. Secular people credit the government. They consider anarchy to be synonymous with barbarity. Everyone seems to agree on the concept that an orderly society requires an omnipotent force. Yet, everywhere there is evidence that this is not so. An important distinction between spontaneous social order and social anarchy is that the former is developed by work and investment, under the rule of law and with a set of evolved morals while the latter is chaos. The classical liberal tradition of von Mises and Hayek never makes the claim that the complete absence of top-down rules leads to the optimal social order. It simply says we should be sceptical about our ability to manage them in the name of social justice, equality, or progress."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the Reading Passage? Write TRUE if the statement is true, FALSE if the statement is false, or NOT GIVEN if there is no information about this in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "SKUs is a more precise measurement to demonstrate the economic level of a community.",
+            "answer": "NOT",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "No concrete examples are presented when the author makes the statement concerning economic evolution.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Evolution and economics show a defective homolog.",
+            "answer": "TRUE ECONOMICS",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Martial actions might be taken to cross the borders if trades do not work.",
+            "answer": "TRUE SYSTEMS",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Profit is the invisible hand to guide the market.",
+            "answer": "NOT",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "What ought to play a vital role in each field of the economy?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "a strict rule"
+              },
+              {
+                "label": "B",
+                "text": "a smart strategy"
+              },
+              {
+                "label": "C",
+                "text": "a tightly managed authority"
+              },
+              {
+                "label": "D",
+                "text": "a powerful legislation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which two of the following tools are used to pretend to ask for union according to one explanation from the perspective of economics?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "an official announcement"
+              },
+              {
+                "label": "B",
+                "text": "a diplomatic event"
+              },
+              {
+                "label": "C",
+                "text": "the exchange of goods"
+              },
+              {
+                "label": "D",
+                "text": "certainly written correspondence"
+              },
+              {
+                "label": "E",
+                "text": "some enjoyable treatment in a win-win situation"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "",
+            "answer": "E GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "an official announcement"
+              },
+              {
+                "label": "B",
+                "text": "a diplomatic event"
+              },
+              {
+                "label": "C",
+                "text": "the exchange of goods"
+              },
+              {
+                "label": "D",
+                "text": "certainly written correspondence"
+              },
+              {
+                "label": "E",
+                "text": "some enjoyable treatment in a win-win situation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage, using no more than three words from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "In response to the search for reasons for the phenomenon shown by the huge difference in the income between two groups of people both dwelling near the rivers, several researchers made their effort and gave certain explanations. One attributes to the interesting change claiming that it is not as simple as it seems to be in appearance that the relationship between",
+            "answer": "COMPLEXITY",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "which is a good example of",
+            "answer": "EVOLUTION AND",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "which involved in the interaction of separate factors for the processing of information as well as the behavioural adaptation to unstable conditions.",
+            "answer": "COMPLEX ADAPTIVE",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "As far as the biological transformation is concerned, both",
+            "answer": "RANDOM GENETIC GIVEN MUTATIONS",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The economic counterpart shows how generating and choosing the",
+            "answer": "PERMUTATIONS",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:55:50.949579"
+}

@@ -1,0 +1,219 @@
+{
+  "id": "ielts-r-0420",
+  "slug": "synaesthesia",
+  "title": "Synaesthesia",
+  "page_range": [
+    2131,
+    2135
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "FALSE",
+    "2": "F",
+    "9": "NOT GIVEN",
+    "3": "G",
+    "10": "NOT GIVEN",
+    "4": "A",
+    "11": "TRUE",
+    "5": "C",
+    "12": "memory",
+    "6": "B",
+    "13": "function",
+    "7": "E",
+    "14": "teach"
+  },
+  "content": {
+    "title": "Synaesthesia",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Imagine a page with a square box in the middle. The box is lined with rows of the number 5, repeated over and over. All of the 5s are identical in size, font and colour, and equally distributed across the box. There is, however, a trick: among those 5s, hiding in plain sight is a single, capital letter S. Almost the same in shape, it is impossible to spot without straining your eyes for a good few minutes. Unless that is, you are a grapheme – colour synaesthete – a person who sees each letter and number in different colours. With all the 5s painted in one colour and the rogue S painted in another, a grapheme – colour synaesthete will usually only need a split second to identify the latter."
+      },
+      {
+        "label": "B",
+        "content": "Synaesthesia, loosely translated as “senses coming together” from the Greek words syn (“with”) and aesthesis (“sensation”), is an interesting neurological phenomenon that causes different senses to be combined. This might mean that words have a particular taste (for example, the word “door” might taste like bacon), or that certain smells produce a particular colour. It might also mean that each letter and number has its own personality-the letter A might be perky, the letter B might be shy and self-conscious, etc. Some synaesthetes might even experience other people’s sensations, for example feeling pain in their chest when they witness a film character gets shot. The possibilities are endless: even though synaesthesia is believed to affect less than 5% of the general population, at least 60 different combinations of senses have been reported so far. What all these sensory associations have in common is that they are all involuntary and impossible to repress and that they usually remain quite stable over time."
+      },
+      {
+        "label": "C",
+        "content": "Synaesthesia was first documented in the early 19th century by German physician Georg Sachs, who dedicated two pages of his dissertation on his own experience with the condition. It wasn’t, however, until the mid-1990s that empirical research proved its existence when Professor Simon Baron-Cohen and his colleagues used fMRIs on six synaesthetes and discovered that the parts of the brain associated with vision were active during auditory stimulation, even though the subjects were blindfolded."
+      },
+      {
+        "label": "D",
+        "content": "What makes synaesthesia a particularly interesting condition is that it isn’t an illness at all. If anything, synaesthetes often report feeling sorry for the rest of the population, as they don’t have the opportunity to experience the world in a multisensory fashion like they do. Very few drawbacks have been described, usually minimal: for instance, some words might have an unpleasant taste (imagine the word “hello” tasting like spoilt milk), while some synaesthetes find it distressing when they encounter people with names which don’t reflect their personality (imagine meeting a very interesting person named “Lee”, when the letter E has a dull or hideous colour for you-or vice versa). Overall, however, synaesthesia is widely considered more of a blessing than a curse and it is often linked to intelligence and creativity, with celebrities such as Lady Gaga and Pharrell Williams claiming to have it."
+      },
+      {
+        "label": "E",
+        "content": "Another fascinating side of synaesthesia is the way it could potentially benefit future generations. In a 2013 study, Dr Witthof and Dr Winawer discovered that grapheme-colour synaesthetes who had never met each other before experienced strikingly similar pairings between graphemes and colours-pairings which were later traced back to a popular set of Fischer-Price magnets that ten out of eleven participants distinctly remembered possessing as children. This was particularly peculiar as synaesthesia is predominantly considered to be a hereditary condition, and the findings suggested that a synaesthete’s environment might play a determining role in establishing synaesthetic associations. If that was true, researchers asked, then might it not be possible that synaesthesia can actually be taught?"
+      },
+      {
+        "label": "F",
+        "content": "As it turns out, the benefits of teaching synaesthesia would be tremendous. According to research conducted by Dr Clare Jonas at the University of East London, teaching people to create grapheme-colour associations the same way as a synaesthete may have the possibility to improve cognitive function and memory. As she put it, ‘one possibility is guarding against cognitive decline in older people-using synaesthesia in the creation of mnemonics to remember things such as shopping lists.’ To that end, researchers in the Netherlands have already begun developing a web browser plug-in that will change the colours of certain letters. Rothen and his colleagues corroborate the theory: in a paper published in 2011, they suggest that synaesthesia might be more than a hereditary condition, as the non-synaesthetic subjects of their study were able to mimic synaesthetic associations long after leaving the lab."
+      },
+      {
+        "label": "G",
+        "content": "There is obviously still a long way to go before we can fully understand synaesthesia and what causes it. Once we do, however, it might not be too long before we find out how to teach non-synaesthetes how to imitate its symptoms in a way that induces the same benefits 4.4% of the world’s population currently enjoy."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading passage has 7 paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "some of the disadvantages related to synaesthesia",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "what scientists think about synaesthesia’s real-life usefulness",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "a prediction for the future of synaesthesia",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "an example of how grapheme-colour synaesthesia works",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "a brief history of synaesthesia",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "some of the various different types of synaesthesia",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "information about a study that suggests synaesthetic symptoms aren’t arbitrary",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 8-11 on your answer sheet, write TRUE if the statement is true according to the passage, FALSE if the statement is false according to the passage, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "There are 60 different types of synaesthesia.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false according to the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Before Professor Simon Baron-Cohen’s research, synaesthesia was thought to be a myth.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false according to the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "A lot of celebrities are affected by synaesthesia.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false according to the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Most scientists believe that synaesthesia runs in families.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false according to the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 12-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Synaesthesia is a unique neurological condition that causes different senses to get mixed. Recent research has suggested that teaching synaesthesia to non-synaesthetes can enhance 12..................... and guard against the deterioration of cognitive 13.....................; unfortunately, it might be a while before we come up with a beneficial way to 14..................... it to the general population.",
+            "answer": "memory",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Synaesthesia is a unique neurological condition that causes different senses to get mixed. Recent research has suggested that teaching synaesthesia to non-synaesthetes can enhance memory and guard against the deterioration of cognitive 13.....................; unfortunately, it might be a while before we come up with a beneficial way to teach it to the general population.",
+            "answer": "function",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Synaesthesia is a unique neurological condition that causes different senses to get mixed. Recent research has suggested that teaching synaesthesia to non-synaesthetes can enhance memory and guard against the deterioration of cognitive function; unfortunately, it might be a while before we come up with a beneficial way to teach 14..................... to the general population.",
+            "answer": "teach",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:26:45.722407"
+}

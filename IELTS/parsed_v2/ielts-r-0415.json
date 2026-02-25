@@ -1,0 +1,158 @@
+{
+  "id": "ielts-r-0415",
+  "slug": "study-centre-courses",
+  "title": "STUDY CENTRE COURSES",
+  "page_range": [
+    2106,
+    2109
+  ],
+  "raw_answer_key": {
+    "1": "xi",
+    "8": "K",
+    "2": "iv",
+    "9": "C",
+    "3": "v",
+    "10": "I",
+    "4": "ix",
+    "11": "H",
+    "5": "viii",
+    "12": "G",
+    "6": "ii",
+    "13": "L",
+    "7": "vii"
+  },
+  "content": {
+    "title": "STUDY CENTRE COURSES",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "be 'with' yourself: reading a novel or watching a television programme."
+      },
+      {
+        "label": "B",
+        "content": "consider exactly what you have to do in that week, and make sure that you tackle the most significant tasks first, leaving the easier or less urgent areas of your work until later."
+      },
+      {
+        "label": "C",
+        "content": "your own, you will find it easier to adjust mentally to the activity when you enter that area. You should have everything that you might need at hand."
+      },
+      {
+        "label": "D",
+        "content": "Make sure that all the physical equipment that you of guidelines available from the government on posture, angles, lighting and the like. Consult these and avoid the typical student aches and pains."
+      },
+      {
+        "label": "E",
+        "content": "However difficult you find it to arrange your time, it will involves the use of library books or other a pay off in the long run if you set aside a certain part of helps to keep details of the titles and autho the day for studying - and stick to it. It is best to make cards in a card box. It is also a good idea t a weekly allocation of your time, making sure that you alphabetically so that you can find them ea have enough left for recreational activities or simply to"
+      },
+      {
+        "label": "F",
+        "content": "If you are doing a long essay or research paper which like keeping telephone numbers. It's all too something and then forget where it came f Make use of equipment that is available to As part of your weekly schedule, it is also advisable to find a useful article in the library, it is best t copy of the relevant pages before you leav when you get back to your study, you can article and make any comments that you h margin."
+      },
+      {
+        "label": "G",
+        "content": "On a physical level, make sure that you have an area If you are working on a topic your teacher or space for studying. Don't do it just anywhere. If you finding it hard to concentrate, it may be tha always study in the same place, preferably a room of need to take your mind right off it for a per 'Airing the mind' can work wonders someti period away from the task, having not thou all, you may return to it refreshed and full o"
+      },
+      {
+        "label": "H",
+        "content": "Similarly, it may help to discuss a topic wit use, such as a desk, chair etc. is at a good height for people, especially if you feel that you have you. If you use a personal computer, there are plenty ideas, or too many disorganised ideas. Bri up in conversations at meal times or with o and see what they have to say. You don't w their ideas but listening to what they think a something may well help you develop or re thoughts."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs B-H from the list of headings below. Write the correct number i-xii in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "xi",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "iv",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "v",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "ix",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paragraph F",
+            "answer": "viii",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Paragraph G",
+            "answer": "ii",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Paragraph H",
+            "answer": "vii",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Look at the twelve descriptions of courses, A-L, on Reading Passage 2. For which description are the following statements true? Write the correct letter, A-L, in boxes 8-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "This course would be useful for dealing with letters of complaint.",
+            "answer": "K",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "This course will help you use the libraries.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "This course will improve your performance at interviews.",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "This course will help you with acknowledging your sources.",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "This course will help you improve your reading skills.",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "This course will help you improve your grammar.",
+            "answer": "L",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:32:27.090907"
+}

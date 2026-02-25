@@ -1,0 +1,257 @@
+{
+  "id": "ielts-r-0232",
+  "slug": "is-graffiti-art-or-crime",
+  "title": "Is Graffiti Art or Crime",
+  "page_range": [
+    1175,
+    1179
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "D",
+    "2": "G",
+    "9": "B",
+    "3": "B",
+    "10": "D",
+    "4": "E",
+    "11": "social history",
+    "5": "C",
+    "12": "tag",
+    "6": "B",
+    "13": "protective equipment",
+    "7": "B",
+    "14": "water"
+  },
+  "content": {
+    "title": "Is Graffiti Art or Crime",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The term graffiti derives from the Italian graffito meaning ‘scratching’ and can be defined as uninvited marking or writing scratched or applied to objects, built structures and natural features. It is not a new phenomenon: examples can be found on ancient structures around the world, in some cases predating the Greeks and Romans. In such circumstances it has acquired invaluable historical and archaeological significance, providing a social history of life and events at that time. Graffiti is now a problem that has become pervasive, as a result of the availability of cheap and quick means of mark-making."
+      },
+      {
+        "label": "B",
+        "content": "It is usually considered a priority to remove graffiti as quickly as possible after it appears. This is for several reasons. The first is to prevent ‘copy-cat’ emulation which can occur rapidly once a clean surface is defaced. It may also be of a racist or otherwise offensive nature and many companies and councils have a policy of removing this type of graffiti within an hour or two of it being reported. Also, as paints, glues and inks dry out over time they can become increasingly difficult to remove and are usually best dealt with as soon as possible after the incident. Graffiti can also lead to move serious forms of vandalism and, ultimately, the deterioration of an area, contributing to social decline."
+      },
+      {
+        "label": "C",
+        "content": "Although graffiti may be regarded as an eyesore, any proposal to remove it from sensitive historic surfaces should be carefully considered: techniques designed for more robust or utilitarian surfaces may result in considerable damage. In the event of graffiti incidents, it is important that the owners of buildings or other structures and their consultants are aware of the approach they should take in dealing with the problem. The police should be informed as there may be other related attacks occurring locally. An incidence pattern can identify possible culprits, as can stylised signatures or nicknames, known as ‘tags’, which may already be familiar to local police. Photographs are useful to record graffiti incidents and may assist the police in bringing a prosecution. Such images are also required for insurance claims and can be helpful in cleaning operatives, allowing them to see the problem area before arriving on site."
+      },
+      {
+        "label": "D",
+        "content": "There are a variety of methods that are used to remove graffiti. Broadly these divide between chemical and mechanical systems. Chemical preparations are based on dissolving the media; these solvents can range from water to potentially hazardous chemical ‘cocktails’. Mechanical systems such as wire-brushing and grit-blasting attempt to abrade or chip the media from the surface. Care should be taken to comply with health and safety legislation with regard to the protection of both passers-by and any person carrying out the cleaning. Operatives should follow product guidelines in terms of application and removal, and wear the appropriate protective equipment. Measures must be taken to ensure that run-off, aerial mists, drips and splashes do not threaten unprotected members of the public. When examining a graffiti incident it is important to assess the ability of the substrate to withstand the prescribed treatment. If there is any doubt regarding this, then small trial areas should be undertaken to assess the impact of more extensive treatment."
+      },
+      {
+        "label": "E",
+        "content": "A variety of preventive strategies can be adopted to combat a recurring problem of graffiti at a given site. As no two sites are the same, no one set of protection measures will be suitable for all situations. Each site must be looked at individually. Surveillance systems such as closed-circuit television may also help. In cities and towns around the country, prominently placed cameras have been shown to reduce anti-social behavior of all types including graffiti. Security patrols will also act as a deterrent to prevent recurring attacks. However, the cost of this may be too high for most situations. A physical barriers such as a wall, railings, doors or gates can be introduced to discourage unauthorized access to a vulnerable site. However, consideration has to be given to the impact measures have on the structure being protected. In the worst cases, they can be almost as damaging to the quality of the environment as the graffiti they prevent. In others, they might simply provide a new surface for graffiti."
+      },
+      {
+        "label": "F",
+        "content": "One of the most significant problems associated with graffiti removal is the need to remove it from surfaces that are repeatedly attacked. Under these circumstances, the repeated removal of graffiti using even the most gentle methods will ultimately cause damage to the surface material. There may be situations where the preventive strategies mentioned above do not work or are not a viable proposition at a given site. Anti-graffiti coatings are usually applied by brush or spray leaving a thin veneer that essentially serves to isolate the graffiti from the surface."
+      },
+      {
+        "label": "G",
+        "content": "Removal of graffiti from a surface that has been treated in this way is much easier, usually using low-pressure water which reduces the possibility of damage. Depending on the type of barrier selected it may be necessary to reapply the coating after each graffiti removal exercise."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading passage has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-6 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "why chemically cleaning graffiti may cause damage",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "the benefit of a precautionary strategy on the gentle removal",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "the damaging and accumulative impact of graffiti on the community",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "the need for different preventive measures being taken to cope with graffiti",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "a legal proposal made to the owner of building against graffiti",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "the reasons for removing graffiti as soon as possible",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose TWO letters, A-E. Write your answers in boxes 7-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Which two statements are true concerning the removal of graffiti",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "cocktail removal can be safer than water treatment"
+              },
+              {
+                "label": "B",
+                "text": "small patch trial before applying large scale of removing"
+              },
+              {
+                "label": "C",
+                "text": "Chemical treatments are the most expensive way of removing"
+              },
+              {
+                "label": "D",
+                "text": "there are risks for both Chemical and medication method"
+              },
+              {
+                "label": "E",
+                "text": "mechanical removals are much more applicable than Chemical treatments"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Which two statements are true concerning the removal of graffiti",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "cocktail removal can be safer than water treatment"
+              },
+              {
+                "label": "B",
+                "text": "small patch trial before applying large scale of removing"
+              },
+              {
+                "label": "C",
+                "text": "Chemical treatments are the most expensive way of removing"
+              },
+              {
+                "label": "D",
+                "text": "there are risks for both Chemical and medication method"
+              },
+              {
+                "label": "E",
+                "text": "mechanical removals are much more applicable than Chemical treatments"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose TWO letters, A-E. Write your answers in boxes 9-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Which TWO of the following preventive measures against graffiti are mentioned effectively in the passage?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "organise more anti-graffiti movement in the city communities"
+              },
+              {
+                "label": "B",
+                "text": "increase the police patrols on the street"
+              },
+              {
+                "label": "C",
+                "text": "Build a new building with material repelling to water"
+              },
+              {
+                "label": "D",
+                "text": "installing more visible security cameras"
+              },
+              {
+                "label": "E",
+                "text": "Provide a whole new surface with a chemical coat"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Which TWO of the following preventive measures against graffiti are mentioned effectively in the passage?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "organise more anti-graffiti movement in the city communities"
+              },
+              {
+                "label": "B",
+                "text": "increase the police patrols on the street"
+              },
+              {
+                "label": "C",
+                "text": "Build a new building with material repelling to water"
+              },
+              {
+                "label": "D",
+                "text": "installing more visible security cameras"
+              },
+              {
+                "label": "E",
+                "text": "Provide a whole new surface with a chemical coat"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the Summary of the paragraphs of Reading Passage. Use NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 11-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Ancient graffiti is of significance and records the 11..................... of details life for that period.",
+            "answer": "social history",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "The police can recognize newly committed incidents of graffiti by the signature which is called 12..................... that they are familiar with",
+            "answer": "tag",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Operatives ought to comply with relevant rules during the operation, and put on the suitable 13.....................",
+            "answer": "protective equipment",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Removal of graffiti from a new type of coating surface can be much convenient of using 14.....................",
+            "answer": "water",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:29:53.668181"
+}

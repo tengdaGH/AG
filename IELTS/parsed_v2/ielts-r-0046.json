@@ -1,0 +1,338 @@
+{
+  "id": "ielts-r-0046",
+  "slug": "a-theory-of-shopping",
+  "title": "A Theory of Shopping",
+  "page_range": [
+    241,
+    245
+  ],
+  "raw_answer_key": {
+    "1": "C/D/E",
+    "8": "YES",
+    "2": "C/D/E",
+    "9": "NOT GIVEN",
+    "3": "C/D/E",
+    "10": "NO",
+    "4": "NOT",
+    "11": "NO GIVEN",
+    "5": "YES",
+    "12": "thrift",
+    "6": "YES",
+    "13": "Hubert and Mauss",
+    "7": "NO",
+    "14": "colloquial/metaphorical"
+  },
+  "content": {
+    "title": "A Theory of Shopping",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "For a one-year period I attempted to conduct an ethnography of shopping on and around a street in North London. This was carried out in association with Alison Clarke. I say ‘attempted’ because, given the absence of community and the intensely private nature of London households, this could not be an ethnography in the conventional sense. Nevertheless, through conversation, being present in the home and accompanying householders during their shopping, I tried to reach an understanding of the nature of shopping through greater or lesser exposure to 76 households. My part of the ethnography concentrated upon shopping itself. Alison Clarke has since been working with the same households, but focusing upon other forms of provisioning such as the use of catalogues (see Clarke 1997). We generally first met these households together, but most of the material that is used within this particular essay derived from my own subsequent fieldwork. Following the completion of this essay, and a study of some related shopping centres, we hope to write a more general ethnography of provisioning. This will also examine other issues, such as the nature of community and the implications for retail and for the wider political economy. None of this, however, forms part of the present essay, which is primarily concerned with establishing the cosmological foundations of shopping."
+      },
+      {
+        "label": "B",
+        "content": "To state that a household has been included within the study is to gloss over a wide diversity of degrees of involvement. The minimum requirement is simply that a householder has agreed to be interviewed about their shopping, which would include the local shopping parade, shopping centres and supermarkets. At the other extreme are families that we have come to know well during the course of the year. Interaction would include formal interviews, and a less formal presence within their homes, usually with a cup of tea. It also meant accompanying them on one or several ‘events’, which might comprise shopping trips or participation in activities associated with the area of Clarke’s study, such as the meeting of a group supplying products for the home."
+      },
+      {
+        "label": "C",
+        "content": "In analysing and writing up the experience of an ethnography of shopping in North London, I am led in two opposed directions. The tradition of anthropological relativism leads to an emphasis upon difference, and there are many ways in which shopping can help us elucidate differences. For example, there are differences in the experience of shopping based on gender, age, ethnicity and class. There are also differences based on the various genres of shopping experience, from a mall to a corner shop. By contrast, there is the tradition of anthropological generalisation about ‘peoples’ and comparative theory. This leads to the question as to whether there are any fundamental aspects of shopping which suggest a robust normativity that comes through the research and is not entirely dissipated by relativism. In this essay I want to emphasize the latter approach and argue that if not all, then most acts of shopping on this street exhibit a normative form which needs to be addressed. In the later discussion of the discourse of shopping I will defend the possibility that such a heterogenous group of households could be fairly represented by a series of homogenous cultural practices."
+      },
+      {
+        "label": "D",
+        "content": "The theory that I will propose is certainly at odds with most of the literature on this topic. My premise, unlike that of most studies of consumption, whether they arise from economists, business studies or cultural studies, is that for most households in this street the act of shopping was hardly ever directed towards the person who was doing the shopping. Shopping is therefore not best understood as an individualistic or individualising act related to the subjectivity of the shopper. Rather, the act of buying goods is mainly directed at two forms of ‘otherness’. The first of these expresses a relationship between the shopper and a particular other individual such as a child or partner, either present in the household, desired or imagined. The second of these is a relationship to a more general goal which transcends any immediate utility and is best understood as cosmological in that it takes the form of neither subject nor object but of the values to which people wish to dedicate themselves."
+      },
+      {
+        "label": "E",
+        "content": "It never occurred to me at any stage when carrying out the ethnography that I should consider the topic of sacrifice as relevant to this research. In no sense then could the ethnography be regarded as a testing of the ideas presented here. The Literature that seemed most relevant in the initial analysis of the London material was that on thrift discussed in chapter 3. The crucial element in opening up the potential of sacrifice for understanding shopping came through reading Bataille. Bataille, however, was merely the catalyst, since I will argue that it is the classic works on sacrifice and, in particular, the foundation to its modern study by Hubert and Mauss (1964) that has become the primary grounds for my interpretation. It is important, however, when reading the following account to note that when I use the word ‘sacrifice’, I only rarely refer to the colloquial sense of the term as used in the concept of the ‘self-sacrificial’ housewife. Mostly the allusion is to this literature on ancient sacrifice and the detailed analysis of the complex ritual sequence involved in traditional sacrifice. The metaphorical use of the term may have its place within the subsequent discussion but this is secondary to an argument at the level of structure."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose THREE letters A-F. Which THREE of the following are problems the writer encountered when conducting his study?",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Which THREE of the following are problems the writer encountered when conducting his study?",
+            "answer": "C/D/E",
+            "options": [
+              {
+                "label": "A",
+                "text": "uncertainty as to what the focus of the study should be"
+              },
+              {
+                "label": "B",
+                "text": "the difficulty of finding enough households to make the study worthwhile"
+              },
+              {
+                "label": "C",
+                "text": "the diverse nature of the population of the area"
+              },
+              {
+                "label": "D",
+                "text": "the reluctance of people to share information about their personal habits"
+              },
+              {
+                "label": "E",
+                "text": "the fact that he was unable to study some people’s habits as much as others"
+              },
+              {
+                "label": "F",
+                "text": "people dropping out of the study after initially agreeing to take part"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Which THREE of the following are problems the writer encountered when conducting his study?",
+            "answer": "C/D/E",
+            "options": [
+              {
+                "label": "A",
+                "text": "uncertainty as to what the focus of the study should be"
+              },
+              {
+                "label": "B",
+                "text": "the difficulty of finding enough households to make the study worthwhile"
+              },
+              {
+                "label": "C",
+                "text": "the diverse nature of the population of the area"
+              },
+              {
+                "label": "D",
+                "text": "the reluctance of people to share information about their personal habits"
+              },
+              {
+                "label": "E",
+                "text": "the fact that he was unable to study some people’s habits as much as others"
+              },
+              {
+                "label": "F",
+                "text": "people dropping out of the study after initially agreeing to take part"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Which THREE of the following are problems the writer encountered when conducting his study?",
+            "answer": "C/D/E",
+            "options": [
+              {
+                "label": "A",
+                "text": "uncertainty as to what the focus of the study should be"
+              },
+              {
+                "label": "B",
+                "text": "the difficulty of finding enough households to make the study worthwhile"
+              },
+              {
+                "label": "C",
+                "text": "the diverse nature of the population of the area"
+              },
+              {
+                "label": "D",
+                "text": "the reluctance of people to share information about their personal habits"
+              },
+              {
+                "label": "E",
+                "text": "the fact that he was unable to study some people’s habits as much as others"
+              },
+              {
+                "label": "F",
+                "text": "people dropping out of the study after initially agreeing to take part"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 4,
+            "text": "Anthropological relativism is more widely applied than anthropological generalisation.",
+            "answer": "NOT",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Shopping lends itself to analysis based on anthropological relativism.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Generalisations about shopping are possible.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The conclusions drawn from this study will confirm some of the findings of other research.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Shopping should be regarded as a basically unselfish activity.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "People sometimes analyse their own motives when they are shopping.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The actual goods bought are the primary concern in the activity of shopping.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "It was possible to predict the outcome of the study before embarking on it.",
+            "answer": "NO GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below with words taken from Reading Passage 3.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "The subject of written research the writer first thought was directly connected with his study was",
+            "answer": "thrift",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The research the writer has been most inspired by was carried out by",
+            "answer": "Hubert and Mauss",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "The writer mostly does not use the meaning of 'sacrifice' that he regards as",
+            "answer": "colloquial/metaphorical",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:31:39.572177"
+}
