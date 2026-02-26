@@ -101,7 +101,11 @@ export function normaliseContent(raw: any, item: any): ParsedContent {
     const rawQuestions = raw.questions || [];
     const questions: Question[] = rawQuestions.map((q: any, i: number) => {
         // Handle case where question text is an object
-        const questionText = typeof q.text === 'object' && q.text !== null ? q.text.text : (q.text || q.question || '');
+        let questionText = typeof q.text === 'object' && q.text !== null ? q.text.text : (q.text || q.question || '');
+
+        // Strip leading question number (e.g. "13. What is..." → "What is...")
+        // so numbering is always sequential per item, not from the source PDF
+        questionText = String(questionText).replace(/^\s*\d+\.\s*/, '');
 
         // Handle case where options are objects
         const options = (q.options || []).map((opt: any) =>
@@ -109,7 +113,7 @@ export function normaliseContent(raw: any, item: any): ParsedContent {
         );
 
         return {
-            question_num: q.question_num ?? q.number ?? (i + 1),
+            question_num: i + 1,
             text: questionText,
             options: options,
             correct_answer: q.correct_answer ?? q.correct ?? 0,

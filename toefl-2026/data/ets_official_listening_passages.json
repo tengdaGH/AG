@@ -12,7 +12,8 @@
             "Change her clothes",
             "Go shopping",
             "Eat dinner"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "10. Why does the man say “I’d forget my head if it wasn’t screwed on”?",
@@ -21,7 +22,8 @@
             "He forgot about the timing of their plans.",
             "He forgot what they were going to eat for dinner.",
             "He forgot to buy salmon and salad at the supermarket."
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -59,7 +61,8 @@
             "A room is too hot.",
             "An elevator needs maintenance.",
             "A window will not open."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "12. What does the woman suggest the man do?",
@@ -68,7 +71,8 @@
             "Wait for a service agent",
             "Open a door",
             "Take a break early"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -106,7 +110,8 @@
             "A different location for a class",
             "Requirements for a class",
             "A new university science course"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "14. Why does the professor mention Dr. Palmer’s popularity?",
@@ -115,7 +120,8 @@
             "To indicate why she was invited to the university",
             "To compare her to other invited experts",
             "To explain why students should arrive early"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -153,7 +159,8 @@
             "How to keep the mind focused",
             "Two types of fascination",
             "The benefits of hard fascination"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "16. Why does the speaker mention a movie?",
@@ -162,7 +169,8 @@
             "To introduce a concept in psychology",
             "To explain how movies affect emotions",
             "To encourage listeners to watch more movies"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "17. What does the speaker say about her walk in the park?",
@@ -171,7 +179,8 @@
             "Her mind has space for thoughts unrelated to nature.",
             "She needs to put in special effort to stay focused on flowers and trees.",
             "She gets mental fatigue from her mind engaging in hard fascination."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18. What does the speaker say about Default Mode Network?",
@@ -180,7 +189,8 @@
             "It leads to irritability and stress.",
             "It is easily tired from overuse.",
             "Its effect is unknown to psychologists."
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -218,7 +228,8 @@
             "A smartphone and a tablet",
             "A tablet and a desktop computer",
             "A smartphone and a smartwatch"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "10. What reason does the woman give for her suggestion?",
@@ -227,7 +238,8 @@
             "The device is easier to use on the go.",
             "The device has a larger screen.",
             "The device has better battery life."
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -263,7 +275,8 @@
             "To announce new lounge amenities",
             "To notify students of a new facility",
             "To encourage students to use the lounge more"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "12. What should students do during the closure?",
@@ -272,7 +285,8 @@
             "Assist with the maintenance",
             "Use alternate spaces",
             "Visit the library website"
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -308,7 +322,8 @@
             "A measure of environmental impact",
             "Environmentally damaging activities",
             "The role of governments in sustainability"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "14. Why does the speaker mention developed and developing countries?",
@@ -317,7 +332,8 @@
             "To show that resource depletion can be similar regardless of lifestyle",
             "To illustrate the usefulness of comparing ecological footprints",
             "To point out that production efficiency reduces the ecological footprint"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "15. What does the speaker mention as a way that people can reduce their ecological footprint?",
@@ -326,7 +342,8 @@
             "By joining an environmental organization",
             "By using environmentally friendly forms of transportation",
             "By eating locally produced food"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "16. What will the speaker most likely discuss next?",
@@ -335,7 +352,8 @@
             "How data about ecological footprints has been collected",
             "Why the idea of ecological footprint is often misunderstood",
             "Why sustainable development can be difficult to achieve"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -371,7 +389,8 @@
             "It won’t turn on.",
             "It keeps freezing and shutting down.",
             "It is running slowly."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "10. What will the man most likely do next?",
@@ -380,7 +399,8 @@
             "Run another virus scan",
             "Take his laptop to a repair shop",
             "Restart his laptop"
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -418,7 +438,8 @@
             "He is unable to attend a meeting.",
             "He forgot about an obligation at work.",
             "He needs more resources to finish a project."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "12. What does the woman imply when she says, “I stocked up yesterday”?",
@@ -427,7 +448,8 @@
             "She will provide the man with drinks for his meeting.",
             "The supermarket has plenty of drinks available.",
             "The man will not need extra time to finish his project."
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -465,7 +487,8 @@
             "It was discussed at last month’s meeting.",
             "It is a contest theme.",
             "Families are invited to the next meeting."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "14. What does the speaker encourage the participants to do?",
@@ -474,7 +497,8 @@
             "Read last month’s submissions",
             "Prepare for a presentation",
             "Join the club’s mailing list"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -512,7 +536,8 @@
             "Material in the universe that cannot be directly seen",
             "The distribution of stars in galaxies",
             "The formation of the universe"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "16. According to the speaker, how do scientists infer the existence of dark matter?",
@@ -521,7 +546,8 @@
             "From the amount of light in the universe",
             "From the number of stars in galaxies",
             "From the speed of stars' movement"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "17. Why does the speaker mention computer simulations?",
@@ -530,7 +556,8 @@
             "To describe how the gravitational forces acting on stars were calculated",
             "To highlight the anomalies in basic physics",
             "To explain how the speeds of stars were measured"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "18. What will the speaker most likely discuss next?",
@@ -539,7 +566,8 @@
             "Ideas about dark matter’s composition",
             "The anomalies in galaxy rotation caused by dark matter",
             "The distribution of dark matter in the universe"
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -577,7 +605,8 @@
             "The library’s borrowing policy",
             "The library’s holiday schedule",
             "The library’s hours of operation"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "10. What will the woman probably do next?",
@@ -586,7 +615,8 @@
             "Make a phone call to the library",
             "Pay a fine for returning books late",
             "Borrow a new book from the library"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -622,7 +652,8 @@
             "A lecture on local charities",
             "A change in venue",
             "An upcoming fundraiser"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "12. What does the speaker hope the listeners will do?",
@@ -631,7 +662,8 @@
             "Prepare for a lecture",
             "Donate online",
             "Volunteer at an event"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -667,7 +699,8 @@
             "Hiding strategies of different animals",
             "New methods of using renewable energy",
             "Examples of how humans imitate nature for practical purposes"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "14. Why does the speaker mention a dog?",
@@ -676,7 +709,8 @@
             "To compare its efficiency in movement with that of  humpback whales",
             "To explain how a structure found in plants inspired an invention",
             "To show the close bond between scientists and animals"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "15. What point does the speaker make about termite mounds?",
@@ -685,7 +719,8 @@
             "Termites sometimes build them near human-made structures.",
             "Building them takes a lot of energy.",
             "They are created mostly from plant material."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "16. What does the speaker imply about wind turbine blades that are being developed?",
@@ -694,7 +729,8 @@
             "They can be easily installed on buildings.",
             "They can be efficiently constructed from renewable materials.",
             "They are very similar to some whales' flippers in shape."
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -730,7 +766,8 @@
             "Driver",
             "Office worker",
             "Equipment manufacturer"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "10. What does the man indicate about weekends?",
@@ -739,7 +776,8 @@
             "He sometimes repairs equipment in his house on weekends.",
             "He likes to exercise outdoors on weekends.",
             "He exercises more on weekends than on other days."
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -777,7 +815,8 @@
             "She needs to choose a new computer.",
             "She needs new software on her computer.",
             "She has lost access to her email."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "12. What will the man do after the meeting?",
@@ -786,7 +825,8 @@
             "Call a downtown shop",
             "Get his computer fixed",
             "Share some contact information"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -824,7 +864,8 @@
             "University professors",
             "Everyone at the science fair",
             "A panel of judges"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "14. What does the speaker hope the listeners will do?",
@@ -833,7 +874,8 @@
             "Submit a science project",
             "Join the university gym",
             "Volunteer for an event"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -871,7 +913,8 @@
             "A traditional event that they participate in",
             "Their relationship with the Canadian government",
             "The role of dancing and storytelling in their social functions"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "16. What can a host gain from a potlatch?",
@@ -880,7 +923,8 @@
             "Money",
             "Items like blankets",
             "Social status"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "17. What does the speaker imply about the Canadian government of the late-nineteenth century?",
@@ -889,7 +933,8 @@
             "It wanted Indigenous people to include other Canadians in potlatches.",
             "Its policies contributed to economic growth.",
             "It was extremely wasteful."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "18. What aspect of potlatches will the speaker discuss next?",
@@ -898,7 +943,8 @@
             "The countries that ban them",
             "Their effect on wealth distribution",
             "Their possible future"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -936,7 +982,8 @@
             "Finding new clients",
             "Producing goods",
             "Describing items for sale"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "10. Why does the woman mention a client?",
@@ -945,7 +992,8 @@
             "To propose a strategy for increasing sales",
             "To illustrate the importance of collaboration",
             "To explain why she prefers not to plan a meeting after lunch"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -981,7 +1029,8 @@
             "Increased class enrollment",
             "A change in meeting time",
             "An additional assignment"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "12. Why does the speaker mention the east wing?",
@@ -990,7 +1039,8 @@
             "To notify students of upcoming repairs",
             "To direct students to the professor’s office",
             "To help students find a classroom"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -1026,7 +1076,8 @@
             "The benefits of using apps instead of websites",
             "A new type of work tied to advances in technology",
             "A plan to restructure contract work"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "14. Why does the speaker mention ride-sharing apps and freelance websites?",
@@ -1035,7 +1086,8 @@
             "To explain a problem with overhead costs",
             "To discuss how work conditions for gig workers have improved",
             "To illustrate technologies used both by companies and by their customers"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "15. According to the speaker, what is a challenge for gig workers?",
@@ -1044,7 +1096,8 @@
             "Limited flexibility",
             "Lack of a stable income",
             "Little office space"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "16. What will the speaker discuss next?",
@@ -1053,7 +1106,8 @@
             "The efforts of regulators to protect gig workers",
             "The types of labor markets with many gig workers",
             "The advantages of flexible working hours for gig workers"
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -1089,7 +1143,8 @@
             "Its supply of vegetables is limited.",
             "It is often closed on Saturdays.",
             "It can be expensive."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "10. Why does the woman mention a wedding?",
@@ -1098,7 +1153,8 @@
             "To explain why she needs to buy vegetables",
             "To invite the man to an event",
             "To identify a problem with the man's plan"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -1136,7 +1192,8 @@
             "It is less philosophical than its author's other books.",
             "It is very popular among book club members.",
             "It is difficult to understand."
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "12. What does the man say about Chen Wang's poems?",
@@ -1145,7 +1202,8 @@
             "They lack philosophical insights.",
             "He could read them more quickly after a book club discussion.",
             "A book of them took him a week to read."
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -1183,7 +1241,8 @@
             "To raise funds",
             "To increase awareness of an issue",
             "To celebrate spring"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "14. What can students do during the last hour of the event?",
@@ -1192,7 +1251,8 @@
             "Attend lectures",
             "Watch a sports competition",
             "Purchase arts and crafts"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -1230,7 +1290,8 @@
             "How the presence of others can affect a decision",
             "How to help people in different emergencies",
             "How to identify emergency situations"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "16. According to the talk, how might social influence affect an individual's behavior?",
@@ -1239,7 +1300,8 @@
             "A person may be unwilling to be the first to act.",
             "An individual is more likely to act to impress the others in the group.",
             "An individual is less likely to act when specifically asked to do so."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "17. Why does the speaker discuss a study from 2019?",
@@ -1248,7 +1310,8 @@
             "To provide evidence that challenges earlier research",
             "To support the idea that it is dangerous for bystanders to offer help",
             "To argue that not many bystanders are willing to help"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18. What is NOT mentioned as a factor that influences bystander behavior?",
@@ -1257,7 +1320,8 @@
             "The degree of danger",
             "The location of the incident",
             "The familiarity of bystanders to one another"
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -1295,7 +1359,8 @@
             "A piece of equipment is not working.",
             "A presentation time has been changed.",
             "Some slides are not displaying properly."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "10. What does the woman offer to do?",
@@ -1304,7 +1369,8 @@
             "Review the man's handouts",
             "Help the man practice a presentation",
             "Make copies of the man's presentation"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -1340,7 +1406,8 @@
             "To apologize for the inconvenience",
             "To announce the availability of new study areas",
             "To inform students about lounge closure"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "12. What are students advised to do during the lounge closure?",
@@ -1349,7 +1416,8 @@
             "Schedule meetings elsewhere",
             "Use the library or other study areas",
             "Participate in renovation activities"
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -1385,7 +1453,8 @@
             "Why an assumption in traditional economics is not always correct",
             "Some examples of unusual human behavior",
             "The role of policymakers in economics"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "14. According to the speaker, what is a problem with using heuristics?",
@@ -1394,7 +1463,8 @@
             "They can result in mistakes in judgment.",
             "They ignore the emotional consequences of actions.",
             "They cause people to focus too much on gains."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "15. Why does the speaker mention stocks?",
@@ -1403,7 +1473,8 @@
             "To highlight the pleasure of gains",
             "To describe the importance of rational decision-making",
             "To discuss the benefits of heuristics."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "16. What will the speaker most likely discuss next?",
@@ -1412,7 +1483,8 @@
             "A method that economists use to examine human behavior",
             "An example of an intervention by policymakers",
             "A way of helping people improve their decision-making"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -1448,7 +1520,8 @@
             "Because a park will be closed",
             "Because of a schedule conflict",
             "Because Saturday is a day off"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "10.  What will the speakers do this Saturday?",
@@ -1457,7 +1530,8 @@
             "Socialize with their coworkers",
             "Go to a restaurant",
             "Discuss the new schedule\nListening Section, Module 1"
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -1494,7 +1568,8 @@
             "Finish preparing the visual elements",
             "Write his speech",
             "Notify his colleagues about it"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "10. What will the man most likely do this afternoon?",
@@ -1503,7 +1578,8 @@
             "Deliver his presentation to a group",
             "Review the woman's presentation",
             "Express his appreciation\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -1538,7 +1614,8 @@
             "Water plants at the student center",
             "Recruit volunteers for a recycling program",
             "Empty the contents of compost containers"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "12.  What should be placed in the new bins?",
@@ -1547,7 +1624,8 @@
             "Paper products",
             "Food waste",
             "Metal cans\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -1582,7 +1660,8 @@
             "The role of catalysts in chemical reactions",
             "Materials used in the production of nanozymes",
             "The importance of enzymes in digestion"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "14. What point does the professor make about the unchanging nature of catalysts?",
@@ -1591,7 +1670,8 @@
             "It causes them to lack flexibility.",
             "It allows them to be used repeatedly.",
             "It makes them inefficient for some complex chemical processes."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "15.  Why does the professor mention a cake?",
@@ -1600,7 +1680,8 @@
             "To point out a common problem with  digestion",
             "To illustrate how certain enzymes produce high temperatures",
             "To explain how chemical reactions can influence cake flavor\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "16. What does the example of environmental cleanup reveal about nanozymes?",
@@ -1644,7 +1725,8 @@
             "It makes a strange noise.",
             "It is unable to move fast.",
             "It is unsafe to drive."
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "10.  What does the man imply at the end of the conversation?",
@@ -1653,7 +1735,8 @@
             "He needs his car for an important errand he must do.",
             "He needs advice about a mechanic to use.",
             "He hopes an issue is minor.\nListening Section, Module 1"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -1690,7 +1773,8 @@
             "The facilities",
             "The equipment",
             "The prices for one-time use"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "10. Why does the man mention a book?",
@@ -1699,7 +1783,8 @@
             "To explain how he found out about the new gym",
             "To give an extra reason for getting a long-term membership",
             "To point out that there are many different ways to get in shape\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -1734,7 +1819,8 @@
             "To emphasize the importance of updating contact information",
             "To promote a new program on personal health",
             "To point out that classes are often canceled because of bad weather"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "12.  What does the speaker imply when he says, \"Don't take a chance on missing out \non critical information\"?",
@@ -1743,7 +1829,8 @@
             "Class attendance is mandatory.",
             "The portal can be difficult to navigate.",
             "Important information has just been posted.\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -1778,7 +1865,8 @@
             "A way of measuring the effects of human activities on the environment",
             "How fossil fuel use leads to global warming",
             "The importance of water conservation to a sustainable future"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "14. According to the speaker, the ecological footprint is expressed in terms of",
@@ -1787,7 +1875,8 @@
             "amount of greenhouse gas produced",
             "global temperature increase",
             "number of natural resources consumed"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "15.  What does the speaker say about the carbon footprint?",
@@ -1796,7 +1885,8 @@
             "It includes tracking the biodiversity of an ecosystem.",
             "It is a component of the ecological footprint.",
             "It considers the number of vehicles in a given area.\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "16. What is one cause of resource depletion that the speaker mentions?",
@@ -1840,7 +1930,8 @@
             "Rent a new apartment",
             "Renew a lease",
             "Book a hotel room"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "10.  What does the man imply when he mentions a new hotel?",
@@ -1849,7 +1940,8 @@
             "The woman should check information about the new hotel online.",
             "Downtown apartments are very expensive.",
             "The downtown area was not a nice place to live until recently.\nListening Section, Module 1"
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -1886,7 +1978,8 @@
             "To request an item from the supermarket",
             "To explain the source of a lasagna recipe",
             "To propose a dish for a party"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "10. What will the man most likely do in the evening?",
@@ -1895,7 +1988,8 @@
             "Speak with the Johnsons",
             "Cook steak",
             "Visit his parents\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -1930,7 +2024,8 @@
             "A survey of student music preferences",
             "A change of venue for concert",
             "An upcoming musical performance"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "12.  What is different about this year's event?",
@@ -1939,7 +2034,8 @@
             "It will include a performance by a former student.",
             "It will focus on music from various countries.",
             "It will feature dance performances.\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -1974,7 +2070,8 @@
             "The concept of the carbon footprint",
             "The benefits of renewable energy",
             "The role of governments in sustainability"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "14. According to the talk, what can individuals do to lower their carbon footprint?",
@@ -1983,7 +2080,8 @@
             "Use public transportation",
             "Manufacture more goods",
             "Trap heat in the atmosphere"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "15.  Why does the speaker mention livestock farming?",
@@ -1992,7 +2090,8 @@
             "To discuss public transportation options",
             "To highlight energy-efficient practices",
             "To illustrate the impact of manufacturing goods\nListening Section, Module 2"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "16. What can be inferred about the role of governments in reducing carbon \nfootprints?",

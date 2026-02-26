@@ -167,7 +167,8 @@ def main():
         print(f"Found {len(existing_uids)} existing events in Notion database.")
     except Exception as e:
         print(f"Failed to access Notion database: {e}")
-        return
+        print("FATAL: Aborting sync due to Notion API error. Check NOTION_TOKEN secret.")
+        sys.exit(1)
 
     calendar_list = service.calendarList().list().execute()
     calendars = calendar_list.get('items', [])

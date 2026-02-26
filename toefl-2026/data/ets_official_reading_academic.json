@@ -12,7 +12,8 @@
             "To describe the variety of products available at the farmer’s market",
             "To compare different farmer's markets in the area",
             "To offer advice on starting a stall at the farmer's market"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "14. What reason is given for the popularity of the Thompson family's stall?",
@@ -21,7 +22,8 @@
             "They offer the lowest prices at the market.",
             "They provide friendly service and excellent products.",
             "They have a beautiful and well-decorated stall."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "15. Why do customers go to the bakery stall early?",
@@ -30,7 +32,8 @@
             "To get freshly baked bread and pastries before they are gone",
             "To meet the famous baker",
             "To take advantage of early morning discounts\nThe Mirror Test \nVery young children cannot recognize themselves in a mirror; they usually achieve this milestone \naround 18 months of age. The ability to recognize oneself in the mirror is considered to be a key \ncomponent of self-awareness and consciousness for humans. But what about animals? \nFor many years, scientists have known that members of the great ape family could recognize \nthemselves in mirrors. They measured this by the “mirror test,” which involved putting a colored mark \non an ape’s body, and then showing the ape its reflection in a mirror. If the ape tried to remove the mark \non its own body, the scientists knew that the ape was recognizing its reflection. \nApes are close relatives of humans, but in recent years, scientists have discovered that other animals \nalso pass the “mirror test.” Elephants and dolphins have shown signs of self-recognition. These, like \napes, are highly intelligent animals. But in a more recent experiment, a type of fish called the cleaner fish \ntried to scrape a mark off its body when it saw itself in the mirror. This suggests that even less intelligent \nanimals may possess more self-awareness than previously suspected."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "16. What is the passage mainly about?",
@@ -39,7 +42,8 @@
             "Research on animal cognition",
             "Differences between apes, elephants, and dolphins",
             "Recent experiments on fish"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "17. The word “milestone” in the first sentence is closest in meaning to",
@@ -48,7 +52,8 @@
             "distance",
             "weight",
             "discovery"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "18. Why did scientists put colored marks on animals’ bodies?",
@@ -57,7 +62,8 @@
             "It helped them determine whether the animals recognized themselves.",
             "It made it easier to tell the animals apart.",
             "It showed whether some animals can detect color differences."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "19. According to the passage, all of the following are true about elephants EXCEPT:",
@@ -66,7 +72,8 @@
             "They are highly intelligent animals.",
             "They possess qualities in common with apes.",
             "They understand certain signs from other animals."
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "20. Why does the author mention cleaner fish?",
@@ -75,7 +82,8 @@
             "To imply that ocean animals are highly intelligent",
             "To demonstrate a flaw in a recent experiment",
             "To provide an example of an animal that does not recognize itself"
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -115,7 +123,8 @@
             "Modern consumer culture is driven by a demand for fewer products.",
             "Individualism enhances consumer contentment.",
             "Limiting consumer choices can lead to higher satisfaction."
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "17.What is one effect of decision fatigue as mentioned in the passage?",
@@ -124,7 +133,8 @@
             "Anxiety about making the wrong choice",
             "Preference for consumer cultures",
             "Enhanced freedom to choose"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18. Why does the author mention Sheena Iyengar’s experiment?",
@@ -133,7 +143,8 @@
             "To explain the methodology used in consumer psychology",
             "To provide evidence supporting the paradox of choice",
             "To criticize the abundance of products in modern markets"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "19.The word “curating” in the passage is closest in meaning to",
@@ -142,7 +153,8 @@
             "organizing",
             "increasing",
             "changing"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "20. What can be inferred about consumers in collectivist cultures?",
@@ -151,7 +163,8 @@
             "They are more affected by the paradox of choice.",
             "They generally have fewer choices available.",
             "They prefer individual decision-making."
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -204,7 +217,8 @@
             "awareness",
             "unity",
             "celebration"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "17. In which of the following situations can sports have an especially negative impact on social \nintegration?",
@@ -213,7 +227,8 @@
             "When participants are unreasonably strict about the rules of competition",
             "When the social environment is not favorable to competition",
             "When social tensions are heightened by favoring or excluding certain participants"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "18. What is the relationship between paragraphs 2 and 3?",
@@ -222,7 +237,8 @@
             "Paragraph 3 contradicts a theory proposed in paragraph 2.",
             "Paragraph 3 provides evidence for an idea presented in paragraph 2.",
             "Paragraph 3 introduces a new challenge related to paragraph 2."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "19. What does the passage suggest about the Sport for Peace program?",
@@ -231,7 +247,8 @@
             "It primarily targets professional athletes.",
             "It uses team-building exercises to address conflicts.",
             "It is only effective in local communities."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "20. Why does the author mention major international sports events like the Olympics and the \nWorld Cup?",
@@ -240,7 +257,8 @@
             "To illustrate how sports can unite people globally",
             "To suggest that these events mainly benefit athletes",
             "To highlight the competitive nature of these events"
-          ]
+          ],
+          "correct_answer": 1
         }
       ],
       "keys": {
@@ -280,7 +298,8 @@
             "possible",
             "combined",
             "unwelcome"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "17. What is one way antibiotics can affect humans?",
@@ -289,7 +308,8 @@
             "They can weaken immunity by harming beneficial microbes.",
             "They can help relieve digestive problems.",
             "They make it easier to produce essential vitamins."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18. What connection are researchers exploring regarding the microbiome?",
@@ -298,7 +318,8 @@
             "The role of fungi in mood regulation",
             "The role of viruses in digestion",
             "The link between gut bacteria and mental health"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "19. All of the following help to maintain a healthy microbiome EXCEPT",
@@ -307,7 +328,8 @@
             "lowering stress levels",
             "avoiding sources of bacteria",
             "reducing the use of antibiotics"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "20. What is the relationship between paragraphs 2 and 3?",
@@ -316,7 +338,8 @@
             "Paragraph 3 provides examples of the disruptions mentioned in paragraph 2.",
             "Paragraph 3 specifies how to achieve a healthy microbiome based on the factors mentioned in \nparagraph 2.",
             "Paragraph 3 elaborates on the benefits of antibiotics mentioned in paragraph 2."
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -369,7 +392,8 @@
             "analyze",
             "communicate",
             "reduce"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "17.Which of the following is NOT mentioned as an effect of urbanization on birds in the passage?",
@@ -378,7 +402,8 @@
             "Changes in bird song",
             "Increased food sources",
             "Disrupted circadian rhythms"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "18. Why does the author mention pigeons and sparrows?",
@@ -387,7 +412,8 @@
             "To give examples of birds that have adjusted to living in urban settings",
             "To highlight the diversity of urban bird species",
             "To suggest that all birds can adapt to cities"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "19. What is one initiative mentioned in the passage to help birds in urban areas?",
@@ -396,7 +422,8 @@
             "Providing human-made food sources to birds",
             "Creating urban green spaces",
             "Decreasing the amount of noise made by traffic"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "20. What can be inferred about the impact artificial lighting in cities has on birds?",
@@ -405,7 +432,8 @@
             "It allows birds to find food at night.",
             "It helps birds to adapt to urban environments.",
             "It increases the population of urban birds."
-          ]
+          ],
+          "correct_answer": 0
         }
       ],
       "keys": {
@@ -445,7 +473,8 @@
             "advancement",
             "activity",
             "expression"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "17. What is suggested about daguerreotypes?",
@@ -454,7 +483,8 @@
             "They allowed for multiple copies of an image.",
             "They required shorter exposure times than heliographs did.",
             "They made it unnecessary to use silver-plated copper."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "18. How did the calotype revolutionize photography?",
@@ -463,7 +493,8 @@
             "By reducing the need for delicate handling",
             "By providing detailed images on silver-plated copper",
             "By allowing multiple copies from a single negative"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "19. Why does the author mention George Eastman’s establishment of the Kodak company?",
@@ -472,7 +503,8 @@
             "To criticize the challenges of early photographic methods",
             "To explain how film was invented",
             "To suggest that Kodak introduced digital photography"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "20. There are four locations (A, B, C, and D) in the passage that indicate where the following \nsentence could be added.  \n \nThese developments have rendered the use of film and many types of cameras obsolete. \n \nWhere would the sentence best fit? Select a location where the sentence could be added to the \npassage.",
@@ -481,7 +513,8 @@
             "Option B",
             "Option C",
             "Option D"
-          ]
+          ],
+          "correct_answer": 3
         }
       ],
       "keys": {
@@ -534,7 +567,8 @@
             "precisely",
             "vaguely",
             "carelessly"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "17. What can be inferred about the workers who built the aqueducts?",
@@ -543,7 +577,8 @@
             "They faced significant physical challenges.",
             "They primarily worked on bridges.",
             "They were not aware of the aqueducts' importance."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18. Why does the author mention the Pont du Gard in France?",
@@ -552,7 +587,8 @@
             "To give an example of a well-preserved aqueduct",
             "To explain the importance of aqueducts in France",
             "To describe the engineering techniques used by the Romans"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "19. What role did aqueducts play in the expansion of the Roman Empire?",
@@ -561,7 +597,8 @@
             "They provided water for drinking and sanitation.",
             "They helped in building bridges over valleys.",
             "They enabled the construction of public baths."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "20. What can be inferred about modern water management systems?",
@@ -570,7 +607,8 @@
             "They are less efficient than Roman aqueducts.",
             "They are influenced by Roman engineering practices.",
             "They are not as labor-intensive as Roman aqueducts."
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -610,7 +648,8 @@
             "Some errors were made regarding a previous product launch.",
             "A brochure was never sent out.",
             "A marketing team did not complete a project in time."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "14. What product is being launched?",
@@ -619,7 +658,8 @@
             "A line of sportswear",
             "A type of smartphone",
             "A type of software"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "15. What does Mr. Alvarez indicate?",
@@ -629,7 +669,8 @@
             "He helped design a new product.",
             "He will complete some postings by the end of the day.\nSleep Patterns \n \nSleep patterns vary (begin highlight) considerably (end highlight) among different animal species. Some animals, like dolphins, have \nunique sleep methods. Dolphins practice unihemispheric slow-wave sleep, meaning one half of their brain \nsleeps while the other remains awake. This adaptation allows them to surface for air and stay alert for \npredators even while resting. \n \nBirds also display interesting sleep behaviors. Many bird species can sleep while flying.  (A) During long \nmigratory flights, some birds may engage in unihemispheric sleep, similar to dolphins, enabling them to \nnavigate and avoid threats. (B) Additionally, certain birds can sleep with both hemispheres of their brain \nbut in short bursts, allowing them to maintain continuous flight for extended periods.",
             "Sleep patterns have evolved based on environmental needs. For example, grazing animals like cows \nand horses sleep minimally, often standing up, which helps them stay vigilant against predators. (D) In \ncontrast, predators such as lions and tigers can afford longer, deeper sleep because they face fewer \nthreats. Understanding these varied sleep patterns provides insight into how animals have adapted to \ntheir habitats and survival challenges. The balance between rest and vigilance is crucial for survival, \nrevealing the intricate adaptations across the animal kingdom."
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "16. The word “considerably” in the first paragraph is closest in meaning to",
@@ -638,7 +679,8 @@
             "significantly",
             "predictably",
             "consistently"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "17. According to the second paragraph, how do some birds sleep during migratory flights?",
@@ -647,7 +689,8 @@
             "By practicing unihemispheric sleep",
             "By stopping regularly during flights",
             "By sleeping deeply for long periods"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18. Why do grazing animals like cows and horses sleep minimally?",
@@ -656,7 +699,8 @@
             "To maintain continuous flight",
             "To stay alert against predators",
             "To surface for air"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "19. Why does the author mention “predators such as lions and tigers”?",
@@ -665,7 +709,8 @@
             "To highlight the sleep patterns of grazing animals",
             "To emphasize the time it takes for certain animals to adapt their sleep patterns",
             "To show that sleep patterns of predators can vary over time"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "20. There are four locations (A, B, C, and D) in the passage that indicate where the following \nsentence could be added.  \n \nBut what affects birds’ sleep norms? \n \nWhere would the sentence best fit? Select a location where the sentence could be \nadded to the passage.",
@@ -674,7 +719,8 @@
             "Option B",
             "Option C",
             "Option D"
-          ]
+          ],
+          "correct_answer": 2
         }
       ],
       "keys": {
@@ -727,7 +773,8 @@
             "The uneven heating of the Earth's surface",
             "The difference in temperature between air masses",
             "The temperature changes that occur seasonally"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "17.  How does the jet stream affect weather systems in the northern \nhemisphere when it dips southward?",
@@ -736,7 +783,8 @@
             "It leads to more stable conditions.",
             "It brings storms to places further south.",
             "It brings cyclones to higher latitudes."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "18.  What is one of the main factors influencing the jet stream’s behavior?",
@@ -745,7 +793,8 @@
             "The presence of cyclones",
             "The amount of precipitation",
             "The direction of wind patterns \n \nJet Stream Dynamics\nReading Section, Module 1"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "19.   What does the author suggest about the impact of climate change on the \njet stream?",
@@ -754,7 +803,8 @@
             "It is reducing the temperature difference between polar and tropical air masses.",
             "It is causing the jet stream to move faster.",
             "It is increasing the temperature contrast between the poles and the equator."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "20.   The word “prolonged” in the passage is closest in meaning to",
@@ -802,7 +852,8 @@
             "favorite",
             "leading",
             "entertaining"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "17.  Why does the author mention The Twilight Zone?",
@@ -811,7 +862,8 @@
             "To highlight the innovative nature of anthology series",
             "To discuss the impact of horror on television",
             "To compare different types of TV formats"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18.  What does the author suggest about sitcoms like I Love Lucy?",
@@ -820,7 +872,8 @@
             "They focused on people's daily lives.",
             "They reduced the influence of advertisers",
             "They were more popular than anthology series \n \nThe Golden Age of Television"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "19.  What is the relationship between paragraphs 2 and 3?",
@@ -829,7 +882,8 @@
             "Paragraph 3 provides examples of the formats discussed in paragraph 2.",
             "Paragraph 3 introduces a new issue that was not covered in paragraph 2.",
             "Paragraph 3 contradicts the success of TV shows mentioned in paragraph 2."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "20.  Why does the author mention advertisers in the passage?",
@@ -891,7 +945,8 @@
             "the ancient Egyptians’ idea of why humans became sick",
             "the wide variety of illnesses common in ancient Egypt",
             "the connection between agriculture and medicine"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "17.  The passage suggests that which of the following was a surprising achievement \nof ancient Egyptian medicine?",
@@ -900,7 +955,8 @@
             "It understood the importance of cleanliness in preventing infections.",
             "Its use of Nile River water was often successful.",
             "Its understanding of the cause of illnesses was largely accurate."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18.  Why does the author discuss the use of willow bark?",
@@ -909,7 +965,8 @@
             "To explain the invention of aspirin",
             "To highlight the variety of natural remedies available in Egypt",
             "To show that some ancient Egyptian remedies were effective  \n \nAncient Egyptian Medicine\nReading Section, Module 1"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "19.   The word “invoke” in the passage is closest in meaning to",
@@ -918,7 +975,8 @@
             "understand",
             "increase",
             "express"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "20.   What role did religion play in ancient Egyptian medicine?",
@@ -966,7 +1024,8 @@
             "honor important people in the community",
             "bring people from different groups together",
             "provide guidance on good and bad behavior"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "17.  How did the plays of Aristophanes compare to those of Aeschylus?",
@@ -975,7 +1034,8 @@
             "They were more focused on fate, justice, and suffering.",
             "They were more popular among politicians and other important members of society.",
             "They had a greater impact on later cultures."
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "18.  What was one effect of the elaborate stage designs of Roman theater?",
@@ -984,7 +1044,8 @@
             "They directed attention to the plays' creators.",
             "They increased the popularity of plays among members of the imperial family.",
             "They improved the communication of the plays' themes and narratives to viewers. \n \nThe Origins of Theater"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "19.  The word \"resurgence\" in the passage is closest in meaning to",
@@ -993,7 +1054,8 @@
             "debate",
             "history",
             "comeback"
-          ]
+          ],
+          "correct_answer": 3
         },
         {
           "text": "20.  There are four locations in the passage that indicate where the following \nsentence could be added: Few performances occurred around this time.",
@@ -1055,7 +1117,8 @@
             "Archaeologists have not found any such stones when examining Viking sites.",
             "Research indicates that sunstones are not actually an effective navigation tool.",
             "Researchers suspect that sunstones were not easy to obtain in the medieval period."
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "17.  In what way was Iceland spar useful to Vikings?",
@@ -1064,7 +1127,8 @@
             "It was used as a tool to help maintain ships.",
             "It helped them figure out where the sun was when it could not be seen.",
             "It was used to improve seafarers’ vision."
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "18.  Why does the author mention a ship that sank in 1592 ?",
@@ -1073,7 +1137,8 @@
             "To support the theory that Vikings used Iceland spar for navigation",
             "To give an example of a more modern navigational tool",
             "To provide information about archaeological methods"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "19.  The word “ingenuity” in the passage is closest in meaning to",
@@ -1082,7 +1147,8 @@
             "cleverness",
             "luck",
             "fame \nMysterious Viking Sunstones\nReading Section, Module 1"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "20.  There are four locations in the passage that indicate where the following \nsentence could be added: This is all the more remarkable considering the lack of \ntechnology at the time.\n\nWhere would the sentence best fit?",
@@ -1130,7 +1196,8 @@
             "Paintings that could depict a wide variety of objects",
             "The creation of more uniform representations",
             "The creation of smaller artworks"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "17.  The word “departure” in the passage is closest in meaning to",
@@ -1139,7 +1206,8 @@
             "change",
             "work",
             "choice"
-          ]
+          ],
+          "correct_answer": 1
         },
         {
           "text": "18.  Why does the author discuss Leonardo da Vinci’s The Virgin of the Rocks?",
@@ -1148,7 +1216,8 @@
             "To indicate that Leonardo often painted rocks and trees",
             "To illustrate Leonardo’s use of chiaroscuro",
             "To show how Leonardo’s style changed after he painted the Mona Lisa"
-          ]
+          ],
+          "correct_answer": 2
         },
         {
           "text": "19.  What does the author suggest about the impact of chiaroscuro?",
@@ -1157,7 +1226,8 @@
             "It allowed artists to depict nighttime landscapes.",
             "It reduced the need for linear perspective.",
             "It led to the development of more colors. \nRenaissance Art Techniques"
-          ]
+          ],
+          "correct_answer": 0
         },
         {
           "text": "20.  What was one benefit of oil paints over tempera paints?",

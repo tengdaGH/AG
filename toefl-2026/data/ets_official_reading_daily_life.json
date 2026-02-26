@@ -14,7 +14,8 @@
                 "A computer company",
                 "A paper company",
                 "A bank"
-              ]
+              ],
+              "correct_answer": 3
             },
             {
               "text": "12. How can customers enroll in paperless billing?",
@@ -23,7 +24,8 @@
                 "By accessing the Municipal Charter website",
                 "By using the Municipal Charter app",
                 "By calling a Municipal Charter customer service representative"
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -63,7 +65,8 @@
                 "September 12th",
                 "September 20th",
                 "September 30th"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "12. What should Ms. Edwards bring to the workshop?",
@@ -72,7 +75,8 @@
                 "Extra paint",
                 "A protective garment",
                 "Proof of reservation"
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -125,7 +129,8 @@
                 "To provide Ms. Nguyen with an opportunity to provide expert personal training",
                 "To celebrate Ms. Nguyen's achievements in wellness",
                 "To announce a discount available to fitness-center members"
-              ]
+              ],
+              "correct_answer": 0
             },
             {
               "text": "14. What can be inferred about Ms. Nguyen's relationship with the fitness center?",
@@ -134,7 +139,8 @@
                 "She has already explored the new facility.",
                 "She is a member at one of the fitness center's other locations.",
                 "She is new to using fitness centers and exercise equipment."
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "15. The new fitness center is intended for use by which of the following groups of people?",
@@ -143,7 +149,8 @@
                 "Top-tier athletes",
                 "Existing fitness-center members",
                 "Community members of all fitness levels"
-              ]
+              ],
+              "correct_answer": 3
             }
           ],
           "keys": {
@@ -196,7 +203,8 @@
                 "11:00 AM",
                 "1:00 PM",
                 "3:00 PM"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "12. Why must Mr. Brown be present?",
@@ -205,7 +213,8 @@
                 "To provide details about the problem",
                 "To let the technician in",
                 "To complete a survey"
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -245,7 +254,8 @@
                 "To remind him to update inventory logs every day",
                 "To inform him of an upcoming event",
                 "To request his input on how to revise a process"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "14. Why should Mr. Suzuki contact Ms. Paloma?",
@@ -254,7 +264,8 @@
                 "To obtain some information from the HR department",
                 "To share a list of employees who have experience with audits",
                 "To send her an updated inventory log"
-              ]
+              ],
+              "correct_answer": 0
             },
             {
               "text": "15. What is indicated about the morning of April 20?",
@@ -263,7 +274,8 @@
                 "Mr. Suzuki might have several meetings then.",
                 "A menu might be updated then.",
                 "Employees might have free time then."
-              ]
+              ],
+              "correct_answer": 0
             }
           ],
           "keys": {
@@ -303,7 +315,8 @@
                 "To confirm registration for a course",
                 "To provide information about a course",
                 "To request payment for a course"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "12. When will Mr. Singh receive login details?",
@@ -312,7 +325,8 @@
                 "October 3rd",
                 "October 4th",
                 "October 5th"
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -365,7 +379,8 @@
                 "It will not be functioning during maintenance.",
                 "It is not working properly.",
                 "It performs optimally."
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "14. What can be inferred about the weather on May 27?",
@@ -374,7 +389,8 @@
                 "It will be unusual for the season.",
                 "It will require office workers to stay home rather than go to the office.",
                 "It will change throughout the day."
-              ]
+              ],
+              "correct_answer": 0
             },
             {
               "text": "15. Who will be performing maintenance?",
@@ -383,7 +399,8 @@
                 "Ms. Gardner's team members",
                 "Professionals from another company",
                 "Robert Thompson"
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -436,7 +453,8 @@
                 "To announce a change in a meeting schedule",
                 "To apologize for a scheduling conflict",
                 "To inform employees of a conference opportunity"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "12. When will the staff meeting take place?",
@@ -445,7 +463,8 @@
                 "Wednesday, August 10th at 3:00 PM",
                 "Friday, August 12th at 2:00 PM",
                 "Friday, August 12th at 3:00 PM"
-              ]
+              ],
+              "correct_answer": 3
             }
           ],
           "keys": {
@@ -485,7 +504,8 @@
                 "He has used Rebecca Yang's facility in the past.",
                 "He is a professional event organizer.",
                 "He has requested information about Rebecca Yang's facility."
-              ]
+              ],
+              "correct_answer": 3
             },
             {
               "text": "14. Rebecca Yang's team does NOT include",
@@ -494,7 +514,8 @@
                 "Professional photographers",
                 "People who can facilitate children's games",
                 "People who can set up picnic tables"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "15. What information is being provided along with the email message?",
@@ -503,7 +524,8 @@
                 "Types of arts and crafts activities",
                 "Dates available for booking",
                 "Contact information of photographers"
-              ]
+              ],
+              "correct_answer": 0
             }
           ],
           "keys": {
@@ -543,7 +565,8 @@
                 "To confirm a reservation for a class",
                 "To update travel plans",
                 "To provide registration instructions"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "12. What is Ms. Simmons NOT required to bring?",
@@ -552,7 +575,8 @@
                 "A cutting board",
                 "A chef’s knife",
                 "A notebook"
-              ]
+              ],
+              "correct_answer": 1
             }
           ],
           "keys": {
@@ -605,7 +629,8 @@
                 "To invite Ms. Adams to speak at a conference",
                 "To provide details about an event",
                 "To announce participants of the poster sessions"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "14. Dr. Jane Smith will",
@@ -614,7 +639,8 @@
                 "organize interactive workshops",
                 "talk about research about emotions",
                 "present her research in the poster session"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "15. What can be inferred about the poster session?",
@@ -623,7 +649,8 @@
                 "It is for leading scholars of the field.",
                 "It is open to the public.",
                 "It will be held on August 31."
-              ]
+              ],
+              "correct_answer": 0
             }
           ],
           "keys": {
@@ -676,7 +703,8 @@
                 "A community organization meeting",
                 "A language exchange event",
                 "A student exchange program"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "12. What will participants NOT experience?",
@@ -685,7 +713,8 @@
                 "Practice relaxation techniques",
                 "Pair up with speakers of different languages",
                 "Meet people from different cultures"
-              ]
+              ],
+              "correct_answer": 1
             }
           ],
           "keys": {
@@ -725,7 +754,8 @@
                 "university students, faculty, and staff",
                 "the external provider of the university server",
                 "people who have encountered issues with the university server"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "14. From 2 AM to 6 AM on May 22, what activity can be done without interruption?",
@@ -734,7 +764,8 @@
                 "Saving documents onto the university cloud storage service",
                 "Sending and receiving emails using university email accounts",
                 "Searching for an article in the university library"
-              ]
+              ],
+              "correct_answer": 3
             },
             {
               "text": "15. What can be inferred about the university's server?",
@@ -743,7 +774,8 @@
                 "It is managed only by the university IT team.",
                 "It sometimes requires emergency maintenance.",
                 "It is the subject of many complaints from the university community."
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -783,7 +815,8 @@
                 "10 minutes early",
                 "15 minutes early",
                 "20 minutes early"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "12. What will the restaurant try to provide?",
@@ -792,7 +825,8 @@
                 "Seating near a window",
                 "Personalized service",
                 "A customized menu"
-              ]
+              ],
+              "correct_answer": 1
             }
           ],
           "keys": {
@@ -845,7 +879,8 @@
                 "The dining room",
                 "The living room",
                 "The bedroom"
-              ]
+              ],
+              "correct_answer": 3
             },
             {
               "text": "12.  When can Mr. Brown return to the apartment?",
@@ -854,7 +889,8 @@
                 "At 11:00 AM",
                 "At 12:00 PM",
                 "At 1:00 PM"
-              ]
+              ],
+              "correct_answer": 0
             }
           ],
           "keys": {
@@ -913,7 +949,8 @@
                 "It has received numerous complaints about noise levels.",
                 "It is located on the campus of a university.",
                 "It holds a large collection of film and music recordings."
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "14.  The phrase \"adhere to\" in the opening paragraph is closest in meaning to",
@@ -922,7 +959,8 @@
                 "read",
                 "follow",
                 "admire"
-              ]
+              ],
+              "correct_answer": 3
             },
             {
               "text": "15.  What is indicated about headphones?",
@@ -931,7 +969,8 @@
                 "They are only allowed for use with smartphones and laptop computers.",
                 "They may not be shared between two users.",
                 "They should be kept at a low volume."
-              ]
+              ],
+              "correct_answer": 0
             }
           ],
           "keys": {
@@ -970,7 +1009,8 @@
                 "2:45 PM",
                 "3:00 PM",
                 "3:15 PM"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "12.  How can Ms. Patel cancel her appointment?",
@@ -979,7 +1019,8 @@
                 "By clicking a link",
                 "By calling a phone number",
                 "By sending a text message"
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -1032,7 +1073,8 @@
                 "Educational programs for children",
                 "Volunteer opportunities for community members",
                 "Training courses for nature guides"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "14.  What must volunteers do before they can start working?",
@@ -1041,7 +1083,8 @@
                 "Complete training and pass a background check",
                 "Demonstrate experience working with children",
                 "Commit to working both Saturday and Sunday"
-              ]
+              ],
+              "correct_answer": 0
             },
             {
               "text": "15.  When is the latest someone can apply for this program?",
@@ -1050,7 +1093,8 @@
                 "April 15th",
                 "May 1st",
                 "May 9th"
-              ]
+              ],
+              "correct_answer": 0
             }
           ],
           "keys": {
@@ -1103,7 +1147,8 @@
                 "3",
                 "4",
                 "5"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "12.  What will Ms. Green not be charged for?",
@@ -1112,7 +1157,8 @@
                 "Rescheduling the reservation",
                 "Listening to live music",
                 "Inviting additional guests"
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -1151,7 +1197,8 @@
                 "Reporting problems with library computers",
                 "Booking time to use library computers",
                 "Requesting software installation on computers"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "14.  How far in advance can someone reserve a Premium station?",
@@ -1160,7 +1207,8 @@
                 "Up to one week ahead",
                 "Up to one month ahead",
                 "Up to two weeks in advance"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "15.  What happens if someone arrives 20 minutes late for their reservation?",
@@ -1169,7 +1217,8 @@
                 "They must pay an additional fee.",
                 "Their reservation is automatically canceled.",
                 "They are moved to a Basic station instead."
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -1208,7 +1257,8 @@
                 "On October 25",
                 "On October 26",
                 "On October 29"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "12.  Why may Mr. Clark receive a refund?",
@@ -1217,7 +1267,8 @@
                 "If he could not attend the class",
                 "If he was dissatisfied with the class",
                 "If he rescheduled the class"
-              ]
+              ],
+              "correct_answer": 1
             }
           ],
           "keys": {
@@ -1270,7 +1321,8 @@
                 "A professional workshop on workplace communication",
                 "A management certification course",
                 "A conflict-resolution consulting service"
-              ]
+              ],
+              "correct_answer": 0
             },
             {
               "text": "14.  What does someone gain by registering early?",
@@ -1279,7 +1331,8 @@
                 "A special certificate",
                 "Guaranteed seating in the front row",
                 "A one-on-one session with a facilitator"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "15.  Why is participation limited to 25 people?",
@@ -1288,7 +1341,8 @@
                 "To meet continuing education requirements",
                 "To provide personalized attention to participants",
                 "To ensure everyone receives a workbook"
-              ]
+              ],
+              "correct_answer": 2
             }
           ],
           "keys": {
@@ -1341,7 +1395,8 @@
                 "By Tuesday",
                 "By Wednesday",
                 "By Thursday"
-              ]
+              ],
+              "correct_answer": 3
             },
             {
               "text": "12.  What is Ms. Turner advised to do?",
@@ -1350,7 +1405,8 @@
                 "Return the completed warranty form",
                 "Send in the final payment",
                 "Check the contents of the package"
-              ]
+              ],
+              "correct_answer": 1
             }
           ],
           "keys": {
@@ -1389,7 +1445,8 @@
                 "To announce an event for people who like reading",
                 "To promote an event celebrating the publication of a new book",
                 "To advertise prices for a series of writing workshops"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "14.  Where will the event take place?",
@@ -1398,7 +1455,8 @@
                 "At the library",
                 "At the town square",
                 "At the community center"
-              ]
+              ],
+              "correct_answer": 0
             },
             {
               "text": "15.  What can be concluded about the Summer Book Festival?",
@@ -1407,7 +1465,8 @@
                 "It has a registration fee.",
                 "It will last all day.",
                 "It requires tickets."
-              ]
+              ],
+              "correct_answer": 0
             }
           ],
           "keys": {
@@ -1446,7 +1505,8 @@
                 "To cancel registration for a workshop",
                 "To request payment for a workshop",
                 "To provide technical support for a workshop"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "12.  What information should Ms. Thompson look for in her email?",
@@ -1455,7 +1515,8 @@
                 "A payment receipt",
                 "Login details",
                 "Equipment requirements"
-              ]
+              ],
+              "correct_answer": 3
             }
           ],
           "keys": {
@@ -1508,7 +1569,8 @@
                 "How a small bookstore is competing with online retailers",
                 "The growing popularity of bookstore cafés",
                 "Changes that a local bookstore has made"
-              ]
+              ],
+              "correct_answer": 1
             },
             {
               "text": "14.  Why does the bookstore close at 9 p.m. on weekdays?",
@@ -1517,7 +1579,8 @@
                 "To serve customers who work during traditional business hours",
                 "To provide a place for people to use free Wi-Fi",
                 "To increase sales of coffee and pastries"
-              ]
+              ],
+              "correct_answer": 2
             },
             {
               "text": "15.  What new service is the bookstore offering?",
@@ -1526,7 +1589,8 @@
                 "Book club meetings and author readings",
                 "A café area with food, drinks, and Wi-Fi",
                 "Gift wrapping and special ordering"
-              ]
+              ],
+              "correct_answer": 1
             }
           ],
           "keys": {
