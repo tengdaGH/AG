@@ -153,13 +153,9 @@ def main():
         
     service = build("calendar", "v3", credentials=creds)
 
-    # Let's fetch events for the next 30 days
+    # Sync window: 30 days in the past + 30 days in the future (60-day rolling window)
     now = datetime.datetime.now(datetime.timezone.utc)
-    
-    if "--sync-past-30" in sys.argv:
-        time_min_obj = now - datetime.timedelta(days=30)
-    else:
-        time_min_obj = now
+    time_min_obj = now - datetime.timedelta(days=30)
 
     time_min_date_str = time_min_obj.strftime('%Y-%m-%d')
     time_min = time_min_obj.isoformat()
