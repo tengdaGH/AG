@@ -10,6 +10,8 @@ import zoneinfo
 import requests
 import os
 import html as html_mod
+import concurrent.futures
+import json
 
 SHANGHAI_TZ = zoneinfo.ZoneInfo("Asia/Shanghai")
 
@@ -210,7 +212,7 @@ def generate_html(all_events, now_shanghai):
         sidebar_items += f'<div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:{colors["bg"]}"><span class="dot" style="background:{colors["bg"]}"></span>{html_mod.escape(teacher_name)} ({len(evts)}节)</div>'
         for ev in evts:
             time_str = f"{ev['start'].strftime('%H:%M')}–{ev['end'].strftime('%H:%M')}" if not ev["is_all_day"] else "全天"
-            sidebar_items += f'<div class="sidebar-ev" style="background:{colors["light"]}; border-left: 3px solid {colors["bg"]};"><span class="sidebar-time">{time_str}</span><span class="sidebar-title">{html_mod.escape(ev["summary"])}</span></div>'
+            sidebar_items += f'<div class="sidebar-ev" style="background:{colors["light"]} !important; border-left: 3px solid {colors["bg"]} !important;"><span class="sidebar-time">{time_str}</span><span class="sidebar-title">{html_mod.escape(ev["summary"])}</span></div>'
         sidebar_items += '</div>'
 
     if not sidebar_items:
@@ -895,7 +897,7 @@ def generate_html(all_events, now_shanghai):
             const TESTS = ['新托福', '托福', '雅思'];
             const SKILLS = ['阅读', '写作', '口语', '听力'];
             const TYPES = ['模考正课', '模考', '正课'];
-            const TEACHER_COLORS = {{ Miya: '#d97757', Rita: '#6a9bcc', '月月': '#788c5d', '达哥': '#8b6f5c' }};
+            const TEACHER_COLORS = {json.dumps(TEACHER_COLORS)};
             const START_HOUR = {HOUR_START};
 
             // ── Today/Tomorrow helpers ──
@@ -1127,11 +1129,11 @@ def generate_html(all_events, now_shanghai):
                         if (!evList || !evList.length) return;
                         const block = document.createElement('div');
                         block.className = 'sidebar-teacher';
-                        const color = TEACHER_COLORS[tName] || '#888';
+                        const colorObj = TEACHER_COLORS[tName] || {{bg: '#888', light: '#f0f0f0'}};
                         const nameEl = document.createElement('div');
                         nameEl.className = 'sidebar-teacher-name';
-                        nameEl.style.color = color;
-                        nameEl.innerHTML = '<span class="dot" style="background:' + color + '"></span>' + tName + ' (' + evList.length + '节)';
+                        nameEl.style.color = colorObj.bg;
+                        nameEl.innerHTML = '<span class="dot" style="background:' + colorObj.bg + '"></span>' + tName + ' (' + evList.length + '节)';
                         block.appendChild(nameEl);
 
                         evList.forEach(ev => {{
@@ -1139,6 +1141,7 @@ def generate_html(all_events, now_shanghai):
                             const parsed = ev._parsed;
                             const evEl = document.createElement('div');
                             evEl.className = 'sidebar-ev';
+                            evEl.style.cssText = 'background: ' + colorObj.light + ' !important; border-left: 3px solid ' + colorObj.bg + ' !important;';
                             evEl.innerHTML = '<span class="sidebar-time">' + time + '</span><span class="sidebar-title">' + formatTitle(parsed, false) + '</span>';
                             block.appendChild(evEl);
                         }});
@@ -1234,11 +1237,21 @@ def main():
     print(f"Generating calendar page for week {week_start} – {week_end}...")
 
     all_events = []
-    for teacher, url in ICS_FEEDS.items():
-        print(f"  Fetching {teacher}...")
-        events = fetch_events(teacher, url, week_start, week_end)
-        print(f"    → {len(events)} events this week")
-        all_events.extend(events)
+    
+    # Fetch feeds concurrently to minimize network I/O time
+    with concurrent.futures.ThreadPoolExecutor(max_workers=len(ICS_FEEDS)) as executor:
+        future_to_teacher = {
+            executor.submit(fetch_events, teacher, url, week_start, week_end): teacher
+            for teacher, url in ICS_FEEDS.items()
+        }
+        for future in concurrent.futures.as_completed(future_to_teacher):
+            teacher = future_to_teacher[future]
+            try:
+                events = future.result()
+                print(f"  Fetched {teacher} → {len(events)} events this week")
+                all_events.extend(events)
+            except Exception as exc:
+                print(f"  [Error fetching {teacher}]: {exc}")
 
     html_content = generate_html(all_events, now_shanghai)
 
