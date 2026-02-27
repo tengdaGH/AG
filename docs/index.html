@@ -1,455 +1,909 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>教师课表日程</title>
-<meta name="description" content="NYK 教师课表实时日程总览">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-:root{
-  --bg:#0f1117;--surface:#1a1d27;--surface2:#232733;--border:#2a2e3a;
-  --text:#e4e6ed;--text2:#9ca0ae;--text3:#6b7080;
-  --radius:12px;--radius-sm:8px;
-}
-body{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}
-h1{font-size:1.4rem;font-weight:700;letter-spacing:-0.02em}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>教师课表日程</title>
+    <meta name="description" content="NYK 教师课表实时日程总览">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Lora:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0
+        }
 
-/* Layout */
-.shell{display:flex;flex-direction:column;height:100vh;overflow:hidden}
-.topbar{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;border-bottom:1px solid var(--border);flex-shrink:0;backdrop-filter:blur(12px);background:rgba(15,17,23,0.85);position:sticky;top:0;z-index:10}
-.topbar-left{display:flex;align-items:center;gap:12px}
-.topbar-right{display:flex;align-items:center;gap:12px}
-.sync-badge{font-size:0.72rem;color:var(--text3);background:var(--surface2);padding:4px 10px;border-radius:20px;white-space:nowrap}
-.sync-badge::before{content:'';display:inline-block;width:6px;height:6px;background:#22c55e;border-radius:50%;margin-right:6px;animation:pulse 2s infinite}
-@keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+        :root {
+            /* Anthropic palette */
+            --bg: #faf9f5;
+            --surface: #f0efe8;
+            --surface2: #e8e6dc;
+            --border: #dcd9cf;
+            --text: #141413;
+            --text2: #5a584f;
+            --text3: #b0aea5;
+            --radius: 10px;
+            --radius-sm: 7px;
 
-/* Tabs */
-.tabs{display:flex;gap:6px;flex-wrap:wrap}
-.tab{padding:6px 14px;border-radius:20px;border:1px solid var(--border);background:transparent;color:var(--text2);
-  font-size:0.8rem;font-weight:500;cursor:pointer;transition:all .2s;font-family:inherit}
-.tab:hover{background:var(--surface2);color:var(--text)}
-.tab.active{background:var(--text);color:var(--bg);border-color:var(--text)}
+            /* Teacher accents — earthy, muted */
+            --miya: #d97757;
+            --rita: #6a9bcc;
+            --yueyue: #788c5d;
+            --dage: #8b6f5c;
 
-/* Main area */
-.main{display:flex;flex:1;overflow:hidden}
-.calendar-area{flex:1;overflow-y:auto;overflow-x:auto;padding:0}
-.sidebar{width:280px;flex-shrink:0;border-left:1px solid var(--border);overflow-y:auto;padding:20px;background:var(--surface)}
+            /* Fonts */
+            --font-heading: 'Poppins', system-ui, -apple-system, sans-serif;
+            --font-body: 'Lora', Georgia, serif;
+        }
 
-/* Week header */
-.week-header{display:flex;align-items:center;justify-content:space-between;padding:12px 24px;border-bottom:1px solid var(--border);flex-shrink:0}
-.week-label{font-size:0.9rem;font-weight:600;color:var(--text2)}
+        body {
+            font-family: var(--font-body);
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh
+        }
 
-/* Grid */
-.grid-wrap{display:flex;position:relative;min-width:700px}
-.time-gutter{width:56px;flex-shrink:0;position:relative;border-right:1px solid var(--border)}
-.time-label{position:absolute;right:12px;font-size:0.7rem;color:var(--text3);transform:translateY(-50%);font-variant-numeric:tabular-nums}
-.days-container{display:flex;flex:1}
-.day-col{flex:1;min-width:0;border-right:1px solid var(--border);position:relative}
-.day-col:last-child{border-right:none}
-.day-header{text-align:center;padding:10px 4px 8px;border-bottom:1px solid var(--border);position:sticky;top:0;background:var(--bg);z-index:2}
-.weekday{display:block;font-size:0.72rem;color:var(--text3);font-weight:500;text-transform:uppercase;letter-spacing:0.05em}
-.date-num{display:inline-flex;align-items:center;gap:4px;font-size:0.85rem;font-weight:600;color:var(--text2);margin-top:2px}
-.today-col .weekday{color:var(--text)}
-.today-col .date-num{color:#fff;background:#7c3aed;padding:2px 10px;border-radius:20px}
-.today-dot{display:none}
-.day-body{position:relative;}
+        h1 {
+            font-family: var(--font-heading);
+            font-size: 1.35rem;
+            font-weight: 700;
+            letter-spacing: -0.01em
+        }
 
-/* Hour gridlines */
-.day-body::before{
-  content:'';position:absolute;inset:0;
-  background:repeating-linear-gradient(to bottom,transparent,transparent 59px,var(--border) 59px,var(--border) 60px);
-  pointer-events:none;z-index:0;
-}
+        /* Layout */
+        .shell {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden
+        }
 
-/* Event block */
-.ev{position:absolute;border-radius:var(--radius-sm);padding:3px 6px;overflow:hidden;
-  cursor:default;z-index:1;display:flex;flex-direction:column;gap:1px;transition:opacity .25s,transform .15s;}
-.ev:hover{transform:scale(1.02);z-index:5;box-shadow:0 4px 20px rgba(0,0,0,0.4)}
-.ev-time{font-size:0.65rem;font-weight:600;opacity:0.7;white-space:nowrap}
-.ev-title{font-size:0.72rem;font-weight:500;line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
-.ev.hidden{opacity:0.08;pointer-events:none;transform:scale(0.95)}
+        .topbar {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 28px;
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+            background: var(--bg);
+            position: sticky;
+            top: 0;
+            z-index: 10
+        }
 
-/* All-day row */
-.allday-row{display:flex;min-height:28px;border-bottom:1px solid var(--border)}
-.allday-gutter{width:56px;flex-shrink:0;border-right:1px solid var(--border);display:flex;align-items:center;justify-content:flex-end;padding-right:8px;font-size:0.65rem;color:var(--text3)}
-.allday-cells{display:flex;flex:1}
-.allday-cell{flex:1;min-width:0;border-right:1px solid var(--border);padding:4px;display:flex;flex-wrap:wrap;gap:3px;align-items:center}
-.allday-cell:last-child{border-right:none}
-.allday-pill{font-size:0.65rem;padding:2px 8px;border-radius:12px;white-space:nowrap;font-weight:500}
-.allday-pill.hidden{opacity:0.08}
+        .topbar-left {
+            display: flex;
+            align-items: center;
+            gap: 14px
+        }
 
-/* Sidebar */
-.sidebar-title-main{font-size:1rem;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}
-.sidebar-title-main::before{content:'📋'}
-.sidebar-teacher{margin-bottom:16px}
-.sidebar-teacher-name{font-size:0.82rem;font-weight:600;margin-bottom:6px;display:flex;align-items:center;gap:6px}
-.dot{width:8px;height:8px;border-radius:50%;flex-shrink:0}
-.sidebar-ev{display:flex;flex-direction:column;padding:8px 10px;background:var(--surface2);border-radius:var(--radius-sm);margin-bottom:4px;transition:opacity .25s}
-.sidebar-ev.hidden{opacity:0.08}
-.sidebar-time{font-size:0.7rem;color:var(--text3);font-variant-numeric:tabular-nums;font-weight:500}
-.sidebar-title{font-size:0.78rem;font-weight:500;margin-top:2px}
-.sidebar-empty{color:var(--text3);font-size:0.85rem;text-align:center;padding:40px 0}
+        .topbar-right {
+            display: flex;
+            align-items: center;
+            gap: 12px
+        }
 
-/* Now line */
-.now-line{position:absolute;left:0;right:0;height:2px;background:#f43f5e;z-index:3;pointer-events:none}
-.now-line::before{content:'';position:absolute;left:-4px;top:-3px;width:8px;height:8px;border-radius:50%;background:#f43f5e}
+        .sync-badge {
+            font-family: var(--font-heading);
+            font-size: 0.7rem;
+            color: var(--text3);
+            background: var(--surface2);
+            padding: 4px 12px;
+            border-radius: 20px;
+            white-space: nowrap;
+            letter-spacing: 0.01em
+        }
 
-/* Mobile */
-@media(max-width:860px){
-  .sidebar{display:none}
-  .topbar{padding:12px 16px;flex-wrap:wrap;gap:8px}
-  .tabs{order:3;width:100%}
-  .grid-wrap{min-width:580px}
-}
-@media(max-width:600px){
-  .grid-wrap{min-width:480px}
-  .time-gutter{width:40px}
-  .time-label{font-size:0.6rem;right:6px}
-  .ev-title{font-size:0.65rem}
-  .day-header{padding:6px 2px 4px}
-}
-</style>
+        .sync-badge::before {
+            content: '';
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            background: #788c5d;
+            border-radius: 50%;
+            margin-right: 7px;
+            animation: pulse 2.5s ease-in-out infinite
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1
+            }
+
+            50% {
+                opacity: .35
+            }
+        }
+
+        /* Tabs — Anthropic pill nav */
+        .tabs {
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap
+        }
+
+        .tab {
+            padding: 6px 16px;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text2);
+            font-size: 0.78rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all .25s ease;
+            font-family: var(--font-heading);
+            letter-spacing: 0.01em
+        }
+
+        .tab:hover {
+            background: var(--surface2);
+            color: var(--text);
+            border-color: var(--text3)
+        }
+
+        .tab.active {
+            background: var(--text);
+            color: var(--bg);
+            border-color: var(--text)
+        }
+
+        /* Main area */
+        .main {
+            display: flex;
+            flex: 1;
+            overflow: hidden
+        }
+
+        .calendar-area {
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: auto;
+            padding: 0
+        }
+
+        .sidebar {
+            width: 280px;
+            flex-shrink: 0;
+            border-left: 1px solid var(--border);
+            overflow-y: auto;
+            padding: 22px;
+            background: var(--surface)
+        }
+
+        /* Week header */
+        .week-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 28px;
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0
+        }
+
+        .week-label {
+            font-family: var(--font-heading);
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--text2)
+        }
+
+        /* Grid */
+        .grid-wrap {
+            display: flex;
+            position: relative;
+            min-width: 700px
+        }
+
+        .time-gutter {
+            width: 58px;
+            flex-shrink: 0;
+            position: relative;
+            border-right: 1px solid var(--border)
+        }
+
+        .time-label {
+            position: absolute;
+            right: 12px;
+            font-family: var(--font-heading);
+            font-size: 0.68rem;
+            color: var(--text3);
+            transform: translateY(-50%);
+            font-variant-numeric: tabular-nums
+        }
+
+        .days-container {
+            display: flex;
+            flex: 1
+        }
+
+        .day-col {
+            flex: 1;
+            min-width: 0;
+            border-right: 1px solid var(--border);
+            position: relative
+        }
+
+        .day-col:last-child {
+            border-right: none
+        }
+
+        .day-header {
+            text-align: center;
+            padding: 10px 4px 8px;
+            border-bottom: 1px solid var(--border);
+            position: sticky;
+            top: 0;
+            background: var(--bg);
+            z-index: 2
+        }
+
+        .weekday {
+            display: block;
+            font-family: var(--font-heading);
+            font-size: 0.7rem;
+            color: var(--text3);
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.06em
+        }
+
+        .date-num {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-family: var(--font-heading);
+            font-size: 0.84rem;
+            font-weight: 600;
+            color: var(--text2);
+            margin-top: 2px
+        }
+
+        .today-col .weekday {
+            color: var(--text)
+        }
+
+        .today-col .date-num {
+            color: #fff;
+            background: var(--miya);
+            padding: 2px 10px;
+            border-radius: 20px
+        }
+
+        .today-dot {
+            display: none
+        }
+
+        .day-body {
+            position: relative;
+        }
+
+        /* Hour gridlines */
+        .day-body::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: repeating-linear-gradient(to bottom, transparent, transparent 59px, var(--border) 59px, var(--border) 60px);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        /* Event block */
+        .ev {
+            position: absolute;
+            border-radius: var(--radius-sm);
+            padding: 3px 7px;
+            overflow: hidden;
+            cursor: default;
+            z-index: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 1px;
+            transition: opacity .3s ease, box-shadow .3s ease;
+        }
+
+        .ev:hover {
+            z-index: 5;
+            box-shadow: 0 2px 12px rgba(20, 20, 19, 0.10)
+        }
+
+        .ev-time {
+            font-family: var(--font-heading);
+            font-size: 0.64rem;
+            font-weight: 600;
+            opacity: 0.65;
+            white-space: nowrap
+        }
+
+        .ev-title {
+            font-size: 0.72rem;
+            font-weight: 500;
+            line-height: 1.35;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden
+        }
+
+        .ev.hidden {
+            opacity: 0.06;
+            pointer-events: none
+        }
+
+        /* All-day row */
+        .allday-row {
+            display: flex;
+            min-height: 28px;
+            border-bottom: 1px solid var(--border)
+        }
+
+        .allday-gutter {
+            width: 58px;
+            flex-shrink: 0;
+            border-right: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 8px;
+            font-family: var(--font-heading);
+            font-size: 0.65rem;
+            color: var(--text3)
+        }
+
+        .allday-cells {
+            display: flex;
+            flex: 1
+        }
+
+        .allday-cell {
+            flex: 1;
+            min-width: 0;
+            border-right: 1px solid var(--border);
+            padding: 4px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 3px;
+            align-items: center
+        }
+
+        .allday-cell:last-child {
+            border-right: none
+        }
+
+        .allday-pill {
+            font-family: var(--font-heading);
+            font-size: 0.65rem;
+            padding: 2px 8px;
+            border-radius: 12px;
+            white-space: nowrap;
+            font-weight: 500
+        }
+
+        .allday-pill.hidden {
+            opacity: 0.06
+        }
+
+        /* Sidebar */
+        .sidebar-title-main {
+            font-family: var(--font-heading);
+            font-size: 0.95rem;
+            font-weight: 700;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 8px
+        }
+
+        .sidebar-title-main::before {
+            content: '📋'
+        }
+
+        .sidebar-teacher {
+            margin-bottom: 18px
+        }
+
+        .sidebar-teacher-name {
+            font-family: var(--font-heading);
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 7px;
+            display: flex;
+            align-items: center;
+            gap: 7px
+        }
+
+        .dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            flex-shrink: 0
+        }
+
+        .sidebar-ev {
+            display: flex;
+            flex-direction: column;
+            padding: 9px 12px;
+            background: var(--surface2);
+            border-radius: var(--radius-sm);
+            margin-bottom: 5px;
+            transition: opacity .3s ease
+        }
+
+        .sidebar-ev.hidden {
+            opacity: 0.06
+        }
+
+        .sidebar-time {
+            font-family: var(--font-heading);
+            font-size: 0.68rem;
+            color: var(--text3);
+            font-variant-numeric: tabular-nums;
+            font-weight: 500
+        }
+
+        .sidebar-title {
+            font-size: 0.78rem;
+            font-weight: 500;
+            margin-top: 2px
+        }
+
+        .sidebar-empty {
+            color: var(--text3);
+            font-size: 0.85rem;
+            text-align: center;
+            padding: 40px 0
+        }
+
+        /* Now line — terracotta */
+        .now-line {
+            position: absolute;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: var(--miya);
+            z-index: 3;
+            pointer-events: none
+        }
+
+        .now-line::before {
+            content: '';
+            position: absolute;
+            left: -4px;
+            top: -3px;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--miya)
+        }
+
+        /* Mobile */
+        @media(max-width:860px) {
+            .sidebar {
+                display: none
+            }
+
+            .topbar {
+                padding: 12px 16px;
+                flex-wrap: wrap;
+                gap: 8px
+            }
+
+            .tabs {
+                order: 3;
+                width: 100%
+            }
+
+            .grid-wrap {
+                min-width: 580px
+            }
+        }
+
+        @media(max-width:600px) {
+            .grid-wrap {
+                min-width: 480px
+            }
+
+            .time-gutter {
+                width: 42px
+            }
+
+            .time-label {
+                font-size: 0.6rem;
+                right: 6px
+            }
+
+            .ev-title {
+                font-size: 0.65rem
+            }
+
+            .day-header {
+                padding: 6px 2px 4px
+            }
+        }
+    </style>
 </head>
+
 <body>
-<div class="shell">
-  <div class="topbar">
-    <div class="topbar-left">
-      <h1>教师课表日程</h1>
-      <div class="tabs" id="tabs"><button class="tab active" data-filter="all">全部</button><button class="tab" data-filter="Miya" style="--tab-color:#7c3aed">Miya</button><button class="tab" data-filter="Rita" style="--tab-color:#f43f5e">Rita</button><button class="tab" data-filter="月月" style="--tab-color:#f97316">月月</button><button class="tab" data-filter="达哥" style="--tab-color:#0ea5e9">达哥</button></div>
+    <div class="shell">
+        <div class="topbar">
+            <div class="topbar-left">
+                <h1>教师课表日程</h1>
+                <div class="tabs" id="tabs"><button class="tab active" data-filter="all">全部</button><button class="tab"
+                        data-filter="Miya">Miya</button><button class="tab" data-filter="Rita">Rita</button><button
+                        class="tab" data-filter="月月">月月</button><button class="tab" data-filter="达哥">达哥</button></div>
+            </div>
+            <div class="topbar-right">
+                <span class="sync-badge">同步于 2026-02-27 12:00:44</span>
+            </div>
+        </div>
+
+        <div class="week-header">
+            <span class="week-label">02月23日 – 03月01日</span>
+        </div>
+
+        <div class="main">
+            <div class="calendar-area">
+                <!-- All-day row -->
+                <div class="allday-row">
+                    <div class="allday-gutter">全天</div>
+                    <div class="allday-cells">
+                        <div class="allday-cell"></div>
+                        <div class="allday-cell"></div>
+                        <div class="allday-cell"></div>
+                        <div class="allday-cell"></div>
+                        <div class="allday-cell"></div>
+                        <div class="allday-cell"></div>
+                        <div class="allday-cell"></div>
+                    </div>
+                </div>
+
+                <!-- Time grid -->
+                <div class="grid-wrap">
+                    <div class="time-gutter" style="height:840px;">
+                        <div class="time-label" style="top:0px;">08:00</div>
+                        <div class="time-label" style="top:60px;">09:00</div>
+                        <div class="time-label" style="top:120px;">10:00</div>
+                        <div class="time-label" style="top:180px;">11:00</div>
+                        <div class="time-label" style="top:240px;">12:00</div>
+                        <div class="time-label" style="top:300px;">13:00</div>
+                        <div class="time-label" style="top:360px;">14:00</div>
+                        <div class="time-label" style="top:420px;">15:00</div>
+                        <div class="time-label" style="top:480px;">16:00</div>
+                        <div class="time-label" style="top:540px;">17:00</div>
+                        <div class="time-label" style="top:600px;">18:00</div>
+                        <div class="time-label" style="top:660px;">19:00</div>
+                        <div class="time-label" style="top:720px;">20:00</div>
+                        <div class="time-label" style="top:780px;">21:00</div>
+                    </div>
+                    <div class="days-container">
+
+                        <div class="day-col" data-date="2026-02-23">
+                            <div class="day-header">
+                                <span class="weekday">周一</span>
+                                <span class="date-num">2/23</span>
+                            </div>
+                            <div class="day-body" style="height:840px;">
+                                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya休息♨️  08:00–09:00">
+                                    <span class="ev-time">08:00–09:00</span>
+                                    <span class="ev-title">miya休息♨️</span>
+                                </div>
+                                <div class="ev" style="top:150.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 小楷雅思阅读正课  10:30–12:00">
+                                    <span class="ev-time">10:30–12:00</span>
+                                    <span class="ev-title">Rita 小楷雅思阅读正课</span>
+                                </div>
+                                <div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 皓宇托福口语正课  14:00–15:30">
+                                    <span class="ev-time">14:00–15:30</span>
+                                    <span class="ev-title">Rita 皓宇托福口语正课</span>
+                                </div>
+                                <div class="ev" style="top:480.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(139,111,92,0.12);border-left:3px solid #8b6f5c;
+            " data-teacher="达哥" title="达哥 小楷雅思口语正课  16:00–17:00">
+                                    <span class="ev-time">16:00–17:00</span>
+                                    <span class="ev-title">达哥 小楷雅思口语正课</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day-col" data-date="2026-02-24">
+                            <div class="day-header">
+                                <span class="weekday">周二</span>
+                                <span class="date-num">2/24</span>
+                            </div>
+                            <div class="day-body" style="height:840px;">
+                                <div class="ev" style="top:120.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 小楷雅思写作  10:00–11:00">
+                                    <span class="ev-time">10:00–11:00</span>
+                                    <span class="ev-title">miya 小楷雅思写作</span>
+                                </div>
+                                <div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 皓宇托福写作正课  14:00–15:30">
+                                    <span class="ev-time">14:00–15:30</span>
+                                    <span class="ev-title">miya 皓宇托福写作正课</span>
+                                </div>
+                                <div class="ev" style="top:480.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 小楷雅思写作正课  16:00–17:00">
+                                    <span class="ev-time">16:00–17:00</span>
+                                    <span class="ev-title">miya 小楷雅思写作正课</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day-col" data-date="2026-02-25">
+                            <div class="day-header">
+                                <span class="weekday">周三</span>
+                                <span class="date-num">2/25</span>
+                            </div>
+                            <div class="day-body" style="height:840px;">
+                                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya休息♨️  08:00–09:00">
+                                    <span class="ev-time">08:00–09:00</span>
+                                    <span class="ev-title">miya休息♨️</span>
+                                </div>
+                                <div class="ev" style="top:120.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(120,140,93,0.12);border-left:3px solid #788c5d;
+            " data-teacher="月月" title="🈷️ 贺贺雅思听力正课  10:00–11:30">
+                                    <span class="ev-time">10:00–11:30</span>
+                                    <span class="ev-title">🈷️ 贺贺雅思听力正课</span>
+                                </div>
+                                <div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 皓宇托福口语正课  14:00–15:30">
+                                    <span class="ev-time">14:00–15:30</span>
+                                    <span class="ev-title">Rita 皓宇托福口语正课</span>
+                                </div>
+                                <div class="ev" style="top:480.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 贺贺雅思阅读正课  16:00–17:30">
+                                    <span class="ev-time">16:00–17:30</span>
+                                    <span class="ev-title">Rita 贺贺雅思阅读正课</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day-col" data-date="2026-02-26">
+                            <div class="day-header">
+                                <span class="weekday">周四</span>
+                                <span class="date-num">2/26</span>
+                            </div>
+                            <div class="day-body" style="height:840px;">
+                                <div class="ev" style="top:120.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 小楷雅思阅读正课  10:00–11:00">
+                                    <span class="ev-time">10:00–11:00</span>
+                                    <span class="ev-title">Rita 小楷雅思阅读正课</span>
+                                </div>
+                                <div class="ev" style="top:180.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 皮皮写作正课  11:00–12:00">
+                                    <span class="ev-time">11:00–12:00</span>
+                                    <span class="ev-title">miya 皮皮写作正课</span>
+                                </div>
+                                <div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(50.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 皓宇托福写作正课  14:00–15:30">
+                                    <span class="ev-time">14:00–15:30</span>
+                                    <span class="ev-title">miya 皓宇托福写作正课</span>
+                                </div>
+                                <div class="ev" style="top:420.0px;height:60.0px;left:calc(50.0% + 2px);width:calc(50.0% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 皮皮雅思阅读正课  15:00–16:00">
+                                    <span class="ev-time">15:00–16:00</span>
+                                    <span class="ev-title">Rita 皮皮雅思阅读正课</span>
+                                </div>
+                                <div class="ev" style="top:480.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 小楷雅思写作正课  16:00–17:00">
+                                    <span class="ev-time">16:00–17:00</span>
+                                    <span class="ev-title">miya 小楷雅思写作正课</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day-col today-col" data-date="2026-02-27">
+                            <div class="day-header">
+                                <span class="weekday">周五</span>
+                                <span class="date-num"><span class="today-dot"></span>2/27</span>
+                            </div>
+                            <div class="day-body" style="height:840px;">
+                                <div class="ev" style="top:120.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 小楷雅思阅读  10:00–11:00">
+                                    <span class="ev-time">10:00–11:00</span>
+                                    <span class="ev-title">Rita 小楷雅思阅读</span>
+                                </div>
+                                <div class="ev" style="top:150.0px;height:90.0px;left:calc(33.333333333333336% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 贺贺雅思写作  10:30–12:00">
+                                    <span class="ev-time">10:30–12:00</span>
+                                    <span class="ev-title">miya 贺贺雅思写作</span>
+                                </div>
+                                <div class="ev" style="top:180.0px;height:60.0px;left:calc(66.66666666666667% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 皮皮雅思阅读正课  11:00–12:00">
+                                    <span class="ev-time">11:00–12:00</span>
+                                    <span class="ev-title">Rita 皮皮雅思阅读正课</span>
+                                </div>
+                                <div class="ev" style="top:420.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 小楷雅思写作正课  15:00–16:00">
+                                    <span class="ev-time">15:00–16:00</span>
+                                    <span class="ev-title">miya 小楷雅思写作正课</span>
+                                </div>
+                                <div class="ev" style="top:420.0px;height:120.0px;left:calc(33.333333333333336% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(106,155,204,0.12);border-left:3px solid #6a9bcc;
+            " data-teacher="Rita" title="Rita 贺贺雅思阅读正课  15:00–17:00">
+                                    <span class="ev-time">15:00–17:00</span>
+                                    <span class="ev-title">Rita 贺贺雅思阅读正课</span>
+                                </div>
+                                <div class="ev" style="top:510.0px;height:90.0px;left:calc(66.66666666666667% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 皮皮雅思写作正课  16:30–18:00">
+                                    <span class="ev-time">16:30–18:00</span>
+                                    <span class="ev-title">miya 皮皮雅思写作正课</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day-col" data-date="2026-02-28">
+                            <div class="day-header">
+                                <span class="weekday">周六</span>
+                                <span class="date-num">2/28</span>
+                            </div>
+                            <div class="day-body" style="height:840px;">
+                                <div class="ev" style="top:120.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(25.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 小楷雅思写作正课  10:00–11:00">
+                                    <span class="ev-time">10:00–11:00</span>
+                                    <span class="ev-title">miya 小楷雅思写作正课</span>
+                                </div>
+                                <div class="ev" style="top:120.0px;height:60.0px;left:calc(25.0% + 2px);width:calc(25.0% - 4px);
+            background:rgba(139,111,92,0.12);border-left:3px solid #8b6f5c;
+            " data-teacher="达哥" title="达哥 贺贺雅思口语正课  10:00–11:00">
+                                    <span class="ev-time">10:00–11:00</span>
+                                    <span class="ev-title">达哥 贺贺雅思口语正课</span>
+                                </div>
+                                <div class="ev" style="top:120.0px;height:90.0px;left:calc(50.0% + 2px);width:calc(25.0% - 4px);
+            background:rgba(120,140,93,0.12);border-left:3px solid #788c5d;
+            " data-teacher="月月" title="🈷️ 希源雅思听力正课  10:00–11:30">
+                                    <span class="ev-time">10:00–11:30</span>
+                                    <span class="ev-title">🈷️ 希源雅思听力正课</span>
+                                </div>
+                                <div class="ev" style="top:180.0px;height:60.0px;left:calc(75.0% + 2px);width:calc(25.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 贺贺雅思写作正课  11:00–12:00">
+                                    <span class="ev-time">11:00–12:00</span>
+                                    <span class="ev-title">miya 贺贺雅思写作正课</span>
+                                </div>
+                                <div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya 思颖雅思写作正课  14:00–15:30">
+                                    <span class="ev-time">14:00–15:30</span>
+                                    <span class="ev-title">miya 思颖雅思写作正课</span>
+                                </div>
+                                <div class="ev" style="top:360.0px;height:90.0px;left:calc(33.333333333333336% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(120,140,93,0.12);border-left:3px solid #788c5d;
+            " data-teacher="月月" title="🈷️ 贺贺雅思听力正课  14:00–15:30">
+                                    <span class="ev-time">14:00–15:30</span>
+                                    <span class="ev-title">🈷️ 贺贺雅思听力正课</span>
+                                </div>
+                                <div class="ev" style="top:390.0px;height:60.0px;left:calc(66.66666666666667% + 2px);width:calc(33.333333333333336% - 4px);
+            background:rgba(139,111,92,0.12);border-left:3px solid #8b6f5c;
+            " data-teacher="达哥" title="达哥 皮皮雅思口语模考正课  14:30–15:30">
+                                    <span class="ev-time">14:30–15:30</span>
+                                    <span class="ev-title">达哥 皮皮雅思口语模考正课</span>
+                                </div>
+                                <div class="ev" style="top:480.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(139,111,92,0.12);border-left:3px solid #8b6f5c;
+            " data-teacher="达哥" title="达哥 希源雅思口语正课  16:00–17:00">
+                                    <span class="ev-time">16:00–17:00</span>
+                                    <span class="ev-title">达哥 希源雅思口语正课</span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="day-col" data-date="2026-03-01">
+                            <div class="day-header">
+                                <span class="weekday">周日</span>
+                                <span class="date-num">3/1</span>
+                            </div>
+                            <div class="day-body" style="height:840px;">
+                                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(217,119,87,0.12);border-left:3px solid #d97757;
+            " data-teacher="Miya" title="miya休息♨️  08:00–09:00">
+                                    <span class="ev-time">08:00–09:00</span>
+                                    <span class="ev-title">miya休息♨️</span>
+                                </div>
+                                <div class="ev" style="top:360.0px;height:120.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+            background:rgba(139,111,92,0.12);border-left:3px solid #8b6f5c;
+            " data-teacher="达哥" title="皓宇新托福模考  14:00–16:00">
+                                    <span class="ev-time">14:00–16:00</span>
+                                    <span class="ev-title">皓宇新托福模考</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar">
+                <div class="sidebar-title-main">今日课程总览</div>
+                <div class="sidebar-teacher">
+                    <div class="sidebar-teacher-name" style="color:#d97757"><span class="dot"
+                            style="background:#d97757"></span>Miya (3节)</div>
+                    <div class="sidebar-ev"><span class="sidebar-time">10:30–12:00</span><span
+                            class="sidebar-title">miya 贺贺雅思写作</span></div>
+                    <div class="sidebar-ev"><span class="sidebar-time">15:00–16:00</span><span
+                            class="sidebar-title">miya 小楷雅思写作正课</span></div>
+                    <div class="sidebar-ev"><span class="sidebar-time">16:30–18:00</span><span
+                            class="sidebar-title">miya 皮皮雅思写作正课</span></div>
+                </div>
+                <div class="sidebar-teacher">
+                    <div class="sidebar-teacher-name" style="color:#6a9bcc"><span class="dot"
+                            style="background:#6a9bcc"></span>Rita (3节)</div>
+                    <div class="sidebar-ev"><span class="sidebar-time">10:00–11:00</span><span
+                            class="sidebar-title">Rita 小楷雅思阅读</span></div>
+                    <div class="sidebar-ev"><span class="sidebar-time">11:00–12:00</span><span
+                            class="sidebar-title">Rita 皮皮雅思阅读正课</span></div>
+                    <div class="sidebar-ev"><span class="sidebar-time">15:00–17:00</span><span
+                            class="sidebar-title">Rita 贺贺雅思阅读正课</span></div>
+                </div>
+            </div>
+        </div>
     </div>
-    <div class="topbar-right">
-      <span class="sync-badge">同步于 2026-02-27 12:00:44</span>
-    </div>
-  </div>
 
-  <div class="week-header">
-    <span class="week-label">02月23日 – 03月01日</span>
-  </div>
+    <script>
+        // Teacher filter
+        document.getElementById('tabs').addEventListener('click', e => {
+            const btn = e.target.closest('.tab');
+            if (!btn) return;
+            document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+            btn.classList.add('active');
+            const filter = btn.dataset.filter;
 
-  <div class="main">
-    <div class="calendar-area">
-      <!-- All-day row -->
-      <div class="allday-row">
-        <div class="allday-gutter">全天</div>
-        <div class="allday-cells"><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div></div>
-      </div>
+            document.querySelectorAll('.ev').forEach(el => {
+                el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter);
+            });
+            document.querySelectorAll('.allday-pill').forEach(el => {
+                el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter);
+            });
+            document.querySelectorAll('.sidebar-teacher').forEach(el => {
+                // Show/hide sidebar sections
+            });
+        });
 
-      <!-- Time grid -->
-      <div class="grid-wrap">
-        <div class="time-gutter" style="height:840px;">
-          <div class="time-label" style="top:0px;">08:00</div><div class="time-label" style="top:60px;">09:00</div><div class="time-label" style="top:120px;">10:00</div><div class="time-label" style="top:180px;">11:00</div><div class="time-label" style="top:240px;">12:00</div><div class="time-label" style="top:300px;">13:00</div><div class="time-label" style="top:360px;">14:00</div><div class="time-label" style="top:420px;">15:00</div><div class="time-label" style="top:480px;">16:00</div><div class="time-label" style="top:540px;">17:00</div><div class="time-label" style="top:600px;">18:00</div><div class="time-label" style="top:660px;">19:00</div><div class="time-label" style="top:720px;">20:00</div><div class="time-label" style="top:780px;">21:00</div>
-        </div>
-        <div class="days-container">
-          
-        <div class="day-col" data-date="2026-02-23">
-            <div class="day-header">
-                <span class="weekday">周一</span>
-                <span class="date-num">2/23</span>
-            </div>
-            <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya休息♨️  08:00–09:00">
-            <span class="ev-time">08:00–09:00</span>
-            <span class="ev-title">miya休息♨️</span>
-        </div><div class="ev" style="top:150.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 小楷雅思阅读正课  10:30–12:00">
-            <span class="ev-time">10:30–12:00</span>
-            <span class="ev-title">Rita 小楷雅思阅读正课</span>
-        </div><div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 皓宇托福口语正课  14:00–15:30">
-            <span class="ev-time">14:00–15:30</span>
-            <span class="ev-title">Rita 皓宇托福口语正课</span>
-        </div><div class="ev" style="top:480.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(14,165,233,0.15);border-left:3px solid #0ea5e9;
-            " data-teacher="达哥"
-            title="达哥 小楷雅思口语正课  16:00–17:00">
-            <span class="ev-time">16:00–17:00</span>
-            <span class="ev-title">达哥 小楷雅思口语正课</span>
-        </div>
-            </div>
-        </div>
-        <div class="day-col" data-date="2026-02-24">
-            <div class="day-header">
-                <span class="weekday">周二</span>
-                <span class="date-num">2/24</span>
-            </div>
-            <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:120.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 小楷雅思写作  10:00–11:00">
-            <span class="ev-time">10:00–11:00</span>
-            <span class="ev-title">miya 小楷雅思写作</span>
-        </div><div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 皓宇托福写作正课  14:00–15:30">
-            <span class="ev-time">14:00–15:30</span>
-            <span class="ev-title">miya 皓宇托福写作正课</span>
-        </div><div class="ev" style="top:480.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 小楷雅思写作正课  16:00–17:00">
-            <span class="ev-time">16:00–17:00</span>
-            <span class="ev-title">miya 小楷雅思写作正课</span>
-        </div>
-            </div>
-        </div>
-        <div class="day-col" data-date="2026-02-25">
-            <div class="day-header">
-                <span class="weekday">周三</span>
-                <span class="date-num">2/25</span>
-            </div>
-            <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya休息♨️  08:00–09:00">
-            <span class="ev-time">08:00–09:00</span>
-            <span class="ev-title">miya休息♨️</span>
-        </div><div class="ev" style="top:120.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(249,115,22,0.15);border-left:3px solid #f97316;
-            " data-teacher="月月"
-            title="🈷️ 贺贺雅思听力正课  10:00–11:30">
-            <span class="ev-time">10:00–11:30</span>
-            <span class="ev-title">🈷️ 贺贺雅思听力正课</span>
-        </div><div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 皓宇托福口语正课  14:00–15:30">
-            <span class="ev-time">14:00–15:30</span>
-            <span class="ev-title">Rita 皓宇托福口语正课</span>
-        </div><div class="ev" style="top:480.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 贺贺雅思阅读正课  16:00–17:30">
-            <span class="ev-time">16:00–17:30</span>
-            <span class="ev-title">Rita 贺贺雅思阅读正课</span>
-        </div>
-            </div>
-        </div>
-        <div class="day-col" data-date="2026-02-26">
-            <div class="day-header">
-                <span class="weekday">周四</span>
-                <span class="date-num">2/26</span>
-            </div>
-            <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:120.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 小楷雅思阅读正课  10:00–11:00">
-            <span class="ev-time">10:00–11:00</span>
-            <span class="ev-title">Rita 小楷雅思阅读正课</span>
-        </div><div class="ev" style="top:180.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 皮皮写作正课  11:00–12:00">
-            <span class="ev-time">11:00–12:00</span>
-            <span class="ev-title">miya 皮皮写作正课</span>
-        </div><div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(50.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 皓宇托福写作正课  14:00–15:30">
-            <span class="ev-time">14:00–15:30</span>
-            <span class="ev-title">miya 皓宇托福写作正课</span>
-        </div><div class="ev" style="top:420.0px;height:60.0px;left:calc(50.0% + 2px);width:calc(50.0% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 皮皮雅思阅读正课  15:00–16:00">
-            <span class="ev-time">15:00–16:00</span>
-            <span class="ev-title">Rita 皮皮雅思阅读正课</span>
-        </div><div class="ev" style="top:480.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 小楷雅思写作正课  16:00–17:00">
-            <span class="ev-time">16:00–17:00</span>
-            <span class="ev-title">miya 小楷雅思写作正课</span>
-        </div>
-            </div>
-        </div>
-        <div class="day-col today-col" data-date="2026-02-27">
-            <div class="day-header">
-                <span class="weekday">周五</span>
-                <span class="date-num"><span class="today-dot"></span>2/27</span>
-            </div>
-            <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:120.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 小楷雅思阅读  10:00–11:00">
-            <span class="ev-time">10:00–11:00</span>
-            <span class="ev-title">Rita 小楷雅思阅读</span>
-        </div><div class="ev" style="top:150.0px;height:90.0px;left:calc(33.333333333333336% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 贺贺雅思写作  10:30–12:00">
-            <span class="ev-time">10:30–12:00</span>
-            <span class="ev-title">miya 贺贺雅思写作</span>
-        </div><div class="ev" style="top:180.0px;height:60.0px;left:calc(66.66666666666667% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 皮皮雅思阅读正课  11:00–12:00">
-            <span class="ev-time">11:00–12:00</span>
-            <span class="ev-title">Rita 皮皮雅思阅读正课</span>
-        </div><div class="ev" style="top:420.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 小楷雅思写作正课  15:00–16:00">
-            <span class="ev-time">15:00–16:00</span>
-            <span class="ev-title">miya 小楷雅思写作正课</span>
-        </div><div class="ev" style="top:420.0px;height:120.0px;left:calc(33.333333333333336% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
-            " data-teacher="Rita"
-            title="Rita 贺贺雅思阅读正课  15:00–17:00">
-            <span class="ev-time">15:00–17:00</span>
-            <span class="ev-title">Rita 贺贺雅思阅读正课</span>
-        </div><div class="ev" style="top:510.0px;height:90.0px;left:calc(66.66666666666667% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 皮皮雅思写作正课  16:30–18:00">
-            <span class="ev-time">16:30–18:00</span>
-            <span class="ev-title">miya 皮皮雅思写作正课</span>
-        </div>
-            </div>
-        </div>
-        <div class="day-col" data-date="2026-02-28">
-            <div class="day-header">
-                <span class="weekday">周六</span>
-                <span class="date-num">2/28</span>
-            </div>
-            <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:120.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(25.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 小楷雅思写作正课  10:00–11:00">
-            <span class="ev-time">10:00–11:00</span>
-            <span class="ev-title">miya 小楷雅思写作正课</span>
-        </div><div class="ev" style="top:120.0px;height:60.0px;left:calc(25.0% + 2px);width:calc(25.0% - 4px);
-            background:rgba(14,165,233,0.15);border-left:3px solid #0ea5e9;
-            " data-teacher="达哥"
-            title="达哥 贺贺雅思口语正课  10:00–11:00">
-            <span class="ev-time">10:00–11:00</span>
-            <span class="ev-title">达哥 贺贺雅思口语正课</span>
-        </div><div class="ev" style="top:120.0px;height:90.0px;left:calc(50.0% + 2px);width:calc(25.0% - 4px);
-            background:rgba(249,115,22,0.15);border-left:3px solid #f97316;
-            " data-teacher="月月"
-            title="🈷️ 希源雅思听力正课  10:00–11:30">
-            <span class="ev-time">10:00–11:30</span>
-            <span class="ev-title">🈷️ 希源雅思听力正课</span>
-        </div><div class="ev" style="top:180.0px;height:60.0px;left:calc(75.0% + 2px);width:calc(25.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 贺贺雅思写作正课  11:00–12:00">
-            <span class="ev-time">11:00–12:00</span>
-            <span class="ev-title">miya 贺贺雅思写作正课</span>
-        </div><div class="ev" style="top:360.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya 思颖雅思写作正课  14:00–15:30">
-            <span class="ev-time">14:00–15:30</span>
-            <span class="ev-title">miya 思颖雅思写作正课</span>
-        </div><div class="ev" style="top:360.0px;height:90.0px;left:calc(33.333333333333336% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(249,115,22,0.15);border-left:3px solid #f97316;
-            " data-teacher="月月"
-            title="🈷️ 贺贺雅思听力正课  14:00–15:30">
-            <span class="ev-time">14:00–15:30</span>
-            <span class="ev-title">🈷️ 贺贺雅思听力正课</span>
-        </div><div class="ev" style="top:390.0px;height:60.0px;left:calc(66.66666666666667% + 2px);width:calc(33.333333333333336% - 4px);
-            background:rgba(14,165,233,0.15);border-left:3px solid #0ea5e9;
-            " data-teacher="达哥"
-            title="达哥 皮皮雅思口语模考正课  14:30–15:30">
-            <span class="ev-time">14:30–15:30</span>
-            <span class="ev-title">达哥 皮皮雅思口语模考正课</span>
-        </div><div class="ev" style="top:480.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(14,165,233,0.15);border-left:3px solid #0ea5e9;
-            " data-teacher="达哥"
-            title="达哥 希源雅思口语正课  16:00–17:00">
-            <span class="ev-time">16:00–17:00</span>
-            <span class="ev-title">达哥 希源雅思口语正课</span>
-        </div>
-            </div>
-        </div>
-        <div class="day-col" data-date="2026-03-01">
-            <div class="day-header">
-                <span class="weekday">周日</span>
-                <span class="date-num">3/1</span>
-            </div>
-            <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya休息♨️  08:00–09:00">
-            <span class="ev-time">08:00–09:00</span>
-            <span class="ev-title">miya休息♨️</span>
-        </div><div class="ev" style="top:360.0px;height:120.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(14,165,233,0.15);border-left:3px solid #0ea5e9;
-            " data-teacher="达哥"
-            title="皓宇新托福模考  14:00–16:00">
-            <span class="ev-time">14:00–16:00</span>
-            <span class="ev-title">皓宇新托福模考</span>
-        </div>
-            </div>
-        </div>
-        </div>
-      </div>
-    </div>
+        // Now line
+        (function () {
+            const now = new Date();
+            const todayStr = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+            const col = document.querySelector('.day-col[data-date="' + todayStr + '"]');
+            if (!col) return;
+            const body = col.querySelector('.day-body');
+            const h = now.getHours() + now.getMinutes() / 60;
+            const startH = 8;
+            if (h < startH || h > 22) return;
+            const top = (h - startH) * 60;
+            const line = document.createElement('div');
+            line.className = 'now-line';
+            line.style.top = top + 'px';
+            body.appendChild(line);
 
-    <div class="sidebar">
-      <div class="sidebar-title-main">今日课程总览</div>
-      <div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:#7c3aed"><span class="dot" style="background:#7c3aed"></span>Miya (3节)</div><div class="sidebar-ev"><span class="sidebar-time">10:30–12:00</span><span class="sidebar-title">miya 贺贺雅思写作</span></div><div class="sidebar-ev"><span class="sidebar-time">15:00–16:00</span><span class="sidebar-title">miya 小楷雅思写作正课</span></div><div class="sidebar-ev"><span class="sidebar-time">16:30–18:00</span><span class="sidebar-title">miya 皮皮雅思写作正课</span></div></div><div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:#f43f5e"><span class="dot" style="background:#f43f5e"></span>Rita (3节)</div><div class="sidebar-ev"><span class="sidebar-time">10:00–11:00</span><span class="sidebar-title">Rita 小楷雅思阅读</span></div><div class="sidebar-ev"><span class="sidebar-time">11:00–12:00</span><span class="sidebar-title">Rita 皮皮雅思阅读正课</span></div><div class="sidebar-ev"><span class="sidebar-time">15:00–17:00</span><span class="sidebar-title">Rita 贺贺雅思阅读正课</span></div></div>
-    </div>
-  </div>
-</div>
-
-<script>
-// Teacher filter
-document.getElementById('tabs').addEventListener('click', e => {
-  const btn = e.target.closest('.tab');
-  if (!btn) return;
-  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-  btn.classList.add('active');
-  const filter = btn.dataset.filter;
-
-  document.querySelectorAll('.ev').forEach(el => {
-    el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter);
-  });
-  document.querySelectorAll('.allday-pill').forEach(el => {
-    el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter);
-  });
-  document.querySelectorAll('.sidebar-teacher').forEach(el => {
-    // Show/hide sidebar sections
-  });
-});
-
-// Now line
-(function() {
-  const now = new Date();
-  const todayStr = now.getFullYear() + '-' + String(now.getMonth()+1).padStart(2,'0') + '-' + String(now.getDate()).padStart(2,'0');
-  const col = document.querySelector('.day-col[data-date="'+todayStr+'"]');
-  if (!col) return;
-  const body = col.querySelector('.day-body');
-  const h = now.getHours() + now.getMinutes()/60;
-  const startH = 8;
-  if (h < startH || h > 22) return;
-  const top = (h - startH) * 60;
-  const line = document.createElement('div');
-  line.className = 'now-line';
-  line.style.top = top + 'px';
-  body.appendChild(line);
-
-  // Auto-scroll to now line
-  const area = document.querySelector('.calendar-area');
-  if (area) area.scrollTop = Math.max(0, top - 120);
-})();
-</script>
+            // Auto-scroll to now line
+            const area = document.querySelector('.calendar-area');
+            if (area) area.scrollTop = Math.max(0, top - 120);
+        })();
+    </script>
 </body>
+
 </html>
