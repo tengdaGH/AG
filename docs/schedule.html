@@ -20,16 +20,16 @@
         }
 
         :root {
-            /* Anthropic palette */
-            --bg: #faf9f5;
-            --surface: #f0efe8;
-            --surface2: #e8e6dc;
-            --border: #dcd9cf;
-            --text: #141413;
-            --text2: #5a584f;
-            --text3: #b0aea5;
-            --radius: 10px;
-            --radius-sm: 7px;
+            /* Minimalist Base Theme */
+            --bg: #FAFAF9;
+            --surface: #FFFFFF;
+            --surface2: rgba(0, 0, 0, 0.03); /* Softer secondary background */
+            --border: rgba(0, 0, 0, 0.06); /* Lighter border for glassware feel */
+            --text: #181817;
+            --text2: #52524E;
+            --text3: #A1A09B;
+            --radius: 12px;
+            --radius-sm: 8px;
 
             /* Teacher accents — earthy, muted */
             --miya: #d97757;
@@ -193,7 +193,7 @@
         .day-headers-row .header-cell {
             flex: 1;
             text-align: center;
-            padding: 10px 4px 8px;
+            padding: 8px 4px 6px;
             border-right: 1px solid var(--border);
         }
 
@@ -331,7 +331,7 @@
         .ev {
             position: absolute;
             border-radius: var(--radius-sm);
-            padding: 3px 7px;
+            padding: 3px 6px;
             overflow: hidden;
             cursor: default;
             z-index: 1;
@@ -504,10 +504,10 @@
         .sidebar-ev {
             display: flex;
             flex-direction: column;
-            padding: 9px 12px;
+            padding: 8px 10px;
             background: var(--surface2);
             border-radius: var(--radius-sm);
-            margin-bottom: 5px;
+            margin-bottom: 4px;
             transition: opacity .3s ease
         }
 
@@ -517,14 +517,14 @@
 
         .sidebar-time {
             font-family: var(--font-heading);
-            font-size: 0.68rem;
+            font-size: 0.65rem;
             color: var(--text3);
             font-variant-numeric: tabular-nums;
             font-weight: 500
         }
 
         .sidebar-title {
-            font-size: 0.78rem;
+            font-size: 0.75rem;
             font-weight: 500;
             margin-top: 2px
         }
@@ -613,7 +613,7 @@
                 <div class="tabs" id="tabs"><button class="tab active" data-filter="all">全部</button><button class="tab" data-filter="Miya" style="--tab-color:#7c3aed">Miya</button><button class="tab" data-filter="Rita" style="--tab-color:#f43f5e">Rita</button><button class="tab" data-filter="月月" style="--tab-color:#f97316">月月</button><button class="tab" data-filter="达哥" style="--tab-color:#0ea5e9">达哥</button></div>
             </div>
             <div class="topbar-right">
-                <span class="sync-badge">同步于 2026-02-27 15:19:50</span>
+                <span class="sync-badge">同步于 2026-02-27 15:29:13</span>
             </div>
         </div>
 
@@ -879,7 +879,7 @@
 
             <div class="sidebar">
                 <div class="sidebar-title-main">今日课程总览</div>
-                <div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:#7c3aed"><span class="dot" style="background:#7c3aed"></span>Miya (3节)</div><div class="sidebar-ev" style="background:rgba(124,58,237,0.15) !important; border-left: 3px solid #7c3aed !important;"><span class="sidebar-time">10:30–12:00</span><span class="sidebar-title">miya 贺贺雅思写作</span></div><div class="sidebar-ev" style="background:rgba(124,58,237,0.15) !important; border-left: 3px solid #7c3aed !important;"><span class="sidebar-time">15:00–16:00</span><span class="sidebar-title">miya 小楷雅思写作正课</span></div><div class="sidebar-ev" style="background:rgba(124,58,237,0.15) !important; border-left: 3px solid #7c3aed !important;"><span class="sidebar-time">16:30–18:00</span><span class="sidebar-title">miya 皮皮雅思写作正课</span></div></div><div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:#f43f5e"><span class="dot" style="background:#f43f5e"></span>Rita (3节)</div><div class="sidebar-ev" style="background:rgba(244,63,94,0.15) !important; border-left: 3px solid #f43f5e !important;"><span class="sidebar-time">10:00–11:00</span><span class="sidebar-title">Rita 小楷雅思阅读</span></div><div class="sidebar-ev" style="background:rgba(244,63,94,0.15) !important; border-left: 3px solid #f43f5e !important;"><span class="sidebar-time">11:00–12:00</span><span class="sidebar-title">Rita 皮皮雅思阅读正课</span></div><div class="sidebar-ev" style="background:rgba(244,63,94,0.15) !important; border-left: 3px solid #f43f5e !important;"><span class="sidebar-time">15:00–17:00</span><span class="sidebar-title">Rita 贺贺雅思阅读正课</span></div></div>
+                <div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:#7c3aed"><span class="dot" style="background:#7c3aed"></span>Miya (3节)</div><div class="sidebar-ev" style="border-left: 3px solid #7c3aed !important;"><span class="sidebar-time">10:30–12:00</span><span class="sidebar-title">miya 贺贺雅思写作</span></div><div class="sidebar-ev" style="border-left: 3px solid #7c3aed !important;"><span class="sidebar-time">15:00–16:00</span><span class="sidebar-title">miya 小楷雅思写作正课</span></div><div class="sidebar-ev" style="border-left: 3px solid #7c3aed !important;"><span class="sidebar-time">16:30–18:00</span><span class="sidebar-title">miya 皮皮雅思写作正课</span></div></div><div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:#f43f5e"><span class="dot" style="background:#f43f5e"></span>Rita (3节)</div><div class="sidebar-ev" style="border-left: 3px solid #f43f5e !important;"><span class="sidebar-time">10:00–11:00</span><span class="sidebar-title">Rita 小楷雅思阅读</span></div><div class="sidebar-ev" style="border-left: 3px solid #f43f5e !important;"><span class="sidebar-time">11:00–12:00</span><span class="sidebar-title">Rita 皮皮雅思阅读正课</span></div><div class="sidebar-ev" style="border-left: 3px solid #f43f5e !important;"><span class="sidebar-time">15:00–17:00</span><span class="sidebar-title">Rita 贺贺雅思阅读正课</span></div></div>
             </div>
         </div>
     </div>
@@ -1136,7 +1136,7 @@
                             const parsed = ev._parsed;
                             const evEl = document.createElement('div');
                             evEl.className = 'sidebar-ev';
-                            evEl.style.cssText = 'background: ' + colorObj.light + ' !important; border-left: 3px solid ' + colorObj.bg + ' !important;';
+                            evEl.style.cssText = 'border-left: 3px solid ' + colorObj.bg + ' !important;';
                             evEl.innerHTML = '<span class="sidebar-time">' + time + '</span><span class="sidebar-title">' + formatTitle(parsed, false) + '</span>';
                             block.appendChild(evEl);
                         });

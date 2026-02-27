@@ -216,7 +216,7 @@ def generate_html(all_events, now_shanghai):
         sidebar_items += f'<div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:{colors["bg"]}"><span class="dot" style="background:{colors["bg"]}"></span>{html_mod.escape(teacher_name)} ({len(evts)}节)</div>'
         for ev in evts:
             time_str = f"{ev['start'].strftime('%H:%M')}–{ev['end'].strftime('%H:%M')}" if not ev["is_all_day"] else "全天"
-            sidebar_items += f'<div class="sidebar-ev" style="background:{colors["light"]} !important; border-left: 3px solid {colors["bg"]} !important;"><span class="sidebar-time">{time_str}</span><span class="sidebar-title">{html_mod.escape(ev["summary"])}</span></div>'
+            sidebar_items += f'<div class="sidebar-ev" style="border-left: 3px solid {colors["bg"]} !important;"><span class="sidebar-time">{time_str}</span><span class="sidebar-title">{html_mod.escape(ev["summary"])}</span></div>'
         sidebar_items += '</div>'
 
     if not sidebar_items:
@@ -266,16 +266,16 @@ def generate_html(all_events, now_shanghai):
         }}
 
         :root {{
-            /* Anthropic palette */
-            --bg: #faf9f5;
-            --surface: #f0efe8;
-            --surface2: #e8e6dc;
-            --border: #dcd9cf;
-            --text: #141413;
-            --text2: #5a584f;
-            --text3: #b0aea5;
-            --radius: 10px;
-            --radius-sm: 7px;
+            /* Minimalist Base Theme */
+            --bg: #FAFAF9;
+            --surface: #FFFFFF;
+            --surface2: rgba(0, 0, 0, 0.03); /* Softer secondary background */
+            --border: rgba(0, 0, 0, 0.06); /* Lighter border for glassware feel */
+            --text: #181817;
+            --text2: #52524E;
+            --text3: #A1A09B;
+            --radius: 12px;
+            --radius-sm: 8px;
 
             /* Teacher accents — earthy, muted */
             --miya: #d97757;
@@ -439,7 +439,7 @@ def generate_html(all_events, now_shanghai):
         .day-headers-row .header-cell {{
             flex: 1;
             text-align: center;
-            padding: 10px 4px 8px;
+            padding: 8px 4px 6px;
             border-right: 1px solid var(--border);
         }}
 
@@ -577,7 +577,7 @@ def generate_html(all_events, now_shanghai):
         .ev {{
             position: absolute;
             border-radius: var(--radius-sm);
-            padding: 3px 7px;
+            padding: 3px 6px;
             overflow: hidden;
             cursor: default;
             z-index: 1;
@@ -750,10 +750,10 @@ def generate_html(all_events, now_shanghai):
         .sidebar-ev {{
             display: flex;
             flex-direction: column;
-            padding: 9px 12px;
+            padding: 8px 10px;
             background: var(--surface2);
             border-radius: var(--radius-sm);
-            margin-bottom: 5px;
+            margin-bottom: 4px;
             transition: opacity .3s ease
         }}
 
@@ -763,14 +763,14 @@ def generate_html(all_events, now_shanghai):
 
         .sidebar-time {{
             font-family: var(--font-heading);
-            font-size: 0.68rem;
+            font-size: 0.65rem;
             color: var(--text3);
             font-variant-numeric: tabular-nums;
             font-weight: 500
         }}
 
         .sidebar-title {{
-            font-size: 0.78rem;
+            font-size: 0.75rem;
             font-weight: 500;
             margin-top: 2px
         }}
@@ -1145,7 +1145,7 @@ def generate_html(all_events, now_shanghai):
                             const parsed = ev._parsed;
                             const evEl = document.createElement('div');
                             evEl.className = 'sidebar-ev';
-                            evEl.style.cssText = 'background: ' + colorObj.light + ' !important; border-left: 3px solid ' + colorObj.bg + ' !important;';
+                            evEl.style.cssText = 'border-left: 3px solid ' + colorObj.bg + ' !important;';
                             evEl.innerHTML = '<span class="sidebar-time">' + time + '</span><span class="sidebar-title">' + formatTitle(parsed, false) + '</span>';
                             block.appendChild(evEl);
                         }});
