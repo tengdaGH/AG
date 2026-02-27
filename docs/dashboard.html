@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workspace DNA | Antigravity</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Lora:ital,wght@0,400;0,500;1,400&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            /* Anthropic DNA Palette */
+            --bg-cream: #faf9f5;
+            --text-dark: #141413;
+            --mid-gray: #b0aea5;
+            --light-gray: #e8e6dc;
+            
+            /* Accents */
+            --terracotta: #d97757;
+            --dusty-blue: #6a9bcc;
+            --sage-green: #788c5d;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Lora', Georgia, serif; /* Primary Anthropic readable font */
+        }
+
+        body {
+            background-color: var(--bg-cream);
+            color: var(--text-dark);
+            min-height: 100vh;
+            padding: 64px 24px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            width: 100%;
+        }
+
+        h1, h2, h3, .nav-brand {
+            font-family: 'Poppins', Arial, sans-serif;
+            font-weight: 500;
+        }
+
+        header {
+            margin-bottom: 64px;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .brand {
+            font-size: 0.875rem;
+            color: var(--mid-gray);
+            letter-spacing: 0.05em;
+            text-transform: uppercase;
+            margin-bottom: 24px;
+        }
+
+        h1 {
+            font-size: 3rem;
+            letter-spacing: -0.03em;
+            line-height: 1.1;
+            color: var(--text-dark);
+        }
+
+        .subtitle {
+            font-size: 1.25rem;
+            color: var(--mid-gray);
+            max-width: 600px;
+        }
+        
+        .meta-info {
+            font-size: 0.875rem;
+            color: var(--mid-gray);
+            margin-top: 16px;
+            font-family: monospace;
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            margin: 56px 0 24px 0;
+            padding-bottom: 12px;
+            border-bottom: 1px solid var(--light-gray);
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
+            gap: 24px;
+        }
+
+        /* Essentialist Card Design */
+        .card {
+            background: #ffffff;
+            border: 1px solid var(--light-gray);
+            border-radius: 8px;
+            padding: 32px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            position: relative;
+        }
+
+        .card:hover {
+            box-shadow: 0 12px 24px rgba(20, 20, 19, 0.04);
+            transform: translateY(-2px);
+        }
+        
+        /* Active Focus Ring (Subtle) */
+        .card.active-focus {
+            border-color: var(--dusty-blue);
+        }
+        .card.active-focus::after {
+            content: 'Current Focus';
+            position: absolute;
+            top: 24px;
+            right: 32px;
+            font-family: 'Poppins', sans-serif;
+            font-size: 0.7rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            color: var(--dusty-blue);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .card-icon {
+            font-size: 1.5rem;
+        }
+
+        .card-title {
+            font-size: 1.25rem;
+            font-family: 'Poppins', sans-serif;
+        }
+
+        /* Minimal Status Tags */
+        .status-tag {
+            font-family: 'Poppins', sans-serif;
+            font-size: 0.75rem;
+            padding: 4px 10px;
+            border-radius: 4px;
+            background: var(--light-gray);
+            color: var(--text-dark);
+            display: inline-block;
+            margin-bottom: 8px;
+        }
+        
+        .status-tag.terracotta { color: var(--terracotta); background: rgba(217, 119, 87, 0.1); }
+        .status-tag.green { color: var(--sage-green); background: rgba(120, 140, 93, 0.1); }
+        .status-tag.blue { color: var(--dusty-blue); background: rgba(106, 155, 204, 0.1); }
+        .status-tag.mid-gray { color: var(--mid-gray); background: var(--bg-cream); border: 1px solid var(--light-gray); }
+
+        .commit-list {
+            margin-top: 16px;
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+        }
+
+        .commit-item {
+            font-family: monospace;
+            font-size: 0.85rem;
+            color: var(--mid-gray);
+            display: flex;
+            gap: 8px;
+        }
+        
+        .commit-item::before {
+            content: '→';
+            color: var(--light-gray);
+        }
+
+        .last-updated {
+            margin-top: auto;
+            padding-top: 16px;
+            font-size: 0.85rem;
+            color: var(--mid-gray);
+            border-top: 1px dashed var(--light-gray);
+        }
+
+        /* Backlog Section */
+        .backlog-container {
+            margin-top: 64px;
+            background: #ffffff;
+            border: 1px solid var(--light-gray);
+            border-radius: 8px;
+            padding: 40px;
+        }
+
+        .todo-list {
+            list-style: none;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+            margin-top: 24px;
+        }
+
+        .todo-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            font-size: 1rem;
+        }
+
+        .todo-status {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            border: 2px solid var(--light-gray);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            margin-top: 4px;
+        }
+
+        .todo-item.done .todo-status {
+            border-color: var(--sage-green);
+            background: var(--sage-green);
+        }
+
+        .todo-item.done .todo-status::after {
+            content: '✓';
+            color: white;
+            font-size: 0.75rem;
+            font-family: sans-serif;
+        }
+
+        .todo-item.done .todo-text {
+            color: var(--mid-gray);
+            text-decoration: line-through;
+        }
+        
+        @media (max-width: 768px) {
+            body { padding: 32px 16px; }
+            h1 { font-size: 2.25rem; }
+            .grid { grid-template-columns: 1fr; }
+            .card { padding: 24px; }
+        }
+
+        /* Float Update Button */
+        .update-btn {
+            position: fixed;
+            top: 32px;
+            right: 32px;
+            background: var(--text-dark);
+            color: var(--bg-cream);
+            border: none;
+            padding: 10px 20px;
+            border-radius: 6px;
+            font-family: 'Poppins', sans-serif;
+            font-size: 0.85rem;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            z-index: 100;
+        }
+
+        .update-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.15);
+            background: #2a2a29;
+        }
+
+        .update-btn:active {
+            transform: translateY(0);
+        }
+
+        .update-btn.loading {
+            opacity: 0.7;
+            pointer-events: none;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+        
+        .spinner {
+            width: 14px;
+            height: 14px;
+            border: 2px solid rgba(255,255,255,0.3);
+            border-top-color: #fff;
+            border-radius: 50%;
+            display: none;
+        }
+
+        .update-btn.loading .spinner {
+            display: block;
+            animation: spin 1s linear infinite;
+        }
+    </style>
+</head>
+<body>
+    <button class="update-btn" id="update-btn" onclick="triggerUpdate()">
+        <span class="spinner"></span>
+        <span class="btn-text">Update Latest State</span>
+    </button>
+
+    <div class="container">
+        <header>
+            <div class="brand">Antigravity Systems</div>
+            <h1>Workspace Intelligence.</h1>
+            <p class="subtitle">A continuously updating map of your current cognitive load and project states, designed for clarity.</p>
+            <div class="meta-info">Last generated: 2026-02-27 14:27:48 via update_dashboard.py &bull; Minimax LLM active</div>
+        </header>
+
+        <h2 class="section-title">Active Workstreams</h2>
+        <div class="grid">
+
+            <div class="card active-focus">
+                <div>
+                    <span class="status-tag green">运行中</span>
+                </div>
+                <div class="card-header">
+                    <span class="card-icon">🎓</span>
+                    <h3 class="card-title">TOEFL 2026 平台</h3>
+                </div>
+                <ul class="commit-list"><li class="commit-item">The project has been enhanced by migrating to a direct ICS sync for Notion, which resolves the issue of Google Calendar lag. Additionally, the system has been updated to exit with a status code of 1 when a Notion 401 error occurs, ensuring that the Actions extension reflects the failure. Furthermore, the repository has been streamlined by removing tracking for logs, caches, the database, design assets, and PDF pages, and the .gitignore file has been updated accordingly.</li></ul>
+                <div class="last-updated">Latest node: 2026-02-27</div>
+            </div>
+
+            <div class="card ">
+                <div>
+                    <span class="status-tag terracotta">批处理中</span>
+                </div>
+                <div class="card-header">
+                    <span class="card-icon">📖</span>
+                    <h3 class="card-title">雅思机考题库</h3>
+                </div>
+                <ul class="commit-list"><li class="commit-item">The project has been enhanced by migrating to a direct ICS sync for Notion, which effectively addresses the issue of Google Calendar lag. Additionally, the repository has been streamlined by removing tracking for logs, caches, the database, design assets, and PDF pages, and the .gitignore file has been updated accordingly. Furthermore, a new .gitignore file has been added, and previously tracked .env files have been removed to improve security and repository management.</li></ul>
+                <div class="last-updated">Latest node: 2026-02-27</div>
+            </div>
+
+            <div class="card ">
+                <div>
+                    <span class="status-tag green">基本完成</span>
+                </div>
+                <div class="card-header">
+                    <span class="card-icon">🎙️</span>
+                    <h3 class="card-title">TTS 音频合成工具链</h3>
+                </div>
+                <ul class="commit-list"><li class="commit-item">The project has been updated to migrate the synchronization process for Notion to a direct ICS sync, which resolves the issue of lag experienced with Google Calendar. Additionally, the repository has been streamlined by removing tracking for logs, caches, the database, design assets, and PDF pages, and the .gitignore file has been updated accordingly. The initialization of the AG component has also been completed as part of this phase of development.</li></ul>
+                <div class="last-updated">Latest node: 2026-02-27</div>
+            </div>
+
+            <div class="card ">
+                <div>
+                    <span class="status-tag mid-gray">维护中</span>
+                </div>
+                <div class="card-header">
+                    <span class="card-icon">📅</span>
+                    <h3 class="card-title">教务自动日历排表</h3>
+                </div>
+                <ul class="commit-list"><li class="commit-item">The project has been enhanced by implementing collision detection to resolve overlapping events, ensuring a more efficient layout. Additionally, a live calendar webpage has been introduced and is now automatically deployed to GitHub Pages, and the system has been upgraded to use direct ICS synchronization with Notion to eliminate the lag previously experienced with Google Calendar.</li></ul>
+                <div class="last-updated">Latest node: 2026-02-27</div>
+            </div>
+
+            <div class="card ">
+                <div>
+                    <span class="status-tag blue">就绪</span>
+                </div>
+                <div class="card-header">
+                    <span class="card-icon">🤖</span>
+                    <h3 class="card-title">学生及成绩管家</h3>
+                </div>
+                <ul class="commit-list"><li class="commit-item">The repository has been updated to address a broken submodule by untracking the "Notion Pal/student-platform" directory. Additionally, the repository size has been reduced by excluding logs, caches, databases, design assets, and PDF pages from tracking, and the .gitignore file has been updated accordingly. Furthermore, a new .gitignore file has been added, and previously tracked .env files have been removed from the repository to enhance security and streamline the project structure.</li></ul>
+                <div class="last-updated">Latest node: 2026-02-26</div>
+            </div>
+
+            <div class="card ">
+                <div>
+                    <span class="status-tag blue">参考库</span>
+                </div>
+                <div class="card-header">
+                    <span class="card-icon">🎨</span>
+                    <h3 class="card-title">产品视效标准提取</h3>
+                </div>
+                <ul class="commit-list"><li class="commit-item">The repository has been streamlined by removing tracking for log files, caches, the database, design assets, and PDF pages, and the .gitignore file has been updated accordingly to reflect these changes. Additionally, the project has been initialized with the identifier "AG" to establish a clear reference point for future development activities.</li></ul>
+                <div class="last-updated">Latest node: 2026-02-26</div>
+            </div>
+
+        </div>
+
+        <div class="backlog-container">
+            <h2 style="font-family:'Poppins', sans-serif; margin-bottom: 8px;">Pending Operations</h2>
+            <p style="color:var(--mid-gray); font-size:0.9rem;">Extracted directly from BACKLOG.md</p>
+            
+            <ul class="todo-list">
+
+                <li class="todo-item done">
+                    <div class="todo-status"></div>
+                    <div class="todo-text">Final Audio Synthesis: ✅ All 520 listening/speaking items now have audio. Completed 2026-02-27.</div>
+                </li>
+
+                <li class="todo-item pending">
+                    <div class="todo-status"></div>
+                    <div class="todo-text">Data Integrity Check: Run a final audit of `media_url` and `prompt_content` in `toefl_2026.db` once all items are done.</div>
+                </li>
+
+                <li class="todo-item pending">
+                    <div class="todo-status"></div>
+                    <div class="todo-text">Audio Manifest Update: Regenerate the final `audio_voice_log.jsonl` manifest to include the last batch.</div>
+                </li>
+
+                <li class="todo-item pending">
+                    <div class="todo-status"></div>
+                    <div class="todo-text">IRT Simulation Tool Integration: Wire up `backend/scripts/simulate_field_test_v2.py` to the admin dashboard UI.</div>
+                </li>
+
+                <li class="todo-item pending">
+                    <div class="todo-status"></div>
+                    <div class="todo-text">Refactor `generate_ets_audio.py`: Merge the model rotation and jitter logic into a more modular `TTSClient` class if this becomes a recurring need.</div>
+                </li>
+
+                <li class="todo-item pending">
+                    <div class="todo-status"></div>
+                    <div class="todo-text">IELTS Dashboard Integration: Verify if any reading items imported in previous sessions require further data cleaning or UI alignment.</div>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+    
+    <script>
+        function triggerUpdate() {
+            const btn = document.getElementById('update-btn');
+            const btnText = btn.querySelector('.btn-text');
+            
+            btn.classList.add('loading');
+            btnText.textContent = 'Translating Logs...';
+            
+            fetch('http://localhost:8010/api/update', {
+                method: 'POST',
+            })
+            .then(response => {
+                if(response.ok) {
+                    btnText.textContent = 'Success! Reloading...';
+                    setTimeout(() => window.location.reload(), 1000);
+                } else {
+                    btn.classList.remove('loading');
+                    btnText.textContent = 'Update Failed';
+                    setTimeout(() => btnText.textContent = 'Update Latest State', 3000);
+                }
+            })
+            .catch(error => {
+                btn.classList.remove('loading');
+                btnText.textContent = 'Server Offline (localhost:8010)';
+                setTimeout(() => btnText.textContent = 'Update Latest State', 3000);
+                console.error('Update UI error:', error);
+            });
+        }
+    </script>
+</body>
+</html>

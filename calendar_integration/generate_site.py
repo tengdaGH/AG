@@ -244,6 +244,54 @@ def generate_html(all_events, now_shanghai):
         else:
             all_day_html += '<div class="allday-cell"></div>'
 
+    # === Month Grid Generation ===
+    month_start = today.replace(day=1)
+    month_grid_start = month_start - datetime.timedelta(days=month_start.weekday())
+    if month_start.month == 12:
+        next_month_start = month_start.replace(year=month_start.year + 1, month=1)
+    else:
+        next_month_start = month_start.replace(month=month_start.month + 1)
+    month_end = next_month_start - datetime.timedelta(days=1)
+    month_grid_end = month_end + datetime.timedelta(days=6 - month_end.weekday())
+
+    num_days = (month_grid_end - month_grid_start).days + 1
+    month_days = [month_grid_start + datetime.timedelta(days=i) for i in range(num_days)]
+    
+    month_events_by_day = {d: [] for d in month_days}
+    for ev in sorted(all_events, key=lambda e: (e["start"], e["end"])):
+        d_start = ev["start"].date()
+        d_end = ev["end"].date() if ev["end"] else d_start
+        if ev["is_all_day"] and d_end > d_start:
+            d_end = d_end - datetime.timedelta(days=1)
+        curr_d = d_start
+        while curr_d <= d_end:
+            if curr_d in month_events_by_day:
+                month_events_by_day[curr_d].append(ev)
+            curr_d += datetime.timedelta(days=1)
+
+    month_header_html = "".join([f'<div class="month-header-cell">{w}</div>' for w in WEEKDAY_NAMES_CN])
+    
+    month_grid_html = ""
+    for d in month_days:
+        is_today_cell = ' today' if d == today else ''
+        is_dimmed = ' dimmed' if d.month != month_start.month else ''
+        date_str = f"{d.month}月{d.day}日" if d.day == 1 else str(d.day)
+        
+        ev_pills = ""
+        for ev in month_events_by_day[d]:
+            c = TEACHER_COLORS.get(ev["teacher"], TEACHER_COLORS["Miya"])
+            time_str = "" if ev["is_all_day"] else f"{ev['start'].strftime('%H:%M')} "
+            summary_escaped = html_mod.escape(ev['summary'])
+            short_summary = ev['summary']
+            if "休息" in short_summary:
+                short_summary = f"{ev['teacher']} 休息"
+            # we embed raw title to allow parseTitle to hit it
+            ev_pills += f'<div class="month-ev" style="background:{c["light"]};border-left:2px solid {c["bg"]};" data-teacher="{html_mod.escape(ev["teacher"])}" title="{time_str}{summary_escaped}"><span class="ev-title" style="display:none">{summary_escaped}</span><span class="m-time">{time_str}</span><span class="m-title">{html_mod.escape(short_summary)}</span></div>'
+            
+        month_grid_html += f'<div class="month-cell{is_today_cell}{is_dimmed}"><div class="month-date">{date_str}</div>{ev_pills}</div>'
+
+    month_label = f"{month_start.strftime('%Y年 %m月')}"
+
     return rf'''<!DOCTYPE html>
 <html lang="zh-CN">
 
@@ -400,6 +448,133 @@ def generate_html(all_events, now_shanghai):
             background: var(--text);
             color: var(--bg);
             border-color: var(--text)
+        }}
+
+        /* View toggling */
+        .view-container {{
+            display: none;
+            flex-direction: column;
+            flex: 1;
+            height: 100%;
+        }}
+        .view-container.active {{
+            display: flex;
+        }}
+
+        .view-toggle {{
+            display: flex;
+            gap: 4px;
+            background: var(--surface2);
+            padding: 3px;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+            margin-left: 12px;
+        }}
+        
+        .view-toggle .v-tab {{
+            border: none;
+            background: transparent;
+            padding: 5px 14px;
+            border-radius: 16px;
+            font-size: 0.75rem;
+            color: var(--text2);
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-family: var(--font-heading);
+            letter-spacing: 0.02em;
+        }}
+        
+        .view-toggle .v-tab.active {{
+            background: var(--surface);
+            color: var(--text);
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }}
+
+        /* Month Grid */
+        .month-grid {{
+            display: grid;
+            grid-template-columns: repeat(7, minmax(0, 1fr));
+            grid-auto-rows: 1fr;
+            flex: 1;
+            border-top: 1px solid var(--border);
+            border-left: 1px solid var(--border);
+            background: var(--border);
+            gap: 1px;
+        }}
+
+        .month-header-row {{
+            display: grid;
+            grid-template-columns: repeat(7, minmax(0, 1fr));
+            border-bottom: 1px solid var(--border);
+            border-left: 1px solid var(--border);
+        }}
+
+        .month-header-cell {{
+            text-align: center;
+            padding: 8px 4px;
+            font-size: 0.75rem;
+            color: var(--text3);
+            text-transform: uppercase;
+            font-weight: 500;
+            border-right: 1px solid var(--border);
+            background: var(--bg);
+            letter-spacing: 0.05em;
+        }}
+
+        .month-cell {{
+            background: var(--bg);
+            padding: 4px;
+            display: flex;
+            flex-direction: column;
+            gap: 3px;
+            overflow: hidden;
+            min-height: 100px;
+        }}
+
+        .month-cell.dimmed {{
+            background: var(--surface);
+        }}
+        
+        .month-cell.dimmed .month-date {{
+            color: var(--text3);
+        }}
+
+        .month-date {{
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: var(--text2);
+            margin-bottom: 2px;
+            text-align: right;
+            padding-right: 4px;
+            margin-top: 2px;
+            font-family: var(--font-heading);
+        }}
+
+        .month-cell.today .month-date {{
+            color: #fff;
+            background: var(--miya);
+            padding: 2px 6px;
+            border-radius: 10px;
+            align-self: flex-end;
+            margin-right: 2px;
+        }}
+
+        .month-ev {{
+            font-size: 0.65rem;
+            padding: 3px 5px;
+            border-radius: 4px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            color: var(--text);
+            line-height: 1.25;
+            cursor: default;
+            transition: opacity 0.2s;
+        }}
+        
+        .month-ev.hidden {{
+            display: none;
         }}
 
         /* Main area */
@@ -857,6 +1032,10 @@ def generate_html(all_events, now_shanghai):
             <div class="topbar-left">
                 <h1>纽约课教师课表</h1>
                 <div class="tabs" id="tabs">{tab_html}</div>
+                <div class="view-toggle" id="view-toggle">
+                    <button class="v-tab active" data-view="week">周</button>
+                    <button class="v-tab" data-view="month">月</button>
+                </div>
             </div>
             <div class="topbar-right">
                 <span class="sync-badge">同步于 {sync_time}</span>
@@ -864,11 +1043,12 @@ def generate_html(all_events, now_shanghai):
         </div>
 
         <div class="week-header">
-            <span class="week-label">{week_label}</span>
+            <span class="week-label" id="main-label">{week_label}</span>
         </div>
 
-        <div class="main">
-            <div class="calendar-area">
+        <div id="week-view" class="view-container active">
+            <div class="main">
+                <div class="calendar-area">
                 <!-- All-day row -->
                 <div class="allday-row">
                     <div class="allday-gutter">全天</div>
@@ -889,6 +1069,16 @@ def generate_html(all_events, now_shanghai):
             <div class="sidebar">
                 <div class="sidebar-title-main">今日课程总览</div>
                 {sidebar_items}
+            </div>
+            </div>
+        </div>
+
+        <div id="month-view" class="view-container">
+            <div class="month-header-row">
+                {month_header_html}
+            </div>
+            <div class="month-grid">
+                {month_grid_html}
             </div>
         </div>
     </div>
@@ -1206,8 +1396,28 @@ def generate_html(all_events, now_shanghai):
                 currentFilter = filter;
                 document.querySelectorAll('.ev').forEach(el => el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter));
                 document.querySelectorAll('.allday-pill').forEach(el => el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter));
+                document.querySelectorAll('.month-ev').forEach(el => el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter));
                 document.querySelectorAll('.day-col:not(.col-hidden)').forEach(col => recalcColumn(col, filter));
                 updateTitles(filter);
+            }});
+
+            // ── View toggle ──
+            document.getElementById('view-toggle').addEventListener('click', e => {{
+                const btn = e.target.closest('.v-tab');
+                if (!btn) return;
+                document.querySelectorAll('.v-tab').forEach(t => t.classList.remove('active'));
+                btn.classList.add('active');
+                
+                const view = btn.dataset.view;
+                document.querySelectorAll('.view-container').forEach(c => c.classList.remove('active'));
+                document.getElementById(view + '-view').classList.add('active');
+                
+                const label = document.getElementById('main-label');
+                if (view === 'month') {{
+                    label.textContent = "{month_label}";
+                }} else {{
+                    label.textContent = "{week_label}";
+                }}
             }});
 
             // ── Now line ──
@@ -1235,17 +1445,33 @@ def generate_html(all_events, now_shanghai):
 def main():
     now_shanghai = datetime.datetime.now(datetime.timezone.utc).astimezone(SHANGHAI_TZ)
     today = now_shanghai.date()
+    
+    # Week bounds
     week_start = today - datetime.timedelta(days=today.weekday())
     week_end = week_start + datetime.timedelta(days=6)
+    
+    # Month grid bounds
+    month_start = today.replace(day=1)
+    month_grid_start = month_start - datetime.timedelta(days=month_start.weekday())
+    
+    if month_start.month == 12:
+        next_month_start = month_start.replace(year=month_start.year + 1, month=1)
+    else:
+        next_month_start = month_start.replace(month=month_start.month + 1)
+    month_end = next_month_start - datetime.timedelta(days=1)
+    month_grid_end = month_end + datetime.timedelta(days=6 - month_end.weekday())
 
-    print(f"Generating calendar page for week {week_start} – {week_end}...")
+    fetch_start = min(week_start, month_grid_start)
+    fetch_end = max(week_end, month_grid_end)
+
+    print(f"Generating calendar page. Week: {week_start}–{week_end} | Month Grid: {month_grid_start}–{month_grid_end}")
 
     all_events = []
     
     # Fetch feeds concurrently to minimize network I/O time
     with concurrent.futures.ThreadPoolExecutor(max_workers=len(ICS_FEEDS)) as executor:
         future_to_teacher = {
-            executor.submit(fetch_events, teacher, url, week_start, week_end): teacher
+            executor.submit(fetch_events, teacher, url, fetch_start, fetch_end): teacher
             for teacher, url in ICS_FEEDS.items()
         }
         for future in concurrent.futures.as_completed(future_to_teacher):
