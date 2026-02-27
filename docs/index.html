@@ -348,6 +348,17 @@
             left: calc(0% + 2px) !important;
             box-shadow: 0 6px 24px rgba(20, 20, 19, 0.22);
             overflow: visible;
+            isolation: isolate;
+        }
+
+        /* Solid opaque backdrop so hovered block completely covers blocks behind it */
+        .ev:hover::before {
+            content: '';
+            position: absolute;
+            inset: -1px;
+            background: var(--bg);
+            border-radius: var(--radius-sm);
+            z-index: -1;
         }
 
         .ev:hover .ev-title {
