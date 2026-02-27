@@ -238,206 +238,992 @@ def generate_html(all_events, now_shanghai):
         else:
             all_day_html += '<div class="allday-cell"></div>'
 
-    return f'''<!DOCTYPE html>
+    return rf'''<!DOCTYPE html>
 <html lang="zh-CN">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>教师课表日程</title>
-<meta name="description" content="NYK 教师课表实时日程总览">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-<style>
-*,*::before,*::after{{box-sizing:border-box;margin:0;padding:0}}
-:root{{
-  --bg:#0f1117;--surface:#1a1d27;--surface2:#232733;--border:#2a2e3a;
-  --text:#e4e6ed;--text2:#9ca0ae;--text3:#6b7080;
-  --radius:12px;--radius-sm:8px;
-}}
-body{{font-family:'Inter',system-ui,-apple-system,sans-serif;background:var(--bg);color:var(--text);min-height:100vh;}}
-h1{{font-size:1.4rem;font-weight:700;letter-spacing:-0.02em}}
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>纽约课教师课表</title>
+    <meta name="description" content="纽约课教师课表实时日程总览">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Lora:wght@400;500;600&display=swap"
+        rel="stylesheet">
+    <style>
+        *,
+        *::before,
+        *::after {{
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0
+        }}
 
-/* Layout */
-.shell{{display:flex;flex-direction:column;height:100vh;overflow:hidden}}
-.topbar{{display:flex;align-items:center;justify-content:space-between;padding:16px 24px;border-bottom:1px solid var(--border);flex-shrink:0;backdrop-filter:blur(12px);background:rgba(15,17,23,0.85);position:sticky;top:0;z-index:10}}
-.topbar-left{{display:flex;align-items:center;gap:12px}}
-.topbar-right{{display:flex;align-items:center;gap:12px}}
-.sync-badge{{font-size:0.72rem;color:var(--text3);background:var(--surface2);padding:4px 10px;border-radius:20px;white-space:nowrap}}
-.sync-badge::before{{content:'';display:inline-block;width:6px;height:6px;background:#22c55e;border-radius:50%;margin-right:6px;animation:pulse 2s infinite}}
-@keyframes pulse{{0%,100%{{opacity:1}}50%{{opacity:.4}}}}
+        :root {{
+            /* Anthropic palette */
+            --bg: #faf9f5;
+            --surface: #f0efe8;
+            --surface2: #e8e6dc;
+            --border: #dcd9cf;
+            --text: #141413;
+            --text2: #5a584f;
+            --text3: #b0aea5;
+            --radius: 10px;
+            --radius-sm: 7px;
 
-/* Tabs */
-.tabs{{display:flex;gap:6px;flex-wrap:wrap}}
-.tab{{padding:6px 14px;border-radius:20px;border:1px solid var(--border);background:transparent;color:var(--text2);
-  font-size:0.8rem;font-weight:500;cursor:pointer;transition:all .2s;font-family:inherit}}
-.tab:hover{{background:var(--surface2);color:var(--text)}}
-.tab.active{{background:var(--text);color:var(--bg);border-color:var(--text)}}
+            /* Teacher accents — earthy, muted */
+            --miya: #d97757;
+            --rita: #6a9bcc;
+            --yueyue: #788c5d;
+            --dage: #8b6f5c;
 
-/* Main area */
-.main{{display:flex;flex:1;overflow:hidden}}
-.calendar-area{{flex:1;overflow-y:auto;overflow-x:auto;padding:0}}
-.sidebar{{width:280px;flex-shrink:0;border-left:1px solid var(--border);overflow-y:auto;padding:20px;background:var(--surface)}}
+            /* Fonts */
+            --font-heading: 'Poppins', system-ui, -apple-system, sans-serif;
+            --font-body: 'Lora', Georgia, serif;
+        }}
 
-/* Week header */
-.week-header{{display:flex;align-items:center;justify-content:space-between;padding:12px 24px;border-bottom:1px solid var(--border);flex-shrink:0}}
-.week-label{{font-size:0.9rem;font-weight:600;color:var(--text2)}}
+        body {{
+            font-family: var(--font-body);
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh
+        }}
 
-/* Grid */
-.grid-wrap{{display:flex;position:relative;min-width:700px}}
-.time-gutter{{width:56px;flex-shrink:0;position:relative;border-right:1px solid var(--border)}}
-.time-label{{position:absolute;right:12px;font-size:0.7rem;color:var(--text3);transform:translateY(-50%);font-variant-numeric:tabular-nums}}
-.days-container{{display:flex;flex:1}}
-.day-col{{flex:1;min-width:0;border-right:1px solid var(--border);position:relative}}
-.day-col:last-child{{border-right:none}}
-.day-header{{text-align:center;padding:10px 4px 8px;border-bottom:1px solid var(--border);position:sticky;top:0;background:var(--bg);z-index:2}}
-.weekday{{display:block;font-size:0.72rem;color:var(--text3);font-weight:500;text-transform:uppercase;letter-spacing:0.05em}}
-.date-num{{display:inline-flex;align-items:center;gap:4px;font-size:0.85rem;font-weight:600;color:var(--text2);margin-top:2px}}
-.today-col .weekday{{color:var(--text)}}
-.today-col .date-num{{color:#fff;background:#7c3aed;padding:2px 10px;border-radius:20px}}
-.today-dot{{display:none}}
-.day-body{{position:relative;}}
+        h1 {{
+            font-family: var(--font-heading);
+            font-size: 1.35rem;
+            font-weight: 700;
+            letter-spacing: -0.01em
+        }}
 
-/* Hour gridlines */
-.day-body::before{{
-  content:'';position:absolute;inset:0;
-  background:repeating-linear-gradient(to bottom,transparent,transparent 59px,var(--border) 59px,var(--border) 60px);
-  pointer-events:none;z-index:0;
-}}
+        /* Layout */
+        .shell {{
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            overflow: hidden
+        }}
 
-/* Event block */
-.ev{{position:absolute;border-radius:var(--radius-sm);padding:3px 6px;overflow:hidden;
-  cursor:default;z-index:1;display:flex;flex-direction:column;gap:1px;transition:opacity .25s,transform .15s;}}
-.ev:hover{{transform:scale(1.02);z-index:5;box-shadow:0 4px 20px rgba(0,0,0,0.4)}}
-.ev-time{{font-size:0.65rem;font-weight:600;opacity:0.7;white-space:nowrap}}
-.ev-title{{font-size:0.72rem;font-weight:500;line-height:1.3;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}}
-.ev.hidden{{opacity:0.08;pointer-events:none;transform:scale(0.95)}}
+        .topbar {{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px 28px;
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0;
+            background: var(--bg);
+            position: sticky;
+            top: 0;
+            z-index: 10
+        }}
 
-/* All-day row */
-.allday-row{{display:flex;min-height:28px;border-bottom:1px solid var(--border)}}
-.allday-gutter{{width:56px;flex-shrink:0;border-right:1px solid var(--border);display:flex;align-items:center;justify-content:flex-end;padding-right:8px;font-size:0.65rem;color:var(--text3)}}
-.allday-cells{{display:flex;flex:1}}
-.allday-cell{{flex:1;min-width:0;border-right:1px solid var(--border);padding:4px;display:flex;flex-wrap:wrap;gap:3px;align-items:center}}
-.allday-cell:last-child{{border-right:none}}
-.allday-pill{{font-size:0.65rem;padding:2px 8px;border-radius:12px;white-space:nowrap;font-weight:500}}
-.allday-pill.hidden{{opacity:0.08}}
+        .topbar-left {{
+            display: flex;
+            align-items: center;
+            gap: 14px
+        }}
 
-/* Sidebar */
-.sidebar-title-main{{font-size:1rem;font-weight:700;margin-bottom:16px;display:flex;align-items:center;gap:8px}}
-.sidebar-title-main::before{{content:'📋'}}
-.sidebar-teacher{{margin-bottom:16px}}
-.sidebar-teacher-name{{font-size:0.82rem;font-weight:600;margin-bottom:6px;display:flex;align-items:center;gap:6px}}
-.dot{{width:8px;height:8px;border-radius:50%;flex-shrink:0}}
-.sidebar-ev{{display:flex;flex-direction:column;padding:8px 10px;background:var(--surface2);border-radius:var(--radius-sm);margin-bottom:4px;transition:opacity .25s}}
-.sidebar-ev.hidden{{opacity:0.08}}
-.sidebar-time{{font-size:0.7rem;color:var(--text3);font-variant-numeric:tabular-nums;font-weight:500}}
-.sidebar-title{{font-size:0.78rem;font-weight:500;margin-top:2px}}
-.sidebar-empty{{color:var(--text3);font-size:0.85rem;text-align:center;padding:40px 0}}
+        .topbar-right {{
+            display: flex;
+            align-items: center;
+            gap: 12px
+        }}
 
-/* Now line */
-.now-line{{position:absolute;left:0;right:0;height:2px;background:#f43f5e;z-index:3;pointer-events:none}}
-.now-line::before{{content:'';position:absolute;left:-4px;top:-3px;width:8px;height:8px;border-radius:50%;background:#f43f5e}}
+        .sync-badge {{
+            font-family: var(--font-heading);
+            font-size: 0.7rem;
+            color: var(--text3);
+            background: var(--surface2);
+            padding: 4px 12px;
+            border-radius: 20px;
+            white-space: nowrap;
+            letter-spacing: 0.01em
+        }}
 
-/* Mobile */
-@media(max-width:860px){{
-  .sidebar{{display:none}}
-  .topbar{{padding:12px 16px;flex-wrap:wrap;gap:8px}}
-  .tabs{{order:3;width:100%}}
-  .grid-wrap{{min-width:580px}}
-}}
-@media(max-width:600px){{
-  .grid-wrap{{min-width:480px}}
-  .time-gutter{{width:40px}}
-  .time-label{{font-size:0.6rem;right:6px}}
-  .ev-title{{font-size:0.65rem}}
-  .day-header{{padding:6px 2px 4px}}
-}}
-</style>
+        .sync-badge::before {{
+            content: '';
+            display: inline-block;
+            width: 6px;
+            height: 6px;
+            background: #788c5d;
+            border-radius: 50%;
+            margin-right: 7px;
+            animation: pulse 2.5s ease-in-out infinite
+        }}
+
+        @keyframes pulse {{
+
+            0%,
+            100% {{
+                opacity: 1
+            }}
+
+            50% {{
+                opacity: .35
+            }}
+        }}
+
+        /* Tabs — Anthropic pill nav */
+        .tabs {{
+            display: flex;
+            gap: 6px;
+            flex-wrap: wrap
+        }}
+
+        .tab {{
+            padding: 6px 16px;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text2);
+            font-size: 0.78rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all .25s ease;
+            font-family: var(--font-heading);
+            letter-spacing: 0.01em
+        }}
+
+        .tab:hover {{
+            background: var(--surface2);
+            color: var(--text);
+            border-color: var(--text3)
+        }}
+
+        .tab.active {{
+            background: var(--text);
+            color: var(--bg);
+            border-color: var(--text)
+        }}
+
+        /* Main area */
+        .main {{
+            display: flex;
+            flex: 1;
+            overflow: hidden
+        }}
+
+        .calendar-area {{
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: auto;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+        }}
+
+        /* Fixed header row above the scrollable grid */
+        .day-headers-row {{
+            display: flex;
+            flex-shrink: 0;
+            border-bottom: 1px solid var(--border);
+        }}
+
+        .day-headers-row .header-gutter {{
+            width: 58px;
+            flex-shrink: 0;
+            border-right: 1px solid var(--border);
+        }}
+
+        .day-headers-row .header-cells {{
+            display: flex;
+            flex: 1;
+        }}
+
+        .day-headers-row .header-cell {{
+            flex: 1;
+            text-align: center;
+            padding: 10px 4px 8px;
+            border-right: 1px solid var(--border);
+        }}
+
+        .day-headers-row .header-cell:last-child {{
+            border-right: none;
+        }}
+
+        .grid-scroll {{
+            flex: 1;
+            overflow-y: auto;
+            overflow-x: auto;
+        }}
+
+        .sidebar {{
+            width: 280px;
+            flex-shrink: 0;
+            border-left: 1px solid var(--border);
+            overflow-y: auto;
+            padding: 22px;
+            background: var(--surface)
+        }}
+
+        /* Week header */
+        .week-header {{
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 12px 28px;
+            border-bottom: 1px solid var(--border);
+            flex-shrink: 0
+        }}
+
+        .week-label {{
+            font-family: var(--font-heading);
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--text2)
+        }}
+
+        /* Grid */
+        .grid-wrap {{
+            display: flex;
+            position: relative;
+            min-width: 700px
+        }}
+
+        .time-gutter {{
+            width: 58px;
+            flex-shrink: 0;
+            position: relative;
+            border-right: 1px solid var(--border)
+        }}
+
+        .time-label {{
+            position: absolute;
+            right: 12px;
+            font-family: var(--font-heading);
+            font-size: 0.68rem;
+            color: var(--text3);
+            transform: translateY(-50%);
+            font-variant-numeric: tabular-nums
+        }}
+
+        .days-container {{
+            display: flex;
+            flex: 1
+        }}
+
+        .day-col {{
+            flex: 1;
+            min-width: 0;
+            border-right: 1px solid var(--border);
+            position: relative
+        }}
+
+        .day-col:last-child {{
+            border-right: none
+        }}
+
+        .day-header {{
+            display: none;
+        }}
+
+        .weekday {{
+            display: block;
+            font-family: var(--font-heading);
+            font-size: 0.7rem;
+            color: var(--text3);
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.06em
+        }}
+
+        .date-num {{
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-family: var(--font-heading);
+            font-size: 0.84rem;
+            font-weight: 600;
+            color: var(--text2);
+            margin-top: 2px
+        }}
+
+        .today-col .weekday {{
+            color: var(--text)
+        }}
+
+        .today-col .date-num {{
+            color: #fff;
+            background: var(--miya);
+            padding: 2px 10px;
+            border-radius: 20px
+        }}
+
+        .today-dot {{
+            display: none
+        }}
+
+        .day-body {{
+            position: relative;
+        }}
+
+        /* Hour gridlines */
+        .day-body::before {{
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: repeating-linear-gradient(to bottom, transparent, transparent 59px, var(--border) 59px, var(--border) 60px);
+            pointer-events: none;
+            z-index: 0;
+        }}
+
+        /* Event block */
+        .ev {{
+            position: absolute;
+            border-radius: var(--radius-sm);
+            padding: 3px 7px;
+            overflow: hidden;
+            cursor: default;
+            z-index: 1;
+            display: flex;
+            flex-direction: column;
+            gap: 1px;
+            transition: opacity .3s ease, box-shadow .3s ease, left .35s ease, width .35s ease;
+        }}
+
+        /* Hover-expand: in-place full-width pop */
+        .ev:hover {{
+            z-index: 20;
+            width: calc(100% - 4px) !important;
+            left: calc(0% + 2px) !important;
+            box-shadow: 0 6px 24px rgba(20, 20, 19, 0.22);
+            overflow: visible;
+        }}
+
+        .ev:hover .ev-title {{
+            -webkit-line-clamp: unset;
+            line-clamp: unset;
+            overflow: visible;
+        }}
+
+        .ev-time {{
+            font-family: var(--font-heading);
+            font-size: 0.64rem;
+            font-weight: 600;
+            opacity: 0.65;
+            white-space: nowrap
+        }}
+
+        .ev-title {{
+            font-size: 0.72rem;
+            font-weight: 500;
+            line-height: 1.35;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden
+        }}
+
+        /* Formatted title spans */
+        .ev-teacher {{
+            font-weight: 600;
+            opacity: 0.7;
+            font-size: 0.64rem
+        }}
+
+        .ev-student {{
+            font-weight: 600
+        }}
+
+        .ev-meta {{
+            opacity: 0.7;
+            font-size: 0.65rem
+        }}
+
+        .ev-sep {{
+            opacity: 0.35;
+            margin: 0 2px
+        }}
+
+        .ev.hidden {{
+            opacity: 0.06;
+            pointer-events: none
+        }}
+
+        /* Day column hidden */
+        .day-col.col-hidden {{
+            display: none
+        }}
+
+        /* Tomorrow sidebar divider */
+        .sidebar-divider {{
+            height: 1px;
+            background: var(--border);
+            margin: 16px 0;
+        }}
+
+        /* All-day row */
+        .allday-row {{
+            display: flex;
+            min-height: 28px;
+            border-bottom: 1px solid var(--border)
+        }}
+
+        .allday-gutter {{
+            width: 58px;
+            flex-shrink: 0;
+            border-right: 1px solid var(--border);
+            display: flex;
+            align-items: center;
+            justify-content: flex-end;
+            padding-right: 8px;
+            font-family: var(--font-heading);
+            font-size: 0.65rem;
+            color: var(--text3)
+        }}
+
+        .allday-cells {{
+            display: flex;
+            flex: 1
+        }}
+
+        .allday-cell {{
+            flex: 1;
+            min-width: 0;
+            border-right: 1px solid var(--border);
+            padding: 4px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 3px;
+            align-items: center
+        }}
+
+        .allday-cell:last-child {{
+            border-right: none
+        }}
+
+        .allday-pill {{
+            font-family: var(--font-heading);
+            font-size: 0.65rem;
+            padding: 2px 8px;
+            border-radius: 12px;
+            white-space: nowrap;
+            font-weight: 500
+        }}
+
+        .allday-pill.hidden {{
+            opacity: 0.06
+        }}
+
+        /* Sidebar */
+        .sidebar-title-main {{
+            font-family: var(--font-heading);
+            font-size: 0.95rem;
+            font-weight: 700;
+            margin-bottom: 18px;
+            display: flex;
+            align-items: center;
+            gap: 8px
+        }}
+
+        .sidebar-title-main::before {{
+            content: '📋'
+        }}
+
+        .sidebar-teacher {{
+            margin-bottom: 18px
+        }}
+
+        .sidebar-teacher-name {{
+            font-family: var(--font-heading);
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 7px;
+            display: flex;
+            align-items: center;
+            gap: 7px
+        }}
+
+        .dot {{
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            flex-shrink: 0
+        }}
+
+        .sidebar-ev {{
+            display: flex;
+            flex-direction: column;
+            padding: 9px 12px;
+            background: var(--surface2);
+            border-radius: var(--radius-sm);
+            margin-bottom: 5px;
+            transition: opacity .3s ease
+        }}
+
+        .sidebar-ev.hidden {{
+            opacity: 0.06
+        }}
+
+        .sidebar-time {{
+            font-family: var(--font-heading);
+            font-size: 0.68rem;
+            color: var(--text3);
+            font-variant-numeric: tabular-nums;
+            font-weight: 500
+        }}
+
+        .sidebar-title {{
+            font-size: 0.78rem;
+            font-weight: 500;
+            margin-top: 2px
+        }}
+
+        .sidebar-empty {{
+            color: var(--text3);
+            font-size: 0.85rem;
+            text-align: center;
+            padding: 40px 0
+        }}
+
+        /* Now line — terracotta */
+        .now-line {{
+            position: absolute;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: var(--miya);
+            z-index: 3;
+            pointer-events: none
+        }}
+
+        .now-line::before {{
+            content: '';
+            position: absolute;
+            left: -4px;
+            top: -3px;
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            background: var(--miya)
+        }}
+
+        /* Mobile */
+        @media(max-width:860px) {{
+            .sidebar {{
+                display: none
+            }}
+
+            .topbar {{
+                padding: 12px 16px;
+                flex-wrap: wrap;
+                gap: 8px
+            }}
+
+            .tabs {{
+                order: 3;
+                width: 100%
+            }}
+
+            .grid-wrap {{
+                min-width: 580px
+            }}
+        }}
+
+        @media(max-width:600px) {{
+            .grid-wrap {{
+                min-width: 480px
+            }}
+
+            .time-gutter {{
+                width: 42px
+            }}
+
+            .time-label {{
+                font-size: 0.6rem;
+                right: 6px
+            }}
+
+            .ev-title {{
+                font-size: 0.65rem
+            }}
+
+            .day-header {{
+                padding: 6px 2px 4px
+            }}
+        }}
+    </style>
 </head>
+
 <body>
-<div class="shell">
-  <div class="topbar">
-    <div class="topbar-left">
-      <h1>教师课表日程</h1>
-      <div class="tabs" id="tabs">{tab_html}</div>
-    </div>
-    <div class="topbar-right">
-      <span class="sync-badge">同步于 {sync_time}</span>
-    </div>
-  </div>
-
-  <div class="week-header">
-    <span class="week-label">{week_label}</span>
-  </div>
-
-  <div class="main">
-    <div class="calendar-area">
-      <!-- All-day row -->
-      <div class="allday-row">
-        <div class="allday-gutter">全天</div>
-        <div class="allday-cells">{all_day_html}</div>
-      </div>
-
-      <!-- Time grid -->
-      <div class="grid-wrap">
-        <div class="time-gutter" style="height:{(HOUR_END - HOUR_START) * HOUR_HEIGHT}px;">
-          {gutter_html}
+    <div class="shell">
+        <div class="topbar">
+            <div class="topbar-left">
+                <h1>纽约课教师课表</h1>
+                <div class="tabs" id="tabs">{tab_html}</div>
+            </div>
+            <div class="topbar-right">
+                <span class="sync-badge">同步于 {sync_time}</span>
+            </div>
         </div>
-        <div class="days-container">
-          {"".join(col_html_parts)}
+
+        <div class="week-header">
+            <span class="week-label">{week_label}</span>
         </div>
-      </div>
+
+        <div class="main">
+            <div class="calendar-area">
+                <!-- All-day row -->
+                <div class="allday-row">
+                    <div class="allday-gutter">全天</div>
+                    <div class="allday-cells">{all_day_html}</div>
+                </div>
+                </div>
+
+                <!-- Time grid -->
+                <div class="grid-wrap">
+                    <div class="time-gutter" style="height:{{(HOUR_END - HOUR_START) * HOUR_HEIGHT}}px;">
+                        {gutter_html}
+                    </div>
+                    <div class="days-container">
+                        {"".join(col_html_parts)}
+                    </div>
+                </div>
+            </div>
+
+            <div class="sidebar">
+                <div class="sidebar-title-main">今日课程总览</div>
+                {sidebar_items}
+            </div>
+        </div>
     </div>
 
-    <div class="sidebar">
-      <div class="sidebar-title-main">今日课程总览</div>
-      {sidebar_items}
-    </div>
-  </div>
-</div>
+    <script>
+        (function () {{
+            // ── Known teachers ──
+            const TEACHERS = ['miya', 'Miya', 'Rita', 'rita', '月月', '达哥'];
+            const TEACHER_PREFIXES = ['miya', 'Rita', 'rita', '达哥', '🈷️'];
+            const TESTS = ['新托福', '托福', '雅思'];
+            const SKILLS = ['阅读', '写作', '口语', '听力'];
+            const TYPES = ['模考正课', '模考', '正课'];
+            const TEACHER_COLORS = {{ Miya: '#d97757', Rita: '#6a9bcc', '月月': '#788c5d', '达哥': '#8b6f5c' }};
+            const START_HOUR = {HOUR_START};
 
-<script>
-// Teacher filter
-document.getElementById('tabs').addEventListener('click', e => {{
-  const btn = e.target.closest('.tab');
-  if (!btn) return;
-  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
-  btn.classList.add('active');
-  const filter = btn.dataset.filter;
+            // ── Today/Tomorrow helpers ──
+            const now = new Date();
+            const todayStr = now.getFullYear() + '-' + String(now.getMonth() + 1).padStart(2, '0') + '-' + String(now.getDate()).padStart(2, '0');
+            const tomorrow = new Date(now); tomorrow.setDate(tomorrow.getDate() + 1);
+            const tomorrowStr = tomorrow.getFullYear() + '-' + String(tomorrow.getMonth() + 1).padStart(2, '0') + '-' + String(tomorrow.getDate()).padStart(2, '0');
+            const twoDaysAgo = new Date(now); twoDaysAgo.setDate(twoDaysAgo.getDate() - 2);
+            const cutoffStr = twoDaysAgo.getFullYear() + '-' + String(twoDaysAgo.getMonth() + 1).padStart(2, '0') + '-' + String(twoDaysAgo.getDate()).padStart(2, '0');
 
-  document.querySelectorAll('.ev').forEach(el => {{
-    el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter);
-  }});
-  document.querySelectorAll('.allday-pill').forEach(el => {{
-    el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter);
-  }});
-  document.querySelectorAll('.sidebar-teacher').forEach(el => {{
-    // Show/hide sidebar sections
-  }});
-}});
+            // ── 1. Hide day columns older than 2 days ago ──
+            const allCols = document.querySelectorAll('.day-col');
+            let visibleDates = [];
+            allCols.forEach(col => {{
+                const d = col.dataset.date;
+                if (d < cutoffStr) {{
+                    col.classList.add('col-hidden');
+                }} else {{
+                    visibleDates.push(d);
+                }}
+            }});
+            // Update week header label
+            if (visibleDates.length) {{
+                const first = visibleDates[0], last = visibleDates[visibleDates.length - 1];
+                const fmt = d => {{ const [, m, dd] = d.split('-'); return parseInt(m) + '月' + parseInt(dd) + '日'; }};
+                const weekLabel = document.querySelector('.week-label');
+                if (weekLabel) weekLabel.textContent = fmt(first) + ' – ' + fmt(last);
+            }}
+            // Also hide corresponding allday cells
+            const alldayCells = document.querySelectorAll('.allday-cell');
+            let cellIdx = 0;
+            allCols.forEach(col => {{
+                if (alldayCells[cellIdx]) {{
+                    if (col.classList.contains('col-hidden')) alldayCells[cellIdx].style.display = 'none';
+                }}
+                cellIdx++;
+            }});
 
-// Now line
-(function() {{
-  const now = new Date();
-  const todayStr = now.getFullYear() + '-' + String(now.getMonth()+1).padStart(2,'0') + '-' + String(now.getDate()).padStart(2,'0');
-  const col = document.querySelector('.day-col[data-date="'+todayStr+'"]');
-  if (!col) return;
-  const body = col.querySelector('.day-body');
-  const h = now.getHours() + now.getMinutes()/60;
-  const startH = {HOUR_START};
-  if (h < startH || h > {HOUR_END}) return;
-  const top = (h - startH) * {HOUR_HEIGHT};
-  const line = document.createElement('div');
-  line.className = 'now-line';
-  line.style.top = top + 'px';
-  body.appendChild(line);
+            // ── 1b. Build fixed header row above scrollable grid ──
+            const calArea = document.querySelector('.calendar-area');
+            const alldayRow = document.querySelector('.allday-row');
+            const gridWrap = document.querySelector('.grid-wrap');
+            if (calArea && gridWrap) {{
+                // Create header row
+                const headerRow = document.createElement('div');
+                headerRow.className = 'day-headers-row';
+                const hGutter = document.createElement('div');
+                hGutter.className = 'header-gutter';
+                headerRow.appendChild(hGutter);
+                const hCells = document.createElement('div');
+                hCells.className = 'header-cells';
+                allCols.forEach(col => {{
+                    if (col.classList.contains('col-hidden')) return;
+                    const dh = col.querySelector('.day-header');
+                    const cell = document.createElement('div');
+                    cell.className = 'header-cell';
+                    if (col.classList.contains('today-col')) cell.classList.add('today-col');
+                    if (dh) cell.innerHTML = dh.innerHTML;
+                    hCells.appendChild(cell);
+                }});
+                headerRow.appendChild(hCells);
 
-  // Auto-scroll to now line
-  const area = document.querySelector('.calendar-area');
-  if (area) area.scrollTop = Math.max(0, top - 120);
-}})();
-</script>
+                // Wrap allday + grid in a scrollable container
+                const scrollDiv = document.createElement('div');
+                scrollDiv.className = 'grid-scroll';
+                if (alldayRow) scrollDiv.appendChild(alldayRow);
+                scrollDiv.appendChild(gridWrap);
+
+                // Insert header row then scrollDiv into calendar area
+                calArea.appendChild(headerRow);
+                calArea.appendChild(scrollDiv);
+            }}
+
+            // ── 1c. Make hovered .ev fully opaque ──
+            // Events have rgba(..., 0.12) backgrounds. On hover, inflate alpha to ~0.95 for readability.
+            function rgbaToSolid(rgba) {{
+                const m = rgba.match(/rgba?\((\d+),\s*(\d+),\s*(\d+)(?:,\s*([\d.]+))?\)/);
+                if (!m) return rgba;
+                const r = parseInt(m[1]), g = parseInt(m[2]), b = parseInt(m[3]);
+                // Blend with cream bg (#f7f2ea) at high alpha
+                const a = 0.92;
+                const bg = {{ r: 247, g: 242, b: 234 }};
+                const nr = Math.round(r * a + bg.r * (1 - a));
+                const ng = Math.round(g * a + bg.g * (1 - a));
+                const nb = Math.round(b * a + bg.b * (1 - a));
+                return 'rgb(' + nr + ',' + ng + ',' + nb + ')';
+            }}
+            document.querySelectorAll('.ev').forEach(ev => {{
+                // Pre-compute solid background equivalent for each event
+                const bgStr = ev.style.background || '';
+                const rgbaMatch = bgStr.match(/rgba?\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*(?:,\s*([\d.]+))?\s*\)/);
+                if (rgbaMatch) {{
+                    const r = parseInt(rgbaMatch[1]);
+                    const g = parseInt(rgbaMatch[2]);
+                    const b = parseInt(rgbaMatch[3]);
+                    const a = parseFloat(rgbaMatch[4] || '1');
+                    // Blend with cream (#f7f2ea = 247,242,234) to get solid equivalent
+                    const cream = {{ r: 247, g: 242, b: 234 }};
+                    const sr = Math.round(r * a + cream.r * (1 - a));
+                    const sg = Math.round(g * a + cream.g * (1 - a));
+                    const sb = Math.round(b * a + cream.b * (1 - a));
+                    ev._solidBg = 'rgb(' + sr + ',' + sg + ',' + sb + ')';
+                    ev._origBg = ev.style.background;
+                }}
+                ev.addEventListener('mouseenter', () => {{
+                    if (ev._solidBg) ev.style.background = ev._solidBg;
+                }});
+                ev.addEventListener('mouseleave', () => {{
+                    if (ev._origBg) ev.style.background = ev._origBg;
+                }});
+            }});
+
+            // ── 2. Trim empty hour rows from the bottom ──
+            let latestEndPx = 0;
+            document.querySelectorAll('.ev').forEach(ev => {{
+                const top = parseFloat(ev.style.top) || 0;
+                const height = parseFloat(ev.style.height) || 0;
+                const end = top + height;
+                if (end > latestEndPx) latestEndPx = end;
+            }});
+            // Add 1 hour buffer, round up to next hour boundary
+            const latestEndHour = Math.ceil(latestEndPx / 60) + START_HOUR + 1;
+            const gridEndHour = Math.min(22, Math.max(latestEndHour, START_HOUR + 4)); // at least 4 hours shown
+            const totalHours = gridEndHour - START_HOUR;
+            const gridHeight = totalHours * 60;
+
+            // Adjust time gutter — remove labels past gridEndHour
+            const gutter = document.querySelector('.time-gutter');
+            if (gutter) {{
+                gutter.style.height = gridHeight + 'px';
+                Array.from(gutter.querySelectorAll('.time-label')).forEach(lbl => {{
+                    const hr = parseInt(lbl.textContent);
+                    if (hr >= gridEndHour) lbl.style.display = 'none';
+                }});
+            }}
+            // Adjust all day-body heights
+            document.querySelectorAll('.day-body').forEach(db => db.style.height = gridHeight + 'px');
+
+            // ── Parse title helpers ──
+            function parseTitle(raw, teacherAttr) {{
+                if (!raw) return {{ special: raw || '' }};
+                let s = raw.trim();
+                if (s.includes('休息')) return {{ special: s.replace(/^(miya|Rita|达哥|🈷️)\s*/i, '') }};
+                if (s.startsWith('🈷️')) s = s.replace(/^🈷️\s*/, '');
+                let teacher = teacherAttr || '';
+                for (const t of TEACHER_PREFIXES) {{
+                    if (s.startsWith(t + ' ') || s.startsWith(t)) {{
+                        s = s.replace(new RegExp('^' + t.replace(/[.*+?^${{}}()|[\]\\]/g, '\\$&') + '\\s*'), '');
+                        break;
+                    }}
+                }}
+                let type = '';
+                for (const ty of TYPES) {{ if (s.endsWith(ty)) {{ type = ty; s = s.slice(0, -ty.length); break; }} }}
+                let skill = '';
+                for (const sk of SKILLS) {{ if (s.includes(sk)) {{ skill = sk; s = s.replace(sk, ''); break; }} }}
+                let test = '';
+                for (const te of TESTS) {{ if (s.includes(te)) {{ test = te; s = s.replace(te, ''); break; }} }}
+                let student = s.trim();
+                return {{ teacher, student, test, skill, type, special: null }};
+            }}
+
+            function formatTitle(parsed, showTeacher) {{
+                if (parsed.special !== null && parsed.special !== undefined) return parsed.special;
+                let parts = [];
+                if (showTeacher && parsed.teacher) parts.push('<span class="ev-teacher">' + parsed.teacher + '</span>');
+                if (parsed.student) {{
+                    if (parts.length) parts.push('<span class="ev-sep">·</span>');
+                    parts.push('<span class="ev-student">' + parsed.student + '</span>');
+                }}
+                let meta = [parsed.test, parsed.skill].filter(Boolean).join(' ');
+                if (parsed.type && parsed.type !== '正课') meta += ' ' + parsed.type;
+                if (meta) {{
+                    if (parts.length) parts.push('<span class="ev-sep">·</span>');
+                    parts.push('<span class="ev-meta">' + meta + '</span>');
+                }}
+                return parts.join('');
+            }}
+
+            // ── Parse all events on page load ──
+            let currentFilter = 'all';
+            document.querySelectorAll('.ev').forEach(ev => {{
+                const raw = ev.querySelector('.ev-title')?.textContent || '';
+                const teacherAttr = ev.dataset.teacher || '';
+                const parsed = parseTitle(raw, teacherAttr);
+                ev._parsed = parsed;
+                ev._rawTitle = raw;
+                ev.dataset.origLeft = ev.style.left;
+                ev.dataset.origWidth = ev.style.width;
+                ev.querySelector('.ev-title').innerHTML = formatTitle(parsed, true);
+            }});
+
+            // Also parse sidebar titles
+            document.querySelectorAll('.sidebar-title').forEach(st => {{
+                const raw = st.textContent || '';
+                const parsed = parseTitle(raw, '');
+                st._parsed = parsed;
+                st._rawTitle = raw;
+                st.innerHTML = formatTitle(parsed, true);
+            }});
+
+            // ── 3. Build tomorrow sidebar ──
+            const tomorrowCol = document.querySelector('.day-col[data-date="' + tomorrowStr + '"]');
+            if (tomorrowCol) {{
+                const sidebar = document.querySelector('.sidebar');
+                if (sidebar) {{
+                    // Add divider
+                    const divider = document.createElement('div');
+                    divider.className = 'sidebar-divider';
+                    sidebar.appendChild(divider);
+
+                    // Title
+                    const title = document.createElement('div');
+                    title.className = 'sidebar-title-main';
+                    title.textContent = '明日课程总览';
+                    sidebar.appendChild(title);
+
+                    // Gather tomorrow's events by teacher
+                    const tEvs = Array.from(tomorrowCol.querySelectorAll('.ev'));
+                    const byTeacher = {{}};
+                    tEvs.forEach(ev => {{
+                        const t = ev.dataset.teacher || '其他';
+                        if (!byTeacher[t]) byTeacher[t] = [];
+                        byTeacher[t].push(ev);
+                    }});
+
+                    const teacherOrder = ['Miya', 'Rita', '月月', '达哥'];
+                    teacherOrder.forEach(tName => {{
+                        const evList = byTeacher[tName];
+                        if (!evList || !evList.length) return;
+                        const block = document.createElement('div');
+                        block.className = 'sidebar-teacher';
+                        const color = TEACHER_COLORS[tName] || '#888';
+                        const nameEl = document.createElement('div');
+                        nameEl.className = 'sidebar-teacher-name';
+                        nameEl.style.color = color;
+                        nameEl.innerHTML = '<span class="dot" style="background:' + color + '"></span>' + tName + ' (' + evList.length + '节)';
+                        block.appendChild(nameEl);
+
+                        evList.forEach(ev => {{
+                            const time = ev.querySelector('.ev-time')?.textContent || '';
+                            const parsed = ev._parsed;
+                            const evEl = document.createElement('div');
+                            evEl.className = 'sidebar-ev';
+                            evEl.innerHTML = '<span class="sidebar-time">' + time + '</span><span class="sidebar-title">' + formatTitle(parsed, false) + '</span>';
+                            block.appendChild(evEl);
+                        }});
+                        sidebar.appendChild(block);
+                    }});
+
+                    if (tEvs.length === 0) {{
+                        const empty = document.createElement('div');
+                        empty.className = 'sidebar-empty';
+                        empty.textContent = '明日暂无课程';
+                        sidebar.appendChild(empty);
+                    }}
+                }}
+            }}
+
+            // ── Collision recalc ──
+            function recalcColumn(col, filter) {{
+                const evs = Array.from(col.querySelectorAll('.ev'));
+                if (filter === 'all') {{
+                    evs.forEach(ev => {{ ev.style.left = ev.dataset.origLeft; ev.style.width = ev.dataset.origWidth; }});
+                    return;
+                }}
+                const visible = evs.filter(ev => !ev.classList.contains('hidden'));
+                if (!visible.length) return;
+                const items = visible.map(ev => ({{ el: ev, top: parseFloat(ev.style.top), height: parseFloat(ev.style.height) }}));
+                items.sort((a, b) => a.top - b.top || a.height - b.height);
+                const columns = [];
+                items.forEach(item => {{
+                    let placed = false;
+                    for (let c = 0; c < columns.length; c++) {{
+                        const last = columns[c][columns[c].length - 1];
+                        if (item.top >= last.top + last.height) {{ columns[c].push(item); item.col = c; placed = true; break; }}
+                    }}
+                    if (!placed) {{ item.col = columns.length; columns.push([item]); }}
+                }});
+                const numCols = columns.length;
+                items.forEach(item => {{
+                    const pct = 100 / numCols;
+                    item.el.style.left = 'calc(' + (item.col * pct) + '% + 2px)';
+                    item.el.style.width = 'calc(' + pct + '% - 4px)';
+                }});
+            }}
+
+            function updateTitles(filter) {{
+                const showTeacher = (filter === 'all');
+                document.querySelectorAll('.ev').forEach(ev => {{
+                    if (ev._parsed) ev.querySelector('.ev-title').innerHTML = formatTitle(ev._parsed, showTeacher);
+                }});
+            }}
+
+            // ── Teacher filter ──
+            document.getElementById('tabs').addEventListener('click', e => {{
+                const btn = e.target.closest('.tab');
+                if (!btn) return;
+                document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+                btn.classList.add('active');
+                const filter = btn.dataset.filter;
+                currentFilter = filter;
+                document.querySelectorAll('.ev').forEach(el => el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter));
+                document.querySelectorAll('.allday-pill').forEach(el => el.classList.toggle('hidden', filter !== 'all' && el.dataset.teacher !== filter));
+                document.querySelectorAll('.day-col:not(.col-hidden)').forEach(col => recalcColumn(col, filter));
+                updateTitles(filter);
+            }});
+
+            // ── Now line ──
+            (function () {{
+                const col = document.querySelector('.day-col[data-date="' + todayStr + '"]');
+                if (!col) return;
+                const body = col.querySelector('.day-body');
+                const h = now.getHours() + now.getMinutes() / 60;
+                if (h < START_HOUR || h > gridEndHour) return;
+                const top = (h - START_HOUR) * 60;
+                const line = document.createElement('div');
+                line.className = 'now-line';
+                line.style.top = top + 'px';
+                body.appendChild(line);
+                const area = document.querySelector('.calendar-area');
+                if (area) area.scrollTop = Math.max(0, top - 120);
+            }})();
+        }})();
+    </script>
 </body>
-</html>'''
+
+</html></html>'''
 
 
 def main():
