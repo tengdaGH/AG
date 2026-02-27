@@ -1,0 +1,260 @@
+{
+  "id": "ielts-r-0078",
+  "slug": "british-architecture-2",
+  "title": "British Architecture 2",
+  "page_range": [
+    396,
+    400
+  ],
+  "raw_answer_key": {
+    "1": "wood",
+    "8": "B",
+    "2": "status and wealth",
+    "9": "A",
+    "3": "expensive commodity",
+    "10": "D",
+    "4": "classical",
+    "11": "A",
+    "5": "furniture and textiles",
+    "12": "C",
+    "6": "Edwin Lutyens",
+    "13": "C",
+    "7": "local authorities"
+  },
+  "content": {
+    "title": "British Architecture 2",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Architecture is about evolution, not revolution. It used to be thought that once the Romans pulled out of Britain in the fifth century, their elegant villas, carefully-planned towns and engineering marvels like Hadrian’s Wall simply fell into decay as British culture was plunged into the Dark Ages. It took the Norman Conquest of 1066 to bring back the light, and the Gothic cathedral-builders of the Middle Ages played an important part in the revival of British culture. However, the truth is not as simple as that Romano-British culture – and that included architecture along with language, religion, political organization and the arts – survived long after the Roman withdrawal. And although the Anglo-Saxons had a sophisticated building style of their own, little survives to bear witness to their achievements as the vast majority of Anglo-Saxon buildings were made of wood."
+      },
+      {
+        "label": "B",
+        "content": "Even so, the period between the Norman landing at Pevensey in 1066 and the day in 1485 when Richard III lost his horse and his head at Bosworth, ushering in the Tudors and the Early Modern period, marks a rare flowering of British building. And it is all the more remarkable because the underlying ethos of medieval architecture was ‘fitness for purpose’. The great cathedrals and parish churches that lifted up their towers to heaven were not only acts of devotion in stone; they were also fiercely functional buildings. Castles served their particular purpose and their battlements and turrets were for use rather than ornament. In a sense, the buildings of the 16th century were also governed by fitness for purpose – only now, the purpose was very different. In domestic architecture, in particular, buildings were used to display status and wealth."
+      },
+      {
+        "label": "C",
+        "content": "This stately and curious workmanship showed itself in various ways. A greater sense of security led to more outward-looking buildings, as opposed to the medieval arrangement where the need for defense created houses that faced inward onto a courtyard or series of courtyards. This allowed for much more in the way of exterior ornament. The rooms themselves tended to be bigger and lighter – as an expensive commodity, the use of great expanses of glass was in itself a statement of wealth. There was also a general move towards balanced and symmetrical exteriors with central entrances."
+      },
+      {
+        "label": "D",
+        "content": "With the exception of Inigo Jones (1573-1652), whose confident handling of classical detail and proportion set him apart from all other architects of the period, most early 17th century buildings tended to take the innocent exuberance of late Tudor work one step further. But during the 1640s and 50s the Civil War and its aftermath sent many gentlemen and nobles to the Continent either to escape the fighting or, when the war was lost, to follow Charles II into exile. There they came into contact with French, Dutch and Italian architecture and, with Charles’s restoration in 1660, there was a flurry of building activity as royalists reclaimed their property and built themselves houses reflecting the latest European trends. The British Baroque was a reassertion of authority, an expression of absolutist ideology by men who remembered a world turned upside down during the Civil War. The style is heavy and rich, sometimes overblown and melodramatic. The politics which underpin it are questionable, but its products are breathtaking."
+      },
+      {
+        "label": "E",
+        "content": "The huge glass-and-iron Crystal Palace, designed by Joseph Paxton to house the Great Exhibition of 1851, shows another strand to 19th century architecture – one which embraced new industrial processes. But it wasn’t long before even this confidence in progress came to be regarded with suspicion. Mass production resulted in buildings and furnishings that were too perfect, as the individual craftsman no longer had a major role in their creation. Railing against the dehumanising effects of industrialisation, reformers like John Ruskin and William Morris made a concerted effort to return to hand-crafted, pre-industrial manufacturing techniques. Morris’s influence grew from the production of furniture and textiles, until by the 1880s a generation of principled young architects was following his call for good, honest construction."
+      },
+      {
+        "label": "F",
+        "content": "The most important trends in early 20th century architecture simply passed Britain by. Whilst Gropius was working on cold, hard expanses of glass, and Le Corbusier was experimenting with the use of reinforced concrete frames, we had staid establishment architects like Edwin Lutyens producing Neo-Georgian and Renaissance country houses for an outmoded landed class. In addition there were slightly batty architect-craftsmen, the heirs of William Morris, still trying to turn the clock back to before the Industrial Revolution by making chairs and spurning new technology. Only a handful of Modern Movement buildings of any real merit were produced here during the 1920s and 1930s, and most of these were the work of foreign architects such as Serge Chermayeff, Berthold Lubetkin and Erno Goldfinger who had settled in this country."
+      },
+      {
+        "label": "G",
+        "content": "After the Second World War the situation began to change. The Modern Movement’s belief in progress and the future struck a chord with the mood of post-war Britain and, as reconstruction began under Attlee’s Labour government in 1945, there was a desperate need for cheap housing which could be produced quickly. The use of prefabricated elements, metal frames, concrete cladding and the absence of decoration – all of which had been embraced by Modernists abroad and viewed with suspicion by the British - were adopted to varying degrees for housing developments and schools. Local authorities, charged with the task of rebuilding city centers, became important patrons of architecture. This represented a shift away from the private individuals who had dominated the architectural scene for centuries."
+      },
+      {
+        "label": "H",
+        "content": "Since the War it has been corporate bodies like these local authorities, together with national and multinational companies, and large educational institutions, which have dominated British architecture. By the late 1980s the Modern Movement, unfairly blamed for the social experiments implicit in high-rise housing, had lost out to irony and spectacle in the shape of post-modernism, with its cheerful borrowings from anywhere and any period. But now, in the new Millennium, even post-modernism is showing signs of age. What comes next? Post-post-modernism?"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The Anglo-Saxon architecture failed to last because the buildings were constructed in",
+            "answer": "wood",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Different from the medieval architecture, the buildings of the 16th century represents",
+            "answer": "status and wealth",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The costly glass was applied widely as an",
+            "answer": "expensive commodity",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Inigo Jones was skilled at handling",
+            "answer": "classical",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "William Morris favored the production of",
+            "answer": "furniture and textiles",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The architects such as",
+            "answer": "Edwin Lutyens",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "After World War Two, the architect commission shifted from individual to",
+            "answer": "local authorities",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "The feature of medieval architecture was",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "immense"
+              },
+              {
+                "label": "B",
+                "text": "useful"
+              },
+              {
+                "label": "C",
+                "text": "decorative"
+              },
+              {
+                "label": "D",
+                "text": "bizarre"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "What contributes to the outward-looking buildings in the 16th century?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "safety"
+              },
+              {
+                "label": "B",
+                "text": "beauty"
+              },
+              {
+                "label": "C",
+                "text": "quality"
+              },
+              {
+                "label": "D",
+                "text": "technology"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Why were the buildings in the 1660s influenced by the latest European trends?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Because the war was lost."
+              },
+              {
+                "label": "B",
+                "text": "Because the craftsman came from all over the Europe."
+              },
+              {
+                "label": "C",
+                "text": "Because the property belongs to the gentlemen and nobles."
+              },
+              {
+                "label": "D",
+                "text": "Because the monarch came back from the continent."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "What kind of sense did the British Baroque imply?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "tough"
+              },
+              {
+                "label": "B",
+                "text": "steady"
+              },
+              {
+                "label": "C",
+                "text": "mild"
+              },
+              {
+                "label": "D",
+                "text": "conservative"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The individual craftsman was no more the key to creation for the appearance of",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Crystal Palace"
+              },
+              {
+                "label": "B",
+                "text": "preindustrial manufacturing return"
+              },
+              {
+                "label": "C",
+                "text": "industrial process in scale"
+              },
+              {
+                "label": "D",
+                "text": "ornament"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The building style changed after World War Two as a result of",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "abundant materials"
+              },
+              {
+                "label": "B",
+                "text": "local authority"
+              },
+              {
+                "label": "C",
+                "text": "shortage of cheap housing"
+              },
+              {
+                "label": "D",
+                "text": "conservative views"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:39:32.795307"
+}

@@ -1,0 +1,296 @@
+{
+  "id": "ielts-r-0039",
+  "slug": "art-in-iron-and-steel",
+  "title": "Art in Iron and Steel",
+  "page_range": [
+    206,
+    210
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "F",
+    "2": "E",
+    "9": "D",
+    "3": "B",
+    "10": "A",
+    "4": "F",
+    "11": "Abraham Darby III",
+    "5": "A",
+    "12": "stone",
+    "6": "E",
+    "13": "river",
+    "7": "B",
+    "14": "Coalbrookdale Museum"
+  },
+  "content": {
+    "title": "Art in Iron and Steel",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Works of engineering and technology are sometimes viewed as the antitheses of art and humanity. Think of the connotations of assembly lines, robots, and computers. Any positive values there might be in such creations of the mind and human industry can be overwhelmed by the associated negative images of repetitive, stressful, and threatened jobs. Such images fuel the arguments of critics of technology even as they may drive powerful cars and use the Internet to protest what they see as the artless and dehumanizing aspects of living in an industrialized and digitized society. At the same time, landmark megastructures such as the Brooklyn and Golden Gate bridges are almost universally hailed as majestic human achievements as well as great engineering monuments that have come to embody the spirits of their respective cities. The relationship between art and engineering has seldom been easy or consistent."
+      },
+      {
+        "label": "B",
+        "content": "The human worker may have appeared to be but a cog in the wheel of industry, yet photographers could reveal the beauty of line and composition in a worker doing something as common as using a wrench to turn a bolt. When Henry Ford’s enormous River Rouge plant opened in 1927 to produce the Model A, the painter/photographer Charles Sheeler was chosen to photograph it. The world’s largest car factory captured the imagination of Sheeler, who described it as the most thrilling subject he ever had to work with. The artist also composed oil paintings of the plant, giving them titles such as American Landscape and Classic Landscape."
+      },
+      {
+        "label": "C",
+        "content": "Long before Sheeler, other artists, too, had seen the beauty and humanity in works of engineering and technology. This is perhaps no more evident than in Coalbrookdale, England, where iron, which was so important to the industrial revolution, was worked for centuries. Here, in the late eighteenth century, Abraham Darby III cast on the banks of the Severn River the large ribs that formed the world’s first iron bridge, a dramatic departure from the classic stone and timber bridges that dotted the countryside and were captured in numerous serene landscape paintings. The metal structure, simply but appropriately called Iron Bridge, still spans the river and still beckons engineers, artists, and tourists to gaze upon and walk across it, as if on a pilgrimage to a revered place."
+      },
+      {
+        "label": "D",
+        "content": "At Coalbrookdale, the reflection of the ironwork in the water completes the semicircular structure to form a wide-open eye into the future that is now the past. One artist’s bucolic depiction shows pedestrians and horsemen on the bridge, as if on a woodland trail. On one shore, a pair of well-dressed onlookers interrupts their stroll along the riverbank, perhaps to admire the bridge. On the other side of the gently flowing river, a lone man leads two mules beneath an arch that lets the towpath pass through the bridge’s abutment. A single boatman paddles across the river in a tiny tub boat. He is in no rush because there is no towline to carry from one side of the bridge to the other. This is how Michael Rooker was Iron Bridge in his 1792 painting. A colored engraving of the scene hangs in the nearby Coalbrookdale museum, along with countless other contemporary renderings of the bridge in its full glory and in its context, showing the iron structure not as a blight on the landscape but at the center of it. The surrounding area at the same time radiates out from the bridge and pales behind it."
+      },
+      {
+        "label": "E",
+        "content": "In the nineteenth century, the railroads captured the imagination of artists, and the steam engine in the distance of a landscape became as much a part of it as the herd of cows in the foreground. The Impressionist Claude Monet painted man-made structures like railway stations and cathedrals as well as water lilies. Portrait painters such as Christian Schussele found subjects in engineers and inventors – and their inventions – as well as in the American founding fathers. By the twentieth century, engineering, technology, and industry were very well established as subjects for artists."
+      },
+      {
+        "label": "F",
+        "content": "American-born Joseph Pennell illustrated many European travel articles and books. Pennell, who early in his career made drawings of buildings under construction and shrouded in scaffolding, returned to America late in life and recorded industrial activities during World War I. He is perhaps best known among engineers for his depiction of the Panama Canal as it neared completion and his etchings of the partially completed Hell Gate and Delaware River bridges."
+      },
+      {
+        "label": "G",
+        "content": "Pennell has often been quoted as saying, “Great engineering is great art,” a sentiment that he expressed repeatedly. He wrote of his contemporaries, “I understand nothing of engineering, but I know that engineers are the greatest architects and the most pictorial builders since the Greeks.” Where some observers saw only utility, Pennell saw also beauty, if not in form then at least in scale. He felt he was not only rendering a concrete subject but also conveying through his drawings the impression that it made on him. Pennell called the sensation that he felt before a great construction project 'The Wonder of Work'. He saw engineering as a process. That process is memorialized in every completed dam, skyscraper, bridge, or other great achievement of engineering."
+      },
+      {
+        "label": "H",
+        "content": "If Pennell experienced the wonder of work in the aggregate, Lewis Hine focused on the individuals who engaged in the work. Hine was trained as a sociologist but became best known as a photographer who exposed the exploitation of children. His early work documented immigrants passing through Ellis Island, along with the conditions in the New York tenements where they lived and the sweatshops where they worked. Upon returning to New York, he was given the opportunity to record the construction of the Empire State Building, which resulted in the striking photographs that have become such familiar images of daring and insouciance. He put his own life at risk to capture workers suspended on cables hundreds of feet in the air and sitting on a high girder eating lunch. To engineers today, one of the most striking features of these photos, published in 1932 in Men at Work, is the absence of safety lines and hard hats. However, perhaps more than anything, the photos evoke Pennell’s “The Wonder of Work” and inspire admiration for the bravery and skill that bring a great engineering project to completion."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The Reading Passage has eight paragraphs A-H. Which paragraph contains the following information? Write the correct letter A-H in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Art connected with architecture for the first time.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "small artistic object and constructions built are put together",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "the working condition were recorded by the artist as an exciting subject.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "mention of one engineers’ artistic work on an unfinished engineering project",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Two examples of famous bridges which became the iconic symbols of those cities",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 6-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "who made a comment that concrete constructions have a beauty just as artistic processes created by engineers the architects",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Charles Sheeler"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rooker"
+              },
+              {
+                "label": "C",
+                "text": "Claude Monet"
+              },
+              {
+                "label": "D",
+                "text": "Christian Schussele"
+              },
+              {
+                "label": "E",
+                "text": "Joseph Pennell"
+              },
+              {
+                "label": "F",
+                "text": "Lewis Hine"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "who made a romantic depiction of an old bridge in one painting",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Charles Sheeler"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rooker"
+              },
+              {
+                "label": "C",
+                "text": "Claude Monet"
+              },
+              {
+                "label": "D",
+                "text": "Christian Schussele"
+              },
+              {
+                "label": "E",
+                "text": "Joseph Pennell"
+              },
+              {
+                "label": "F",
+                "text": "Lewis Hine"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "who produced art pieces demonstrating the courage of workers in the site",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "Charles Sheeler"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rooker"
+              },
+              {
+                "label": "C",
+                "text": "Claude Monet"
+              },
+              {
+                "label": "D",
+                "text": "Christian Schussele"
+              },
+              {
+                "label": "E",
+                "text": "Joseph Pennell"
+              },
+              {
+                "label": "F",
+                "text": "Lewis Hine"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "who produced portraits involving subjects in engineers and inventions and historical human heroes.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Charles Sheeler"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rooker"
+              },
+              {
+                "label": "C",
+                "text": "Claude Monet"
+              },
+              {
+                "label": "D",
+                "text": "Christian Schussele"
+              },
+              {
+                "label": "E",
+                "text": "Joseph Pennell"
+              },
+              {
+                "label": "F",
+                "text": "Lewis Hine"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "who produced a painting of factories and named them ambitiously",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Charles Sheeler"
+              },
+              {
+                "label": "B",
+                "text": "Michael Rooker"
+              },
+              {
+                "label": "C",
+                "text": "Claude Monet"
+              },
+              {
+                "label": "D",
+                "text": "Christian Schussele"
+              },
+              {
+                "label": "E",
+                "text": "Joseph Pennell"
+              },
+              {
+                "label": "F",
+                "text": "Lewis Hine"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage. Using NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Iron bridge Coalbrookdale, England In the late eighteenth century, as artists began to capture the artistic attractiveness incorporated into architecture via engineering and technology were captured in numerous serene landscape paintings. One good example, the engineer called",
+            "answer": "Abraham Darby III",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "had designed the first iron bridge in the world and changed to using irons yet earlier bridges in the countryside were constructed using materials such as",
+            "answer": "stone",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "This first Iron bridge which across the",
+            "answer": "river",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "was much significant in the industrial revolution period and it functioned for centuries. Numerous spectacular paintings and sculpture of Iron Bridge are collected and exhibited locally in",
+            "answer": "Coalbrookdale Museum",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:29:28.529175"
+}

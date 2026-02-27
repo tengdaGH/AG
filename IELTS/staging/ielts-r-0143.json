@@ -1,0 +1,296 @@
+{
+  "id": "ielts-r-0143",
+  "slug": "eco-resort-management",
+  "title": "Eco-Resort Management",
+  "page_range": [
+    729,
+    733
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "fan/ceiling fan",
+    "2": "B",
+    "9": "air conditioner",
+    "3": "D",
+    "10": "mosquitos/mosquito",
+    "4": "D",
+    "11": "A, C, E IN ANY ORDER",
+    "5": "B",
+    "12": "A, C, E IN ANY ORDER",
+    "6": "ferry",
+    "13": "A, C, E IN ANY ORDER",
+    "7": "bicycle"
+  },
+  "content": {
+    "title": "Eco-Resort Management",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Ecotourism is often regarded as a form of nature-based tourism and has become an important alternative source of tourists. In addition to providing the traditional resort-leisure product, it has been argued that ecotourism resort management should have a particular focus on best-practice environmental management, an educational and interpretive component, and direct and indirect contributions to the conservation of the natural and cultural environment (Ayala, 1996)."
+      },
+      {
+        "label": "B",
+        "content": "Couran Cove Island Resort is a large integrated ecotourism-based resort located south of Brisbane on the Gold Coast, Queensland, Australia. As the world’s population becomes increasingly urbanised, the demand for tourist attractions which are environmentally friendly, serene and offer amenities of a unique nature, has grown rapidly. Couran Cove Resort, which is one such tourist attraction, is located on South Stradbroke Island, occupying approximately 150 hectares of the island. South Stradbroke Island is separated from the mainland by the Broadwater, a stretch of sea 3 kilometers wide. More than a century ago, there was only one Stradbroke Island, and there were at least four aboriginal tribes living and hunting on the island. Regrettably, most of the original island dwellers were eventually killed by diseases such as tuberculosis, smallpox and influenza by the end of the 19th century. The second shipwreck on the island in 1894, and the subsequent destruction of the ship (the Cambus Wallace) because it contained dynamite, caused a large crater in the sandhills on Stradbroke Island. Eventually, the ocean broke through the weakened land form and Stradbroke became two islands. Couran Cove Island Resort is built on one of the world’s few naturally-occurring sand lands, which is home to a wide range of plant communities and one of the largest remaining remnants of the rare livistona rainforest left on the Gold Coast. Many mangrove and rainforest areas, and Malaleuca Wetlands on South Stradbroke Island (and in Queensland), have been cleared, drained or filled for residential, industrial, agricultural or urban development in the first half of the 20th century. Farmer and graziers finally abandoned South Stradbroke Island in 1939 because the vegetation and the soil conditions there were not suitable for agricultural activities."
+      },
+      {
+        "label": "C",
+        "content": "South Stradbroke Island has groundwater at the centre of the island, which has a maximum height of 3 metres above sea level. The water supply is recharged by rainfall and is commonly known as an unconfined freshwater aquifer. Couran Cove Island Resort obtains its water supply by tapping into this aquifer and extracting it via a bore system. Some of the problems which have threatened the island’s freshwater supply include pollution, contamination and over-consumption. In order to minimise some of these problems, all laundry activities are carried out on the mainland. The resort considers washing machines as onerous to the island’s freshwater supply, and that the detergents contain a high level of phosphates which are a major source of water pollution. The resort uses LPG-power generation rather than a diesel-powered plant for its energy supply, supplemented by wind turbine, which has reduced greenhouse emissions by 70% of diesel-equivalent generation methods. Excess heat recovered from the generator is used to heat the swimming pool. Hot water in the eco-cabins and for some of the resort’s vehicles are solar-powered. Water efficient fittings are also installed in showers and toilets. However, not all the appliances used by the resort are energy efficient, such as refrigerators. Visitors who stay at the resort are encouraged to monitor their water and energy usage via the in-house television system, and are rewarded with prizes (such as a free return trip to the resort) accordingly if their usage level is low."
+      },
+      {
+        "label": "D",
+        "content": "We examined a case study of good management practice and a pro-active sustainable tourism stance of an eco-resort. In three years of operation, Couran Cove Island Resort has won 23 international and national awards, including the 2001 Australian Tourism Award in the 4-Star Accommodation category. The resort has embraced and has effectively implemented contemporary environmental management practices. It has been argued that the successful implementation of the principles of sustainability should promote long-term social, economic and environmental benefits, while ensuring and enhancing the prospects of continued viability for the tourism enterprise. Couran Cove Island Resort does not conform to the characteristics of the Resort Development Spectrum, as proposed by Prideaux (2000). According to Prideaux, the resort should be at least at Phase 3 of the model (the National tourism phase), which describes an integrated resort providing 3-4 star hotel-type accommodation. The primary tourist market in Phase 3 of the model consists mainly of interstate visitors. However, the number of interstate and international tourists visiting the resort is small, with the principal visitor markets comprising locals and residents from nearby towns and the Gold Coast region. The carrying capacity of Couran Cove does not seem to be of any concern to the Resort management. Given that it is a private commercial ecotourist enterprise, regulating the number of visitors to the resort to minimize damage done to the natural environment on South Stradbroke Island is not a binding constraint. However, the Resort’s growth will eventually be constrained by its carrying capacity, and quantity control should be incorporated in the management strategy of the resort."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The Stradbroke became two islands",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "by an intended destruction of the ship of the Cambus Wallace"
+              },
+              {
+                "label": "B",
+                "text": "by an explosion of dynamite on a ship and following nature erosion"
+              },
+              {
+                "label": "C",
+                "text": "by the movement sandhills on Stradbroke Island"
+              },
+              {
+                "label": "D",
+                "text": "by the volcanic eruption on island"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Why are laundry activities for the resort carried out on the mainland",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "In order to obtain its water supply via a bore system"
+              },
+              {
+                "label": "B",
+                "text": "In order to preserve the water and anti-pollution"
+              },
+              {
+                "label": "C",
+                "text": "In order to save the cost of installing onerous washing machines"
+              },
+              {
+                "label": "D",
+                "text": "In order to reduce the level of phosphates in water around"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What is the major water supplier in South Stradbroke Island is by",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "desalinizing the sea water"
+              },
+              {
+                "label": "B",
+                "text": "collecting the rainfall"
+              },
+              {
+                "label": "C",
+                "text": "transporting from the mainland"
+              },
+              {
+                "label": "D",
+                "text": "boring ground water"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What is applied for heating water on Couran Cove Island Resort",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "the LPG-power"
+              },
+              {
+                "label": "B",
+                "text": "a diesel-powered plant"
+              },
+              {
+                "label": "C",
+                "text": "the wind power"
+              },
+              {
+                "label": "D",
+                "text": "the solar-power"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What does, as the managers of resorts believe, the prospective future focus on",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "more awards of for resort’s accommodation"
+              },
+              {
+                "label": "B",
+                "text": "sustainable administration and development in a long run"
+              },
+              {
+                "label": "C",
+                "text": "Economic and environmental benefits for the tourism enterprise"
+              },
+              {
+                "label": "D",
+                "text": "successful implementation the Resort Development Spectrum"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the Reading Passage, using NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Being located away from the mainland, tourists can attain the resort only",
+            "answer": "ferry",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Within the resort, transports include trails for walking or tracks for both",
+            "answer": "bicycle",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The on-island equipment is old-fashioned which is barely working such as the",
+            "answer": "fan/ceiling fan",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "There is television, radio, an old",
+            "answer": "air conditioner",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "And you can buy the repellant for",
+            "answer": "mosquitos/mosquito",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose THREE correct letters among, A-E.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "What is true as to the contemporary situation of Couran Cove Island R in the last paragraph",
+            "answer": "A, C, E IN ANY ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Couran Cove Island Resort goes for more eco-friendly practices."
+              },
+              {
+                "label": "B",
+                "text": "The accommodation standard only conforms to the Resort Development Spectrum of Phase 3."
+              },
+              {
+                "label": "C",
+                "text": "Couran Cove Island Resort should raise the accommodation standard and build more facilities."
+              },
+              {
+                "label": "D",
+                "text": "The principal group visiting the resort is international tourists."
+              },
+              {
+                "label": "E",
+                "text": "Its carrying capacity will restrict the future business’ expansion."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "What is true as to the contemporary situation of Couran Cove Island R in the last paragraph",
+            "answer": "A, C, E IN ANY ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Couran Cove Island Resort goes for more eco-friendly practices."
+              },
+              {
+                "label": "B",
+                "text": "The accommodation standard only conforms to the Resort Development Spectrum of Phase 3."
+              },
+              {
+                "label": "C",
+                "text": "Couran Cove Island Resort should raise the accommodation standard and build more facilities."
+              },
+              {
+                "label": "D",
+                "text": "The principal group visiting the resort is international tourists."
+              },
+              {
+                "label": "E",
+                "text": "Its carrying capacity will restrict the future business’ expansion."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "What is true as to the contemporary situation of Couran Cove Island R in the last paragraph",
+            "answer": "A, C, E IN ANY ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Couran Cove Island Resort goes for more eco-friendly practices."
+              },
+              {
+                "label": "B",
+                "text": "The accommodation standard only conforms to the Resort Development Spectrum of Phase 3."
+              },
+              {
+                "label": "C",
+                "text": "Couran Cove Island Resort should raise the accommodation standard and build more facilities."
+              },
+              {
+                "label": "D",
+                "text": "The principal group visiting the resort is international tourists."
+              },
+              {
+                "label": "E",
+                "text": "Its carrying capacity will restrict the future business’ expansion."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:55:59.529455"
+}

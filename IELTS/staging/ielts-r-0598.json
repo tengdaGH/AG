@@ -1,0 +1,449 @@
+{
+  "id": "ielts-r-0598",
+  "slug": "uk-companies-need-more-effective-boards-of-directors",
+  "title": "UK companies need more effective boards of directors",
+  "page_range": [
+    3023,
+    3027
+  ],
+  "raw_answer_key": {
+    "1": "iv",
+    "8": "YES",
+    "2": "ii",
+    "9": "NOT GIVEN",
+    "3": "vi",
+    "10": "NO",
+    "4": "11. NO viii",
+    "5": "vii",
+    "12": "information",
+    "6": "i",
+    "13": "financial",
+    "7": "iii",
+    "14": "shareholders/investors"
+  },
+  "content": {
+    "title": "UK companies need more effective boards of directors",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "After a number of serious failures of governance (that is, how they are managed at the highest level), companies in Britain, as well as elsewhere, should consider radical changes to their directors’ roles. It is clear that the role of a board director today is not an easy one. Following the 2008 financial meltdown, which resulted in a deeper and more prolonged period of economic downturn than anyone expected, the search for explanations in the many post-mortems of the crisis has meant blame has been spread far and wide. Governments, regulators, central banks and auditors have all been in the frame. The role of bank directors and management and their widely publicised failures have been extensively picked over and examined in reports, inquiries and commentaries."
+      },
+      {
+        "label": "B",
+        "content": "The knock-on effect of this scrutiny has been to make the governance of companies in general an issue of intense public debate and has significantly increased the pressures on, and the responsibilities of, directors. At the simplest and most practical level, the time involved in fulfilling the demands of a board directorship has increased significantly, calling into question the effectiveness of the classic model of corporate governance by part-time, independent non-executive directors. Where once a board schedule may have consisted of between eight and ten meetings a year, in many companies the number of events requiring board input and decisions has dramatically risen. Furthermore, the amount of reading and preparation required for each meeting is increasing. Agendas can become overloaded and this can mean the time for constructive debate must necessarily be restricted in favour of getting through the business."
+      },
+      {
+        "label": "C",
+        "content": "Often, board business is devolved to committees in order to cope with the workload, which may be more efficient but can mean that the board as a whole is less involved in fully addressing some of the most important issues. It is not uncommon for the audit committee meeting to last longer than the main board meeting itself. Process may take the place of discussion and be at the expense of real collaboration, so that boxes are ticked rather than issues tackled."
+      },
+      {
+        "label": "D",
+        "content": "A radical solution, which may work for some very large companies whose businesses are extensive and complex, is the professional board, whose members would work up to three or four days a week, supported by their own dedicated staff and advisers. There are obvious risks to this and it would be important to establish clear guidelines for such a board to ensure that it did not step on the toes of management by becoming too engaged in the day-to-day running of the company. Problems of recruitment, remuneration and independence could also arise and this structure would not be appropriate for all companies. However, more professional and better-informed boards would have been particularly appropriate for banks where the executives had access to information that part-time non-executive directors lacked, leaving the latter unable to comprehend or anticipate the 2008 crash."
+      },
+      {
+        "label": "E",
+        "content": "One of the main criticisms of boards and their directors is that they do not focus sufficiently on longer-term matters of strategy, sustainability and governance, but instead concentrate too much on short-term financial metrics. Regulatory requirements and the structure of the market encourage this behaviour. The tyranny of quarterly reporting can distort board decision-making, as directors have to 'make the numbers' every four months to meet the insatiable appetite of the market for more data. This serves to encourage the trading methodology of a certain kind of investor who moves in and out of a stock without engaging in constructive dialogue with the company about strategy or performance, and is simply seeking a short-term financial gain. This effect has been made worse by the changing profile of investors due to the globalisation of capital and the increasing use of automated trading systems. Corporate culture adapts and management teams are largely incentivised to meet financial goals."
+      },
+      {
+        "label": "F",
+        "content": "Compensation for chief executives has become a combat zone where pitched battles between investors, management and board members are fought, often behind closed doors but increasingly frequently in the full glare of press attention. Many would argue that this is in the interest of transparency and good governance as shareholders use their muscle in the area of pay to pressure boards to remove underperforming chief executives. Their powers to vote down executive remuneration policies increased when binding votes came into force. The chair of the remuneration committee can be an exposed and lonely role, as Alison Carnwath, chair of Barclays Bank’s remuneration committee, found when she had to resign, having been roundly criticised for trying to defend the enormous bonus to be paid to the chief executive; the irony being that she was widely understood to have spoken out against it in the privacy of the committee."
+      },
+      {
+        "label": "G",
+        "content": "The financial crisis stimulated a debate about the role and purpose of the company and a heightened awareness of corporate ethics. Trust in the corporation has been eroded and academics such as Michael Sandel, in his thoughtful and bestselling book What Money Can’t Buy, are questioning the morality of capitalism and the market economy. Boards of companies in all sectors will need to widen their perspective to encompass these issues and this may involve a realignment of corporate goals. We live in challenging times."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for each paragraph from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Disputes over financial arrangements regarding senior managers"
+              },
+              {
+                "label": "ii",
+                "text": "The impact on companies of being subjected to close examination"
+              },
+              {
+                "label": "iii",
+                "text": "The possible need for fundamental change in every area of business"
+              },
+              {
+                "label": "iv",
+                "text": "Many external bodies being held responsible for problems"
+              },
+              {
+                "label": "v",
+                "text": "The falling number of board members with broad enough experience"
+              },
+              {
+                "label": "vi",
+                "text": "A risk that not all directors take part in solving major problems"
+              },
+              {
+                "label": "vii",
+                "text": "Boards not looking far enough ahead"
+              },
+              {
+                "label": "viii",
+                "text": "A proposal to change the way the board operates"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Disputes over financial arrangements regarding senior managers"
+              },
+              {
+                "label": "ii",
+                "text": "The impact on companies of being subjected to close examination"
+              },
+              {
+                "label": "iii",
+                "text": "The possible need for fundamental change in every area of business"
+              },
+              {
+                "label": "iv",
+                "text": "Many external bodies being held responsible for problems"
+              },
+              {
+                "label": "v",
+                "text": "The falling number of board members with broad enough experience"
+              },
+              {
+                "label": "vi",
+                "text": "A risk that not all directors take part in solving major problems"
+              },
+              {
+                "label": "vii",
+                "text": "Boards not looking far enough ahead"
+              },
+              {
+                "label": "viii",
+                "text": "A proposal to change the way the board operates"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Disputes over financial arrangements regarding senior managers"
+              },
+              {
+                "label": "ii",
+                "text": "The impact on companies of being subjected to close examination"
+              },
+              {
+                "label": "iii",
+                "text": "The possible need for fundamental change in every area of business"
+              },
+              {
+                "label": "iv",
+                "text": "Many external bodies being held responsible for problems"
+              },
+              {
+                "label": "v",
+                "text": "The falling number of board members with broad enough experience"
+              },
+              {
+                "label": "vi",
+                "text": "A risk that not all directors take part in solving major problems"
+              },
+              {
+                "label": "vii",
+                "text": "Boards not looking far enough ahead"
+              },
+              {
+                "label": "viii",
+                "text": "A proposal to change the way the board operates"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Disputes over financial arrangements regarding senior managers"
+              },
+              {
+                "label": "ii",
+                "text": "The impact on companies of being subjected to close examination"
+              },
+              {
+                "label": "iii",
+                "text": "The possible need for fundamental change in every area of business"
+              },
+              {
+                "label": "iv",
+                "text": "Many external bodies being held responsible for problems"
+              },
+              {
+                "label": "v",
+                "text": "The falling number of board members with broad enough experience"
+              },
+              {
+                "label": "vi",
+                "text": "A risk that not all directors take part in solving major problems"
+              },
+              {
+                "label": "vii",
+                "text": "Boards not looking far enough ahead"
+              },
+              {
+                "label": "viii",
+                "text": "A proposal to change the way the board operates"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Disputes over financial arrangements regarding senior managers"
+              },
+              {
+                "label": "ii",
+                "text": "The impact on companies of being subjected to close examination"
+              },
+              {
+                "label": "iii",
+                "text": "The possible need for fundamental change in every area of business"
+              },
+              {
+                "label": "iv",
+                "text": "Many external bodies being held responsible for problems"
+              },
+              {
+                "label": "v",
+                "text": "The falling number of board members with broad enough experience"
+              },
+              {
+                "label": "vi",
+                "text": "A risk that not all directors take part in solving major problems"
+              },
+              {
+                "label": "vii",
+                "text": "Boards not looking far enough ahead"
+              },
+              {
+                "label": "viii",
+                "text": "A proposal to change the way the board operates"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Disputes over financial arrangements regarding senior managers"
+              },
+              {
+                "label": "ii",
+                "text": "The impact on companies of being subjected to close examination"
+              },
+              {
+                "label": "iii",
+                "text": "The possible need for fundamental change in every area of business"
+              },
+              {
+                "label": "iv",
+                "text": "Many external bodies being held responsible for problems"
+              },
+              {
+                "label": "v",
+                "text": "The falling number of board members with broad enough experience"
+              },
+              {
+                "label": "vi",
+                "text": "A risk that not all directors take part in solving major problems"
+              },
+              {
+                "label": "vii",
+                "text": "Boards not looking far enough ahead"
+              },
+              {
+                "label": "viii",
+                "text": "A proposal to change the way the board operates"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Paragraph G",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Disputes over financial arrangements regarding senior managers"
+              },
+              {
+                "label": "ii",
+                "text": "The impact on companies of being subjected to close examination"
+              },
+              {
+                "label": "iii",
+                "text": "The possible need for fundamental change in every area of business"
+              },
+              {
+                "label": "iv",
+                "text": "Many external bodies being held responsible for problems"
+              },
+              {
+                "label": "v",
+                "text": "The falling number of board members with broad enough experience"
+              },
+              {
+                "label": "vi",
+                "text": "A risk that not all directors take part in solving major problems"
+              },
+              {
+                "label": "vii",
+                "text": "Boards not looking far enough ahead"
+              },
+              {
+                "label": "viii",
+                "text": "A proposal to change the way the board operates"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Close scrutiny of the behaviour of boards has increased since the economic downturn.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Banks have been mismanaged to a greater extent than other businesses.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Board meetings normally continue for as long as necessary to debate matters in full.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Using a committee structure would ensure that board members are fully informed about significant issues.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Before 2008, non-executive directors were at a disadvantage because of their lack of",
+            "answer": "information",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Boards tend to place too much emphasis on",
+            "answer": "financial",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "On certain matters, such as pay, the board may have to accept the views of",
+            "answer": "shareholders/investors",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T02:18:41.904526"
+}

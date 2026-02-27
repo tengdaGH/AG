@@ -1,0 +1,325 @@
+{
+  "id": "ielts-r-0027",
+  "slug": "a-new-voyage-round-the-world",
+  "title": "A New Voyage Round the World",
+  "page_range": [
+    151,
+    155
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "C",
+    "2": "C",
+    "9": "D",
+    "3": "B",
+    "10": "NOT GIVEN",
+    "4": "A",
+    "11": "NO",
+    "5": "C",
+    "12": "NO",
+    "6": "F",
+    "13": "NOT GIVEN",
+    "7": "E",
+    "14": "YES"
+  },
+  "content": {
+    "title": "A New Voyage Round the World",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A very old travel book that holds an unusual place in English literature. Part travelogue, part historical record of the Caribbean pirates, part scientific treatise, A New Voyage Round the World was William Dampier’s account of his twelve-year series of journeys around the globe from 1679 to 1691."
+      },
+      {
+        "label": "B",
+        "content": "The wealth and novelty of Dampier’s descriptions, combined with the highly accounts of his comrades’ escapades, proved so popular with a public hungry for tales of discovery and adventure that A New Voyage went into its third reprint within a year of publication. So groundbreaking was Dampier’s account that the writers Swift and Defoe were inspired to create two of the most famous books in the English language, Gulliver’s Travels and Robinson Crusoe."
+      },
+      {
+        "label": "C",
+        "content": "Dampier’s commentators have portrayed him as an unusual, not to say peculiar, man. Notwithstanding his undoubted qualities as an observer, he has been variously characterised as aloof, arrogant, hot-tempered and a weak leader of men. When he arrived on the western coast of Australia, he promptly elected to leave and head north out of dislike for the cold of more southerly latitudes. This physical sensitivity has often been seized on by his detractors, who point out that, as a result, Dampier missed out on becoming the name forever associated with the European discovery of Australia, that honour instead going to Captain James Cook some 80 years later. Yet it should be remembered that he was able to endure a never-ending plague of discomforts and ailments in the tropics. And once, wrecked off Ascension Island in the South Atlantic Ocean, he managed with his crew to survive for five weeks without help, living entirely on turtles and goats."
+      },
+      {
+        "label": "D",
+        "content": "What of his early life, then? Dampier was born in 1651 in Somerset, England, the son of a tenant farmer, George, and his wife Ann. His birthplace, Hymerford House, stands to this day. His parents died before he reached seniority and his guardians apprenticed the young William to a ship’s captain, the boy having shown very early inclinations to 'see the world'. There was nothing in his childhood to set Dampier apart from the numerous other young boys who were sent to sea at this time."
+      },
+      {
+        "label": "E",
+        "content": "Having made brief passages to France and Newfoundland, he completed a more extended voyage to Java, where he began to learn the art of navigation. Returning briefly to Somerset, a neighbour offered Dampier a position overseeing his plantation in Jamaica, which he took up for a time, but he soon returned to sea on a trading voyage among the Caribbean islands. From the viewpoint of posterity, the most significant aspect of this time was that, as plantation manager, Dampier first started to keep a journal."
+      },
+      {
+        "label": "F",
+        "content": "Although Dampier wrote several books, A New Voyage Round the World is the most important and it is worth considering just why this text met with such success. Certainly, the book would not have done so well purely on the merits of Dampier’s findings regarding meteorology and natural history, even though they broke new ground at the time. What appealed more to book buyers of this era was his narrative of life among the pirates of the Caribbean islands, whom he joined for several years after leaving Jamaica. These tales of adventure among rogues and villains who had no regard for the law sparked widespread interest among his countrymen back home. More important even than this, however, it is the superb nature of Dampier’s prose, and his ability to communicate so vividly that raised the book above the common lot."
+      },
+      {
+        "label": "G",
+        "content": "Dampier himself admits in the book’s preface that he received help with the writing of the book, and other evidence exists to suggest that he was assisted by an unknown source. But whatever outside assistance he may have had, the book still has certain problems. In particular, his observations about nature are sometimes roughly dropped into the narrative at very odd junctures and these asides can sometimes interrupt the flow of the story. Dampier himself kept his observations about nature entirely separate from the main body of his travels, and we should therefore hold James Knapton responsible, as he was in charge of checking and revising Dampier’s text, and his publishing company brought the finished book to a wider audience."
+      },
+      {
+        "label": "H",
+        "content": "Dampier’s life has been chronicled in full by numerous biographers, and I refer the reader in particular to Clennell Wilkinson’s excellent (and sadly out-of-print) 1929 biography, as well as the recent portrait by Anton Gill. In short, despite wide acclaim for his writing, Dampier was not blessed in the art of wealth accumulation. Travelling with the pirates, while providing subsistence and adventure, never netted him the treasure chest that a more astute financial operative might have acquired. He died in 1715, aged sixty-three, in Colerman Street, London."
+      },
+      {
+        "label": "I",
+        "content": "We have then a man of myriad and colourful parts, and perhaps not always the easiest of sailors to get along with because of his arrogance and hot temper. But to dwell on these aspects today is to miss the point: it is A New Voyage Round the World that should provide the most illuminating and entertaining of Dampier’s legacies. Above all, the text is studded with some wonderfully colourful expressions, and readers will enjoy some of the finest descriptions of storms in the English language, and the liberal wit throughout."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Which of the following best summarises the writer’s point in the first paragraph?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Dampier’s book does not fall into a single category."
+              },
+              {
+                "label": "B",
+                "text": "Readers were not interested in books on the subject of travel."
+              },
+              {
+                "label": "C",
+                "text": "Today’s readers do not appreciate the style of Dampier’s writing."
+              },
+              {
+                "label": "D",
+                "text": "Dampier sailed round the world more quickly than anyone before."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The writer refers to Swift and Defoe in order to",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "provide information regarding Dampier’s sources."
+              },
+              {
+                "label": "B",
+                "text": "compare Dampier to two earlier writers."
+              },
+              {
+                "label": "C",
+                "text": "give an example of Dampier’s influence."
+              },
+              {
+                "label": "D",
+                "text": "highlight two of Dampier’s critics."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Dampier left the western coast of Australia because",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "He wanted to get to the north before Cook arrived."
+              },
+              {
+                "label": "B",
+                "text": "He found the temperature there unpleasant."
+              },
+              {
+                "label": "C",
+                "text": "He had problems with his crews."
+              },
+              {
+                "label": "D",
+                "text": "He requested medical attention."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What does the writer say about Dampier in the second paragraph?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "He could cope with physical hardship."
+              },
+              {
+                "label": "B",
+                "text": "He was a more adventurous explorer than Cook was."
+              },
+              {
+                "label": "C",
+                "text": "He had a kinder personality than he is given credit for."
+              },
+              {
+                "label": "D",
+                "text": "He was calm in a crisis."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What information is given about Dampier’s early life?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "He had a difficult relationship with the people looking after him."
+              },
+              {
+                "label": "B",
+                "text": "He was different from other youths who went to sea."
+              },
+              {
+                "label": "C",
+                "text": "He wanted to travel from a young age."
+              },
+              {
+                "label": "D",
+                "text": "He came from a family of sailors."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words, A-I below.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "The success of the book cannot solely be attributed to the originality of Dampier’s",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Readers of the time were fascinated with his stories of the time he spent with outlaws and his colorful way of writing. It seems certain that Dampier worked on the book with a mystery",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Some aspects of A New Voyage Round the World are problematic, descriptions of",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "It seems that the responsibility for the final version of the book lies with the",
+            "answer": "D",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Many people wrote biographies of Dampier as a result of personal contact with him.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Dampier was skilled at making money.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Dampier's patience was represented by the writer.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "A New Voyage Round the World is considered as one of the most modern books.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Dampier supervised his neighbour’s plantation in Jamaica.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:26:20.399566"
+}

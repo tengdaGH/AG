@@ -1,0 +1,468 @@
+{
+  "id": "ielts-r-0004",
+  "slug": "acquiring-the-principles-of-mathematics-and-science",
+  "title": "Acquiring the principles of mathematics and science",
+  "page_range": [
+    36,
+    40
+  ],
+  "raw_answer_key": {
+    "8": "B OR D IN",
+    "1": "v EITHER ORDER",
+    "9": "A OR E IN",
+    "2": "ii EITHER ORDER",
+    "10": "A OR E IN",
+    "3": "vi EITHER ORDER",
+    "11": "discovery",
+    "4": "i learning",
+    "5": "iv",
+    "12": "teacher",
+    "6": "viii",
+    "13": "peers",
+    "7": "B OR D IN EITHER ORDER"
+  },
+  "content": {
+    "title": "Acquiring the principles of mathematics and science",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "It has been pointed out that learning mathematics and science is not so much learning facts as learning ways of thinking. It has also been emphasised that in order to learn science, people often have to change the way they think in ordinary situations. For example, in order to understand even simple concepts such as heat and temperature, ways of thinking of temperature as a measure of heat must be abandoned and a distinction between 'temperature' and 'heat' must be learned. These changes in ways of thinking are often referred to as conceptual changes. But how do conceptual changes happen? How do young people change their ways of thinking as they develop and as they learn in school?"
+      },
+      {
+        "label": "B",
+        "content": "Traditional instruction based on telling students how modern scientists think does not seem to be very successful. Students may learn the definitions, the formulae, the terminology, and yet still maintain their previous conceptions. This difficulty has been illustrated many times, for example, when instructed students are interviewed about heat and temperature. It is often identified by teachers as a difficulty in applying the concepts learned in the classroom; students may be able to repeat a formula but fail to use the concept represented by the formula when they explain observed events."
+      },
+      {
+        "label": "C",
+        "content": "The psychologist Piaget suggested an interesting hypothesis relating to the process of cognitive change in children. Cognitive change was expected to result from the pupils’ own intellectual activity. When confronted with a result that challenges their thinking - that is, when faced with conflict - pupils realise that they need to think again about their own ways of solving problems, regardless of whether the problem is one in mathematics or in science. He hypothesised that conflict brings about disequilibrium, and then triggers equilibration processes that ultimately produce cognitive change. For this reason, according to Piaget and his colleagues, in order for pupils to progress in their thinking they need to be actively engaged in solving problems that will challenge their current mode of reasoning. However, Piaget also pointed out that young children do not always discard their ideas in the face of contradictory evidence. They may actually discard the evidence and keep their theory."
+      },
+      {
+        "label": "D",
+        "content": "Piaget’s hypothesis about how cognitive change occurs was later translated into an educational approach which is now termed 'discovery learning'. Discovery learning initially took what is now considered the 'lone learner' route. The role of the teacher was to select situations that challenged the pupils’ reasoning; and the pupils’ peers had no real role in this process. However, it was subsequently proposed that interpersonal conflict, especially with peers, might play an important role in promoting cognitive change. This hypothesis, originally advanced by Perret-Clermont (1980) and Doise and Mugny (1984), has been investigated in many recent studies of science teaching and learning."
+      },
+      {
+        "label": "E",
+        "content": "Christine Howe and her colleagues, for example, have compared children’s progress in understanding several types of science concepts when they are given the opportunity to observe relevant events. In one study, Howe compared the progress of 8 to 12-year-old children in understanding what influences motion down a slope. In order to ascertain the role of conflict in group work, they created two kinds of groups according to a pre-test: one in which the children had dissimilar views, and a second in which the children had similar views. They found support for the idea that children in the groups with dissimilar views progressed more after their training sessions than those who had been placed in groups with similar views. However, they found no evidence to support the idea that the children worked out their new conceptions during their group discussions, because progress was not actually observed in a post-test immediately after the sessions of group work, but rather in a second test given around four weeks after the group work."
+      },
+      {
+        "label": "F",
+        "content": "In another study, Howe set out to investigate whether the progress obtained through pair work could be a function of the exchange of ideas. They investigated the progress made by 12-15-year-old pupils in understanding the path of falling objects, a topic that usually involves conceptual difficulties. In order to create pairs of pupils with varying levels of dissimilarity in their initial conceptions, the pupils’ predictions and explanations of the path of falling objects were assessed before they were engaged in pair work. The work sessions involved solving computer-supported problems, again about predicting and explaining the paths of falling objects. A post-test, given to individuals, assessed the progress made by pupils in their conceptions of what influenced the path of falling objects."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs A-F from the list of headings below. Write the correct number, i-ix.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "A suggested modification to a theory about learning."
+              },
+              {
+                "label": "ii",
+                "text": "The problem of superficial understanding."
+              },
+              {
+                "label": "iii",
+                "text": "The relationship between scientific understanding and age."
+              },
+              {
+                "label": "iv",
+                "text": "The rejection of a widely held theory."
+              },
+              {
+                "label": "v",
+                "text": "The need to develop new concepts in daily life."
+              },
+              {
+                "label": "vi",
+                "text": "The claim that a perceived contradiction can assist mental development."
+              },
+              {
+                "label": "vii",
+                "text": "Implications for the training of science teachers."
+              },
+              {
+                "label": "viii",
+                "text": "An experiment to assess the benefits of exchanging views with a partner."
+              },
+              {
+                "label": "ix",
+                "text": "Evidence for the delayed benefits of disagreement between pupils."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A suggested modification to a theory about learning."
+              },
+              {
+                "label": "ii",
+                "text": "The problem of superficial understanding."
+              },
+              {
+                "label": "iii",
+                "text": "The relationship between scientific understanding and age."
+              },
+              {
+                "label": "iv",
+                "text": "The rejection of a widely held theory."
+              },
+              {
+                "label": "v",
+                "text": "The need to develop new concepts in daily life."
+              },
+              {
+                "label": "vi",
+                "text": "The claim that a perceived contradiction can assist mental development."
+              },
+              {
+                "label": "vii",
+                "text": "Implications for the training of science teachers."
+              },
+              {
+                "label": "viii",
+                "text": "An experiment to assess the benefits of exchanging views with a partner."
+              },
+              {
+                "label": "ix",
+                "text": "Evidence for the delayed benefits of disagreement between pupils."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "A suggested modification to a theory about learning."
+              },
+              {
+                "label": "ii",
+                "text": "The problem of superficial understanding."
+              },
+              {
+                "label": "iii",
+                "text": "The relationship between scientific understanding and age."
+              },
+              {
+                "label": "iv",
+                "text": "The rejection of a widely held theory."
+              },
+              {
+                "label": "v",
+                "text": "The need to develop new concepts in daily life."
+              },
+              {
+                "label": "vi",
+                "text": "The claim that a perceived contradiction can assist mental development."
+              },
+              {
+                "label": "vii",
+                "text": "Implications for the training of science teachers."
+              },
+              {
+                "label": "viii",
+                "text": "An experiment to assess the benefits of exchanging views with a partner."
+              },
+              {
+                "label": "ix",
+                "text": "Evidence for the delayed benefits of disagreement between pupils."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "A suggested modification to a theory about learning."
+              },
+              {
+                "label": "ii",
+                "text": "The problem of superficial understanding."
+              },
+              {
+                "label": "iii",
+                "text": "The relationship between scientific understanding and age."
+              },
+              {
+                "label": "iv",
+                "text": "The rejection of a widely held theory."
+              },
+              {
+                "label": "v",
+                "text": "The need to develop new concepts in daily life."
+              },
+              {
+                "label": "vi",
+                "text": "The claim that a perceived contradiction can assist mental development."
+              },
+              {
+                "label": "vii",
+                "text": "Implications for the training of science teachers."
+              },
+              {
+                "label": "viii",
+                "text": "An experiment to assess the benefits of exchanging views with a partner."
+              },
+              {
+                "label": "ix",
+                "text": "Evidence for the delayed benefits of disagreement between pupils."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "A suggested modification to a theory about learning."
+              },
+              {
+                "label": "ii",
+                "text": "The problem of superficial understanding."
+              },
+              {
+                "label": "iii",
+                "text": "The relationship between scientific understanding and age."
+              },
+              {
+                "label": "iv",
+                "text": "The rejection of a widely held theory."
+              },
+              {
+                "label": "v",
+                "text": "The need to develop new concepts in daily life."
+              },
+              {
+                "label": "vi",
+                "text": "The claim that a perceived contradiction can assist mental development."
+              },
+              {
+                "label": "vii",
+                "text": "Implications for the training of science teachers."
+              },
+              {
+                "label": "viii",
+                "text": "An experiment to assess the benefits of exchanging views with a partner."
+              },
+              {
+                "label": "ix",
+                "text": "Evidence for the delayed benefits of disagreement between pupils."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A suggested modification to a theory about learning."
+              },
+              {
+                "label": "ii",
+                "text": "The problem of superficial understanding."
+              },
+              {
+                "label": "iii",
+                "text": "The relationship between scientific understanding and age."
+              },
+              {
+                "label": "iv",
+                "text": "The rejection of a widely held theory."
+              },
+              {
+                "label": "v",
+                "text": "The need to develop new concepts in daily life."
+              },
+              {
+                "label": "vi",
+                "text": "The claim that a perceived contradiction can assist mental development."
+              },
+              {
+                "label": "vii",
+                "text": "Implications for the training of science teachers."
+              },
+              {
+                "label": "viii",
+                "text": "An experiment to assess the benefits of exchanging views with a partner."
+              },
+              {
+                "label": "ix",
+                "text": "Evidence for the delayed benefits of disagreement between pupils."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Choose TWO letters, A-E. The list below contains some possible statements about learning. Which TWO of these statements are attributed to Piaget by the writer of the passage?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Teachers can assist learning by explaining difficult concepts.",
+            "answer": "B OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Teachers can assist learning by explaining difficult concepts."
+              },
+              {
+                "label": "B",
+                "text": "Mental challenge is a stimulus to learning."
+              },
+              {
+                "label": "C",
+                "text": "Repetition and consistency of input aid cognitive development."
+              },
+              {
+                "label": "D",
+                "text": "Children sometimes reject evidence that conflicts with their preconceptions."
+              },
+              {
+                "label": "E",
+                "text": "Children can help each other make cognitive progress."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Mental challenge is a stimulus to learning.",
+            "answer": "B OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Teachers can assist learning by explaining difficult concepts."
+              },
+              {
+                "label": "B",
+                "text": "Mental challenge is a stimulus to learning."
+              },
+              {
+                "label": "C",
+                "text": "Repetition and consistency of input aid cognitive development."
+              },
+              {
+                "label": "D",
+                "text": "Children sometimes reject evidence that conflicts with their preconceptions."
+              },
+              {
+                "label": "E",
+                "text": "Children can help each other make cognitive progress."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Choose TWO letters, A-E. Which TWO of these statements describe Howe’s experiment with 8-12-year-olds?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "The children were assessed on their ability to understand a scientific problem.",
+            "answer": "A OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "The children were assessed on their ability to understand a scientific problem."
+              },
+              {
+                "label": "B",
+                "text": "All the children were working in mixed-ability groups."
+              },
+              {
+                "label": "C",
+                "text": "The children who were the most talkative made the least progress."
+              },
+              {
+                "label": "D",
+                "text": "The teacher helped the children to understand a scientific problem."
+              },
+              {
+                "label": "E",
+                "text": "The children were given a total of three tests, at different times."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The children were given a total of three tests, at different times.",
+            "answer": "A OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "The children were assessed on their ability to understand a scientific problem."
+              },
+              {
+                "label": "B",
+                "text": "All the children were working in mixed-ability groups."
+              },
+              {
+                "label": "C",
+                "text": "The children who were the most talkative made the least progress."
+              },
+              {
+                "label": "D",
+                "text": "The teacher helped the children to understand a scientific problem."
+              },
+              {
+                "label": "E",
+                "text": "The children were given a total of three tests, at different times."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Piaget proposed that learning takes place when children encounter ideas that do not correspond to their current beliefs. The application of this theory gave rise to a teaching method known as 11.....................",
+            "answer": "discovery",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "At first this approach only focused on the relationship between individual pupils and their 12.....................",
+            "answer": "teacher",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Later, researchers such as Perret-Clermont became interested in the role that interaction with 13..................... might also play in a pupil’s development.",
+            "answer": "peers",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:19:21.774620"
+}

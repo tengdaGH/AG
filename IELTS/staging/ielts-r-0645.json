@@ -1,0 +1,189 @@
+{
+  "id": "ielts-r-0645",
+  "slug": "wood-a-valuable-resource-in-new-zealands-economy-",
+  "title": "Wood: a valuable resource in New Zealand’s economy",
+  "page_range": [
+    3258,
+    3261
+  ],
+  "raw_answer_key": {
+    "1": "FALSE",
+    "4": "FALSE",
+    "2": "TRUE",
+    "5": "NOT GIVEN",
+    "3": "NOT GIVEN",
+    "6": "TRUE"
+  },
+  "content": {
+    "title": "Wood: a valuable resource in New Zealand’s economy",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "During the settlement of New Zealand by European immigrants, natural timbers played a major role. Wood was easily accessible and relatively cheap. A tradition of wooden houses arose, supported by the recognition that they were less likely to collapse suddenly during earthquakes, a not infrequent event in this part of the world. But in addition to demand from the domestic market, there was also a demand for forest products from overseas."
+      },
+      {
+        "label": "B",
+        "content": "Early explorers recognized the suitability of the tall, straight trunks of the kauri for constructing sailing vessels. The kauri is a species of coniferous tree found only in small areas of the southern hemisphere. So from the early 1800s, huge amounts of this type of wood were sold to Australia and the UK for that purpose. For a period, the forestry industry was the country’s major export earner, but the rate of harvest was unsustainable and, by the beginning of the 20th century, indigenous timber exports were rapidly declining."
+      },
+      {
+        "label": "C",
+        "content": "From the 1940s, newly established plantations of an imported species of tree called radiate pine supplied timber and other wood products in increasing quantities. By the 1960s, plantation-grown timber was providing most of the country’s sawn timber needs, especially for construction. Today, less than two per cent of timber is cut from indigenous forest, and almost all of that is used for higher-value end uses, such as furniture and fittings."
+      },
+      {
+        "label": "D",
+        "content": "As the pine industry developed, it became apparent that this type of wood was also well suited for many uses. It makes excellent pulp, and is frequently used for posts, poles, furnishings and moldings, particleboard, fiberboard, and for plywood and 'engineered' wood products. Pine by-products are used in the chemical and pharmaceutical industries and residues are consumed for fuel. This amazing versatility has encouraged the development of an integrated forest-products industry which is almost unique in the world."
+      },
+      {
+        "label": "E",
+        "content": "Exporters of wood products have largely targeted the rapidly growing markets of South and East Asia and Australia. 80 percent of exports by value go to only five markets: Japan, Korea, China, the United States and Australia. The product mix remains heavily based on raw materials, with logs, sawn wood, pulp and paper comprising 75 per cent of export value. However, finished wood products such as panels and furniture components are exported to more than 50 countries."
+      },
+      {
+        "label": "F",
+        "content": "In New Zealand itself, the construction industry is the principal user of solid wood products, servicing around 20,000 new house starts annually. However, the small size of New Zealand’s population (just over four million), plus its small manufacturing and remanufacturing base, limit the forestry industry’s domestic opportunities. For the last few years, local wood consumption has been around only four million cubic metres. Accordingly, the development of the export market is the key to the industry’s growth and contribution to the national economy in decades to come."
+      },
+      {
+        "label": "G",
+        "content": "In 2004, forestry export receipts were about 11 per cent of the country’s total export income, their value having increased steadily for ten years, until affected by the exchange fluctuations and shipping costs of recent years. The forestry industry is New Zealand’s third largest export sector, generating around $3.3 billion annually from logs and processed wood products. But it is generally agreed that it is operating well below its capacity and, with the domestic market already at its peak, almost all of the extra wood produced in future will have to be marketed overseas. That presents a major marketing challenge for the industry."
+      },
+      {
+        "label": "H",
+        "content": "Although the export of logs will continue to provide valuable earnings for forest owners, there is broad acceptance that the industry must be based on value-added products in future. So the industry is investigating various processing, infrastructure and investment strategies with a view to increasing the level of local manufacturing before export. The keys to factors, better international marketing, product innovation, internationally competitive processing, better infrastructure, and a suitable political, regulatory and investment environment. The industry claims that given the right conditions, by 2025 the forestry sector could be the country’s biggest export earner, generating $20 billion a year and employing 60,000 people."
+      },
+      {
+        "label": "I",
+        "content": "One competitive advantage that New Zealand has is its ability to source large quantities of softwood from renewable forests. Consumers in several key wood markets are becoming more worried about sustainability, and the industry is supporting the development of national standards as well as the recognition of these internationally. However, New Zealand is not the only country with a plantation-style forestry industry. Chile, Brazil, Argentina, South Africa and Australia all have extensive plantings of fast-growing species (hardwood and softwood), and in the northern hemisphere, Scandinavian countries have all expanded their forest or controlled their use in the interests of future production."
+      },
+      {
+        "label": "J",
+        "content": "Finally, in addition to competition from other wood producers, New Zealand faces competition from goods such as wood substitutes. These include steel framing for houses. This further underlines the necessity for globally competitive production and marketing strategies."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage?",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Settlers realised that wooden houses were more dangerous than other types of structure.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "During the 1800s, New Zealand exported wood for use in boat-building.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Plantation-grown wood is generally better for construction than native-forest wood.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Compared to other types of wood, pine has a narrow range of uses.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Demand for housing in New Zealand is predicted to fall in the next few years.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "In the future, the expansion of New Zealand’s wood industry will depend on its exports.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 6
+  },
+  "processed_at": "2026-02-25T22:19:27.071827"
+}

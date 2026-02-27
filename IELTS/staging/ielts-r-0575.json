@@ -1,0 +1,279 @@
+{
+  "id": "ielts-r-0575",
+  "slug": "the-wild-side-of-town",
+  "title": "THE WILD SIDE OF TOWN",
+  "page_range": [
+    2907,
+    2911
+  ],
+  "raw_answer_key": {
+    "1": "NOT GIVEN",
+    "8": "exotic flowers",
+    "2": "TRUE",
+    "9": "(domestic) cats",
+    "3": "TRUE",
+    "10": "81",
+    "11": "C, E, G (IN ANY",
+    "4": "NOT GIVEN ORDER)",
+    "12": "C, E,G (IN ANY",
+    "5": "NOT GIVEN ORDER)",
+    "13": "C, E, G (IN ANY",
+    "6": "FALSE ORDER)",
+    "7": "woodland",
+    "14": "C species"
+  },
+  "content": {
+    "title": "THE WILD SIDE OF TOWN",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "The countryside is no longer the place to see wildlife, according to Chris Barnes. These days you are more likely to find impressive numbers of skylarks, dragonflies and toads in your own back garden. The past half century has seen an interesting reversal in the fortunes of much of Britain's wildlife. Whilst the rural countryside has become poorer and poorer, wildlife habitat in towns has burgeoned. Now, if you want to hear a deafening dawn chorus of birds or familiarise yourself with foxes, you can head for the urban forest."
+      },
+      {
+        "content": "Whilst species that depend on wide open spaces such as the hare, the eagle and the red deer may still be restricted to remote rural landscapes, many of our wild plants and animals find the urban ecosystem ideal. This really should be no surprise, since it is the fragmentation and agrochemical pollution in the farming lowlands that has led to the catastrophic decline of so many species."
+      },
+      {
+        "content": "By contrast, most urban open spaces have escaped the worst of the pesticide revolution, and they are an intimate mosaic of interconnected habitats. Over the years, the cutting down of hedgerows on farmland has contributed to habitat isolation and species loss. In towns, the tangle of canals, railway embankments, road verges and boundary hedges lace the landscape together, providing first-class ecological corridors for species such as hedgehogs, kingfishers and dragonflies."
+      },
+      {
+        "content": "Urban parks and formal recreation grounds are valuable for some species, and many of them are increasingly managed with wildlife in mind. But in many places their significance is eclipsed by the huge legacy of post-industrial land demolished factories, waste tips, quarries, redundant railway yards and other so-called ‘brownfield’ sites. In Merseyside, South Yorkshire and the West Midlands, much of this has been spectacularly colonised with birch and willow woodland, herb-rich grassland and shallow wetlands. As a consequence, there are song birds and predators in abundance over these once-industrial landscapes."
+      },
+      {
+        "content": "There are fifteen million domestic gardens in the UK, and whilst some are still managed as lifeless chemical war zones, most benefit the local wildlife, either through benign neglect or positive encouragement. Those that do best tend to be woodland species, and the garden lawns and flower borders, climber-covered fences, shrubberies and fruit trees are a plausible alternative. Indeed, in some respects gardens are rather better than the real thing, especially with exotic flowers extending the nectar season. Birdfeeders can also supplement the natural seed supply, and only the millions of domestic cats may spoil the scene."
+      },
+      {
+        "content": "As Britain’s gardeners have embraced the idea of ‘gardening with nature’, wildlife’s response has been spectacular. Between 1990 and the year 2000, the number of different bird species seen at artificial feeders in gardens increased from 17 to an amazing 81. The BUGS project (Biodiversity in Urban Gardens in Sheffield) calculates that there are 25,000 garden ponds and 100,000 nest boxes in that one city alone."
+      },
+      {
+        "content": "We are at last acknowledging that the wildlife habitat in towns provides a valuable life support system. The canopy of the urban forest is filtering air pollution, and intercepting rainstorms, allowing the water to drip more gradually to the ground. Sustainable urban drainage relies on ponds and wetlands to contain storm water runoff, thus reducing the risk of flooding, whilst reed beds and other wetland wildlife communities also help to clean up the water. We now have scientific proof that contact with wildlife close to home can help to reduce stress and anger. Hospital patients with a view of natural green space make a more rapid recovery and suffer less pain."
+      },
+      {
+        "content": "Traditionally, nature conservation in the UK has been seen as marginal and largely rural. Now we are beginning to place it at the heart of urban environmental and economic policy. There are now dozens of schemes to create new habitats and restore old ones in and around our big cities. Biodiversity is big in parts of London, thanks to schemes such as the London Wetland Centre in the south west of the city."
+      },
+      {
+        "content": "This is a unique scheme masterminded by the Wildfowl and Wetlands Trust to create a wildlife reserve out of a redundant Victorian reservoir. Within five years of its creation the Centre has been hailed as one of the top sites for nature in England and made a Site of Special Scientific Interest. It consists of a 105-acre wetland site, which is made up of different wetland habitats of shallow, open water and grazing marsh. The site attracts more than 104 species of bird, including nationally important rarities like the bittern."
+      },
+      {
+        "content": "We need to remember that if we work with wildlife, then wildlife will work for us and this is the very essence of sustainable development."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 1-6 on your answer sheet write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, or NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "There is now more wildlife in UK cities than in the countryside.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Rural wildlife has been reduced by the use of pesticides on farms.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "In the past, hedges on farms used to link up different habitats.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "New urban environments are planned to provide ecological corridors for wildlife.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Public parks and gardens are being expanded to encourage wildlife.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Old industrial wastelands have damaged wildlife habitats in urban areas.",
+            "answer": "FALSE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below, using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer. Write your answers in boxes 7-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Which type of wildlife benefits most from urban gardens?",
+            "answer": "woodland",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "What type of garden plants can benefit birds and insects?",
+            "answer": "exotic flowers",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "What represents a threat to wildlife in urban gardens?",
+            "answer": "(domestic) cats",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "At the last count, how many species of bird were spotted in urban gardens?",
+            "answer": "81",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose THREE letters A-G. Write your answers in boxes 11-13 on your answer sheet. In which THREE ways can wildlife habitats benefit people living in urban areas?",
+        "questions": [
+          {
+            "number": 11,
+            "text": "In which THREE ways can wildlife habitats benefit people living in urban areas?",
+            "answer": "C, E, G (IN ANY ORDER)",
+            "options": [
+              {
+                "label": "A",
+                "text": "They can make the cities greener."
+              },
+              {
+                "label": "B",
+                "text": "They can improve the climate."
+              },
+              {
+                "label": "C",
+                "text": "They can promote human well-being."
+              },
+              {
+                "label": "D",
+                "text": "They can extend the flowering season."
+              },
+              {
+                "label": "E",
+                "text": "They can absorb excess water."
+              },
+              {
+                "label": "F",
+                "text": "They can attract wildlife."
+              },
+              {
+                "label": "G",
+                "text": "They can help clean the urban atmosphere."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "In which THREE ways can wildlife habitats benefit people living in urban areas?",
+            "answer": "C, E, G (IN ANY ORDER)",
+            "options": [
+              {
+                "label": "A",
+                "text": "They can make the cities greener."
+              },
+              {
+                "label": "B",
+                "text": "They can improve the climate."
+              },
+              {
+                "label": "C",
+                "text": "They can promote human well-being."
+              },
+              {
+                "label": "D",
+                "text": "They can extend the flowering season."
+              },
+              {
+                "label": "E",
+                "text": "They can absorb excess water."
+              },
+              {
+                "label": "F",
+                "text": "They can attract wildlife."
+              },
+              {
+                "label": "G",
+                "text": "They can help clean the urban atmosphere."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "In which THREE ways can wildlife habitats benefit people living in urban areas?",
+            "answer": "C, E, G (IN ANY ORDER)",
+            "options": [
+              {
+                "label": "A",
+                "text": "They can make the cities greener."
+              },
+              {
+                "label": "B",
+                "text": "They can improve the climate."
+              },
+              {
+                "label": "C",
+                "text": "They can promote human well-being."
+              },
+              {
+                "label": "D",
+                "text": "They can extend the flowering season."
+              },
+              {
+                "label": "E",
+                "text": "They can absorb excess water."
+              },
+              {
+                "label": "F",
+                "text": "They can attract wildlife."
+              },
+              {
+                "label": "G",
+                "text": "They can help clean the urban atmosphere."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer, A, B, C or D. Write your answer in box 14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 14,
+            "text": "The writer believes that sustainable development is dependent on",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "urban economic policy."
+              },
+              {
+                "label": "B",
+                "text": "large restoration schemes."
+              },
+              {
+                "label": "C",
+                "text": "active nature conservation."
+              },
+              {
+                "label": "D",
+                "text": "government projects."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:02:06.477448"
+}

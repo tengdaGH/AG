@@ -1,0 +1,361 @@
+{
+  "id": "ielts-r-0185",
+  "slug": "going-nowhere-fast",
+  "title": "Going nowhere fast",
+  "page_range": [
+    939,
+    943
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "C",
+    "2": "NOT GIVEN",
+    "9": "B",
+    "3": "TRUE",
+    "10": "B",
+    "4": "NOT GIVEN",
+    "11": "B",
+    "5": "A",
+    "12": "C",
+    "6": "A",
+    "13": "D",
+    "7": "C",
+    "14": "G"
+  },
+  "content": {
+    "title": "Going nowhere fast",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In recent years, the pollution belched out by millions of vehicles has dominated the debate about transport. The problem has even persuaded California, home of car culture, to curb traffic growth. But no matter how green they become, cars are unlikely to get us around crowded cities any faster. And persuading people to use trains and buses will always be an uphill struggle. Cars, after all, are popular for very good reasons, as anyone with small children or heavy shopping knows."
+      },
+      {
+        "label": "B",
+        "content": "A professor of mechanical engineering sits typing at a computer keyboard, conjuring up a scene on his monitor that looks something like the classic computer game PacMan. White dots stream in from the right of the screen, switch to red, and merge with green boxes, which swiftly change color to yellow and then red while moving through a bewildering maze. But this is not a video game. J. Edward Anderson of Boston University is testing an urban transit system that he believes could revolutionize public transport worldwide."
+      },
+      {
+        "label": "C",
+        "content": "For the past quarter of a century, Anderson has been promoting his version of personal rapid transit (PRT). Other versions came and went in the 1970s, from Europe, Japan, and elsewhere in the US, but he was so convinced of the idea’s potential that he stuck with it and, in 1983, founded the Taxi 2000 Corporation to 'commercialize the initiative. Although the University of Minnesota, Anderson’s employer until 1986, holds the patents to the technology, he is licensed to develop it and to sub-license other developers. So politicians should be trying to lure people out of their cars, not forcing them out. There’s certainly no shortage of alternatives. Perhaps the most attractive is the concept known as personal rapid transit (PRT), independently invented in the US and Europe in the 1950s."
+      },
+      {
+        "label": "D",
+        "content": "The idea is to go to one of many stations and hop into a computer-controlled car that can whisk you to your destination along a network of guideways. You wouldn’t have to share your space with strangers, and with no traffic lights, pedestrians, or parked cars to slow things down, PRT guideways can carry far more traffic, nonstop, than any inner-city road. It’s a wonderful vision, but the odds are stacked against PRT for a number of reasons. The first cars ran on existing roads, and it was only after they became popular—and after governments started earning revenue from them—that a road network designed specifically for motor vehicles was built. With PRT, the fracture would have to come first—and that would cost megabucks."
+      },
+      {
+        "label": "E",
+        "content": "What’s more, any transport system that threatened the car’s dominance would be up against all those with a stake in maintaining the status quo, from private car owners to manufacturers and oil multinationals. Even if PRTs were spectacularly successful in trials, it might not make much difference. Superior technology doesn’t always triumph."
+      },
+      {
+        "label": "F",
+        "content": "Access http://mini-ielts.com for more practices."
+      },
+      {
+        "label": "G",
+        "content": "But “dual-mode” systems might just succeed where PRT seems doomed to fail. The Danish RUF system envisaged by Palle Jensen, for example, resembles PRT but with one key difference: vehicles have wheels as well as a slot allowing them to travel on a monorail, so they can drive off the rail onto a normal road. Once on a road, the occupant would take over from the computer, and the Ruf vehicle—the term comes from a Danish saying meaning to “go fast”—would become an electric car."
+      },
+      {
+        "label": "H",
+        "content": "Build a fast network of guideways in a busy city center and people would have a strong incentive not just to use public Ruf vehicles, but also to buy their own dual-mode vehicle. Commuters could drive onto the guideway, sit back, and read as they are chauffeured into the city. At work they would jump out, leaving their vehicles to park themselves. Unlike PRT, such a system could grow organically, as each network would serve a large area around it and people nearby could buy into it. And a dual-mode system might even win the support of car manufacturers, who could easily switch to producing dual-mode vehicles."
+      },
+      {
+        "label": "I",
+        "content": "The RUF system can reduce energy consumption from individual traffic. The main factor is the reduction of air resistance due to the close coupling of vehicles. The energy consumption per Ruf can is reduced to less than 1/3 at 100 km/h. Since RUF is an electric system, renewable sources can be used without problems. A combination of windmills and a RUF rail could be used over water. Solar cells can also be integrated into the system and ensure completely sustainable transportation."
+      },
+      {
+        "label": "J",
+        "content": "Of course, creating a new transport system will not be cheap or easy. But unlike adding a dedicated bus lane here or extending the underground railway there, an innovative system such as Jensen’s could transform cities. The vehicles in a RUF system ride very safely on top of a triangular monorail. This means that derailments are impossible and that the users will feel safe because it is easy to understand that when the rail is actually inside the vehicle it is absolutely stable. The special rail brake ensures that braking power is always available even during bad weather. The brake can squeeze as hard against the rail as required in order to bring the vehicle to a safe stop. If a vehicle has to be evacuated, a walkway between the two rails can be used."
+      },
+      {
+        "label": "K",
+        "content": "More than 30 million people have died in road accidents in the past century—three times the number killed in the First World War—and the annual death toll is rising. And what’s more, the Red Cross believes road accidents will become the third biggest cause of death and disability by 2020, ahead of diseases such as AIDS and tuberculosis. Surely we can find a better way to get around. And it’s not just a matter of saving a few minutes a day. According to the Red Cross,"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "In boxes 1-4 on your answer sheet, write True if the statement is true, False if the statement is false, or Not Given if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "City transport developed slower than other means of communication.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Many states in the US consider reducing cars growth.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Car pollution has been a concern these days.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Trains and buses are not suitable to drive on an uphill road.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the category (listed A-C) with the description below. Write the appropriate letters A-C in boxes 5-11 on your answer sheet.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Totally apply computer system.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "ONLY PRT"
+              },
+              {
+                "label": "B",
+                "text": "ONLY RUF"
+              },
+              {
+                "label": "C",
+                "text": "BOTH OF THEM"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Opposition to a system from companies.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "ONLY PRT"
+              },
+              {
+                "label": "B",
+                "text": "ONLY RUF"
+              },
+              {
+                "label": "C",
+                "text": "BOTH OF THEM"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Reach destination fast.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "ONLY PRT"
+              },
+              {
+                "label": "B",
+                "text": "ONLY RUF"
+              },
+              {
+                "label": "C",
+                "text": "BOTH OF THEM"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Not necessary to share with the public.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "ONLY PRT"
+              },
+              {
+                "label": "B",
+                "text": "ONLY RUF"
+              },
+              {
+                "label": "C",
+                "text": "BOTH OF THEM"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Work on the existing road.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "ONLY PRT"
+              },
+              {
+                "label": "B",
+                "text": "ONLY RUF"
+              },
+              {
+                "label": "C",
+                "text": "BOTH OF THEM"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Individuals can buy cars after all.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "ONLY PRT"
+              },
+              {
+                "label": "B",
+                "text": "ONLY RUF"
+              },
+              {
+                "label": "C",
+                "text": "BOTH OF THEM"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Controlled both by computer and manual.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "ONLY PRT"
+              },
+              {
+                "label": "B",
+                "text": "ONLY RUF"
+              },
+              {
+                "label": "C",
+                "text": "BOTH OF THEM"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose Three correct letters from the following that are advantages of developing a NEW TRANSPORT SYSTEM.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Stimulating economy"
+              },
+              {
+                "label": "B",
+                "text": "Successful application in Europe"
+              },
+              {
+                "label": "C",
+                "text": "Safety consideration"
+              },
+              {
+                "label": "D",
+                "text": "Less pollution to the environment"
+              },
+              {
+                "label": "E",
+                "text": "Economical budget"
+              },
+              {
+                "label": "F",
+                "text": "Public popularity"
+              },
+              {
+                "label": "G",
+                "text": "Fast speed"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Stimulating economy"
+              },
+              {
+                "label": "B",
+                "text": "Successful application in Europe"
+              },
+              {
+                "label": "C",
+                "text": "Safety consideration"
+              },
+              {
+                "label": "D",
+                "text": "Less pollution to the environment"
+              },
+              {
+                "label": "E",
+                "text": "Economical budget"
+              },
+              {
+                "label": "F",
+                "text": "Public popularity"
+              },
+              {
+                "label": "G",
+                "text": "Fast speed"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "Stimulating economy"
+              },
+              {
+                "label": "B",
+                "text": "Successful application in Europe"
+              },
+              {
+                "label": "C",
+                "text": "Safety consideration"
+              },
+              {
+                "label": "D",
+                "text": "Less pollution to the environment"
+              },
+              {
+                "label": "E",
+                "text": "Economical budget"
+              },
+              {
+                "label": "F",
+                "text": "Public popularity"
+              },
+              {
+                "label": "G",
+                "text": "Fast speed"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:15:32.318352"
+}

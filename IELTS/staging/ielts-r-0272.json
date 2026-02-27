@@ -1,0 +1,355 @@
+{
+  "id": "ielts-r-0272",
+  "slug": "making-time-for-science",
+  "title": "MAKING TIME FOR SCIENCE",
+  "page_range": [
+    1373,
+    1377
+  ],
+  "raw_answer_key": {
+    "1": "true",
+    "8": "A",
+    "2": "true",
+    "9": "A",
+    "3": "true",
+    "10": "A",
+    "4": "true",
+    "11": "A",
+    "5": "true",
+    "12": "A",
+    "6": "true",
+    "13": "A",
+    "7": "true"
+  },
+  "content": {
+    "title": "MAKING TIME FOR SCIENCE",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Chronobiology might sound a little futuristic - like something from a science fiction novel, perhaps - but it’s actually a field of study that concerns one of the oldest processes life on this planet has ever known: short-term rhythms of time and their effect on flora and fauna. This can take many forms. Marine life, for example, is influenced by tidal patterns. Animals tend to be active or inactive depending on the position of the sun or moon. Numerous creatures, humans included, are largely diurnal - that is, they like to come out during the hours of sunlight. Nocturnal animals, such as bats and possums, prefer to forage by night. A third group are known as crepuscular: they thrive in the low-light of dawn and dusk and remain inactive at other hours."
+      },
+      {
+        "label": null,
+        "content": "When it comes to humans, chronobiologists are interested in what is known as the circadian rhythm. This is the complete cycle our bodies are naturally geared to undergo within the passage of a twenty-four hour day. Aside from sleeping at night and waking during the day, each cycle involves many other factors such as changes in blood pressure and body temperature. Not everyone has an identical circadian rhythm. ‘Night people’, for example, often describe how they find it very hard to operate during the morning, but become alert and focused by evening. This is a benign variation within circadian rhythms known as a chronotype."
+      },
+      {
+        "label": null,
+        "content": "Scientists have limited abilities to create durable modifications of chronobiological demands. Recent therapeutic developments for humans such as artificial light machines and melatonin administration can reset our circadian rhythms, for example, but our bodies can tell the difference and health suffers when we breach these natural rhythms for extended periods of time. Plants appear no more malleable in this respect; studies demonstrate that vegetables grown in season and ripened on the tree are far higher in essential nutrients than those grown in greenhouses and ripened by laser."
+      },
+      {
+        "label": null,
+        "content": "Knowledge of chronobiological patterns can have many pragmatic implications for our day-to-day lives. While contemporary living can sometimes appear to subjugate biology - after all, who needs circadian rhythms when we have caffeine pills, energy drinks, shift work and cities that never sleep? - keeping in synch with our body clock is important."
+      },
+      {
+        "label": null,
+        "content": "The average urban resident, for example, rouses at the eye-blearing time of 6.04 a.m., which researchers believe to be far too early. One study found that even rising at 7.00 a.m. has deleterious effects on health unless exercise is performed for 30 minutes afterward. The optimum moment has been whittled down to 7.22 a.m.; muscle aches, headaches and moodiness were reported to be lowest by participants in the study who awoke then."
+      },
+      {
+        "label": null,
+        "content": "Once you’re up and ready to go, what then? If you’re trying to shed some extra pounds, dieticians are adamant: never skip breakfast. This disorients your circadian rhythm and puts your body in starvation mode. The recommended course of action is to follow an intense workout with a carbohydrate-rich breakfast; the other way round and weight loss results are not as pronounced."
+      },
+      {
+        "label": null,
+        "content": "Morning is also great for breaking out the vitamins. Supplement absorption by the body is not temporal-dependent, but naturopath Pam Stone notes that the extra boost at breakfast helps us get energised for the day ahead. For improved absorption, Stone suggests pairing supplements with a food in which they are soluble and steering clear of caffeinated beverages. Finally, Stone warns to take care with storage; high potency is best for absorption, and warmth and humidity are known to deplete the potency of a supplement."
+      },
+      {
+        "label": null,
+        "content": "After-dinner espressos are becoming more of a tradition - we have the Italians to thank for that - but to prepare for a good night’s sleep we are better off putting the brakes on caffeine consumption as early as 3 p.m. With a seven hour half-life, a cup of coffee containing 90 mg of caffeine taken at this hour could still leave 45 mg of caffeine in your nervous system at ten o’clock that evening. It is essential that, by the time you are ready to sleep, your body is rid of all traces."
+      },
+      {
+        "label": null,
+        "content": "Evenings are important for winding down before sleep; however, dietician Geraldine Georgeou warns that an after-five carbohydrate-fast is more cultural myth than chronobiological demand. This will deprive your body of vital energy needs. Overloading your gut could lead to indigestion, though. Our digestive tracts do not shut down for the night entirely, but their work slows to a crawl as our bodies prepare for sleep. Consuming a modest snack should be entirely sufficient."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Chronobiology is the study of how living things have evolved over time.",
+            "answer": "true",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The rise and fall of sea levels affects how sea creatures behave.",
+            "answer": "true",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Most animals are active during the daytime.",
+            "answer": "true",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Circadian rhythms identify how we do different things on different days.",
+            "answer": "true",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "A ‘night person’ can still have a healthy circadian rhythm.",
+            "answer": "true",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "New therapies can permanently change circadian rhythms without causing harm.",
+            "answer": "true",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Naturally-produced vegetables have more nutritional value.",
+            "answer": "true",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 8-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "What did researchers identify as the ideal time to wake up in the morning?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "6.04"
+              },
+              {
+                "label": "B",
+                "text": "7.00"
+              },
+              {
+                "label": "C",
+                "text": "7.22"
+              },
+              {
+                "label": "D",
+                "text": "7.3"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "In order to lose weight, we should",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "avoid eating breakfast"
+              },
+              {
+                "label": "B",
+                "text": "eat a low carbohydrate breakfast"
+              },
+              {
+                "label": "C",
+                "text": "exercise before breakfast"
+              },
+              {
+                "label": "D",
+                "text": "exercise after breakfast"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Which is NOT mentioned as a way to improve supplement absorption?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "avoiding drinks containing caffeine while taking supplements"
+              },
+              {
+                "label": "B",
+                "text": "taking supplements at breakfast"
+              },
+              {
+                "label": "C",
+                "text": "taking supplements with foods that can dissolve them"
+              },
+              {
+                "label": "D",
+                "text": "storing supplements in a cool, dry environment"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The best time to stop drinking coffee is",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "mid-afternoon"
+              },
+              {
+                "label": "B",
+                "text": "10 p.m."
+              },
+              {
+                "label": "C",
+                "text": "only when feeling anxious"
+              },
+              {
+                "label": "D",
+                "text": "after dinner"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "In the evening, we should",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "stay away from carbohydrates"
+              },
+              {
+                "label": "B",
+                "text": "stop exercising"
+              },
+              {
+                "label": "C",
+                "text": "eat as much as possible"
+              },
+              {
+                "label": "D",
+                "text": "eat a light meal"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Which of the following phrases best describes the main aim of Reading Passage 1?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "to suggest healthier ways of eating, sleeping and exercising"
+              },
+              {
+                "label": "B",
+                "text": "to describe how modern life has made chronobiology largely irrelevant"
+              },
+              {
+                "label": "C",
+                "text": "to introduce chronobiology and describe some practical applications"
+              },
+              {
+                "label": "D",
+                "text": "to plan a daily schedule that can alter our natural chronobiological rhythms"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:43:33.642758"
+}

@@ -1,0 +1,443 @@
+{
+  "id": "ielts-r-0403",
+  "slug": "space-travel-and-health",
+  "title": "Space Travel and Health",
+  "page_range": [
+    2051,
+    2055
+  ],
+  "raw_answer_key": {
+    "1": "x",
+    "8": "YES",
+    "2": "ix",
+    "9": "NOT GIVEN",
+    "3": "vii",
+    "10": "NO",
+    "4": "i",
+    "11": "NOT GIVEN",
+    "5": "vi",
+    "12": "NO",
+    "6": "(ON/FROM)",
+    "13": "COMMUNICATE MARS WITH PATIENTS",
+    "7": "THEY",
+    "14": "FILTER BECOME CONTAMINATED THINNER WATER"
+  },
+  "content": {
+    "title": "Space Travel and Health",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Space biomedicine is a relatively new area of research both in the USA and in Europe. Its main objectives are to study the effects of space travel on the human body, identifying the most critical medical problems, and finding solutions to those problems. Space biomedicine centers are receiving increasing direct support from NASA and/or the European Space Agency (ESA)."
+      },
+      {
+        "label": "B",
+        "content": "This involvement of NASA and the ESA reflects growing concern that the feasibility of travel to other planets, and beyond, is no longer limited by engineering constraints but by what the human body can actually withstand. The discovery of ice on Mars, for instance, means that there is now no necessity to design and develop a spacecraft large and powerful enough to transport the vast amounts of water needed to sustain the crew throughout journeys that may last many years. Without the necessary protection and medical treatment, however, their bodies would be devastated by the unremittingly hostile environment of space."
+      },
+      {
+        "label": "C",
+        "content": "The most obvious physical changes undergone by people in zero gravity are essentially harmless; in some cases, they are even amusing. The blood and other fluids are no longer dragged down towards the feet by the gravity of Earth, so they accumulate higher up in the body, creating what is sometimes called ‘fat face’, together with the contrasting ‘chicken legs’ syndrome as the lower limbs become thinner."
+      },
+      {
+        "label": "D",
+        "content": "Much more serious are the unseen consequences after months or years in space. With no gravity, there is less need for a sturdy skeleton to support the body, with the result that the bones weaken, releasing calcium into the bloodstream. This extra calcium can overload the kidneys, leading ultimately to renal failure. Muscles too lose strength through lack of use. The heart becomes smaller, losing the power to pump oxygenated blood to all parts of the body, while the lungs lose the capacity to breathe fully. The digestive system becomes less efficient, a weakened immune system is increasingly unable to prevent diseases and the high levels of solar and cosmic radiation can cause various forms of cancer."
+      },
+      {
+        "label": "E",
+        "content": "To make matters worse, a wide range of medical difficulties can arise in the case of an accident or serious illness when the patient is millions of kilometers from Earth. There is simply not enough room available inside a space vehicle to include all the equipment from a hospital’s casualty unit, some of which would not work properly in space anyway. Even basic things such as a drip depend on gravity to function, while standard resuscitation techniques become ineffective if sufficient weight cannot be applied. The only solution seems to be to create extremely small medical tools and ‘smart’ devices that can, for example, diagnose and treat internal injuries using ultrasound. The cost of designing and producing this kind of equipment is bound to be, well, astronomical."
+      },
+      {
+        "label": "F",
+        "content": "Such considerations have led some to question the ethics of investing huge sums of money to help a handful of people who, after all, are willingly risking their own health in outer space, when so much needs to be done a lot closer to home. It is now clear, however, that every problem of space travel has a parallel problem on Earth that will benefit from the knowledge gained and the skills developed from space biomedical research. For instance, the very difficulty of treating astronauts in space has led to rapid progress in the field of telemedicine, which in turn has brought about developments that enable surgeons to communicate with patients in inaccessible parts of the world. To take another example, systems invented to sterilize wastewater onboard spacecraft could be used by emergency teams to filter contaminated water at the scene of natural disasters such as floods and earthquakes. In the same way, miniature monitoring equipment, developed to save weight in space capsules, will eventually become tiny monitors that patients on Earth can wear without discomfort wherever they go."
+      },
+      {
+        "label": "G",
+        "content": "Nevertheless, there is still one major obstacle to carrying out studies into the effects of space travel: how to do so without going to the enormous expense of actually working in space. To simulate conditions in zero gravity, one tried and tested method is to work underwater, but the space biomedicine centers are also looking at other ideas. In one experiment, researchers study the weakening of bones that results from prolonged inactivity. This would involve volunteers staying in bed for three months, but the center concerned is confident there should be no great difficulty in finding people willing to spend twelve weeks lying down—all in the name of science, of course."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs B-E and G from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "The problem of dealing with emergencies in space"
+              },
+              {
+                "label": "ii",
+                "text": "How space biomedicine can help patients on Earth"
+              },
+              {
+                "label": "iii",
+                "text": "Why accidents are so common in outer space"
+              },
+              {
+                "label": "iv",
+                "text": "What is space biomedicine?"
+              },
+              {
+                "label": "v",
+                "text": "The psychological problems of astronauts"
+              },
+              {
+                "label": "vi",
+                "text": "Conducting space biomedical research on Earth"
+              },
+              {
+                "label": "vii",
+                "text": "The internal damage caused to the human body by space travel"
+              },
+              {
+                "label": "viii",
+                "text": "How space biomedicine First began"
+              },
+              {
+                "label": "ix",
+                "text": "The visible effects of space travel on the human body"
+              },
+              {
+                "label": "x",
+                "text": "Why space biomedicine is now necessary"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "The problem of dealing with emergencies in space"
+              },
+              {
+                "label": "ii",
+                "text": "How space biomedicine can help patients on Earth"
+              },
+              {
+                "label": "iii",
+                "text": "Why accidents are so common in outer space"
+              },
+              {
+                "label": "iv",
+                "text": "What is space biomedicine?"
+              },
+              {
+                "label": "v",
+                "text": "The psychological problems of astronauts"
+              },
+              {
+                "label": "vi",
+                "text": "Conducting space biomedical research on Earth"
+              },
+              {
+                "label": "vii",
+                "text": "The internal damage caused to the human body by space travel"
+              },
+              {
+                "label": "viii",
+                "text": "How space biomedicine First began"
+              },
+              {
+                "label": "ix",
+                "text": "The visible effects of space travel on the human body"
+              },
+              {
+                "label": "x",
+                "text": "Why space biomedicine is now necessary"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The problem of dealing with emergencies in space"
+              },
+              {
+                "label": "ii",
+                "text": "How space biomedicine can help patients on Earth"
+              },
+              {
+                "label": "iii",
+                "text": "Why accidents are so common in outer space"
+              },
+              {
+                "label": "iv",
+                "text": "What is space biomedicine?"
+              },
+              {
+                "label": "v",
+                "text": "The psychological problems of astronauts"
+              },
+              {
+                "label": "vi",
+                "text": "Conducting space biomedical research on Earth"
+              },
+              {
+                "label": "vii",
+                "text": "The internal damage caused to the human body by space travel"
+              },
+              {
+                "label": "viii",
+                "text": "How space biomedicine First began"
+              },
+              {
+                "label": "ix",
+                "text": "The visible effects of space travel on the human body"
+              },
+              {
+                "label": "x",
+                "text": "Why space biomedicine is now necessary"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "The problem of dealing with emergencies in space"
+              },
+              {
+                "label": "ii",
+                "text": "How space biomedicine can help patients on Earth"
+              },
+              {
+                "label": "iii",
+                "text": "Why accidents are so common in outer space"
+              },
+              {
+                "label": "iv",
+                "text": "What is space biomedicine?"
+              },
+              {
+                "label": "v",
+                "text": "The psychological problems of astronauts"
+              },
+              {
+                "label": "vi",
+                "text": "Conducting space biomedical research on Earth"
+              },
+              {
+                "label": "vii",
+                "text": "The internal damage caused to the human body by space travel"
+              },
+              {
+                "label": "viii",
+                "text": "How space biomedicine First began"
+              },
+              {
+                "label": "ix",
+                "text": "The visible effects of space travel on the human body"
+              },
+              {
+                "label": "x",
+                "text": "Why space biomedicine is now necessary"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph G",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "The problem of dealing with emergencies in space"
+              },
+              {
+                "label": "ii",
+                "text": "How space biomedicine can help patients on Earth"
+              },
+              {
+                "label": "iii",
+                "text": "Why accidents are so common in outer space"
+              },
+              {
+                "label": "iv",
+                "text": "What is space biomedicine?"
+              },
+              {
+                "label": "v",
+                "text": "The psychological problems of astronauts"
+              },
+              {
+                "label": "vi",
+                "text": "Conducting space biomedical research on Earth"
+              },
+              {
+                "label": "vii",
+                "text": "The internal damage caused to the human body by space travel"
+              },
+              {
+                "label": "viii",
+                "text": "How space biomedicine First began"
+              },
+              {
+                "label": "ix",
+                "text": "The visible effects of space travel on the human body"
+              },
+              {
+                "label": "x",
+                "text": "Why space biomedicine is now necessary"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below using NO MORE THAN THREE WORDS for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Where, apart from Earth, can space travelers find water?",
+            "answer": "(ON/FROM)",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "What happens to human legs during space travel?",
+            "answer": "THEY",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the writer’s views in Reading Passage?",
+        "questions": [
+          {
+            "number": 8,
+            "text": "The obstacles to going far into space are now medical, not technological.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Astronauts cannot survive more than two years in space.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "It is morally wrong to spend so much money on space biomedicine.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Some kinds of surgery are more successful when performed in space.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Space biomedical research can only be done in space.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the views of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the views of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "Research area: Telemedicine Application on Earth",
+            "answer": "COMMUNICATE MARS WITH PATIENTS",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Research area: Sterilization Application on Earth",
+            "answer": "FILTER BECOME CONTAMINATED THINNER WATER",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T01:59:57.858563"
+}

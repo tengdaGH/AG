@@ -1,0 +1,433 @@
+{
+  "id": "ielts-r-0080",
+  "slug": "build-a-medieval-castle",
+  "title": "Build a Medieval Castle",
+  "page_range": [
+    407,
+    411
+  ],
+  "raw_answer_key": {
+    "1": "NOT",
+    "8": "J GIVEN",
+    "2": "TRUE",
+    "9": "G",
+    "3": "FALSE",
+    "10": "F",
+    "11": "C OR E OR F IN",
+    "4": "TRUE EITHER ORDER",
+    "12": "C OR E OR F IN",
+    "5": "D EITHER ORDER",
+    "13": "C OR E OR F IN",
+    "6": "L EITHER ORDER",
+    "7": "A"
+  },
+  "content": {
+    "title": "Build a Medieval Castle",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Michel Guyot, owner and restorer of Saint Fargeau castle in France, first had the idea of building a 13th-century style fortress following the discovery that the 15th-century red bricks of his castle obscured the stone walls of a much older stronghold. His dream was to build a castle just as it would have been in the Middle Ages, an idea which some found mildly amusing and others dismissed as outright folly."
+      },
+      {
+        "label": "A",
+        "content": "However, Maryline Martin – project director – was inspired by the exciting potential for the venture to regenerate the region. It took several months to bring together and mobilise all the various different partners: architects, archaeologists and financial backers. A site in the heart of Guédelon forest was found: a site which offered not only all the resources required for building a castle – a stone quarry, an oak forest and a water supply – but in sufficient quantities to satisfy the demands of this gigantic site. The first team started work and on June 20th 1997 the first stone was laid."
+      },
+      {
+        "label": "B",
+        "content": "Unlike any other present-day building site, Michel Guyot’s purpose is clear, he warmly welcomes members of the public to participate. The workers’ role is to demonstrate and explain, to a wide audience, the skills of our forefathers. Stone quarrying, the building of vaulted ceilings, the blacksmith’s work and the raising of roof timbers are just some of the activities which visitors can witness during a visit to Guédelon. The workers are always on hand to talk about their craft and the progress of the castle."
+      },
+      {
+        "label": "B",
+        "content": "Each year 60,000 children visit Guédelon with their schools. The site is an excellent educational resource, bringing to life the history of the Middle Ages. Guided tours are tailored to the school curriculum and according to age groups: activity trails for primary school children and interactive guided tours for secondary school children. Pupils of all ages have the opportunity to follow in the footsteps of medieval stonemasons by taking part in a stonecarving workshop or discover the secrets of the medieval master-builders at the geometry workshop."
+      },
+      {
+        "label": "C",
+        "content": "Workers in the Burgundy region of France are building a 13th century castle. They’re not restoring an old castle. They’re actually building a new old castle. See the builders are constructing it from scratch. The craftsmen have been working for nearly ten years now but they’re not even halfway done yet. That’s because they’re using only medieval tools and techniques. The World’s Gerry Hadden takes US to the site of what will be the Guedelon Castle. Another reason said by Jean Francois, a member of Guedelon stone cutter’s guild, for eight hours a day he bangs on a 13th century chisel with a 13th century iron mallet."
+      },
+      {
+        "label": "D",
+        "content": "The progress of construction has to give way to tourists side for their visits. The visitors from 2010, however unsightly they may be, are vital to the project. The initial funding came not from pillaging the local peasantry but from regional councils, the European Union and large companies. For the last 10 years, Guédelon, 100 miles southeast of Paris, has funded itself from its entrance fees. Last year it had a record 300,000 visitors, who paid almost €2.5m, making it the second most-visited site in Burgundy. The most visited site was the Hospice de Beaune, a beautiful 15th-century almshouse built 600 years before, or, if you prefer, 200 years “after”, Guédelon."
+      },
+      {
+        "label": "E",
+        "content": "Limestone is found in the construction of various local buildings, from the great and prestigious edifice of Ratilly castle to the more modest poyaudines houses. This stone contains 30-40% iron oxide; this can make it extremely hard to extract and dress. Having studied the block in order to determine and anticipate the natural fault lines of the stone, the quarrymen first carve a series of rectilinear holes into the block. Iron wedges are then hammered into this line of holes. The shockwaves produced by the quarrymen’s sledgehammers cause the stone to split along a straight line."
+      },
+      {
+        "label": "E",
+        "content": "The highest quality blocks are dressed to produce lintels, voussoirs, corbels, ashlars etc. The medium quality blocks are roughly shaped by the stonecutters and used on the uncoursed curtain walls, and as facing stones on the castle’s inner walls. There are water-filled clay pits in the forest. Clay is taken from these pits, cleaned and pugged. It is then shaped in wooden moulds to form bricks. After the bricks have been left to air-dry, they are fired in a woodfired kiln for about 12 hours, at roughly 1000°c."
+      },
+      {
+        "label": "F",
+        "content": "The mortar is the “glue” used to bind the castle’s stones. It is made up of precise doses of lime, sand and water. The people working there wear the tunics, skirts and headgear that they might have worn then, but they wear these over jeans and shoes with reinforced toes. They mix their mortar primarily as they would have done then, using sand they dig themselves, but they are not allowed to use the extremely effective hot lime from medieval days, because of its toxicity, and so they add a modern chemical ingredient instead, to achieve the same effect."
+      },
+      {
+        "label": "F",
+        "content": "Workers in the Mid Age obviously were unaware of it and some died earlier by inhaling toxic gas. And so, we met many wonderful people who do not pretend to be anything but modern human beings practicing an old technique and finding out what it would have felt like, as much as possible, to do it with only the resources of an older time."
+      },
+      {
+        "label": "G",
+        "content": "We also learned that even if there is a straight lintel across a doorway, you will usually find an arch of stones built into the wall differently. Because of the physics of an arch, which channels the weight above it down into whatever is supporting it at each side instead of pressing down in the middle, this helps to take a lot of the weight off of the lintel itself, whether it is free standing or buried in the wall against the impact of warfare. The arch is the strongest element for spanning space in stone architecture. This is why, in ancient ruins, you will often find the entire wall missing, and the arched windows and doorways still standing, in beautiful patterns against the sky."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE if the Statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The French people would not abandon his idea in favor of realistic one.",
+            "answer": "NOT",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "One aim of the castle is to show the ancestral achievement to public.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Short lifespan of workers was due to overdue heating.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Stones were laid not in a straight line arrangement to avoid damaging or collapsing.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage, using A-L from the following options for each answer.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "When 5..................... found suitable block, they began to cut lines of 6..................... into it.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "metal vedge"
+              },
+              {
+                "label": "B",
+                "text": "hammer handle"
+              },
+              {
+                "label": "C",
+                "text": "lift"
+              },
+              {
+                "label": "D",
+                "text": "Masons"
+              },
+              {
+                "label": "E",
+                "text": "patterns"
+              },
+              {
+                "label": "F",
+                "text": "heating"
+              },
+              {
+                "label": "G",
+                "text": "bricks"
+              },
+              {
+                "label": "H",
+                "text": "wood"
+              },
+              {
+                "label": "I",
+                "text": "experts"
+              },
+              {
+                "label": "J",
+                "text": "split"
+              },
+              {
+                "label": "K",
+                "text": "walls"
+              },
+              {
+                "label": "L",
+                "text": "holes"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "When 5..................... found suitable block, they began to cut lines of 6..................... into it.",
+            "answer": "L",
+            "options": [
+              {
+                "label": "A",
+                "text": "metal vedge"
+              },
+              {
+                "label": "B",
+                "text": "hammer handle"
+              },
+              {
+                "label": "C",
+                "text": "lift"
+              },
+              {
+                "label": "D",
+                "text": "Masons"
+              },
+              {
+                "label": "E",
+                "text": "patterns"
+              },
+              {
+                "label": "F",
+                "text": "heating"
+              },
+              {
+                "label": "G",
+                "text": "bricks"
+              },
+              {
+                "label": "H",
+                "text": "wood"
+              },
+              {
+                "label": "I",
+                "text": "experts"
+              },
+              {
+                "label": "J",
+                "text": "split"
+              },
+              {
+                "label": "K",
+                "text": "walls"
+              },
+              {
+                "label": "L",
+                "text": "holes"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "7..................... were used and knocked into and generated shockwaves to make stone 8......................",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "A metal vedge"
+              },
+              {
+                "label": "B",
+                "text": "B hammer handle"
+              },
+              {
+                "label": "C",
+                "text": "C lift"
+              },
+              {
+                "label": "D",
+                "text": "D Masons"
+              },
+              {
+                "label": "E",
+                "text": "E patterns"
+              },
+              {
+                "label": "F",
+                "text": "F heating"
+              },
+              {
+                "label": "G",
+                "text": "G bricks"
+              },
+              {
+                "label": "H",
+                "text": "H wood"
+              },
+              {
+                "label": "I",
+                "text": "I experts"
+              },
+              {
+                "label": "J",
+                "text": "J split"
+              },
+              {
+                "label": "K",
+                "text": "K walls"
+              },
+              {
+                "label": "L",
+                "text": "L holes"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Different qualities of blocks would be used in different place of castle. On the other hand, 9..................... were shaped from clay in a mould and went through a process of 10..................... for about 12 hours.",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "A metal vedge"
+              },
+              {
+                "label": "B",
+                "text": "B hammer handle"
+              },
+              {
+                "label": "C",
+                "text": "C lift"
+              },
+              {
+                "label": "D",
+                "text": "D Masons"
+              },
+              {
+                "label": "E",
+                "text": "E patterns"
+              },
+              {
+                "label": "F",
+                "text": "F heating"
+              },
+              {
+                "label": "G",
+                "text": "G bricks"
+              },
+              {
+                "label": "H",
+                "text": "H wood"
+              },
+              {
+                "label": "I",
+                "text": "I experts"
+              },
+              {
+                "label": "J",
+                "text": "J split"
+              },
+              {
+                "label": "K",
+                "text": "K walls"
+              },
+              {
+                "label": "L",
+                "text": "L holes"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Different qualities of blocks would be used in different place of castle. On the other hand, 9..................... were shaped from clay in a mould and went through a process of 10..................... for about 12 hours.",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "A metal vedge"
+              },
+              {
+                "label": "B",
+                "text": "B hammer handle"
+              },
+              {
+                "label": "C",
+                "text": "C lift"
+              },
+              {
+                "label": "D",
+                "text": "D Masons"
+              },
+              {
+                "label": "E",
+                "text": "E patterns"
+              },
+              {
+                "label": "F",
+                "text": "F heating"
+              },
+              {
+                "label": "G",
+                "text": "G bricks"
+              },
+              "H",
+              "wood",
+              "I",
+              "experts",
+              "J",
+              "split",
+              "K",
+              "walls",
+              "L",
+              "holes"
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T00:22:59.759225"
+}

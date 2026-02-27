@@ -21,7 +21,7 @@ ls -lh ~/.cache/whisper/
 ## Basic Usage
 
 ```bash
-whisper /path/to/audio.mp3 --model small --language en --output_format txt
+whisper /path/to/audio.mp3 --device mps --model small --language en --output_format txt
 ```
 
 // turbo-all
@@ -30,6 +30,7 @@ whisper /path/to/audio.mp3 --model small --language en --output_format txt
 
 | Option             | Values                                          | Default  | Notes                                        |
 |--------------------|------------------------------------------------|----------|----------------------------------------------|
+| `--device`         | `cpu`, `cuda`, `mps`                           | `cpu`    | **ALWAYS use `mps`** on this Mac (Apple Silicon GPU) |
 | `--model`          | `tiny`, `base`, `small`, `medium`, `large`     | `small`  | **Use `small` unless user requests otherwise** |
 | `--language`       | `en`, `zh`, `ja`, etc.                         | auto     | Specify to skip language detection           |
 | `--output_format`  | `txt`, `srt`, `vtt`, `json`, `tsv`, `all`      | `all`    | Use `txt` for plain text, `srt` for subtitles |
@@ -41,27 +42,27 @@ whisper /path/to/audio.mp3 --model small --language en --output_format txt
 
 ### 1. Simple transcription to text file
 ```bash
-whisper /path/to/audio.mp3 --model small --language en --output_format txt --output_dir /tmp
+whisper /path/to/audio.mp3 --device mps --model small --language en --output_format txt --output_dir /tmp
 ```
 
 ### 2. Generate subtitles (SRT)
 ```bash
-whisper /path/to/lecture.mp3 --model small --language en --output_format srt --output_dir /tmp
+whisper /path/to/lecture.mp3 --device mps --model small --language en --output_format srt --output_dir /tmp
 ```
 
 ### 3. Batch transcribe multiple files
 ```bash
-whisper /path/to/dir/*.mp3 --model small --language en --output_format txt --output_dir /tmp/transcripts
+whisper /path/to/dir/*.mp3 --device mps --model small --language en --output_format txt --output_dir /tmp/transcripts
 ```
 
 ### 4. Translate non-English audio to English
 ```bash
-whisper /path/to/chinese_audio.mp3 --model small --task translate --output_format txt
+whisper /path/to/chinese_audio.mp3 --device mps --model small --task translate --output_format txt
 ```
 
 ### 5. Get word-level timestamps (JSON output)
 ```bash
-whisper /path/to/audio.mp3 --model small --language en --output_format json --word_timestamps True
+whisper /path/to/audio.mp3 --device mps --model small --language en --output_format json --word_timestamps True
 ```
 
 ## Model Size Guide
@@ -80,13 +81,13 @@ whisper /path/to/audio.mp3 --model small --language en --output_format json --wo
 - Use `cat /tmp/audio.txt` to read the plain text transcript
 - The `json` format includes timestamps per segment and optionally per word
 
-## ⚠️ VPN Download Speed Issue
+## ⚠️ Slow Model Downloads
 
-The system has a TUN-mode VPN proxy active. Python's `urllib` (used by whisper internally) gets routed through it and throttled to ~20 KiB/s, even though the actual internet connection is much faster. **This makes downloading new models via `whisper` itself painfully slow (~3+ hours for 461 MB).**
+Whisper's internal downloader (Python `urllib`) can be extremely slow (~20 KiB/s) due to the TUN-mode VPN proxy and/or stale network state. Even `curl` can be slow if there are concurrent downloads or congested routing. **A system reboot typically resolves this.**
 
 ### Workaround: Pre-download with curl
 
-`curl` bypasses the VPN more efficiently (~1.5 MB/s). If you need a model that isn't cached, download it directly:
+Always use `curl` instead of letting whisper download models internally. `curl` handles connections more efficiently (~3-5 MB/s typical):
 
 ```bash
 # Model URLs (openaipublic.azureedge.net/main/whisper/models/<hash>/<size>.pt)

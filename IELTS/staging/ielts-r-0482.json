@@ -1,0 +1,83 @@
+{
+  "id": "ielts-r-0482",
+  "slug": "the-happiest-country-in-the-world",
+  "title": "The happiest country in the world",
+  "page_range": [
+    2446,
+    2448
+  ],
+  "raw_answer_key": {
+    "1": "2008",
+    "4": "resources",
+    "2": "143",
+    "5": "health",
+    "3": "environment",
+    "6": "citizens"
+  },
+  "content": {
+    "title": "The happiest country in the world",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Children growing up in Costa Rica are surrounded by some of the most beautiful and diverse landscapes in the world. Preserving tropical rainforests isn’t Costa Rica’s only success, because the government also makes sure everyone has access to health-care and education. So when the New Economics Foundation released its second Happy Planet Index, Costa Rica came out number one. The index is a ranking of countries based on their impact on the environment and the health and happiness of their citizens."
+      },
+      {
+        "label": null,
+        "content": "According to Mariano Rojas, a Costa Rican economics professor, Costa Rica is a mid-income country where citizens have plenty of time for themselves and for their relationships with others. 'A mid-income level allows most citizens to satisfy their basic needs. The government makes sure that all Costa Ricans have access to education, health and nutrition services.' Costa Ricans, he believes, are not interested in status or spending money to show how successful they are."
+      },
+      {
+        "label": null,
+        "content": "Created in 2008, the Happy Planet Index examines happiness on a national level and ranks 143 countries according to three measurements: their citizens’ happiness, how long they live (which reflects their health), and how much of the planet’s resources each country consumes. According to researcher Saamah Abdallah, the Index also measures the outcomes that are most important, and those are happy, healthy lives for everyone."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Choose ONE WORD OR ONE NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The Happy Planet Index\nYear started: 1 .....................",
+            "answer": "2008",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Number of countries it lists: 2 .....................",
+            "answer": "143",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Measures each country's happiness according to:\n its effect on the 3 ..................... (i.e. the quantity of the Earth's 4 ..................... that it\nuses);",
+            "answer": "environment",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Measures each country's happiness according to:\n its effect on the 3 ..................... (i.e. the quantity of the Earth's 4 ..................... that it\nuses);",
+            "answer": "resources",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "the 5 ..................... of the population (i.e. how long people live);",
+            "answer": "health",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "how happy its 6 ..................... are.",
+            "answer": "citizens",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 6
+  },
+  "processed_at": "2026-02-25T21:33:44.126413"
+}

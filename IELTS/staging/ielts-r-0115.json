@@ -1,0 +1,163 @@
+{
+  "id": "ielts-r-0115",
+  "slug": "country-comfort-inn-hunter-valley",
+  "title": "Country Comfort Inn, Hunter Valley",
+  "page_range": [
+    590,
+    594
+  ],
+  "raw_answer_key": {
+    "1": "1821",
+    "8": "I",
+    "2": "(The) Hunter (River)",
+    "9": "G",
+    "3": "(The) Hunter (River)",
+    "10": "K",
+    "4": "A;C",
+    "11": "J",
+    "5": "A",
+    "12": "E",
+    "6": "A",
+    "13": "H",
+    "7": "D",
+    "14": "F"
+  },
+  "content": {
+    "title": "Country Comfort Inn, Hunter Valley",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Morpeth is today a small town about two hours’ drive north of Sydney. The town of Morpeth grew from the original 2000 acres of land given to an English army officer, Lieutenant Edward Close (1790-1866). During the 1830s and 1840s Morpeth became a major river port, due to its favourable location. Produce and timber were brought to Morpeth from inland New South Wales and shipped down the Hunter River to the coast and then to Sydney. However, in 1870 a railway line reached the town, and the importance of river shipping began to decline. Today, Morpeth, with its beautiful old buildings, is a popular tourist destination."
+      },
+      {
+        "label": null,
+        "content": "The Country Comfort Inn, Hunter Valley, is a beautifully restored 125-year-old building just 20 minutes from the vineyards. Formerly an orphanage, the Inn is set on 10 acres of landscaped gardens complete with pool, sauna, tennis court, spa, gym, billiard room, guest lounge, fireplace, cocktail bar, and two restaurants. Special packages are available. New England Highway, Maitland. Call toll free 1800 065 064 or (049) 32 52 88."
+      },
+      {
+        "label": null,
+        "content": "“Spend a night – not a fortune” That’s the Budget Motel chain motto. The Siesta Motel, rated 3-star, is conveniently placed at the gateway to the winery district and near the historic towns of Morpeth and Wollombi. The family-owned and operated Siesta offers air-conditioned comfort and a friendly atmosphere. A free light breakfast is delivered to your suite and excellent meals are available at the Maitland City Bowling Club nearby. The quality of accommodation is assured and the tariff is the lowest available. 258 New England Highway, Maitland. Phone (049) 32 83 22."
+      },
+      {
+        "label": null,
+        "content": "28 modern, comfortable 3-star units which open onto the swimming pool and barbeque area. All units feature TV and videos, air-conditioning, 2 with spas. Fully licensed restaurant with cocktail bar and lounge is open 7 nights. Close to all amenities. New England Highway, East Maitland. Phone (049) 33 54 88."
+      },
+      {
+        "label": null,
+        "content": "Rustic cottages secluded amongst gum trees provide quietness on 200 acres. The cottages are located on the historic beef cattle property “Eskdale”, nestled in the Williams Valley. Each cottage is completely contained having 2 bedrooms, full kitchen facilities, and a sitting room with TV and video, and offers comfortable rural accommodation to those who love the delights of the country yet still retain access to the city. Situated between the towns of Morpeth, Maitland, Port Stephens & rainforests around Nelson Plains Road, Seaham NSW 2324. Phone (049) 88 62 07, 88 62 09 Fax (049)88 62 09."
+      },
+      {
+        "label": null,
+        "content": "The best way to see Morpeth is to take the Morpeth Heritage Walk. This covers about three kilometres, and takes visitors past many beautiful historical buildings. Starting at Fig Tree Hill, which has picnic facilities, stroll past the Surgeon’s Cottage, built in 1845, formerly home of the local doctor, now shops. From there you will come to Morpeth Bridge, erected in 1870, which replaced a ferry boat. Opposite it on the right is the Courthouse, still in use today. Continue your walk past the historic Railway Station, then turn into George Street. Stroll past gracious houses until you come to the Church of the Immaculate Conception on your right, built of bricks made in Gosford. Continuing up George Street, you come to the shopping district; browse through the shops or stop for refreshment. Your tour of Morpeth will finish at magnificent Closebourne House, built in 1826 by Lieutenant Edward Close."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Use information in the description to answer Questions 1 to 3. Write your answer in boxes 1-3 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "When was Lieutenant Close given the land on which Morpeth grew?",
+            "answer": "1821",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "On what river is Morpeth situated?",
+            "answer": "(The) Hunter (River)",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "When did trains first get to Morpeth?",
+            "answer": "(The) Hunter (River)",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "There are four advertisements on the next page for places to stay near Morpeth. Answer the questions below by writing the letters of the appropriate advertisements in boxes 4-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "Which TWO places to stay have restaurants?",
+            "answer": "A;C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Which place claims to offer the cheapest rate?",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "For more information, to which place can you telephone free of charge?",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "At which place can the guests cook their own food?",
+            "answer": "D",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Using information from the text, fill in the names of the numbered tourist attractions on the map. Write your answers in boxes 8-14 on your answer sheet. The first one has been done for you as an example. Note: there are more names than you will need.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "",
+            "answer": "K",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "",
+            "answer": "J",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "",
+            "answer": "F",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T19:56:53.683635"
+}

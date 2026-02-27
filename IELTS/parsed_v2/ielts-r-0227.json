@@ -1,0 +1,619 @@
+{
+  "id": "ielts-r-0227",
+  "slug": "inside-the-mind-of-the-consumer",
+  "title": "Inside the mind of the consumer",
+  "page_range": [
+    1149,
+    1155
+  ],
+  "raw_answer_key": {
+    "1": "v",
+    "11": "untruthful",
+    "2": "i",
+    "12": "unconscious",
+    "3": "ix",
+    "13": "children",
+    "4": "viii",
+    "14": "NOT GIVEN",
+    "5": "iii",
+    "15": "TRUE",
+    "6": "vi",
+    "16": "FALSE",
+    "7": "F",
+    "17": "TRUE",
+    "8": "D",
+    "18": "NOT GIVEN",
+    "9": "A",
+    "19": "FALSE",
+    "10": "brands"
+  },
+  "content": {
+    "title": "Inside the mind of the consumer",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "MARKETING people are no longer prepared to take your word for it that you favour one product over another. They want to scan your brain to see which one you really prefer. Using the tools of neuroscientists, such as electroencephalogram (EEG) mapping and functional magnetic-resonance imaging (fMRI), they are trying to learn more about the mental processes behind purchasing decisions. The resulting fusion of neuroscience and marketing is inevitably, being called 'neuromarketing’."
+      },
+      {
+        "label": "B",
+        "content": "The first person to apply brain-imaging technology in this way was Gerry Zaltman of Harvard University, in the late 1990s. The idea remained in obscurity until 2001, when BrightHouse, a marketing consultancy based in Atlanta, Georgia, set up a dedicated neuromarketing arm, BrightHouse Neurostrategies Group. (BrightHouse lists Coca-Cola, Delta Airlines and Home Depot among its clients.) But the company's name may itself simply be an example of clever marketing. BrightHouse does not scan people while showing them specific products or campaign ideas, but bases its work on the results of more general fMRI-based research into consumer preferences and decision-making carried out at Emory University in Atlanta."
+      },
+      {
+        "label": "C",
+        "content": "Can brain scanning really be applied to marketing? The basic principle is not that different from focus groups and other traditional forms of market research. A volunteer lies in an fMRI machine and is shown images or video clips. In place of an interview or questionnaire, the subject's response is evaluated by monitoring brain activity. fMRI provides real-time images of brain activity, in which different areas “light up” depending on the level of blood flow. This provides clues to the subject's subconscious thought patterns. Neuroscientists know, for example, that the sense of self is associated with an area of the brain known as the medial prefrontal cortex. A flow of blood to that area while the subject is looking at a particular logo suggests that he or she identifies with that brand."
+      },
+      {
+        "label": "D",
+        "content": "At first, it seemed that only companies in Europe were prepared to admit that they used neuromarketing. Two carmakers, DaimlerChrysler in Germany and Ford's European arm, ran pilot studies in 2003. But more recently, American companies have become more open about their use of neuromarketing. Lieberman Research Worldwide, a marketing firm based in Los Angeles, is collaborating with the California Institute of Technology (Caltech) to enable movie studios to market-test film trailers. More controversially, the New York Times recently reported that a political consultancy, FKF Research, has been studying the effectiveness of campaign commercials using neuromarketing techniques."
+      },
+      {
+        "label": "E",
+        "content": "Whether all this is any more than a modern-day version of phrenology, the Victorian obsession with linking lumps and bumps in the skull to personality traits, is unclear. There have been no large-scale studies, so scans of a handful of subjects may not be a reliable guide to consumer behaviour in general. Of course, focus groups and surveys are flawed too: strong personalities can steer the outcomes of focus groups, and people do not always tell opinion pollsters the truth. And even honest people cannot always explain their preferences."
+      },
+      {
+        "label": "F",
+        "content": "That is perhaps where neuromarketing has the most potential. When asked about cola drinks, most people claim to have a favourite brand, but cannot say why they prefer that brand’s taste. An unpublished study of attitudes towards two well- known cola drinks, Brand A and Brand B, carried out last year in a college of medicine in the US found that most subjects preferred Brand B in a blind tasting. fMRI scanning showed that drinking Brand B lit up a region called the ventral putamen, which is one of the brain’s 'reward centres', far more brightly than Brand A. But when told which drink was which, most subjects said they preferred Brand A, which suggests that its stronger brand outweighs the more pleasant taste of the other drink."
+      },
+      {
+        "label": "G",
+        "content": "“People form many unconscious attitudes that are obviously beyond traditional methods that utilise introspection,” says Steven Quartz, a neuroscientist at Caltech who is collaborating with Lieberman Research. With over $100 billion spent each year on marketing in America alone, any firm that can more accurately analyse how customers respond to products, brands and advertising could make a fortune."
+      },
+      {
+        "label": "H",
+        "content": "Consumer advocates are wary. Gary Ruskin of Commercial Alert, a lobby group, thinks existing marketing techniques are powerful enough. “Already, marketing is deeply implicated in many serious pathologies,” he says. “That is especially true of children, who are suffering from an epidemic of marketing-related diseases, including obesity and type-2 diabetes. Neuromarketing is a tool to amplify these trends.”"
+      },
+      {
+        "label": "I",
+        "content": "Dr Quartz counters that neuromarketing techniques could equally be used for benign purposes. “There are ways to utilise these technologies to create more responsible advertising,” he says. Brain-scanning could, for example, be used to determine when people are capable of making free choices, to ensure that advertising falls within those bounds."
+      },
+      {
+        "label": "J",
+        "content": "Another worry is that brain-scanning is an invasion of privacy and that information on the preferences of specific individuals will be misused. But neuromarketing studies rely on small numbers of volunteer subjects, so that seems implausible. Critics also object to the use of medical equipment for frivolous rather than medical purposes. But as Tim Ambler, a neuromarketing researcher at the London Business School, says: 'A tool is a tool, and if the owner of the tool gets a decent rent for hiring it out, then that subsidises the cost of the equipment, and everybody wins.' Perhaps more brain-scanning will some day explain why some people like the idea of neuromarketing, but others do not."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for Paragraphs B-G from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "A description of the procedure"
+              },
+              {
+                "label": "ii",
+                "text": "An international research project"
+              },
+              {
+                "label": "iii",
+                "text": "An experiment to investigate consumer responses"
+              },
+              {
+                "label": "iv",
+                "text": "Marketing an alternative name"
+              },
+              {
+                "label": "v",
+                "text": "A misleading name"
+              },
+              {
+                "label": "vi",
+                "text": "A potentially profitable line of research"
+              },
+              {
+                "label": "vii",
+                "text": "Medical dangers of the technique"
+              },
+              {
+                "label": "viii",
+                "text": "Drawbacks to marketing tools"
+              },
+              {
+                "label": "ix",
+                "text": "Broadening applications"
+              },
+              {
+                "label": "x",
+                "text": "What is neuromarketing?"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "A description of the procedure"
+              },
+              {
+                "label": "ii",
+                "text": "An international research project"
+              },
+              {
+                "label": "iii",
+                "text": "An experiment to investigate consumer responses"
+              },
+              {
+                "label": "iv",
+                "text": "Marketing an alternative name"
+              },
+              {
+                "label": "v",
+                "text": "A misleading name"
+              },
+              {
+                "label": "vi",
+                "text": "A potentially profitable line of research"
+              },
+              {
+                "label": "vii",
+                "text": "Medical dangers of the technique"
+              },
+              {
+                "label": "viii",
+                "text": "Drawbacks to marketing tools"
+              },
+              {
+                "label": "ix",
+                "text": "Broadening applications"
+              },
+              {
+                "label": "x",
+                "text": "What is neuromarketing?"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "A description of the procedure"
+              },
+              {
+                "label": "ii",
+                "text": "An international research project"
+              },
+              {
+                "label": "iii",
+                "text": "An experiment to investigate consumer responses"
+              },
+              {
+                "label": "iv",
+                "text": "Marketing an alternative name"
+              },
+              {
+                "label": "v",
+                "text": "A misleading name"
+              },
+              {
+                "label": "vi",
+                "text": "A potentially profitable line of research"
+              },
+              {
+                "label": "vii",
+                "text": "Medical dangers of the technique"
+              },
+              {
+                "label": "viii",
+                "text": "Drawbacks to marketing tools"
+              },
+              {
+                "label": "ix",
+                "text": "Broadening applications"
+              },
+              {
+                "label": "x",
+                "text": "What is neuromarketing?"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A description of the procedure"
+              },
+              {
+                "label": "ii",
+                "text": "An international research project"
+              },
+              {
+                "label": "iii",
+                "text": "An experiment to investigate consumer responses"
+              },
+              {
+                "label": "iv",
+                "text": "Marketing an alternative name"
+              },
+              {
+                "label": "v",
+                "text": "A misleading name"
+              },
+              {
+                "label": "vi",
+                "text": "A potentially profitable line of research"
+              },
+              {
+                "label": "vii",
+                "text": "Medical dangers of the technique"
+              },
+              {
+                "label": "viii",
+                "text": "Drawbacks to marketing tools"
+              },
+              {
+                "label": "ix",
+                "text": "Broadening applications"
+              },
+              {
+                "label": "x",
+                "text": "What is neuromarketing?"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph F",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A description of the procedure"
+              },
+              {
+                "label": "ii",
+                "text": "An international research project"
+              },
+              {
+                "label": "iii",
+                "text": "An experiment to investigate consumer responses"
+              },
+              {
+                "label": "iv",
+                "text": "Marketing an alternative name"
+              },
+              {
+                "label": "v",
+                "text": "A misleading name"
+              },
+              {
+                "label": "vi",
+                "text": "A potentially profitable line of research"
+              },
+              {
+                "label": "vii",
+                "text": "Medical dangers of the technique"
+              },
+              {
+                "label": "viii",
+                "text": "Drawbacks to marketing tools"
+              },
+              {
+                "label": "ix",
+                "text": "Broadening applications"
+              },
+              {
+                "label": "x",
+                "text": "What is neuromarketing?"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph G",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "A description of the procedure"
+              },
+              {
+                "label": "ii",
+                "text": "An international research project"
+              },
+              {
+                "label": "iii",
+                "text": "An experiment to investigate consumer responses"
+              },
+              {
+                "label": "iv",
+                "text": "Marketing an alternative name"
+              },
+              {
+                "label": "v",
+                "text": "A misleading name"
+              },
+              {
+                "label": "vi",
+                "text": "A potentially profitable line of research"
+              },
+              {
+                "label": "vii",
+                "text": "Medical dangers of the technique"
+              },
+              {
+                "label": "viii",
+                "text": "Drawbacks to marketing tools"
+              },
+              {
+                "label": "ix",
+                "text": "Broadening applications"
+              },
+              {
+                "label": "x",
+                "text": "What is neuromarketing?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each person with the opinion credited to him.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Steven Quartz",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "Neuromarketing could be used lo contribute towards the cost of medical technology."
+              },
+              {
+                "label": "B",
+                "text": "Neuromarketing could use introspection as a tool in marketing research."
+              },
+              {
+                "label": "C",
+                "text": "Neuromarketing could be a means of treating medical problems."
+              },
+              {
+                "label": "D",
+                "text": "Neuromarketing could make an existing problem worse."
+              },
+              {
+                "label": "E",
+                "text": "Neuromarketing could lead to the misuse of medical equipment."
+              },
+              {
+                "label": "F",
+                "text": "Neuromarketing could be used to prevent the exploitation of consumers."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Gary Ruskin",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Neuromarketing could be used lo contribute towards the cost of medical technology."
+              },
+              {
+                "label": "B",
+                "text": "Neuromarketing could use introspection as a tool in marketing research."
+              },
+              {
+                "label": "C",
+                "text": "Neuromarketing could be a means of treating medical problems."
+              },
+              {
+                "label": "D",
+                "text": "Neuromarketing could make an existing problem worse."
+              },
+              {
+                "label": "E",
+                "text": "Neuromarketing could lead to the misuse of medical equipment."
+              },
+              {
+                "label": "F",
+                "text": "Neuromarketing could be used to prevent the exploitation of consumers."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Tim Ambler",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Neuromarketing could be used lo contribute towards the cost of medical technology."
+              },
+              {
+                "label": "B",
+                "text": "Neuromarketing could use introspection as a tool in marketing research."
+              },
+              {
+                "label": "C",
+                "text": "Neuromarketing could be a means of treating medical problems."
+              },
+              {
+                "label": "D",
+                "text": "Neuromarketing could make an existing problem worse."
+              },
+              {
+                "label": "E",
+                "text": "Neuromarketing could lead to the misuse of medical equipment."
+              },
+              {
+                "label": "F",
+                "text": "Neuromarketing could be used to prevent the exploitation of consumers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below using words from the passage.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Neuromarketing can provide valuable information on attitudes to particular",
+            "answer": "brands",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "It may be more reliable than surveys, where people can be",
+            "answer": "untruthful",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "or focus groups, where they may be influenced by others. It also allows researchers to identify the subject’s",
+            "answer": "unconscious",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "thought patterns. However, some people are concerned that it could lead to problems such as an increase in disease among",
+            "answer": "children",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 14,
+            "text": "When Peter Osbeck visited Ascension, he found no inhabitants on the island.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 15,
+            "text": "The natural vegetation on the island contained some species which were found nowhere else.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 16,
+            "text": "Joseph Hooker assumed that human activity had caused the decline in the island's plant life.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 17,
+            "text": "British sailors on the island took part in a major tree planting project.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 18,
+            "text": "Hooker sent details of his planting scheme to a number of different countries.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 19,
+            "text": "The bamboo and prickly pear seeds sent from England were unsuitable for Ascension.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 19
+  },
+  "processed_at": "2026-02-26T15:49:33.589273"
+}

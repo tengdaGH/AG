@@ -1,0 +1,192 @@
+{
+  "id": "ielts-r-0504",
+  "slug": "the-invention-of-television",
+  "title": "The Invention of Television",
+  "page_range": [
+    2552,
+    2557
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "(small) pinholes",
+    "2": "C",
+    "9": "(A) selenium cell",
+    "3": "F",
+    "10": "(a) neon lamp",
+    "4": "A",
+    "11": "FALSE",
+    "5": "G",
+    "12": "NOT GIVEN",
+    "6": "B",
+    "13": "TRUE",
+    "7": "E"
+  },
+  "content": {
+    "title": "The Invention of Television",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "The question “Who invented television?” is simple enough, but the answer is surprisingly controversial. No one person was responsible for producing what we think of as television today and the credit is due to various inventors."
+      },
+      {
+        "content": "The Scotsman, John Logie Baird, is considered by many to be the inventor of television. He showed early signs of his inventing ingenuity by setting up a telephone exchange to connect his house to those of his friends nearby. His first interest in television came in 1903, after he read a German book on the photoelectric properties of selenium. In 1873, this element was discovered to have the capacity to generate a current based on the amount of light applied to it. Working initially in Hastings, England, Baird famously created an apparatus using an old hatbox he bought in a used goods store, a pair of scissors, some needles, some bicycle light lenses and an old tea chest. Baird also used a Nipkow disk, created by German inventor, Paul Nipkow, and a lot of his work was based on the previous work by German, Arthur Korn. In February 1924, Baird demonstrated moving silhouette images on a ‘television’. Later that year, after nearly destroying the house and nearly killing himself with an electric shock, Baird moved to London, where he gave the first public display of his invention. On 2 October 1925, Baird used an office assistant, William Taynton, to move for his transmitted pictures, and Taynton became the first person to be televised moving and in full tonal range. Baird is also later credited with demonstrating the first images on colour television, on 3rd July 1928, although the credit for being the inventor of colour television is again disputed. Another first for Baird was transmitting the first television pictures across the Atlantic in 1928. Although Baird was well known for his invention, he also became famous for refusing an offer of £100,000 for the shares in his company, which was an enormous sum at that time. Baird famously said that he would not be able to sleep at night, knowing he had that much money."
+      },
+      {
+        "content": "Philo Farnsworth successfully demonstrated electronic television in San Francisco, in 1927, using a different system. Farnsworth realised that a picture could be dissected by a simple television camera into a series of lines of electricity. The lines would be transmitted so quickly that the eyes would merge the lines. Then, an image dissector, which Farnsworth created, would change those lines back into a picture. The Russian inventor, Vladimir Zworykin, built on this work and it was Zworykin’s designs that were eventually used by the BBC in the UK to replace Baird’s system."
+      },
+      {
+        "content": "Baird’s initial work would not have been successful without the previous work of Paul Nipkow. Nipkow came up with the idea of ‘scanning’ a television image by using a spinning disk with a spiral of small pinholes. When spun at a high rate of speed, each hole would allow light to fall on a selenium cell on the other side of the disk. The amount of voltage the cell generated would depend on the amount of light reflected from the object being photographed. One rotation of the disk equalled one frame of “video”. At the place where the signal was received, the process would be reversed. A similar disk spun in sync and a neon lamp reacted to the changes in voltage with the speed required to keep up with the spinning disk and projected the images onto a screen. Although Nipkow created the disk and acquired a patent for his invention, he did not create the apparatus to project images. The patent expired after 15 years, as no one was interested then in the work. Baird’s first practical television systems used an electro-mechanical picture scanning method, the method that Nipkow had helped create with his disk. Nipkow became a celebrated scientist in Germany for his work, but the mechanical nature of the Nipkow Disk caused the invention to fade to obscurity with the use of the cathode ray tube."
+      },
+      {
+        "content": "Arthur Korn was another German scientist working in the same field as Baird and Nipkow and it was his work that allowed the development of Nipkow’s work that in turn led to Baird’s breakthroughs. Korn’s early work was focused on the transmission of visual telegraphic transmission, using his developments in amplification tube technology. He sent a picture of the German Crown Prince 1800 kilometres in 1906 and sent a picture of the Pope across the Atlantic in 1923. Korn’s work was celebrated and, from 1928, the German police used his technology to send photographs and fingerprints."
+      },
+      {
+        "content": "Finally, another American, Charles Francis Jenkins, has a claim to be the inventor of television. Jenkins, who at the time was very well known for inventing the motion picture projector, first transmitted a silhouette picture from one room to another in 1922. Jenkins founded a broadcasting company in 1928, but the crash of 1929 forced him out of business. Most people agree that Baird gave his first public demonstration of television a couple years earlier than Jenkins, but this is disputed in some places."
+      },
+      {
+        "content": "It is plain to see why any claim to be the inventor of television is said to be controversial. In many cases, the answer to the question, “Who invented television?”, often just depends on from which country the person answering the question is."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the different significant people in the process of the invention of the television (questions 1 – 7) and match them to their roles in this process (A – G). Write your answers in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "John Logie Baird",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "William Taynton",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Philo Farnsworth",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Vladimir Zworykin",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paul Nipkow",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Arthur Korn",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Charles Francis Jenkins",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "DIAGRAM_LABEL_COMPLETION",
+        "instruction": "Label the diagram below. Write NO MORE THAN THREE WORDS from the text for each answer. Write your answers in boxes 8-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "",
+            "answer": "(small) pinholes",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "",
+            "answer": "(A) selenium cell",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "",
+            "answer": "(a) neon lamp",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the text? In boxes 11-13 on your answer sheet write: TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Nipkow died without any of his work being widely recognized.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Korn and Nipkow often met to discuss their work.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Charles Francis Jenkins was already famous when he experimented with television.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:39:03.177776"
+}

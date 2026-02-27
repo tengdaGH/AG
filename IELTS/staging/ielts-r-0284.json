@@ -1,0 +1,236 @@
+{
+  "id": "ielts-r-0284",
+  "slug": "memory-and-age",
+  "title": "Memory and Age",
+  "page_range": [
+    1428,
+    1433
+  ],
+  "raw_answer_key": {
+    "8": "EPISODIC",
+    "1": "C MEMORY",
+    "2": "D",
+    "9": "ALGEBRA",
+    "10": "3. B VOCABULARY",
+    "4": "C",
+    "11": "E",
+    "5": "MEMORY",
+    "12": "B",
+    "6": "PSYCHOLOGICAL",
+    "13": "A",
+    "7": "SEMANTIC",
+    "14": "C MEMORY"
+  },
+  "content": {
+    "title": "Memory and Age",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Aging, it is now clear, is part of an ongoing maturation process that all our organs go through. “In a sense, aging is keyed to the level of vigor of the body and the continuous interaction between levels of body activity and levels of mental activity,” reports Arnold B. Scheibel, M.D., whose very academic title reflects how once far-flung domains now converge on the mind and the brain. Scheibel is professor of anatomy, cell biology, psychiatry, and behavioral sciences at the University of California at Los Angeles, and director of the university’s Brain Research Institute. Experimental evidence has backed up popular assumptions that the aging mind undergoes decay analogous to that of the aging body. Younger monkeys, chimps, and lower animals consistently outperform their older colleagues on memory tests. In humans, psychologists concluded, memory and other mental functions deteriorate over time because of inevitable organic changes in the brain as neurons die off. Mental decline after young adulthood appeared inevitable."
+      },
+      {
+        "label": "B",
+        "content": "Equipped with imaging techniques that capture the brain in action, Stanley Rapoport, Ph.D., at the National Institutes of Health, measured the flow of blood in the brains of old and young people as they went through the task of matching photos of faces. Since blood flow reflects neuronal activity, Rapoport could compare which networks of neurons were being used by different subjects. “Even when the reaction times of older and younger subjects were the same, the neural networks they used were significantly different. The older subjects were using different internal strategies to accomplish the same result in the same time,” Rapoport says. Either the task required greater effort on the part of the older subjects or the work of neurons originally involved in tasks of that type had been taken over by other neurons, creating different networks."
+      },
+      {
+        "label": "C",
+        "content": "At the Georgia Institute of Technology, psychologist Timothy Salthouse, Ph.D., compared a group of very fast and accurate typists of college age with another group in their 60s. Since reaction time is faster in younger people and most people’s fingers grow less nimble with age, younger typists might be expected to tap right along while the older ones fumble. But both typed 60 words a minute. The older typists, it turned out, achieved their speed with cunning little strategies that made them far more efficient than their younger counterparts: They made fewer finger movements, saving a fraction of a second here and there. They also read ahead in the text. The neural networks involved in typing appear to have been reshaped to compensate for losses in motor skills or other age changes."
+      },
+      {
+        "label": "D",
+        "content": "“When a rat is kept in isolation without playmates or objects to interact with, the animal’s brain shrinks, but if we put that rat with 11 other rats in a large cage and give them an assortment of wheels, ladders, and other toys, we can show–after four days– significant differences in its brain,” says Diamond, professor of integrative biology. Proliferating dendrites first appear in the visual association areas. After a month in the enriched environment, the whole cerebral cortex has expanded, as has its blood supply. Even in the enriched environment, rats get bored unless the toys are varied. “Animals are just like we are. They need stimulation,” says Diamond."
+      },
+      {
+        "label": "E",
+        "content": "One of the most profoundly important mental functions is memory-notorious for its failure with age. So important is memory that the Charles A. Dana Foundation recently spent $8.4 million to set up a consortium of leading medical centers to measure memory loss and aging through brain imaging technology, neurochemical experiments, and cognitive and psychological tests. One thing, however, is already fairly clear–many aspects of memory are not a function of age at all but of education. Memory exists in more than one form. What we call knowledge–facts-is what psychologists such as Harry P. Bahrick, Ph.D., of Ohio Wesleyan University calls semantic memory. Events, conversations, and occurrences in time and space, on the other hand, make up episodic or event memory, which is triggered by cues from the context. If you were around in 1963 you don’t need to be reminded of the circumstances surrounding the moment you heard that JFK had been assassinated. That event is etched into your episodic memory."
+      },
+      {
+        "label": "F",
+        "content": "When you forget a less vivid item, like buying a roll of paper towels at the supermarket, you may blame it on your aging memory. It’s true that episodic memory begins to decline when most people are in their 50s, but it’s never perfect at any age. “Every memory begins as an event,” says Bahrick. “Through repetition, certain events leave behind a residue of knowledge, or semantic memory. On a specific day in the past, somebody taught you that two and two are four, but you’ve been over that information so often you don’t remember where you learned it. What started as an episodic memory has become a permanent part of your knowledge base.” You remember the content, not the context. Our language knowledge, our knowledge of the world and of people, is largely that permanent or semipermanent residue."
+      },
+      {
+        "label": "G",
+        "content": "Probing the longevity of knowledge, Bahrick tested 1,000 high school graduates to see how well they recalled their algebra. Some had completed the course as recently as a month before, others as long as 50 years earlier. He also determined how long each person had studied algebra, the grade received, and how much the skill was used over the course of adulthood. Surprisingly, a person’s grasp of algebra at the time of testing did not depend on how long ago he’d taken the course–the determining factor was the duration of instruction. Those who had spent only a few months learning algebra forgot most of it within two or three years."
+      },
+      {
+        "label": "H",
+        "content": "In another study, Bahrick discovered that people who had taken several courses in Spanish, spread out over a couple of years, could recall, decades later, 60 percent or more of the vocabulary they learned. Those who took just one course retained only a trace after three years. “This long-term residue of knowledge remains stable over the decades, independent of the age of the person and the age of the memory. No serious deficit appears until people get to their 50s and 60s, probably due to the degenerative processes of aging rather than a cognitive loss.”"
+      },
+      {
+        "label": "I",
+        "content": "“You could say metamemory is a byproduct of going to school,” says psychologist Robert Kail, Ph.D., of Purdue University, who studies children from birth to 20 years, the time of life when mental development is most rapid. “The question-and-answer process, especially exam-taking, helps children learn–and also teaches them how their memory works This may be one reason why, according to a broad range of studies in people over 60, the better educated a person is, the more likely they are to perform better in life and on psychological tests. A group of adult novice chess players were compared with a group of child experts at the game. In tests of their ability to remember a random series of numbers, the adults, as expected, outscored the children. But when asked to remember the patterns of chess pieces arranged on a board, the children won. “Because they’d played a lot of chess, their knowledge of chess was better organized than that of the adults, and their existing knowledge of chess served as a framework for new memory,” explains Kail."
+      },
+      {
+        "label": "J",
+        "content": "Specialized knowledge is a mental resource that only improves with time. Crystallized intelligence about one’s occupation apparently does not decline at all until at least age 75, and if there is no disease or dementia, may remain even longer. Special knowledge is often organized by a process called “chunking.” If procedure A and procedure B are always done together, for example, the mind may merge them into a single command. When you apply yourself to a specific interest–say, cooking–you build increasingly elaborate knowledge structures that let you do more and do it better. This ability, which is tied to experience, is the essence of expertise. Vocabulary is one such specialized form of accrued knowledge. Research clearly shows that vocabulary improves with time. Retired professionals, especially teachers and journalists, consistently score higher on tests of vocabulary and general information than college students, who are supposed to be in their mental prime."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 1-4 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What does the typist’s experiment show in the passage?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Old people reading ability is superior"
+              },
+              {
+                "label": "B",
+                "text": "Losses of age is irreversible"
+              },
+              {
+                "label": "C",
+                "text": "Seasoned tactics made elders more efficient"
+              },
+              {
+                "label": "D",
+                "text": "Old people performed poorly in driving test"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Which is correct about rat experiment?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Different toys have different effect for rats"
+              },
+              {
+                "label": "B",
+                "text": "Rat’s brain weight increased in both cages."
+              },
+              {
+                "label": "C",
+                "text": "Isolated rat’s brain grows new connections"
+              },
+              {
+                "label": "D",
+                "text": "Boring and complicated surroundings affect brain development"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What can be concluded in the chess game of a children’s group?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "They won game with adults."
+              },
+              {
+                "label": "B",
+                "text": "Their organization of chess knowledge is better"
+              },
+              {
+                "label": "C",
+                "text": "Their image memory is better than adults"
+              },
+              {
+                "label": "D",
+                "text": "They used different part of brain when chessing"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What is the author’s purpose of using “vocabulary study” at the end of the passage?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Certain people are sensitive to vocabularies while others aren’t"
+              },
+              {
+                "label": "B",
+                "text": "Teachers and professionals won by their experience"
+              },
+              {
+                "label": "C",
+                "text": "Vocabulary memory as a crystallized intelligence is hard to decline"
+              },
+              {
+                "label": "D",
+                "text": "Old people use their special zone of brain when study"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage, using no more than two words from the Reading Passage for each answer. Write your answers in boxes 5-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "It’s long been known that 5..................... declined with age.",
+            "answer": "MEMORY"
+          },
+          {
+            "number": 6,
+            "text": "Charles A. Dana foundation invested dollars to test memory decline. They used advanced technology, neurochemical experiments and cognitive and 6..................... experiments.",
+            "answer": "PSYCHOLOGICAL"
+          },
+          {
+            "number": 7,
+            "text": "Bahrick called one form ”7..................... “, which describes knowledge.",
+            "answer": "SEMANTIC"
+          },
+          {
+            "number": 8,
+            "text": "Another one called “8.....................“contains events in time and space format.",
+            "answer": "EPISODIC"
+          },
+          {
+            "number": 9,
+            "text": "He conducted experiments toward knowledge memory’s longevity, he asked 1000 candidates some knowledge of 9....................., some could even remember it decades ago.",
+            "answer": "ALGEBRA"
+          },
+          {
+            "number": 10,
+            "text": "Second research of Spanish courses, multiple course participants could remember more than half of 10..................... they learned after decades, whereas single course taker only remembered as short as 3 years.",
+            "answer": "VOCABULARY"
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the people (listed A-F) with opinions or deeds below. Write the appropriate letters A-F in boxes 11-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Examined both young and old’s blood circulation of brain while testing,",
+            "answer": "E"
+          },
+          {
+            "number": 12,
+            "text": "Aging is a significant link between physical and mental activity.",
+            "answer": "B"
+          },
+          {
+            "number": 13,
+            "text": "Some semantic memories of an event fade away by repetition.",
+            "answer": "A"
+          },
+          {
+            "number": 14,
+            "text": "Rat’s brain developed when put in a diverse environment.",
+            "answer": "C"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T01:33:50.978899"
+}

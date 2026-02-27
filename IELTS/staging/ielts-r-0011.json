@@ -1,0 +1,177 @@
+{
+  "id": "ielts-r-0011",
+  "slug": "air-conditioning",
+  "title": "Air conditioning",
+  "page_range": [
+    70,
+    73
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "4": "C",
+    "2": "A",
+    "5": "D",
+    "3": "C"
+  },
+  "content": {
+    "title": "Air Conditioning",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The history of an invention that makes life more pleasant Willis Carrier designed the first air-conditioning unit in 1902, just a year after graduating from Cornell University with a Masters in Engineering."
+      },
+      {
+        "label": null,
+        "content": "At a Brooklyn printing plant, fluctuations in heat and moisture were causing the size of the printing paper to keep changing slightly, making it hard to align different colours. Carrier’s invention made it possible to control temperature and humidity levels and so align the colours. The invention also allowed industries such as film, processed food, textiles and pharmaceuticals to improve the quality of their products."
+      },
+      {
+        "label": null,
+        "content": "In 1914, the first air-conditioning device was installed in a private house. However, its size, similar to that of an early computer, meant it took up too much space to come into widespread use, and later models, such as the Weathermaker, which Carrier brought out in the 1920s, cost too much for most people."
+      },
+      {
+        "label": null,
+        "content": "Cooling for human comfort, rather than industrial need, really took off when three air conditioners were installed in the J.L. Hudson Department Store in Detroit, Michigan. People crowded into the shop to experience the new invention. The fashion spread from department stores to cinemas, whose income rose steeply as a result of the comfort they provided."
+      },
+      {
+        "label": null,
+        "content": "To start with, money-conscious employers regarded air conditioning as a luxury. They considered that if they were paying people to work, they should not be paying for them to be comfortable as well. So in the 1940s and ’50s, the industry started putting out a different message about its product: according to their research, installing air conditioning increased productivity amongst employees."
+      },
+      {
+        "label": null,
+        "content": "They found that typists increased their output by 24% when transferred from a regular office to a cooled one. Another study into office working conditions, which was carried out in the late ’50s, showed that the majority of companies cited air conditioning as the single most important contributor to efficiency in offices."
+      },
+      {
+        "label": null,
+        "content": "However, air conditioning has its critics. Jed Brown, an environmentalist, complains that air conditioning is a factor in global warming. Unfortunately, he adds, because air conditioning leads to higher temperatures, people have to use it even more. However, he admits that it provides a healthier environment for many people in the heat of summer."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "When Willis Carrier invented air conditioning, his aim was to",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "make workers feel cooler."
+              },
+              {
+                "label": "B",
+                "text": "produce more attractive paper."
+              },
+              {
+                "label": "C",
+                "text": "set up a new business."
+              },
+              {
+                "label": "D",
+                "text": "solve problems in a factory."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Home air conditioners were not popular at first because they were",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "too big and expensive."
+              },
+              {
+                "label": "B",
+                "text": "not considered necessary."
+              },
+              {
+                "label": "C",
+                "text": "too inefficient."
+              },
+              {
+                "label": "D",
+                "text": "complicated to use."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Employers refused to put air conditioning in workplaces at first because they",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "could not afford to pay for it."
+              },
+              {
+                "label": "B",
+                "text": "thought it was more suitable for cinemas."
+              },
+              {
+                "label": "C",
+                "text": "did not want to spend money improving working conditions."
+              },
+              {
+                "label": "D",
+                "text": "thought people would not work so hard in comfortable conditions."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What was the purpose of the research done in the 1940s and ’50s?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "to make office workers produce more"
+              },
+              {
+                "label": "B",
+                "text": "to compare different types of air conditioner"
+              },
+              {
+                "label": "C",
+                "text": "to persuade businesses to buy air conditioners"
+              },
+              {
+                "label": "D",
+                "text": "to encourage employees to change offices"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What does Jed Brown say about air conditioning?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "In future, everyone will need it."
+              },
+              {
+                "label": "B",
+                "text": "Turning it off will not reduce global warming."
+              },
+              {
+                "label": "C",
+                "text": "It can seriously damage people’s health."
+              },
+              {
+                "label": "D",
+                "text": "It is good for people, but bad for the environment."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 5
+  },
+  "processed_at": "2026-02-25T18:21:45.124415"
+}

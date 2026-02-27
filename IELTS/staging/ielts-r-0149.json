@@ -1,0 +1,432 @@
+{
+  "id": "ielts-r-0149",
+  "slug": "endless-harvest",
+  "title": "Endless Harvest",
+  "page_range": [
+    761,
+    765
+  ],
+  "raw_answer_key": {
+    "1": "FALSE",
+    "8": "G",
+    "2": "NOT GIVEN",
+    "9": "E",
+    "3": "TRUE",
+    "10": "B",
+    "4": "NOT GIVEN",
+    "11": "A",
+    "5": "TRUE",
+    "12": "K",
+    "6": "TRUE",
+    "13": "F",
+    "7": "FALSE"
+  },
+  "content": {
+    "title": "Endless Harvest",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "More than two hundred years ago, Russian explorers and fur hunters landed on the Aleutian Islands, a volcanic archipelago in the North Pacific, and learned of a land mass that lay farther to the north. The islands’ native inhabitants called this land mass Aleyska, the ‘Great Land’; today, we know it as Alaska."
+      },
+      {
+        "label": null,
+        "content": "The forty-ninth state to join the United States of America (in 1959), Alaska is fully one-fifth the size of the mainland 48 states combined. It shares, with Canada, the second longest river system in North America and has over half the coastline of the United States. The rivers feed into the Bering Sea and Gulf of Alaska - cold, nutrient-rich waters which support tens of millions of seabirds, and over 400 species of fish, shellfish, crustaceans, and molluscs. Taking advantage of this rich bounty, Alaska’s commercial fisheries have developed into some of the largest in the world."
+      },
+      {
+        "label": null,
+        "content": "According to the Alaska Department of Fish and Game (ADF&G), Alaska’s commercial fisheries landed hundreds of thousands of tonnes of shellfish and herring, and well over a million tonnes of groundfish (cod, sole, perch and pollock) in 2000. The true cultural heart and soul of Alaska’s fisheries, however, is salmon. ‘Salmon,’ notes writer Susan Ewing in The Great Alaska Nature Factbook, ‘pump through Alaska like blood through a heart, bringing rhythmic, circulating nourishment to land, animals and people.’ The ‘predictable abundance of salmon allowed some native cultures to flourish,’ and ‘dying spawners feed bears, eagles, other animals, and ultimately the soil itself.’ All five species of Pacific salmon - chinook, or king; chum, or dog; coho, or silver; sockeye, or red; and pink, or humpback - spawn in Alaskan waters, and 90% of all Pacific salmon commercially caught in North America are produced there. Indeed, if Alaska was an independent nation, it would be the largest producer of wild salmon in the world. During 2000, commercial catches of Pacific salmon in Alaska exceeded 320,000 tonnes, with an ex-vessel value of over $US 260 million."
+      },
+      {
+        "label": null,
+        "content": "Catches have not always been so healthy. Between 1940 and 1959, overfishing led to crashes in salmon populations so severe that in 1953 Alaska was declared a federal disaster area. With the onset of statehood, however, the State of Alaska took over management of its own fisheries, guided by a state constitution which mandates that Alaska’s natural resources be managed on a sustainable basis. At that time, statewide harvests totalled around 25 million salmon. Over the next few decades average catches steadily increased as a result of this policy of sustainable management, until, during the 1990s, annual harvests were well in excess of 100 million, and on several occasions over 200 million fish."
+      },
+      {
+        "label": null,
+        "content": "The primary reason for such increases is what is known as ‘In-Season Abundance-Based Management’. There are biologists throughout the state constantly monitoring adult fish as they show up to spawn. The biologists sit in streamside counting towers, study sonar, watch from aeroplanes, and talk to fishermen. The salmon season in Alaska is not pre-set. The fishermen know the approximate time of year when they will be allowed to fish, but on any given day, one or more field biologists in a particular area can put a halt to fishing. Even sport fishing can be brought to a halt. It is this management mechanism that has allowed Alaska salmon stocks - and, accordingly, Alaska salmon fisheries — to prosper, even as salmon populations in the rest of the United States are increasingly considered threatened or even endangered."
+      },
+      {
+        "label": null,
+        "content": "In 1999, the Marine Stewardship Council (MSC) commissioned a review of the Alaska salmon fishery. The Council, which was founded in 1996, certifies fisheries that meet high environmental standards, enabling them to use a label that recognises their environmental responsibility. The MSC has established a set of criteria by which commercial fisheries can be judged. Recognising the potential benefits of being identified as environmentally responsible, fisheries approach the Council requesting to undergo the certification process. The MSC then appoints a certification committee, composed of a panel of fisheries experts, which gathers information and opinions from fishermen, biologists, government officials, industry representatives, non-governmental organisations and others."
+      },
+      {
+        "label": null,
+        "content": "Some observers thought the Alaska salmon fisheries would not have any chance of certification when, in the months leading up to MSC’s final decision, salmon runs throughout western Alaska completely collapsed. In the Yukon and Kuskokwim rivers, chinook and chum runs were probably the poorest since statehood; subsistence communities throughout the region, who normally have priority over commercial fishing, were devastated."
+      },
+      {
+        "label": null,
+        "content": "The crisis was completely unexpected, but researchers believe it had nothing to do with impacts of fisheries. Rather, they contend, it was almost certainly the result of climatic shifts, prompted in part by cumulative effects of the el niño/la niña phenomenon on Pacific Ocean temperatures, culminating in a harsh winter in which huge numbers of salmon eggs were frozen. It could have meant the end as far as the certification process was concerned. However, the state reacted quickly, closing down all fisheries, even those necessary for subsistence purposes."
+      },
+      {
+        "label": null,
+        "content": "In September 2000, MSC announced that the Alaska salmon fisheries qualified for certification. Seven companies producing Alaska salmon were immediately granted permission to display the MSC logo on their products. Certification is for an initial period of five years, with an annual review to ensure that the fishery is continuing to meet the required standards."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The inhabitants of the Aleutian islands renamed their islands ‘Aleyska’.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Alaska’s fisheries are owned by some of the world’s largest companies.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Life in Alaska is dependent on salmon.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Ninety per cent of all Pacific salmon caught are sockeye or pink salmon.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "More than 320,000 tonnes of salmon were caught in Alaska in 2000.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Between 1940 and 1959, there was a sharp decrease in Alaska’s salmon population.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "During the 1990s, the average number of salmon caught each year was 100 million.",
+            "answer": "FALSE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "instruction": "Complete each sentence with the correct ending, A-K, below. Write the correct letter, A-K, in boxes 8-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "In Alaska, biologists keep a check on adult fish",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "to recognise fisheries that care for the environment."
+              },
+              {
+                "label": "B",
+                "text": "to be successful."
+              },
+              {
+                "label": "C",
+                "text": "to stop fish from spawning."
+              },
+              {
+                "label": "D",
+                "text": "to set up environmental protection laws."
+              },
+              {
+                "label": "E",
+                "text": "to stop people fishing for sports"
+              },
+              {
+                "label": "F",
+                "text": "to label their products using the MSC logo."
+              },
+              {
+                "label": "G",
+                "text": "to ensure that fish numbers are sufficient to permit fishing."
+              },
+              {
+                "label": "H",
+                "text": "to assist the subsistence communities in the region."
+              },
+              {
+                "label": "I",
+                "text": "to freeze a huge number of salmon eggs."
+              },
+              {
+                "label": "J",
+                "text": "to deny certification to the Alaska fisheries."
+              },
+              {
+                "label": "K",
+                "text": "to close down all fisheries."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Biologists have the authority",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "to recognise fisheries that care for the environment."
+              },
+              {
+                "label": "B",
+                "text": "to be successful."
+              },
+              {
+                "label": "C",
+                "text": "to stop fish from spawning."
+              },
+              {
+                "label": "D",
+                "text": "to set up environmental protection laws."
+              },
+              {
+                "label": "E",
+                "text": "to stop people fishing for sports"
+              },
+              {
+                "label": "F",
+                "text": "to label their products using the MSC logo."
+              },
+              {
+                "label": "G",
+                "text": "to ensure that fish numbers are sufficient to permit fishing."
+              },
+              {
+                "label": "H",
+                "text": "to assist the subsistence communities in the region."
+              },
+              {
+                "label": "I",
+                "text": "to freeze a huge number of salmon eggs."
+              },
+              {
+                "label": "J",
+                "text": "to deny certification to the Alaska fisheries."
+              },
+              {
+                "label": "K",
+                "text": "to close down all fisheries."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "In-Season Abundance-Based Management has allowed the Alaska salmon fisheries",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "to recognise fisheries that care for the environment."
+              },
+              {
+                "label": "B",
+                "text": "to be successful."
+              },
+              {
+                "label": "C",
+                "text": "to stop fish from spawning."
+              },
+              {
+                "label": "D",
+                "text": "to set up environmental protection laws."
+              },
+              {
+                "label": "E",
+                "text": "to stop people fishing for sports"
+              },
+              {
+                "label": "F",
+                "text": "to label their products using the MSC logo."
+              },
+              {
+                "label": "G",
+                "text": "to ensure that fish numbers are sufficient to permit fishing."
+              },
+              {
+                "label": "H",
+                "text": "to assist the subsistence communities in the region."
+              },
+              {
+                "label": "I",
+                "text": "to freeze a huge number of salmon eggs."
+              },
+              {
+                "label": "J",
+                "text": "to deny certification to the Alaska fisheries."
+              },
+              {
+                "label": "K",
+                "text": "to close down all fisheries."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The Marine Stewardship Council (MSC) was established",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "to recognise fisheries that care for the environment."
+              },
+              {
+                "label": "B",
+                "text": "to be successful."
+              },
+              {
+                "label": "C",
+                "text": "to stop fish from spawning."
+              },
+              {
+                "label": "D",
+                "text": "to set up environmental protection laws."
+              },
+              {
+                "label": "E",
+                "text": "to stop people fishing for sports"
+              },
+              {
+                "label": "F",
+                "text": "to label their products using the MSC logo."
+              },
+              {
+                "label": "G",
+                "text": "to ensure that fish numbers are sufficient to permit fishing."
+              },
+              {
+                "label": "H",
+                "text": "to assist the subsistence communities in the region."
+              },
+              {
+                "label": "I",
+                "text": "to freeze a huge number of salmon eggs."
+              },
+              {
+                "label": "J",
+                "text": "to deny certification to the Alaska fisheries."
+              },
+              {
+                "label": "K",
+                "text": "to close down all fisheries."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "As a result of the collapse of the salmon runs in 1999, the state decided",
+            "answer": "K",
+            "options": [
+              {
+                "label": "A",
+                "text": "to recognise fisheries that care for the environment."
+              },
+              {
+                "label": "B",
+                "text": "to be successful."
+              },
+              {
+                "label": "C",
+                "text": "to stop fish from spawning."
+              },
+              {
+                "label": "D",
+                "text": "to set up environmental protection laws."
+              },
+              {
+                "label": "E",
+                "text": "to stop people fishing for sports"
+              },
+              {
+                "label": "F",
+                "text": "to label their products using the MSC logo."
+              },
+              {
+                "label": "G",
+                "text": "to ensure that fish numbers are sufficient to permit fishing."
+              },
+              {
+                "label": "H",
+                "text": "to assist the subsistence communities in the region."
+              },
+              {
+                "label": "I",
+                "text": "to freeze a huge number of salmon eggs."
+              },
+              {
+                "label": "J",
+                "text": "to deny certification to the Alaska fisheries."
+              },
+              {
+                "label": "K",
+                "text": "to close down all fisheries."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "In September 2000, the MSC allowed seven Alaska salmon companies",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "to recognise fisheries that care for the environment."
+              },
+              {
+                "label": "B",
+                "text": "to be successful."
+              },
+              {
+                "label": "C",
+                "text": "to stop fish from spawning."
+              },
+              {
+                "label": "D",
+                "text": "to set up environmental protection laws."
+              },
+              {
+                "label": "E",
+                "text": "to stop people fishing for sports"
+              },
+              {
+                "label": "F",
+                "text": "to label their products using the MSC logo."
+              },
+              {
+                "label": "G",
+                "text": "to ensure that fish numbers are sufficient to permit fishing."
+              },
+              {
+                "label": "H",
+                "text": "to assist the subsistence communities in the region."
+              },
+              {
+                "label": "I",
+                "text": "to freeze a huge number of salmon eggs."
+              },
+              {
+                "label": "J",
+                "text": "to deny certification to the Alaska fisheries."
+              },
+              {
+                "label": "K",
+                "text": "to close down all fisheries."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T15:44:49.648286"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "ielts-r-0445",
+  "slug": "the-can--a-brief-history-lesson",
+  "title": "The Can – A Brief History Lesson",
+  "page_range": [
+    2256,
+    2261
+  ],
+  "raw_answer_key": {
+    "1": "viii",
+    "8": "D",
+    "2": "ii",
+    "9": "B",
+    "3": "x",
+    "10": "C",
+    "4": "i",
+    "11": "G",
+    "5": "xi",
+    "12": "F",
+    "6": "vi",
+    "13": "TRUE",
+    "7": "A",
+    "14": "NOT GIVEN"
+  },
+  "content": {
+    "properties": {
+      "title": {
+        "description": "The title of the reading passage.",
+        "title": "Title",
+        "type": "string"
+      },
+      "has_paragraph_labels": {
+        "description": "True if the passage has labeled paragraphs (e.g., A, B, C).",
+        "title": "Has Paragraph Labels",
+        "type": "boolean"
+      },
+      "paragraphs": {
+        "description": "List of structured paragraphs.",
+        "items": {
+          "$ref": "#/$defs/Paragraph"
+        },
+        "title": "Paragraphs",
+        "type": "array"
+      }
+    },
+    "required": [
+      "title",
+      "has_paragraph_labels",
+      "paragraphs"
+    ],
+    "title": "The Can – A Brief History Lesson",
+    "type": "object",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The story of the can begins in 1795 when Nicholas Appert, a Parisian, had an idea: why not pack food in bottles like wine? Fifteen years later, after researching and testing his idea, he published his theory: if food is sufficiently heated and sealed in an airtight container, it will not spoil. In 1810 Peter Durand, an Englishman, wanted to surpass Appert’s invention, so he elected to try tin instead of glass. Like glass, tin could be sealed airtight but tin was not breakable and was much easier to handle. Durand himself did no canning, but two other Englishmen, Bryan Donkin and John Hall, used Durand’s patent. After experimenting for more than a year, they set up a commercial canning factory and by 1813 they were sending tins of food to British army and navy authorities for trial."
+      },
+      {
+        "label": "B",
+        "content": "Perhaps the greatest encouragement to the newborn canning industry was the explosion in the number of new colonial territories. As people and goods were being transported to all parts of the world, the can industry itself was growing in new territories. Englishmen who emigrated to America brought their newfound knowledge with them. One of these was Thomas Kensett, who might fairly be called the father of the can manufacturing industry in the United States. In 1812 he set up a small plant on the New York waterfront to can the first hermetically sealed products in the United States."
+      },
+      {
+        "label": "C",
+        "content": "Just before the Civil War, a technical advance by canners enabled them to speed up production. Adding calcium chloride to the water in which cans were cooked raised the water temperature, speeding up the canning process. Also for almost 100 years, tin cans were made by artisans by hand. It was a laborious process, requiring considerable skill and muscle. As the industrial revolution took hold in the United States, the demand for cans increased and machines began to replace the artisans’ handiwork. A good artisan could make only 10 cans a day. True production progress in can-making began in 1922, when American engineers perfected the body-making process. New methods soon increased production of cans to as many as 250 a minute."
+      },
+      {
+        "label": "D",
+        "content": "As early as 1940, can manufacturers began to explore the possibility of adapting cans to package carbonated soft drinks. The can had to be strengthened to accommodate higher internal can pressures created by carbonation (especially during warm summer months), which meant increasing the thickness of the metal used in the can ends. Another concern for the new beverage can was its shelf life. Even small amounts of dissolved tin or iron from the can could impair the drinking quality of drinks. Also the food acids, including carbonic, citric and phosphoric, in soft drinks presented a risk for the rapid corrosion of exposed tin and iron in the can. At this point the can was upgraded by improving the organic coatings used to line the inside. The can manufacturers then embarked on a program of material and cost savings by reducing both the amount of steel and the amount of coating used in can making. These efforts were in part inspired by a new competitor - aluminum."
+      },
+      {
+        "label": "E",
+        "content": "Beverage cans made from aluminum were first introduced in 1965. This was an exciting innovation for the packaging industry because the aluminum can was made with only two pieces - a body and an end. This made production easier. Some of the reasons for the aluminum can’s acceptance were its ductility, its support of carbonation pressure, its lighter weight and the fact that aluminum does not rust. Both steel and aluminum cans used an easy-open end tab but the aluminum tab was much easier to make. Perhaps the most critical element in the aluminum can’s market success was its recycling value. Aluminum can recycling excelled economically in the competition with steel because of the efficiencies aluminum cans realized in making new cans from recycled materials compared with 100 percent virgin aluminum. Steel did not realize similar economies in the recycling process."
+      },
+      {
+        "label": "F",
+        "content": "Prior to 1970, can makers, customers and consumers alike were unaware of the impact that the mining and manufacturing of steel or aluminum had on the environment. The concept of natural resource preservation was not an issue of great importance and the low growth of population during these early years further de-emphasized concerns for resource depletion. Both industries, however, came to realize the importance of reducing their impact on the environment in the late 1960s and early 1970s as a new environmentally conscious generation emerged. Manufacturers began to recognize the economics of recycling, namely lower manufacturing costs from using less material and less energy. By the 1980s and 1990s, recycling had become a way of life. Aluminum can recycling has become a billion-dollar business and one of the world’s most successful environmental enterprises. Over the years, the aluminum can has come to be known as America’s most recyclable package, with over 60 percent of cans being recycled annually."
+      },
+      {
+        "label": "G",
+        "content": "Advances in can manufacturing technology have also brought us lighter aluminum cans. In 1972, one pound of aluminum yielded only 21.75 cans. Today, by using less material to make each can, one pound of aluminum makes approximately 32 cans - a 47 percent improvement. Just the lightening of can ends makes a huge difference. When you multiply the savings by the 100 billion cans that are made each year, the weight and savings are phenomenal - over 200 million pounds of aluminum!"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Match each statement with the paragraph (A-G) it describes.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The introduction of calcium chloride to speed up the canning process.",
+            "answer": "viii",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The use of tin cans in the British army and navy.",
+            "answer": "ii",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The development of lighter aluminum cans.",
+            "answer": "x",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The first hermetically sealed products in the United States.",
+            "answer": "i",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The introduction of aluminum beverage cans.",
+            "answer": "xi",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The impact of recycling on manufacturing costs.",
+            "answer": "vi",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "The use of tin and iron in beverage cans and the challenges they presented.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The role of colonial territories in the growth of the canning industry.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "The advantages of aluminum cans over steel cans.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "The transition from handcrafted to machine-made cans.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The environmental impact of can manufacturing and the response to it.",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "The economic benefits of recycling aluminum.",
+            "answer": "F",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Indicate whether the following statements are TRUE, FALSE, or NOT GIVEN according to the passage.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "Aluminum cans are more recyclable than steel cans.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false according to the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The statement is not mentioned in the passage."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "The population growth rate in the early years of can manufacturing was high.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true according to the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false according to the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The statement is not mentioned in the passage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:12:42.265765"
+}

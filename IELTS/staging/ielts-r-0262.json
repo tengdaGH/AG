@@ -1,0 +1,110 @@
+{
+  "id": "ielts-r-0262",
+  "slug": "list-of-courses-at-canterbury-college-",
+  "title": "List of Courses at Canterbury College",
+  "page_range": [
+    1326,
+    1329
+  ],
+  "raw_answer_key": {
+    "1": "F",
+    "5": "E",
+    "2": "A",
+    "6": "H",
+    "3": "G",
+    "7": "C",
+    "4": "B"
+  },
+  "content": {
+    "title": "List of Courses at Canterbury College",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "This course will enable students to experience performing arts and the media at a basic level. It will give them the experience to decide if they wish to pursue an interest in this field and to develop their potential and adaptability for working in a performance company in either a performing or a technical role."
+      },
+      {
+        "label": null,
+        "content": "The aim of this course is to provide a thorough grounding in business-related skills and a comprehensive knowledge of business practice. It is for students with a business studies background who can manage a heavy workload that will contain a greater degree of academic study."
+      },
+      {
+        "label": null,
+        "content": "This course provides progression to a range of higher levels. Units will include maintaining employment standards, salon management duties, providing facial massage and skin care, instruction on makeup, lash and brow treatments, artificial nail structures and ear piercing."
+      },
+      {
+        "label": null,
+        "content": "This course is designed to develop skills used in leisure operations. It covers preparing for and conducting physical activities, maintenance of facility areas, building relationships with participants and colleagues, handling sports equipment and health and safety issues."
+      },
+      {
+        "label": null,
+        "content": "This course gives a foundation for a career in caring for children, the elderly or people with special needs. Core units are Numeracy, Communication and Information Technology. Work placements are an important part of the course."
+      },
+      {
+        "label": null,
+        "content": "This course is designed to provide a foundation in graphic and visual communication skills. Students complete units in picture composition and photographic processing alongside elements of graphic design, and gain hands-on experience of desktop publishing and presentations."
+      },
+      {
+        "label": null,
+        "content": "This course is designed to provide an introduction to the construction industry. Units covered include Heat, Light and Sound, Introduction to the Urban Environment, Communication Processes and Techniques and Properties of Materials. All students complete vocational assignments which are integrated with work experience with reputable companies."
+      },
+      {
+        "label": null,
+        "content": "The qualifications gained and the skills developed on this course will provide a good basis for gaining employment in office work. In addition to word processing, the course also covers spreadsheets, computerized accounting, databases and desktop publishing. All students are given chances to develop their confidence, and advice and information is given on job search skills, presentation techniques and personal appearance."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Look at the List of Courses at Canterbury College A-H. Which course would you recommend for people with the following career interests? Write the correct letter A-H in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "advertising",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "TV production",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "architecture",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "company management",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "working with the disabled",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "secretariat tasks",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "beauty therapy",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T20:37:03.045474"
+}

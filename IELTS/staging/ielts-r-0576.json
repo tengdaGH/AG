@@ -1,0 +1,80 @@
+{
+  "id": "ielts-r-0576",
+  "slug": "the-worlds-friendliest-city",
+  "title": "The world’s friendliest city",
+  "page_range": [
+    2912,
+    2914
+  ],
+  "raw_answer_key": {
+    "1": "relaxed",
+    "4": "time",
+    "2": "money",
+    "5": "strangers",
+    "3": "crime"
+  },
+  "content": {
+    "title": "The world's friendliest city",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A team of social psychologists from California has spent six years studying the reactions of people in cities around the world to different situations. The results show that cities where people have less money generally have friendlier populations. Rio de Janeiro in Brazil, which is often known for its crime, comes out top, and the capital of Malawi, Lilongwe, comes third."
+      },
+      {
+        "label": "B",
+        "content": "But what makes one city friendlier than another? The psychologists from California State University say it has got more to do with environment than culture or nationality."
+      },
+      {
+        "label": "C",
+        "content": "They carried out a study into the way locals treated strangers in 23 cities around the world. The team conducted their research through a series of tests, where they dropped pens or pretended they were blind and needed help crossing the street."
+      },
+      {
+        "label": "D",
+        "content": "The study concludes that people are more helpful in cities with a more relaxed way of life such as Rio. While they were there, researchers received help in 93 percent of cases, and the percentage in Lilongwe was only a little lower. However, richer cities such as Amsterdam and New York are considered the least friendly. Inhabitants of Amsterdam helped the researchers in 53 percent of cases and in New York just 44 percent. The psychologists found that, in these cities, people tend to be short of time, so they hurry and often ignore strangers."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below. Choose ONE WORD from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Rio de Janeiro has a more 1..................... lifestyle.",
+            "answer": "relaxed",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "People in Rio de Janeiro don’t have so much 2...................",
+            "answer": "money",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Rio de Janeiro has a reputation for 3...................",
+            "answer": "crime",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "People in Amsterdam and New York have little 4...................",
+            "answer": "time",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "People in Amsterdam and New York don’t pay attention to 5...................",
+            "answer": "strangers",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 5
+  },
+  "processed_at": "2026-02-25T22:01:07.385263"
+}

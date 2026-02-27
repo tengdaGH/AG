@@ -1,5 +1,5 @@
 {
-  "error": "Curl failed: curl: (28) Operation timed out after 60005 milliseconds with 0 bytes received\n",
+  "error": "Curl failed: curl: (16) Error in the HTTP2 framing layer\n",
   "original": {
     "id": "ielts-r-0268",
     "slug": "makete-integrated-rural-transport-project",

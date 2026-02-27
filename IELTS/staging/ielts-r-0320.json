@@ -1,0 +1,167 @@
+{
+  "id": "ielts-r-0320",
+  "slug": "obtaining-linguistic-data",
+  "title": "Obtaining Linguistic Data",
+  "page_range": [
+    1620,
+    1624
+  ],
+  "raw_answer_key": {
+    "8": "quality// the quality//",
+    "1": "D the poor quality",
+    "9": "non-verbal",
+    "2": "E behaviour// non-verbal behavior",
+    "10": "camera// video",
+    "3": "C camera// recording// video recording",
+    "11": "frequency of",
+    "4": "D usage// usage frequency",
+    "12": "particular linguistic",
+    "5": "F feature",
+    "6": "(the) linguist (acts)// (the)",
+    "13": "size linguists (act)",
+    "7": "foreign",
+    "14": "intuitions languages"
+  },
+  "content": {
+    "title": "Obtaining Linguistic Data",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Many procedures are available for obtaining data about a language. They range from a carefully planned, intensive field investigation in a foreign country to a casual introspection about one's mother tongue carried out in an armchair at home."
+      },
+      {
+        "label": "B",
+        "content": "In all cases, someone has to act as a source of language data - an informant. Informants are (ideally) native speakers of a language, who provide utterances for analysis and other kinds of information about the language (e.g. translations, comments about correctness, or judgements on usage). Often, when studying their mother tongue, linguists act as their own informants, judging the ambiguity, acceptability, or other properties of utterances against their own intuitions. The convenience of this approach makes it widely used, and it is considered the norm in the generative approach to linguistics. But a linguist's personal judgements are often uncertain, or disagree with the judgements of other linguists, at which point recourse is needed to more objective methods of enquiry, using non-linguists as informants. The latter procedure is unavoidable when working on foreign languages, or child speech."
+      },
+      {
+        "label": "C",
+        "content": "Many factors must be considered when selecting informants - whether one is working with single speakers (a common situation when languages have not been described before), two people interacting, small groups or large-scale samples. Age, sex, social background and other aspects of identity are important, as these factors are known to influence the kind of language used. The topic of conversation and the characteristics of the social setting (e.g. the level of formality) are also highly relevant, as are the personal qualities of the informants (e.g. their fluency and consistency). For larger studies, scrupulous attention has been paid to the sampling theory employed, and in all cases, decisions have to be made about the best investigative techniques to use."
+      },
+      {
+        "label": "D",
+        "content": "Today, researchers often tape-record informants. This enables the linguist's claims about the language to be checked, and provides a way of making those claims more accurate ('difficult' pieces of speech can be listened to repeatedly). But obtaining naturalistic, good-quality data is never easy. People talk abnormally when they know they are being recorded, and sound quality can be poor. A variety of tape-recording procedures have thus been devised to minimise the 'observer's paradox' (how to observe the way people behave when they are not being observed). Some recordings are made without the speakers being aware of the fact - a procedure that obtains very natural data, though ethical objections must be anticipated. Alternatively, attempts can be made to make the speaker forget about the recording, such as keeping the tape recorder out of sight, or using radio microphones. A useful technique is to introduce a topic that quickly involves the speaker, and stimulates a natural language style (e.g. asking older informants about how times have changed in their locality)."
+      },
+      {
+        "label": "E",
+        "content": "An audio tape recording does not solve all the linguist's problems, however. Speech is often unclear and ambiguous. Where possible, therefore, the recording has to be supplemented by the observer's written comments on the non-verbal behaviour of the participants, and about the context in general. A facial expression, for example, can dramatically alter the meaning of what is said. Video recordings avoid these problems to a large extent, but even they have limitations (the camera cannot be everywhere), and transcriptions always benefit from any additional commentary provided by an observer."
+      },
+      {
+        "label": "F",
+        "content": "Linguists also make great use of structured sessions, in which they systematically ask their informants for utterances that describe certain actions, objects or behaviours. With a bilingual informant, or through use of an interpreter, it is possible to use translation techniques (‘How do you say table in your language?'). A large number of points can be covered in a short time, using interview worksheets and questionnaires. Often, the researcher wishes to obtain information about just a single variable, in which case a restricted set of questions may be used: a particular feature of pronunciation, for example, can be elicited by asking the informant to say a restricted set of words. There are also several direct methods of elicitation, such as asking informants to fill in the blanks in a substitution frame (e.g. I_see a car), or feeding them the wrong stimulus for correction ('Is it possible to say / no can see?')."
+      },
+      {
+        "label": "G",
+        "content": "A representative sample of language, compiled for the purpose of linguistic analysis, is known as a corpus. A corpus enables the linguist to make unbiased statements about frequency of usage, and it provides accessible data for the use of different researchers. Its range and size are variable. Some corpora attempt to cover the language as a whole, taking extracts from many kinds of text; others are extremely selective, providing a collection of material that deals only with a particular linguistic feature. The size of the corpus depends on practical factors, such as the time available to collect, process and store the data: it can take up to several hours to provide an accurate transcription of a few minutes of speech. Sometimes a small sample of data will be enough to decide a linguistic hypothesis; by contrast, corpora in major research projects can total millions of words. An important principle is that all corpora, whatever their size, are inevitably limited in their coverage, and always need to be supplemented by data derived from the intuitions of native speakers of the language, through either introspection or experimentation."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has seven paragraphs labelled A-G. Which paragraph contains the following information? Write the correct letter A-G in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "the effect of recording on the way people talk",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "the importance of taking notes on body language",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "the fact that language is influenced by social situation",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "how informants can be helped to be less self-conscious",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "various methods that can be used to generate specific data",
+            "answer": "F",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 6-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "METHODS OF OBTAINING LINGUISTIC DATA",
+            "answer": "(the) linguist (acts)// (the)",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "ADVANTAGES",
+            "answer": "foreign",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "DISADVANT",
+            "answer": "the poor quality",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "recording an informant",
+            "answer": "non-verbal",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "videoing an informant",
+            "answer": "camera// video",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary of paragraph G below. Choose NO MORE THAN THREE WORDS from the passage for each answer. Write your answers in boxes 11-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "A linguist can use a corpus to comment objectively on",
+            "answer": "frequency of",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Some corpora include a wide range of language while others are used to focus on a",
+            "answer": "particular linguistic",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The length of time the process takes will affect the",
+            "answer": "size linguists (act)",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "No corpus can ever cover the whole language and so linguists often find themselves relying on the additional information that can be gained from the",
+            "answer": "intuitions languages",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:55:07.594934"
+}

@@ -1,0 +1,507 @@
+{
+  "id": "ielts-r-0325",
+  "slug": "organic-food-why",
+  "title": "Organic food: why?",
+  "page_range": [
+    1644,
+    1648
+  ],
+  "raw_answer_key": {
+    "1": "v",
+    "7": "B OR E IN EITHER ORDER",
+    "2": "i",
+    "8": "B OR E IN EITHER ORDER",
+    "3": "iii",
+    "9": "B OR D IN EITHER ORDER",
+    "4": "ix",
+    "10": "B OR D IN EITHER ORDER",
+    "5": "vii",
+    "11": "B OR E IN EITHER ORDER",
+    "6": "iv",
+    "12": "B OR E IN EITHER ORDER"
+  },
+  "content": {
+    "title": "Organic Food: Why?",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Europe is now the biggest market for organic food in the world, expanding by 25 percent a year over the past 10 years. So what is the attraction of organic food for some people? The really important thing is that organic sounds more ‘natural’. Eating organic is a way of defining oneself as natural, good, caring, different from the junk-food-scoffing masses. As one journalist puts it: It feels closer to the source, the beginning, the start of things.' The real desire is to be somehow close to the soil, to Mother Nature."
+      },
+      {
+        "label": "B",
+        "content": "Unlike conventional farming, the organic approach means farming with natural, rather than man-made, fertilisers and pesticides. Techniques such as crop rotation improve soil quality and help organic farmers compensate for the absence of man-made chemicals. As a method of food production, organic is, however, inefficient in its use of labour and land; there are severe limits to how much food can be produced. Also, the environmental benefits of not using artificial fertiliser are tiny compared with the amount of carbon dioxide emitted by transporting food (a great deal of Britain’s organic produce is shipped in from other countries and transported from shop to home by car)."
+      },
+      {
+        "label": "C",
+        "content": "Organic farming is often claimed to be safer than conventional farming - for the environment and for consumers. Yet studies into organic farming worldwide continue to reject this claim. An extensive review by the UK Food Standards Agency found that there was no statistically significant difference between organic and conventional crops. Even where results indicated there was evidence of a difference, the reviewers found no sign that these differences would have any noticeable effect on health."
+      },
+      {
+        "label": "D",
+        "content": "The simplistic claim that organic food is more nutritious than conventional food was always likely to be misleading. Food is a natural product, and the health value of different foods will vary for a number of reasons, including freshness, the way the food is cooked, the type of soil it is grown in, the amount of sunlight and rain crops have received, and so on. Likewise, the flavour of a carrot has less to do with whether it was fertilised with manure or something out of a plastic sack than with the variety of carrot and how long ago it was dug up. The differences created by these things are likely to be greater than any differences brought about by using an organic or nonorganic system of production. Indeed, even some ‘organic’ farms are quite different from one another."
+      },
+      {
+        "label": "E",
+        "content": "The notion that organic food is safer than ‘normal’ food is also contradicted by the fact that many of our most common foods are full of natural toxins. Parsnips cause blisters on the skin of agricultural workers. Toasting bread creates carcinogens. As one research expert says: ‘People think that the more natural something is, the better it is for them. That is simply not the case. In fact, it is the opposite that is true: the closer a plant is to its natural state, the more likely it is that it will poison you. Naturally, many plants do not want to be eaten, so we have spent 10,000 years developing agriculture and breeding out harmful traits from crops.'"
+      },
+      {
+        "label": "F",
+        "content": "Yet educated Europeans are more scared of eating traces of a few, strictly regulated, man-made chemicals than they are of eating the ones that nature created directly. Surrounded by plentiful food, it’s not nature they worry about, but technology. Our obsessions with the ethics and safety of what we eat - concerns about antibiotics in animals, additives in food, GM crops and so on - are symptomatic of a highly technological society that has little faith in its ability to use this technology wisely. In this context, the less something is touched by the human hand, the healthier people assume it must be."
+      },
+      {
+        "label": "G",
+        "content": "Ultimately, the organic farming movement is an expensive luxury for shoppers in well-manicured Europe. For developing parts of the world, it is irrelevant. To European environmentalists, the fact that organic methods require more labour and land than conventional ones to get the same yields is a good thing; to a farmer in rural Africa, it is a disaster. Here, land tends to be so starved and crop yields so low that there simply is not enough organic matter to put back into the soil. Perhaps the focus should be on helping these countries to gain access to the most advanced farming techniques, rather than going back to basics."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "The reading passage has seven paragraphs, A-G. Choose the correct heading for paragraphs B-G from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "Research into whether organic food is better for us"
+              },
+              {
+                "label": "ii",
+                "text": "Adding up the cost of organic food"
+              },
+              {
+                "label": "iii",
+                "text": "The factors that can affect food quality"
+              },
+              {
+                "label": "iv",
+                "text": "The rich and poor see things differently"
+              },
+              {
+                "label": "v",
+                "text": "A description of organic farming"
+              },
+              {
+                "label": "vi",
+                "text": "Testing the taste of organic food"
+              },
+              {
+                "label": "vii",
+                "text": "Fear of science has created the organic trend"
+              },
+              {
+                "label": "viii",
+                "text": "The main reason for the popularity of organic food"
+              },
+              {
+                "label": "ix",
+                "text": "The need to remove hidden dangers from food"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Research into whether organic food is better for us"
+              },
+              {
+                "label": "ii",
+                "text": "Adding up the cost of organic food"
+              },
+              {
+                "label": "iii",
+                "text": "The factors that can affect food quality"
+              },
+              {
+                "label": "iv",
+                "text": "The rich and poor see things differently"
+              },
+              {
+                "label": "v",
+                "text": "A description of organic farming"
+              },
+              {
+                "label": "vi",
+                "text": "Testing the taste of organic food"
+              },
+              {
+                "label": "vii",
+                "text": "Fear of science has created the organic trend"
+              },
+              {
+                "label": "viii",
+                "text": "The main reason for the popularity of organic food"
+              },
+              {
+                "label": "ix",
+                "text": "The need to remove hidden dangers from food"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Research into whether organic food is better for us"
+              },
+              {
+                "label": "ii",
+                "text": "Adding up the cost of organic food"
+              },
+              {
+                "label": "iii",
+                "text": "The factors that can affect food quality"
+              },
+              {
+                "label": "iv",
+                "text": "The rich and poor see things differently"
+              },
+              {
+                "label": "v",
+                "text": "A description of organic farming"
+              },
+              {
+                "label": "vi",
+                "text": "Testing the taste of organic food"
+              },
+              {
+                "label": "vii",
+                "text": "Fear of science has created the organic trend"
+              },
+              {
+                "label": "viii",
+                "text": "The main reason for the popularity of organic food"
+              },
+              {
+                "label": "ix",
+                "text": "The need to remove hidden dangers from food"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "Research into whether organic food is better for us"
+              },
+              {
+                "label": "ii",
+                "text": "Adding up the cost of organic food"
+              },
+              {
+                "label": "iii",
+                "text": "The factors that can affect food quality"
+              },
+              {
+                "label": "iv",
+                "text": "The rich and poor see things differently"
+              },
+              {
+                "label": "v",
+                "text": "A description of organic farming"
+              },
+              {
+                "label": "vi",
+                "text": "Testing the taste of organic food"
+              },
+              {
+                "label": "vii",
+                "text": "Fear of science has created the organic trend"
+              },
+              {
+                "label": "viii",
+                "text": "The main reason for the popularity of organic food"
+              },
+              {
+                "label": "ix",
+                "text": "The need to remove hidden dangers from food"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph F",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Research into whether organic food is better for us"
+              },
+              {
+                "label": "ii",
+                "text": "Adding up the cost of organic food"
+              },
+              {
+                "label": "iii",
+                "text": "The factors that can affect food quality"
+              },
+              {
+                "label": "iv",
+                "text": "The rich and poor see things differently"
+              },
+              {
+                "label": "v",
+                "text": "A description of organic farming"
+              },
+              {
+                "label": "vi",
+                "text": "Testing the taste of organic food"
+              },
+              {
+                "label": "vii",
+                "text": "Fear of science has created the organic trend"
+              },
+              {
+                "label": "viii",
+                "text": "The main reason for the popularity of organic food"
+              },
+              {
+                "label": "ix",
+                "text": "The need to remove hidden dangers from food"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph G",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Research into whether organic food is better for us"
+              },
+              {
+                "label": "ii",
+                "text": "Adding up the cost of organic food"
+              },
+              {
+                "label": "iii",
+                "text": "The factors that can affect food quality"
+              },
+              {
+                "label": "iv",
+                "text": "The rich and poor see things differently"
+              },
+              {
+                "label": "v",
+                "text": "A description of organic farming"
+              },
+              {
+                "label": "vi",
+                "text": "Testing the taste of organic food"
+              },
+              {
+                "label": "vii",
+                "text": "Fear of science has created the organic trend"
+              },
+              {
+                "label": "viii",
+                "text": "The main reason for the popularity of organic food"
+              },
+              {
+                "label": "ix",
+                "text": "The need to remove hidden dangers from food"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which TWO points does the writer mention in connection with organic farming?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "",
+            "answer": "B OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "the occasional use of pesticides"
+              },
+              {
+                "label": "B",
+                "text": "using the same field for different crops"
+              },
+              {
+                "label": "C",
+                "text": "testing soil quality"
+              },
+              {
+                "label": "D",
+                "text": "reducing the number of farm workers"
+              },
+              {
+                "label": "E",
+                "text": "the production of greenhouse gases"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "",
+            "answer": "B OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "the occasional use of pesticides"
+              },
+              {
+                "label": "B",
+                "text": "using the same field for different crops"
+              },
+              {
+                "label": "C",
+                "text": "testing soil quality"
+              },
+              {
+                "label": "D",
+                "text": "reducing the number of farm workers"
+              },
+              {
+                "label": "E",
+                "text": "the production of greenhouse gases"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "According to the writer, which TWO factors affect the nutritional content of food?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "",
+            "answer": "B OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "who prepares the food"
+              },
+              {
+                "label": "B",
+                "text": "the weather conditions during growth"
+              },
+              {
+                "label": "C",
+                "text": "where the food has been stored"
+              },
+              {
+                "label": "D",
+                "text": "when the plants were removed from the earth"
+              },
+              {
+                "label": "E",
+                "text": "the type of farm the food was grown on"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "",
+            "answer": "B OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "who prepares the food"
+              },
+              {
+                "label": "B",
+                "text": "the weather conditions during growth"
+              },
+              {
+                "label": "C",
+                "text": "where the food has been stored"
+              },
+              {
+                "label": "D",
+                "text": "when the plants were removed from the earth"
+              },
+              {
+                "label": "E",
+                "text": "the type of farm the food was grown on"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which TWO negative aspects of organic farming does the writer mention?",
+        "questions": [
+          {
+            "number": 11,
+            "text": "",
+            "answer": "B OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Consumers complain about the extra cost."
+              },
+              {
+                "label": "B",
+                "text": "Organic food may make people ill."
+              },
+              {
+                "label": "C",
+                "text": "Farm workers have to be specially trained."
+              },
+              {
+                "label": "D",
+                "text": "It requires too much technological expertise."
+              },
+              {
+                "label": "E",
+                "text": "It is not possible in some countries."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "",
+            "answer": "B OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Consumers complain about the extra cost."
+              },
+              {
+                "label": "B",
+                "text": "Organic food may make people ill."
+              },
+              {
+                "label": "C",
+                "text": "Farm workers have to be specially trained."
+              },
+              {
+                "label": "D",
+                "text": "It requires too much technological expertise."
+              },
+              {
+                "label": "E",
+                "text": "It is not possible in some countries."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-26T15:54:42.281067"
+}

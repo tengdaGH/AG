@@ -1,0 +1,500 @@
+{
+  "id": "ielts-r-0174",
+  "slug": "fun-for-the-masses",
+  "title": "Fun for the Masses",
+  "page_range": [
+    884,
+    888
+  ],
+  "raw_answer_key": {
+    "1": "x",
+    "8": "income levels",
+    "2": "iv",
+    "9": "non-luxury spending",
+    "3": "i",
+    "10": "holiday time",
+    "4": "viii",
+    "11": "computer technology",
+    "5": "ix",
+    "12": "recreational activities",
+    "6": "vi",
+    "13": "D",
+    "7": "ii"
+  },
+  "content": {
+    "title": "Fun for the Masses",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Are you better off than you used to be? Even after six years of sustained economic growth, Americans worry about that question. Economists who plumb government income statistics agree that Americans’ incomes, as measured in inflation-adjusted dollars, have risen more slowly in the past two decades than in earlier times, and that some workers’ real incomes have actually fallen. They also agree that by almost any measure, income is distributed less equally than it used to be. Neither of those claims, however, sheds much light on whether living standards are rising or falling. This is because ‘living standard’ is a highly amorphous concept. Measuring how much people earn is relatively easy, at least compared with measuring how well they live."
+      },
+      {
+        "label": "B",
+        "content": "A recent paper by Dora Costa, an economist at the Massachusetts Institute of Technology, looks at the living-standards debate from an unusual direction. Rather than worrying about cash incomes, Ms Costa investigates Americans’ recreational habits over the past century. She finds that people of all income levels have steadily increased the amount of time and money they devote to having fun. The distribution of dollar incomes may have become more skewed in recent years, but leisure is more evenly spread than ever."
+      },
+      {
+        "label": "C",
+        "content": "Ms Costa bases her research on consumption surveys dating back as far as 1888. The industrial workers surveyed in that year spent, on average, three-quarters of their incomes on food, shelter and clothing. Less than 2% of the average family’s income was spent on leisure but that average hid large disparities. The share of a family’s budget that was spent on having fun rose sharply with its income: the lowest-income families in this working-class sample spent barely 1% of their budgets on recreation, while higher earners spent more than 3%. Only the latter group could afford such extravagances as theatre and concert performances, which were relatively much more expensive than they are today."
+      },
+      {
+        "label": "D",
+        "content": "Since those days, leisure has steadily become less of a luxury. By 1991, the average household needed to devote only 38% of its income to the basic necessities, and was able to spend 6% on recreation. Moreover, Ms Costa finds that the share of the family budget spent on leisure now rises much less sharply with income than it used to. At the beginning of this century a family’s recreational spending tended to rise by 20% for every 10% rise in income. By 1972-73, a 10% income gain led to roughly a 15% rise in recreational spending, and the increase fell to only 13% in 1991. What this implies is that Americans of all income levels are now able to spend much more of their money on having fun."
+      },
+      {
+        "label": "E",
+        "content": "One obvious cause is that real income overall has risen. If Americans in general are richer, their consumption of entertainment goods is less likely to be affected by changes in their income. But Ms Costa reckons that rising incomes are responsible for, at most, half of the changing structure of leisure spending. Much of the rest may be due to the fact that poorer Americans have more time off than they used to. In earlier years, low-wage workers faced extremely long hours and enjoyed few days off. But since the 1940s, the less skilled (and lower paid) have worked ever-fewer hours, giving them more time to enjoy leisure pursuits."
+      },
+      {
+        "label": "F",
+        "content": "Conveniently, Americans have had an increasing number of recreational possibilities to choose from. Public investment in sports complexes, parks and golf courses has made leisure cheaper and more accessible. So too has technological innovation. Where listening to music used to imply paying for concert tickets or owning a piano, the invention of the radio made music accessible to everyone and virtually free. Compact discs, videos and other paraphernalia have widened the choice even further."
+      },
+      {
+        "label": "G",
+        "content": "At a time when many economists are pointing accusing fingers at technology for causing a widening inequality in the wages of skilled and unskilled workers, Ms Costa’s research gives it a much more egalitarian face. High earners have always been able to afford amusement. By lowering the price of entertainment, technology has improved the standard of living of those in the lower end of the income distribution. The implication of her results is that once recreation is taken into account, the differences in Americans’ living standards may not have widened so much after all."
+      },
+      {
+        "label": "H",
+        "content": "These findings are not water-tight. Ms Costa’s results depend heavily upon what exactly is classed as a recreational expenditure. Reading is an example. This was the most popular leisure activity for working men in 1888, accounting for one-quarter of all recreational spending. In 1991, reading took only 16% of the entertainment dollar. But the American Department of Labour’s expenditure surveys do not distinguish between the purchase of a mathematics tome and that of a best-selling novel. Both are classified as recreational expenses. If more money is being spent on textbooks and professional books now than in earlier years, this could make ‘recreational’ spending appear stronger than it really is."
+      },
+      {
+        "label": "I",
+        "content": "Although Ms Costa tries to address this problem by showing that her results still hold even when tricky categories, such as books, are removed from the sample, the difficulty is not entirely eliminated. Nonetheless, her broad conclusion seems fair. Recreation is more available to all and less dependent on income. On this measure at least, inequality of living standards has fallen."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "From the list of headings below, choose the most suitable heading for each paragraph (A-I). Write the appropriate numbers (i-xi) in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "Wide differences in leisure activities according to income"
+              },
+              {
+                "label": "ii",
+                "text": "Possible inconsistencies in Ms Costa’s data"
+              },
+              {
+                "label": "iii",
+                "text": "More personal income and time influence leisure activities"
+              },
+              {
+                "label": "iv",
+                "text": "Investigating the lifestyle problem from a new angle"
+              },
+              {
+                "label": "v",
+                "text": "Increased incomes fail to benefit everyone"
+              },
+              {
+                "label": "vi",
+                "text": "A controversial development offers cheaper leisure activities"
+              },
+              {
+                "label": "vii",
+                "text": "Technology heightens differences in living standards"
+              },
+              {
+                "label": "viii",
+                "text": "The gap between income and leisure spending closes"
+              },
+              {
+                "label": "ix",
+                "text": "Two factors have led to a broader range of options for all"
+              },
+              {
+                "label": "x",
+                "text": "Have people’s lifestyles improved?"
+              },
+              {
+                "label": "xi",
+                "text": "High earners spend less on leisure"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Wide differences in leisure activities according to income"
+              },
+              {
+                "label": "ii",
+                "text": "Possible inconsistencies in Ms Costa’s data"
+              },
+              {
+                "label": "iii",
+                "text": "More personal income and time influence leisure activities"
+              },
+              {
+                "label": "iv",
+                "text": "Investigating the lifestyle problem from a new angle"
+              },
+              {
+                "label": "v",
+                "text": "Increased incomes fail to benefit everyone"
+              },
+              {
+                "label": "vi",
+                "text": "A controversial development offers cheaper leisure activities"
+              },
+              {
+                "label": "vii",
+                "text": "Technology heightens differences in living standards"
+              },
+              {
+                "label": "viii",
+                "text": "The gap between income and leisure spending closes"
+              },
+              {
+                "label": "ix",
+                "text": "Two factors have led to a broader range of options for all"
+              },
+              {
+                "label": "x",
+                "text": "Have people’s lifestyles improved?"
+              },
+              {
+                "label": "xi",
+                "text": "High earners spend less on leisure"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Wide differences in leisure activities according to income"
+              },
+              {
+                "label": "ii",
+                "text": "Possible inconsistencies in Ms Costa’s data"
+              },
+              {
+                "label": "iii",
+                "text": "More personal income and time influence leisure activities"
+              },
+              {
+                "label": "iv",
+                "text": "Investigating the lifestyle problem from a new angle"
+              },
+              {
+                "label": "v",
+                "text": "Increased incomes fail to benefit everyone"
+              },
+              {
+                "label": "vi",
+                "text": "A controversial development offers cheaper leisure activities"
+              },
+              {
+                "label": "vii",
+                "text": "Technology heightens differences in living standards"
+              },
+              {
+                "label": "viii",
+                "text": "The gap between income and leisure spending closes"
+              },
+              {
+                "label": "ix",
+                "text": "Two factors have led to a broader range of options for all"
+              },
+              {
+                "label": "x",
+                "text": "Have people’s lifestyles improved?"
+              },
+              {
+                "label": "xi",
+                "text": "High earners spend less on leisure"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Wide differences in leisure activities according to income"
+              },
+              {
+                "label": "ii",
+                "text": "Possible inconsistencies in Ms Costa’s data"
+              },
+              {
+                "label": "iii",
+                "text": "More personal income and time influence leisure activities"
+              },
+              {
+                "label": "iv",
+                "text": "Investigating the lifestyle problem from a new angle"
+              },
+              {
+                "label": "v",
+                "text": "Increased incomes fail to benefit everyone"
+              },
+              {
+                "label": "vi",
+                "text": "A controversial development offers cheaper leisure activities"
+              },
+              {
+                "label": "vii",
+                "text": "Technology heightens differences in living standards"
+              },
+              {
+                "label": "viii",
+                "text": "The gap between income and leisure spending closes"
+              },
+              {
+                "label": "ix",
+                "text": "Two factors have led to a broader range of options for all"
+              },
+              {
+                "label": "x",
+                "text": "Have people’s lifestyles improved?"
+              },
+              {
+                "label": "xi",
+                "text": "High earners spend less on leisure"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph F",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "Wide differences in leisure activities according to income"
+              },
+              {
+                "label": "ii",
+                "text": "Possible inconsistencies in Ms Costa’s data"
+              },
+              {
+                "label": "iii",
+                "text": "More personal income and time influence leisure activities"
+              },
+              {
+                "label": "iv",
+                "text": "Investigating the lifestyle problem from a new angle"
+              },
+              {
+                "label": "v",
+                "text": "Increased incomes fail to benefit everyone"
+              },
+              {
+                "label": "vi",
+                "text": "A controversial development offers cheaper leisure activities"
+              },
+              {
+                "label": "vii",
+                "text": "Technology heightens differences in living standards"
+              },
+              {
+                "label": "viii",
+                "text": "The gap between income and leisure spending closes"
+              },
+              {
+                "label": "ix",
+                "text": "Two factors have led to a broader range of options for all"
+              },
+              {
+                "label": "x",
+                "text": "Have people’s lifestyles improved?"
+              },
+              {
+                "label": "xi",
+                "text": "High earners spend less on leisure"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph G",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Wide differences in leisure activities according to income"
+              },
+              {
+                "label": "ii",
+                "text": "Possible inconsistencies in Ms Costa’s data"
+              },
+              {
+                "label": "iii",
+                "text": "More personal income and time influence leisure activities"
+              },
+              {
+                "label": "iv",
+                "text": "Investigating the lifestyle problem from a new angle"
+              },
+              {
+                "label": "v",
+                "text": "Increased incomes fail to benefit everyone"
+              },
+              {
+                "label": "vi",
+                "text": "A controversial development offers cheaper leisure activities"
+              },
+              {
+                "label": "vii",
+                "text": "Technology heightens differences in living standards"
+              },
+              {
+                "label": "viii",
+                "text": "The gap between income and leisure spending closes"
+              },
+              {
+                "label": "ix",
+                "text": "Two factors have led to a broader range of options for all"
+              },
+              {
+                "label": "x",
+                "text": "Have people’s lifestyles improved?"
+              },
+              {
+                "label": "xi",
+                "text": "High earners spend less on leisure"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Paragraph H",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Wide differences in leisure activities according to income"
+              },
+              {
+                "label": "ii",
+                "text": "Possible inconsistencies in Ms Costa’s data"
+              },
+              {
+                "label": "iii",
+                "text": "More personal income and time influence leisure activities"
+              },
+              {
+                "label": "iv",
+                "text": "Investigating the lifestyle problem from a new angle"
+              },
+              {
+                "label": "v",
+                "text": "Increased incomes fail to benefit everyone"
+              },
+              {
+                "label": "vi",
+                "text": "A controversial development offers cheaper leisure activities"
+              },
+              {
+                "label": "vii",
+                "text": "Technology heightens differences in living standards"
+              },
+              {
+                "label": "viii",
+                "text": "The gap between income and leisure spending closes"
+              },
+              {
+                "label": "ix",
+                "text": "Two factors have led to a broader range of options for all"
+              },
+              {
+                "label": "x",
+                "text": "Have people’s lifestyles improved?"
+              },
+              {
+                "label": "xi",
+                "text": "High earners spend less on leisure"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each of the following statements (Questions 8-12) using words from the box.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "It is easier to determine 8..................... than living standards.",
+            "answer": "income levels",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "A decrease in 9..................... during the 20th century led to a bigger investment in leisure.",
+            "answer": "non-luxury spending",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "According to Ms Costa, how much Americans spend on leisure has been directly affected by salaries and 10.....................",
+            "answer": "holiday time",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The writer notes both positive and negative influences of 11.....................",
+            "answer": "computer technology",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "According to the writer, the way Ms Costa defined 12..................... may have been misleading.",
+            "answer": "recreational activities",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letter A-D and write it in box 13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "The writer thinks that Ms Costa",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "provides strong evidence to support her theory."
+              },
+              {
+                "label": "B",
+                "text": "displays serious flaws in her research methods."
+              },
+              {
+                "label": "C",
+                "text": "attempts to answer too many questions."
+              },
+              {
+                "label": "D",
+                "text": "has a useful overall point to make."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T15:47:17.403465"
+}

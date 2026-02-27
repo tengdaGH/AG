@@ -1,0 +1,351 @@
+{
+  "id": "ielts-r-0358",
+  "slug": "reading-in-a-whole-new-way",
+  "title": "Reading in a whole new way",
+  "page_range": [
+    1822,
+    1826
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "YES",
+    "2": "D",
+    "9": "NO",
+    "3": "C",
+    "10": "NO",
+    "4": "D",
+    "11": "D",
+    "5": "A",
+    "12": "F",
+    "6": "NOT GIVEN",
+    "13": "A",
+    "7": "YES",
+    "14": "E"
+  },
+  "content": {
+    "title": "Reading in a Whole New Way",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "As technology improves, how does the act of reading change? Reading and writing, like all technologies, are constantly changing. In ancient times, authors often dictated their books. Dictation sounded like an uninterrupted series of words, so scribes wrote these down in one long continuous string, just as they occur in speech. For this reason, text was written without spaces between words until the 11th century. This continuous script made books hard to read, so only a few people were accomplished at reading them aloud to others. Being able to read silently to yourself was considered an amazing talent; writing was an even rarer skill. In fact, in 15th-century Europe, only one in 20 adult males could write."
+      },
+      {
+        "content": "After Gutenberg’s invention of the printing press in about 1440, mass-produced books changed the way people read and wrote. The technology of printing increased the number of words available, and more types of media, such as newspapers and magazines, broadened what was written about. Authors no longer had to produce scholarly works, as was common until then, but could write, for example, inexpensive, heart-rending love stories or publish autobiographies, even if they were unknown."
+      },
+      {
+        "content": "In time, the power of the written word gave birth to the idea of authority and expertise. Laws were compiled into official documents, contracts were written down and nothing was valid unless it was in this form. Painting, music, architecture, dance were all important, but the heartbeat of many cultures was the turning pages of a book. By the early 19th century, public libraries had been built in many cities."
+      },
+      {
+        "content": "Today, words are migrating from paper to computers, phones, laptops and game consoles. Some 4.5 billion digital screens illuminate our lives. Letters are no longer fixed in black ink on paper, but flitter on a glass surface in a rainbow of colors as fast as our eyes can blink. Screens fill our pockets, briefcases, cars, living-room walls and the sides of buildings. They sit in front of us when we work - regardless of what we do. And of course, these newly ubiquitous screens have changed how we read and write."
+      },
+      {
+        "content": "The first screens that overtook culture, several decades ago - the big, fat, warm tubes of television - reduced the time we spent reading to such an extent that it seemed as if reading and writing were over. Educators and parents worried deeply that the TV generation would be unable to write. But the interconnected, cool, thin displays of computer screens launched an epidemic of writing that continues to swell. As a consequence, the amount of time people spend reading has almost tripled since 1980. By 2008, the World Wide Web contained more than a trillion pages, and that total grows rapidly every day. But it is not book reading or newspaper reading, it is screen reading. Screens are always on, and, unlike books, we never stop staring at them. This new platform is very visual, and it is gradually merging words with moving images. You might think of this new medium as books we watch, or television we read. We also use screens to present data, and this encourages numeracy: visualising data and reading charts, looking at pictures and symbols are all part of this new literacy."
+      },
+      {
+        "content": "Screens engage our bodies, too. The most we may do while reading a book is to flip the pages or turn over a corner, but when we use a screen, we interact with what we see. In the futuristic movie Minority Report, the main character stands in front of a screen and hunts through huge amounts of information as if conducting an orchestra. Just as it seemed strange five centuries ago to see someone read silently, in the future it will seem strange to read without moving your body."
+      },
+      {
+        "content": "In addition, screens encourage more utilitarian (practical) thinking. A new idea or unfamiliar fact will cause a reflex to do something: to research a word, to question your screen ‘friends’ for their opinions or to find alternative views. Book reading strengthened our analytical skills, encouraging us to think carefully about how we feel. Screen reading, on the other hand, encourages quick responses, associating this idea with another, equipping us to deal with the thousands of new thoughts expressed every day. For example, we review a movie for our friends while we watch it; we read the owner’s manual of a device we see in a shop before we purchase it, rather than after we get home and discover that it can’t do what we need it to do."
+      },
+      {
+        "content": "Screens provoke action instead of persuasion. Propaganda is less effective, and false information is hard to deliver in a world of screens because while misinformation travels fast, corrections do, too. On a screen, it is often easier to correct a falsehood than to tell one in the first place. Wikipedia works so well because it removes an error in a single click. In books, we find a revealed truth; on the screen, we assemble our own truth from pieces. What is more, a screen can reveal the inner nature of things. Waving the camera eye of a smartphone over the bar code of a manufactured product reveals its price, origins and even relevant comments by other owners. It is as if the screen displays the object’s intangible essence. A popular children’s toy (Webkinz) instills stuffed animals with a virtual character that is ‘hidden’ inside; a screen enables children to play with this inner character online in a virtual world."
+      },
+      {
+        "content": "In the near future, screens will be the first place we’ll look for answers, for friends, for news, for meaning, for our sense of who we are and who we can be."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What does the writer say about dictation?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "It helped people learn to read."
+              },
+              {
+                "label": "B",
+                "text": "It affected the way people wrote."
+              },
+              {
+                "label": "C",
+                "text": "It was not used until the 11th century."
+              },
+              {
+                "label": "D",
+                "text": "It was used mainly for correspondence."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "According to the writer, what changed after the invention of the printing press?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Romance became more popular than serious fiction."
+              },
+              {
+                "label": "B",
+                "text": "Newspapers became more popular than books."
+              },
+              {
+                "label": "C",
+                "text": "Readers asked for more autobiographies."
+              },
+              {
+                "label": "D",
+                "text": "Authors had a wider choice of topics."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "In the third paragraph, the writer focuses on the",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "legal concerns of authors."
+              },
+              {
+                "label": "B",
+                "text": "rapid changes in public libraries."
+              },
+              {
+                "label": "C",
+                "text": "growing status of the written word."
+              },
+              {
+                "label": "D",
+                "text": "recognition of the book as an art form."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What does the writer say about screens in the fourth paragraph?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "They are hard to read."
+              },
+              {
+                "label": "B",
+                "text": "They are bad for our health."
+              },
+              {
+                "label": "C",
+                "text": "They can improve our work."
+              },
+              {
+                "label": "D",
+                "text": "They can be found everywhere."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "According to the writer, computers differ from television because they",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "encourage more reading."
+              },
+              {
+                "label": "B",
+                "text": "attract more criticism."
+              },
+              {
+                "label": "C",
+                "text": "take up more of our leisure time."
+              },
+              {
+                "label": "D",
+                "text": "include more educational content."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Screen reading has reduced the number of books and newspapers people read.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Screen literacy requires a wider range of visual skills than book-based literacy.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Screen reading is more active than book reading.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Screens and books produce similar thought patterns in their readers.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "People are easily persuaded to believe lies on the screen.",
+            "answer": "NO",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending, A-F, below.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "The film Minority Report illustrates",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "the accuracy of its information."
+              },
+              {
+                "label": "B",
+                "text": "people’s ability to concentrate."
+              },
+              {
+                "label": "C",
+                "text": "the global use of the Internet."
+              },
+              {
+                "label": "D",
+                "text": "how people behave physically when they read screens."
+              },
+              {
+                "label": "E",
+                "text": "the screen’s ability to make an object seem real."
+              },
+              {
+                "label": "F",
+                "text": "how rapidly opinions can be communicated."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Our behaviour when we watch a film shows",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "the accuracy of its information."
+              },
+              {
+                "label": "B",
+                "text": "people’s ability to concentrate."
+              },
+              {
+                "label": "C",
+                "text": "the global use of the Internet."
+              },
+              {
+                "label": "D",
+                "text": "how people behave physically when they read screens."
+              },
+              {
+                "label": "E",
+                "text": "the screen’s ability to make an object seem real."
+              },
+              {
+                "label": "F",
+                "text": "how rapidly opinions can be communicated."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Wikipedia’s success relies on",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the accuracy of its information."
+              },
+              {
+                "label": "B",
+                "text": "people’s ability to concentrate."
+              },
+              {
+                "label": "C",
+                "text": "the global use of the Internet."
+              },
+              {
+                "label": "D",
+                "text": "how people behave physically when they read screens."
+              },
+              {
+                "label": "E",
+                "text": "the screen’s ability to make an object seem real."
+              },
+              {
+                "label": "F",
+                "text": "how rapidly opinions can be communicated."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Webkinz is an example of",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "the accuracy of its information."
+              },
+              {
+                "label": "B",
+                "text": "people’s ability to concentrate."
+              },
+              {
+                "label": "C",
+                "text": "the global use of the Internet."
+              },
+              {
+                "label": "D",
+                "text": "how people behave physically when they read screens."
+              },
+              {
+                "label": "E",
+                "text": "the screen’s ability to make an object seem real."
+              },
+              {
+                "label": "F",
+                "text": "how rapidly opinions can be communicated."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:10:59.715411"
+}

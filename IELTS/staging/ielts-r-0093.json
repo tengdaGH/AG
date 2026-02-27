@@ -1,0 +1,519 @@
+{
+  "id": "ielts-r-0093",
+  "slug": "childrens-literature (1)",
+  "title": "Children’s literature",
+  "page_range": [
+    474,
+    482
+  ],
+  "raw_answer_key": {
+    "1": "vi",
+    "8": "NOT GIVEN",
+    "2": "x",
+    "9": "NO",
+    "3": "iii",
+    "10": "YES",
+    "4": "viii",
+    "11": "NO",
+    "5": "i",
+    "12": "YES",
+    "6": "iv",
+    "13": "NOT GIVEN",
+    "7": "ix"
+  },
+  "content": {
+    "title": "Children’s literature",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "I am sometimes asked why anyone who is not a teacher or a librarian or the parent of little kids should concern herself with children's books and folklore. I know the standard answers: that many famous writers have written for children, and that the great children's books are also great literature; that these books and tales are an important source of archetype and symbol, and that they can help us to understand the structure and functions of the novel."
+      },
+      {
+        "label": "B",
+        "content": "All this is true. But I think we should also take children's literature seriously because it is sometimes subversive: because its values are not always those of the conventional adult world. Of course, in a sense much great literature is subversive, since its very existence implies that what matters is art, imagination and truth. In what we call the real world, what usually counts is money, power and public success."
+      },
+      {
+        "label": "C",
+        "content": "The great subversive works of children's literature suggest that there are other views of human life besides those of the shopping mall and the corporation. They mock current assumptions and express the imaginative, unconventional, noncommercial view of the world in its simplest and purest form. They appeal to the imaginative, questioning, rebellious child within all of us, renew our instinctive energy, and act as a force for change. This is why such literature is worthy of our attention and will endure long after more conventional tales have been forgotten."
+      },
+      {
+        "label": "D",
+        "content": "An interesting question is what - besides intention - makes a particular story a 'children's book'? With the exception of picture books for toddlers, these works are not necessarily shorter or simpler than so-called adult fiction, and they are surely not less well written. The heroes and heroines of these tales, it is true, are often children: but then so are the protagonists of Henry James's What Maisie Knew and Toni Morrison's The Bluest Eye. Yet the barrier between children's books and adult fiction remains; editors, critics and readers seem to have little trouble in assigning a given work to one category or the other."
+      },
+      {
+        "label": "E",
+        "content": "In classic children's fiction a pastoral convention is maintained. It is assumed that the world of childhood is simpler and more natural than that of adults, and that children, though they may have faults, are essentially good or at least capable of becoming so. The transformation of selfish, whiny, disagreeable Mary and hysterical, demanding Colin in Frances Hodgson Burnett's The Secret Garden is a paradigm. Of course, there are often unpleasant minor juvenile characters who give the protagonist a lot of trouble and are defeated or evaded rather than reeducated. But on occasion even the angry bully and the lying sneak can be reformed and forgiven. Richard Hughes's A High Wind in Jamaica, though most of its characters are children, never appears on lists of recommended juvenile fiction; not so much because of the elaborations of its diction (which is no more complex than that of, say, Treasure Island), but because in it children are irretrievably damaged and corrupted."
+      },
+      {
+        "label": "F",
+        "content": "Adults in most children's books, on the other hand, are usually stuck with their characters and incapable of alteration or growth. If they are really unpleasant, the only thing that can rescue them is the natural goodness of a child. Here again, Mrs. Burnett provides the classic example, in Little Lord Fauntleroy. (Scrooge's somewhat similar change of heart in Dickens's A Christmas Carol, however, is due mainly to regret for his past and terror of the future. This is one of the things that makes the book a family rather than a juvenile romance; another is the helpless passivity of the principal child character, Tiny Tim.)."
+      },
+      {
+        "label": "G",
+        "content": "Of the three principal preoccupations of adult fiction - sex, money and death - the first is absent from classic children's literature and the other two either absent or much muted. Money is a motive in children's literature, in the sense that many stories deal with a search for treasure of some sort. These quests, unlike real-life ones, are almost always successful, though occasionally what is found in the end is some form of family happiness, which is declared by the author and the characters to be a 'real treasure'. Simple economic survival, however, is almost never the problem; what is sought, rather, is a magical (sometimes literally magical) surplus of wealth. Death, which was a common theme in nineteenth-century fiction for children, was almost banished during the first half of the twentieth century. Since then it has begun to reappear; the breakthrough book was E.B. White's Charlotte's Web. Today not only animals but people die, notably in the sort of books that get awards and are recommended by librarians and psychologists for children who have lost a relative. But even today the characters who die tend to be of another generation; the protagonist and his or her friends survive. Though there are some interesting exceptions, even the most subversive of contemporary children's books usually follow these conventions. They portray an ideal world of perfectible beings, free of the necessity for survival."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for each paragraph from the list of headings below. Write the correct numbers i-x in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Optimistic beliefs held by the writers of children’s literature"
+              },
+              {
+                "label": "ii",
+                "text": "The attitudes of certain adults towards children’s literature"
+              },
+              {
+                "label": "iii",
+                "text": "The attraction of children’s literature"
+              },
+              {
+                "label": "iv",
+                "text": "A contrast that categorises a book as children’s literature"
+              },
+              {
+                "label": "v",
+                "text": "A false assumption made about children’s literature"
+              },
+              {
+                "label": "vi",
+                "text": "The conventional view of children’s literature"
+              },
+              {
+                "label": "vii",
+                "text": "Some good and bad features of children’s literature"
+              },
+              {
+                "label": "viii",
+                "text": "Classifying a book as children’s literature"
+              },
+              {
+                "label": "ix",
+                "text": "The treatment of various themes in children’s literature"
+              },
+              {
+                "label": "x",
+                "text": "Another way of looking at children’s literature"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "Optimistic beliefs held by the writers of children’s literature"
+              },
+              {
+                "label": "ii",
+                "text": "The attitudes of certain adults towards children’s literature"
+              },
+              {
+                "label": "iii",
+                "text": "The attraction of children’s literature"
+              },
+              {
+                "label": "iv",
+                "text": "A contrast that categorises a book as children’s literature"
+              },
+              {
+                "label": "v",
+                "text": "A false assumption made about children’s literature"
+              },
+              {
+                "label": "vi",
+                "text": "The conventional view of children’s literature"
+              },
+              {
+                "label": "vii",
+                "text": "Some good and bad features of children’s literature"
+              },
+              {
+                "label": "viii",
+                "text": "Classifying a book as children’s literature"
+              },
+              {
+                "label": "ix",
+                "text": "The treatment of various themes in children’s literature"
+              },
+              {
+                "label": "x",
+                "text": "Another way of looking at children’s literature"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Optimistic beliefs held by the writers of children’s literature"
+              },
+              {
+                "label": "ii",
+                "text": "The attitudes of certain adults towards children’s literature"
+              },
+              {
+                "label": "iii",
+                "text": "The attraction of children’s literature"
+              },
+              {
+                "label": "iv",
+                "text": "A contrast that categorises a book as children’s literature"
+              },
+              {
+                "label": "v",
+                "text": "A false assumption made about children’s literature"
+              },
+              {
+                "label": "vi",
+                "text": "The conventional view of children’s literature"
+              },
+              {
+                "label": "vii",
+                "text": "Some good and bad features of children’s literature"
+              },
+              {
+                "label": "viii",
+                "text": "Classifying a book as children’s literature"
+              },
+              {
+                "label": "ix",
+                "text": "The treatment of various themes in children’s literature"
+              },
+              {
+                "label": "x",
+                "text": "Another way of looking at children’s literature"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Optimistic beliefs held by the writers of children’s literature"
+              },
+              {
+                "label": "ii",
+                "text": "The attitudes of certain adults towards children’s literature"
+              },
+              {
+                "label": "iii",
+                "text": "The attraction of children’s literature"
+              },
+              {
+                "label": "iv",
+                "text": "A contrast that categorises a book as children’s literature"
+              },
+              {
+                "label": "v",
+                "text": "A false assumption made about children’s literature"
+              },
+              {
+                "label": "vi",
+                "text": "The conventional view of children’s literature"
+              },
+              {
+                "label": "vii",
+                "text": "Some good and bad features of children’s literature"
+              },
+              {
+                "label": "viii",
+                "text": "Classifying a book as children’s literature"
+              },
+              {
+                "label": "ix",
+                "text": "The treatment of various themes in children’s literature"
+              },
+              {
+                "label": "x",
+                "text": "Another way of looking at children’s literature"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Optimistic beliefs held by the writers of children’s literature"
+              },
+              {
+                "label": "ii",
+                "text": "The attitudes of certain adults towards children’s literature"
+              },
+              {
+                "label": "iii",
+                "text": "The attraction of children’s literature"
+              },
+              {
+                "label": "iv",
+                "text": "A contrast that categorises a book as children’s literature"
+              },
+              {
+                "label": "v",
+                "text": "A false assumption made about children’s literature"
+              },
+              {
+                "label": "vi",
+                "text": "The conventional view of children’s literature"
+              },
+              {
+                "label": "vii",
+                "text": "Some good and bad features of children’s literature"
+              },
+              {
+                "label": "viii",
+                "text": "Classifying a book as children’s literature"
+              },
+              {
+                "label": "ix",
+                "text": "The treatment of various themes in children’s literature"
+              },
+              {
+                "label": "x",
+                "text": "Another way of looking at children’s literature"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Optimistic beliefs held by the writers of children’s literature"
+              },
+              {
+                "label": "ii",
+                "text": "The attitudes of certain adults towards children’s literature"
+              },
+              {
+                "label": "iii",
+                "text": "The attraction of children’s literature"
+              },
+              {
+                "label": "iv",
+                "text": "A contrast that categorises a book as children’s literature"
+              },
+              {
+                "label": "v",
+                "text": "A false assumption made about children’s literature"
+              },
+              {
+                "label": "vi",
+                "text": "The conventional view of children’s literature"
+              },
+              {
+                "label": "vii",
+                "text": "Some good and bad features of children’s literature"
+              },
+              {
+                "label": "viii",
+                "text": "Classifying a book as children’s literature"
+              },
+              {
+                "label": "ix",
+                "text": "The treatment of various themes in children’s literature"
+              },
+              {
+                "label": "x",
+                "text": "Another way of looking at children’s literature"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Paragraph G",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "Optimistic beliefs held by the writers of children’s literature"
+              },
+              {
+                "label": "ii",
+                "text": "The attitudes of certain adults towards children’s literature"
+              },
+              {
+                "label": "iii",
+                "text": "The attraction of children’s literature"
+              },
+              {
+                "label": "iv",
+                "text": "A contrast that categorises a book as children’s literature"
+              },
+              {
+                "label": "v",
+                "text": "A false assumption made about children’s literature"
+              },
+              {
+                "label": "vi",
+                "text": "The conventional view of children’s literature"
+              },
+              {
+                "label": "vii",
+                "text": "Some good and bad features of children’s literature"
+              },
+              {
+                "label": "viii",
+                "text": "Classifying a book as children’s literature"
+              },
+              {
+                "label": "ix",
+                "text": "The treatment of various themes in children’s literature"
+              },
+              {
+                "label": "x",
+                "text": "Another way of looking at children’s literature"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Adults often fail to recognise the subversive elements in books their children read.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "In publishing, the definition of certain genres has become inconsistent.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Characters in The Secret Garden are a good example of the norm in children’s literature.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Despite the language used in A High Wind in Jamaica, it should be considered a children’s book.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The character of Tiny Tim contrasts with that of the child in Little Lord Fauntleroy.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "A more realistic view of money should be given in children’s books.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T03:34:49.979977"
+}

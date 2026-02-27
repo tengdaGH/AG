@@ -1,0 +1,420 @@
+{
+  "id": "ielts-r-0435",
+  "slug": "the-beautiful-game",
+  "title": "THE ‘BEAUTIFUL’ GAME",
+  "page_range": [
+    2206,
+    2210
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "7": "J",
+    "2": "D",
+    "8": "B",
+    "3": "F",
+    "9": "D",
+    "4": "K",
+    "10": "G",
+    "5": "G",
+    "11": "B",
+    "6": "B",
+    "12": "C"
+  },
+  "content": {
+    "title": "THE ‘BEAUTIFUL’ GAME",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Every nation has a sport to represent it. In the U.S., there is baseball; in New Zealand, rugby. In the UK, football is the national sporting obsession. While many UK teams have gained international recognition, Manchester United is among those most well-known on a global scale. Yet while most people, regardless of the sporting preference or nationality, have some passing knowledge of Manchester United, fewer can claim knowledge of the origins of the team. Manchester United came into being in 1902 as a result of bankruptcy of the team formerly known as Newton Heath. Newton Heath began life as Newton Heath LYR (Lancashire and Yorkshire Railway) club and as the name suggests, the original team was comprised of railway workers. Despite turning professional in 1885 and becoming the founding member of the Football Lions in 1889, Newton Heath – nicknamed the ‘Heathens’ – was constantly troubled by financial difficulties."
+      },
+      {
+        "label": "B",
+        "content": "Salvation came in the form of local brewer, John Henry Davis, who agreed to invest in the team on condition of being given some interest in running it. After consideration of the alternatives titles of Manchester Central and Manchester Celtic, the club was christened Manchester United in April 1902. United’s first manager, though officially titled Secretary, was Ernest Mangnall, who was appointed in September 1903, but it was not until the season of 1905/1906, that United experienced its first taste of success. His side reached the quarterfinals of the F.A, Cup and were runners up in the second division."
+      },
+      {
+        "label": "C",
+        "content": "In 1907, United claimed the championship for the first time and won the first ever Charity Shield trophy in 1908. In the following year, United claimed the F.A. Cup trophy after beating Bristol City. Manchester United moved to its new stadium, Old Trafford, in early 1910. The move to the stadium, owned by the John Henry Davis brewery (a Manchester beer-making company), was proven to be fortunate as on the 17th of February, 1910, two days before the team’s first scheduled game, the previous stadium Banks Street was destroyed in a fire. The new stadium had a capacity for a crowd of 80,000 spectators and despite losing to their first visiting team Liverpool, Manchester United were once again league champions at the end of the first full season playing from Old Trafford."
+      },
+      {
+        "label": "D",
+        "content": "The following years were to be less of a success. From 1912 to the onset of the First World War, no significant victories were achieved. During the war the football league was suspended and only regional competitions took place. 1919 saw the return of Manchester United to league football with only two of the original members in the team."
+      },
+      {
+        "label": "E",
+        "content": "Although Britain has a long and proud history of football adoration, contemporary football supporters from the UK have gained a negative reputation for outbursts of violence against rival supporters, earning the label ‘football hooligan’. The football hooliganism phenomenon has attracted the attention of a number of researchers and psychologists who have offered theories relating to its causes. It is generally agreed that a combination of factors may initiate this type of anti-social behaviour and that it is unrealistic to contend that all such behaviour stems from a particular psychological make-up or belongs to a specific age or class. Experts do however believe that rampaging hooligan behaviour can instil a sense of belonging and ‘community’ in participants who feel that they can strongly identify with their group, regardless of the fact that the group’s behaviour is negative."
+      },
+      {
+        "label": "F",
+        "content": "Analysts also argue that the motivations for outbursts of violence experienced in an international setting are even more complex. Whilst alcohol and xenophobia no doubt play a part they say, some psychologists hold that policing tactics, to a large degree, dictate the level of disturbance likely to occur. Evidence supports the view that confrontational policing is much more likely to escalate than calm any incidences of trouble. The media’s actions have also been criticised due to the belief by some that messages given in newspaper reporting may also exacerbate the existing problem of football hooliganism."
+      },
+      {
+        "label": "G",
+        "content": "Critics say that certain headlines used by tabloid newspapers may glorify acts of violence and at least, the prolific news reports which are published in the UK about this issue cause perpetrators to receive undue attention and acknowledgement for their actions. Whilst few disagree that football hooliganism is a significant social problem, many researchers hold that sensationalist media reporting may also be creating undue panic since the problem is often presented as much more widespread than is the reality. Extreme cases of hooliganism from British fans has reduced significantly over recent years, and while it may take some considerable time for the negative reputation they have earned to subside, it is also true that a large proportion of supporters have no involvement in violence and simply share a love of the game."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose THREE letters A-H. Write your answers in boxes 1-3 on your answer sheet. NB Your answers may be given in any order.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Which THREE of the following statements are true of Newton Heath?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Newton Heath football club was established in 1902."
+              },
+              {
+                "label": "B",
+                "text": "It was the only Lancashire-based club at the time."
+              },
+              {
+                "label": "C",
+                "text": "It developed from a club with a similar name."
+              },
+              {
+                "label": "D",
+                "text": "It ceased being an amateur team in 1885."
+              },
+              {
+                "label": "E",
+                "text": "It was the most famous British football club of the period."
+              },
+              {
+                "label": "F",
+                "text": "The club experienced economic hitches."
+              },
+              {
+                "label": "G",
+                "text": "Its name changed one more time before becoming Manchester United."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Which THREE of the following statements are true of Newton Heath?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Newton Heath football club was established in 1902."
+              },
+              {
+                "label": "B",
+                "text": "It was the only Lancashire-based club at the time."
+              },
+              {
+                "label": "C",
+                "text": "It developed from a club with a similar name."
+              },
+              {
+                "label": "D",
+                "text": "It ceased being an amateur team in 1885."
+              },
+              {
+                "label": "E",
+                "text": "It was the most famous British football club of the period."
+              },
+              {
+                "label": "F",
+                "text": "The club experienced economic hitches."
+              },
+              {
+                "label": "G",
+                "text": "Its name changed one more time before becoming Manchester United."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Which THREE of the following statements are true of Newton Heath?",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "Newton Heath football club was established in 1902."
+              },
+              {
+                "label": "B",
+                "text": "It was the only Lancashire-based club at the time."
+              },
+              {
+                "label": "C",
+                "text": "It developed from a club with a similar name."
+              },
+              {
+                "label": "D",
+                "text": "It ceased being an amateur team in 1885."
+              },
+              {
+                "label": "E",
+                "text": "It was the most famous British football club of the period."
+              },
+              {
+                "label": "F",
+                "text": "The club experienced economic hitches."
+              },
+              {
+                "label": "G",
+                "text": "Its name changed one more time before becoming Manchester United."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the summary with the list of words A-K below. Write the correct letter A-K in boxes 4-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "According to expert opinion, there is little 4..................... that football hooliganism occurs as a result of a number of issues and does not necessarily correlate with age, psychological profile or 5.....................",
+            "answer": "K",
+            "options": [
+              {
+                "label": "A",
+                "text": "isolation"
+              },
+              {
+                "label": "B",
+                "text": "policing"
+              },
+              {
+                "label": "C",
+                "text": "anger"
+              },
+              {
+                "label": "D",
+                "text": "occupation"
+              },
+              {
+                "label": "E",
+                "text": "belief"
+              },
+              {
+                "label": "F",
+                "text": "proof"
+              },
+              {
+                "label": "G",
+                "text": "class"
+              },
+              {
+                "label": "H",
+                "text": "intelligence"
+              },
+              {
+                "label": "I",
+                "text": "excitement"
+              },
+              {
+                "label": "J",
+                "text": "unity"
+              },
+              {
+                "label": "K",
+                "text": "doubt"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "According to expert opinion, there is little doubt that football hooliganism occurs as a result of a number of issues and does not necessarily correlate with age, psychological profile or 5.....................",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "isolation"
+              },
+              {
+                "label": "B",
+                "text": "policing"
+              },
+              {
+                "label": "C",
+                "text": "anger"
+              },
+              {
+                "label": "D",
+                "text": "occupation"
+              },
+              {
+                "label": "E",
+                "text": "belief"
+              },
+              {
+                "label": "F",
+                "text": "proof"
+              },
+              {
+                "label": "G",
+                "text": "class"
+              },
+              {
+                "label": "H",
+                "text": "intelligence"
+              },
+              {
+                "label": "I",
+                "text": "excitement"
+              },
+              {
+                "label": "J",
+                "text": "unity"
+              },
+              {
+                "label": "K",
+                "text": "doubt"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "External triggers such as newspaper reports and antagonistic 6..................... can be attributed to escalation of the problem in certain situations.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "isolation"
+              },
+              {
+                "label": "B",
+                "text": "policing"
+              },
+              {
+                "label": "C",
+                "text": "anger"
+              },
+              {
+                "label": "D",
+                "text": "occupation"
+              },
+              {
+                "label": "E",
+                "text": "belief"
+              },
+              {
+                "label": "F",
+                "text": "proof"
+              },
+              {
+                "label": "G",
+                "text": "class"
+              },
+              {
+                "label": "H",
+                "text": "intelligence"
+              },
+              {
+                "label": "I",
+                "text": "excitement"
+              },
+              {
+                "label": "J",
+                "text": "unity"
+              },
+              {
+                "label": "K",
+                "text": "doubt"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Some psychologists believe that such behaviour and membership of trouble-making groups can give certain individuals a sense of 7..................... that may otherwise be missing in their lives.",
+            "answer": "J",
+            "options": [
+              {
+                "label": "A",
+                "text": "isolation"
+              },
+              {
+                "label": "B",
+                "text": "policing"
+              },
+              {
+                "label": "C",
+                "text": "anger"
+              },
+              {
+                "label": "D",
+                "text": "occupation"
+              },
+              {
+                "label": "E",
+                "text": "belief"
+              },
+              {
+                "label": "F",
+                "text": "proof"
+              },
+              {
+                "label": "G",
+                "text": "class"
+              },
+              {
+                "label": "H",
+                "text": "intelligence"
+              },
+              {
+                "label": "I",
+                "text": "excitement"
+              },
+              {
+                "label": "J",
+                "text": "unity"
+              },
+              {
+                "label": "K",
+                "text": "doubt"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has 7 paragraphs A-G. Which paragraph contains the following information? Write the correct letter A-G in boxes 8-12 on your answer sheet. NB Each paragraph may be used more than once.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "details about stipulations made to offer financial assistance to the club",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "reasons for disruption of national competitions",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "information about why the problem of violence at football matches may be perceived by the general public to be larger than it is.",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "deliberations about the Manchester United name",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "a reference to a new competition",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-25T18:18:00.597799"
+}

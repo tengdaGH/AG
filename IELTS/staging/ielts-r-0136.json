@@ -1,0 +1,366 @@
+{
+  "id": "ielts-r-0136",
+  "slug": "disappearing-delta",
+  "title": "Disappearing Delta",
+  "page_range": [
+    694,
+    698
+  ],
+  "raw_answer_key": {
+    "1": "iv",
+    "8": "YES",
+    "2": "i",
+    "9": "NOT GIVEN",
+    "3": "v",
+    "10": "YES",
+    "4": "viii",
+    "11": "F",
+    "5": "YES",
+    "12": "A",
+    "6": "NOT GIVEN",
+    "13": "B",
+    "7": "NO"
+  },
+  "content": {
+    "title": "Disappearing Delta",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The fertile land of the Nile delta is being eroded along Egypt's Mediterranean coast at an astounding rate, in some parts estimated at 100 metres per year. In the past, land scoured away from the coastline by the currents of the Mediterranean Sea used to be replaced by sediment brought down to the delta by the River Nile, but this is no longer happening."
+      },
+      {
+        "label": "B",
+        "content": "Up to now, people have blamed this loss of delta land on the two large dams at Aswan in the south of Egypt, which hold back virtually all of the sediment that used to flow down the river. Before the dams were built, the Nile flowed freely, carrying huge quantities of sediment north from Africa's interior to be deposited on the Nile delta. This continued for 7,000 years, eventually covering a region of over 22,000 square kilometres with layers of fertile silt. Annual flooding brought in new, nutrient-rich soil to the delta region, replacing what had been washed away by the sea, and dispensing with the need for fertilizers in Egypt's richest food-growing area. But when the Aswan dams were constructed in the 20th century to provide electricity and irrigation, and to protect the huge population centre of Cairo and its surrounding areas from annual flooding and drought, most of the sediment with its natural fertilizer accumulated up above the dam in the southern, upstream half of Lake Nasser, instead of passing down to the delta."
+      },
+      {
+        "label": "C",
+        "content": "Now, however, there turns out to be more to the story. It appears that the sediment-free water emerging from the Aswan dams picks up silt and land as it erodes the river bed and banks on the 800-kilometre trip to Cairo. Daniel Jean Stanley of the Smithsonian Institute noticed that water samples taken in Cairo, just before the river enters the delta, indicated that the river sometimes carries more than 850 grams of sediment per cubic metre of water - almost half of what it carried before the dams were built. 'I'm ashamed to say that the significance of this didn't strike me until after I had read 50 or 60 studies,' says Stanley in Marine Geology. 'There is still a lot of sediment coming into the delta, but virtually no sediment comes out into the Mediterranean to replenish the coastline. So this sediment must be trapped on the delta itself.'"
+      },
+      {
+        "label": "D",
+        "content": "Once north of Cairo, most of the Nile water is diverted into more than 10,000 kilometres of irrigation canals and only a small proportion reaches the sea directly through the rivers in the delta. The water in the irrigation canals is still or very slow-moving and thus cannot carry sediment, Stanley explains. The sediment sinks to the bottom of the canals and then is added to fields by farmers or pumped with the water into the four large freshwater lagoons that are located near the outer edges of the delta. So very little of it actually reaches the coastline to replace what is being washed away by the Mediterranean currents."
+      },
+      {
+        "label": "E",
+        "content": "The farms on the delta plains and fishing and aquaculture in the lagoons account for much of Egypt's food supply. But by the time the sediment has come to rest in the fields and lagoons it is laden with municipal, industrial and agricultural waste from the Cairo region, which is home to more than 40 million people. 'Pollutants are building up faster and faster,' says Stanley. Based on his investigations of sediment from the delta lagoons, Frederic Siegel of George Washington University concurs. 'In Manzalah Lagoon, for example, the increase in mercury, lead, copper and zinc coincided with the building of the High Dam at Aswan, the availability of cheap electricity, and the development of major power-based industries,' he says. Since that time the concentration of mercury has increased significantly. Lead from engines that use leaded fuels and from other industrial sources has also increased dramatically. These poisons can easily enter the food chain, affecting the productivity of fishing and farming. Another problem is that agricultural wastes include fertilizers which stimulate increases in plant growth in the lagoons and upset the ecology of the area, with serious effects on the fishing industry."
+      },
+      {
+        "label": "F",
+        "content": "According to Siegel, international environmental organisations are beginning to pay closer attention to the region, partly because of the problems of erosion and pollution of the Nile delta, but principally because they fear the impact this situation could have on the whole Mediterranean coastal ecosystem. But there are no easy solutions. In the immediate future, Stanley believes that one solution would be to make artificial floods to flush out the delta waterways, in the same way that natural floods did before the construction of the dams. He says, however, that in the long term an alternative process such as desalination may have to be used to increase the amount of water available. 'In my view, Egypt must devise a way to have more water running through the river and the delta,' says Stanley. Easier said than done in a desert region with a rapidly growing population."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs B and D-F from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Effects of irrigation on sedimentation"
+              },
+              {
+                "label": "ii",
+                "text": "The danger of flooding the Cairo area"
+              },
+              {
+                "label": "iii",
+                "text": "Causing pollution in the Mediterranean"
+              },
+              {
+                "label": "iv",
+                "text": "Interrupting a natural process"
+              },
+              {
+                "label": "v",
+                "text": "The threat to food production"
+              },
+              {
+                "label": "vi",
+                "text": "Less valuable sediment than before via Egypt's disappearing coastline"
+              },
+              {
+                "label": "vii",
+                "text": "Looking at the long-term impact"
+              },
+              {
+                "label": "viii",
+                "text": "The threat to food production"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph D",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Effects of irrigation on sedimentation"
+              },
+              {
+                "label": "ii",
+                "text": "The danger of flooding the Cairo area"
+              },
+              {
+                "label": "iii",
+                "text": "Causing pollution in the Mediterranean"
+              },
+              {
+                "label": "iv",
+                "text": "Interrupting a natural process"
+              },
+              {
+                "label": "v",
+                "text": "The threat to food production"
+              },
+              {
+                "label": "vi",
+                "text": "Less valuable sediment than before via Egypt's disappearing coastline"
+              },
+              {
+                "label": "vii",
+                "text": "Looking at the long-term impact"
+              },
+              {
+                "label": "viii",
+                "text": "The threat to food production"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph E",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "Effects of irrigation on sedimentation"
+              },
+              {
+                "label": "ii",
+                "text": "The danger of flooding the Cairo area"
+              },
+              {
+                "label": "iii",
+                "text": "Causing pollution in the Mediterranean"
+              },
+              {
+                "label": "iv",
+                "text": "Interrupting a natural process"
+              },
+              {
+                "label": "v",
+                "text": "The threat to food production"
+              },
+              {
+                "label": "vi",
+                "text": "Less valuable sediment than before via Egypt's disappearing coastline"
+              },
+              {
+                "label": "vii",
+                "text": "Looking at the long-term impact"
+              },
+              {
+                "label": "viii",
+                "text": "The threat to food production"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph F",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Effects of irrigation on sedimentation"
+              },
+              {
+                "label": "ii",
+                "text": "The danger of flooding the Cairo area"
+              },
+              {
+                "label": "iii",
+                "text": "Causing pollution in the Mediterranean"
+              },
+              {
+                "label": "iv",
+                "text": "Interrupting a natural process"
+              },
+              {
+                "label": "v",
+                "text": "The threat to food production"
+              },
+              {
+                "label": "vi",
+                "text": "Less valuable sediment than before via Egypt's disappearing coastline"
+              },
+              {
+                "label": "vii",
+                "text": "Looking at the long-term impact"
+              },
+              {
+                "label": "viii",
+                "text": "The threat to food production"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements reflect the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Coastal erosion occurred along Egypt's Mediterranean coast before the building of the Aswan dams.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Some people predicted that the Aswan dams would cause land loss before they were built.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The Aswan dams were built to increase the fertility of the Nile delta.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Stanley found that the levels of sediment in the river water in Cairo were relatively high.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Sediment in the irrigation canals on the Nile delta causes flooding.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Water is pumped from the irrigation canals into the lagoons.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the claims of the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary of paragraphs E and F with the list of words A-H below.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "In addition to the problem of coastal erosion, there has been a marked increase in the level of 11..................... contained in the silt deposited in the Nile delta.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "To deal with this, Stanley suggests the use of 12..................... in the short term.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "and increasing the amount of water available through 13..................... in the longer term.",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:57:00.298407"
+}

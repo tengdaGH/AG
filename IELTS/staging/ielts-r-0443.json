@@ -1,0 +1,347 @@
+{
+  "id": "ielts-r-0443",
+  "slug": "the-burgess-shale-fossils",
+  "title": "The Burgess Shale fossils",
+  "page_range": [
+    2246,
+    2250
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "1979",
+    "2": "NOT GIVEN",
+    "9": "EVOLUTION",
+    "3": "TRUE",
+    "10": "FAN",
+    "4": "FALSE",
+    "11": "FOOD",
+    "5": "FALSE",
+    "12": "LEECH",
+    "6": "CAMBRIAN",
+    "13": "MOVE EXPLOSION",
+    "7": "RAILWAY"
+  },
+  "content": {
+    "properties": {
+      "title": {
+        "description": "The title of the reading passage.",
+        "title": "Title",
+        "type": "string"
+      },
+      "has_paragraph_labels": {
+        "description": "True if the passage has labeled paragraphs (e.g., A, B, C).",
+        "title": "Has Paragraph Labels",
+        "type": "boolean"
+      },
+      "paragraphs": {
+        "description": "List of structured paragraphs.",
+        "items": {
+          "$ref": "#/$defs/Paragraph"
+        },
+        "title": "Paragraphs",
+        "type": "array"
+      }
+    },
+    "required": [
+      "title",
+      "has_paragraph_labels",
+      "paragraphs"
+    ],
+    "title": "The Burgess Shale fossils",
+    "type": "object",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Some discoveries are so unusual it takes decades and sometimes even centuries to understand their full significance. One such discovery is the fossil bed known as the Burgess Shale. It was discovered in the Canadian Rockies over a century ago and was popularised in 1989 in a book, Wonderful Life, by Stephen Jay Gould, an American palaeontologist."
+      },
+      {
+        "label": "B",
+        "content": "The Burgess Shale fossils were created at a time when the future Canadian land mass was situated near the Earth’s equator. The creatures were preserved when an entire marine ecosystem was buried in mud that eventually hardened and became exposed hundreds of millions of years later in an outcrop of the Rocky Mountains. American palaeontologist Charles Walcott, following reports of fabulous fossils finds by construction workers on Canadian railways who were digging in the mountains in the late 19th century, is said to have tripped over a block of shale in 1909 that revealed the area’s remarkable supply of specimens. It has long been believed that the curious fauna that lived there vanished in a series of extinction because the fossil record ends abruptly, but that no longer appears to be the case."
+      },
+      {
+        "label": "C",
+        "content": "The Burgess Shale began to form soon after a period of time known as the Cambrian explosion, when most major groups of complex animals arose over a surprisingly short period. Before 560m years ago, most living things were either individual cells or simple colonies of cells. Then, and for reasons that remain a mystery, life massively diversified and became ever more complex as the rate of evolution increased. An unusual feature of the Burgess Shale is that it is one of the earliest fossil beds to contain impressions of the soft body parts alongside the remains of bones and shells, which is highly unusual."
+      },
+      {
+        "label": "D",
+        "content": "Although the fossil bed was discovered on a mountain, these animals originally existed below an ocean, the bed of which was later pushed up to create the Rockies. Nobody knows exactly why they were so well preserved. One possibility is that the creatures were buried quickly and in conditions that were hostile to the bacteria that cause decomposition of soft body parts."
+      },
+      {
+        "label": "E",
+        "content": "Those that first worked on the Burgess Shale, unearthing 65,000 specimens over a 14-year period up to 1924, assumed that the fossils came from extinct members of groups of animals in existence today. This turned out to be misleading because many of the creatures are so unusual that they are still difficult to classify."
+      },
+      {
+        "label": "F",
+        "content": "One such example is Opabinia, a creature that grew to about 8cm (3 inches), had five eyes, a body that was a series of lobes, a tail in the shape of a fan and that ate using a long proboscis. The proboscis had a set of grasping claws on the end, with which it grabbed food and stuffed it into its mouth. Nectocaris, meanwhile, could be mistaken for a leech, with fins and tentacles. Weirdest of all was Hallucigenia, described by palaeontologist Simon Conway Morris when he re-examined Walcott’s specimens in 1979. With its multiplicity of spines and tentacles, little about Hallucigenia made sense. Like an abstract painting, its orientation is a mystery at first, making it difficult to work out which way up it went, which hole food went into, and which hole food came out of."
+      },
+      {
+        "label": "G",
+        "content": "Palaeontologists had long thought that many of the Burgess Shale animals were examples of experiments in evolution. In other words, entirely new forms of life that did not survive or lead to other groups or species. Hallucigenia, ironically, turned out to be the exception that proved the rule. It is now thought to be an ancestor of the modern group of arthropods, which includes everything from flies and butterflies to centipedes and crabs."
+      },
+      {
+        "label": "H",
+        "content": "Now another misconception has been quashed. Writing in Nature, Peter Van Roy of Yale University and his colleagues suggest that the sudden absence of such crazy soft-bodied fossils does not indicate a mass extinction, but merely an end to the unusual local circumstances that caused the creatures to be preserved. In an area of the Atlas Mountains of Morocco, Van Roy’s team of researchers have found another diverse (and sometimes bizarre) assemblage of soft-bodied organisms from a period after the Burgess Shale was formed. One discovery includes something that may be a stalked barnacle. This suggests that the evolution of such complex life went on uninterrupted. For its part, the Burgess Shale continues to produce an astonishing array of indefinable creatures faster than palaeontologists can examine them. The world still has plenty to learn about this wonderful life."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the passage? Write TRUE if the statement agrees with the information, FALSE if it contradicts the information, and NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The Burgess Shale was discovered in the Canadian Rockies over a century ago.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The Burgess Shale fossils were created when the Canadian land mass was near the Earth's equator.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "The Burgess Shale contains impressions of soft body parts as well as bones and shells.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "The creatures of the Burgess Shale vanished in a series of extinctions.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "The Burgess Shale animals were assumed to be extinct members of groups of animals in existence today.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The Cambrian explosion was a period of time when most major groups of complex animals arose.",
+            "answer": "CAMBRIAN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Construction workers on Canadian railways were the first to report fabulous fossil finds in the area.",
+            "answer": "RAILWAY",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Simon Conway Morris re-examined Walcott's specimens in 1979.",
+            "answer": "1979",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The Burgess Shale fossils are thought to be examples of experiments in evolution.",
+            "answer": "EVOLUTION",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Hallucigenia had a tail in the shape of a fan.",
+            "answer": "FAN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Opabinia ate using a long proboscis.",
+            "answer": "FOOD",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Nectocaris could be mistaken for a leech.",
+            "answer": "LEECH",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The Burgess Shale continues to produce an astonishing array of indefinable creatures.",
+            "answer": "MOVE EXPLOSION",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this in the passage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:13:09.512561"
+}

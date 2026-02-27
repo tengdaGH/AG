@@ -1,0 +1,208 @@
+{
+  "id": "ielts-r-0054",
+  "slug": "australias-sporting-success",
+  "title": "Australia's sporting success",
+  "page_range": [
+    278,
+    282
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "A",
+    "2": "C",
+    "9": "B",
+    "3": "B",
+    "10": "A",
+    "4": "F",
+    "11": "C",
+    "5": "D",
+    "12": "(a) competition model",
+    "6": "A",
+    "13": "(by) 2 percent/%",
+    "7": "E"
+  },
+  "content": {
+    "title": "Australia's sporting success",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "They play hard, they play often, and they play to win. Australian sports teams win more than their fair share of titles, demolishing rivals with seeming ease. How do they do it? A big part of the secret is an extensive and expensive network of sporting academies underpinned by science and medicine. At the Australian Institute of Sport (AIS), hundreds of youngsters and pros live and train under the eyes of coaches. Another body, the Australian Sports Commission (ASC), finances programmes of excellence in a total of 96 sports for thousands of sportsmen and women. Both provide intensive coaching, training facilities and nutritional advice."
+      },
+      {
+        "label": "B",
+        "content": "Inside the academies, science takes centre stage. The AIS employs more than 100 sports scientists and doctors, and collaborates with scores of others in universities and research centres. AIS scientists work across a number of sports, applying skills learned in one - such as building muscle strength in golfers - to others, such as swimming and squash. They are backed up by technicians who design instruments to collect data from athletes. They all focus on one aim: winning. 'We can’t waste our time looking at ethereal scientific questions that don’t help the coach work with an athlete and improve performance,' says Peter Pricker, chief of science at AIS."
+      },
+      {
+        "label": "C",
+        "content": "A lot of their work comes down to measurement - everything from the exact angle of a swimmer’s dive to the second-by-second power output of a cyclist. This data is used to wring improvements out of athletes. The focus is on individuals, tweaking performances to squeeze an extra hundredth of a second here, an extra millimetre there. No gain is too slight to bother with. It's the tiny, gradual improvements that add up to world-beating results. To demonstrate how the system works, Bruce Mason at AIS shows off the prototype of a 3D analysis tool for studying swimmers. A wire-frame model of a champion swimmer slices through the water, her arms moving in slow motion. Looking side-on, Mason measures the distance between strokes. From above, he analyses how her spine swivels. When fully developed, this system will enable him to build a biomechanical profile for coaches to use to help budding swimmers. Mason's contribution to sport also includes the development of the SWAN (SWimming ANalysis) system now used in Australian national competitions. It collects images from digital cameras running at 50 frames a second and breaks down each part of a swimmer's performance into factors that can be analysed individually - stroke length, stroke frequency, average duration of each stroke, velocity, start, lap and finish times, and so on. At the end of each race, SWAN spits out data on each swimmer."
+      },
+      {
+        "label": "D",
+        "content": "Take a look,' says Mason, pulling out a sheet of data. He points out the data on the swimmers in second and third place, which shows that the one who finished third actually swam faster. So why did he finish 35 hundredths of a second down? 'His turn times were 44 hundredths of a second behind the other guy,' says Mason. 'If he can improve on his turns, he can do much better.' This is the kind of accuracy that AIS scientists’ research is bringing to a range of sports. With the Cooperative Research Centre for Micro Technology in Melbourne, they are developing unobtrusive sensors that will be embedded in an athlete's clothes or running shoes to monitor heart rate, sweating, heat production or any other factor that might have an impact on an athlete's ability to run. There's more to it than simply measuring performance. Pricker gives the example of athletes who may be down with coughs and colds 11 or 12 times a year. After years of experimentation, AIS and the University of Newcastle in New South Wales developed a test that measures how much of the immune-system protein immunoglobulin A is present in athletes' saliva. If IgA levels suddenly fall below a certain level, training is eased or dropped altogether. Soon, IgA levels start rising again, and the danger passes. Since the tests were introduced, AIS athletes in all sports have been remarkably successful at staying healthy."
+      },
+      {
+        "label": "E",
+        "content": "Using data is a complex business. Well before a championship, sports scientists and coaches start to prepare the athlete by developing a 'competition model', based on what they expect will be the winning times. 'You design the model to make that time,' says Mason. 'A start of this much, each free-swimming period has to be this fast, with a certain stroke frequency and stroke length, with turns done in these times.' All the training is then geared towards making the athlete hit those targets, both overall and for each segment of the race. Techniques like these have transformed Australia into arguably the world's most successful sporting nation."
+      },
+      {
+        "label": "F",
+        "content": "Of course, there's nothing to stop other countries copying - and many have tried. Some years ago, the AIS unveiled coolant-filled jackets for endurance athletes. At the Atlanta Olympic Games in 1996, these sliced as much as two per cent off cyclists' and rowers’ times. Now everyone uses them. The same has happened to the 'altitude tent', developed by AIS to replicate the effect of altitude training at sea level. But Australia's success story is about more than easily copied technological fixes, and up to now no nation has replicated its all-encompassing system."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has six paragraphs, A-F. Which paragraph contains the following information? Write the correct letter, A-F, in boxes 1-7 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "a reference to the exchange of expertise between different sports",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "an explanation of how visual imaging is employed in investigations",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "a reason for narrowing the scope of research activity",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "how some AIS ideas have been reproduced",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "how obstacles to optimum achievement can be investigated",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "an overview of the funded support of athletes",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "how performance requirements are calculated before an event",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Classify the following techniques according to whether the writer states they A are currently exclusively used by Australians B will be used in the future by Australians C are currently used by both Australians and their rivals Write the correct letter, A, B or C, in boxes 8-11 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "cameras",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "are currently exclusively used by Australians"
+              },
+              {
+                "label": "B",
+                "text": "will be used in the future by Australians"
+              },
+              {
+                "label": "C",
+                "text": "are currently used by both Australians and their rivals"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "sensors",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "are currently exclusively used by Australians"
+              },
+              {
+                "label": "B",
+                "text": "will be used in the future by Australians"
+              },
+              {
+                "label": "C",
+                "text": "are currently used by both Australians and their rivals"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "protein tests",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "are currently exclusively used by Australians"
+              },
+              {
+                "label": "B",
+                "text": "will be used in the future by Australians"
+              },
+              {
+                "label": "C",
+                "text": "are currently used by both Australians and their rivals"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "altitude tents",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "are currently exclusively used by Australians"
+              },
+              {
+                "label": "B",
+                "text": "will be used in the future by Australians"
+              },
+              {
+                "label": "C",
+                "text": "are currently used by both Australians and their rivals"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "What is produced to help an athlete plan their performance in an event?",
+            "answer": "(a) competition model",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "By how much did some cyclists’ performance improve at the 1996 Olympic Games?",
+            "answer": "(by) 2 percent/%",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:32:58.875275"
+}

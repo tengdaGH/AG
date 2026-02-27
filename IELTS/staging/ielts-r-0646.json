@@ -1,0 +1,173 @@
+{
+  "id": "ielts-r-0646",
+  "slug": "work-and-travel-usa",
+  "title": "Work and Travel USA",
+  "page_range": [
+    3262,
+    3265
+  ],
+  "raw_answer_key": {
+    "1": "FALSE",
+    "4": "FALSE",
+    "2": "NOT GIVEN",
+    "5": "TRUE",
+    "3": "TRUE",
+    "6": "NOT GIVEN"
+  },
+  "content": {
+    "title": "Work and Travel USA",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Do you want to have the best summer holiday ever? Have you just graduated and want to escape for a unique experience abroad? Only $1950 will make it all happen!"
+      },
+      {
+        "content": "This unbeatable program fee includes: -return flight from Sydney to Los Angeles (onward travel in USA not included) -3 months' insurance cover -2 nights' accommodation on arrival plus meet and greet and airport transfer -arrival orientation by experienced InterExchange staff -visa application fees"
+      },
+      {
+        "content": "You also have: -access to a J-1 visa enabling you to work in the USA -an extensive directory of employers -InterExchange support throughout the program -24-hour emergency support throughout the length of the program"
+      },
+      {
+        "content": "Call toll-free 1800 678 738. InterExchange has 50 years' experience in international student exchange programs. 18,000 students from around the world travel yearly to the USA on this very program. InterExchange can also offer you work opportunities in other countries."
+      },
+      {
+        "content": "WHAT IS INTEREXCHANGE? InterExchange, one of the world's leading operators of international exchange programs and related services: -is a non-profit, non-governmental organisation -has 700 professional staff in 30 countries worldwide -was founded in 1947"
+      },
+      {
+        "content": "InterExchange operates these programs for students all around the world. It offers you trained and travelled staff, plus full support during the application process. You can choose any job that interests you anywhere in the USA, whether that is working in a law firm in Boston, a famous ski resort in Colorado or serving coffee and doughnuts in the buzzing streets of New York. You can select the period you work and the period you travel; you may want to work for 1 month and travel for 3, or work the entire duration of your stay. The choice is yours."
+      },
+      {
+        "content": "YOU CAN TAKE UP THIS OPPORTUNITY IF YOU ARE: -a full-time student at an Australian university or TAFE college -presently enrolled, or finishing this year, or you have deferred a year of study -over 18 years old by November in the academic year in which you apply to InterExchange"
+      },
+      {
+        "content": "enthusiastic about the experience of a lifetime... Sign up now!!"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the advertisement. In boxes 1-6 on your answer sheet, write TRUE if the statement is true according to the passage, FALSE if the statement is false according to the passage, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The program cost includes internal flights within the USA.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Emergency assistance offered in the program includes legal advice.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "InterExchange offers similar programs in countries other than the USA.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "InterExchange is part of a government program.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "There are no restrictions on the type of job you can do.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "There is an upper age limit for applicants.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 6
+  },
+  "processed_at": "2026-02-25T22:19:18.812767"
+}

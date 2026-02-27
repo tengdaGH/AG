@@ -1,0 +1,176 @@
+{
+  "id": "ielts-r-0013",
+  "slug": "airports-on-water",
+  "title": "Airports on water",
+  "page_range": [
+    80,
+    85
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "sand",
+    "2": "A",
+    "9": "stiff clay",
+    "10": "Lantau Island//sea",
+    "3": "B walls",
+    "11": "Lantau Island//sea",
+    "4": "C walls",
+    "5": "B",
+    "12": "rainfall",
+    "6": "runways and",
+    "13": "geotextile taxiways",
+    "7": "terminal building site"
+  },
+  "content": {
+    "title": "Airports on Water",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "River deltas are difficult places for map makers. The river builds them up, the sea wears them down; their outlines are always changing. The changes in China's Pearl River delta, however, are more dramatic than these natural fluctuations. An island six kilometres long and with a total area of 1248 hectares is being created there. And the civil engineers are as interested in performance as in speed and size. This is a bit of the delta that they want to endure."
+      },
+      {
+        "label": null,
+        "content": "The new island of Chek Lap Kok, the site of Hong Kong's new airport, is 83% complete. The giant dumper trucks rumbling across it will have finished their job by the middle of this year and the airport itself will be built at a similarly breakneck pace."
+      },
+      {
+        "label": null,
+        "content": "As Chek Lap Kok rises, however, another new Asian island is sinking back into the sea. This is a 520-hectare island built in Osaka Bay, Japan, that serves as the platform for the new Kansai airport. Chek Lap Kok was built in a different way, and thus hopes to avoid the same sinking fate."
+      },
+      {
+        "label": null,
+        "content": "The usual way to reclaim land is to pile sand rock on to the seabed. When the seabed oozes with mud, this is rather like placing a textbook on a wet sponge: the weight squeezes the water out, causing both water and sponge to settle lower. The settlement is rarely even: different parts sink at different rates. So buildings, pipes, roads and so on tend to buckle and crack. You can engineer around these problems, or you can engineer them out. Kansai took the first approach; Chek Lap Kok is taking the second."
+      },
+      {
+        "label": null,
+        "content": "The differences are both political and geological. Kansai was supposed to be built just one kilometre offshore, where the seabed is quite solid. Fishermen protested, and the site was shifted a further five kilometres. That put it in deeper water (around 20 metres) and above a seabed that consisted of 20 metres of soft alluvial silt and mud deposits. Worse, below it was a not-very- firm glacial deposit hundreds of metres thick."
+      },
+      {
+        "label": null,
+        "content": "The Kansai builders recognised that settlement was inevitable. Sand was driven into the seabed to strengthen it before the landfill was piled on top, in an attempt to slow the process; but this has not been as effective as had been hoped. To cope with settlement, Kansai's giant terminal is supported on 900 pillars. Each of them can be individually jacked up, allowing wedges to be added underneath. That is meant to keep the building level. But it could be a tricky task."
+      },
+      {
+        "label": null,
+        "content": "Conditions are different at Chek Lap Kok. There was some land there to begin with, the original little island of Chek Lap Kok and a smaller outcrop called Lam Chau. Between them, these two outcrops of hard, weathered granite make up a quarter of the new island's surface area. Unfortunately, between the islands there was a layer of soft mud, 27 metres thick in places."
+      },
+      {
+        "label": null,
+        "content": "According to Frans Uiterwijk, a Dutchman who is the project's reclamation director, it would have been possible to leave this mud below the reclaimed land, and to deal with the resulting settlement by the Kansai method. But the consortium that won the contract for the island opted for a more aggressive approach. It assembled the worlds largest fleet of dredgers, which sucked up 150m cubic metres of clay and mud and dumped it in deeper waters. At the same time, sand was dredged from the waters and piled on top of the layer of stiff clay that the massive dredging had laid bare."
+      },
+      {
+        "label": null,
+        "content": "Nor was the sand the only thing used. The original granite island which had hills up to 120 metres high was drilled and blasted into boulders no bigger than two metres in diameter. This provided 70m cubic metres of granite to add to the island's foundations. Because the heap of boulders does not fill the space perfectly, this represents the equivalent of 105m cubic metres of landfill. Most of the rock will become the foundations for the airport's runways and its taxiways. The sand dredged from the waters will also be used to provide a two-metre capping layer over the granite platform. This makes it easier for utilities to dig trenches - granite is unyielding stuff. Most of the terminal buildings will be placed above the site of the existing island. Only a limited amount of pile-driving is needed to support building foundations above softer areas."
+      },
+      {
+        "label": null,
+        "content": "The completed island will be six to seven metres above sea level. In all, 350m cubic metres of material will have been moved. And much of it, like the overloads, has to be moved several times before reaching its final resting place. For example, there has to be a motorway capable of carrying 150-tonne dump-trucks; and there has to be a raised area for the 15,000 construction workers. These are temporary; they will be removed when the airport is finished."
+      },
+      {
+        "label": null,
+        "content": "The airport, though, is here to stay. To protect it, the new coastline is being bolstered with a formidable twelve kilometres of sea defences. The brunt of a typhoon will be deflected by the neighbouring island of Lantau; the sea walls should guard against the rest. Gentler but more persistent bad weather - the downpours of the summer monsoon - is also being taken into account. A mat-like material called geotextile is being laid across the island to separate the rock and sand layers. That will stop sand particles from being washed into the rock voids, and so causing further settlement This island is being built never to be sunk."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Classify the following statements as applying to A Chek Lap Kok airport only, B Kansai airport only, C Both airports.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "having an area of over 1000 hectares",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "built in a river delta",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "built in the open sea",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "built by reclaiming land",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "built using conventional methods of reclamation",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "DIAGRAM_LABEL_COMPLETION",
+        "instruction": "Complete the labels on Diagram B below. Choose your answers from the box below the diagram and write them in boxes 6-9 on your answer sheet.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "",
+            "answer": "runways and",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "",
+            "answer": "terminal building site",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "",
+            "answer": "sand",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "",
+            "answer": "stiff clay",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose your answers from the box below the summary and write them in boxes 10-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "",
+            "answer": "Lantau Island//sea",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "",
+            "answer": "Lantau Island//sea",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "",
+            "answer": "rainfall",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "",
+            "answer": "geotextile",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:21:47.408266"
+}

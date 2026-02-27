@@ -1,0 +1,301 @@
+{
+  "id": "ielts-r-0375",
+  "slug": "rising-sea",
+  "title": "RISING SEA",
+  "page_range": [
+    1906,
+    1910
+  ],
+  "raw_answer_key": {
+    "1": "G",
+    "8": "D",
+    "2": "H",
+    "9": "B C E",
+    "3": "I",
+    "10": "NOT GIVEN",
+    "4": "E",
+    "11": "TRUE",
+    "5": "A",
+    "12": "FALSE",
+    "6": "C",
+    "13": "TRUE",
+    "7": "C",
+    "14": "FALSE"
+  },
+  "content": {
+    "title": "RISING SEA",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The average air temperature at the surface of the earth has risen this century, as has the temperature of ocean surface waters. Because water expands as it heats, a warmer ocean means higher sea levels. We cannot say definitely that the temperature rises are due to the greenhouse effect; the heating may be part of a “natural” variability over a long time-scale that we have not yet recognized in our short 100 years of recording. However, assuming the build-up of greenhouse gases is responsible, and that the warming will continue, scientists and inhabitants of low-lying coastal areas would like to know the extent of future sea level rises."
+      },
+      {
+        "label": null,
+        "content": "Calculating this is not easy. Models used for the purpose have treated the oceans as passive, stationary, and one-dimensional. Scientists have assumed that heat simply diffused into the sea from the atmosphere. Using basic physical laws, they then predict how much a known volume of water would expand for a given increase in temperature. But the oceans are not one-dimensional, and recent work by oceanographers, using a new model which takes into account a number of subtle facets of the sea—including vast and complex ocean currents—suggests that the rise in sea level may be less than some earlier estimates had predicted."
+      },
+      {
+        "label": null,
+        "content": "An international forum on climate change, in 1986, produced figures for likely sea-level rises of 20 cm and 1.4 m, corresponding to atmospheric temperature increases of 1.5 and 4.5°C respectively. Some scientists estimate that the ocean warming resulting from those temperature increases by the year 2050 would raise the sea level by between 10 cm and 40 cm. This model only takes into account the temperature effect on the oceans; it does not consider changes in sea level brought about by the melting of ice sheets and glaciers, and changes in groundwater storage. When we add on estimates of these, we arrive at figures for total sea-level rises of 15 cm and 70 cm respectively."
+      },
+      {
+        "label": null,
+        "content": "It’s not easy trying to model accurately the enormous complexities of the ever-changing oceans, with their great volume, massive currents, and sensitivity to the influence of land masses and the atmosphere. For example, consider how heat enters the ocean. Does it just “diffuse” from the warmer air vertically into the water, and heat only the surface layer of the sea? (Warm water is less dense than cold, so it would not spread downwards). Conventional models of sea-level rise have considered that this is the only method, but measurements have shown that the rate of heat transfer into the ocean by vertical diffusion is far lower in practice than the figures that many models have adopted."
+      },
+      {
+        "label": null,
+        "content": "Much of the early work, for simplicity, ignored the fact that water in the oceans moves in three dimensions. By movement, of course, scientists don’t mean waves, which are too small individually to consider, but rather movement of vast volumes of water in huge currents. To understand the importance of this, we now need to consider another process—advection. Imagine smoke rising from a chimney. On a still day it will slowly spread out in all directions by means of diffusion. With a strong directional wind, however, it will all shift downwind; this process is advection—the transport of properties (notably heat and salinity in the ocean) by the movement of bodies of air or water, rather than by conduction or diffusion."
+      },
+      {
+        "label": null,
+        "content": "Massive ocean currents called gyres do the moving. These currents have far more capacity to store heat than does the atmosphere. Indeed, just the top 3 m of the ocean contains more heat than the whole of the atmosphere. The origin of the gyres lies in the fact that more heat from the Sun reaches the Equator than the Poles, and naturally heat tends to move from the former to the latter. Warm air rises at the Equator, and draws more air beneath it in the form of winds (the “Trade Winds”) that, together with other air movements, provide the main force driving the ocean currents."
+      },
+      {
+        "label": null,
+        "content": "Water itself is heated at the Equator and moves poleward, twisted by the Earth’s rotation and affected by the positions of the continents. The resultant broadly circular movements between about 10 and 40 degrees North and South are clockwise in the Southern Hemisphere. They flow towards the east at mid-latitudes in the equatorial region. They then flow towards the Poles, along the eastern sides of continents, as warm currents. When two different masses of water meet, one will move beneath the other, depending on their relative densities in the subduction process. The densities are determined by temperature and salinity. The convergence of water of different densities from the Equator and the Poles deep in the oceans causes continuous subduction. This means that water moves vertically as well as horizontally. Cold water from the Poles travels at depth—it is denser than warm water—until it emerges at the surface in another part of the world in the form of a cold current."
+      },
+      {
+        "label": null,
+        "content": "Ocean currents, in three dimensions, form a giant “conveyor belt”, distributing heat from the thin surface layer into the interior of the oceans and around the globe. Water may take decades to circulate in these 3-D gyres in the top kilometer of the ocean, and centuries in the deep water. With the increased atmospheric temperatures due to the greenhouse effect, the oceans’ conveyor belt will carry more heat into the interior. This subduction moves heat around far more effectively than simple diffusion. Because warm water expands more than cold when it is heated, scientists had presumed that the sea level would rise unevenly around the globe. It is now believed that these inequalities cannot persist, as winds will act to continuously spread out the water expansion. Of course, if global warming changes the strength and distribution of the winds, then this “evening-out” process may not occur, and the sea level could rise more in some areas than others."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for the remaining 6 Paragraphs from the list below. Write the correct number, A-I, in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph 2",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Paragraph 3",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Paragraph 4",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Paragraph 5",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paragraph 6",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Paragraph 7",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D. Write the correct letter in boxes 7-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Scientists do not know for sure why the air and surface of oceans temperatures are rising because",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "there is too much variability"
+              },
+              {
+                "label": "B",
+                "text": "there is no enough variability"
+              },
+              {
+                "label": "C",
+                "text": "they have not been recording these temperatures for enough time"
+              },
+              {
+                "label": "D",
+                "text": "the changes have only been noticed for 100 years"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "New search leads scientists to believe that",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "the oceans are less complex"
+              },
+              {
+                "label": "B",
+                "text": "the oceans are more complex"
+              },
+              {
+                "label": "C",
+                "text": "the oceans will rise more than expected"
+              },
+              {
+                "label": "D",
+                "text": "the oceans will rise less than expected"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Look at the following list of factors A-F and select THREE which are mentioned in the Reading Passage 2 which may contribute to the rising ocean levels. Write the correct THREE letters A-F in the box 9 on your answer sheet.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Select THREE factors which may contribute to the rising ocean levels.",
+            "answer": "B C E",
+            "options": [
+              {
+                "label": "A",
+                "text": "thermal expansion"
+              },
+              {
+                "label": "B",
+                "text": "melting ice"
+              },
+              {
+                "label": "C",
+                "text": "increased air temperature"
+              },
+              {
+                "label": "D",
+                "text": "higher rainfall"
+              },
+              {
+                "label": "E",
+                "text": "changes in the water table"
+              },
+              {
+                "label": "F",
+                "text": "increased ocean movement"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 2? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The surface layer of the oceans is warmed by the atmosphere.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Advection of water changes heat and salt levels.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "A gyre holds less heat than there is in the atmosphere.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The process of subduction depends on the water density.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "The sea level is expected to rise evenly over the Earth’s surface.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:14:48.080682"
+}

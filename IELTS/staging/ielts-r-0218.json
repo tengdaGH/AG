@@ -1,0 +1,485 @@
+{
+  "id": "ielts-r-0218",
+  "slug": "humpback-whale-breaks-migration-record",
+  "title": "Humpback whale breaks migration record",
+  "page_range": [
+    1102,
+    1106
+  ],
+  "raw_answer_key": {
+    "1": "B, C (in either",
+    "8": "A OR E IN order) EITHER ORDER",
+    "2": "B, C (in either",
+    "9": "B OR D IN order) EITHER ORDER",
+    "3": "C, E (in either",
+    "10": "B OR D IN order) EITHER ORDER",
+    "4": "C, E (in either",
+    "11": "A OR D IN order) EITHER ORDER",
+    "5": "A OR E IN",
+    "12": "A OR D IN EITHER ORDER EITHER ORDER",
+    "6": "A OR E IN",
+    "13": "B OR E IN EITHER ORDER EITHER ORDER",
+    "7": "A OR E IN",
+    "14": "B OR E IN EITHER ORDER EITHER ORDER"
+  },
+  "content": {
+    "title": "Humpback whale breaks migration record",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A lone humpback whale travelled more than 9,800 kilometres from breeding areas in Brazil to those in Madagascar, setting a record for the longest mammal migration ever documented. Humpback whales (Megaptera novaeangliae) are known to have some of the longest migration distances of all mammals, and this huge journey is about 400 kilometres farther than the previous humpback record. The finding was made by Peter Stevick, a biologist at the College of the Atlantic in Bar Harbor, Maine."
+      },
+      {
+        "label": "B",
+        "content": "The whale’s journey was unusual not only for its length, but also because it travelled across almost 90 degrees of longitude from west to east. Typically, humpbacks move in a north-south direction between cold feeding areas and warm breeding grounds - and the longest journeys which have been recorded until now have been between breeding and feeding sites."
+      },
+      {
+        "label": "C",
+        "content": "The whale, a female, was first spotted off the coast of Brazil, where researchers photographed its tail fluke and took skin samples for chromosome testing to determine the animal's sex. Two years later, a tourist on a whale-watching boat snapped a photo of the humpback near Madagascar."
+      },
+      {
+        "label": "D",
+        "content": "To match the two sightings, Stevick’s team used an extensive international catalogue of photographs of the undersides of tail flukes, which have distinctive markings. Researchers routinely compare the markings in each new photograph to those in the archive."
+      },
+      {
+        "label": "E",
+        "content": "The scientists then estimated the animal’s shortest possible route: an arc skirting the southern tip of South Africa and heading north-east towards Madagascar. The minimum distance is 9,800 kilometres, says Stevick, but this is likely to be an underestimate, because the whale probably took a detour to feed on krill in the Southern Ocean near Antarctica before reaching its destination."
+      },
+      {
+        "label": "F",
+        "content": "Most humpback-whale researchers focus their efforts on the Northern Hemisphere because the Southern Ocean near the Antarctic is a hostile environment and it is hard to get to, explains Rochelle Constantine, who studies the ecology of humpback whales at the University of Auckland in New Zealand. But, for whales, oceans in the Southern Hemisphere are wider and easier to travel across, says Constantine. Scientists will probably observe more long-distance migrations in the Southern Hemisphere as satellite tracking becomes increasingly common, she adds."
+      },
+      {
+        "label": "G",
+        "content": "Daniel Palacios, an oceanographer at the University of Hawaii at Manoa, says that the record-breaking journey could indicate that migration patterns are shifting as populations begin to recover from near-extinction and the population increases. But the reasons why the whale did not follow the usual migration routes remain a mystery. She could have been exploring new habitats, or simply have lost her way. 'We generally think of humpback whales as very well studied, but then they surprise us with things like this,’ Palacios says. ‘Undoubtedly there are a lot of things we still don’t know about whale migration.’"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "What TWO aspects of the whale’s journey surprised researchers?",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What TWO aspects of the whale’s journey surprised researchers?",
+            "answer": "B, C (in either order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "the destination"
+              },
+              {
+                "label": "B",
+                "text": "the direction"
+              },
+              {
+                "label": "C",
+                "text": "the distance"
+              },
+              {
+                "label": "D",
+                "text": "the reason"
+              },
+              {
+                "label": "E",
+                "text": "the season"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What TWO aspects of the whale’s journey surprised researchers?",
+            "answer": "B, C (in either order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "the destination"
+              },
+              {
+                "label": "B",
+                "text": "the direction"
+              },
+              {
+                "label": "C",
+                "text": "the distance"
+              },
+              {
+                "label": "D",
+                "text": "the reason"
+              },
+              {
+                "label": "E",
+                "text": "the season"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "The passage mentions reasons why whales generally migrate. What TWO reasons are given?",
+        "questions": [
+          {
+            "number": 3,
+            "text": "The passage mentions reasons why whales generally migrate. What TWO reasons are given?",
+            "answer": "C, E (in either order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "to avoid humans"
+              },
+              {
+                "label": "B",
+                "text": "to be safe"
+              },
+              {
+                "label": "C",
+                "text": "to eat"
+              },
+              {
+                "label": "D",
+                "text": "to keep warm"
+              },
+              {
+                "label": "E",
+                "text": "to produce young"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "The passage mentions reasons why whales generally migrate. What TWO reasons are given?",
+            "answer": "C, E (in either order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "to avoid humans"
+              },
+              {
+                "label": "B",
+                "text": "to be safe"
+              },
+              {
+                "label": "C",
+                "text": "to eat"
+              },
+              {
+                "label": "D",
+                "text": "to keep warm"
+              },
+              {
+                "label": "E",
+                "text": "to produce young"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "What TWO methods did researchers use to record the identity of the whale near Brazil?",
+        "questions": [
+          {
+            "number": 5,
+            "text": "What TWO methods did researchers use to record the identity of the whale near Brazil?",
+            "answer": "A OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "They analysed part of the whale’s body."
+              },
+              {
+                "label": "B",
+                "text": "They marked its tail."
+              },
+              {
+                "label": "C",
+                "text": "They made notes of its behaviour."
+              },
+              {
+                "label": "D",
+                "text": "They recorded the sounds it made."
+              },
+              {
+                "label": "E",
+                "text": "They took a picture."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "What TWO methods did researchers use to record the identity of the whale near Brazil?",
+            "answer": "A OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "They analysed part of the whale’s body."
+              },
+              {
+                "label": "B",
+                "text": "They marked its tail."
+              },
+              {
+                "label": "C",
+                "text": "They made notes of its behaviour."
+              },
+              {
+                "label": "D",
+                "text": "They recorded the sounds it made."
+              },
+              {
+                "label": "E",
+                "text": "They took a picture."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "The passage mentions places the whale may have passed close to on its journey. Which TWO places may the whale have passed?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "The passage mentions places the whale may have passed close to on its journey. Which TWO places may the whale have passed?",
+            "answer": "A OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Antarctica"
+              },
+              {
+                "label": "B",
+                "text": "Hawaii"
+              },
+              {
+                "label": "C",
+                "text": "Maine"
+              },
+              {
+                "label": "D",
+                "text": "New Zealand"
+              },
+              {
+                "label": "E",
+                "text": "South Africa"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The passage mentions places the whale may have passed close to on its journey. Which TWO places may the whale have passed?",
+            "answer": "A OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "Antarctica"
+              },
+              {
+                "label": "B",
+                "text": "Hawaii"
+              },
+              {
+                "label": "C",
+                "text": "Maine"
+              },
+              {
+                "label": "D",
+                "text": "New Zealand"
+              },
+              {
+                "label": "E",
+                "text": "South Africa"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "The passage says that more research is done in the Northern Hemisphere. Which TWO reasons are given for this?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "The passage says that more research is done in the Northern Hemisphere. Which TWO reasons are given for this?",
+            "answer": "B OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "It contains more whales."
+              },
+              {
+                "label": "B",
+                "text": "It has friendlier surroundings."
+              },
+              {
+                "label": "C",
+                "text": "There are more samples available."
+              },
+              {
+                "label": "D",
+                "text": "It is easier to reach."
+              },
+              {
+                "label": "E",
+                "text": "It contains smaller whales."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The passage says that more research is done in the Northern Hemisphere. Which TWO reasons are given for this?",
+            "answer": "B OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "It contains more whales."
+              },
+              {
+                "label": "B",
+                "text": "It has friendlier surroundings."
+              },
+              {
+                "label": "C",
+                "text": "There are more samples available."
+              },
+              {
+                "label": "D",
+                "text": "It is easier to reach."
+              },
+              {
+                "label": "E",
+                "text": "It contains smaller whales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "The passage suggests why the whale made a different journey from usual. Which TWO reasons does it suggest?",
+        "questions": [
+          {
+            "number": 11,
+            "text": "The passage suggests why the whale made a different journey from usual. Which TWO reasons does it suggest?",
+            "answer": "A OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "She did not know where she was going."
+              },
+              {
+                "label": "B",
+                "text": "She did not want to breed."
+              },
+              {
+                "label": "C",
+                "text": "She wanted to escape a danger."
+              },
+              {
+                "label": "D",
+                "text": "She was looking for a new place to live."
+              },
+              {
+                "label": "E",
+                "text": "She was recovering from an illness."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The passage suggests why the whale made a different journey from usual. Which TWO reasons does it suggest?",
+            "answer": "A OR D IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "She did not know where she was going."
+              },
+              {
+                "label": "B",
+                "text": "She did not want to breed."
+              },
+              {
+                "label": "C",
+                "text": "She wanted to escape a danger."
+              },
+              {
+                "label": "D",
+                "text": "She was looking for a new place to live."
+              },
+              {
+                "label": "E",
+                "text": "She was recovering from an illness."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which TWO methods of finding out where whales migrate are mentioned in the passage?",
+        "questions": [
+          {
+            "number": 13,
+            "text": "Which TWO methods of finding out where whales migrate are mentioned in the passage?",
+            "answer": "B OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "attaching radio transmitters"
+              },
+              {
+                "label": "B",
+                "text": "comparing pictures taken in different place"
+              },
+              {
+                "label": "C",
+                "text": "following them in boats"
+              },
+              {
+                "label": "D",
+                "text": "placing cameras in key positions"
+              },
+              {
+                "label": "E",
+                "text": "following their movements from space."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Which TWO methods of finding out where whales migrate are mentioned in the passage?",
+            "answer": "B OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "attaching radio transmitters"
+              },
+              {
+                "label": "B",
+                "text": "comparing pictures taken in different place"
+              },
+              {
+                "label": "C",
+                "text": "following them in boats"
+              },
+              {
+                "label": "D",
+                "text": "placing cameras in key positions"
+              },
+              {
+                "label": "E",
+                "text": "following their movements from space."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T03:49:47.239933"
+}

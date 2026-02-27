@@ -1,0 +1,154 @@
+{
+  "id": "ielts-r-0125",
+  "slug": "density-and-crowding",
+  "title": "Density and Crowding",
+  "page_range": [
+    640,
+    643
+  ],
+  "raw_answer_key": {
+    "1": "iv",
+    "8": "PRIVACY",
+    "2": "vii",
+    "9": "MALE PRISON",
+    "3": "x",
+    "10": "PERSONAL SPACE",
+    "4": "i",
+    "11": "ATTRACTION",
+    "5": "vi",
+    "12": "HELP",
+    "6": "ii",
+    "13": "CONTROL",
+    "7": "viii"
+  },
+  "content": {
+    "title": "Density and Crowding",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Of the great myriad of problems which man and the world face today, there are three significant fiends which stand above all others in importance: the unprecedented population growth throughout the world—a net increase of 1,400,000 people per week—and all of its associations and consequences; the increasing urbanization of these people, so that more and more of them are rushing into cities and urban areas of the world; and the tremendous explosion of communication and social contact throughout the world, so that every part of the world is now aware of every other part. All of these fiends are producing increased crowding and the perception of crowding."
+      },
+      {
+        "label": "B",
+        "content": "It is important to emphasize at the outset that crowding and density are not necessarily the same. Density is the number of individuals per unit area or unit space. It is a simple physical measurement. Crowding is a product of density, communication, contact, and activity. It implies a pressure, a force, and a psychological reaction. It may occur at widely different densities. The frontiersman may have felt crowded when someone built a homestead a mile away. The suburbanite may feel relatively uncrowded in a small house on a half-acre lot if it is surrounded by trees, bushes, and a hedgerow, even though he lives under much higher physical density than did the frontiersman. Hence, crowding is very much a psychological and ecological phenomenon, and not just a physical condition."
+      },
+      {
+        "label": "C",
+        "content": "A classic crowding study was done by Calhoun (1962), who put rats into a physical environment designed to accommodate 50 rats and provided enough food, water, and nesting materials for the number of rats in the environment. The rat population peaked at 80, providing a look at cramped living conditions. Although the rats experienced no resource limitations other than space restriction, a number of negative conditions developed: the two most dominant males took harems of several female rats and occupied more than their share of space, leaving other rats even more crowded; many females stopped building nests and abandoned their infant rats; the pregnancy rate declined; infant and adult mortality rates increased; more aggressive and physical attacks occurred; sexual variation increased, including hypersexuality, inhibited sexuality, homosexuality, and bisexuality."
+      },
+      {
+        "label": "D",
+        "content": "Calhoun’s results have led to other research on crowding’s effects on human beings, and these research findings have suggested that high density is not the single cause of negative effects on humans. When crowding is defined only in terms of spatial density (the amount of space per person), the effects of crowding are variable. However, if crowding is defined in terms of social density, or the number of people who must interact, then crowding better predicts negative psychological and physical effects."
+      },
+      {
+        "label": "E",
+        "content": "There are several reasons why crowding makes us feel uncomfortable. One reason is related to stimulus overload—there are just too many stimuli competing for our attention. We cannot notice or respond to all of them. This feeling is typical of the harried mother, who has several children competing for her attention, while she is on the phone and the doorbell is ringing. This leaves her feeling confused, fatigued, and yearning to withdraw from the situation. There are strong feelings of a lack of privacy—being unable to pay attention to what you want without being repeatedly interrupted or observed by others."
+      },
+      {
+        "label": "F",
+        "content": "Field studies done in a variety of settings illustrate that social density is associated with negative effects on human beings. In prison studies, males generally became more aggressive with increases in density. In male prisons, inmates living in conditions of higher densities were more likely to suffer from fights. Males rated themselves as more aggressive in small rooms (a situation of high spatial density), whilst the females rated themselves as more aggressive in large rooms (Stokols et al., 1973). These differences relate to the different personal space requirements of the genders. Besides, Baum and Greenberg found that high density leads to decreased attraction, both physical attraction and liking towards others, and it appears to have gender differences in the impact that density has on attraction levels, with males experiencing a more extreme reaction. Also, the greater the density is, the less the helping behavior. One reason why the level of helping behavior may be reduced in crowded situations links to the concept of diffusion of responsibility. The more people that are present in a situation that requires help, the less often help is given. This may be due to the fact that people diffuse responsibility among themselves with no-one feeling that they ought to be the one to help."
+      },
+      {
+        "label": "G",
+        "content": "Facing all these problems, what are we going to do with them? The more control a person has over the crowded environment, the less negatively they experience it, thus the perceived crowding is less (Schmidt and Keating). The ability to cope with crowding is also influenced by the relationship the individual has with the other people in the situation. The high density will be interpreted less negatively if the individual experiences it with people he likes. One of the main coping strategies employed to limit the impact of high density is social withdrawal. This includes behaviors such as averting the gaze and using negative body language to attempt to block any potential intrusions."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs A-G from the list of headings below. Write the correct number, i-x, in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "iv",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "vii",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "x",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "i",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "vi",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "ii",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Paragraph G",
+            "answer": "viii",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Being disturbed repeatedly, the harried mother feels frustrated for the lack of",
+            "answer": "PRIVACY",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Inmates in high density settings were more aggressive in",
+            "answer": "MALE PRISON",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "The different result between male and female is associated with the varying need of",
+            "answer": "PERSONAL SPACE",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Especially for male, Baum and Greenberg found that",
+            "answer": "ATTRACTION",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "The idea of responsibility diffusion may explain a person’s reluctant to",
+            "answer": "HELP",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Schmidt and Keating suggest that if more",
+            "answer": "CONTROL",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:53:28.912090"
+}

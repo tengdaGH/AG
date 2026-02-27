@@ -1,0 +1,441 @@
+{
+  "id": "ielts-r-0351",
+  "slug": "putting-the-brakes-on-climate-change-are-hydrogen-cars-the-answer",
+  "title": "Putting the brakes on climate change: Are hydrogen cars the answer?",
+  "page_range": [
+    1786,
+    1790
+  ],
+  "raw_answer_key": {
+    "1": "vii",
+    "8": "silent",
+    "2": "iv",
+    "9": "battery",
+    "10": "portable",
+    "3": "vi computers",
+    "4": "v",
+    "11": "FALSE",
+    "5": "viii",
+    "12": "NOT GIVEN",
+    "6": "iii",
+    "13": "TRUE",
+    "7": "combustion engine",
+    "14": "TRUE"
+  },
+  "content": {
+    "title": "Putting the brakes on climate change: Are hydrogen cars the answer?",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "It is tempting to think that the conservation of coral reefs and rainforests is a separate issue from traffic and air pollution. But it is not. Scientists are now confident that rapid changes in the Earth’s climate are already disrupting and altering many wildlife habitats. Pollution from vehicles is a big part of the problem."
+      },
+      {
+        "label": "B",
+        "content": "The United Nation’s Climate Change Panel has estimated that the global average temperature rise expected by the year 2100 could be as much as 6°C, causing forest fires and dieback on land and coral bleaching in the ocean. Few species, if any, will be immune from the changes in temperature, rainfall and sea levels. The panel believes that if such catastrophic temperature rises are to be avoided, the quantity of greenhouse gases, especially carbon dioxide, being released into the atmosphere must be reduced. That will depend on slowing the rate of deforestation and, more crucially, finding alternatives to coal, oil and gas as our principal energy sources."
+      },
+      {
+        "label": "C",
+        "content": "Technologies do exist to reduce or eliminate carbon dioxide as a waste product of our energy consumption. Wind power and solar power are both spreading fast, but what are we doing about traffic? Electric cars are one possible option, but their range and the time it takes to charge their batteries pose serious limitations. However, the technology that shows the most potential to make cars climate-friendly is fuel-cell technology. This was actually invented in the late nineteenth century, but because the world’s motor industry put its effort into developing the combustion engine, it was never refined for mass production. One of the first prototype fuel-cell-powered vehicles have been built by the Ford Motor Company. It is like a conventional car, only with better acceleration and a smoother ride. Ford engineers expect to be able to produce a virtually silent vehicle in the future."
+      },
+      {
+        "label": "D",
+        "content": "So what’s the process involved – and is there a catch? Hydrogen goes into the fuel tank, producing electricity. The only emission from the exhaust pipe is water. The fuel-cell is, in some ways similar to a battery, but unlike a battery, it does not run down. As long as hydrogen and oxygen are supplied to the cell, it will keep on generating electricity. Some cells work off methane and a few use liquid fuels such as methanol, but fuel-cells using hydrogen probably have the most potential. Furthermore, they need not be limited to transport. Fuel-cells can be made in a huge range of size, small enough for portable computers or large enough for power stations. They have no moving parts and therefore need no oil. They just need a supply of hydrogen. The big question, then, is where to get it from."
+      },
+      {
+        "label": "E",
+        "content": "One source of hydrogen is water. But to exploit the abundant resource, electricity is needed, and if the electricity is produced by a coal-fired power station or other fossil fuel, then the overall carbon reduction benefit of the fuel-cell disappears. Renewable sources, such as wind and solar power, do not produce enough energy for it to be economically viable to use them in the 'manufacture' of hydrogen as a transport fuel. Another source of hydrogen is, however, available and could provide a supply pending the development of more efficient and cheaper renewable energy technologies. By splitting natural gas (methane) into its constituent parts, hydrogen and carbon dioxide are produced. One way round the problem of what to do with the carbon dioxide could be to store it back below ground – so-called geological sequestration. Oil companies, such as Norway’s Statoil, are experimenting with storing carbon dioxide below ground in oil and gas wells."
+      },
+      {
+        "label": "F",
+        "content": "With freak weather conditions, arguably caused by global warming, frequently in the headlines, the urgent need to get fuel-cell vehicles will be available in most showrooms. Even now, fuel-cell buses are operating in the US, while in Germany a courier company is planning to take delivery of fuel-cell-powered vans in the near future. The fact that centrally-run fleets of buses and vans are the first fuel-cell vehicles identifies another challenge – fuel distribution. The refueling facilities necessary to top up hydrogen-powered vehicles are available only in a very few places at present. Public transport and delivery firms are logical places to start since their vehicles are operated from central depots."
+      },
+      {
+        "label": "G",
+        "content": "Fuel-cell technology is being developed right across the automotive industry. This technology could have a major impact in slowing down climate change, but further investment is needed if the industry – and the world’s wildlife – is to have a long-term future."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs A-F from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Action already taken by the United Nations"
+              },
+              {
+                "label": "ii",
+                "text": "Marketing the hydrogen car"
+              },
+              {
+                "label": "iii",
+                "text": "Making the new technology available worldwide"
+              },
+              {
+                "label": "iv",
+                "text": "Some negative predictions from one group of experts"
+              },
+              {
+                "label": "v",
+                "text": "How the new vehicle technology works"
+              },
+              {
+                "label": "vi",
+                "text": "The history of fuel-cell technology"
+              },
+              {
+                "label": "vii",
+                "text": "A holistic view of climatic change"
+              },
+              {
+                "label": "viii",
+                "text": "Locating the essential ingredient"
+              },
+              {
+                "label": "ix",
+                "text": "Sustaining car manufacture"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Action already taken by the United Nations"
+              },
+              {
+                "label": "ii",
+                "text": "Marketing the hydrogen car"
+              },
+              {
+                "label": "iii",
+                "text": "Making the new technology available worldwide"
+              },
+              {
+                "label": "iv",
+                "text": "Some negative predictions from one group of experts"
+              },
+              {
+                "label": "v",
+                "text": "How the new vehicle technology works"
+              },
+              {
+                "label": "vi",
+                "text": "The history of fuel-cell technology"
+              },
+              {
+                "label": "vii",
+                "text": "A holistic view of climatic change"
+              },
+              {
+                "label": "viii",
+                "text": "Locating the essential ingredient"
+              },
+              {
+                "label": "ix",
+                "text": "Sustaining car manufacture"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Action already taken by the United Nations"
+              },
+              {
+                "label": "ii",
+                "text": "Marketing the hydrogen car"
+              },
+              {
+                "label": "iii",
+                "text": "Making the new technology available worldwide"
+              },
+              {
+                "label": "iv",
+                "text": "Some negative predictions from one group of experts"
+              },
+              {
+                "label": "v",
+                "text": "How the new vehicle technology works"
+              },
+              {
+                "label": "vi",
+                "text": "The history of fuel-cell technology"
+              },
+              {
+                "label": "vii",
+                "text": "A holistic view of climatic change"
+              },
+              {
+                "label": "viii",
+                "text": "Locating the essential ingredient"
+              },
+              {
+                "label": "ix",
+                "text": "Sustaining car manufacture"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "Action already taken by the United Nations"
+              },
+              {
+                "label": "ii",
+                "text": "Marketing the hydrogen car"
+              },
+              {
+                "label": "iii",
+                "text": "Making the new technology available worldwide"
+              },
+              {
+                "label": "iv",
+                "text": "Some negative predictions from one group of experts"
+              },
+              {
+                "label": "v",
+                "text": "How the new vehicle technology works"
+              },
+              {
+                "label": "vi",
+                "text": "The history of fuel-cell technology"
+              },
+              {
+                "label": "vii",
+                "text": "A holistic view of climatic change"
+              },
+              {
+                "label": "viii",
+                "text": "Locating the essential ingredient"
+              },
+              {
+                "label": "ix",
+                "text": "Sustaining car manufacture"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Action already taken by the United Nations"
+              },
+              {
+                "label": "ii",
+                "text": "Marketing the hydrogen car"
+              },
+              {
+                "label": "iii",
+                "text": "Making the new technology available worldwide"
+              },
+              {
+                "label": "iv",
+                "text": "Some negative predictions from one group of experts"
+              },
+              {
+                "label": "v",
+                "text": "How the new vehicle technology works"
+              },
+              {
+                "label": "vi",
+                "text": "The history of fuel-cell technology"
+              },
+              {
+                "label": "vii",
+                "text": "A holistic view of climatic change"
+              },
+              {
+                "label": "viii",
+                "text": "Locating the essential ingredient"
+              },
+              {
+                "label": "ix",
+                "text": "Sustaining car manufacture"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Action already taken by the United Nations"
+              },
+              {
+                "label": "ii",
+                "text": "Marketing the hydrogen car"
+              },
+              {
+                "label": "iii",
+                "text": "Making the new technology available worldwide"
+              },
+              {
+                "label": "iv",
+                "text": "Some negative predictions from one group of experts"
+              },
+              {
+                "label": "v",
+                "text": "How the new vehicle technology works"
+              },
+              {
+                "label": "vi",
+                "text": "The history of fuel-cell technology"
+              },
+              {
+                "label": "vii",
+                "text": "A holistic view of climatic change"
+              },
+              {
+                "label": "viii",
+                "text": "Locating the essential ingredient"
+              },
+              {
+                "label": "ix",
+                "text": "Sustaining car manufacture"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "In the late nineteenth century, the car industry invested in the development of the",
+            "answer": "combustion engine",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Ford engineers predict that they will eventually design an almost",
+            "answer": "silent",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "While a fuel-cell lasts longer, some aspects of it are comparable to a",
+            "answer": "battery",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Fuel-cells can come in many sizes and can be used in power stations and in",
+            "answer": "portable",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage?",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Using electricity produced by burning fossil fuels to access sources of hydrogen may increase the positive effect of the fuel-cell.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The oil company Statoil in Norway owns gas wells in other parts of the world.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Public transport is leading the way in the application of fuel-cell technology.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "More funding is necessary to ensure the success of the fuel-cell vehicle industry.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T01:44:33.229724"
+}

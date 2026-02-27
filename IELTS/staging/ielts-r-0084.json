@@ -1,0 +1,323 @@
+{
+  "id": "ielts-r-0084",
+  "slug": "can-we-believe-our-own-eyes",
+  "title": "CAN WE BELIEVE OUR OWN EYES?",
+  "page_range": [
+    427,
+    432
+  ],
+  "raw_answer_key": {
+    "1": "physiological",
+    "8": "D",
+    "2": "knowledge and experience",
+    "9": "B",
+    "3": "direct realism",
+    "10": "A",
+    "4": "C",
+    "11": "B",
+    "5": "B",
+    "12": "A",
+    "6": "D",
+    "13": "C",
+    "7": "A"
+  },
+  "content": {
+    "title": "CAN WE BELIEVE OUR OWN EYES?",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "An optical illusion refers to a visually perceived image that is deceptive or misleading in that information transmitted from the eye to the brain is processed in a way that the related assumption or deduction does not represent the true physical reality. Our perceptions of what we think we see can be influenced by a number of external factors; 'illusions' can be classified into two main categories these being 'physiological illusions' and 'cognitive' illusions, the latter category can then be divided again into four sub-types."
+      },
+      {
+        "label": "B",
+        "content": "Physiological illusions occur as a result of excessive stimulation of the eyes and brain which leads to a temporary state of confusion and mixed messages. For example, after exposure to extremely vivid lights, the eyes may need time to adapt and immediately after the stimulus, we may see things that would not be the norm. In the same way a contingent perceptual after-effect may be experienced after staring at a particular colour and the receptors in the brain may process subsequent colours inaccurately until overload has passed."
+      },
+      {
+        "label": "C",
+        "content": "Cognitive illusions, on the other hand, are said to arise not as a result of neurone activity as with the aforementioned category, but due to assumptions we may consciously make based on our knowledge and experience of the world. The four categories of cognitive illusion are 'ambiguous' illusions, 'distorting' illusions 'paradox' illusions and 'fictional' illusions. Inclusion of 'fictional' illusions into the cognitive group is somewhat misleading; however, as this type of illusion is unique in that it is only seen by an individual in a given situation and exists in no tangible form. A fictional illusion is in reality a hallucination which arises as a result of drug use or a brain condition such as schizophrenia."
+      },
+      {
+        "label": "D",
+        "content": "Ambiguous illusions are pictures or objects which are structured in such a way that alternative perceptions of their structure are possible. Different individuals may instantly perceive the object or picture in a different way than another and, in fact, the same individual is often able to see and interpret the image or object in more than one form. A classic example of an ambiguous illusion is the Necker cube. This cube is a standard line drawing which our visual senses generally interpret as a three dimensional box. When the lines of the box cross, the picture intentionally does not define which is in front and which is behind. However, when individuals view the box, it is the automatic response of the mind to interpret what is seen. Generally our thought process patterns work in the way that we view objects from above; for this reason, when most people look at the Necker Cube they will interpret the lower left face as being the front of the box, the base of the front face being parallel to the floor as their thought processes convert the image to three dimensions. However, it is also possible to interpret the image differently in that the front of the box could also be seen to be in a different position."
+      },
+      {
+        "label": "E",
+        "content": "The Necker Cube made contributions to researchers’ understanding of the human visual system, providing evidence that the brain is a neural network with two distinct and interchangeable states. It has also been used in epistemology – the study of knowledge – as evidence to disprove the theory upheld by 'direct realism' that the way the human mind perceives the world is the way the world actually is. To illustrate, with the Necker cube we are generally able to see one or both versions of a three dimensional cube, when in fact only a two dimensional drawing comprised of 12 lines exists."
+      },
+      {
+        "label": "F",
+        "content": "Distorting illusions affect an individual’s ability to judge size, length, or curvature; the Muller-Lyer illusion which consists of three lines with arrow-like endings is a prime example. In this illusion the middle arrow has both arrow ends pointing out, while the line above it has arrow' ends pointing in and the third and final line possesses one inward pointing and one outward pointing arrow' end. Most respondents from certain backgrounds generally respond that the middle arrow is the longest (though all are in fact the same). However, cultural backgrounds affect perceptions related to this illusion; international research having shown that non-Western subjects, particularly those generally not exposed to rectangular shaped buildings and door frames in their day to day life, are less likely to misinterpret the true length of the three drawings."
+      },
+      {
+        "label": "G",
+        "content": "Paradox illusions encourage the mind to believe that we are seeing something we know to be impossible. The Penrose Stairs and the Penrose Triangle, developed by Lionel Penrose are examples of models created to illustrate this phenomenon. Many naturally occurring optical illusions also exist. Throughout the world there a number of locations where objects can be perceived to roll uphill; our cognitive and pre-learned knowledge inform us that this is impossible; however information received by the visual senses of observers creates conflict. These areas are often known as 'gravity hills or 'magnetic' hills and are often popular with tourists; the mystical properties of the area often promoted vigorously to add mystique or claimed to arise as a result of the special properties and magnetic influence of the area's land."
+      },
+      {
+        "label": "H",
+        "content": "The scientific explanation for such phenomenon is that such areas are set on slightly sloping ground without a visible horizon against which to establish perspective. In addition, surrounding points of reference we would generally expect to be perpendicular, such as trees, are in fact on a slope. The interpretation of what observers believe they are experiencing is therefore confused, downward slopes may be perceived to be horizontal or tilting upwards and cars with hand brakes released on such ground appear to roll upwards when in fact they are rolling, as gravity dictates, in a downhill direction. While our innate sense of balance under normal situations helps us determine the inclination of the ground, interference from the visual stimuli as outlined above and lack of reference from points on the horizon can override this ability in such situations, especially if the gradient is gentle."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What type of illusion is a result of interference with neurone activity?",
+            "answer": "physiological"
+          },
+          {
+            "number": 2,
+            "text": "Which two factors influence the way we process information on a cognitive level?",
+            "answer": "knowledge and experience"
+          },
+          {
+            "number": 3,
+            "text": "Which theory holds that individuals see only the true reality of a situation?",
+            "answer": "direct realism"
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "According to the information in Reading Passage, classify the following as relating to A. Fictional illusions, B. Paradox illusions, C. Distorting illusions, D. Ambiguous illusions.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "may be perceived differently by individuals of diverse ethnic origin",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Fictional illusions"
+              },
+              {
+                "label": "B",
+                "text": "Paradox illusions"
+              },
+              {
+                "label": "C",
+                "text": "Distorting illusions"
+              },
+              {
+                "label": "D",
+                "text": "Ambiguous illusions"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "may override our natural ability to make rational judgement",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Fictional illusions"
+              },
+              {
+                "label": "B",
+                "text": "Paradox illusions"
+              },
+              {
+                "label": "C",
+                "text": "Distorting illusions"
+              },
+              {
+                "label": "D",
+                "text": "Ambiguous illusions"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "may be interpreted differently even by the same subject",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Fictional illusions"
+              },
+              {
+                "label": "B",
+                "text": "Paradox illusions"
+              },
+              {
+                "label": "C",
+                "text": "Distorting illusions"
+              },
+              {
+                "label": "D",
+                "text": "Ambiguous illusions"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "may result due to chemical stimulation",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Fictional illusions"
+              },
+              {
+                "label": "B",
+                "text": "Paradox illusions"
+              },
+              {
+                "label": "C",
+                "text": "Distorting illusions"
+              },
+              {
+                "label": "D",
+                "text": "Ambiguous illusions"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "has been used to question the validity of arguments in a different field",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Fictional illusions"
+              },
+              {
+                "label": "B",
+                "text": "Paradox illusions"
+              },
+              {
+                "label": "C",
+                "text": "Distorting illusions"
+              },
+              {
+                "label": "D",
+                "text": "Ambiguous illusions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Fictional illusions",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "may eventually lead to schizophrenia."
+              },
+              {
+                "label": "B",
+                "text": "are the only type which are completely subjective."
+              },
+              {
+                "label": "C",
+                "text": "are very similar to paradox illusions."
+              },
+              {
+                "label": "D",
+                "text": "are typical of cognitive illusions."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "According to ambiguous illusion theory, which face of the Necker Cube is interpreted to be the front of the box due to the general tendency to view objects from above?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "lower left face"
+              },
+              {
+                "label": "B",
+                "text": "upper right face"
+              },
+              {
+                "label": "C",
+                "text": "lower right face"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Which diagram represents the Muller-Lyer illusion?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "diagram A"
+              },
+              {
+                "label": "B",
+                "text": "diagram B"
+              },
+              {
+                "label": "C",
+                "text": "diagram C"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The Penrose Stairs are an example of a model which",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "can persuade the viewer they are seeing something infeasible."
+              },
+              {
+                "label": "B",
+                "text": "has disproven established theories on knowledge."
+              },
+              {
+                "label": "C",
+                "text": "is a naturally occurring paradox illusion."
+              },
+              {
+                "label": "D",
+                "text": "can be seen in a number of international locations."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Occurrences on ‘gravity’ or ‘magnetic’ hills result due to",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the mineral content of soil in the area."
+              },
+              {
+                "label": "B",
+                "text": "factors currently unexplained from a scientific perspective."
+              },
+              {
+                "label": "C",
+                "text": "misleading natural points of reference."
+              },
+              {
+                "label": "D",
+                "text": "rising slopes being misinterpreted as on a decline."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:43:02.547421"
+}

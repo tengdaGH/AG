@@ -1,0 +1,491 @@
+{
+  "id": "ielts-r-0550",
+  "slug": "the-scientific-method",
+  "title": "The scientific method",
+  "page_range": [
+    2785,
+    2789
+  ],
+  "raw_answer_key": {
+    "7": "B/F (in either",
+    "1": "iv order)",
+    "2": "vii",
+    "8": "YES",
+    "3": "iii",
+    "9": "NO",
+    "4": "v",
+    "10": "NOT GIVEN",
+    "5": "vi",
+    "11": "YES",
+    "6": "B/F (in either",
+    "12": "D order)"
+  },
+  "content": {
+    "title": "The Scientific Method",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "‘Hypotheses,’ said Medawar in 1964, ‘are imaginative and inspirational in character’; they are ‘adventures of the mind’. He was arguing in favour of the position taken by Karl Popper in The Logic of Scientific Discovery (1972, 3rd edition) that the nature of scientific method is hypothetico-deductive and not, as is generally believed, inductive."
+      },
+      {
+        "label": "B",
+        "content": "It is essential that you, as an intending researcher, understand the difference between these two interpretations of the research process so that you do not become discouraged or begin to suffer from a feeling of ‘cheating’ or not going about it the right way."
+      },
+      {
+        "label": "C",
+        "content": "The myth of scientific method is that it is inductive: that the formulation of scientific theory starts with the basic, raw evidence of the senses - simple, unbiased, unprejudiced observation. Out of these sensory data - commonly referred to as ‘facts’ — generalisations will form. The myth is that from a disorderly array of factual information an orderly, relevant theory will somehow emerge. However, the starting point of induction is an impossible one."
+      },
+      {
+        "label": "D",
+        "content": "There is no such thing as an unbiased observation. Every act of observation we make is a function of what we have seen or otherwise experienced in the past. All scientific work of an experimental or exploratory nature starts with some expectation about the outcome. This expectation is a hypothesis. Hypotheses provide the initiative and incentive for the inquiry and influence the method. It is in the light of an expectation that some observations are held to be relevant and some irrelevant, that one methodology is chosen and others discarded, that some experiments are conducted and others are not. Where is, your naive, pure and objective researcher now?"
+      },
+      {
+        "label": "E",
+        "content": "Hypotheses arise by guesswork, or by inspiration, but having been formulated they can and must be tested rigorously, using the appropriate methodology. If the predictions you make as a result of deducing certain consequences from your hypothesis are not shown to be correct then you discard or modify your hypothesis. If the predictions turn out to be correct then your hypothesis has been supported and may be retained until such time as some further test shows it not to be correct. Once you have arrived at your hypothesis, which is a product of your imagination, you then proceed to a strictly logical and rigorous process, based upon deductive argument — hence the term ‘hypothetico-deductive’."
+      },
+      {
+        "label": "F",
+        "content": "So don’t worry if you have some idea of what your results will tell you before you even begin to collect data; there are no scientists in existence who really wait until they have all the evidence in front of them before they try to work out what it might possibly mean. The closest we ever get to this situation is when something happens by accident; but even then the researcher has to formulate a hypothesis to be tested before being sure that, for example, a mould might prove to be a successful antidote to bacterial infection."
+      },
+      {
+        "label": "G",
+        "content": "The myth of scientific method is not only that it is inductive (which we have seen is incorrect) but also that the hypothetico-deductive method proceeds in a step-by-step, inevitable fashion. The hypothetico-deductive method describes the logical approach to much research work, but it does not describe the psychological behaviour that brings it about. This is much more holistic — involving guesses, reworkings, corrections, blind alleys and above all inspiration, in the deductive as well as the hypothetic component -than is immediately apparent from reading the final thesis or published papers. These have been, quite properly, organised into a more serial, logical order so that the worth of the output may be evaluated independently of the behavioural processes by which it was obtained. It is the difference, for example between the academic papers with which Crick and Watson demonstrated the structure of the DNA molecule and the fascinating book The Double Helix in which Watson (1968) described how they did it. From this point of view, ‘scientific method’ may more usefully be thought of as a way of writing up research rather than as a way of carrying it out."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the most suitable headings for paragraphs C-G from the list of headings below. Write the appropriate numbers i-x in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph C",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "The Crick and Watson approach to research"
+              },
+              {
+                "label": "ii",
+                "text": "Antidotes to bacterial infection"
+              },
+              {
+                "label": "iii",
+                "text": "The testing of hypotheses"
+              },
+              {
+                "label": "iv",
+                "text": "Explaining the inductive method"
+              },
+              {
+                "label": "v",
+                "text": "Anticipating results before data is collected"
+              },
+              {
+                "label": "vi",
+                "text": "How research is done and how it is reported"
+              },
+              {
+                "label": "vii",
+                "text": "The role of hypotheses in scientific research"
+              },
+              {
+                "label": "viii",
+                "text": "Deducing the consequences of hypotheses"
+              },
+              {
+                "label": "ix",
+                "text": "Karl Popper’s claim that the scientific method is hypothetico-deductive"
+              },
+              {
+                "label": "x",
+                "text": "The unbiased researcher"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph D",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The Crick and Watson approach to research"
+              },
+              {
+                "label": "ii",
+                "text": "Antidotes to bacterial infection"
+              },
+              {
+                "label": "iii",
+                "text": "The testing of hypotheses"
+              },
+              {
+                "label": "iv",
+                "text": "Explaining the inductive method"
+              },
+              {
+                "label": "v",
+                "text": "Anticipating results before data is collected"
+              },
+              {
+                "label": "vi",
+                "text": "How research is done and how it is reported"
+              },
+              {
+                "label": "vii",
+                "text": "The role of hypotheses in scientific research"
+              },
+              {
+                "label": "viii",
+                "text": "Deducing the consequences of hypotheses"
+              },
+              {
+                "label": "ix",
+                "text": "Karl Popper’s claim that the scientific method is hypothetico-deductive"
+              },
+              {
+                "label": "x",
+                "text": "The unbiased researcher"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph E",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The Crick and Watson approach to research"
+              },
+              {
+                "label": "ii",
+                "text": "Antidotes to bacterial infection"
+              },
+              {
+                "label": "iii",
+                "text": "The testing of hypotheses"
+              },
+              {
+                "label": "iv",
+                "text": "Explaining the inductive method"
+              },
+              {
+                "label": "v",
+                "text": "Anticipating results before data is collected"
+              },
+              {
+                "label": "vi",
+                "text": "How research is done and how it is reported"
+              },
+              {
+                "label": "vii",
+                "text": "The role of hypotheses in scientific research"
+              },
+              {
+                "label": "viii",
+                "text": "Deducing the consequences of hypotheses"
+              },
+              {
+                "label": "ix",
+                "text": "Karl Popper’s claim that the scientific method is hypothetico-deductive"
+              },
+              {
+                "label": "x",
+                "text": "The unbiased researcher"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph F",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "The Crick and Watson approach to research"
+              },
+              {
+                "label": "ii",
+                "text": "Antidotes to bacterial infection"
+              },
+              {
+                "label": "iii",
+                "text": "The testing of hypotheses"
+              },
+              {
+                "label": "iv",
+                "text": "Explaining the inductive method"
+              },
+              {
+                "label": "v",
+                "text": "Anticipating results before data is collected"
+              },
+              {
+                "label": "vi",
+                "text": "How research is done and how it is reported"
+              },
+              {
+                "label": "vii",
+                "text": "The role of hypotheses in scientific research"
+              },
+              {
+                "label": "viii",
+                "text": "Deducing the consequences of hypotheses"
+              },
+              {
+                "label": "ix",
+                "text": "Karl Popper’s claim that the scientific method is hypothetico-deductive"
+              },
+              {
+                "label": "x",
+                "text": "The unbiased researcher"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph G",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "The Crick and Watson approach to research"
+              },
+              {
+                "label": "ii",
+                "text": "Antidotes to bacterial infection"
+              },
+              {
+                "label": "iii",
+                "text": "The testing of hypotheses"
+              },
+              {
+                "label": "iv",
+                "text": "Explaining the inductive method"
+              },
+              {
+                "label": "v",
+                "text": "Anticipating results before data is collected"
+              },
+              {
+                "label": "vi",
+                "text": "How research is done and how it is reported"
+              },
+              {
+                "label": "vii",
+                "text": "The role of hypotheses in scientific research"
+              },
+              {
+                "label": "viii",
+                "text": "Deducing the consequences of hypotheses"
+              },
+              {
+                "label": "ix",
+                "text": "Karl Popper’s claim that the scientific method is hypothetico-deductive"
+              },
+              {
+                "label": "x",
+                "text": "The unbiased researcher"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "In which TWO paragraphs in Reading Passage does the writer give advice directly to the reader?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "In which TWO paragraphs in Reading Passage does the writer give advice directly to the reader?",
+            "answer": "B/F (in either",
+            "options": [
+              {
+                "label": "A",
+                "text": "Paragraph A"
+              },
+              {
+                "label": "B",
+                "text": "Paragraph B"
+              },
+              {
+                "label": "C",
+                "text": "Paragraph C"
+              },
+              {
+                "label": "D",
+                "text": "Paragraph D"
+              },
+              {
+                "label": "E",
+                "text": "Paragraph E"
+              },
+              {
+                "label": "F",
+                "text": "Paragraph F"
+              },
+              {
+                "label": "G",
+                "text": "Paragraph G"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "In which TWO paragraphs in Reading Passage does the writer give advice directly to the reader?",
+            "answer": "order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "Paragraph A"
+              },
+              {
+                "label": "B",
+                "text": "Paragraph B"
+              },
+              {
+                "label": "C",
+                "text": "Paragraph C"
+              },
+              {
+                "label": "D",
+                "text": "Paragraph D"
+              },
+              {
+                "label": "E",
+                "text": "Paragraph E"
+              },
+              {
+                "label": "F",
+                "text": "Paragraph F"
+              },
+              {
+                "label": "G",
+                "text": "Paragraph G"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements reflect the opinions of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Popper says that the scientific method is hypothetico-deductive.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "If a prediction based on a hypothesis is fulfilled, then the hypothesis is confirmed as true.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Many people carry out research in a mistaken way.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The ‘scientific method’ is more a way of describing research than a way of doing it.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letter A-D and write it in box 12 on your answer sheet.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Which of the following statements best describes the writer’s main purpose in Reading Passage?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "to advise Ph.D students not to cheat while carrying out research"
+              },
+              {
+                "label": "B",
+                "text": "to encourage Ph.D students to work by guesswork and inspiration"
+              },
+              {
+                "label": "C",
+                "text": "to explain to Ph.D students the logic which the scientific research paper follows"
+              },
+              {
+                "label": "D",
+                "text": "to help Ph.D students by explaining different conceptions of the research process"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-26T02:17:26.189842"
+}

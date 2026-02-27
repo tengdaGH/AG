@@ -1,0 +1,291 @@
+{
+  "id": "ielts-r-0471",
+  "slug": "the-exploration-of-mars",
+  "title": "The Exploration of Mars",
+  "page_range": [
+    2391,
+    2395
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "B",
+    "2": "H",
+    "9": "B",
+    "3": "A",
+    "10": "B",
+    "4": "G",
+    "11": "NOT GIVEN",
+    "5": "E",
+    "12": "FALSE",
+    "6": "F",
+    "13": "TRUE",
+    "7": "C",
+    "14": "NOT GIVEN"
+  },
+  "content": {
+    "title": "The Exploration of Mars",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In 1877, Giovanni Schiaparelli, an Italian astronomer, made drawings and maps of the Martian surface that suggested strange features. The images from telescopes at this time were not as sharp as today’s. Schiaparelli said he could see a network of lines, or canali. In 1894, an American astronomer, Percival Lowell, made a series of observations of Mars from his own observatory at Flagstaff, Arizona, USA. Lowell was convinced a great network of canals had been dug to irrigate crops for the Martian race! He suggested that each canal had fertile vegetation on either side, making them noticeable from Earth. Drawings and globes he made show a network of canals and oases all over the planet."
+      },
+      {
+        "label": "B",
+        "content": "The idea that there was intelligent life on Mars gained strength in the late 19th century. In 1898, H.G. Wells wrote a science fiction classic, The War of the Worlds about an invading force of Martians who try to conquer Earth. They use highly advanced technology (advanced for 1898) to crush human resistance in their path. In 1917, Edgar Rice Burroughs wrote the first in a series of 11 novels about Mars. Strange beings and rampaging Martian monsters gripped the public’s imagination. A radio broadcast by Orson Welles on Halloween night in 1938 of The War of the Worlds caused widespread panic across America. People ran into the streets in their pyjamas-millions believed the dramatic reports of a Martian invasion."
+      },
+      {
+        "label": "C",
+        "content": "Probes are very important to our understanding of other planets. Much of our recent knowledge comes from these robotic missions into space. The first images sent back from Mars came from Mariner 4 in July 1965. They showed a cratered and barren landscape, more like the surface of our moon than Earth. In 1969, Mariners 6 and 7 were launched and took 200 photographs of Mars’s southern hemisphere and pole on fly-by missions. But these showed little more information. In 1971, Mariner 9’s mission was to orbit the planet every 12 hours. In 1975, The USA sent two Viking probes to the planet, each with a lander and an orbiter. The Landers had sampler arms to scoop up Martian rocks and did experiments to try and find signs of life. Although no life was found, they sent back the first colour pictures of the planet’s surface and atmosphere from pivoting cameras."
+      },
+      {
+        "label": "D",
+        "content": "The Martian meteorite found on Earth aroused doubts to the above analysis. ALH84001 meteorite was discovered in December 1984 in Antarctica, by members of the ANSMET project; The sample was ejected from Mars about 17 million years ago and spent 11,000 years in or on the Antarctic ice sheets. Composition analysis by NASA revealed a kind of magnetite that on Earth, is only found in association with certain microorganisms. Some structures resembling the mineralized casts of terrestrial bacteria and their appendages fibrils or by-products occur in the rims of carbonate globules and pre-terrestrial aqueous alteration regions. The size and shape of the objects is consistent with Earthly fossilized nanobacteria but the existence of nanobacteria itself is still controversial."
+      },
+      {
+        "label": "E",
+        "content": "In 1965, the Mariner 4 probe discovered that Mars had no global magnetic field that would protect the planet from potentially life-threatening cosmic radiation and solar radiation; observations made in the late 1990s by the Mars Global Surveyor confirmed this discovery. Scientists speculate that the lack of magnetic shielding helped the solar wind blow away much of Mars’s atmosphere over the course of several billion years. After mapping cosmic radiation levels at various depths on Mars, researchers have concluded that any life within the first several meters of the planet’s surface would be killed by lethal doses of cosmic radiation. In 2007, it was calculated that DNA and RNA damage by cosmic radiation would limit life on Mars to depths greater than 7.5 metres below the planet’s surface. Therefore, the best potential locations for discovering life on Mars may be at subsurface environments that have not been studied yet. The disappearance of the magnetic field may have played a significant role in the process of Martian climate change. According to the scientists' valuation, the climate of Mars gradually transits from warm and wet to cold and dry after the magnetic field vanished."
+      },
+      {
+        "label": "F",
+        "content": "NASA’s recent missions have focused on another question: whether Mars held lakes or oceans of liquid water on its surface in the ancient past. Scientists have found hematite, a mineral that forms in the presence of water. Thus, the mission of the Mars Exploration Rovers of 2004 was not to look for present or past life, but for evidence of liquid water on the surface of Mars in the planet’s ancient past. Liquid water, necessary for Earth life and for metabolism as generally conducted by species on Earth, cannot exist on the surface of Mars under its present low atmospheric pressure and temperature, except at the lowest shaded elevations for short periods and liquid water does not appear at the surface itself. In March 2004, NASA announced that its rover Opportunity had discovered evidence that Mars was, in the ancient past, a wet planet. This had raised hopes that evidence of past life might be found on the planet today. ESA confirmed that the Mars Express orbiter had directly detected huge reserves of water ice at Mars’ south pole in January 2004."
+      },
+      {
+        "label": "G",
+        "content": "Researchers from the Center of Astrobiology (Spain) and the Catholic University of the North in Chile have found an ‘oasis’ of microorganisms two meters below the surface of the Atacama Desert, SOLID, a detector for signs of life which could be used in environments similar to subsoil on Mars. “We have named it a ‘microbial oasis’ because we found microorganisms developing in a habitat that was rich in rock salt and other highly hygroscopic compounds that absorb water” explained Victor Parro, researcher from the Center of Astrobiology in Spain. “If there are similar microbes on Mars or remains in similar conditions to the ones we have found in Atacama, we could detect them with instruments like SOLID” Parro highlighted."
+      },
+      {
+        "label": "H",
+        "content": "Even more intriguing, however, is the alternative scenario by Spanish scientists: If those samples could be found to use DNA, as Earthly life does, as their genetic code. It is extremely unlikely that such a highly specialised, complex molecule like DNA could have evolved separately on the two planets, indicating that there must be a common origin for Martian and Earthly life. Life based on DNA first appeared on Mars and then spread to Earth, where it then evolved into the myriad forms of plants and creatures that exist today. If this was found to be the case, we would have to face the logical conclusion: we are all Martian. If not, we would continue to search for signs of life."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading Passage has seven paragraphs A-H. Which paragraph contains the following information? Write the correct letter A-H, in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Martian evidence on Earth",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Mars and Earth may share the same life origin",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "certain agricultural construction was depicted specifically",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "the project which aims to identify life under similar condition of Mars",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Mars had experienced terrifying climate transformation",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Attempts in scientific investigation to find liquid water",
+            "answer": "F",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 7-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "How did Percival Lowell describe Mars in this passage?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Perfect observation location is in Arizona."
+              },
+              {
+                "label": "B",
+                "text": "Canals of Mars are broader than that of the earth."
+              },
+              {
+                "label": "C",
+                "text": "Dedicated water and agriculture trace is similar to the earth."
+              },
+              {
+                "label": "D",
+                "text": "Actively moving Martian lives are found by observation."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "How did people change their point of view towards Mars from 19th century?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "They experienced Martian attack."
+              },
+              {
+                "label": "B",
+                "text": "They learned knowledge of Mars through some literature works."
+              },
+              {
+                "label": "C",
+                "text": "They learned new concept by listening to a famous radio program."
+              },
+              {
+                "label": "D",
+                "text": "They attended lectures given by famous writers."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "In the 1960s, which information is correct about Mars by a number of probes sent to the space?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "It has a landscape full of rock and river."
+              },
+              {
+                "label": "B",
+                "text": "It was not as vivid as the Earth."
+              },
+              {
+                "label": "C",
+                "text": "It contained the same substance as in the moon."
+              },
+              {
+                "label": "D",
+                "text": "It had different images from the following probes."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "What is the implication of the project proceeded by technology called SOLID in the Atacama Desert?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "It could be employed to explore organisms under Martian conditions."
+              },
+              {
+                "label": "B",
+                "text": "This technology could NOT be used to identify life on similar conditions of Mars."
+              },
+              {
+                "label": "C",
+                "text": "The Atacama Desert is the only place that has a suitable environment for organisms."
+              },
+              {
+                "label": "D",
+                "text": "Life had not yet been found yet in the Atacama Desert."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 11-14 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Technology of Martian creature was superior than what human had at that time in every field according to The War of the Worlds",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Proof sent by Viking probes has not been challenged yet",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Analysis on meteorite from Mars found a substance which is connected to some germs",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "According to Victor Parro, their project will be deployed on Mars after they identified DNA substance on earth",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:34:07.343458"
+}

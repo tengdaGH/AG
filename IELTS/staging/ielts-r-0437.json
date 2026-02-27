@@ -1,0 +1,309 @@
+{
+  "id": "ielts-r-0437",
+  "slug": "the-beginning-of-intelligence",
+  "title": "The beginning of intelligence",
+  "page_range": [
+    2216,
+    2220
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "YES",
+    "2": "B",
+    "9": "NOT GIVEN",
+    "3": "D",
+    "10": "YES",
+    "4": "B",
+    "11": "C",
+    "5": "YES",
+    "12": "A",
+    "6": "YES",
+    "13": "E",
+    "7": "YES",
+    "14": "I"
+  },
+  "content": {
+    "title": "The beginning of intelligence",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "No one doubts that intelligence develops as children grow older. Yet the concept of intelligence has proved both quite difficult to define in unambiguous terms and unexpectedly controversial in some respects. Although, at one level, there seem to be almost as many definitions of intelligence as people who have tried to define it, there is broad agreement on two key features. That is, intelligence involves the capacity not only to learn from experience but also to adapt to one’s environment. However, we cannot leave the concept there. Before turning to what is known about the development of intelligence, it is necessary to consider whether we are considering the growth of one or many skills. That question has been tackled in rather different ways by psychometricians and by developmentalists."
+      },
+      {
+        "label": "B",
+        "content": "The former group has examined the issue by determining how children’s abilities on a wide range of tasks intercorrelate, or go together. Statistical techniques have been used to find out whether the patterns are best explained by one broad underlying capacity, general intelligence, or by a set of multiple, relatively separate, special skills in domains such as verbal and visuospatial ability. While it cannot be claimed that everyone agrees on what the results mean, most people now accept that for practical purposes it is reasonable to suppose that both are involved. In brief, the evidence in favour of some kind of general intellectual capacity is that people who are superior (or inferior) on one type of task tend also to be superior (or inferior) on others. Moreover, general measures of intelligence tend to have considerable powers to predict a person’s performance on a wide range of tasks requiring special skills. Nevertheless, it is plain that it is not at all uncommon for individuals to be very good at some sorts of task and yet quite poor at some others."
+      },
+      {
+        "label": "C",
+        "content": "Furthermore the influences that affect verbal skills are not quite the same as those that affect other skills. This approach to investigating intelligence is based on the nature of the task involved, but studies of age-related changes show that this is not the only, or necessarily the most important, approach. For instance, some decades ago, Horn and Cattell argued for a differentiation between what they termed‘fluid’ and‘crystallised’ intelligence. Fluid abilities are best assessed by tests that require mental manipulation of abstract symbols. Crystallised abilities, by contrast, reflect knowledge of the environment in which we live and past experience of similar tasks; they may be assessed by tests of comprehension and information. It seems that fluid abilities peak in early adult life, whereas crystallised abilities increase up to advanced old."
+      },
+      {
+        "label": "D",
+        "content": "Developmental studies also show that the interconnections between different skills vary with age. Thus in the first year of life an interest in perceptual patterns is a major contributor to cognitive abilities, whereas verbal abilities are more important later on. These findings seemed to suggest a substantial lack of continuity between infancy and middle childhood. However, it is important to realise that the apparent discontinuity will vary according to which of the cognitive skills were assessed in infancy. It has been found that tests of coping with novelty do predict later intelligence. These findings reinforce the view that young children’s intellectual performance needs to be assessed from their interest in and curiosity about the environment, and the extent to which this is applied to new situations, as well as by standardised intelligence testing."
+      },
+      {
+        "label": "E",
+        "content": "These psychometric approaches have focused on children’s increase in cognitive skills as they grow older. Piaget brought about a revolution in the approach to cognitive development through his arguments (backed up by observations) that the focus should be on the thinking processes involved rather than on levels of cognitive achievement. These ideas of Piaget gave rise to an immense body of research and it would be true to say that subsequent thinking has been heavily dependent on his genius in opening up new ways of thinking about cognitive development. Nevertheless, most of his concepts have had to be so radically revised, or rejected, that his theory no longer provides an appropriate basis for thinking about cognitive development. To appreciate why that is so, we need to focus on some rather different elements of Piaget’s theorising."
+      },
+      {
+        "label": "F",
+        "content": "The first element, which has stood the test of time, is his view that the child is an active agent of learning and of the importance of this activity in cognitive development. Numerous studies have shown how infants actively scan their environment; how they prefer patterned to non-patterned objects, how they choose novel over familiar stimuli, and how they explore their environment as if to see how it works. Children’s questions and comments vividly illustrate the ways in which they are constantly constructing schemes of what they know and trying out their ideas of how to fit new knowledge into those schemes or deciding that the schemes need modification. Moreover, a variety of studies have shown that active experiences have a greater effect on learning than comparable passive experiences. However, a second element concerns the notion that development proceeds through a series of separate stages that have to be gone through step-by-step, in a set order, each of which is characterised by a particular cognitive structure. That has turned out to be a rather misleading way of thinking about cognitive development, although it is not wholly wrong."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Most researchers accept that one feature of intelligence is the ability to",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "change our behaviour according to our situation."
+              },
+              {
+                "label": "B",
+                "text": "react to others’ behaviour patterns."
+              },
+              {
+                "label": "C",
+                "text": "experiment with environmental features."
+              },
+              {
+                "label": "D",
+                "text": "cope with unexpected setbacks."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What have psychometricians used statistics for?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "to find out if cooperative tasks are a useful tool in measuring certain skills"
+              },
+              {
+                "label": "B",
+                "text": "to explore whether several abilities are involved in the development of intelligence"
+              },
+              {
+                "label": "C",
+                "text": "to demonstrate that mathematical models can predict test results for different skills"
+              },
+              {
+                "label": "D",
+                "text": "to discover whether common sense is fundamental to developing children’s abilities"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Why are Horn and Cattell mentioned?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "They disagreed about the interpretation of different intelligence tests."
+              },
+              {
+                "label": "B",
+                "text": "Their research concerned both linguistic and mathematical abilities."
+              },
+              {
+                "label": "C",
+                "text": "They were the first to prove that intelligence can be measured by testing a range of special skills."
+              },
+              {
+                "label": "D",
+                "text": "Their work was an example of research into how people’s cognitive skills vary with age."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What was innovative about Piaget’s research?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "He refused to accept that children developed according to a set pattern."
+              },
+              {
+                "label": "B",
+                "text": "He emphasised the way children thought more than how well they did in tests."
+              },
+              {
+                "label": "C",
+                "text": "He used visually appealing materials instead of traditional intelligence tests."
+              },
+              {
+                "label": "D",
+                "text": "He studied children of all ages and levels of intelligence."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage?",
+        "questions": [
+          {
+            "number": 5,
+            "text": "A surprising number of academics have come to the same conclusion about what the term intelligence means.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "A general test of intelligence is unlikely to indicate the level of performance in every type of task.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The elderly perform less well on comprehension tests than young adults.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "We must take into account which skills are tested when comparing intelligence at different ages.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Piaget’s work influenced theoretical studies more than practical research.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Piaget’s emphasis on active learning has been discredited by later researchers.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words, A-I, below.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Researchers investigating the development of intelligence have shown that skills become more significant with age.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "One good predictor of intelligence is the degree to which small children are about their surroundings and how much interest they show on finding themselves in an setting.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Researchers investigating the development of intelligence have shown that skills become more significant with age.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "One good predictor of intelligence is the degree to which small children are about their surroundings and how much interest they show on finding themselves in an setting.",
+            "answer": "I",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:18:08.257250"
+}

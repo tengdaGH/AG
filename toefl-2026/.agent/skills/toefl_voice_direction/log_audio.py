@@ -17,6 +17,11 @@ from pathlib import Path
 _PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent.parent  # .agent/skills/toefl_voice_direction → up 4 levels
 _LOG_PATH = _PROJECT_ROOT / "audio" / "audio_voice_log.jsonl"
 
+def set_log_path(path: str | Path):
+    """Set the path to the voice log file."""
+    global _LOG_PATH
+    _LOG_PATH = Path(path)
+
 
 def append_voice_log(
     item_id: str,

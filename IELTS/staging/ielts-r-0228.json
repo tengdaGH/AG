@@ -1,0 +1,269 @@
+{
+  "id": "ielts-r-0228",
+  "slug": "inspired-by-mimicking-mother-nature",
+  "title": "Inspired by Mimicking Mother Nature",
+  "page_range": [
+    1156,
+    1160
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "NOT GIVEN",
+    "2": "A",
+    "9": "YES",
+    "3": "B",
+    "10": "YES",
+    "4": "A",
+    "11": "NOT GIVEN",
+    "5": "C",
+    "12": "YES",
+    "6": "B",
+    "13": "NO",
+    "7": "NO",
+    "14": "NO"
+  },
+  "content": {
+    "title": "Inspired by Mimicking Mother Nature",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Researchers and designers around the globe endeavor to create new technologies that, by honoring the tenets of life, are both highly efficient and often environmentally friendly. And while biomimicry is not a new concept (Leonardo da Vinci looked to nature to design his flying machines, for example, and pharmaceutical companies have long been miming plant organisms in synthetic drugs), there is a greater need for products and manufacturing processes that use a minimum of energy, materials, and toxins. What’s more, due to technological advancements and a newfound spirit of innovation among designers, there are now myriad ways to mimic Mother Nature’s best assets."
+      },
+      {
+        "label": "B",
+        "content": "“We have a perfect storm happening right now,” says Jay Harman, an inventor and CEO of PAX Scientific, which designs fans, mixers, and pumps to achieve maximum efficiency by imitating the natural flow of fluids. “Shapes in nature are extremely simple once you understand them, but to understand what geometries are at play, and to adapt them, is a very complex process. We only just recently have had the computer power and manufacturing capability to produce these types of shapes.” “If we could capture nature’s efficiencies across the board, we could decrease dependency on fuel by at least 50 percent,” Harman says. “What we’re finding already with the tools and methodology we have right now is that we can reduce energy consumption by between 30 and 40 percent.”"
+      },
+      {
+        "label": "C",
+        "content": "It’s only recently that mainstream companies have begun to equate biomimicry with the bottom line. DaimlerChrysler, for example, introduced a prototype car modeled on a coral reef fish. Despite its boxy, cube-shaped body, which defies a long-held aerodynamic standard in automotive design (the raindrop shape), the streamlined boxfish proved to be aerodynamically ideal and the unique construction of its skin—numerous hexagonal, bony plates—a perfect recipe for designing a car of maximum strength with minimal weight."
+      },
+      {
+        "label": "D",
+        "content": "Companies and communities are flocking to Janine Benyus, author of the landmark book Biomimicry: Innovation Inspired by Nature (Perennial, 2002) and cofounder of the Biomimicry Guild, which seats biologists at the table with researchers and designers at companies such as Nike, Interface carpets, Novell, and Procter & Gamble. Their objective is to marry industrial problems with natural solutions."
+      },
+      {
+        "label": "E",
+        "content": "Benyus, who hopes companies will ultimately transcend mere product design to embrace nature on a more holistic level, breaks biomimicry into three tiers. On a basic (albeit complicated) level, industry will mimic nature’s precise and efficient shapes, structures, and geometries. The microstructure of the lotus leaf, for example, causes raindrops to bead and run off immediately, while self-cleaning and drying its surface—a discovery that the British paint company Sto has exploited in a line of building paints. The layered structure of a butterfly wing or a peacock plume, which creates iridescent color by refracting light, is being mimicked by cosmetics giant L’Oreal in a soon-to-be-released line of eye shadow, lipstick, and nail varnish."
+      },
+      {
+        "label": "F",
+        "content": "The next level of biomimicry involves imitating natural processes and biochemical “recipes”: Engineers and scientists are now looking at the nasal glands of seabirds to solve the problem of desalination; the abalone’s ability to self-assemble its incredibly durable shell in water, using local ingredients, has inspired an alternative to the conventional, and often toxic, “heat, beat, and treat” manufacturing method. How other organisms deal with harmful bacteria can also be instructive: Researchers for the Australian company Biosignal, for instance, observed a seaweed that lives in an environment teeming with microbes to figure out how it kept free of the same sorts of bacterial colonies, called biofilms, that cause plaque on your teeth and clog up your bathroom drain. They determined that the seaweed uses natural chemicals, called furanones, that jam the cell-to-cell signaling systems that allow bacteria to communicate and gather."
+      },
+      {
+        "label": "G",
+        "content": "Ultimately, the most sophisticated application of biomimicry, according to Benyus, is when a company starts seeing itself as an organism in an economic ecosystem that must make thrifty use of limited resources and creates symbiotic relationships with other organisms. A boardroom approach at this level begins with imagining any given company, or collection of industries, as a forest, prairie, or coral reef, with its own “food web”(manufacturing inputs and outputs) and asking whether waste products from one manufacturing process can be used, or perhaps sold, as an ingredient for another industrial activity. For instance, Geoffrey Coates, a chemist at Cornell, has developed a biodegradable plastic synthesized from carbon dioxide and limonene (a major component in the oil extracted from citrus rind) and is working with a cement factory to trap their waste CO2 and use it as an ingredient."
+      },
+      {
+        "label": "H",
+        "content": "Zero Emissions Research and Initiatives (ZERI), a global network of scientists, entrepreneurs, and educators, has initiated eco industrial projects that attempt to find ways to reuse all wastes as raw materials for other processes. Storm Brewing in Newfoundland, Canada—in one of a growing number of projects around the world applying ZERI principles—is using spent grains, a by-product of the beer-making process, to make bread and grow mushrooms."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Look at the following descriptions mentioned in the Reading Passage. Match the three kinds of levels (A-C) listed below the descriptions. Write the appropriate letters, A-C, in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Synthesized Plastic, developed together with cement factory, can recycle waste gas.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Cosmetics companies produce a series of shine cosmetics colours.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "People are inspired how to remove excess salt inspired by nature.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Daimler Chrysler introduced a fish-shaped car.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Marine plan company integrated itself into a part in economic ecosystem.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Natural chemicals developed based on seaweed known to kill bacteria.",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the Reading Passage? In boxes 7-14 on your answer sheet, write YES if the statement agrees with the writer, NO if the statement does not agree with the writer, NOT GIVEN if there is no information about this in the passage.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Biomimicry is a totally new concept that has been unveiled recently.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Leonardo da Vinci has been the first designer to mimic nature.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Scientists believe it involves more than mimicking the shape to capture the design in nature.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "We can save the utilisation of energy by up to 40% if we take advantage of the current findings.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Daimler Chrysler’s prototype car modelled on a coral reef fish is a best-seller.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Some great companies and communities themselves are seeking solutions beyond their own industrial scope.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The British paint company Sto did not make the microstructure of the lotus leaf, applicable.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "A Canadian beer company increased the production by applying ZERI principles.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the writer."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement does not agree with the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about this in the passage."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:28:51.556805"
+}

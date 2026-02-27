@@ -1,0 +1,382 @@
+{
+  "id": "ielts-r-0502",
+  "slug": "the-ingenuity-gap",
+  "title": "The Ingenuity Gap",
+  "page_range": [
+    2542,
+    2547
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "TRUE",
+    "2": "A",
+    "9": "TRUE",
+    "3": "D",
+    "10": "TRUE",
+    "4": "B",
+    "11": "FALSE",
+    "5": "B",
+    "12": "NOT GIVEN",
+    "6": "B",
+    "13": "TRUE",
+    "7": "C",
+    "14": "FALSE"
+  },
+  "content": {
+    "title": "The Ingenuity Gap",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Ingenuity, as I define it here, consists not only of ideas for new technologies like computers or drought-resistant crops but, more fundamentally, of ideas for better institutions and social arrangements, like efficient markets and competent governments."
+      },
+      {
+        "content": "How much and what kinds of ingenuity a society requires depends on a range of factors, including the society’s goals and the circumstances within which it must achieve those goals—whether it has a young population or an ageing one, an abundance of natural resources or a scarcity of them, an easy climate or a punishing one, whatever the case may be."
+      },
+      {
+        "content": "How much and what kinds of ingenuity a society supplies also depends on many factors, such as the nature of human inventiveness and understanding, the rewards an economy gives to the producers of useful knowledge, and the strength of political opposition to social and institutional reforms."
+      },
+      {
+        "content": "A good supply of the right kind of ingenuity is essential, but it isn’t, of course, enough by itself. We know that the creation of wealth, for example, depends not only on an adequate supply of useful ideas but also on the availability of other, more conventional factors of production, like capital and labor. Similarly, prosperity, stability and justice usually depend on the resolution, or at least the containment, of major political struggles over wealth and power. Yet within our economies ingenuity often supplants labor, and growth in the stock of physical plant is usually accompanied by growth in the stock of ingenuity. And in our political systems, we need great ingenuity to set up institutions that successfully manage struggles over wealth and power. Clearly, our economic and political processes are intimately entangled with the production and use of ingenuity."
+      },
+      {
+        "content": "The past century’s countless incremental changes in our societies around the planet, in our technologies and our interactions with our surrounding natural environments, have accumulated to create a qualitatively new world. Because these changes have accumulated slowly, it’s often hard for us to recognize how profound and sweeping they’ve been. They include far larger and denser populations; much higher per capita consumption of natural resources; and far better and more widely available technologies for the movement of people, materials, and especially information."
+      },
+      {
+        "content": "In combination, these changes have sharply increased the density, intensity, and pace of our interactions with each other; they have greatly increased the burden we place on our natural environment; and they have helped shift power from national and international institutions to individuals in subgroups, such as political special interests and ethnic factions."
+      },
+      {
+        "content": "As a result, people in all walks of life—from our political and business leaders to all of us in our day-to-day—must cope with much more complex, urgent, and often unpredictable circumstances. The management of our relationship with this new world requires immense and ever-increasing amounts of social and technical ingenuity. As we strive to maintain or increase our prosperity and improve the quality of our lives, we must make far more sophisticated decisions, and in less time, than ever before."
+      },
+      {
+        "content": "When we enhance the performance of any system, from our cars to the planet’s network of financial institutions, we tend to make it more complex. Many of the natural systems critical to our well-being, like the global climate and the oceans, are extraordinarily complex, to begin with. We often can’t predict or manage the behavior of complex systems with much precision, because they are often very sensitive to the smallest of changes and perturbations, and their behavior can flip from one mode to another suddenly and dramatically. In general, as the human-made and natural systems we depend upon become more complex, and as our demands on them increase, the institutions and technologies we use to manage them must become more complex too, which further boosts our need for ingenuity."
+      },
+      {
+        "content": "The good news, though, is that the last century’s stunning changes in our societies and technologies have not just increased our need for ingenuity; they have also produced a huge increase in its supply. The growth and urbanization of human populations have combined with astonishing new communication and transportation technologies to expand interactions among people and produce larger, more integrated, and more efficient markets. These changes have, in turn, dramatically accelerated the generation and delivery of useful ideas."
+      },
+      {
+        "content": "But—and this is the critical “but”—we should not jump to the conclusion that the supply of ingenuity always increases in lockstep with our ingenuity requirement: while it’s true that necessity is often the mother of invention, we can’t always rely on the right kind of ingenuity appearing when and where we need it. In many cases, the complexity and speed of operation of today’s vital economic, social, and ecological systems exceed the human brain’s grasp. Very few of us have more than a rudimentary understanding of how these systems work. They remain fraught with countless “unknown unknowns,” which makes it hard to supply the ingenuity we need to solve problems associated with these systems."
+      },
+      {
+        "content": "In this book, I explore a wide range of other factors that will limit our ability to supply the ingenuity required in the coming century. For example, many people believe that new communication technologies strengthen democracy and will make it easier to find solutions to our societies’ collective problems, but the story is less clear than it seems. The crush of information in our everyday lives is shortening our attention span, limiting the time we have to reflect on critical matters of public policy, and making policy arguments more superficial. Modern markets and science are an important part of the story of how we supply ingenuity. Markets are critically important because they give entrepreneurs an incentive to produce knowledge. As for science, although it seems to face no theoretical limits, at least in the foreseeable future, practical constraints often slow its progress. The cost of scientific research tends to increase as it delves deeper into nature. And science’s rate of advance depends on the characteristic of the natural phenomena it investigates, simply because some phenomena are intrinsically harder to understand than others, so the production of useful new knowledge in these areas can be very slow. Consequently, there is often a critical time lag between the recognition of a problem and the delivery of sufficient ingenuity, in the form of technologies, to solve that problem. Progress in the social sciences is especially slow, for reasons we don’t yet understand; but we desperately need better social scientific knowledge to build the sophisticated institutions today’s world demands."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the appropriate answer, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The definition of ingenuity",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "depends on many factors including climate."
+              },
+              {
+                "label": "B",
+                "text": "depends on the management and solution of disputes."
+              },
+              {
+                "label": "C",
+                "text": "is not only of technological advance but more of institutional renovation."
+              },
+              {
+                "label": "D",
+                "text": "also depends on the availability of some traditional resources."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The requirement for ingenuity",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "depends on many factors including climate."
+              },
+              {
+                "label": "B",
+                "text": "depends on the management and solution of disputes."
+              },
+              {
+                "label": "C",
+                "text": "is not only of technological advance but more of institutional renovation."
+              },
+              {
+                "label": "D",
+                "text": "also depends on the availability of some traditional resources."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "The creation of social wealth",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "depends on many factors including climate."
+              },
+              {
+                "label": "B",
+                "text": "depends on the management and solution of disputes."
+              },
+              {
+                "label": "C",
+                "text": "is not only of technological advance but more of institutional renovation."
+              },
+              {
+                "label": "D",
+                "text": "also depends on the availability of some traditional resources."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "The stability of society",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "depends on many factors including climate."
+              },
+              {
+                "label": "B",
+                "text": "depends on the management and solution of disputes."
+              },
+              {
+                "label": "C",
+                "text": "is not only of technological advance but more of institutional renovation."
+              },
+              {
+                "label": "D",
+                "text": "also depends on the availability of some traditional resources."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "What does the author say about the incremental change of the last 100 years?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "It has become a hot scholastic discussion among environmentalists."
+              },
+              {
+                "label": "B",
+                "text": "Its significance is often not noticed."
+              },
+              {
+                "label": "C",
+                "text": "It has reshaped the natural environments we live in."
+              },
+              {
+                "label": "D",
+                "text": "It benefited a much larger population than ever."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The combination of changes has made life:",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "easier"
+              },
+              {
+                "label": "B",
+                "text": "faster"
+              },
+              {
+                "label": "C",
+                "text": "slower"
+              },
+              {
+                "label": "D",
+                "text": "less sophisticated"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "What does the author say about the natural systems?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "New technologies are being developed to predict change with precision."
+              },
+              {
+                "label": "B",
+                "text": "Natural systems are often more sophisticated than other systems."
+              },
+              {
+                "label": "C",
+                "text": "Minor alterations may cause natural systems to change dramatically."
+              },
+              {
+                "label": "D",
+                "text": "Technological developments have rendered human being more independent of natural systems."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in the Reading Passage?",
+        "questions": [
+          {
+            "number": 8,
+            "text": "The demand for ingenuity has been growing during the past 100 years.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The ingenuity we have may be inappropriate for solving problems at hand.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "There are very few who can understand the complex systems of the present world.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "More information will help us to make better decisions.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The next generation will blame the current government for their conduct.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Science tends to develop faster in certain areas than others.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Social science develops especially slowly because it is not as important as natural science.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:41:22.703979"
+}

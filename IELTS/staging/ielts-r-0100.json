@@ -1,0 +1,235 @@
+{
+  "id": "ielts-r-0100",
+  "slug": "classical-music-over-the-centuries",
+  "title": "Classical music over the centuries",
+  "page_range": [
+    515,
+    517
+  ],
+  "raw_answer_key": {
+    "1": "NO",
+    "7": "YES",
+    "2": "YES",
+    "8": "NO",
+    "3": "NO",
+    "9": "Kundalin",
+    "4": "YES",
+    "10": "Most complex",
+    "5": "NOT GIVEN",
+    "11": "Melody line",
+    "6": "NO",
+    "12": "Typically used"
+  },
+  "content": {
+    "title": "Classical music over the centuries",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "The origins of Indian classical music can be found from the oldest of scriptures, part of the Hindus tradition, the Vedas. Samaveda, one of the four Vedas, describes music at length. Indian classical music has its origins as a meditation tool for attaining self realization. All different forms of these melodies (ragas) are believed to affect various “chakras” (energy centers, or “mood”) in the path of the Kundalini. However, there is little mention of these esoteric beliefs in Bharat’s Natyashastra, the first treatise laying down the fundamental principles of drama, dance and music. The Samadeva, one of the four Vedas, created out of riga-veda so that its hymns could be sung as Samagana, established its first pop."
+      },
+      {
+        "content": "Indian classical music has one of the most complex and complete musical systems ever developed. Like Western classical music, it divides the octaves into 12 Semitones of which the 7 basic notes are Sa Re Ga Ma Pa Dha Ni Sa, replacing Do Re Mi Fa So La Ti Do. However, it uses the just intonation tuning (unlike western classical music which uses the equal temperament tuning system). Indian classical music is monophonic in nature and based around a single melody line which is played over a fixed drone. The performance is based melodically on particular rages and rhythmically on talas."
+      },
+      {
+        "content": "Scholars of Europe in the seventeenth and eighteenth century were enormed by Indian music. With no facility to record the sound they explored for some existing system that might exist system that express sounds in the composition. There were pointers to an ancient notations system which scholars had also translated into Persian: still’ complexity of Indian classical music could not be expressed in writing. Though some western scholars did record compositions in staff notation system, Indian musicians used Pt.Bhakhande system. Though more accurate, this relies on Devanagari script rather than symbols and hence is cumbersome at times. A new notation system has been proposed which uses symbols and offers instantaneous comprehension like staff notation system. It is with standardization of a notation system that hitherto unknown compositions would see the light of day."
+      },
+      {
+        "content": "Instruments typically used in Hindustani music include sitar, sarood,tanpura, bansuri, shehnai, sarangi, and table. Instruments typically used in carnatic music include flute, gottuvadyam, veena mridangam, kanjira, ghatam and violon."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information in the reading passage? Write YES if the statement reflects the claims of the writer, NO if the statement contradicts the writer, and NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Out of four Vedas, music is only described in samaveds.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Music is believed to have an effect on human body.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Indian classical music system is simple and sophisticated.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "There are 7 basic notes and 12 semitones in Indian classical music.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Talas in the Indian music is derived from western music.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Indian classical music could express in writing.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The composition used by Indian musicians was based on Devnagri script.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "New script used for music had no symbols.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the claims of the writer."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the following questions with the appropriate word or phrase from the passage.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "\"Chakras\" is a name given to energy centers in the path of",
+            "answer": "Kundalin",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Out of all kind of music, Indian classical music is",
+            "answer": "Most complex",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Monophonic music system is based on a single",
+            "answer": "Melody line",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "The instruments flute, veena and violinare",
+            "answer": "Typically used",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-25T19:45:37.476512"
+}

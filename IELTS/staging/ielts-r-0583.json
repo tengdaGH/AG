@@ -1,0 +1,267 @@
+{
+  "id": "ielts-r-0583",
+  "slug": "titan-of-technology",
+  "title": "TITAN of technology",
+  "page_range": [
+    2946,
+    2950
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "FALSE",
+    "2": "B",
+    "9": "sophistication",
+    "3": "D",
+    "10": "accuracy",
+    "4": "FALSE",
+    "11": "cost",
+    "5": "NOT",
+    "12": "use GIVEN",
+    "6": "NOT",
+    "13": "influence GIVEN",
+    "7": "TRUE",
+    "14": "cost-effectiveness"
+  },
+  "content": {
+    "title": "TITAN of technology",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "1",
+        "content": "Gordon Moore is the scientific brain behind Intel, the world’s biggest maker of computer chips. Both funny and self-deprecating, he’s a shrewd businessman too, but admits to being an ‘accidental entrepreneur’, happier in the back room trading ideas with techies than out selling the product or chatting up the stockholders. When he applied for a job at Dow Chemical after gaining his PhD, the company psychologist ruled that ‘I was okay technically, but that I’d never manage anything’. This year Intel is set to turn over $28 billion. When Moore co-founded Intel (short for Integrated Electronics) to develop integrated circuits thirty-five years ago, he provided the motive force in R&D (Research & Development) while his more extrovert partner Robert Noyce became the public face of the company. Intel’s ethos was distinctively Californian: laid-back, democratic, polo shirt and chinos. Moore worked in a cubicle like everyone else, never had a designated parking space and flew Economy. None of this implied lack of ambition. Moore and Noyce shared a vision, recognising that success depended just as much on intellectual pizazz as on Intel’s ability to deliver a product. Noyce himself received the first patent for an integrated circuit in 1961, while both partners were learning the business of electronics at Fairchild Semiconductor. Fairchild’s success put money in Moore and Noyce’s pockets, but they were starved of R&D money. They resigned, frustrated, to found Intel in 1968. ‘It was one of those rare periods when money was available,’ says Moore. They put in $250,000 each and drummed up another $2.5m of venture capital ‘on the strength of a one-page business plan that said essentially nothing’. Ownership was divided 50:50 between founders and backers. Three years later, Intel’s first microprocessor was released: the 4004, carrying 2,250 transistors. Progress after that was rapid. By the time the competition realised what was happening, Intel had amassed a seven-year R&D lead that it was never to relinquish."
+      },
+      {
+        "label": "2",
+        "content": "By the year 2000, Intel’s Pentium-4 chip was carrying 42 million transistors. ‘Now,’ says Moore, ‘we put a quarter of a billion transistors on a chip and are looking forward to a billion in the near future.’ The performance gains have been phenomenal. The 4004 ran at 108 kilohertz (108,000 hertz), the Pentium-4 at three gigahertz (3 billion hertz). It’s calculated that if automobile speed had increased similarly over the same period, you could now drive from New York to San Francisco in six seconds. Moore’s prescience in forecasting this revolution is legendary. In 1965, while still head of the R&D laboratory at Fairchild, he wrote a piece for Electronics magazine observing ‘that over the first few years we had essentially doubled the complexity of integrated circuits every year. I blindly extrapolated for the next ten years and said we’d go from about 60 to about 60,000 transistors on a chip. It proved a much more spot-on prediction than I could ever have imagined. Until then, integrated circuits had been expensive and had had principally military applications. But I could see that the economics were going to switch dramatically. This was going to become the cheapest way to make electronics.’ The prediction that a chip’s transistor-count – and thus its performance – would keep doubling every year soon proved so accurate that Carver Mead, a friend from Caltech, dubbed it ‘Moore’s Law’. The name has stuck. ‘Moore’s Law’ has become the yardstick by which the exponential growth of the computer industry has been measured ever since."
+      },
+      {
+        "label": null,
+        "content": "When, in 1975, Moore looked around him again and saw transistor-counts slowing, he predicted that in future chip-performance would double only every two years. But that proved pessimistic. Actual growth since then has split the difference between his two predictions, with performance doubling every 18 months. And there’s a corollary, says Moore. ‘If the cost of a given amount of computer power drops 50 per cent every 18 months, each time that happens the market explodes with new applications that hadn’t been economical before.’ He sees the microprocessor as ‘almost infinitely elastic’. As prices fall, new applications keep emerging: smart light bulbs, flashing trainers or greetings cards that sing ‘Happy Birthday’. Where will it all stop? Well, it’s true, he says, ‘that in a few more generations [of chips], the fact that materials are made of atoms starts to be a real problem. Essentially, you can’t make things any smaller.’ But in practice, the day of reckoning is endlessly postponed as engineers find endlessly more ingenious ways of loading more transistors on a chip. ‘I suspect I shared the feelings of everybody else that when we got to the dimensions of a micron [about 1986], we wouldn’t be able to continue because we were touching the wavelength of light. But as we got closer, the barriers just melted away.’ When conventional chips finally reach their limits, nanotechnology beckons. Researchers are already working on sci-fi sounding alternatives such as molecular computers, built atom by atom, that theoretically could process hundreds of thousands times more information than today’s processors. Quantum computers using the state of electrons as the basis for calculation could operate still faster. On any measure, there looks to be plenty of life left in Moore’s Law yet."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What do we learn about Gordon Moore’s personality in the first two paragraphs?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It has changed noticeably as his career has developed."
+              },
+              {
+                "label": "B",
+                "text": "It was once considered unsuitable for the particular type of business he was in."
+              },
+              {
+                "label": "C",
+                "text": "It made him more suited to producing things than to selling them."
+              },
+              {
+                "label": "D",
+                "text": "It is less complicated than it may at first appear."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What do we learn about Intel when it was first established?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "It was unlike any other company in its field at the time."
+              },
+              {
+                "label": "B",
+                "text": "It combined a relaxed atmosphere with serious intent."
+              },
+              {
+                "label": "C",
+                "text": "It attracted attention because of the unconventional way in which it was run."
+              },
+              {
+                "label": "D",
+                "text": "It placed more emphasis on ingenuity than on any other aspect."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What is stated about the setting up of Intel in the third paragraph?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "It was primarily motivated by the existence of funds that made it possible."
+              },
+              {
+                "label": "B",
+                "text": "It involved keeping certain sensitive information secret."
+              },
+              {
+                "label": "C",
+                "text": "It resulted from the founders’ desire to launch a particular product."
+              },
+              {
+                "label": "D",
+                "text": "It was caused by the founders’ dissatisfaction with their employer’s priorities."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 4,
+            "text": "Competitors soon came close to catching up with Intel’s progress.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Intel’s Pentium 4 chip was more successful than Moore had anticipated.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Moore’s prediction in 1975 was based on too little evidence.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Flashing trainers are an example of Moore’s theory about the relationship between cost and applications.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Moore has always been confident that problems concerning the size of components will be overcome.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below using words from the box.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Gordon Moore’s ability to foresee developments is well-known. In 1965, he referred to the increase in the 9..................... of integrated circuits and guessed that the number of transistors would go on rising for a decade.",
+            "answer": "sophistication",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "The 10..................... of his prediction surprised him.",
+            "answer": "accuracy",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Previously, the 11..................... and main 12..................... of integrated circuits had been the major 13..................... with regard to their development.",
+            "answer": "cost",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Previously, the 11..................... and main 12..................... of integrated circuits had been the major 13..................... with regard to their development.",
+            "answer": "use",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Previously, the 11..................... and main 12..................... of integrated circuits had been the major 13..................... with regard to their development.",
+            "answer": "influence",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "But Moore observed that the 14..................... of integrated circuits was going to improve dramatically.",
+            "answer": "cost-effectiveness",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:03:15.154096"
+}

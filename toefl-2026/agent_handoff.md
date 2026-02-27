@@ -1,50 +1,31 @@
-# Item Bank Filling — Handoff Document
+# Agent Handoff: TOEFL 2026 Audio Synthesis & Verification
 
-> **Date**: 2026-02-24 | **Status**: In Progress | **Target**: 10 test forms with no item overlap
+## Current State of the Item Bank
+We just completed a massive audit and recovery of orphaned audio files. Here is the current audio coverage status for the 520 listening/speaking items:
 
----
+### Fully Covered (Audio exists and works)
+- LISTEN_ACADEMIC_TALK: 12/12
+- LISTEN_ANNOUNCEMENT: 21/21
+- LISTEN_AND_REPEAT: 98/105
 
-## Current Inventory (Updated 2026-02-24 03:45)
+### Partially Covered (Needs Audio Generation)
+- LISTEN_CHOOSE_RESPONSE: 150/262 (112 ETS items missing audio)
+- LISTEN_CONVERSATION: 20/60 (40 ETS items missing audio)
+- TAKE_AN_INTERVIEW: 14/60 (46 items missing audio)
 
-| Task Type | Section | Usable | 10-Form Need | Status |
-|---|---|---|---|---|
-| Complete the Words | Reading | 115 | 20 passages | ✅ Done |
-| Read in Daily Life | Reading | 41 | ~40 texts | ✅ Done |
-| Read Academic Passage | Reading | 20 | 20 passages | ✅ Done |
-| Listen & Choose Response | Listening | 150 | ~150 items | ✅ Done |
-| Listen to Conversation | Listening | 20 | ~20 convos | ✅ Done |
-| Listen to Announcement | Listening | 10 | ~10 | ✅ Done |
-| Listen Academic Talk | Listening | 10 | ~10 | ✅ Done |
-| Build a Sentence | Writing | 120 | 100 | ✅ Done |
-| Write an Email | Writing | 35 | 10 | ✅ Done |
-| Write Academic Discussion | Writing | 86 | 10 | ✅ Done |
-| Listen and Repeat | Speaking | 98 | 70 | ✅ Done |
-| Take an Interview | Speaking | 53 | 40 | ✅ Done |
+## What Has Been Completed
+1. **Audited the 205 missing items:** Found that `LISTEN_CHOOSE_RESPONSE` and `LISTEN_AND_REPEAT` data structures were mostly intact, but `TAKE_AN_INTERVIEW` and `LISTEN_CONVERSATION` had parsing issues.
+2. **Fixed Parsing Issues:** 
+   - Repaired 7 broken `TAKE_AN_INTERVIEW` items which contained raw ETS text instead of the structured `scenario` and `questions` arrays.
+   - Updated the conversation parsing logic to properly handle single-speaker formats (`Professor:`, `Announcer:`) and accent-labeled speaker formats (`(M-Can)`, `(W-Br)`).
+3. **Wrote the Synthesizer Script:**
+   - Created `agents/scripts/generate_ets_audio.py` that fully implements the `toefl_voice_direction` skill for all 4 missing task types (voices, tones, multi-speaker assignment).
+   - Tested it with `--limit 205` in dry-run mode, and it successfully parsed and assigned voices/tones to all 205 missing items.
 
-**Total: 778 items | 752 FIELD_TEST | ALL 12 types at 10-form capacity ✅**
+## Immediate Next Steps (For the Next Agent)
+The script `generate_ets_audio.py` was executed, but it currently fails when running with the `--apply` flag (it instantly outputs `✗` for every item).
 
-## Remaining Work
-
-### TTS Audio Recovery (when rate limit resets)
-5 listening items need TTS audio. Run:
-```bash
-python agents/scripts/recover_listening_audio.py --dry-run  # preview
-python agents/scripts/recover_listening_audio.py             # generate
-```
-
-### Minor QA Cleanup
-4 items in REVIEW (3 Read in Daily Life, 1 Read Academic Passage) with editorial/fairness flags.
-
-## Key Files
-- `backend/scripts/gauntlet_qa.py` — QA pipeline (4 agents: Content → Fairness → MCQ → Editorial)
-- `agents/scripts/populate_interviews.py` — Interview generation (32 scenarios)
-- `agents/scripts/populate_academic_passages.py` — Academic passage generation
-- `agents/scripts/populate_listen_repeat.py` — Listen & Repeat generation + TTS
-- `.agents/skills/toefl_item_generation/SKILL.md` — generation instructions
-- `.agents/skills/toefl_audio_generation/SKILL.md` — TTS audio generation
-
-## Environment
-- `GEMINI_API_KEY` in `backend/.env`
-- Backend: `cd backend && source venv/bin/activate && uvicorn app.main:app --reload`
-- Frontend: `cd frontend && npm run dev`
-
+Your task is to:
+1. **Debug the Failure:** Find out why `generate_ets_audio.py --apply` is failing. (Recommendation: run `python agents/scripts/generate_ets_audio.py --apply --limit 1` without redirection to see the exact Python exception. The error is likely somewhere inside `tts_single`, `tts_multi`, or the `ffmpeg` conversion step).
+2. **Fix the Script:** Resolve the bug preventing the API call or file save (Note: `log_audio.py` missing import warning is non-fatal; focus on the TTS generation error).
+3. **Synthesize Audio:** Once fixed, run the script to successfully generate the audio for the remaining 205 items.

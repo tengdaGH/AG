@@ -1,0 +1,241 @@
+{
+  "id": "ielts-r-0468",
+  "slug": "the-economic-importance-of-coral-reefs",
+  "title": "The economic importance of coral reefs",
+  "page_range": [
+    2378,
+    2382
+  ],
+  "raw_answer_key": {
+    "1": "FALSE",
+    "8": "sea cucumbers",
+    "2": "TRUE",
+    "9": "agricultural",
+    "3": "TRUE",
+    "10": "scuba diving",
+    "4": "TRUE",
+    "11": "communications",
+    "5": "NOT",
+    "12": "sustainability GIVEN",
+    "6": "FALSE",
+    "13": "conflict",
+    "7": "FALSE"
+  },
+  "content": {
+    "title": "The economic importance of coral reefs",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A lot of people around the world are dependent, or partly dependent, on coral reefs for their livelihoods. They often live adjacent to the reef, and their livelihood revolves around the direct extraction, processing and sale of reef resources such as shellfish and seaweeds. In addition, their homes are sheltered by the reef from wave action. Reef flats and shallow reef lagoons are accessible on foot, without the need for a boat, and so allow women, children and the elderly to engage directly in manual harvesting, or 'reef-gleaning'. This is a significant factor distinguishing reef-based fisheries from near-shore sea fisheries. Near-shore fisheries are typically the domain of adult males, in particular where they involve the use of boats, with women and children restricted mainly to shore-based activities. However, in a coral-reef fishery the physical accessibility of the reef opens up opportunities for direct participation by women, and consequently increases their independence and the importance of their role in the community. It also provides a place for children to play, and to acquire important skills and knowledge for later in life. For example, in the South West Island of Tobi, in the Pacific Ocean, young boys use simple hand lines with a loop and bait at the end to develop the art of fishing on the reef. Similarly, in the Surin Islands of Thailand, young Moken boys spend much of their time playing, swimming and diving in shallow reef lagoons, and in doing so build crucial skills for their future daily subsistence."
+      },
+      {
+        "label": "B",
+        "content": "Secondary occupations, such as fish processing and marketing activities, are often dominated by women, and offer an important survival strategy for households with access to few other physical assets (such as boats and gear), for elderly women, widows, or the wives of infirm men. On Ulithi Atoll in the western Pacific, women have a distinct role and rights in the distribution of fish catches. This is because the canoes, made from mahogany logs from nearby Yap Island, are obtained through the exchange of cloth made by the women of Ulithi. Small-scale reef fisheries support the involvement of local women traders and their involvement can give them greater control over the household income, and in negotiating for loans or credit. Thus their role is not only important in providing income for their families, it also underpins the economy of the local village."
+      },
+      {
+        "label": "C",
+        "content": "Poor people with little access to land, labour and financial resources are particularly reliant on exploiting natural resources, and consequently they are vulnerable to seasonal changes in availability of those resources. The diversity of coral reef fisheries, combined with their physical accessibility and the protection they provide against bad weather, make them relatively stable compared with other fisheries, or land-based agricultural production. In many places, the reef may even act as a resource bank, used as a means of saving food for future times of need. In Manus, Papua New Guinea, giant clams are collected and held in walled enclosures on the reef, until they are needed during periods of rough weather. In Palau, sea cucumbers are seldom eaten during good weather in an effort to conserve their populations for months during which rough weather prohibits good fishing."
+      },
+      {
+        "label": "D",
+        "content": "Coral reef resources also act as a buffer against seasonal lows in other sectors, particularly agriculture. For example, in coastal communities in northern Mozambique, reef harvests provide key sources of food and cash when agricultural production is low, with the peak in fisheries production coinciding with the period of lowest agricultural stocks. In Papua New Guinea, while agriculture is the primary means of food production, a large proportion of the coastal population engage in sporadic subsistence fishing."
+      },
+      {
+        "label": "E",
+        "content": "In many coral-reef areas, tourism is one of the main industries bringing employment, and in many cases is promoted to provide alternatives to fisheries-based livelihoods, and to ensure that local reef resources are conserved. In the Caribbean alone, tours based on scuba-diving have attracted 20 million people in one year. The upgrading of roads and communications associated with the expansion of tourism may also bring benefits to local communities. However, plans for development must be considered carefully. The ability of the poorer members of the community to access the benefits of tourism is far from guaranteed, and requires development guided by social, cultural and environmental principles. There is growing recognition that sustainability is a key requirement, as encompassed in small-scale eco-tourism activities, for instance."
+      },
+      {
+        "label": "F",
+        "content": "Where tourism development has not been carefully planned, and the needs and priorities of the local community have not been properly recognised, conflict has sometimes arisen between tourism and local, small-scale fishers."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, and NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "In most places, coral-reef gleaning is normally carried out by men.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Involvement in coral-reef-based occupations raises the status of women.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Coral reefs provide valuable learning opportunities for young children.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "The women of Ulithi Atoll have some control over how fish catches are shared out.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "In coral reef fisheries, only male traders can apply for finance.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Boats for use by the inhabitants of Ulithi are constructed on Yap Island.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Coral reefs provide a less constant source of income than near-shore seas.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the notes below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Coral reefs can provide a resource bank, e.g. for keeping clams and 8.....................",
+            "answer": "sea cucumbers",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "-  a seasonal back-up, when 9.................... products are insufficient, e.g. in northern Mozambique.",
+            "answer": "agricultural",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "-  a tourist attraction, e.g. 10.................... tours in the Caribbean.",
+            "answer": "scuba diving",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Benefits for local people include: -  The creation of jobs. -  Improvements to roads and 11.....................",
+            "answer": "communications",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Important considerations: -  Development must be based on appropriate principles. -  Need for 12.....................",
+            "answer": "sustainability",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Poorly-planned development can create 13.................... with local fishers.",
+            "answer": "conflict",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:31:50.859005"
+}

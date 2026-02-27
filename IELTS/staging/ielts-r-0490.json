@@ -1,0 +1,206 @@
+{
+  "id": "ielts-r-0490",
+  "slug": "the-history-of-jeans",
+  "title": "The history of jeans",
+  "page_range": [
+    2484,
+    2487
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "5": "A",
+    "2": "C",
+    "6": "D",
+    "3": "B",
+    "7": "C",
+    "4": "A"
+  },
+  "content": {
+    "title": "The history of jeans",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The first people to wear jeans were sailors in the 16th century. Sailors were gone for a long time. They had to do hard work outside in bad weather. Often their clothes had holes in them, got thinner or lost color. They needed something strong against wear and tear. Their clothes had to last longer and stay in good condition. They found this type of cloth during their trip to India. It was made of thick cotton and was called dungaree. It was dyed indigo. Indians use the indigo plant to color this type of cloth in factories. Sailors bought dungaree cloth in outside markets, cut it and wore it on their trips home."
+      },
+      {
+        "label": null,
+        "content": "The first jeans were made in Genoa. Genoa is a city in Italy. In the 16th century, Genoa was very powerful. Its sailors traveled all around the world. The Genoa city decided to make better pants for their sailors. They used the dungaree cloth because it was sturdy and strong. The new pants were called 'geanos' or 'jeanos'. Sailors could use it in both wet and dry weather. They could roll up the pants when cleaning the ship. To clean the pants, they put them inside a net, threw it in the ocean and dragged the net behind the ship. This is when they realized their color changes to white. This is how bleached jeans were invented."
+      },
+      {
+        "label": null,
+        "content": "Later French workers in Nimes also made jeans. They used a different type of cloth called denim. But it was also sturdy and dyed blue, like the jeanos. In 1872, there was a small cloth merchant in Germany. His name was Levi Strauss. He bought and sold denim from France but Levi Strauss got into trouble and had to go away to America. In New York Levi learned how to sew. When he moved to San Francisco, he met many gold diggers. These men went to find gold in rivers. The weather was often bad and the men were only thin pants. Levi started to cut pants out of denim. He sold these jeans to the gold diggers, and they loved them. Soon all factory workers and farmers were wearing jeans too. They were comfortable and easy to take care of and cheap."
+      },
+      {
+        "label": null,
+        "content": "In 1950, popular movie and music stars like Elvis Presley and James Dean started wearing jeans. Those jeans were really tight and parents didn't like them. But they caught on with teenagers. Jeans became so popular because they meant freedom. Teenagers wanted to be independent and to make their own rules. In 1960 they started to decorate their jeans with flowers and colorful designs, or to tear and rip the jeans."
+      },
+      {
+        "label": null,
+        "content": "But in 1980 jeans became very expensive. Famous fashion designers like Calvin Klein began making designer jeans. They put their name on these jeans. Young people wanted to wear certain brands to show their style. There was a lot of pressure to keep up with the trend. Everybody wanted to be fashionable. Jeans were considered the uniform of youth. You had to wear jeans to be in style."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Answer questions 1-6 by choosing the correct option (A, B, C, or D).",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What is the main idea of paragraph 1?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Sailors made jeans out of dungaree."
+              },
+              {
+                "label": "B",
+                "text": "Sailors needed stronger clothing and found dungarees."
+              },
+              {
+                "label": "C",
+                "text": "Sailors are the first people to wear jeans."
+              },
+              {
+                "label": "D",
+                "text": "Sailors bought their jeans in India."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Which of the following is NOT true?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "There were many sailors in Genoa."
+              },
+              {
+                "label": "B",
+                "text": "Sailors thought jeans were useful."
+              },
+              {
+                "label": "C",
+                "text": "Sailors did not know how to clean the jeans."
+              },
+              {
+                "label": "D",
+                "text": "Sailors made bleached jeans by accident."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What was the difference between French and Italian jeans?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "The color"
+              },
+              {
+                "label": "B",
+                "text": "The material"
+              },
+              {
+                "label": "C",
+                "text": "The style"
+              },
+              {
+                "label": "D",
+                "text": "The sturdiness"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What can be inferred about jeans in paragraph 1?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "The jeans were intended for practical use."
+              },
+              {
+                "label": "B",
+                "text": "The jeans got worn out easily."
+              },
+              {
+                "label": "C",
+                "text": "Most Indeans were skillful tailors."
+              },
+              {
+                "label": "D",
+                "text": "Dungaree was the first jeans."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Why does the author say 'parents didn’t like them' in paragraph 4?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "To say that jeans fitted too close on the body"
+              },
+              {
+                "label": "B",
+                "text": "To say that too many stars were wearing jeans"
+              },
+              {
+                "label": "C",
+                "text": "To emphasize that jeans were too expensive"
+              },
+              {
+                "label": "D",
+                "text": "To demonstrate that teenagers sometimes ripped their jeans"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "What does 'Jeans were considered \"the uniform of youth\"' in paragraph 5 mean?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "You can wear jeans in school."
+              },
+              {
+                "label": "B",
+                "text": "All teenagers wear jeans."
+              },
+              {
+                "label": "C",
+                "text": "Jeans are for young people only."
+              },
+              {
+                "label": "D",
+                "text": "Young people must wear jeans to be fashionable."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer question 7 with a short answer.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Why gold diggers loved jeans?",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T21:36:11.417821"
+}

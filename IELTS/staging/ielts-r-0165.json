@@ -1,0 +1,339 @@
+{
+  "id": "ielts-r-0165",
+  "slug": "flawed-beauty-the-problem-with-toughened-glass",
+  "title": "Flawed Beauty: the problem with toughened glass",
+  "page_range": [
+    841,
+    845
+  ],
+  "raw_answer_key": {
+    "1": "G",
+    "8": "K",
+    "2": "A",
+    "9": "E",
+    "3": "H",
+    "10": "L",
+    "4": "C",
+    "11": "TRUE",
+    "5": "F",
+    "12": "NOT GIVEN",
+    "6": "I",
+    "13": "FALSE",
+    "7": "C"
+  },
+  "content": {
+    "title": "Flawed Beauty: the problem with toughened glass",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "On 2nd August 1999, a particularly hot day in the town of Cirencester in the UK, a large pane of toughened glass in the roof of a shopping centre at Bishops Walk shattered without warning and fell from its frame. When fragments were analysed by experts at the giant glass manufacturer Pilkington, which had made the pane, they found that minute crystals of nickel sulphide trapped inside the glass had almost certainly caused the failure."
+      },
+      {
+        "label": null,
+        "content": "The glass industry is aware of the issue,' says Brian Waldron, chairman of the standards committee at the Glass and Glazing Federation, a British trade association, and standards development officer at Pilkington. But he insists that cases are few and far between. 'It's a very rare phenomenon,' he says. Others disagree. 'On average I see about one or two buildings a month suffering from nickel sulphide related failures,' says Barrie Josie, a consultant engineer involved in the Bishops Walk investigation. Other experts tell of similar experiences. Tony Wilmott of London-based consulting engineers Sandberg, and Simon Armstrong at CladTech Associates in Hampshire both say they know of hundreds of cases. 'What you hear is only the tip of the iceberg,' says Trevor Ford, a glass expert at Resolve Engineering in Brisbane, Queensland. He believes the reason is simple: 'No-one wants bad press.'"
+      },
+      {
+        "label": null,
+        "content": "Toughened glass is found everywhere, from cars and bus shelters to the windows, walls and roofs of thousands of buildings around the world. It's easy to see why. This glass has five times the strength of standard glass, and when it does break it shatters into tiny cubes rather than large, razor-sharp shards. Architects love it because large panels can be bolted together to make transparent walls, and turning it into ceilings and floors is almost as easy. It is made by heating a sheet of ordinary glass to about 620°C to soften it slightly, allowing its structure to expand, and then cooling it rapidly with jets of cold air. This causes the outer layer of the pane to contract and solidify before the interior. When the interior finally solidifies and shrinks, it exerts a pull on the outer layer that leaves it in permanent compression and produces a tensile force inside the glass. As cracks propagate best in materials under tension, the compressive force on the surface must be overcome before the pane will break, making it more resistant to cracking."
+      },
+      {
+        "label": null,
+        "content": "The problem starts when glass contains nickel sulphide impurities. Trace amounts of nickel and sulphur are usually present in the raw materials used to make glass, and nickel can also be introduced by fragments of nickel alloys falling into the molten glass. As the glass is heated, these atoms react to form tiny crystals of nickel sulphide. Just a tenth of a gram of nickel in the furnace can create up to 50,000 crystals."
+      },
+      {
+        "label": null,
+        "content": "These crystals can exist in two forms: a dense form called the alpha phase, which is stable at high temperatures, and a less dense form called the beta phase, which is stable at room temperatures. The high temperatures used in the toughening process convert all the crystals to the dense, compact alpha form. But the subsequent cooling is so rapid that the crystals don't have time to change back to the beta phase. This leaves unstable alpha crystals in the glass, primed like a coiled spring, ready to revert to the beta phase without warning."
+      },
+      {
+        "label": null,
+        "content": "When this happens, the crystals expand by up to 4%. And if they are within the central, tensile region of the pane, the stresses this unleashes can shatter the whole sheet. The time that elapses before failure occurs is unpredictable. It could happen just months after manufacture, or decades later, although if the glass is heated - by sunlight, for example - the process is speeded up. Ironically, says Graham Dodd, of consulting engineers Arup in London, the oldest pane of toughened glass known to have failed due to nickel sulphide inclusions was in Pilkington's glass research building in Lathom, Lancashire. The pane was 27 years old."
+      },
+      {
+        "label": null,
+        "content": "Data showing the scale of the nickel sulphide problem is almost impossible to find. The picture is made more complicated by the fact that these crystals occur in batches. So even if, on average, there is only one inclusion in 7 tonnes of glass, if you experience one nickel sulphide failure in your building, that probably means you've got a problem in more than one pane. Josie says that in the last decade he has worked on over 15 buildings with the number of failures into double figures."
+      },
+      {
+        "label": null,
+        "content": "One of the worst examples of this is Waterfront Place, which was completed in 1990. Over the following decade the 40-storey Brisbane block suffered a rash of failures. Eighty panes of its toughened glass shattered due to inclusions before experts were finally called in. John Barry, an expert in nickel sulphide contamination at the University of Queensland, analysed every glass pane in the building. Using a studio camera, a photographer went up in a cradle to take photos of every pane. These were scanned under a modified microfiche reader for signs of nickel sulphide crystals. 'We discovered at least another 120 panes with potentially dangerous inclusions which were then replaced,' says Barry. 'It was a very expensive and time consuming process that took around six months to complete.'"
+      },
+      {
+        "label": null,
+        "content": "Though the project cost A$1.6 million (nearly £700,000), the alternative - re-cladding the entire building - would have cost ten times as much."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following people and the list of statements below. Match each person with the correct statement. Write the correct letter A-H in boxes 1-4 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Brian Waldron",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "suggests that publicity about nickel sulphide failure has been suppressed"
+              },
+              {
+                "label": "B",
+                "text": "regularly sees cases of nickel sulphide failure"
+              },
+              {
+                "label": "C",
+                "text": "closely examined all the glass in one building"
+              },
+              {
+                "label": "D",
+                "text": "was involved with the construction of Bishops Walk"
+              },
+              {
+                "label": "E",
+                "text": "recommended the rebuilding of Waterfront Place"
+              },
+              {
+                "label": "F",
+                "text": "thinks the benefits of toughened glass are exaggerated"
+              },
+              {
+                "label": "G",
+                "text": "claims that nickel sulphide failure is very unusual"
+              },
+              {
+                "label": "H",
+                "text": "refers to the most extreme case of delayed failure"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Trevor Ford",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "suggests that publicity about nickel sulphide failure has been suppressed"
+              },
+              {
+                "label": "B",
+                "text": "regularly sees cases of nickel sulphide failure"
+              },
+              {
+                "label": "C",
+                "text": "closely examined all the glass in one building"
+              },
+              {
+                "label": "D",
+                "text": "was involved with the construction of Bishops Walk"
+              },
+              {
+                "label": "E",
+                "text": "recommended the rebuilding of Waterfront Place"
+              },
+              {
+                "label": "F",
+                "text": "thinks the benefits of toughened glass are exaggerated"
+              },
+              {
+                "label": "G",
+                "text": "claims that nickel sulphide failure is very unusual"
+              },
+              {
+                "label": "H",
+                "text": "refers to the most extreme case of delayed failure"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Graham Dodd",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "suggests that publicity about nickel sulphide failure has been suppressed"
+              },
+              {
+                "label": "B",
+                "text": "regularly sees cases of nickel sulphide failure"
+              },
+              {
+                "label": "C",
+                "text": "closely examined all the glass in one building"
+              },
+              {
+                "label": "D",
+                "text": "was involved with the construction of Bishops Walk"
+              },
+              {
+                "label": "E",
+                "text": "recommended the rebuilding of Waterfront Place"
+              },
+              {
+                "label": "F",
+                "text": "thinks the benefits of toughened glass are exaggerated"
+              },
+              {
+                "label": "G",
+                "text": "claims that nickel sulphide failure is very unusual"
+              },
+              {
+                "label": "H",
+                "text": "refers to the most extreme case of delayed failure"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "John Barry",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "suggests that publicity about nickel sulphide failure has been suppressed"
+              },
+              {
+                "label": "B",
+                "text": "regularly sees cases of nickel sulphide failure"
+              },
+              {
+                "label": "C",
+                "text": "closely examined all the glass in one building"
+              },
+              {
+                "label": "D",
+                "text": "was involved with the construction of Bishops Walk"
+              },
+              {
+                "label": "E",
+                "text": "recommended the rebuilding of Waterfront Place"
+              },
+              {
+                "label": "F",
+                "text": "thinks the benefits of toughened glass are exaggerated"
+              },
+              {
+                "label": "G",
+                "text": "claims that nickel sulphide failure is very unusual"
+              },
+              {
+                "label": "H",
+                "text": "refers to the most extreme case of delayed failure"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary with the list of words A-P below. Write your answers in boxes 5-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Toughened glass is favoured by architects because it is much stronger than ordinary glass, and the fragments are not as 5..................... when it breaks.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "However, it has one disadvantage: it can shatter 6......................",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Ordinary glass is first heated, then cooled very 7......................",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The outer layer 8..................... before the inner layer, and the tension between the two layers which is created because of this makes the glass stronger.",
+            "answer": "K",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "However, if the glass contains nickel sulphide impurities, crystals of nickel sulphide are formed. These are unstable, and can expand suddenly, particularly if the weather is 9......................",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "The frequency with which such problems occur is 10..................... by glass experts.",
+            "answer": "L",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 11-13 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Little doubt was expressed about the reason for the Bishops Walk accident.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Toughened glass has the same appearance as ordinary glass.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "There is plenty of documented evidence available about the incidence of nickel sulphide failure.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T00:55:21.897361"
+}

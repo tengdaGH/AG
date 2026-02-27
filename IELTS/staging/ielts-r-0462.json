@@ -1,0 +1,220 @@
+{
+  "id": "ielts-r-0462",
+  "slug": "the-discovery-of-uranus",
+  "title": "The Discovery of Uranus",
+  "page_range": [
+    2344,
+    2347
+  ],
+  "raw_answer_key": {
+    "1": "1772",
+    "8": "NOT GIVEN",
+    "2": "1781",
+    "9": "YES",
+    "3": "1787",
+    "10": "NOT GIVEN",
+    "4": "1977",
+    "11": "georgium sidus",
+    "5": "1986",
+    "12": "Herschel",
+    "6": "YES",
+    "13": "James L. Elliot",
+    "7": "NO",
+    "14": "Miranda"
+  },
+  "content": {
+    "title": "The Discovery of Uranus",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Someone once put forward an attractive though unlikely theory. Throughout the Earth’s annual revolution around the sun, there is one point of space always hidden from our eyes. This point is the opposite part of the Earth’s orbit, which is always hidden by the sun. Could there be another planet there, essentially similar to our own, but always invisible? If a space probe today sent back evidence that such a world existed it would cause not much more sensation than Sir William Herschel’s discovery of a new planet, Uranus, in 1781. Herschel was an extraordinary man — no other astronomer has ever covered so vast a field of work — and his career deserves study. He was born in Hanover in Germany in 1738, left the German army in 1757, and arrived in England the same year with no money but quite exceptional music ability. He played the violin and oboe and at one time was organist in the Octagon Chapel in the city of Bath. Herschel’s was an active mind, and deep inside he was conscious that music was not his destiny; he therefore, read widely in science and the arts, but not until 1772 did he come across a book on astronomy. He was then 34, middle-aged by the standards of the time, but without hesitation he embarked on his new career, financing it by his professional work as a musician. He spent years mastering the art of telescope construction, and even by present-day standards his instruments are comparable with the best."
+      },
+      {
+        "label": null,
+        "content": "Serious observation began in 1774. He set himself the astonishing task of ‘reviewing the heavens’, in other words, pointing his telescope to every accessible part of the sky and recording what he saw. The first review was made in 1775; the second, and most momentous, in 1780-81. It was during the latter part of this that he discovered Uranus. Afterwards, supported by the royal grant in recognition of his work, he was able to devote himself entirely to astronomy. His final achievements spread from the sun and moon to remote galaxies (of which he discovered hundreds), and papers flooded from his pen until his death in 1822. Among these, there was one sent to the Royal Society in 1781, entitled An Account of a Comet. In his own words: On Tuesday the 13th of March, between ten and eleven in the evening, while I was examining the small stars in the neighbourhood of H Geminorum, I perceived one that appeared visibly larger than the rest; being struck with its uncommon magnitude, I compared it to H Geminorum and the small star in the quartile between Auriga and Gemini, and finding it to be much larger than either of them, suspected it to be a comet."
+      },
+      {
+        "label": null,
+        "content": "Herschel’s care was the hallmark of a great observer; he was not prepared to jump to any conclusions. Also, to be fair, the discovery of a new planet was the last thought in anybody’s mind. But further observation by other astronomers besides Herschel revealed two curious facts. For the comet, it showed a remarkably sharp disc; furthermore, it was moving so slowly that it was thought to be a great distance from the sun, and comets are only normally visible in the immediate vicinity of the sun. As its orbit came to be worked out the truth dawned that it was a new planet far beyond Saturn’s realm, and that the ‘reviewer of the heavens’ had stumbled across an unprecedented prize. Herschel wanted to call it georgium sidus (Star of George) in honour of his royal patron King George III of Great Britain. The planet was later for a time called Herschel in honour of its discoverer. The name Uranus, which was first proposed by the German astronomer Johann Elert Bode, was in use by the late 19th century."
+      },
+      {
+        "label": null,
+        "content": "Uranus is a giant in construction, but not so much in size; its diameter compares unfavourably with that of Jupiter and Saturn, though on the terrestrial scale it is still colossal. Uranus’ atmosphere consists largely of hydrogen and helium, with a trace of methane. Through a telescope the planet appears as a small bluish-green disc with a faint green periphery. In 1977, while recording the occultation of a star behind the planet, the American astronomer James L. Elliot discovered the presence of five rings encircling the equator of Uranus. Four more rings were discovered in January 1986 during the exploratory flight of Voyager 2. In addition to its rings, Uranus has 15 satellites (‘moons’), the last 10 discovered by Voyager 2 on the same flight; all revolve about its equator and move with the planet in an east—west direction. The two largest moons, Titania and Oberon, were discovered by Herschel in 1787. The next two, Umbriel and Ariel, were found in 1851 by the British astronomer William Lassell. Miranda, thought before 1986 to be the innermost moon, was discovered in 1948 by the American astronomer Gerard Peter Kuiper."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below. Write a date for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Herschel began investigating astronomy",
+            "answer": "1772",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Discovery of the planet Uranus",
+            "answer": "1781",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Discovery of the moons Titania and Oberon",
+            "answer": "1787",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "First discovery of Uranus’ rings",
+            "answer": "1977",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Discovery of the last 10 moons of Uranus",
+            "answer": "1986",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements reflect the claims of the writer of the Reading Passage?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "It is improbable that there is a planet hidden behind the sun.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement reflects the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Herschel knew immediately that he had found a new planet.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement reflects the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Herschel collaborated with other astronomers of his time.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement reflects the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Herschel’s newly-discovered object was considered to be too far from the sun to be a comet.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement reflects the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Herschel’s discovery was the most important find of the last three hundred years.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement reflects the claims of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each of the following statements (Questions 11-14) with a name from the Reading Passage.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "The suggested names of the new planet started with",
+            "answer": "georgium sidus",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "then",
+            "answer": "Herschel",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The first five rings around Uranus were discovered by",
+            "answer": "James L. Elliot",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "From 1948 until 1986, the moon",
+            "answer": "Miranda",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:30:35.018286"
+}

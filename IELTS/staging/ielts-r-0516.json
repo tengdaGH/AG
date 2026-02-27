@@ -1,0 +1,357 @@
+{
+  "id": "ielts-r-0516",
+  "slug": "the-moto-car",
+  "title": "The moto car",
+  "page_range": [
+    2611,
+    2615
+  ],
+  "raw_answer_key": {
+    "8": "Identity and",
+    "1": "D status",
+    "2": "A",
+    "9": "15 Minutes",
+    "3": "B",
+    "10": "1973 Oil crisis",
+    "4": "F",
+    "11": "(a) gas-guzzler",
+    "5": "C",
+    "12": "Fuel power",
+    "6": "E",
+    "13": "Toxic gas",
+    "7": "Petrol-fueled",
+    "14": "B internal combustion"
+  },
+  "content": {
+    "title": "The History of the Automobile",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "The start of the automobile's history went all the way back to 1769 when automobiles running on the steam engine were invented as carriers for human transport. In 1806, the first batch of cars powered by an internal combustion engine came into being, which pioneered the introduction of the widespread modern petrol-fueled internal combustion engine in 1885."
+      },
+      {
+        "content": "It is generally acknowledged that the first practical automobiles equipped with petrol/gasoline-powered internal combustion engines were invented almost at the same time by different German inventors who were working on their own. Karl Benz first built the automobile in 1885 in Mannheim. Benz attained a patent for his invention on 29 January 1886, and in 1888, he started to produce automobiles in a company that later became the renowned Mercedes-Benz."
+      },
+      {
+        "content": "As this century began, the automobile industry marched into the transportation market for the wealthy. Drivers at that time were an adventurous bunch; they would go out regardless of the weather condition even if they weren’t even protected by an enclosed body or a convertible top. Everybody in the community knew who owned what car, and cars immediately became a symbol of identity and status. Later, cars became more popular among the public since it allowed people to travel whenever and wherever they wanted. Thus, the price of automobiles in Europe and North America kept dropping, and more people from the middle class could afford them. This was especially attributed to Henry Ford who did two crucial things. First, he set the price as reasonable as possible for his cars; second, he paid his employees enough salaries so that they could afford the cars made by their very own hands."
+      },
+      {
+        "content": "The trend of interchangeable parts and mass production in an assembly line style had been led by America, and from 1914, this concept was significantly reinforced by Henry Ford. This large-scale, production-line manufacture of affordable automobiles was debuted. A Ford car would come off all assembled from the line every 15 minutes, an interval shorter than any of the former methods. Not only did it raise productivity, but also cut down on the requirement for manpower. Ford significantly lowered the chance of injury by carrying out complicated safety procedures in production—particularly assigning workers to specific locations rather than giving them the freedom to wander around. This mixture of high wages and high efficiency was known as Fordism, which provided a valuable lesson for most major industries."
+      },
+      {
+        "content": "The first Jeep automobile that came out as the prototype Bantam BRC was the primary light 4-wheel-drive automobile of the U.S. Army and Allies, and during World War II and the postwar period, its sale skyrocketed. Since then, plenty of Jeep derivatives with similar military and civilian functions have been created and kept upgraded in terms of overall performance in other nations."
+      },
+      {
+        "content": "Through all the 1950s, engine power and automobile rates grew higher, designs evolved into a more integrated and artful form, and cars were spreading globally. In the 1960s, the landscape changed as Detroit was confronted with foreign competition. The European manufacturers used the latest technology, and Japan came into the picture as a dedicated car-making country. General Motors, Chrysler, and Ford dabbled with radical tiny cars such as the GM A-bodies with little success. As joint ventures such as the British Motor Corporation unified the market, captive imports and badge imports swept all over the US and the UK. BMC first launched a revolutionary space-friendly Mini in 1959, which turned out to harvest large global sales. Previously remaining under the Austin and Morris names, Mini later became an individual marque in 1969. The trend of corporate consolidation landed in Italy when niche makers such as Maserati, Ferrari, and Lancia were bought by larger enterprises. By the end of the 20th century, there had been a sharp fall in the number of automobile marques."
+      },
+      {
+        "content": "In the US, car performance dominated marketing, justified by the typical cases of pony cars and muscle cars. However, in the 1970s, everything changed as the American automobile industry suffered from the 1973 oil crisis, competition with Japanese and European imports, automobile emission control regulations, and moribund innovation. The irony in all this was that full-size sedans such as Cadillac and Lincoln scored a huge comeback between the years of economic crisis."
+      },
+      {
+        "content": "In terms of technology, the most mentionable developments that the postwar era had seen were the widespread use of independent suspensions, broader application of fuel injection, and a growing emphasis on safety in automobile design. Mazda achieved many triumphs with its engine firstly installed in the fore-wheel, though it gained itself a reputation as a gas-guzzler."
+      },
+      {
+        "content": "The modern era also has witnessed a sharp elevation of fuel power in the modern engine management system with the help of the computer. Nowadays, most automobiles in use are powered by an internal combustion engine, fueled by gasoline or diesel. Toxic gas from both fuels is known to pollute the air and is responsible for climate change as well as global warming."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following descriptions (Questions 1-6) and the list of automobile brands below. Match each description with the correct automobile brand, A-G.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "began producing the first automobiles",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Ford"
+              },
+              {
+                "label": "B",
+                "text": "the BMC Mini"
+              },
+              {
+                "label": "C",
+                "text": "Cadillac and Lincoln"
+              },
+              {
+                "label": "D",
+                "text": "Mercedes Benz"
+              },
+              {
+                "label": "E",
+                "text": "Mazda"
+              },
+              {
+                "label": "F",
+                "text": "Jeep"
+              },
+              {
+                "label": "G",
+                "text": "Maserati, Ferrari, and Lancia"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "produced the industrialized cars that common consumers could afford",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Ford"
+              },
+              {
+                "label": "B",
+                "text": "the BMC Mini"
+              },
+              {
+                "label": "C",
+                "text": "Cadillac and Lincoln"
+              },
+              {
+                "label": "D",
+                "text": "Mercedes Benz"
+              },
+              {
+                "label": "E",
+                "text": "Mazda"
+              },
+              {
+                "label": "F",
+                "text": "Jeep"
+              },
+              {
+                "label": "G",
+                "text": "Maserati, Ferrari, and Lancia"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "improved the utilization rate of automobile space",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Ford"
+              },
+              {
+                "label": "B",
+                "text": "the BMC Mini"
+              },
+              {
+                "label": "C",
+                "text": "Cadillac and Lincoln"
+              },
+              {
+                "label": "D",
+                "text": "Mercedes Benz"
+              },
+              {
+                "label": "E",
+                "text": "Mazda"
+              },
+              {
+                "label": "F",
+                "text": "Jeep"
+              },
+              {
+                "label": "G",
+                "text": "Maserati, Ferrari, and Lancia"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "upgraded the overall performance of the car continuously",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "Ford"
+              },
+              {
+                "label": "B",
+                "text": "the BMC Mini"
+              },
+              {
+                "label": "C",
+                "text": "Cadillac and Lincoln"
+              },
+              {
+                "label": "D",
+                "text": "Mercedes Benz"
+              },
+              {
+                "label": "E",
+                "text": "Mazda"
+              },
+              {
+                "label": "F",
+                "text": "Jeep"
+              },
+              {
+                "label": "G",
+                "text": "Maserati, Ferrari, and Lancia"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "maintained leading growth even during an economic recession",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Ford"
+              },
+              {
+                "label": "B",
+                "text": "the BMC Mini"
+              },
+              {
+                "label": "C",
+                "text": "Cadillac and Lincoln"
+              },
+              {
+                "label": "D",
+                "text": "Mercedes Benz"
+              },
+              {
+                "label": "E",
+                "text": "Mazda"
+              },
+              {
+                "label": "F",
+                "text": "Jeep"
+              },
+              {
+                "label": "G",
+                "text": "Maserati, Ferrari, and Lancia"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "installed its engine on the front wheel for the first time",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Ford"
+              },
+              {
+                "label": "B",
+                "text": "the BMC Mini"
+              },
+              {
+                "label": "C",
+                "text": "Cadillac and Lincoln"
+              },
+              {
+                "label": "D",
+                "text": "Mercedes Benz"
+              },
+              {
+                "label": "E",
+                "text": "Mazda"
+              },
+              {
+                "label": "F",
+                "text": "Jeep"
+              },
+              {
+                "label": "G",
+                "text": "Maserati, Ferrari, and Lancia"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "What is the important feature owned by the modem engine since the 19th century?",
+            "answer": "Petrol-fueled",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "What did a car symbolize to the rich at the very beginning of this century?",
+            "answer": "Identity and",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "How long did Ford assembly line take to produce a car?",
+            "answer": "15 Minutes",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "What is the major historical event that led American cars to suffer when competing with Japanese imported cars?",
+            "answer": "1973 Oil crisis",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "What do people call the Mazda car which was designed under the front wheel engine?",
+            "answer": "(a) gas-guzzler",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "What has greatly increased with the computerised engine management systems in modern society?",
+            "answer": "Fuel power",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "What factor is blamed for contributing to pollution, climate change and global warming?",
+            "answer": "Toxic gas",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 14,
+            "text": "What is the main idea of the passage?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "The influence of the cars on the environment"
+              },
+              {
+                "label": "B",
+                "text": "The historical development and innovation in car designs"
+              },
+              {
+                "label": "C",
+                "text": "The beginning of the modem designed gasoline engines"
+              },
+              {
+                "label": "D",
+                "text": "The history of human and the Auto industry"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:42:09.509904"
+}

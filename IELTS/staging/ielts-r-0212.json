@@ -1,0 +1,364 @@
+{
+  "id": "ielts-r-0212",
+  "slug": "how-to-handle-the-sun-",
+  "title": "How to handle the Sun",
+  "page_range": [
+    1074,
+    1078
+  ],
+  "raw_answer_key": {
+    "1": "E",
+    "8": "NOT GIVEN",
+    "2": "H",
+    "9": "FALSE",
+    "3": "C",
+    "10": "AFFECTED",
+    "4": "F",
+    "11": "BLEND",
+    "5": "FALSE",
+    "12": "CARING",
+    "6": "TRUE",
+    "13": "SLOWLY",
+    "7": "TRUE",
+    "14": "OVERCOME"
+  },
+  "content": {
+    "title": "How to handle the Sun",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The medical world appears to be divided on the effects of the sun upon the human body. From statements like, “There is no known relationship between a tan and health” to “perhaps sun-tanned skin absorbs the ultraviolet rays and converts them into helpful energy”, there are some things which are still the topic of research. Doctors agree on one of the benefits of the sun – vitamin D. It is well known that vitamin D is acquired from the direct rays of the sun – an entirely separate miracle from sun tanning. The sun’s ultraviolet rays penetrate only a tiny amount into the human skin, but in the process, they irradiate an element in the skin called ergosterol, which is a substance that stores up reserves of vitamin D received from the sun. This is both healthy and beneficial for human skin."
+      },
+      {
+        "label": "B",
+        "content": "All around the Western World, people have developed an obsession with the sun. In many western countries, a suntan has become the trade-mark of a healthy, active, outdoor person. The basic reddish hue just beneath the surface of our skin is the outward reflection of the millions of red corpuscles flowing through tiny blood vessels. This is most noticeable in the pure skin of a baby which can change in a moment from porcelain white (with anger or a switch in temperature) to crimson. In Caucasians, this colouring is somewhat hidden by an acquired layer of sun-made pigment, which varies in tone according to the complexion and occupation of the individual."
+      },
+      {
+        "label": "C",
+        "content": "Locale plays a big part in the effectiveness of the suntan. Mountain tops and beaches are nonpareil sun spas because they receive far purer sunlight than the rest of the land. Urban areas with their smoke and smog act as a filter removing all the healthy properties of the sun. Perhaps the seashore is best of all, with its air estimated to have at least a fifth of a per cent more oxygen than inland ether – free of city and inland dust, tars, pollen, and allergens."
+      },
+      {
+        "label": "D",
+        "content": "The sun has long been called nature’s greatest health giver and healer and has played a chief role at health resorts ever since August Rollier, the Swiss father of heliotherapy, opened his first high-Alps sanatorium in 1903. Dr. W. W. Coblenz suggests that the sun cure is a major factor in the treatment of at least 23 skin diseases, ranging from acne and eczema to ulcers and wounds. Another specialist, Dr. Richard Kovacs writes, “Sun treatment is often helpful to persons suffering from general debility – repeated colds, respiratory diseases, influenza and the like”. After a long winter, the return to the sun writes Dr. Leonard Dodds, the British sunlight scholar, “is a general stimulus to the body, more potent if applied after a period when it has been lacking which gradually loses its effect if exposure is over prolonged, even when not excessive”."
+      },
+      {
+        "label": "E",
+        "content": "Over many years of study, dermatologists have proven that excessive exposure to sunlight for years is responsible for a large proportion of skin cancer amongst the population. Those with the greatest chance of doing permanent damage to their skin are the year-round outdoor workers – 90% of which occurs on the heavily exposed hands and face. The first line of defense against permanent sun damage is the skin’s own natural fatty matter and sweat, which combine to form an oily acid surface shield against the ultraviolet rays. At the beach, the saltwater washes away this natural oily coat, the hot sun overworks the sweat glands so that the excess becomes ineffective and the dry wind and hot sun combine to dehydrate the skin itself. Over the years, women have shown far greater wisdom in the care of their skin than men. Since the ladies of ancient Egypt first began to apply the fat of the so-called sacred temple cats to their faces, women have been tireless in waging this battle against damage to the skin from the sun. Both sexes now contribute annually to a multi-million dollar global sunscreen business."
+      },
+      {
+        "label": "F",
+        "content": "Other pans of the human body which tend to suffer from exposure to the sun are the eyes and hair. Many years ago, optometrists undertook studies in America to examine the influence of the sun upon the eyes by studying Atlantic City lifeguards and found that even a few hours in the bright sun without sunglasses could cause a significant loss of vision – a loss that might take several weeks from which to recover. So gradual was the change that the lifeguards were unaware that their sight had been affected. The solution to this problem was to introduce sunglasses as a standard part of the lifeguard uniform. These were dark enough to absorb the sun’s harmful UV rays and most of its infrared and ultraviolet rays."
+      },
+      {
+        "label": "G",
+        "content": "Of a lesser impact is the effect of the sun upon the hair. The penalty of the sun parching is a brittle dryness. Haircare professionals recommend a nutritional cream treatment with a substance containing lanolin to bring your hair back its natural softness, these usually come in the form of leave-in conditioners, and should be applied frequently, just as you would a sunscreen for the skin. Or, easier still, wear a hat. Wearing a hat has a dual effect: it protects the hair and helps to prevent the most dangerous of outdoor afflictions: sunstroke."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following people (Questions 1-4) and the list of statements below. Match each person with the correct statement. Write the correct letter A-H in boxes 1-4 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Richard Kovacs",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "believes that the benefits of the sun are not scientifically provable"
+              },
+              {
+                "label": "B",
+                "text": "claims to have discovered the vitamin released in the skin by the sun"
+              },
+              {
+                "label": "C",
+                "text": "suggests that the sun is an excellent healer"
+              },
+              {
+                "label": "D",
+                "text": "invented the first sunscreen"
+              },
+              {
+                "label": "E",
+                "text": "suggests that the sun assists with common illnesses"
+              },
+              {
+                "label": "F",
+                "text": "thinks that initially, the sun is of benefit to the body"
+              },
+              {
+                "label": "G",
+                "text": "is unsure about the benefits of the sun"
+              },
+              {
+                "label": "H",
+                "text": "opened the first specialised hospital"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "August Rollier",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "believes that the benefits of the sun are not scientifically provable"
+              },
+              {
+                "label": "B",
+                "text": "claims to have discovered the vitamin released in the skin by the sun"
+              },
+              {
+                "label": "C",
+                "text": "suggests that the sun is an excellent healer"
+              },
+              {
+                "label": "D",
+                "text": "invented the first sunscreen"
+              },
+              {
+                "label": "E",
+                "text": "suggests that the sun assists with common illnesses"
+              },
+              {
+                "label": "F",
+                "text": "thinks that initially, the sun is of benefit to the body"
+              },
+              {
+                "label": "G",
+                "text": "is unsure about the benefits of the sun"
+              },
+              {
+                "label": "H",
+                "text": "opened the first specialised hospital"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "W. Coblenz",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "believes that the benefits of the sun are not scientifically provable"
+              },
+              {
+                "label": "B",
+                "text": "claims to have discovered the vitamin released in the skin by the sun"
+              },
+              {
+                "label": "C",
+                "text": "suggests that the sun is an excellent healer"
+              },
+              {
+                "label": "D",
+                "text": "invented the first sunscreen"
+              },
+              {
+                "label": "E",
+                "text": "suggests that the sun assists with common illnesses"
+              },
+              {
+                "label": "F",
+                "text": "thinks that initially, the sun is of benefit to the body"
+              },
+              {
+                "label": "G",
+                "text": "is unsure about the benefits of the sun"
+              },
+              {
+                "label": "H",
+                "text": "opened the first specialised hospital"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Leonard Dodds",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "believes that the benefits of the sun are not scientifically provable"
+              },
+              {
+                "label": "B",
+                "text": "claims to have discovered the vitamin released in the skin by the sun"
+              },
+              {
+                "label": "C",
+                "text": "suggests that the sun is an excellent healer"
+              },
+              {
+                "label": "D",
+                "text": "invented the first sunscreen"
+              },
+              {
+                "label": "E",
+                "text": "suggests that the sun assists with common illnesses"
+              },
+              {
+                "label": "F",
+                "text": "thinks that initially, the sun is of benefit to the body"
+              },
+              {
+                "label": "G",
+                "text": "is unsure about the benefits of the sun"
+              },
+              {
+                "label": "H",
+                "text": "opened the first specialised hospital"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage?",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Most doctors agree when it comes to the health benefits of the sun.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Beaches are best for a suntan because the air has far less pollution.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Women applied fat to their skin for protection from the sun.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Extended exposure of the eyes to the sun can lead to blindness.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The human eye cannot heal itself when it is damaged by the sun.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "if the statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "if the statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if there is no information on this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the words from the box.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "When human skin is exposed to the sun, the body has a defense: an 11..................... of the skin’s natural oils and acids.",
+            "answer": "BLEND",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "When human skin is exposed to the sun, the body has a defense: an 11..................... of the skin’s natural oils and acids.",
+            "answer": "BLEND",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "For some time, women have been more effective than men in 12..................... for their skin.",
+            "answer": "CARING",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The damage often goes undetected because it happens quite 13..................... On the other hand, hair becomes quite dry and brittle when exposed to the sun for an extended period.",
+            "answer": "SLOWLY",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "A lanolin-based conditioner is recommended by hair care professionals to 14..................... this problem.",
+            "answer": "OVERCOME",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T01:14:21.188631"
+}

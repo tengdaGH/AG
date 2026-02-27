@@ -1,0 +1,240 @@
+{
+  "id": "ielts-r-0533",
+  "slug": "the-power-of-the-big-screen",
+  "title": "The power of the big screen",
+  "page_range": [
+    2696,
+    2700
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "NOT GIVEN",
+    "2": "I",
+    "9": "NO",
+    "3": "J",
+    "10": "B",
+    "4": "E",
+    "11": "C",
+    "5": "G",
+    "12": "D",
+    "6": "YES",
+    "13": "D",
+    "7": "NOT GIVEN"
+  },
+  "content": {
+    "title": "The power of the big screen",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The Lumière Brothers opened their Cinématographe, at 14 Boulevard des Capucines in Paris, to 100 paying customers over 100 years ago, on December 8, 1895. Before the eyes of the stunned, thrilled audience, photographs came to life and moved across a flat screen."
+      },
+      {
+        "label": "B",
+        "content": "So ordinary and routine has this become to us that it takes a determined leap of the imagination to grasp the impact of those first moving images. But it is worth trying, for to understand the initial shock of those images is to understand the extraordinary power and magic of cinema, the unique, hypnotic quality that has made film the most dynamic, effective art form of the 20th century."
+      },
+      {
+        "label": "C",
+        "content": "One of the Lumière Brothers' earliest films was a 30-second piece which showed a section of a railway platform flooded with sunshine. A train appears and heads straight for the camera. And that is all that happens. Yet the Russian director Andrei Tarkovsky, one of the greatest of all film artists, described the film as a 'work of genius'. 'As the train approached,' wrote Tarkovsky, 'panic started in the theatre: people jumped and ran away. That was the moment when cinema was born. The frightened audience could not accept that they were watching a mere picture. Pictures were still, only reality moved; this must, therefore, be reality. In their confusion, they feared that a real train was about to crush them.'"
+      },
+      {
+        "label": "D",
+        "content": "Early cinema audiences often experienced the same confusion. In time, the idea of film became familiar, the magic was accepted - but it never stopped being magic. Film has never lost its unique power to embrace its audiences and transport them to a different world. For Tarkovsky, the key to that magic was the way in which cinema created a dynamic image of the real flow of events. A still picture could only imply the existence of time, while time in a novel passed at the whim of the reader. But in cinema, the real, objective flow of time was captured."
+      },
+      {
+        "label": "E",
+        "content": "One effect of this realism was to educate the world about itself. For cinema makes the world smaller. Long before people travelled to America or anywhere else, they knew what other places looked like; they knew how other people worked and lived. Overwhelmingly, the lives recorded - at least in film fiction - have been American. From the earliest days of the industry, Hollywood has dominated the world film market. American imagery - the cars, the cities, the cowboys - became the primary imagery of film. Film carried American life and values around the globe."
+      },
+      {
+        "label": "F",
+        "content": "And, thanks to film, future generations will know the 20th century more intimately than any other period. We can only imagine what life was like in the 14th century or in classical Greece. But the life of the modern world has been recorded on film in massive, encyclopaedic detail. We shall be known better than any preceding generations."
+      },
+      {
+        "label": "G",
+        "content": "The 'star' was another natural consequence of cinema. The cinema star was effectively born in 1910. Film personalities have such an immediate presence that, inevitably, they become super-real. Because we watch them so closely and because everybody in the world seems to know who they are, they appear more real to us than we do ourselves. The star as magnified human self is one of cinema's most strange and enduring legacies."
+      },
+      {
+        "label": "H",
+        "content": "Cinema has also given a new lease of life to the idea of the story. When the Lumière Brothers and other pioneers began showing off this new invention, it was by no means obvious how it would be used. All that mattered at first was the wonder of movement. Indeed, some said that, once this novelty had worn off, cinema would fade away. It was no more than a passing gimmick, a fairground attraction."
+      },
+      {
+        "label": "I",
+        "content": "Cinema might, for example, have become primarily a documentary form. Or it might have developed like television - as a strange, noisy transfer of music, information and narrative. But what happened was that it became, overwhelmingly, a medium for telling stories. Originally these were conceived as short stories - early producers doubted the ability of audiences to concentrate for more than the length of a reel. Then, in 1912, an Italian 2-hour film was hugely successful, and Hollywood settled upon the novel-length narrative that remains the dominant cinematic convention of today."
+      },
+      {
+        "label": "J",
+        "content": "And it has all happened so quickly. Almost unbelievably, it is a mere 100 years since that train arrived and the audience screamed and fled, convinced by the dangerous reality of what they saw, and, perhaps, suddenly aware that the world could never be the same again - that, maybe, it could be better, brighter, more astonishing, more real than reality."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage 1 has ten paragraphs, A-J. Which paragraph contains the following information? Write the correct letter, A-J, in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "the location of the first cinema",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "how cinema came to focus on stories",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "the speed with which cinema has changed",
+            "answer": "J",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "how cinema teaches us about other cultures",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "the attraction of actors in films",
+            "answer": "G",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage 1? In boxes 6-9 on your answer sheet, write YES if the statement agrees with the views of the writer, NO if the statement contradicts the views of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "It is important to understand how the first audiences reacted to the cinema.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "The Lumière Brothers’ film about the train was one of the greatest films ever made.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Cinema presents a biased view of other countries.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Storylines were important in very early cinema.",
+            "answer": "NO",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter. A, B, C or D. Write the correct letter in boxes 10-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The writer refers to the film of the train in order to demonstrate",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the simplicity of early films."
+              },
+              {
+                "label": "B",
+                "text": "the impact of early films."
+              },
+              {
+                "label": "C",
+                "text": "how short early films were."
+              },
+              {
+                "label": "D",
+                "text": "how imaginative early films were."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "In Tarkovsky’s opinion, the attraction of the cinema is that it",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "aims to impress its audience."
+              },
+              {
+                "label": "B",
+                "text": "tells stories better than books."
+              },
+              {
+                "label": "C",
+                "text": "illustrates the passing of time."
+              },
+              {
+                "label": "D",
+                "text": "describes familiar events."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "When cinema first began, people thought that",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "it would always tell stories."
+              },
+              {
+                "label": "B",
+                "text": "it should be used in fairgrounds."
+              },
+              {
+                "label": "C",
+                "text": "its audiences were unappreciative."
+              },
+              {
+                "label": "D",
+                "text": "its future was uncertain."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "What is the best title for this passage?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "The rise of the cinema star"
+              },
+              {
+                "label": "B",
+                "text": "Cinema and novels compared"
+              },
+              {
+                "label": "C",
+                "text": "The domination of Hollywood"
+              },
+              {
+                "label": "D",
+                "text": "The power of the big screen"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:47:17.353819"
+}

@@ -1,0 +1,431 @@
+{
+  "id": "ielts-r-0623",
+  "slug": "what-is-a-port-city",
+  "title": "What Is a Port City?",
+  "page_range": [
+    3152,
+    3156
+  ],
+  "raw_answer_key": {
+    "1": "ii",
+    "8": "G",
+    "2": "i",
+    "9": "NO",
+    "3": "v",
+    "10": "YES",
+    "4": "vi",
+    "11": "NO",
+    "5": "D",
+    "12": "YES",
+    "6": "C",
+    "13": "NOT GIVEN",
+    "7": "F",
+    "14": "YES"
+  },
+  "content": {
+    "title": "What Is a Port City?",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A port must be distinguished from a harbour. They are two very different things. Most ports have poor harbours, and many fine harbours see few ships. Harbour is a physical concept, a shelter for ships; port is an economic concept, a centre of land-sea exchange which requires good access to a hinterland even more than a sea-linked foreland. It is landward access, which is productive of goods for export and which demands imports, that is critical. Poor harbours can be improved with breakwaters and dredging if there is a demand for a port. Madras and Colombo are examples of harbours expensively improved by enlarging, dredging and building breakwaters."
+      },
+      {
+        "label": "B",
+        "content": "Port cities become industrial, financial and service centres and political capitals because of their water connections and the urban concentration which arises there and later draws to it railways, highways and air routes. Water transport means cheap access, the chief basis of all port cities. Many of the world's biggest cities, for example, London, New York, Shanghai, Istanbul, Buenos Aires, Tokyo, Jakarta, Calcutta, Philadelphia and San Francisco began as ports - that is, with land-sea exchange as their major function - but they have since grown disproportionately in other respects so that their port functions are no longer dominant. They remain different kinds of places from non-port cities and their port functions account for that difference."
+      },
+      {
+        "label": "C",
+        "content": "Port functions, more than anything else, make a city cosmopolitan. A port city is open to the world. In it races, cultures, and ideas, as well as goods from a variety of places, jostle, mix and enrich each other and the life of the city. The smell of the sea and the harbour, the sound of boat whistles or the moving tides are symbols of their multiple links with a wide world, samples of which are present in microcosm within their own urban areas."
+      },
+      {
+        "label": "D",
+        "content": "Sea ports have been transformed by the advent of powered vessels, whose size and draught have increased. Many formerly important ports have become economically and physically less accessible as a result. By-passed by most of their former enriching flow of exchange, they have become cultural and economic backwaters or have acquired the character of museums of the past. Examples of these are Charleston, Salem, Bristol, Plymouth, Surat, Galle, Melaka, Soochow, and a long list of earlier prominent port cities in Southeast Asia, Africa and Latin America."
+      },
+      {
+        "label": "E",
+        "content": "Much domestic port trade has not been recorded. What evidence we have suggests that domestic trade was greater at all periods than external trade. Shanghai, for example, did most of its trade with other Chinese ports and inland cities. Calcutta traded mainly with other parts of India and so on. Most of any city's population is engaged in providing goods and services for the city itself. Trade outside the city is its basic function. But each basic worker requires food, housing, clothing and other such services. Estimates of the ratio of basic to service workers range from 1:4 to 1:8."
+      },
+      {
+        "label": "F",
+        "content": "No city can be simply a port but must be involved in a variety of other activities. The port function of the city draws to it raw materials and distributes them in many other forms. Ports take advantage of the need for breaking up the bulk material where water and land transport meet and where loading and unloading costs can be minimised by refining raw materials or turning them into finished goods. The major examples here are oil refining and ore refining, which are commonly located at ports. It is not easy to draw a line around what is and is not a port function. All ports handle, unload, sort, alter, process, repack, and reship most of what they receive. A city may still be regarded as a port city when it becomes involved in a great range of functions not immediately involved with ships or docks."
+      },
+      {
+        "label": "G",
+        "content": "Cities which began as ports retain the chief commercial and administrative centre of the city close to the waterfront. The centre of New York is in lower Manhattan between two river mouths, the City of London is on the Thames, Shanghai along the Bund. This proximity to water is also true of Boston, Philadelphia, Bombay, Calcutta, Madras, Singapore, Bangkok, Hong Kong and Yokohama, where the commercial, financial, and administrative centres are still grouped around their harbours even though each city has expanded into a metropolis. Even a casual visitor cannot mistake them as anything but port cities."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "From the list of headings below choose the most suitable headings for paragraphs B-E. Write the appropriate numbers (i-viii) in boxes 1-4 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A truly international environment"
+              },
+              {
+                "label": "ii",
+                "text": "Once a port city, always a port city"
+              },
+              {
+                "label": "iii",
+                "text": "Good ports make huge profits"
+              },
+              {
+                "label": "iv",
+                "text": "How the port changes a city's infrastructure"
+              },
+              {
+                "label": "v",
+                "text": "Reasons for the decline of ports"
+              },
+              {
+                "label": "vi",
+                "text": "Relative significance of trade and service industry"
+              },
+              {
+                "label": "vii",
+                "text": "Ports and harbours"
+              },
+              {
+                "label": "viii",
+                "text": "The demands of the oil industry"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "A truly international environment"
+              },
+              {
+                "label": "ii",
+                "text": "Once a port city, always a port city"
+              },
+              {
+                "label": "iii",
+                "text": "Good ports make huge profits"
+              },
+              {
+                "label": "iv",
+                "text": "How the port changes a city's infrastructure"
+              },
+              {
+                "label": "v",
+                "text": "Reasons for the decline of ports"
+              },
+              {
+                "label": "vi",
+                "text": "Relative significance of trade and service industry"
+              },
+              {
+                "label": "vii",
+                "text": "Ports and harbours"
+              },
+              {
+                "label": "viii",
+                "text": "The demands of the oil industry"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "A truly international environment"
+              },
+              {
+                "label": "ii",
+                "text": "Once a port city, always a port city"
+              },
+              {
+                "label": "iii",
+                "text": "Good ports make huge profits"
+              },
+              {
+                "label": "iv",
+                "text": "How the port changes a city's infrastructure"
+              },
+              {
+                "label": "v",
+                "text": "Reasons for the decline of ports"
+              },
+              {
+                "label": "vi",
+                "text": "Relative significance of trade and service industry"
+              },
+              {
+                "label": "vii",
+                "text": "Ports and harbours"
+              },
+              {
+                "label": "viii",
+                "text": "The demands of the oil industry"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "A truly international environment"
+              },
+              {
+                "label": "ii",
+                "text": "Once a port city, always a port city"
+              },
+              {
+                "label": "iii",
+                "text": "Good ports make huge profits"
+              },
+              {
+                "label": "iv",
+                "text": "How the port changes a city's infrastructure"
+              },
+              {
+                "label": "v",
+                "text": "Reasons for the decline of ports"
+              },
+              {
+                "label": "vi",
+                "text": "Relative significance of trade and service industry"
+              },
+              {
+                "label": "vii",
+                "text": "Ports and harbours"
+              },
+              {
+                "label": "viii",
+                "text": "The demands of the oil industry"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following descriptions (Questions 5-8) of some port cities mentioned in Reading Passage 3. Match the pairs of cities (A-H) listed below, with the descriptions.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "required considerable harbour development",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Bombay and Buenos Aires"
+              },
+              {
+                "label": "B",
+                "text": "Hong Kong and Salem"
+              },
+              {
+                "label": "C",
+                "text": "Istanbul and Jakarta"
+              },
+              {
+                "label": "D",
+                "text": "Madras and Colombo"
+              },
+              {
+                "label": "E",
+                "text": "New York and Bristol"
+              },
+              {
+                "label": "F",
+                "text": "Plymouth and Melaka"
+              },
+              {
+                "label": "G",
+                "text": "Singapore and Yokohama"
+              },
+              {
+                "label": "H",
+                "text": "Surat and London"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "began as ports but other facilities later dominated",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Bombay and Buenos Aires"
+              },
+              {
+                "label": "B",
+                "text": "Hong Kong and Salem"
+              },
+              {
+                "label": "C",
+                "text": "Istanbul and Jakarta"
+              },
+              {
+                "label": "D",
+                "text": "Madras and Colombo"
+              },
+              {
+                "label": "E",
+                "text": "New York and Bristol"
+              },
+              {
+                "label": "F",
+                "text": "Plymouth and Melaka"
+              },
+              {
+                "label": "G",
+                "text": "Singapore and Yokohama"
+              },
+              {
+                "label": "H",
+                "text": "Surat and London"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "lost their prominence when large ships could not be accommodated",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "Bombay and Buenos Aires"
+              },
+              {
+                "label": "B",
+                "text": "Hong Kong and Salem"
+              },
+              {
+                "label": "C",
+                "text": "Istanbul and Jakarta"
+              },
+              {
+                "label": "D",
+                "text": "Madras and Colombo"
+              },
+              {
+                "label": "E",
+                "text": "New York and Bristol"
+              },
+              {
+                "label": "F",
+                "text": "Plymouth and Melaka"
+              },
+              {
+                "label": "G",
+                "text": "Singapore and Yokohama"
+              },
+              {
+                "label": "H",
+                "text": "Surat and London"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "maintain their business centres near the port waterfront",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "Bombay and Buenos Aires"
+              },
+              {
+                "label": "B",
+                "text": "Hong Kong and Salem"
+              },
+              {
+                "label": "C",
+                "text": "Istanbul and Jakarta"
+              },
+              {
+                "label": "D",
+                "text": "Madras and Colombo"
+              },
+              {
+                "label": "E",
+                "text": "New York and Bristol"
+              },
+              {
+                "label": "F",
+                "text": "Plymouth and Melaka"
+              },
+              {
+                "label": "G",
+                "text": "Singapore and Yokohama"
+              },
+              {
+                "label": "H",
+                "text": "Surat and London"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Cities cease to be port cities when other functions dominate.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "In the past, many port cities did more trade within their own country than with overseas ports.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Most people in a port city are engaged in international trade and finance.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Ports attract many subsidiary and independent industries.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Ports have to establish a common language of trade.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Ports often have river connections.",
+            "answer": "YES",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T04:21:34.087200"
+}

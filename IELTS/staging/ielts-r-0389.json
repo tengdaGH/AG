@@ -1,0 +1,214 @@
+{
+  "id": "ielts-r-0389",
+  "slug": "seed-hunting",
+  "title": "Seed Hunting",
+  "page_range": [
+    1978,
+    1982
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "drugs",
+    "2": "NOT GIVEN",
+    "9": "pioneers",
+    "3": "TRUE",
+    "10": "Sir Joseph Banks",
+    "4": "TRUE",
+    "11": "underground vaults",
+    "5": "FALSE",
+    "12": "A",
+    "6": "TRUE",
+    "13": "B",
+    "7": "extinction"
+  },
+  "content": {
+    "title": "Seed Hunting",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "With a quarter of the world’s plants set to vanish within the next 50 years, Dough Alexander reports on the scientists working against the clock to preserve the Earth’s botanical heritage. They travel the four corners of the globe, scouring jungles, forests and savannas. But they’re not looking for ancient artefacts, lost treasure or undiscovered tombs. Just pods. It may lack the romantic allure of archaeology or the whiff of danger that accompanies going after big game, but seed hunting is an increasingly serious business. Some seek seeds for profit—hunters in the employ of biotechnology firms, pharmaceutical companies and private corporations on the lookout for species that will yield the drugs or crops of the future. Others collect to conserve, working to halt the sad slide into extinction facing so many plant species."
+      },
+      {
+        "label": "B",
+        "content": "Among the pioneers of this botanical treasure hunt was John Tradescant, an English royal gardener who brought back plants and seeds from his journeys abroad in the early 1600s. Later, the English botanist Sir Joseph Banks—who was the first director of the Royal Botanic Gardens at Kew and travelled with Captain James Cook on his voyages near the end of the 18th century—was so driven to expand his collections that he sent botanists around the world at his own expense."
+      },
+      {
+        "label": "C",
+        "content": "Those heady days of exploration and discovery may be over, but they have been replaced by a pressing need to preserve our natural history for the future. This modern mission drives hunters such as Dr Michiel van Slageren, a good-natured Dutchman who often sports a wide-brimmed hat in the field—he could easily be mistaken for the cinematic hero Indiana Jones. He and three other seed hunters work at the Millennium Seed Bank, an 80 million [pounds sterling] international conservation project that aims to protect the world’s most endangered wild plant species."
+      },
+      {
+        "label": "D",
+        "content": "The group’s headquarters are in a modern glass-and-concrete structure on a 200-hectare estate at Wakehurst Place in the West Sussex countryside. Within its underground vaults are 260 million dried seeds from 122 countries, all stored at -20 Celsius to survive for centuries. Among the 5,100 species represented are virtually all of Britain’s 1,400 native seed-bearing plants, the most complete such collection of any country’s flora."
+      },
+      {
+        "label": "E",
+        "content": "Overseen by the Royal Botanic Gardens, the Millennium Seed Bank is the world’s largest wild-plant depository. It aims to collect 24,000 species by 2010. The reason is simple: thanks to humanity’s efforts, an estimated 25 per cent of the world’s plants are on the verge of extinction and may vanish within 50 years. We’re currently responsible for habitat destruction on an unprecedented scale, and during the past 400 years, plant species extinction rates have been about 70 times greater than those indicated by the geological record as being 'normal'. Experts predict that during the next 50 years, a further one billion hectares of wilderness will be converted to farmland in developing countries alone."
+      },
+      {
+        "label": "F",
+        "content": "The implications of this loss are enormous. Besides providing staple food crops, plants are a source of many materials and the principal supply of fuel and building materials in many parts of the world. They also protect soil and help regulate the climate. Yet, across the globe, plant species are being driven to extinction before their potential benefits are discovered."
+      },
+      {
+        "label": "G",
+        "content": "The World Conservation Union has listed 5,714 threatened species, but the actual number is sure to be much higher. In the UK alone, 300 wild plant species are classified as endangered. The Millennium Seed Bank aims to ensure that even if a plant becomes extinct in the wild, it won’t be lost forever. Stored seeds can be used to help restore damaged or destroyed environments or in scientific research to find new benefits for society—in medicine, agriculture or local industry—that would otherwise be lost."
+      },
+      {
+        "label": "H",
+        "content": "Seed banks are an insurance policy to protect the world’s plant heritage for the future, explains Dr Paul Smith, another Kew seed hunter. 'Seed conservation techniques were originally developed by farmers,' he says. 'Storage is the basis of what we do, conserving seeds until you can use them just as in farming.' Smith says there’s no reason why any plant species should become extinct, given today’s technology. But he admits that the biggest challenge is finding, naming and categorizing all the world’s plants. And someone has to gather these seeds before it’s too late. 'There aren’t a lot of people out there doing this,' he says. 'The key is to know the flora from a particular area, and that knowledge takes years to acquire.'"
+      },
+      {
+        "label": "I",
+        "content": "There are about 1,470 seed banks scattered around the globe, with a combined total of 5.4 million samples, of which perhaps two million are distinct non-duplicates. Most preserve genetic material for agricultural use in order to ensure crop diversity; others aim to conserve wild species, although only 15 per cent of all banked plants is wild."
+      },
+      {
+        "label": "J",
+        "content": "Many seed banks are themselves under threat due to a lack of funds. Last year, Imperial College, London, examined crop collections from 151 countries and found that while the number of plant samples had increased in two-thirds of the countries, the budget had been cut in a quarter and remained static in another 35 per cent. The UN’s Food and Agriculture Organization and the Consultative Group on International Agricultural Research have since set up the Global Conservation Trust, which aims to raise the US $260 million to protect seed banks in perpetuity."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-6 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The purpose of collecting seeds now is different from the past.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The millennium seed bank is the earliest seed bank.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "One of the major threats for plant species extinction is farmland expansion into wildness.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The approach that scientists apply to store seeds is similar to that used by farmers.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Technological development is the only hope to save plant species.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The works of seed conservation are often limited by financial problems.",
+            "answer": "TRUE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Some people collect seeds for the purpose of protecting certain species from 7.....................",
+            "answer": "extinction",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Others collect seeds for their ability to produce 8.....................",
+            "answer": "drugs",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "They are called seed hunters. The 9.................... of them included both gardeners and botanists, such as 10.....................",
+            "answer": "pioneers",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "who financially supported collectors out of his own pocket. The seeds collected are usually stored in seed banks, one of which is the famous millennium seed bank, where seeds are all stored in the 11.................... at a low temperature.",
+            "answer": "Sir Joseph Banks",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The seeds collected are usually stored in seed banks, one of which is the famous millennium seed bank, where seeds are all stored in the 11.................... at a low temperature.",
+            "answer": "underground vaults",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A-E.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Which TWO of the following are provided by plants to the human?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "food"
+              },
+              {
+                "label": "B",
+                "text": "fuels"
+              },
+              {
+                "label": "C",
+                "text": "clothes"
+              },
+              {
+                "label": "D",
+                "text": "energy"
+              },
+              {
+                "label": "E",
+                "text": "commercial products"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Which TWO of the following are provided by plants to the human?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "food"
+              },
+              {
+                "label": "B",
+                "text": "fuels"
+              },
+              {
+                "label": "C",
+                "text": "clothes"
+              },
+              {
+                "label": "D",
+                "text": "energy"
+              },
+              {
+                "label": "E",
+                "text": "commercial products"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:15:57.757371"
+}

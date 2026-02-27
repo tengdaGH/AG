@@ -1,0 +1,344 @@
+{
+  "id": "ielts-r-0036",
+  "slug": "architecture---reaching-for-the-sky",
+  "title": "Architecture - Reaching for the Sky",
+  "page_range": [
+    193,
+    197
+  ],
+  "raw_answer_key": {
+    "7": "co-existence of styles//different",
+    "1": "timber and stone styles together//styles mixed",
+    "2": "Modernism",
+    "8": "G",
+    "3": "International style",
+    "9": "F",
+    "4": "badly designed buildings//multi-storey housing//mass-",
+    "10": "H produced, low-cost high-rises",
+    "5": "preservation",
+    "11": "C",
+    "6": "High-Tech",
+    "12": "D"
+  },
+  "content": {
+    "title": "Architecture - Reaching for the Sky",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Architecture is the art and science of designing buildings and structures. A building reflects the scientific and technological achievements of the age as well as the ideas and aspirations of the designer and client. The appearance of individual buildings, however, is often controversial."
+      },
+      {
+        "label": null,
+        "content": "The use of an architectural style cannot be said to start or finish on a specific date. Neither is it possible to say exactly what characterises a particular movement. But the origins of what is now generally known as modern architecture can be traced back to the social and technological changes of the 18th and 19th centuries."
+      },
+      {
+        "label": null,
+        "content": "Instead of using timber, stone and traditional building techniques, architects began to explore ways of creating buildings by using the latest technology and materials such as steel, glass and concrete strengthened steel bars, known as reinforced concrete. Technological advances also helped bring about the decline of rural industries and an increase in urban populations as people moved to the towns to work in the new factories. Such rapid and uncontrolled growth helped to turn parts of cities into slums."
+      },
+      {
+        "label": null,
+        "content": "By the 1920s architects throughout Europe were reacting against the conditions created by industrialisation. A new style of architecture emerged to reflect more idealistic notions for the future. It was made possible by new materials and construction techniques and was known as Modernism."
+      },
+      {
+        "label": null,
+        "content": "By the 1930s many buildings emerging from this movement were designed in the International Style. This was largely characterised by the bold use of new materials and simple, geometric forms, often with white walls supported by stilt-like pillars. These were stripped of unnecessary decoration that would detract from their primary purpose — to be used or lived in."
+      },
+      {
+        "label": null,
+        "content": "Walter Gropius, Charles Jeanneret (better known as Le Corbusier) and Ludwig Mies van der Rohe were among the most influential of the many architects who contributed to the development of Modernism in the first half of the century. But the economic depression of the 1930s and the second world war (1939-45) prevented their ideas from being widely realised until the economic conditions improved and war-torn cities had to be rebuilt."
+      },
+      {
+        "label": null,
+        "content": "By the 1950s, the International Style had developed into a universal approach to building, which standardised the appearance of new buildings in cities across the world."
+      },
+      {
+        "label": null,
+        "content": "Unfortunately, this Modernist interest in geometric simplicity and function became exploited for profit. The rediscovery of quick-and-easy-to-handle reinforced concrete and an improved ability to prefabricate building sections meant that builders could meet the budgets of commissioning authorities and handle a renewed demand for development quickly and cheaply. But this led to many badly designed buildings, which discredited the original aims of Modernism."
+      },
+      {
+        "label": null,
+        "content": "Influenced by Le Corbusier’s ideas on town planning, every large British city built multi-storey housing estates in the 1960s. Mass-produced, low-cost high-rises seemed to offer a solution to the problem of housing a growing inner-city population. But far from meeting human needs, the new estates often proved to be windswept deserts lacking essential social facilities and services."
+      },
+      {
+        "label": null,
+        "content": "Many of these buildings were poorly designed and constructed and have since been demolished."
+      },
+      {
+        "label": null,
+        "content": "By the 1970s, a new respect for the place of buildings within the existing townscape arose. Preserving historic buildings or keeping only their facades (or fronts) grew common. Architects also began to make more use of building styles and materials that were traditional to the area."
+      },
+      {
+        "label": null,
+        "content": "The architectural style usually referred to as High Tech was also emerging. It celebrated scientific and engineering achievements by openly parading the sophisticated techniques used in construction. Such buildings are commonly made of metal and glass; examples are Stansted airport and the Lloyd’s building in London."
+      },
+      {
+        "label": null,
+        "content": "Disillusionment at the failure of many of the poor imitations of Modernist architecture led to interest in various styles and ideas from the past and present. By the 1980s the coexistence of different styles of architecture in the same building became known as Post Modern. Other architects looked back to the classical tradition."
+      },
+      {
+        "label": null,
+        "content": "The trend in architecture now favours smaller scale building design that reflects a growing public awareness of environmental issues such as energy efficiency. Like the Modernists, people today recognise that a well designed environment improves the quality of life but is not necessarily achieved by adopting one well defined style of architecture."
+      },
+      {
+        "label": null,
+        "content": "Twentieth century architecture will mainly be remembered for its tall buildings. They have been made possible by the development of light steel frames and safe passenger lifts. They originated in the US over a century ago to help meet the demand for more economical use of land. As construction techniques improved, the skyscraper became a reality."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below using information from Reading Passage. Write NO MORE THAN THREE WORDS for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Before 18th century: MATERIALS",
+            "answer": "timber and stone styles together//styles mixed",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "1920s: STYLE OF PERIOD",
+            "answer": "Modernism",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "1930s - 1950s: STYLE OF PERIOD",
+            "answer": "International style",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "1960s: BUILDING MATERIALS",
+            "answer": "badly designed buildings//multi-storey housing//mass-",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "1970s: BUILDING MATERIALS",
+            "answer": "preservation",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "1970s: STYLE OF PERIOD",
+            "answer": "High-Tech",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "1980s: CHARACTER",
+            "answer": "co-existence of styles//different",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Match each Cause (8-12) in List A, with its Effect (A-H) in List B.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "A rapid movement of people from rural areas to cities is triggered by technological advance.",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "The quality of life is improved."
+              },
+              {
+                "label": "B",
+                "text": "Architecture reflects the age."
+              },
+              {
+                "label": "C",
+                "text": "A number of these have been known."
+              },
+              {
+                "label": "D",
+                "text": "Light steel frames and lifts are developed."
+              },
+              {
+                "label": "E",
+                "text": "Historical buildings are preserved."
+              },
+              {
+                "label": "F",
+                "text": "All decoration is removed."
+              },
+              {
+                "label": "G",
+                "text": "Parts of cities become slums."
+              },
+              {
+                "label": "H",
+                "text": "Modernist ideas cannot be put in place until the second half of the 20th century."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Buildings become simple and functional.",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "The quality of life is improved."
+              },
+              {
+                "label": "B",
+                "text": "Architecture reflects the age."
+              },
+              {
+                "label": "C",
+                "text": "A number of these have been known."
+              },
+              {
+                "label": "D",
+                "text": "Light steel frames and lifts are developed."
+              },
+              {
+                "label": "E",
+                "text": "Historical buildings are preserved."
+              },
+              {
+                "label": "F",
+                "text": "All decoration is removed."
+              },
+              {
+                "label": "G",
+                "text": "Parts of cities become slums."
+              },
+              {
+                "label": "H",
+                "text": "Modernist ideas cannot be put in place until the second half of the 20th century."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "An economic depression and the second world war hit Europe.",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "The quality of life is improved."
+              },
+              {
+                "label": "B",
+                "text": "Architecture reflects the age."
+              },
+              {
+                "label": "C",
+                "text": "A number of these have been known."
+              },
+              {
+                "label": "D",
+                "text": "Light steel frames and lifts are developed."
+              },
+              {
+                "label": "E",
+                "text": "Historical buildings are preserved."
+              },
+              {
+                "label": "F",
+                "text": "All decoration is removed."
+              },
+              {
+                "label": "G",
+                "text": "Parts of cities become slums."
+              },
+              {
+                "label": "H",
+                "text": "Modernist ideas cannot be put in place until the second half of the 20th century."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Multi-storey housing estates are built according to contemporary ideas on town planning.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "The quality of life is improved."
+              },
+              {
+                "label": "B",
+                "text": "Architecture reflects the age."
+              },
+              {
+                "label": "C",
+                "text": "A number of these have been known."
+              },
+              {
+                "label": "D",
+                "text": "Light steel frames and lifts are developed."
+              },
+              {
+                "label": "E",
+                "text": "Historical buildings are preserved."
+              },
+              {
+                "label": "F",
+                "text": "All decoration is removed."
+              },
+              {
+                "label": "G",
+                "text": "Parts of cities become slums."
+              },
+              {
+                "label": "H",
+                "text": "Modernist ideas cannot be put in place until the second half of the 20th century."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Less land must be used for building.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "The quality of life is improved."
+              },
+              {
+                "label": "B",
+                "text": "Architecture reflects the age."
+              },
+              {
+                "label": "C",
+                "text": "A number of these have been known."
+              },
+              {
+                "label": "D",
+                "text": "Light steel frames and lifts are developed."
+              },
+              {
+                "label": "E",
+                "text": "Historical buildings are preserved."
+              },
+              {
+                "label": "F",
+                "text": "All decoration is removed."
+              },
+              {
+                "label": "G",
+                "text": "Parts of cities become slums."
+              },
+              {
+                "label": "H",
+                "text": "Modernist ideas cannot be put in place until the second half of the 20th century."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-25T18:28:55.561655"
+}

@@ -1,0 +1,276 @@
+{
+  "id": "ielts-r-0634",
+  "slug": "why-are-so-few-tigers-man-eaters",
+  "title": "Why are so few tigers man-eaters?",
+  "page_range": [
+    3203,
+    3207
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "TRUE",
+    "2": "A",
+    "9": "NOT GIVEN",
+    "3": "F",
+    "10": "FALSE",
+    "4": "B",
+    "11": "C",
+    "5": "E",
+    "12": "B",
+    "6": "NOT GIVEN",
+    "13": "D",
+    "7": "TRUE"
+  },
+  "content": {
+    "title": "Why are so few tigers man-eaters?",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "As you leave the Bandhavgarh National Park in central India, there is a notice which shows a huge, placid tiger. The notice says, ‘You may not have seen me, but I have seen you.’ There are more than a billion people in India and Indian tigers probably see humans every single day of their lives. Tigers can and do kill almost everything they meet in the jungle; they will even attack elephants and rhino. Surely, then, it is a little strange that attacks on humans are not more frequent."
+      },
+      {
+        "label": "B",
+        "content": "Some people might argue that these attacks were in fact common in the past. British writers of adventure stories, such as Jim Corbett, gave the impression that village life in India in the early years of the twentieth century involved a stage of constant siege by man-eating tigers. But they may have overstated the terror spread by tigers. There were also far more tigers around in those days (probably 60,000 in the subcontinent compared to just 3,000 today). So in proportion, attacks appear to have been as rare then as they are today."
+      },
+      {
+        "label": "C",
+        "content": "It is widely assumed that the constraint is fear; but what exactly are tigers afraid of? Can they really know that we may be even better armed than they are? Surely not. Has the species programmed the experiences of all tigers with humans into its genes to be inherited as instinct? Perhaps. But I think the explanation may be more simple and, in a way, more intriguing."
+      },
+      {
+        "label": "D",
+        "content": "Since the growth of ethology in the 1950s, we have tried to understand animal behaviour from the animal’s point of view. Until the first elegant experiments by pioneers in the field such as Konrad Lorenz, naturalists wrote about animals as if they were slightly less intelligent humans. Jim Corbett’s breathless accounts of his duels with man-eaters in truth tell us more about Jim Corbett than they do about the animals. The principle of ethology, on the other hand, requires us to attempt to think in the same way as the animal we are studying thinks, and to observe every tiny detail of its behaviour without imposing our own human significances on its actions."
+      },
+      {
+        "label": "E",
+        "content": "I suspect that a tiger’s fear of humans lies not in some preprogrammed ancestral logic but in the way it actually perceives us visually. If you think like a tiger, a human in a car might appear just to be a part of the car, and because tigers don’t eat cars, the human is safe—unless the car is menacing the tiger or its cubs, in which case a brave or enraged tiger may charge. A human on foot is a different sort of puzzle. Imagine a tiger sees a man who is 1.8m tall. A tiger is less than 1m tall but may be up to 3m long from head to tail. So when a tiger sees the man face on, it might not be unreasonable for it to assume that the man is 6m long. If it meets a deer of this size, it might attack the animal by leaping on its back, but when it looks behind the man it can’t see a back. From the front the man is huge, but looked at from the side he all but disappears. This must be very disconcerting. A hunter has to be confident that it can tackle its prey, and no one is confident when they are disconcerted. This is especially true of a solitary hunter such as the tiger and may explain why lions—particularly young lionesses who tend to encourage one another to take risks—are more dangerous than tigers."
+      },
+      {
+        "label": "F",
+        "content": "If the theory that a tiger is disconcerted to find that a standing human is both very big and yet somehow invisible is correct, the opposite should be true of a squatting human. A squatting human is half the size and presents twice the spread of back, and more closely resembles a medium-sized deer. If tigers were simply frightened of all humans, then a squatting person would be no more attractive as a target than a standing one. However, this appears not to be the case. Many incidents of attacks on people involve villagers squatting or bending over to cut grass for fodder or building material."
+      },
+      {
+        "label": "G",
+        "content": "The fact that humans stand upright may therefore not just be something that distinguishes them from nearly all other species, but also a factor that helped them to survive in a dangerous and unpredictable environment."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage 2 has seven paragraphs labelled A-G. Which paragraph contains the following information? Write the correct letter A-G in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "a rejected explanation of why tiger attacks on humans are rare",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "a reason why tiger attacks on humans might be expected to happen more often than they do",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "examples of situations in which humans are more likely to be attacked by tigers",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "a claim about the relative frequency of tiger attacks on humans",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "an explanation of tiger behaviour based on the principles of ethology",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 6-10 on your answer sheet write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Tigers in the Bandhavgarh National Park are a protected species.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Some writers of fiction have exaggerated the danger of tigers to man.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The fear of humans may be passed down in a tiger's genes.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Konrad Lorenz claimed that some animals are more intelligent than humans.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Ethology involves applying principles of human behaviour to animals.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer, A, B, C or D. Write your answers in boxes 11-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Why do tigers rarely attack people in cars?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "They have learned that cars are not dangerous."
+              },
+              {
+                "label": "B",
+                "text": "They realise that people in cars cannot be harmed."
+              },
+              {
+                "label": "C",
+                "text": "They do not think people in cars are living creatures."
+              },
+              {
+                "label": "D",
+                "text": "They do not want to put their cubs at risk."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The writer says that tigers rarely attack a man who is standing up because",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "they are afraid of the man's height."
+              },
+              {
+                "label": "B",
+                "text": "they are confused by the man's shape."
+              },
+              {
+                "label": "C",
+                "text": "they are puzzled by the man's lack of movement."
+              },
+              {
+                "label": "D",
+                "text": "they are unable to look at the man directly."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "A human is more vulnerable to tiger attack when squatting because",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "he may be unaware of the tiger's approach."
+              },
+              {
+                "label": "B",
+                "text": "he cannot easily move his head to see behind him."
+              },
+              {
+                "label": "C",
+                "text": "his head becomes a better target for the tiger."
+              },
+              {
+                "label": "D",
+                "text": "his back appears longer in relation to his height."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:21:57.167098"
+}

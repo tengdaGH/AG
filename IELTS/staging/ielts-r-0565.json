@@ -1,0 +1,257 @@
+{
+  "id": "ielts-r-0565",
+  "slug": "the-truth-about-the-environment",
+  "title": "The Truth about the Environment",
+  "page_range": [
+    2861,
+    2866
+  ],
+  "raw_answer_key": {
+    "1": "YES",
+    "8": "D",
+    "2": "NOT GIVEN",
+    "9": "C",
+    "3": "NO",
+    "10": "B",
+    "4": "NOT GIVEN",
+    "11": "B",
+    "5": "YES",
+    "12": "E",
+    "6": "NO",
+    "13": "D",
+    "7": "C",
+    "14": "I"
+  },
+  "content": {
+    "title": "The Truth about the Environment",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "For many environmentalists, the world seems to be getting worse. They have developed a hit-list of our main fears: that natural resources are running out; that the population is ever growing, leaving less and less to eat; that species are becoming extinct in vast numbers, and that the planet's air and water are becoming ever more polluted."
+      },
+      {
+        "content": "But a quick look at the facts shows a different picture. First, energy and other natural resources have become more abundant, not less so, since the book 'The Limits to Growth' was published in 1972 by a group of scientists. Second, more food is now produced per head of the world's population than at any time in history. Fewer people are starving. Third, although species are indeed becoming extinct, only about 0.7% of them are expected to disappear in the next 50 years, not 25-50%, as has so often been predicted. And finally, most forms of environmental pollution either appear to have been exaggerated, or are transient - associated with the early phases of industrialisation and therefore best cured not by restricting economic growth, but by accelerating it. One form of pollution - the release of greenhouse gases that causes global warming - does appear to be a phenomenon that is going to extend well into our future, but its total impact is unlikely to pose a devastating problem. A bigger problem may well turn out to be an inappropriate response to it."
+      },
+      {
+        "content": "Yet opinion polls suggest that many people nurture the belief that environmental standards are declining and four factors seem to cause this disjunction between perception and reality."
+      },
+      {
+        "content": "One is the lopsidedness built into scientific research. Scientific funding goes mainly to areas with many problems. That may be wise policy, but it will also create an impression that many more potential problems exist than is the case."
+      },
+      {
+        "content": "Secondly, environmental groups need to be noticed by the mass media. They also need to keep the money rolling in. Understandably, perhaps, they sometimes overstate their arguments. In 1997, for example, the World Wide Fund for Nature issued a press release entitled: 'Two thirds of the world's forests lost forever'. The truth turns out to be nearer 20%. Though these groups are run overwhelmingly by selfless folk, they nevertheless share many of the characteristics of other lobby groups. That would matter less if people applied the same degree of scepticism to environmental lobbying as they do to lobby groups in other fields. A trade organisation arguing for, say, weaker pollution controls is instantly seen as self-interested. Yet a green organisation opposing such a weakening is seen as altruistic, even if an impartial view of the controls in question might suggest they are doing more harm than good."
+      },
+      {
+        "content": "A third source of confusion is the attitude of the media. People are clearly more curious about bad news than good. Newspapers and broadcasters are there to provide what the public wants. That, however, can lead to significant distortions of perception. An example was America's encounter with El Nino in 1997 and 1998. This climatic phenomenon was accused of wrecking tourism, causing allergies, melting the ski-slopes and causing 22 deaths. However, according to an article in the Bulletin of the American Meteorological Society, the damage it did was estimated at US$4 billion but the benefits amounted to some US$19 billion. These came from higher winter temperatures (which saved an estimated 850 lives, reduced heating costs and diminished spring floods caused by meltwaters)."
+      },
+      {
+        "content": "The fourth factor is poor individual perception. People worry that the endless rise in the amount of stuff everyone throws away will cause the world to run out of places to dispose of waste. Yet, even if America's trash output continues to rise as it has done in the past, and even if the American population doubles by 2100, all the rubbish America produces through the entire 21st century will still take up only one-12,000th of the area of the entire United States."
+      },
+      {
+        "content": "So what of global warming? As we know, carbon dioxide emissions are causing the planet to warm. The best estimates are that the temperatures will rise by 2-3°C in this century, causing considerable problems, at a total cost of US$5,000 billion."
+      },
+      {
+        "content": "Despite the intuition that something drastic needs to be done about such a costly problem, economic analyses clearly show it will be far more expensive to cut carbon dioxide emissions radically than to pay the costs of adaptation to the increased temperatures. A model by one of the main authors of the United Nations Climate Change Panel shows how an expected temperature increase of 2.1 degrees in 2100 would only be diminished to an increase of 1.9 degrees. Or to put it another way, the temperature increase that the planet would have experienced in 2094 would be postponed to 2100."
+      },
+      {
+        "content": "So this does not prevent global warming, but merely buys the world six years. Yet the cost of reducing carbon dioxide emissions, for the United States alone, will be higher than the cost of solving the world's single, most pressing health problem: providing universal access to clean drinking water and sanitation. Such measures would avoid 2 million deaths every year, and prevent half a billion people from becoming seriously ill."
+      },
+      {
+        "content": "It is crucial that we look at the facts if we want to make the best possible decisions for the future. It may be costly to be overly optimistic - but more costly still to be too pessimistic."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage? In boxes 1-6 on your answer sheet, write YES if the statement agrees with the writer's claims, NO if the statement contradicts the writer's claims, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Environmentalists take a pessimistic view of the world for a number of reasons.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Data on the Earth’s natural resources has only been collected since 1972.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The number of starving people in the world has increased in recent years.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Extinct species are being replaced by new species.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Some pollution problems have been correctly linked to industrialisation.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "It would be best to attempt to slow down economic growth.",
+            "answer": "NO",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter. A, B, C or D. Write your answers in boxes 7-11 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "What aspect of scientific research does the writer express concern about in paragraph 4?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the need to produce results"
+              },
+              {
+                "label": "B",
+                "text": "the lack of financial support"
+              },
+              {
+                "label": "C",
+                "text": "the selection of areas to research"
+              },
+              {
+                "label": "D",
+                "text": "the desire to solve every research problem"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The writer quotes from the Worldwide Fund for Nature to illustrate how",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "influential the mass media can be"
+              },
+              {
+                "label": "B",
+                "text": "effective environmental groups can be"
+              },
+              {
+                "label": "C",
+                "text": "the mass media can help groups raise funds"
+              },
+              {
+                "label": "D",
+                "text": "environmental groups can exaggerate their claims"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "What is the writer’s main point about lobby groups in paragraph 6?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Some are more active than others"
+              },
+              {
+                "label": "B",
+                "text": "Some are better organised than others"
+              },
+              {
+                "label": "C",
+                "text": "Some receive more criticism than others"
+              },
+              {
+                "label": "D",
+                "text": "Some support more important issues than others"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The writer suggests that newspapers print items that are intended to",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "educate readers"
+              },
+              {
+                "label": "B",
+                "text": "meet their readers’ expectations"
+              },
+              {
+                "label": "C",
+                "text": "encourage feedback from readers"
+              },
+              {
+                "label": "D",
+                "text": "mislead readers"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "What does the writer say about America’s waste problem?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "It will increase in time with population growth"
+              },
+              {
+                "label": "B",
+                "text": "It is not as important as we have been led to believe"
+              },
+              {
+                "label": "C",
+                "text": "It has been reduced through public awareness of the issues"
+              },
+              {
+                "label": "D",
+                "text": "It is only significant in certain areas of the country"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary with the list of words A-I below. Write the correct letter A-I in boxes 12-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "The writer admits that global warming is a 12..................... challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the 13..................... way.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The writer admits that global warming is a 12..................... challenge, but says that it will not have a catastrophic impact on our future, if we deal with it in the 13..................... way.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "If we try to reduce the levels of greenhouse gases, he believes that it would only have a minimal impact on rising temperatures. He feels it would be better to spend money on the more 14..................... health problem of providing the world’s population with clean drinking water.",
+            "answer": "I",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:00:42.213940"
+}

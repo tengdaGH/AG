@@ -1,0 +1,242 @@
+{
+  "id": "ielts-r-0630",
+  "slug": "when-people-are-deaf-to-music",
+  "title": "When people are deaf’ to music",
+  "page_range": [
+    3185,
+    3189
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "YES",
+    "2": "B",
+    "9": "NOT GIVEN",
+    "3": "A",
+    "10": "E",
+    "4": "C",
+    "11": "C",
+    "5": "B",
+    "12": "D",
+    "6": "NO",
+    "13": "G",
+    "7": "NOT GIVEN",
+    "14": "B"
+  },
+  "content": {
+    "title": "When people are 'deaf' to music",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Music has long been considered a uniquely human concept. In fact, most psychologists agree that music is a universal human instinct. Like any ability, however, there is great variation in people's musical competence. For every brilliant pianist in the world, there are several people we refer to as 'tone deaf'. It is not simply that people with tone deafness (or 'amusia') are unable to sing in tune, they are also unable to discriminate between tones or recognize familiar melodies. Such a 'disorder' can occur after some sort of brain damage, but recently research has been undertaken in an attempt to discover the cause of congenital amusia (when people are born with the condition), which is not associated with any brain damage, hearing problems, or lack of exposure to music."
+      },
+      {
+        "content": "According to the research of Dr. Isabelle Peretz of the University of Montreal, amusia is more complicated than the inability to distinguish pitches. An amusic (a person who has the condition of amusia) can distinguish between two pitches that are far apart, but cannot tell the difference between intervals smaller than a half step on the Western diatonic scale, while most people can easily distinguish differences smaller than that. When listening to melodies which have had a single note altered so that it is out of key with the rest of the melody, amusics do not notice a problem. As would be expected, amusics perform significantly worse at singing and tapping a rhythm along with a melody than do non-amusics."
+      },
+      {
+        "content": "The most fascinating aspect of amusia is how specific to music it is. Because of music’s close ties to language, it might be expected that a musical impairment may be caused by a language impairment. Studies suggest, however, that language and music ability are independent of one another. People with brain damage in areas critical to language are often still able to sing, despite being unable to communicate through speech. Moreover, while amusics show deficiencies in their recognition of pitch differences in melodies, they show no deficiencies in their recognition of pitch differences in speech. People who speak tonal languages, such as Chinese, do not report having any difficulty discriminating between words that differ only in their intonation. The linguistic cues inherent in speech make discrimination of meaning much easier for amusics. Amusics are also successful most of the time at detecting the mood of a melody, can identify a speaker based on his or her voice and can discriminate and identify environmental sounds."
+      },
+      {
+        "content": "Recent work has been focused on locating the part of the brain that is responsible for amusia. The temporal lobes of the brain, the location of the primary auditory cortex, have been considered. It has long been believed that the temporal lobes, especially the right temporal lobe, are most active when processing musical activity, so any musical disability should logically stem from here as well. Because it has been shown that there is no hearing deficit in amusia, researchers moved on to the temporal neocortex, which is where more sophisticated processing of musical cues was thought to take place. New studies, however, have suggested that the deficits in amusics are located outside the auditory cortex. Brain scans of amusics do not show any reaction at all to differences smaller than a half step, but when changes in tones are large, their brains overreact, showing twice as much activity on the right side of the brain as a normal brain hearing the same thing. These differences do not occur in the auditory cortex, indicating again that the deficits of amusia lie mostly in higher processing of melodies, not in hearing impairment."
+      },
+      {
+        "content": "So what does this all mean? Looking only at the research of Peretz in the field of neuropsychology of music, it would appear that amusia is some sort of disorder. As a student of neurobiology, however, I am skeptical. Certainly the studies by Peretz that have found significant differences between the brains of so-called amusics and normal brains are legitimate. The more important question now becomes one of normality. Every trait from skin color to intelligence to mood exists on a continuum-there is a great deal of variation from one extreme to the other. Just because we recognize that basic musical ability is something that the vast majority of people have, this doesn’t mean that the lack of it is abnormal."
+      },
+      {
+        "content": "What makes an amusic worse off than a musical prodigy? Musical ability is culturally valued, and may have been a factor in survival at one point in human history, but it does not seem likely that it is being selected for on an evolutionary scale any longer. Darwin believed that music was adaptive as a way of finding a mate, but who needs to be able to sing to find a partner in an age when it is possible to express your emotions through a song on your IPod? While the idea of amusia is interesting, it seems to be just one end of the continuum of innate musical ability. Comparing this 'disorder' to learning disorders like a specific language impairment seems to be going too far. Before amusia can be declared a disability, further research must be done to determine whether lack of musical ability is actually detrimental in any way. If no disadvantages can be found of having amusia, then it is no more a disability than having poor fashion sense or bad handwriting."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What does the writer tell us about people with tone deafness (amusia) in the first paragraph?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "They usually have hearing problems"
+              },
+              {
+                "label": "B",
+                "text": "Some can play a musical instrument very well"
+              },
+              {
+                "label": "C",
+                "text": "Some may be able to sing well-known melodies"
+              },
+              {
+                "label": "D",
+                "text": "They have several inabilities in regard to music"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What is the writer doing in the second paragraph?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "outlining some of factors that cause amusia"
+              },
+              {
+                "label": "B",
+                "text": "summarising some findings about people with amusia"
+              },
+              {
+                "label": "C",
+                "text": "suggesting that people with amusia are disadvantaged"
+              },
+              {
+                "label": "D",
+                "text": "comparing the sing ability of amusia with their sense"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What does the writer say about the relationship between language ability and musical ability?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "People who are unable to speak can sometimes sing"
+              },
+              {
+                "label": "B",
+                "text": "People with amusia usually have language problems too"
+              },
+              {
+                "label": "C",
+                "text": "Speakers of tonal languages like Chinese rarely have amusia"
+              },
+              {
+                "label": "D",
+                "text": "People with amusia have difficulty recognizing people by their voices"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "In the third paragraph, the writer notes that most amusics are able to",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "learn how to sing in tune"
+              },
+              {
+                "label": "B",
+                "text": "identify a song by its tune"
+              },
+              {
+                "label": "C",
+                "text": "distinguish a sad tone from a happy tone"
+              },
+              {
+                "label": "D",
+                "text": "recognise when a singer is not sing in tune"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What is the writer doing in the fourth paragraph?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "claiming that amusics have problems in the auditory cortex"
+              },
+              {
+                "label": "B",
+                "text": "outlining progress in understanding the brains of amusics"
+              },
+              {
+                "label": "C",
+                "text": "proving that amuisa is located in the temporal lobes"
+              },
+              {
+                "label": "D",
+                "text": "explaining why studies of hearing are difficult"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Perezt's research suggesting that amusia is a disorder is convincing.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "People with musical ability are happier than those without this ability.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "It is inappropriate to consider amusia as real disorder.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "People with amusia often have bad handwriting.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending, A-H below.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The reason why some people are born with amusia is",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "One of the difficulties amusia experience is",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "For amusia, discrimination of meaning in speech is",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Certain reactions in the brain of an amusia are",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "In most cultures, musical ability is",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:16:06.838336"
+}

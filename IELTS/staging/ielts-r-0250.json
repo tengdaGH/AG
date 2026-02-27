@@ -1,0 +1,212 @@
+{
+  "id": "ielts-r-0250",
+  "slug": "learning-by-examples",
+  "title": "Learning by Examples",
+  "page_range": [
+    1266,
+    1270
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "FALSE",
+    "2": "A",
+    "9": "less",
+    "3": "C",
+    "10": "social",
+    "4": "E",
+    "11": "watched",
+    "5": "FALSE",
+    "12": "observer",
+    "6": "TRUE",
+    "13": "Nutcracker",
+    "7": "TRUE"
+  },
+  "content": {
+    "title": "Learning by Examples",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Learning Theory is rooted in the work of Ivan Pavlov, the famous scientist who discovered and documented the principles governing how animals (humans included) learn in the 1900s. Two basic kinds of learning or conditioning occur, one of which is famously known as the classical conditioning. Classical conditioning happens when an animal learns to associate a neutral stimulus (signal) with a stimulus that has intrinsic meaning based on how closely in time the two stimuli are presented. The classic example of classical conditioning is a dog's ability to associate the sound of a bell (something that originally has no meaning to the dog) with the presentation of food (something that has a lot of meaning to the dog) a few moments later. Dogs are able to learn the association between bell and food, and will salivate immediately after hearing the bell once this connection has been made. Years of learning research have led to the creation of a highly precise learning theory that can be used to understand and predict how and under what circumstances most any animal will learn, including human beings, and eventually help people figure out how to change their behaviours."
+      },
+      {
+        "label": "B",
+        "content": "Role models are a popular notion for guiding child development, but in recent years very interesting research has been done on learning by examples in other animals. If the subject of animal learning is taught very much in terms of classical or operant conditioning, it places too much emphasis on how we allow animals to learn and not enough on how they are equipped to learn. To teach a course of mine, I have been dipping profitably into a very interesting and accessible compilation of papers on social learning in mammals, including chimps and human children, edited by Heyes and Galef (1996)."
+      },
+      {
+        "label": "C",
+        "content": "The research reported in one paper started with a school field trip to Israel to a pine forest where many pine cones were discovered, stripped to the central core. So the investigation started with no weighty theoretical intent, but was directed at finding out what was eating the nutritious pine seeds and how they managed to get them out of the cones. The culprit proved to be the versatile and athletic black rat, (Rattus rattus), and the technique was to bite each cone scale off at its base, in sequence from base to tip following the spiral growth pattern of the cone."
+      },
+      {
+        "label": "D",
+        "content": "Urban black rats were found to lack the skill and were unable to learn it even if housed with experienced cone strippers. However, infants of urban mothers cross-fostered by stripper mothers acquired the skill, whereas infants of stripper mothers fostered by an urban mother could not. Clearly the skill had to be learned from the mother. Further elegant experiments showed that naive adults could develop the skill if they were provided with cones from which the first complete spiral of scales had been removed; rather like our new photocopier which you can work out how to use once someone has shown you how to switch it on. In the case of rats, the youngsters take cones away from the mother when she is still feeding on them, allowing them to acquire the complete stripping skill."
+      },
+      {
+        "label": "E",
+        "content": "A good example of adaptive bearing we might conclude, but let’s see the economies. This was determined by measuring oxygen uptake of a rat stripping a cone in a metabolic chamber to calculate energetic cost and comparing it with the benefit of the pine seeds measured by calorimeter. The cost proved to be less than 10% of the energetic value of the cone. An acceptable profit margin."
+      },
+      {
+        "label": "F",
+        "content": "A paper in 1996, Animal Behaviour by Bednekoff and Baida, provides a different view of the adaptiveness of social learning. It concerns the seed caching behaviour of Clark's Nutcracker (Nucifraga columbiana) and the Mexican Jay (Aphelocoma ultramarina). The former is a specialist, caching 30,000 or so seeds in scattered locations that it will recover over the months of winter; the Mexican Jay will also cache food but is much less dependent upon this than the Nutcracker. The two species also differ in their social structure: the Nutcracker being rather solitary while the Jay forages in social groups."
+      },
+      {
+        "label": "G",
+        "content": "The experiment is to discover not just whether a bird can remember where it hid a seed but also if it can remember where it saw another bird hide a seed. The design is slightly comical with a cacher bird wandering about a room with lots of holes in the floor hiding food in some of the holes, while watched by an observer bird perched in a cage. Two days later, cachers and observers are tested for their discovery rate against an estimated random performance. In the role of cacher, not only the Nutcracker but also the less specialised Jay performed above chance; more surprisingly, however, jay observers were as successful as jay cachers whereas nutcracker observers did no better than chance. It seems that, whereas the Nutcracker is highly adapted at remembering where it hid its own seeds, the social living Mexican Jay is more adept at remembering, and so exploiting, the caches of others."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage 1 has seven paragraphs A-G. Which paragraph contains the following information? Write the correct letter A-G in boxes 1-4 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A comparison between rats’ learning and human learning",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "A reference to the earliest study in animal learning",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The discovery of who stripped the pine cone",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "A description of a cost-effectiveness experiment",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 5-8 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "The field trip to Israel was to investigate how black rats learn to strip pine cones.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The pine cones were stripped from bottom to top by black rats.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "It can be learned from other relevant experiences to use a photocopier.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Stripping the pine cones is an instinct of the black rats.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below using words from the box. Write your answers in boxes 9-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "While the Nutcracker is more able to cache seeds, the Jay relies 9..................... on caching food and is thus less specialised in this ability, but more 10......................",
+            "answer": "less",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "While the Nutcracker is more able to cache seeds, the Jay relies 9..................... on caching food and is thus less specialised in this ability, but more 10......................",
+            "answer": "social",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "In the experiment, the cacher bird hid seeds in the ground while the other 11......................",
+            "answer": "watched",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "As a result, the Nutcracker and the Mexican Jay showed different performance in the role of 12..................... at finding the seeds - the observing 13..................... didn’t do as well as its counterpart.",
+            "answer": "observer",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "As a result, the Nutcracker and the Mexican Jay showed different performance in the role of 12..................... at finding the seeds - the observing 13..................... didn’t do as well as its counterpart.",
+            "answer": "Nutcracker",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:35:10.954752"
+}

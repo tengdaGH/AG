@@ -1,0 +1,340 @@
+{
+  "id": "ielts-r-0427",
+  "slug": "terminated-dinosaur-era",
+  "title": "Terminated Dinosaur Era",
+  "page_range": [
+    2167,
+    2171
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "YES",
+    "2": "D",
+    "9": "NOT GIVEN",
+    "3": "D",
+    "10": "NOT GIVEN",
+    "4": "A",
+    "11": "YES",
+    "5": "C",
+    "12": "in recycled paper",
+    "6": "NOT GIVEN",
+    "13": "most to lose",
+    "7": "NO"
+  },
+  "content": {
+    "properties": {
+      "title": {
+        "description": "The title of the reading passage.",
+        "title": "Title",
+        "type": "string"
+      },
+      "has_paragraph_labels": {
+        "description": "True if the passage has labeled paragraphs (e.g., A, B, C).",
+        "title": "Has Paragraph Labels",
+        "type": "boolean"
+      },
+      "paragraphs": {
+        "description": "List of structured paragraphs.",
+        "items": {
+          "$ref": "#/$defs/Paragraph"
+        },
+        "title": "Paragraphs",
+        "type": "array"
+      }
+    },
+    "required": [
+      "title",
+      "has_paragraph_labels",
+      "paragraphs"
+    ],
+    "title": "Terminated Dinosaur Era",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Day after day, we hear about how anthropogenic development is causing global warming. According to an increasingly vocal minority, however, we should be asking ourselves how much of this is media hype, and how much is based on real evidence. It seems – as so often is the case – that it depends on which expert you listen to, or which statistics you study."
+      },
+      {
+        "label": "B",
+        "content": "Yes, it is true that there is a mass of evidence to indicate that the world is getting warmer, with one of the world’s leading weather predictors stating that air temperatures have shown an increase of just under half a degree Celsius since the beginning of the twentieth century. And while this may not sound like anything worth losing sleep over, the international press would have us believe that the consequences could be devastating. Other experts, however, are of the opinion that what we are seeing is just part of a natural upward and downward swing that has always been part of the cycle of global weather. An analysis of the views of major meteorologists in the United States showed that less than 20% of them believed that any change in temperature over the last hundred years was our own fault – the rest attributed it to natural cyclical changes."
+      },
+      {
+        "label": "C",
+        "content": "There is, of course, no denying that we are still at a very early stage in understanding weather. The effects of such variables as rainfall, cloud formation, the seas and oceans, gases such as methane and ozone, or even solar energy are still not really understood, and therefore the predictions that we make using them cannot always be relied on. Dr James Hansen, in 1988, was predicting that the likely effects of global warming would be a raising of the world temperature which would have disastrous consequences for mankind: “a strong cause and effect relationship between the current climate and human alteration of the atmosphere”. He has now gone on record as stating that using artificial models of climate as a way of predicting change is all but impossible. In fact, he now believes that, rather than getting hotter, our planet is getting greener as a result of the carbon dioxide increase, with the prospect of increasing vegetation in areas which in recent history have been frozen wastelands."
+      },
+      {
+        "label": "D",
+        "content": "In fact, there is some evidence to suggest that as our computer-based weather models have become more sophisticated, the predicted rises in temperature have been cut back. In addition, if we look at the much-reported rise in global temperature over the last century, a close analysis reveals that the lion’s share of that increase, almost three quarters in total, occurred before man began to “poison” his world with industrial processes and the accompanying greenhouse gas emissions in the second half of the twentieth century."
+      },
+      {
+        "label": "E",
+        "content": "So should we pay any attention to those stories that scream out at us from billboards and television news headlines, claiming that man, with his inexhaustible dependence on oil-based machinery and ever more sophisticated forms of transport is creating a nightmare level of greenhouse gas emissions, poisoning his environment and ripping open the ozone layer? Doubters point to scientific evidence, which can prove that, of all the greenhouse gases, only two per cent come from man-made sources, the rest resulting from natural emissions. Who, then, to believe: the environmentalist exhorting us to leave the car at home, to buy reusable products packaged in recycled paper and to plant trees in our back yard? Or the sceptics, including, of course, a lot of big businesses who have most to lose, when they tell us that we are making a mountain out of a molehill? And my own opinion? The jury’s still out as far as I am concerned!"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A-D for questions 1-5.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The author …",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "believes that man is causing global warming"
+              },
+              {
+                "label": "B",
+                "text": "believes that global warming is a natural process"
+              },
+              {
+                "label": "C",
+                "text": "is sure what the causes of global warming are"
+              },
+              {
+                "label": "D",
+                "text": "does not say what he believes the causes of global warming are"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "As to the cause of global warming, the author believes that …",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "occasionally the fact depends on who you are talking to"
+              },
+              {
+                "label": "B",
+                "text": "the facts always depend on who you are talking to"
+              },
+              {
+                "label": "C",
+                "text": "often the fact depends on which expert you listen to"
+              },
+              {
+                "label": "D",
+                "text": "you should not speak to experts"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "More than 80% of the top meteorologists in the United States are of the opinion that…",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "global warming should make us lose sleep"
+              },
+              {
+                "label": "B",
+                "text": "global warming is not the result of oil natural cyclical changes, but man-made"
+              },
+              {
+                "label": "C",
+                "text": "the consequences of global warming will be deviating"
+              },
+              {
+                "label": "D",
+                "text": "global warming is not man-made, but the result of natural cyclical changes"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Our understanding of the weather…",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "leads to reliable predictions"
+              },
+              {
+                "label": "B",
+                "text": "is variable"
+              },
+              {
+                "label": "C",
+                "text": "cannot be denied"
+              },
+              {
+                "label": "D",
+                "text": "is not very developed yet"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Currently, Dr. James Hansen’s beliefs include the fact that …",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is nearly impossible to predict weather change using artificial models"
+              },
+              {
+                "label": "B",
+                "text": "the consequences of global warming would be disastrous in mankind"
+              },
+              {
+                "label": "C",
+                "text": "there is a significant link between the climate now, and man’s changing of the atmosphere"
+              },
+              {
+                "label": "D",
+                "text": "Earth is getting colder"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the statements below agree with the information in Reading Passage 1? Write YES, NO, or NOT GIVEN in boxes 6-11.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "At the same time that computer-based weather models have become more sophisticated, weather forecasters have become more expert.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about the statement in the passage."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Most of the increase in global temperature happened in the second half of the twentieth century.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about the statement in the passage."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The media wants us to blame ourselves for global warming.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about the statement in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The media encourages the public to use environment-friendly vehicles, such as electric cars to combat global warming.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about the statement in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Environmentalists are very effective at persuading people to be kind to the environment.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about the statement in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Many big businesses are on the side of the sceptics as regards the cause of global warming.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement agrees with the information in the passage."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the information in the passage."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information about the statement in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below using NO MORE THAN THREE WORDS from the passage for each blank space.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "As well as planting trees and not driving, the environmentalist would like us to choose products that are wrapped 12..................... and can be used more than once.",
+            "answer": "in recycled paper",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Big businesses would have us believe that we are making too much fuss about global warming, because they have 13......................",
+            "answer": "most to lose",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:12:35.492851"
+}

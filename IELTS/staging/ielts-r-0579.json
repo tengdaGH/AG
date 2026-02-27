@@ -1,0 +1,456 @@
+{
+  "id": "ielts-r-0579",
+  "slug": "thomas-harriot-the-discovery-of-refraction",
+  "title": "Thomas Harriot: The Discovery of Refraction",
+  "page_range": [
+    2925,
+    2929
+  ],
+  "raw_answer_key": {
+    "8": "land and",
+    "1": "x language",
+    "2": "v",
+    "9": "Ship design",
+    "10": "rainbow",
+    "3": "ix refraction",
+    "4": "iii",
+    "11": "D",
+    "5": "vii",
+    "12": "B",
+    "6": "magnification",
+    "13": "E",
+    "7": "prisms",
+    "14": "A"
+  },
+  "content": {
+    "title": "Thomas Harriot: The Discovery of Refraction",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "When light travels from one medium to another, it generally bends, or refracts. The law of refraction gives us a way of predicting the amount of bending. Refraction has many applications in optics and technology. A lens uses refraction to form an image of an object for many different purposes, such as magnification. A prism uses refraction to form a spectrum of colors from an incident beam of light. Refraction also plays an important role in the formation of a mirage and other optical illusions. The law of refraction is also known as Snell’s Law, named after Willobrord Snell, who discovered the law in 1621. Although Snell’s sine law of refraction is now taught routinely in undergraduate courses, the quest for it spanned many centuries and involved many celebrated scientists. Perhaps the most interesting thing is that the first discovery of the sine law, made by the sixteenth-century English scientist Thomas Harriot (1560-1621), has been almost completely overlooked by physicists, despite much published material describing his contribution."
+      },
+      {
+        "label": "B",
+        "content": "A contemporary of Shakespeare, Elizabeth I, Johannes Kepler and Galilei Galileo, Thomas Harriot (1560-1621) was an English scientist and mathematician. His principal biographer, J. W. Shirley, was quoted saying that in his time he was “England’s most profound mathematician, most imaginative and methodical experimental scientist”. As a mathematician, he contributed to the development of algebra, and introduced the symbols of ”>”, and ”<” for ”more than” and ”less than.” He also studied navigation and astronomy. On September 17, 1607, Harriot observed a comet, later Identified as Hailey-s. With his painstaking observations, later workers were able to compute the comet’s orbit. Harriot was also the first to use a telescope to observe the heavens in England. He made sketches of the moon in 1609, and then developed lenses of increasing magnification. By April 1611, he had developed a lens with a magnification of 32. Between October 17, 1610 and February 26, 1612, he observed the moons of Jupiter, which had already discovered by Galileo. While observing Jupiter’s moons, he made a discovery of his own: sunspots, which he viewed 199 times between December 8, 1610 and January 18, 1613. These observations allowed him to figure out the sun’s period of rotation."
+      },
+      {
+        "label": "C",
+        "content": "He was also an early English explorer of North America. He was a friend of the English courtier and explorer Sir Walter Raleigh and travelled to Virginia as a scientific observer on a colonising expedition in 1585. On June 30, 1585, his ship anchored at Roanoke Island off Virginia. On shore, Harriot observed the topography, flora and fauna, made many drawings and maps, and met the native people who spoke a language the English called Algonquian. Harriot worked out a phonetic transcription of the native people’s speech sounds and began to learn the language, which enabled him to converse to some extent with other natives the English encountered. Harriot wrote his report for Raleigh and published it as A Briefe and True Report of the New Found Land of Virginia in 1588. Raleigh gave Harriot his own estate in Ireland, and Harriot began a survey of Raleigh’s Irish holdings. He also undertook a study of ballistics and ship design for Raleigh in advance of the Spanish Armada’s arrival."
+      },
+      {
+        "label": "D",
+        "content": "Harriot kept regular correspondence with other scientists and mathematicians, especially in England but also in mainland Europe, notably with Johannes Kepler. About twenty years before Snell’s discovery, Johannes Kepler (1571-1630) had also looked for the law of refraction, but used the early data of Ptolemy. Unfortunately, Ptolemy’s data was in error, so Kepler could obtain only an approximation which he published in 1604. Kepler later tried to obtain additional experimental results on refraction, and corresponded with Thomas Harriot from 1606 to 1609 since Kepler had heard Harriot had carried out some detailed experiments. In 1606, Harriot sent Kepler some tables of refraction data for different materials at a constant incident angle, but didn’t provide enough detail for the data to be very useful. Kepler requested further information, but Harriot was not forthcoming, and it appears that Kepler eventually gave up the correspondence, frustrated with Harriot’s reluctance."
+      },
+      {
+        "label": "E",
+        "content": "Apart from the correspondence with Kepler, there is no evidence that Harriot ever published his detailed results on refraction. His personal notes, however, reveal extensive studies significantly predating those of Kepler, Snell and Descartes. Harriot carried out many experiments on refraction in the 1590s, and from his notes, it is clear that he had discovered the sine law at least as early as 1602. Around 1606, he had studied dispersion in prisms (predating Newton by around 60 years), measured the refractive indices of different liquids placed in a hollow glass prism, studied refraction in crystal spheres, and correctly understood refraction in the rainbow before Descartes."
+      },
+      {
+        "label": "F",
+        "content": "As with his studies of refraction, Harriot’s discoveries in other fields were largely unpublished during his lifetime, and until this century, Harriot was known only for an account of his travels in Virginia published in 1588, and for a treatise on algebra published posthumously in 1631. The reason why Harriot kept his results unpublished is unclear. Harriot wrote to Kepler that poor health prevented him from providing more information, but it is also possible that he was afraid of the seventeenth century’s English religious establishment which was suspicious of the work carried out by mathematicians and scientists."
+      },
+      {
+        "label": "G",
+        "content": "After the discovery of sunspots, Harriot’s scientific work dwindled. The cause of his diminished productivity might have been a cancer discovered on his nose. Harriot died on July 2, 1621, in London, but his story did not end with his death. Recent research has revealed his wide range of interests and his genuinely original discoveries. What some writers describe as his “thousands upon thousands of sheets of mathematics and of scientific observations” appeared to be lost until 1784, when they were found in Henry Percy’s country estate by one of Percy’s descendants. She gave them to Franz Xaver Zach, her husband’s son’s tutor. Zach eventually put some of the papers in the hands of the Oxford University Press, but much work was required to prepare them for publication, and it has never been done. Scholars have begun to study them, and an appreciation of Harriot’s contribution started to grow in the second half of the twentieth century. Harriot’s study of refraction is but one example where his work overlapped with independent studies carried out by others in Europe, but in any historical treatment of optics his contribution rightfully deserves to be acknowledged."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs B-E and G from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "A misunderstanding in the history of science"
+              },
+              {
+                "label": "ii",
+                "text": "Thomas Harriot’s biography"
+              },
+              {
+                "label": "iii",
+                "text": "Unknown reasons for his unpublished works"
+              },
+              {
+                "label": "iv",
+                "text": "Harriot’s 1588 publication on North America studies"
+              },
+              {
+                "label": "v",
+                "text": "Expedition to the New World"
+              },
+              {
+                "label": "vi",
+                "text": "Reluctant cooperation with Kepler"
+              },
+              {
+                "label": "vii",
+                "text": "Belated appreciation of Harriot’s contribution"
+              },
+              {
+                "label": "viii",
+                "text": "Religious pressures keeping him from publishing"
+              },
+              {
+                "label": "ix",
+                "text": "Correspondence with Kepler"
+              },
+              {
+                "label": "x",
+                "text": "Interests and researches into multiple fields of study"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "A misunderstanding in the history of science"
+              },
+              {
+                "label": "ii",
+                "text": "Thomas Harriot’s biography"
+              },
+              {
+                "label": "iii",
+                "text": "Unknown reasons for his unpublished works"
+              },
+              {
+                "label": "iv",
+                "text": "Harriot’s 1588 publication on North America studies"
+              },
+              {
+                "label": "v",
+                "text": "Expedition to the New World"
+              },
+              {
+                "label": "vi",
+                "text": "Reluctant cooperation with Kepler"
+              },
+              {
+                "label": "vii",
+                "text": "Belated appreciation of Harriot’s contribution"
+              },
+              {
+                "label": "viii",
+                "text": "Religious pressures keeping him from publishing"
+              },
+              {
+                "label": "ix",
+                "text": "Correspondence with Kepler"
+              },
+              {
+                "label": "x",
+                "text": "Interests and researches into multiple fields of study"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "A misunderstanding in the history of science"
+              },
+              {
+                "label": "ii",
+                "text": "Thomas Harriot’s biography"
+              },
+              {
+                "label": "iii",
+                "text": "Unknown reasons for his unpublished works"
+              },
+              {
+                "label": "iv",
+                "text": "Harriot’s 1588 publication on North America studies"
+              },
+              {
+                "label": "v",
+                "text": "Expedition to the New World"
+              },
+              {
+                "label": "vi",
+                "text": "Reluctant cooperation with Kepler"
+              },
+              {
+                "label": "vii",
+                "text": "Belated appreciation of Harriot’s contribution"
+              },
+              {
+                "label": "viii",
+                "text": "Religious pressures keeping him from publishing"
+              },
+              {
+                "label": "ix",
+                "text": "Correspondence with Kepler"
+              },
+              {
+                "label": "x",
+                "text": "Interests and researches into multiple fields of study"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A misunderstanding in the history of science"
+              },
+              {
+                "label": "ii",
+                "text": "Thomas Harriot’s biography"
+              },
+              {
+                "label": "iii",
+                "text": "Unknown reasons for his unpublished works"
+              },
+              {
+                "label": "iv",
+                "text": "Harriot’s 1588 publication on North America studies"
+              },
+              {
+                "label": "v",
+                "text": "Expedition to the New World"
+              },
+              {
+                "label": "vi",
+                "text": "Reluctant cooperation with Kepler"
+              },
+              {
+                "label": "vii",
+                "text": "Belated appreciation of Harriot’s contribution"
+              },
+              {
+                "label": "viii",
+                "text": "Religious pressures keeping him from publishing"
+              },
+              {
+                "label": "ix",
+                "text": "Correspondence with Kepler"
+              },
+              {
+                "label": "x",
+                "text": "Interests and researches into multiple fields of study"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph G",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A misunderstanding in the history of science"
+              },
+              {
+                "label": "ii",
+                "text": "Thomas Harriot’s biography"
+              },
+              {
+                "label": "iii",
+                "text": "Unknown reasons for his unpublished works"
+              },
+              {
+                "label": "iv",
+                "text": "Harriot’s 1588 publication on North America studies"
+              },
+              {
+                "label": "v",
+                "text": "Expedition to the New World"
+              },
+              {
+                "label": "vi",
+                "text": "Reluctant cooperation with Kepler"
+              },
+              {
+                "label": "vii",
+                "text": "Belated appreciation of Harriot’s contribution"
+              },
+              {
+                "label": "viii",
+                "text": "Religious pressures keeping him from publishing"
+              },
+              {
+                "label": "ix",
+                "text": "Correspondence with Kepler"
+              },
+              {
+                "label": "x",
+                "text": "Interests and researches into multiple fields of study"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below using NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Various modern applications based on an image produced by lens uses refraction, such as...",
+            "answer": "magnification",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "And a spectrum of colors from a beam of light can be produced with...",
+            "answer": "prisms",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Harriot travelled to Virginia and mainly did research which focused on two subjects of American...",
+            "answer": "land and",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "After, he also enters upon a study of flight dynamics and...",
+            "answer": "Ship design",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "He undertook extensive other studies which were only noted down personally yet predated than many other great scientists. One result, for example, corrected the misconception about the idea of...",
+            "answer": "rainbow",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each researcher with the correct finding.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "discovered the moons of Jupiter",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Willobrord Snell"
+              },
+              {
+                "label": "B",
+                "text": "Johannes Kepler"
+              },
+              {
+                "label": "C",
+                "text": "Ptolemy"
+              },
+              {
+                "label": "D",
+                "text": "Galileo"
+              },
+              {
+                "label": "E",
+                "text": "Harriot"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "distracted experimental calculation on refraction",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Willobrord Snell"
+              },
+              {
+                "label": "B",
+                "text": "Johannes Kepler"
+              },
+              {
+                "label": "C",
+                "text": "Ptolemy"
+              },
+              {
+                "label": "D",
+                "text": "Galileo"
+              },
+              {
+                "label": "E",
+                "text": "Harriot"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "the discovery of sunspots",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Willobrord Snell"
+              },
+              {
+                "label": "B",
+                "text": "Johannes Kepler"
+              },
+              {
+                "label": "C",
+                "text": "Ptolemy"
+              },
+              {
+                "label": "D",
+                "text": "Galileo"
+              },
+              {
+                "label": "E",
+                "text": "Harriot"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "the person whose name the sin law was attributed to",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Willobrord Snell"
+              },
+              {
+                "label": "B",
+                "text": "Johannes Kepler"
+              },
+              {
+                "label": "C",
+                "text": "Ptolemy"
+              },
+              {
+                "label": "D",
+                "text": "Galileo"
+              },
+              {
+                "label": "E",
+                "text": "Harriot"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:03:56.221051"
+}

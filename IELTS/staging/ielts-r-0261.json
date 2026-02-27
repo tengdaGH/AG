@@ -1,0 +1,351 @@
+{
+  "id": "ielts-r-0261",
+  "slug": "light-pollution",
+  "title": "Light pollution",
+  "page_range": [
+    1321,
+    1325
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "C",
+    "2": "I",
+    "9": "C",
+    "3": "J",
+    "10": "D",
+    "4": "C",
+    "11": "F",
+    "5": "H",
+    "12": "A",
+    "6": "A",
+    "13": "G",
+    "7": "D"
+  },
+  "content": {
+    "title": "Light Pollution",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "If humans were truly at home under the light of the moon and stars, we would go into darkness happily, the midnight world as visible to us as it is to the vast number of nocturnal species on this planet. Instead, we are diurnal creatures, with eyes adapted to living in the sun’s light. This is a basic evolutionary fact, even though most of us don’t think of ourselves as diurnal beings any more than we think of ourselves as primates or mammals, or Earthlings. Yet it’s the only way to explain what we’ve done to the night: We’ve engineered it to receive us by filling it with light."
+      },
+      {
+        "label": "B",
+        "content": "This kind of engineering is no different than damming a river. Its benefits come with consequences—called light pollution—whose effects scientists are only now beginning to study. Light pollution is largely the result of bad lighting design, which allows artificial light to shine outward and upward into the sky, where it’s not wanted, instead of focusing it downward, where it is. Ill-designed lighting washes out the darkness of night and radically alters the light levels and light rhythms—to which many forms of life, including ourselves, have adapted."
+      },
+      {
+        "label": "C",
+        "content": "Now most of humanity lives under intersecting domes of reflected, refracted light, of scattering rays from overlit cities and suburbs, from light-flooded highways and factories. Nearly all of nighttime Europe is a nebula of light, as is most of the United States and all of Japan. In the south Atlantic the glow from a single fishing fleet—squid fishermen during their prey with metal halide lamps—can be seen from space, burning brighter, in fact, than Buenos Aires or Rio de Janeiro."
+      },
+      {
+        "label": "D",
+        "content": "We’ve lit up the night as if it were an unoccupied country when nothing could be further from the truth. Among mammals alone, the number of nocturnal species is astonishing. Light is a powerful biological force, and in many species, it acts as a magnet, a process being studied by researchers such as Travis Longcore and Catherine Rich, co-founders of the Los Angeles-based Urban Wildlands Group. The effect is so powerful that scientists speak of songbirds and seabirds being “captured” by searchlights on land or by the light from gas flares on marine oil platforms, circling and circling in the thousands until they drop. Migrating at night, birds are apt to collide with brightly lit tall buildings; immature birds on their first journey suffer disproportionately."
+      },
+      {
+        "label": "E",
+        "content": "Insects, of course, cluster around streetlights, and feeding at those insect clusters is now ingrained in the lives of many bat species. In some Swiss valleys, the European lesser horseshoe bat began to vanish after streetlights were installed, perhaps because those valleys were suddenly filled with light-feeding pipistrelle bats. Other nocturnal mammals—including desert rodents, fruit bats, opossums, and badgers—forage more cautiously under the permanent full moon of light pollution because they’ve become easier targets for predators."
+      },
+      {
+        "label": "F",
+        "content": "Some birds—blackbirds and nightingales, among others—sing at unnatural hours in the presence of artificial light. Scientists have determined that long artificial days—and artificially short nights induce early breeding in a wide range of birds. And because a longer day allows for longer feeding, it can also affect migration schedules. One population of Bewick’s swans wintering in England put on fat more rapidly than usual, priming them to begin their Siberian migration early. The problem, of course, is that migration, like most other aspects of bird behaviour, is a precisely timed biological behaviour. Leaving early may mean arriving too soon for nesting conditions to be right."
+      },
+      {
+        "label": "G",
+        "content": "Nesting sea turtles, which show a natural predisposition for dark beaches, find fewer and fewer of them to nest on. Their hatchlings, which gravitate toward the brighter, more reflective sea horizon, find themselves confused by artificial lighting behind the beach. In Florida alone, hatchling losses number in the hundreds of thousands every year. Frogs and toads living near brightly lit highways suffer nocturnal light levels that are as much as a million times brighter than normal, throwing nearly every aspect of their behaviour out of joint, including their nighttime breeding choruses."
+      },
+      {
+        "label": "H",
+        "content": "Of all the pollution we face, light pollution is perhaps the most easily remedied. Simple changes in lighting design and installation yield immediate changes in the amount of light spilt into the atmosphere and, often, immediate energy savings."
+      },
+      {
+        "label": "I",
+        "content": "It was once thought that light pollution only affected astronomers, who need to see the night sky in all its glorious clarity. And, in fact, some of the earliest civic efforts to control light pollution—in Flagstaff, Arizona, half a century ago—were made to protect the view from Lowell Observatory, which sits high above that city. Flagstaff has tightened its regulations since then, and in 2001 it was declared the first International Dark Sky City. By now the effort to control light pollution has spread around the globe. More and more cities and even entire countries, such as the Czech Republic, have committed themselves to reducing unwanted glare."
+      },
+      {
+        "label": "J",
+        "content": "Unlike astronomers, most of us may not need an undiminished view of the night sky for our work, but like most other creatures we do need darkness. Darkness is as essential to our biological welfare, to our internal clockwork, as light itself. The regular oscillation of waking and sleep in our lives, one of our circadian rhythms—is nothing less than a biological expression of the regular oscillation of light on Earth. So fundamental are these rhythms to our being that altering them is like altering gravity."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading Passage has ten paragraphs A-J. Which paragraph contains the following information? Write the correct letter A-J, in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A reason that contributes to light pollution.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "A city has lessened light pollution successfully.",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The importance of darkness.",
+            "answer": "J",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The popularity of light pollution in the world.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Methods to reduce light pollution.",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The reason why we have changed the night.",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D. Write your answers in boxes 7-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "How does light pollution influence creatures?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "by bad lighting design"
+              },
+              {
+                "label": "B",
+                "text": "by changing the cities and suburbs creatures are used to"
+              },
+              {
+                "label": "C",
+                "text": "by changing the directions of light"
+              },
+              {
+                "label": "D",
+                "text": "by changing the light creatures are used to"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Some aspects of animals’ lives are affected by unwanted light, EXCEPT:",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Migration"
+              },
+              {
+                "label": "B",
+                "text": "Reproduction"
+              },
+              {
+                "label": "C",
+                "text": "Natural life span"
+              },
+              {
+                "label": "D",
+                "text": "Feeding"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Light pollution has affected many forms of life. Use the information in the passage to match the animals with the relevant information below. Write the appropriate letters A-G in boxes 9-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Songbirds",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "eat too much and migrate in advance."
+              },
+              {
+                "label": "B",
+                "text": "would not like to sing songs at night."
+              },
+              {
+                "label": "C",
+                "text": "is attracted by the light and then a crash happens."
+              },
+              {
+                "label": "D",
+                "text": "suffers from food shortages because of competitors."
+              },
+              {
+                "label": "E",
+                "text": "have become easier targets for predators."
+              },
+              {
+                "label": "F",
+                "text": "be active at unusual times."
+              },
+              {
+                "label": "G",
+                "text": "have trouble inbreeding."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Horseshoe bat",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "eat too much and migrate in advance."
+              },
+              {
+                "label": "B",
+                "text": "would not like to sing songs at night."
+              },
+              {
+                "label": "C",
+                "text": "is attracted by the light and then a crash happens."
+              },
+              {
+                "label": "D",
+                "text": "suffers from food shortages because of competitors."
+              },
+              {
+                "label": "E",
+                "text": "have become easier targets for predators."
+              },
+              {
+                "label": "F",
+                "text": "be active at unusual times."
+              },
+              {
+                "label": "G",
+                "text": "have trouble inbreeding."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Nightingales",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "eat too much and migrate in advance."
+              },
+              {
+                "label": "B",
+                "text": "would not like to sing songs at night."
+              },
+              {
+                "label": "C",
+                "text": "is attracted by the light and then a crash happens."
+              },
+              {
+                "label": "D",
+                "text": "suffers from food shortages because of competitors."
+              },
+              {
+                "label": "E",
+                "text": "have become easier targets for predators."
+              },
+              {
+                "label": "F",
+                "text": "be active at unusual times."
+              },
+              {
+                "label": "G",
+                "text": "have trouble inbreeding."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Bewick’s swans",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "eat too much and migrate in advance."
+              },
+              {
+                "label": "B",
+                "text": "would not like to sing songs at night."
+              },
+              {
+                "label": "C",
+                "text": "is attracted by the light and then a crash happens."
+              },
+              {
+                "label": "D",
+                "text": "suffers from food shortages because of competitors."
+              },
+              {
+                "label": "E",
+                "text": "have become easier targets for predators."
+              },
+              {
+                "label": "F",
+                "text": "be active at unusual times."
+              },
+              {
+                "label": "G",
+                "text": "have trouble inbreeding."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Sea turtles",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "eat too much and migrate in advance."
+              },
+              {
+                "label": "B",
+                "text": "would not like to sing songs at night."
+              },
+              {
+                "label": "C",
+                "text": "is attracted by the light and then a crash happens."
+              },
+              {
+                "label": "D",
+                "text": "suffers from food shortages because of competitors."
+              },
+              {
+                "label": "E",
+                "text": "have become easier targets for predators."
+              },
+              {
+                "label": "F",
+                "text": "be active at unusual times."
+              },
+              {
+                "label": "G",
+                "text": "have trouble inbreeding."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:37:59.435863"
+}

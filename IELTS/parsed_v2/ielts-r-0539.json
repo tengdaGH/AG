@@ -1,0 +1,553 @@
+{
+  "id": "ielts-r-0539",
+  "slug": "there-has-always-been-a-sense-in-which-america-and-europe-owned-film",
+  "title": "There has always been a sense in which America and Europe owned film",
+  "page_range": [
+    2727,
+    2731
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "B",
+    "2": "FALSE",
+    "9": "H",
+    "3": "NOT GIVEN",
+    "10": "E",
+    "4": "TRUE",
+    "11": "A",
+    "5": "FALSE",
+    "12": "G",
+    "6": "D",
+    "13": "B",
+    "7": "F"
+  },
+  "content": {
+    "title": "The Evolution of Global Cinema",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "There has always been a sense in which America and Europe owned film. They invented it at the end of the nineteenth century in unfashionable places like New Jersey, Leeds, and the suburbs of Lyons. At first, they saw their clumsy new camera-projectors merely as more profitable versions of Victorian lantern shows, mechanical curiosities which might have a use as a sideshow at a funfair. Then the best of the pioneers looked beyond the fairground properties of their invention. A few directors, now mostly forgotten, saw that the flickering new medium was more than just a diversion. This crass commercial invention gradually began to evolve as an art. D W Griffith in California glimpsed its grace, German directors used it as an analogue to the human mind and the modernising city, Soviets emphasised its agitational and intellectual properties, and the Italians reconfigured it on an operatic scale."
+      },
+      {
+        "content": "So heady were these first decades of cinema that America and Europe can be forgiven for assuming that they were the only game in town. In less than twenty years, western cinema had grown out of all recognition; its unknowns became the most famous people in the world; it made millions. It never occurred to its financial backers that another continent might borrow their magic box and make it its own. But film industries were emerging in Shanghai, Bombay, and Tokyo, some of which would outgrow those in the west."
+      },
+      {
+        "content": "Between 1930 and 1935, China produced more than 500 films, mostly conventionally made in studios in Shanghai, without soundtracks. China's best directors - Bu Wancang and Yuan Muzhi - introduced elements of realism to their stories. The Peach Girl (1931) and Street Angel (1937) are regularly voted among the best ever made in the country."
+      },
+      {
+        "content": "India followed a different course. In the west, the arrival of talkies gave birth to a new genre - the musical - but in India, every one of the 5000 films made between 1931 and the mid-1950s had musical interludes. The films were stylistically more wide ranging than the western musical, encompassing realism and escapist dance within individual sequences, and they were often three hours long rather than Hollywood's 90 minutes. The cost of such productions resulted in a distinctive national style of cinema. They were often made in Bombay, the centre of what is now known as 'Bollywood'. Performed in Hindi (rather than any of the numerous regional languages), they addressed social and peasant themes in an optimistic and romantic way and found markets in the Middle East, Africa, and the Soviet Union."
+      },
+      {
+        "content": "In Japan, the film industry did not rival India's in size but was unusual in other ways. Whereas in Hollywood the producer was the central figure, in Tokyo the director chose the stories and hired the producer and actors. The model was that of an artist and his studio of apprentices. Employed by a studio as an assistant, a future director worked with senior figures, learned his craft, gained authority, until promoted to director with the power to select screenplays and performers. In the 1930s and 40s, this freedom of the director led to the production of some of Asia's finest films."
+      },
+      {
+        "content": "The films of Kenji Mizoguchi were among the greatest of these. Mizoguchi's films were usually set in the nineteenth century and analysed the way in which the lives of the female characters whom he chose as his focus were constrained by the society of the time. From Osaka Elegy (1936) to Ugetsu Monogatari (1953) and beyond, he evolved a sinuous way of moving his camera in and around a scene, advancing towards significant details but often retreating at moments of confrontation or strong feeling. No one had used the camera with such finesse before."
+      },
+      {
+        "content": "Even more important for film history, however, is the work of the great Ozu. Where Hollywood cranked up drama, Ozu avoided it. His camera seldom moved. It nestled at seated height, framing people square on, listening quietly to their words. Ozu rejected the conventions of editing, cutting not on action, as is usually done in the west, but for visual balance. Even more strikingly, Ozu regularly cut away from his action to a shot of a tree or a kettle or clouds, not to establish a new location but as a moment of repose. Many historians now compare such 'pillow shots' to the Buddhist idea that mu - empty space or nothing - is itself an element of composition."
+      },
+      {
+        "content": "As the art form most swayed by money and market, cinema would appear to be too busy to bother with questions of philosophy. The Asian nations proved and are still proving that this is not the case. Just as deep ideas about individual freedom have led to the aspirational cinema of Hollywood, so it is the beliefs which underlie cultures such as those of China and Japan that explain the distinctiveness of Asian cinema at its best. Yes, these films are visually striking, but it is their different sense of what a person is, and what space and action are, which makes them new to western eyes."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 2? In boxes 1-5 on your answer sheet, write:\n\nTRUE if the statement agrees with the information\nFALSE if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The inventors of cinema regarded it as a minor attraction.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Some directors were aware of cinema's artistic possibilities from the very beginning.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "The development of cinema's artistic potential depended on technology.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Cinema's possibilities were developed in varied ways in different western countries.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Western businessmen were concerned about the emergence of film industries in other parts of the world.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the notes below using the list of words (A-K) from the box below. Write the correct letters in boxes 6-12 on your answer sheet.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Chinese cinema - large number of 6..................... films produced in 1930s",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "emotional"
+              },
+              {
+                "label": "B",
+                "text": "negative"
+              },
+              {
+                "label": "C",
+                "text": "expensive"
+              },
+              {
+                "label": "D",
+                "text": "silent"
+              },
+              {
+                "label": "E",
+                "text": "social"
+              },
+              {
+                "label": "F",
+                "text": "outstanding"
+              },
+              {
+                "label": "G",
+                "text": "little"
+              },
+              {
+                "label": "H",
+                "text": "powerful"
+              },
+              {
+                "label": "I",
+                "text": "realistic"
+              },
+              {
+                "label": "J",
+                "text": "stylistic"
+              },
+              {
+                "label": "K",
+                "text": "economic"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Chinese cinema - some early films still generally regarded as 7....................",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "emotional"
+              },
+              {
+                "label": "B",
+                "text": "negative"
+              },
+              {
+                "label": "C",
+                "text": "expensive"
+              },
+              {
+                "label": "D",
+                "text": "silent"
+              },
+              {
+                "label": "E",
+                "text": "social"
+              },
+              {
+                "label": "F",
+                "text": "outstanding"
+              },
+              {
+                "label": "G",
+                "text": "little"
+              },
+              {
+                "label": "H",
+                "text": "powerful"
+              },
+              {
+                "label": "I",
+                "text": "realistic"
+              },
+              {
+                "label": "J",
+                "text": "stylistic"
+              },
+              {
+                "label": "K",
+                "text": "economic"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Indian cinema - films avoided 8.................... topics",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "emotional"
+              },
+              {
+                "label": "B",
+                "text": "negative"
+              },
+              {
+                "label": "C",
+                "text": "expensive"
+              },
+              {
+                "label": "D",
+                "text": "silent"
+              },
+              {
+                "label": "E",
+                "text": "social"
+              },
+              {
+                "label": "F",
+                "text": "outstanding"
+              },
+              {
+                "label": "G",
+                "text": "little"
+              },
+              {
+                "label": "H",
+                "text": "powerful"
+              },
+              {
+                "label": "I",
+                "text": "realistic"
+              },
+              {
+                "label": "J",
+                "text": "stylistic"
+              },
+              {
+                "label": "K",
+                "text": "economic"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Japanese cinema - unusual because film director was very 9....................",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "emotional"
+              },
+              {
+                "label": "B",
+                "text": "negative"
+              },
+              {
+                "label": "C",
+                "text": "expensive"
+              },
+              {
+                "label": "D",
+                "text": "silent"
+              },
+              {
+                "label": "E",
+                "text": "social"
+              },
+              {
+                "label": "F",
+                "text": "outstanding"
+              },
+              {
+                "label": "G",
+                "text": "little"
+              },
+              {
+                "label": "H",
+                "text": "powerful"
+              },
+              {
+                "label": "I",
+                "text": "realistic"
+              },
+              {
+                "label": "J",
+                "text": "stylistic"
+              },
+              {
+                "label": "K",
+                "text": "economic"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Japanese cinema - Mizoguchi - focused on the 10.................... restrictions faced by women",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "emotional"
+              },
+              {
+                "label": "B",
+                "text": "negative"
+              },
+              {
+                "label": "C",
+                "text": "expensive"
+              },
+              {
+                "label": "D",
+                "text": "silent"
+              },
+              {
+                "label": "E",
+                "text": "social"
+              },
+              {
+                "label": "F",
+                "text": "outstanding"
+              },
+              {
+                "label": "G",
+                "text": "little"
+              },
+              {
+                "label": "H",
+                "text": "powerful"
+              },
+              {
+                "label": "I",
+                "text": "realistic"
+              },
+              {
+                "label": "J",
+                "text": "stylistic"
+              },
+              {
+                "label": "K",
+                "text": "economic"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Japanese cinema - Mizoguchi - camera movement related to 11.................... content of film",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "emotional"
+              },
+              {
+                "label": "B",
+                "text": "negative"
+              },
+              {
+                "label": "C",
+                "text": "expensive"
+              },
+              {
+                "label": "D",
+                "text": "silent"
+              },
+              {
+                "label": "E",
+                "text": "social"
+              },
+              {
+                "label": "F",
+                "text": "outstanding"
+              },
+              {
+                "label": "G",
+                "text": "little"
+              },
+              {
+                "label": "H",
+                "text": "powerful"
+              },
+              {
+                "label": "I",
+                "text": "realistic"
+              },
+              {
+                "label": "J",
+                "text": "stylistic"
+              },
+              {
+                "label": "K",
+                "text": "economic"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Japanese cinema - Ozu - 12.................... camera movement",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "emotional"
+              },
+              {
+                "label": "B",
+                "text": "negative"
+              },
+              {
+                "label": "C",
+                "text": "expensive"
+              },
+              {
+                "label": "D",
+                "text": "silent"
+              },
+              {
+                "label": "E",
+                "text": "social"
+              },
+              {
+                "label": "F",
+                "text": "outstanding"
+              },
+              {
+                "label": "G",
+                "text": "little"
+              },
+              {
+                "label": "H",
+                "text": "powerful"
+              },
+              {
+                "label": "I",
+                "text": "realistic"
+              },
+              {
+                "label": "J",
+                "text": "stylistic"
+              },
+              {
+                "label": "K",
+                "text": "economic"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Which of the following is the most suitable title for Reading Passage 2?",
+        "questions": [
+          {
+            "number": 13,
+            "text": "Which of the following is the most suitable title for Reading Passage 2?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Blind to change: how is it that the west has ignored Asian cinema for so long?"
+              },
+              {
+                "label": "B",
+                "text": "A different basis: how has the cinema of Asian countries been shaped by their cultures and beliefs?"
+              },
+              {
+                "label": "C",
+                "text": "Outside Asia: how did the origins of cinema affect its development worldwide?"
+              },
+              {
+                "label": "D",
+                "text": "Two cultures: how has western cinema tried to come to terms with the challenge of the Asian market?"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T16:01:16.775490"
+}

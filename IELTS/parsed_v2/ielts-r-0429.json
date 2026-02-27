@@ -1,0 +1,191 @@
+{
+    "id": "ielts-r-0429",
+    "slug": "the-2003-heatwave",
+    "title": "The 2003 Heatwave",
+    "page_range": [
+        2177,
+        2181
+    ],
+    "raw_answer_key": {
+        "1": "YES",
+        "8": "2000 floods",
+        "2": "YES",
+        "9": "1998 and 2002",
+        "3": "NO",
+        "10": "1990",
+        "4": "NOT GIVEN",
+        "11": "1856",
+        "5": "YES",
+        "12": "France",
+        "6": "NOT GIVEN",
+        "13": "D",
+        "7": "1976, 1995"
+    },
+    "content": {
+        "title": "The 2003 Heatwave",
+        "has_paragraph_labels": false,
+        "paragraphs": [
+            {
+                "label": null,
+                "content": "It was the summer, scientists now realise, when global warming at last made itself unmistakably felt. We knew that summer 2003 was remarkable: Britain experienced its record high temperature and continental Europe saw forest fires raging out of control, great rivers drying to a trickle and thousands of heat-related deaths. But just how remarkable is only now becoming clear."
+            },
+            {
+                "label": null,
+                "content": "The three months of June, July and August were the warmest ever recorded in western and central Europe, with record national highs in Portugal, Germany and Switzerland as well as in Britain. And they were the warmest by a very long way. Over a great rectangular block of the earth stretching from west of Paris to northern Italy, taking in Switzerland and southern Germany, the average temperature for the summer months was 3.78°C above the long-term norm, said the Climatic Research Unit (CRU) of the University of East Anglia in Norwich, which is one of the world's leading institutions for the monitoring and analysis of temperature records."
+            },
+            {
+                "label": null,
+                "content": "That excess might not seem a lot until you are aware of the context - but then you realise it is enormous. There is nothing like this in previous data, anywhere. It is considered so exceptional that Professor Phil Jones, the CRU's director, is prepared to say openly - in a way few scientists have done before - that the 2003 extreme may be directly attributed, not to natural climate variability, but to global warming caused by human actions."
+            },
+            {
+                "label": null,
+                "content": "Meteorologists have hitherto contented themselves with the formula that recent high temperatures are “consistent with predictions” of climate change. For the great block of the map - that stretching between 35-50N and 0-20E - the CRU has reliable temperature records dating back to 1781. Using as a baseline the average summer temperature recorded between 1961 and 1990, departures from the temperature norm, or “anomalies”, over the area as a whole can easily be plotted. As the graph shows, such is the variability of our climate that over the past 200 years, there have been at least half a dozen anomalies, in terms of excess temperature - the peaks on the graph denoting very hot years - approaching, or even exceeding, 2°C. But there has been nothing remotely like 2003, when the anomaly is nearly four degrees."
+            },
+            {
+                "label": null,
+                "content": "“This is quite remarkable,’ Professor Jones told The Independent. “It’s very unusual in a statistical sense. If this series had a normal statistical distribution, you wouldn’t get this number. The return period [how often it could be expected to recur] would be something like one in a thousand years. If we look at an excess above the average of nearly four degrees, then perhaps nearly three degrees of that is natural variability, because we’ve seen that in past summers. But the final degree of it is likely to be due to global warming, caused by human actions.”"
+            },
+            {
+                "label": null,
+                "content": "The summer of 2003 has, in a sense, been one that climate scientists have long been expecting. Until now, the warming has been manifesting itself mainly in winters that have been less cold than in summers that have been much hotter. Last week, the United Nations predicted that winters were warming so quickly that winter sports would die out in Europe’s lower-level ski resorts. But sooner or later, the unprecedented hot summer was bound to come, and this year it did."
+            },
+            {
+                "label": null,
+                "content": "One of the most dramatic features of the summer was the hot nights, especially in the first half of August. In Paris, the temperature never dropped below 23°C (73.4°F) at all between 7 and 14 August, and the city recorded its warmest-ever night on 11-12 August, when the mercury did not drop below 25.5°C (77.9°F). Germany recorded its warmest-ever night at Weinbiet in the Rhine Valley with a lowest figure of 27.6°C (80.6°F) on 13 August, and similar record-breaking nighttime temperatures were recorded in Switzerland and Italy."
+            },
+            {
+                "label": null,
+                "content": "The 15,000 excess deaths in France during August, compared with previous years, have been related to the high night-time temperatures. The number gradually increased during the first 12 days of the month, peaking at about 2,000 per day on the night of 12-13 August, then fell off dramatically after 14 August when the minimum temperatures fell by about 5°C. The elderly were most affected, with a 70 per cent increase in mortality rate in those aged 75-94."
+            },
+            {
+                "label": null,
+                "content": "For Britain, the year as a whole is likely to be the warmest ever recorded, but despite the high temperature record on 10 August, the summer itself - defined as the June, July and August period - still comes behind 1976 and 1995, when there were longer periods of intense heat. “At the moment, the year is on course to be the third hottest ever in the global temperature record, which goes back to 1856, behind 1998 and 2002, but when all the records for October, November and December are collated, it might move into second place/' Professor Jones said. The ten hottest years in the record have all now occurred since 1990. Professor Jones is in no doubt about the astonishing nature of European summer of 2003. “The temperatures recorded were out of all proportion to the previous record,\" he said."
+            },
+            {
+                "label": null,
+                "content": "“It was the warmest summer in the past 500 years and probably way beyond that. It was enormously exceptional.\""
+            },
+            {
+                "label": null,
+                "content": "His colleagues at the University of East Anglia's Tyndall Centre for Climate Change Research are now planning a special study of it. “It was a summer that has not been experienced before, either in terms of the temperature extremes that were reached, or the range and diversity of the impacts of the extreme heat,\" said the centre's executive director, Professor Mike Hulme."
+            },
+            {
+                "label": null,
+                "content": "“It will certainly have left its mark on a number of countries, as to how they think and plan for climate change in the future, much as the 2000 floods have revolutionised the way the Government is thinking about flooding in the UK. The 2003 heatwave will have similar repercussions across Europe.\""
+            }
+        ]
+    },
+    "questions": {
+        "question_groups": [
+            {
+                "type": "TRUE_FALSE_NOT_GIVEN",
+                "instruction": "Do the following statements agree with the information given in Reading Passage?\nYES if the statement agrees with the information\nNO if the statement contradicts the information\nNOT GIVEN if there is no information on this",
+                "questions": [
+                    {
+                        "number": 1,
+                        "text": "The average summer temperature in 2003 is almost 4 degrees higher than the average temperature of the past.",
+                        "answer": "YES"
+                    },
+                    {
+                        "number": 2,
+                        "text": "Global warming is caused by human activities.",
+                        "answer": "YES"
+                    },
+                    {
+                        "number": 3,
+                        "text": "Jones believes the temperature variation is within the normal range.",
+                        "answer": "NO"
+                    },
+                    {
+                        "number": 4,
+                        "text": "The temperature is measured twice a day in major cities.",
+                        "answer": "NOT GIVEN"
+                    },
+                    {
+                        "number": 5,
+                        "text": "There were milder winters rather than hotter summers before 2003.",
+                        "answer": "YES"
+                    },
+                    {
+                        "number": 6,
+                        "text": "Governments are building new high-altitude ski resorts.",
+                        "answer": "NOT GIVEN"
+                    }
+                ]
+            },
+            {
+                "type": "SHORT_ANSWER_QUESTIONS",
+                "instruction": "Answer the questions below using NO MORE THAN TWO WORDS from the passage for each answer.",
+                "questions": [
+                    {
+                        "number": 7,
+                        "text": "What are the other two hottest years in Britain besides 2003?",
+                        "answer": "1976, 1995"
+                    },
+                    {
+                        "number": 8,
+                        "text": "What will also influence government policies in the future like the hot summer in 2003?",
+                        "answer": "2000 floods"
+                    }
+                ]
+            },
+            {
+                "type": "SUMMARY_COMPLETION",
+                "instruction": "Complete the summary below using NO MORE THAN THREE WORDS from the passage for each answer.",
+                "questions": [
+                    {
+                        "number": 9,
+                        "text": "The other two hottest years around the globe were",
+                        "answer": "1998 and 2002"
+                    },
+                    {
+                        "number": 10,
+                        "text": "The ten hottest years on record all come after the year",
+                        "answer": "1990"
+                    },
+                    {
+                        "number": 11,
+                        "text": "This temperature data has been gathered since",
+                        "answer": "1856"
+                    },
+                    {
+                        "number": 12,
+                        "text": "Thousands of people died in the country of",
+                        "answer": "France"
+                    }
+                ]
+            },
+            {
+                "type": "MULTIPLE_CHOICE",
+                "instruction": "Choose the correct letter A, B, C or D.",
+                "questions": [
+                    {
+                        "number": 13,
+                        "text": "Which one of the following can be best used as the title of this passage?",
+                        "answer": "D",
+                        "options": [
+                            {
+                                "label": "A",
+                                "text": "Global Warming"
+                            },
+                            {
+                                "label": "B",
+                                "text": "What Caused Global Warming"
+                            },
+                            {
+                                "label": "C",
+                                "text": "The Effects of Global Warming"
+                            },
+                            {
+                                "label": "D",
+                                "text": "That Hot Year in Europe"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "parsed_total_questions": 13
+    },
+    "processed_at": "2026-02-26T17:00:00.000000"
+}

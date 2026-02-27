@@ -1,0 +1,206 @@
+{
+  "generated_at": "2026-02-26T16:57:58.064779",
+  "summary": {
+    "total_extracted_files": 651,
+    "total_parsed_v2_files": 651,
+    "missing_from_parsed_v2": 0,
+    "extra_in_parsed_v2": 0,
+    "extracted_files_with_issues": 0,
+    "parsed_files_clean": 615,
+    "parsed_files_warn": 36,
+    "parsed_files_critical": 0,
+    "duplicate_ids": 0,
+    "issue_type_counts": {
+      "answer_count_mismatch": 20,
+      "raw_answer_key_mismatch": 18
+    }
+  },
+  "missing_from_parsed_v2": [],
+  "extra_in_parsed_v2": [],
+  "duplicate_ids": [],
+  "parsed_files_with_issues": {
+    "ielts-r-0033.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=9, actual=6",
+        "raw_answer_key count (13) != parsed_total_questions (9)"
+      ]
+    },
+    "ielts-r-0037.json": {
+      "issues": [
+        "raw_answer_key count (10) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0050.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12"
+      ]
+    },
+    "ielts-r-0080.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=9"
+      ]
+    },
+    "ielts-r-0088.json": {
+      "issues": [
+        "raw_answer_key count (13) != parsed_total_questions (14)"
+      ]
+    },
+    "ielts-r-0141.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=11"
+      ]
+    },
+    "ielts-r-0159.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=14, actual=12"
+      ]
+    },
+    "ielts-r-0163.json": {
+      "issues": [
+        "raw_answer_key count (14) != parsed_total_questions (9)"
+      ]
+    },
+    "ielts-r-0177.json": {
+      "issues": [
+        "raw_answer_key count (10) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0192.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=11"
+      ]
+    },
+    "ielts-r-0197.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12"
+      ]
+    },
+    "ielts-r-0223.json": {
+      "issues": [
+        "raw_answer_key count (12) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0229.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12"
+      ]
+    },
+    "ielts-r-0247.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=14, actual=11"
+      ]
+    },
+    "ielts-r-0251.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12"
+      ]
+    },
+    "ielts-r-0265.json": {
+      "issues": [
+        "raw_answer_key count (10) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0284.json": {
+      "issues": [
+        "raw_answer_key count (13) != parsed_total_questions (14)"
+      ]
+    },
+    "ielts-r-0287.json": {
+      "issues": [
+        "raw_answer_key count (12) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0291.json": {
+      "issues": [
+        "raw_answer_key count (13) != parsed_total_questions (14)"
+      ]
+    },
+    "ielts-r-0303.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=14, actual=15"
+      ]
+    },
+    "ielts-r-0323.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12"
+      ]
+    },
+    "ielts-r-0391.json": {
+      "issues": [
+        "raw_answer_key count (12) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0396.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12"
+      ]
+    },
+    "ielts-r-0405.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12",
+        "raw_answer_key count (12) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0407.json": {
+      "issues": [
+        "raw_answer_key count (11) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0426.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=11"
+      ]
+    },
+    "ielts-r-0440.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12"
+      ]
+    },
+    "ielts-r-0469.json": {
+      "issues": [
+        "raw_answer_key count (8) != parsed_total_questions (14)"
+      ]
+    },
+    "ielts-r-0522.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=14, actual=13"
+      ]
+    },
+    "ielts-r-0578.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=14, actual=12"
+      ]
+    },
+    "ielts-r-0595.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=14, actual=12"
+      ]
+    },
+    "ielts-r-0598.json": {
+      "issues": [
+        "raw_answer_key count (13) != parsed_total_questions (14)"
+      ]
+    },
+    "ielts-r-0608.json": {
+      "issues": [
+        "raw_answer_key count (12) != parsed_total_questions (14)"
+      ]
+    },
+    "ielts-r-0614.json": {
+      "issues": [
+        "parsed_total_questions mismatch: declared=13, actual=12"
+      ]
+    },
+    "ielts-r-0621.json": {
+      "issues": [
+        "raw_answer_key count (12) != parsed_total_questions (13)"
+      ]
+    },
+    "ielts-r-0622.json": {
+      "issues": [
+        "raw_answer_key count (12) != parsed_total_questions (13)"
+      ]
+    }
+  },
+  "extracted_files_with_issues": {}
+}

@@ -1,0 +1,85 @@
+{
+  "id": "ielts-r-0172",
+  "slug": "freya-stark-explorer-and-writer",
+  "title": "Freya Stark, explorer and writer",
+  "page_range": [
+    876,
+    878
+  ],
+  "raw_answer_key": {
+    "1": "London University",
+    "4": "donkey",
+    "2": "nurse",
+    "5": "Gold Medal",
+    "3": "Arabic",
+    "6": "12 years"
+  },
+  "content": {
+    "title": "Freya Stark, explorer and writer",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Freya Stark travelled to many areas of the Middle East, often alone. Freya Stark was an explorer who lived during a time when explorers were regarded as heroes. She travelled to distant areas of the Middle East, where few Europeans – especially women – had travelled before. She also travelled extensively in Turkey, Greece, Italy, Nepal and Afghanistan."
+      },
+      {
+        "label": null,
+        "content": "Stark was born in Paris in 1893. Although she had no formal education as a child, she moved about with her artist parents and learned French, German and Italian. She entered London University in 1912, but at the start of World War I, she joined the nurse corps and was sent to Italy. After the war, she returned to London and attended the School of Oriental Studies."
+      },
+      {
+        "label": null,
+        "content": "Her studies there led to extensive travel in the Middle East, enabling her to eventually become fluent in Persian, Russian and Turkish. Stark became well known as a traveller and explorer in the Middle East. She travelled to the Lebanon in 1927 at the age of 33 when she had saved enough money, and while there, she studied Arabic."
+      },
+      {
+        "label": null,
+        "content": "In 1928, she travelled by donkey to the Jebel Druze, a mountainous area in Syria. During another trip, she went to a distant region of the Elburz, a mountain range in Iran, where she made a map. She was searching for information about an ancient Muslim sect known as the Assassins, which she wrote about in Valley of the Assassins (1934), a classic for which she was awarded a Gold Medal by the Royal Geographic Society."
+      },
+      {
+        "label": null,
+        "content": "For the next 12 years, she continued her career as a traveller and writer, establishing a style which combined an account of her journey with personal commentary on the people, places, customs, history and politics of the Middle East."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "FLOW_CHART_COMPLETION",
+        "instruction": "Read the passage and complete the flow chart below. Using NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "First formal education at",
+            "answer": "London University"
+          },
+          {
+            "number": 2,
+            "text": "Worked as a",
+            "answer": "nurse"
+          },
+          {
+            "number": 3,
+            "text": "Travelled to the Lebanon, where she learned",
+            "answer": "Arabic"
+          },
+          {
+            "number": 4,
+            "text": "Made a journey to the Syrian mountains on a",
+            "answer": "donkey"
+          },
+          {
+            "number": 5,
+            "text": "In 1934, won a",
+            "answer": "Gold Medal"
+          },
+          {
+            "number": 6,
+            "text": "Spent a further",
+            "answer": "12 years"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 6
+  },
+  "processed_at": "2026-02-25T20:05:33.873870"
+}

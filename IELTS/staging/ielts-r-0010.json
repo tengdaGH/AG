@@ -1,0 +1,478 @@
+{
+  "id": "ielts-r-0010",
+  "slug": "a-history-of-fingerprinting",
+  "title": "A History of Fingerprinting",
+  "page_range": [
+    65,
+    69
+  ],
+  "raw_answer_key": {
+    "1": "v",
+    "8": "identical twins",
+    "2": "x",
+    "9": "signature",
+    "3": "i",
+    "10": "FALSE",
+    "4": "iv",
+    "11": "TRE",
+    "5": "viii",
+    "12": "NOT GIVEN",
+    "6": "vii",
+    "13": "FALSE",
+    "7": "(human)",
+    "14": "TRUE characteristics"
+  },
+  "content": {
+    "title": "A History of Fingerprinting",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "To detectives, the answers lie at the end of our fingers. Fingerprinting offers an accurate and infallible means of personal identification. The ability to identify a person from a mere fingerprint is a powerful tool in the fight against crime. It is the most commonly used forensic evidence, often outperforming other methods of identification. These days, older methods of ink fingerprinting, which could take weeks, have given way to newer, faster techniques like fingerprint laser scanning, but the principles stay the same. No matter which way you collect fingerprint evidence, every single person’s print is unique. So, what makes our fingerprints different from our neighbour’s?"
+      },
+      {
+        "label": "B",
+        "content": "A good place to start is to understand what fingerprints are and how they are created. A fingerprint is the arrangement of skin ridges and furrows on the tips of the fingers. This ridged skin develops fully during foetal development, as the skin cells grow in the mother’s womb. These ridges are arranged into patterns and remain the same throughout the course of a person’s life. Other visible human characteristics, like weight and height, change over time whereas fingerprints do not. The reason why every fingerprint is unique is that when a baby’s genes combine with environmental influences, such as temperature, it affects the way the ridges on the skin grow. It makes the ridges develop at different rates, buckling and bending into patterns. As a result, no two people end up having the same fingerprints. Even identical twins possess dissimilar fingerprints."
+      },
+      {
+        "label": "C",
+        "content": "It is not easy to map the journey of how the unique quality of the fingerprint came to be discovered. The moment in history it happened is not entirely clear. However, the use of fingerprinting can be traced back to some ancient civilisations, such as Babylon and China, where thumbprints were pressed onto clay tablets to confirm business transactions. Whether people at this time actually realised the full extent of how fingerprints were important for identification purposes is another matter altogether. One cannot be sure if the act was seen as a means to confirm identity or a symbolic gesture to bind a contract, where giving your fingerprint was like giving your word."
+      },
+      {
+        "label": "D",
+        "content": "Despite this uncertainty, there are those who made a significant contribution towards the analysis of fingerprinting. History tells us that a 14th century Persian doctor made an early statement that no two fingerprints are alike. Later, in the 17th century, Italian physician Marcello Malpighi studied the distinguishing shapes of loops and spirals in fingerprints. In his honour, the medical world later named a layer of skin after him. It was, however, an employee for the East India Company, William Herschel, who came to see the true potential of fingerprinting. He took fingerprints from the local people as a form of signature for contracts, in order to avoid fraud. His fascination with fingerprints propelled him to study them for the next twenty years. He developed the theory that fingerprints were unique to an individual and did not change at all over a lifetime. In 1880 Henry Faulds suggested that fingerprints could be used to identify convicted criminals. He wrote to Charles Darwin for advice, and the idea was referred on to Darwin’s cousin, Sir Francis Galton. Galton eventually published an in-depth study of fingerprint science in 1892."
+      },
+      {
+        "label": "E",
+        "content": "Although the fact that each person has a totally unique fingerprint pattern had been well documented and accepted for a long time, this knowledge was not exploited for criminal identification until the early 20th century. In the past branding, tattooing and maiming had been used to mark the criminal for what he was. In some countries, thieves would have their hands cut off. France branded criminals with the fleur-de-lis symbol. The Romans tattooed mercenary soldiers to stop them from becoming deserters."
+      },
+      {
+        "label": "F",
+        "content": "For many years police agencies in the Western world were reluctant to use fingerprinting, much preferring the popular method of the time, the Bertillon System, where dimensions of certain body parts were recorded to identify a criminal. The turning point was in 1903 when a prisoner by the name of Will West was admitted into Leavenworth Federal Penitentiary. Amazingly, Will had almost the same Bertillon measurements as another prisoner residing at the very same prison, whose name happened to be William West. It was only their fingerprints that could tell them apart. From that point on, fingerprinting became the standard for criminal identification."
+      },
+      {
+        "label": "G",
+        "content": "Fingerprinting was useful in identifying people with a history of crime and who were listed on a database. However, in situations where the perpetrator was not on the database and a crime had no witnesses, the system fell short. Fingerprint chemistry is a new technology that can work alongside traditional fingerprinting to find more clues than ever before. From organic compounds left behind on a print, a scientist can tell if the person is a child, an adult, a mature person or a smoker, and much more. It seems, after all these years, fingers continue to point the way."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs B-G from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "Key people that made a difference"
+              },
+              {
+                "label": "ii",
+                "text": "An alternative to fingerprinting"
+              },
+              {
+                "label": "iii",
+                "text": "The significance of prints"
+              },
+              {
+                "label": "iv",
+                "text": "How to identify a criminal"
+              },
+              {
+                "label": "v",
+                "text": "Patterns in the making"
+              },
+              {
+                "label": "vi",
+                "text": "Family connections"
+              },
+              {
+                "label": "vii",
+                "text": "Exciting new developments"
+              },
+              {
+                "label": "viii",
+                "text": "A strange coincidence"
+              },
+              {
+                "label": "ix",
+                "text": "Punishing a criminal"
+              },
+              {
+                "label": "x",
+                "text": "An uncertain past"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Key people that made a difference"
+              },
+              {
+                "label": "ii",
+                "text": "An alternative to fingerprinting"
+              },
+              {
+                "label": "iii",
+                "text": "The significance of prints"
+              },
+              {
+                "label": "iv",
+                "text": "How to identify a criminal"
+              },
+              {
+                "label": "v",
+                "text": "Patterns in the making"
+              },
+              {
+                "label": "vi",
+                "text": "Family connections"
+              },
+              {
+                "label": "vii",
+                "text": "Exciting new developments"
+              },
+              {
+                "label": "viii",
+                "text": "A strange coincidence"
+              },
+              {
+                "label": "ix",
+                "text": "Punishing a criminal"
+              },
+              {
+                "label": "x",
+                "text": "An uncertain past"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Key people that made a difference"
+              },
+              {
+                "label": "ii",
+                "text": "An alternative to fingerprinting"
+              },
+              {
+                "label": "iii",
+                "text": "The significance of prints"
+              },
+              {
+                "label": "iv",
+                "text": "How to identify a criminal"
+              },
+              {
+                "label": "v",
+                "text": "Patterns in the making"
+              },
+              {
+                "label": "vi",
+                "text": "Family connections"
+              },
+              {
+                "label": "vii",
+                "text": "Exciting new developments"
+              },
+              {
+                "label": "viii",
+                "text": "A strange coincidence"
+              },
+              {
+                "label": "ix",
+                "text": "Punishing a criminal"
+              },
+              {
+                "label": "x",
+                "text": "An uncertain past"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Key people that made a difference"
+              },
+              {
+                "label": "ii",
+                "text": "An alternative to fingerprinting"
+              },
+              {
+                "label": "iii",
+                "text": "The significance of prints"
+              },
+              {
+                "label": "iv",
+                "text": "How to identify a criminal"
+              },
+              {
+                "label": "v",
+                "text": "Patterns in the making"
+              },
+              {
+                "label": "vi",
+                "text": "Family connections"
+              },
+              {
+                "label": "vii",
+                "text": "Exciting new developments"
+              },
+              {
+                "label": "viii",
+                "text": "A strange coincidence"
+              },
+              {
+                "label": "ix",
+                "text": "Punishing a criminal"
+              },
+              {
+                "label": "x",
+                "text": "An uncertain past"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph F",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Key people that made a difference"
+              },
+              {
+                "label": "ii",
+                "text": "An alternative to fingerprinting"
+              },
+              {
+                "label": "iii",
+                "text": "The significance of prints"
+              },
+              {
+                "label": "iv",
+                "text": "How to identify a criminal"
+              },
+              {
+                "label": "v",
+                "text": "Patterns in the making"
+              },
+              {
+                "label": "vi",
+                "text": "Family connections"
+              },
+              {
+                "label": "vii",
+                "text": "Exciting new developments"
+              },
+              {
+                "label": "viii",
+                "text": "A strange coincidence"
+              },
+              {
+                "label": "ix",
+                "text": "Punishing a criminal"
+              },
+              {
+                "label": "x",
+                "text": "An uncertain past"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph G",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Key people that made a difference"
+              },
+              {
+                "label": "ii",
+                "text": "An alternative to fingerprinting"
+              },
+              {
+                "label": "iii",
+                "text": "The significance of prints"
+              },
+              {
+                "label": "iv",
+                "text": "How to identify a criminal"
+              },
+              {
+                "label": "v",
+                "text": "Patterns in the making"
+              },
+              {
+                "label": "vi",
+                "text": "Family connections"
+              },
+              {
+                "label": "vii",
+                "text": "Exciting new developments"
+              },
+              {
+                "label": "viii",
+                "text": "A strange coincidence"
+              },
+              {
+                "label": "ix",
+                "text": "Punishing a criminal"
+              },
+              {
+                "label": "x",
+                "text": "An uncertain past"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Unlike other 7.....................  that you can see, fingerprints never change.",
+            "answer": "(human)",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Although genetically the same, 8..................... do not share the same fingerprints.",
+            "answer": "identical twins",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "A fingerprint was a substitute for a 9..................... in Indian contracts.",
+            "answer": "signature",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Fingerprinting is the only effective method for identifying criminals.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The ridges and patterns that make up fingerprints develop before birth.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Malpighi conducted his studies in Italy.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Roman soldiers were tattooed to prevent them from committing violent crimes.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Fingerprint chemistry can identify if a fingerprint belongs to an elderly person.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:21:29.391376"
+}

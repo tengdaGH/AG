@@ -1,0 +1,165 @@
+{
+  "id": "ielts-r-0464",
+  "slug": "the-dolphin",
+  "title": "The Dolphin",
+  "page_range": [
+    2359,
+    2361
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "4": "A",
+    "2": "A",
+    "5": "B",
+    "3": "C"
+  },
+  "content": {
+    "title": "The Dolphin",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Can dolphins talk? Maybe they can’t talk with words, but they talk with sounds. They show their feelings with sounds. Dolphins travel in a group. We call a group of fish “school.” They don’t study, but they travel together. Dolphins are mammals, not fish, but they swim together in a school."
+      },
+      {
+        "label": null,
+        "content": "Dolphin talk to the other dolphins in the school. They give information. They tell when they are happy or sad or afraid. They say “Welcome” when a dolphin come back to the school. They talk when they play."
+      },
+      {
+        "label": null,
+        "content": "They make a few sounds above water. They make many more sounds under water. People cannot hear these sounds because the sounds are very, very high. Scientists make tapes of the sounds and study them. Sometimes people catch dolphins for a large aquarium. (An aquarium is a zoo for fish.)"
+      },
+      {
+        "label": null,
+        "content": "People can watch the dolphins in a show. Dolphins don’t like to be away from their school in an aquarium. They are sad and lonely. There are many stories about dolphins. They help people. Sometimes they save somebody’s life. Dolphin meat is good, but people don’t like to kill them. They say that dolphins bring good luck. Many people believe this."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Dolphins show their feelings with ________.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "pictures"
+              },
+              {
+                "label": "B",
+                "text": "words"
+              },
+              {
+                "label": "C",
+                "text": "waves"
+              },
+              {
+                "label": "D",
+                "text": "sounds"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Dolphins __________ in the school according to the passage.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "give information"
+              },
+              {
+                "label": "B",
+                "text": "don’t tell other dolphins when they are afraid"
+              },
+              {
+                "label": "C",
+                "text": "talk when they sleep"
+              },
+              {
+                "label": "D",
+                "text": "say “sorry” when a dolphin comes back"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "People can’t hear the dolphin’s sounds because ______________",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "they are above the water"
+              },
+              {
+                "label": "B",
+                "text": "they are under the water"
+              },
+              {
+                "label": "C",
+                "text": "they are very high"
+              },
+              {
+                "label": "D",
+                "text": "they are very low"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Many people believe that dolphins can bring_______________.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "good luck"
+              },
+              {
+                "label": "B",
+                "text": "health"
+              },
+              {
+                "label": "C",
+                "text": "wealth"
+              },
+              {
+                "label": "D",
+                "text": "danger"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Which of the following is TRUE ?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Dolphins study in the school."
+              },
+              {
+                "label": "B",
+                "text": "Dolphins travel in a group."
+              },
+              {
+                "label": "C",
+                "text": "Dolphins like to be away from their school."
+              },
+              {
+                "label": "D",
+                "text": "Dolphins sometimes kill people."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 5
+  },
+  "processed_at": "2026-02-25T21:30:43.037775"
+}

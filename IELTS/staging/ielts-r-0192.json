@@ -1,0 +1,313 @@
+{
+  "id": "ielts-r-0192",
+  "slug": "grey-workers",
+  "title": "Grey Workers",
+  "page_range": [
+    973,
+    978
+  ],
+  "raw_answer_key": {
+    "1": "NOT GIVEN",
+    "8": "D",
+    "2": "TRUE",
+    "9": "B",
+    "3": "TRUE",
+    "10": "D",
+    "4": "FALSE",
+    "11": "D",
+    "5": "D",
+    "12": "C",
+    "6": "E",
+    "13": "B",
+    "7": "C"
+  },
+  "content": {
+    "title": "Grey Workers",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Given the speed at which their workers are growing greyer, employers know surprisingly little about how productive they are. The general assumption is that the old are paid more in spite of, rather than because of, their extra productivity. That might partly explain why, when employers are under pressure to cut costs, they persuade the 55-year-olds to take early retirement. Earlier this year, Sun Life of Canada, an insurance company, announced that it was offering redundancy to all its British employees aged 50 or over “to bring in new blood”."
+      },
+      {
+        "label": "B",
+        "content": "In Japan, says Mariko Fujiwara, an industrial anthropologist who runs a think-tank for Hakuhodo, Japan’s second-largest advertising agency, most companies are bringing down the retirement age from the traditional 57 to 50 or thereabouts – and in some cases, such as Nissan, to 45. More than perhaps anywhere else, pay in Japan is linked to seniority. Given that the percentage of workers who have spent more than 32 years with the same employer rose from 11% in 1980 to 42% by 1994, it is hardly surprising that seniority-based wage costs have become the most intractable item on corporate profit-and-loss accounts."
+      },
+      {
+        "label": "C",
+        "content": "In Germany, Patrick Pohl, spokesman for Hoechst, expresses a widely held view: “The company is trying to lower the average age of the workforce. Perhaps the main reason for replacing older workers is that it makes it easier to ‘defrost’ the corporate culture. Older workers are less willing to try a new way of thinking. Younger workers are cheaper and more flexible.” Some German firms are hampered from getting rid of older workers as quickly as they would like. At SGL Carbon, a graphite producer, the average age of workers has been going up not down. The reason, says the company’s Ivo Lingnau, is not that SGL values older workers more. It is collective bargaining: the union agreement puts strict limits on the proportion of workers that may retire early."
+      },
+      {
+        "label": "D",
+        "content": "Clearly, when older people do heavy physical work, their age may affect their productivity. But other skills may increase with age, including many that are crucial for good management, such as an ability to handle people diplomatically, to run a meeting or to spot a problem before it blows up. Peter Hicks, who co-ordinates OECD work on the policy implications of ageing, says that plenty of research suggests older people are paid more because they are worth more."
+      },
+      {
+        "label": "E",
+        "content": "And the virtues of the young may be exaggerated. “The few companies that have kept on older workers find they have good judgment and their productivity is good,” says Mr Peterson. “Besides, their education standards are much better than those of today’s young high-school graduates.” Companies may say that older workers are not worth training, because they are reaching the end of their working lives: in fact, young people tend to switch jobs so frequently that offer the worst returns on training. “The median age for employer-driven training is the late 40s and early 50s,” says Mr Hicks. “It goes mainly to managers.”"
+      },
+      {
+        "label": "F",
+        "content": "Take away those seniority-based pay scales, and older workers may become a much more attractive employment proposition. But most companies (and many workers) are uncomfortable with the idea of reducing someone’s pay in later life – although workers on piece-fates often earn less over time. So retaining the services of older workers may mean employing them in new ways."
+      },
+      {
+        "label": "G",
+        "content": "One innovation, described in Mr Walker’s report on combating age barriers, was devised by IBM Belgium. Faced with the need to cut staff costs, and have decided to concentrate cuts on 55-60-year-olds, IBM set up a separate company called SkillTeam, which re-employed any of the early retired who wanted to go on working up to the age of 60. An employee who joined SkillTeam at the age of 55 on a five-year contract would work for 58% of his time, over the full period, for 88% of his last IBM salary. The company offered services to IBM, thus allowing it to retain access to some of the intellectual capital it would otherwise have lost."
+      },
+      {
+        "label": "H",
+        "content": "The best way to tempt the old to go on working may be to build on such “bridge” jobs: part-time or temporary employment that creates a more gradual transition from full-time work to retirement. Mr Quinn, who has studied the phenomenon, finds that, in the United States, nearly half of all men and women who had been in full-time jobs in middle age moved into such “bridge” jobs at the end of their working lives. In general, it is the best-paid and worst-paid who carry on working: “There are”, he says, “two very different types of bridge jog-holders – those who continue working because they have to and those who continue working because they want to, even though they could afford to retire.”"
+      },
+      {
+        "label": "I",
+        "content": "If the job market grows more flexible, the old may find more jobs that suit them. Often, they will be self-employed. Sometimes, they may start their own businesses: a study by David Storey of Warwick University found that, in Britain, 70% of businesses started by people over 55 survived, compared with an average of only 19%. To coax the old back into the job market, work will not only have to pay. It will need to be more fun than touring the country in an Airstream trailer, or seeing the grandchildren, or playing golf. Only then will there be many more Joe Clarks."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-4 on your answer sheet, write TRUE, if the statement is true; FALSE, if the statement is false; NOT GIVEN, if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Insurance company Sun Life of Canada made a decision that it would hire more Canadian employees rather than British ones in order to get a fresh staff.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Unlike other places, employees in Japan get paid according to the years they are employed.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Elder workers are laid off by some German companies which are refreshing corporate culture.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "According to Peter Hicks, companies pay older people more regardless of the contribution they make.",
+            "answer": "FALSE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "According to the passage, there are several advantages to hire elder people, please choose TWO from below.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "their products are more superior to the young."
+              },
+              {
+                "label": "B",
+                "text": "paid less compared with younger ones"
+              },
+              {
+                "label": "C",
+                "text": "run fast when there is a meeting"
+              },
+              {
+                "label": "D",
+                "text": "have a better inter-person relationship"
+              },
+              {
+                "label": "E",
+                "text": "identify problems in an advanced time"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "According to Mr. Peterson, compared with elder employees, young graduates have several weaknesses in the workplace, please choose TWO of them below.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "they are not worth training"
+              },
+              {
+                "label": "B",
+                "text": "their productivity is lower than counterparts."
+              },
+              {
+                "label": "C",
+                "text": "they change work more often"
+              },
+              {
+                "label": "D",
+                "text": "their academic criteria is someway behind elders"
+              },
+              {
+                "label": "E",
+                "text": "they are normally high school graduates."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "According to paragraph F, the firms and workers still hold the opinion that:",
+        "questions": [
+          {
+            "number": 9,
+            "text": "",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Older workers are more likely to attract other staff"
+              },
+              {
+                "label": "B",
+                "text": "people are not happy if pay gets lower in retiring age."
+              },
+              {
+                "label": "C",
+                "text": "Older people have more retaining motivation than young people"
+              },
+              {
+                "label": "D",
+                "text": "young people often earn less for their piece-rates salary."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "SkillTeam that has been founded by IBM conducted which of the following movement:",
+        "questions": [
+          {
+            "number": 10,
+            "text": "",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Ask all the old worker to continue their job on former working hours basis"
+              },
+              {
+                "label": "B",
+                "text": "Carry on the action of cutting off the elder’s proportion of employment"
+              },
+              {
+                "label": "C",
+                "text": "Ask employees to work more hours in order to get extra pay"
+              },
+              {
+                "label": "D",
+                "text": "Re-hire old employees and kept the salary a bit lower"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which of the followings is correct according to the research of Mr Quinn:",
+        "questions": [
+          {
+            "number": 11,
+            "text": "",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "About 50% of all employees in America switched into 'Bridge' jobs."
+              },
+              {
+                "label": "B",
+                "text": "Only the worst-paid continue to work."
+              },
+              {
+                "label": "C",
+                "text": "More men than women fell into the category of 'bridge' work."
+              },
+              {
+                "label": "D",
+                "text": "Some old people keep working for their motives rather than an economic incentive."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which of the followings is correct according to David Storey:",
+        "questions": [
+          {
+            "number": 12,
+            "text": "",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "70% of business is successful if hire more older people."
+              },
+              {
+                "label": "B",
+                "text": "The average success of the self-employed business is getting lower."
+              },
+              {
+                "label": "C",
+                "text": "Self-employed elder people are more likely to survive."
+              },
+              {
+                "label": "D",
+                "text": "Older people’s working hours are more flexible."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "What is the main purpose of the author in writing this passage?",
+        "questions": [
+          {
+            "number": 13,
+            "text": "",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "there must be a successful retiring program for the old"
+              },
+              {
+                "label": "B",
+                "text": "older people should be correctly valued in employment"
+              },
+              {
+                "label": "C",
+                "text": "old people should offer more helping young employees grow."
+              },
+              {
+                "label": "D",
+                "text": "There are more jobs in the world that only employ older people"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:18:44.983015"
+}

@@ -1,0 +1,235 @@
+{
+  "id": "ielts-r-0463",
+  "slug": "the-dollar-a-year-man",
+  "title": "The Dollar-a-Year Man",
+  "page_range": [
+    2348,
+    2358
+  ],
+  "raw_answer_key": {
+    "1": "song collections",
+    "8": "D",
+    "2": "Library of Congress",
+    "9": "B",
+    "3": "portable recording",
+    "10": "E machine",
+    "11": "D/E/F (in any",
+    "4": "rural areas order)",
+    "5": "prisons and",
+    "12": "D/E/F (in any penitentiaries order)",
+    "13": "D/E/F (in any",
+    "6": "D order)",
+    "7": "F"
+  },
+  "content": {
+    "title": "The Dollar-a-Year Man",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In the early 1930s, folklorist, platform lecturer, college professor and former banker John Avery Lomax was trying to recapture a sense of direction for his life. For two decades he had enjoyed a national reputation for his pioneering work in collecting and studying American folk songs; no less a figure than President Theodore Roosevelt had admired his work, and had written a letter of support for him as he sought grants for his research. He had always dreamed of finding a way of making a living by doing the thing he loved best, collecting folk songs, but he was now beginning to wonder if he would ever realise that dream."
+      },
+      {
+        "label": "B",
+        "content": "Lomax wanted to embark on a nationwide collecting project, resulting in as many as four volumes, and 'complete the rehabilitation of the American folk-song'. Eventually this was modified to where he envisioned a single book tentatively called American Ballads and Folk Songs, designed to survey the whole field. It called for firsthand field collecting, and would especially focus on the neglected area of black folk music."
+      },
+      {
+        "label": "C",
+        "content": "In 1932, Lomax travelled to New York, and stopped in to see a man named H.S. Latham of the Macmillan Company. He informally outlined his plan to Latham, and read him the text of an earthy African American blues ballad called 'Ida Red'. Latham was impressed, and two days later Lomax had a contract, a small check to bind it, and an agreement to deliver the manuscript about one year later. The spring of 1932 began to look more green, lush and full of promise."
+      },
+      {
+        "label": "D",
+        "content": "Lomax immediately set to work. He travelled to libraries at Harvard, the Library of Congress, Brown University and elsewhere in order to explore unpublished song collections and to canvas the folk song books published over the past ten years. During his stay in Washington, D.C., Lomax became friendly with Carl Engel, Music Division chief of the Library of Congress. Engel felt that Lomax had the necessary background and energy to someday direct the Archive of Folk Song. Through funds provided by the Council of Learned Societies and the Library of Congress, Lomax ordered a state-of-the-art portable recording machine. More importantly, the Library of Congress agreed to furnish blank records and to lend their name to his collecting; Lomax simply had to agree to deposit the completed records at the Library of Congress. He did so without hesitation. On July 15, 1933, Lomax was appointed an 'honorary consultant' for a dollar a year."
+      },
+      {
+        "label": "E",
+        "content": "Together with his eighteen-year-old son Alan, he began a great adventure to collect songs for American Ballads and Folk Songs, a task that was to last for many months. Lomax’s library research had reinforced his belief that a dearth of black folk song material existed in printed collections. This fact, along with his early appreciation of African American folk culture, led Lomax to decide that black folk music from rural areas should be the primary focus. This bold determination resulted in the first major trip in the United States to capture black folk music in the field. In order to fulfill their quest, the two men concentrated on sections of the South with a high percentage of blacks. They also pinpointed laboring camps, particularly lumber camps, which employed blacks almost exclusively. But as they went along, prisons and penitentiaries also emerged as a focal point for research."
+      },
+      {
+        "label": "F",
+        "content": "The recordings made by the Lomaxes had historical significance. The whole idea of using a phonograph to preserve authentic folk music was still fairly new. Most of John Lomax’s peers were involved in collecting songs the classic way: taking both words and melody down by hand, asking the singer to perform the song over and over until the collector had 'caught' it on paper. John Lomax sensed at once the limitations of this kind of method, especially when getting songs from African-American singers, whose quarter tones, blue notes and complex timing often frustrated white musicians trying to transcribe them with European notation systems."
+      },
+      {
+        "label": "G",
+        "content": "The whole concept of field recordings was, in 1933 and still is today, radically different from the popular notion of recording. Field recordings are not intended as commercial products, but as attempts at cultural preservation. There is no profit motive, nor any desire to make the singer a 'star'. As have hundreds of folk song collectors after him, John Lomax had to persuade his singers to perform, to explain to them why their songs were important, and to convince the various authorities - the wardens, the trusties, the bureaucrats - that this was serious, worthwhile work. He faced the moral problem of how to safeguard the records and the rights of the singers - a problem he solved in this instance by donating the discs to the Library of Congress. He had to overcome the technical problems involved in recording outside a studio; one always hoped for quiet, with no doors slamming or alarms going off, but it was always a risk. His new state-of-the-art recording machine sported a new microphone designed by NBC, but there were no wind baffles to help reduce the noise when recording outside. Lomax learned how to balance sound, where to place microphones, how to work echoes and walls, and soon was a skilled recordist."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Lomax began the research for this project by looking at _______________ that were not available in book form, as well as at certain books.",
+            "answer": "song collections",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "While he was doing this research, he met someone who ran a department at the _______________ in Washington.",
+            "answer": "Library of Congress",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "As a result of this contact, he was provided with the very latest kind of _______________ for his project.",
+            "answer": "portable recording",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Lomax believed that the places he should concentrate on were _______________ in the South of the US.",
+            "answer": "rural areas",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "While he and his son were on their trip, they added _______________ as places where they could find what they were looking for.",
+            "answer": "prisons and penitentiaries",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_INFORMATION",
+        "instruction": "Reading Passage 1 has seven sections labelled A-G. Which section contains the following information? Write the correct letter A-G in boxes 6-10 on your answer sheet. NB: You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "a reference to the speed with which Lomax responded to a demand",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "a reason why Lomax doubted the effectiveness of a certain approach",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "reasons why Lomax was considered suitable for a particular official post",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "a reference to a change of plan on Lomax’s part",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "a reference to one of Lomax’s theories being confirmed",
+            "answer": "E machine",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose THREE letters A-F. Write your answers in boxes 11-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Which THREE of the following difficulties for Lomax are mentioned by the writer of the text?",
+            "answer": "D/E/F (in any order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "finding a publisher for his research"
+              },
+              {
+                "label": "B",
+                "text": "deciding exactly what kind of music to collect"
+              },
+              {
+                "label": "C",
+                "text": "the scepticism of others concerning his methods"
+              },
+              {
+                "label": "D",
+                "text": "the reluctance of people to participate in his project"
+              },
+              {
+                "label": "E",
+                "text": "making sure that participants in his project were not exploited"
+              },
+              {
+                "label": "F",
+                "text": "factors resulting from his choice of locations for recording"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Which THREE of the following difficulties for Lomax are mentioned by the writer of the text?",
+            "answer": "D/E/F (in any order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "finding a publisher for his research"
+              },
+              {
+                "label": "B",
+                "text": "deciding exactly what kind of music to collect"
+              },
+              {
+                "label": "C",
+                "text": "the scepticism of others concerning his methods"
+              },
+              {
+                "label": "D",
+                "text": "the reluctance of people to participate in his project"
+              },
+              {
+                "label": "E",
+                "text": "making sure that participants in his project were not exploited"
+              },
+              {
+                "label": "F",
+                "text": "factors resulting from his choice of locations for recording"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Which THREE of the following difficulties for Lomax are mentioned by the writer of the text?",
+            "answer": "D/E/F (in any order)",
+            "options": [
+              {
+                "label": "A",
+                "text": "finding a publisher for his research"
+              },
+              {
+                "label": "B",
+                "text": "deciding exactly what kind of music to collect"
+              },
+              {
+                "label": "C",
+                "text": "the scepticism of others concerning his methods"
+              },
+              {
+                "label": "D",
+                "text": "the reluctance of people to participate in his project"
+              },
+              {
+                "label": "E",
+                "text": "making sure that participants in his project were not exploited"
+              },
+              {
+                "label": "F",
+                "text": "factors resulting from his choice of locations for recording"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:31:14.692808"
+}

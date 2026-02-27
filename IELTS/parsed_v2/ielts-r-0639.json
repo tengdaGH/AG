@@ -1,0 +1,506 @@
+{
+  "id": "ielts-r-0639",
+  "slug": "why-risks-can-go-wrong",
+  "title": "Why Risks Can Go Wrong",
+  "page_range": [
+    3228,
+    3233
+  ],
+  "raw_answer_key": {
+    "1": "vi",
+    "8": "B",
+    "2": "ix",
+    "9": "D",
+    "3": "iii",
+    "10": "A",
+    "4": "viii",
+    "11": "managers (and/or) sportsmen",
+    "5": "i",
+    "12": "driving",
+    "6": "iv",
+    "13": "Pharmaceutical (companies)",
+    "7": "D"
+  },
+  "content": {
+    "title": "Why Risks Can Go Wrong",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "People make terrible decisions about the future. The evidence is all around, from their investments in the stock markets to the way they run their businesses. In fact, people are consistently bad at dealing with uncertainty, underestimating some kinds of risk and overestimating others. Surely there must be a better way than using intuition?"
+      },
+      {
+        "label": "B",
+        "content": "In the 1960s a young American research psychologist, Daniel Kahneman, became interested in people's inability to make logical decisions. That launched him on a career to show just how irrationally people behave in practice. When Kahneman and his colleagues first started work, the idea of applying psychological insights to economics and business decisions was seen as rather bizarre. But in the past decade the fields of behavioural finance and behavioural economics have blossomed, and in 2002 Kahneman shared a Nobel prize in economics for his work. Today he is in demand by business organizations and international banking companies. But, he says, there are plenty of institutions that still fail to understand the roots of their poor decisions. He claims that, far from being random, these mistakes are systematic and predictable."
+      },
+      {
+        "label": "C",
+        "content": "One common cause of problems in decision-making is over-optimism. Ask most people about the future, and they will see too much blue sky ahead, even if past experience suggests otherwise. Surveys have shown that people's forecasts of future stock market movements are far more optimistic than past long-term returns would justify. The same goes for their hopes of ever-rising prices for their homes or doing well in games of chance. Such optimism can be useful for managers or sportsmen, and sometimes turns into a self-fulfilling prophecy. But most of the time it results in wasted effort and dashed hopes. Kahneman's work points to three types of over-confidence. First, people tend to exaggerate their own skill and prowess; in polls, far fewer than half the respondents admit to having below-average skills in, say, driving. Second, they overestimate the amount of control they have over the future, forgetting about luck and chalking up success solely to skill. And third, in competitive pursuits such as dealing on shares, they forget that they have to judge their skills against those of the competition."
+      },
+      {
+        "label": "D",
+        "content": "Another source of wrong decisions is related to the decisive effect of the initial meeting, particularly in negotiations over money. This is referred to as the 'anchor effect'. Once a figure has been mentioned, it takes a strange hold over the human mind. The asking price quoted in a house sale, for example, tends to become accepted by all parties as the 'anchor' around which negotiations take place. Much the same goes for salary negotiations or mergers and acquisitions. If nobody has much information to go on, a figure can provide comfort - even though it may lead to a terrible mistake."
+      },
+      {
+        "label": "E",
+        "content": "In addition, mistakes may arise due to stubbornness. No one likes to abandon a cherished belief, and the earlier a decision has been taken, the harder it is to abandon it. Drug companies must decide early to cancel a failing research project to avoid wasting money, but may find it difficult to admit they have made a mistake. In the same way, analysts may have become wedded early to a single explanation that coloured their perception. A fresh eye always helps."
+      },
+      {
+        "label": "F",
+        "content": "People also tend to put a lot of emphasis on things they have seen and experienced themselves, which may not be the best guide to decision-making. For example, somebody may buy an overvalued share because a relative has made thousands on it, only to get his fingers burned. In finance, too much emphasis on information close at hand helps to explain the tendency by most investors to invest only within the country they live in. Even though they know that diversification is good for their portfolio, a large majority of both Americans and Europeans invest far too heavily in the shares of their home countries. They would be much better off spreading their risks more widely."
+      },
+      {
+        "label": "G",
+        "content": "More information is helpful in making any decision but, says Kahneman, people spend proportionally too much time on small decisions and not enough on big ones. They need to adjust the balance. During the boom years, some companies put as much effort into planning their office party as into considering strategic mergers."
+      },
+      {
+        "label": "H",
+        "content": "Finally, crying over spilled milk is not just a waste of time; it also often colours people's perceptions of the future. Some stock market investors trade far too frequently because they are chasing the returns on shares they wish they had bought earlier."
+      },
+      {
+        "label": "I",
+        "content": "Kahneman reckons that some types of businesses are much better than others at dealing with risk. Pharmaceutical companies, which are accustomed to many failures and a few big successes in their drug-discovery programmes, are fairly rational about their risk-taking. But banks, he says, have a long way to go. They may take big risks on a few huge loans, but are extremely cautious about their much more numerous loans to small businesses, many of which may be less risky than the big ones. And the research has implications for governments too. They face a whole range of sometimes conflicting political pressures, which means they are even more likely to take irrational decisions."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for Paragraphs B and D-H from the list of headings below. Write the correct number (i-xi) in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Not identifying the correct priorities"
+              },
+              {
+                "label": "ii",
+                "text": "A solution for the long term"
+              },
+              {
+                "label": "iii",
+                "text": "The difficulty of changing your mind"
+              },
+              {
+                "label": "iv",
+                "text": "Why looking back is unhelpful"
+              },
+              {
+                "label": "v",
+                "text": "Strengthening inner resources"
+              },
+              {
+                "label": "vi",
+                "text": "A successful approach to the study of decision-making"
+              },
+              {
+                "label": "vii",
+                "text": "The danger of trusting a global market"
+              },
+              {
+                "label": "viii",
+                "text": "Reluctance to go beyond the familiar"
+              },
+              {
+                "label": "ix",
+                "text": "The power of the first number"
+              },
+              {
+                "label": "x",
+                "text": "The need for more effective risk assessment"
+              },
+              {
+                "label": "xi",
+                "text": "Underestimating the difficulties ahead"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph D",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "Not identifying the correct priorities"
+              },
+              {
+                "label": "ii",
+                "text": "A solution for the long term"
+              },
+              {
+                "label": "iii",
+                "text": "The difficulty of changing your mind"
+              },
+              {
+                "label": "iv",
+                "text": "Why looking back is unhelpful"
+              },
+              {
+                "label": "v",
+                "text": "Strengthening inner resources"
+              },
+              {
+                "label": "vi",
+                "text": "A successful approach to the study of decision-making"
+              },
+              {
+                "label": "vii",
+                "text": "The danger of trusting a global market"
+              },
+              {
+                "label": "viii",
+                "text": "Reluctance to go beyond the familiar"
+              },
+              {
+                "label": "ix",
+                "text": "The power of the first number"
+              },
+              {
+                "label": "x",
+                "text": "The need for more effective risk assessment"
+              },
+              {
+                "label": "xi",
+                "text": "Underestimating the difficulties ahead"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph E",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Not identifying the correct priorities"
+              },
+              {
+                "label": "ii",
+                "text": "A solution for the long term"
+              },
+              {
+                "label": "iii",
+                "text": "The difficulty of changing your mind"
+              },
+              {
+                "label": "iv",
+                "text": "Why looking back is unhelpful"
+              },
+              {
+                "label": "v",
+                "text": "Strengthening inner resources"
+              },
+              {
+                "label": "vi",
+                "text": "A successful approach to the study of decision-making"
+              },
+              {
+                "label": "vii",
+                "text": "The danger of trusting a global market"
+              },
+              {
+                "label": "viii",
+                "text": "Reluctance to go beyond the familiar"
+              },
+              {
+                "label": "ix",
+                "text": "The power of the first number"
+              },
+              {
+                "label": "x",
+                "text": "The need for more effective risk assessment"
+              },
+              {
+                "label": "xi",
+                "text": "Underestimating the difficulties ahead"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph F",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Not identifying the correct priorities"
+              },
+              {
+                "label": "ii",
+                "text": "A solution for the long term"
+              },
+              {
+                "label": "iii",
+                "text": "The difficulty of changing your mind"
+              },
+              {
+                "label": "iv",
+                "text": "Why looking back is unhelpful"
+              },
+              {
+                "label": "v",
+                "text": "Strengthening inner resources"
+              },
+              {
+                "label": "vi",
+                "text": "A successful approach to the study of decision-making"
+              },
+              {
+                "label": "vii",
+                "text": "The danger of trusting a global market"
+              },
+              {
+                "label": "viii",
+                "text": "Reluctance to go beyond the familiar"
+              },
+              {
+                "label": "ix",
+                "text": "The power of the first number"
+              },
+              {
+                "label": "x",
+                "text": "The need for more effective risk assessment"
+              },
+              {
+                "label": "xi",
+                "text": "Underestimating the difficulties ahead"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph G",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Not identifying the correct priorities"
+              },
+              {
+                "label": "ii",
+                "text": "A solution for the long term"
+              },
+              {
+                "label": "iii",
+                "text": "The difficulty of changing your mind"
+              },
+              {
+                "label": "iv",
+                "text": "Why looking back is unhelpful"
+              },
+              {
+                "label": "v",
+                "text": "Strengthening inner resources"
+              },
+              {
+                "label": "vi",
+                "text": "A successful approach to the study of decision-making"
+              },
+              {
+                "label": "vii",
+                "text": "The danger of trusting a global market"
+              },
+              {
+                "label": "viii",
+                "text": "Reluctance to go beyond the familiar"
+              },
+              {
+                "label": "ix",
+                "text": "The power of the first number"
+              },
+              {
+                "label": "x",
+                "text": "The need for more effective risk assessment"
+              },
+              {
+                "label": "xi",
+                "text": "Underestimating the difficulties ahead"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph H",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Not identifying the correct priorities"
+              },
+              {
+                "label": "ii",
+                "text": "A solution for the long term"
+              },
+              {
+                "label": "iii",
+                "text": "The difficulty of changing your mind"
+              },
+              {
+                "label": "iv",
+                "text": "Why looking back is unhelpful"
+              },
+              {
+                "label": "v",
+                "text": "Strengthening inner resources"
+              },
+              {
+                "label": "vi",
+                "text": "A successful approach to the study of decision-making"
+              },
+              {
+                "label": "vii",
+                "text": "The danger of trusting a global market"
+              },
+              {
+                "label": "viii",
+                "text": "Reluctance to go beyond the familiar"
+              },
+              {
+                "label": "ix",
+                "text": "The power of the first number"
+              },
+              {
+                "label": "x",
+                "text": "The need for more effective risk assessment"
+              },
+              {
+                "label": "xi",
+                "text": "Underestimating the difficulties ahead"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer A, B, C or D. Write your answers in boxes 7-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "People initially found Kahneman's work unusual because he",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "saw mistakes as following predictable patterns."
+              },
+              {
+                "label": "B",
+                "text": "was unaware of behavioural approaches."
+              },
+              {
+                "label": "C",
+                "text": "dealt with irrational types of practice."
+              },
+              {
+                "label": "D",
+                "text": "applied psychology to finance and economics."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The writer mentions house-owners attitudes towards the value of their homes to illustrate that",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "past failures may destroy an optimistic attitude."
+              },
+              {
+                "label": "B",
+                "text": "people tend to exaggerate their chances of success."
+              },
+              {
+                "label": "C",
+                "text": "optimism may be justified in certain circumstances."
+              },
+              {
+                "label": "D",
+                "text": "people are influenced by the success of others."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Stubbornness and inflexibility can cause problems when people",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "think their financial difficulties are just due to bad luck."
+              },
+              {
+                "label": "B",
+                "text": "avoid seeking advice from experts and analysts."
+              },
+              {
+                "label": "C",
+                "text": "refuse to invest in the early stages of a project."
+              },
+              {
+                "label": "D",
+                "text": "are unwilling to give up unsuccessful activities or beliefs."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Why do many Americans and Europeans fail to spread their financial risks when investing?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "They feel safer dealing in a context which is close to home."
+              },
+              {
+                "label": "B",
+                "text": "They do not understand the benefits of diversification."
+              },
+              {
+                "label": "C",
+                "text": "They are over-influenced by the successes of their relatives."
+              },
+              {
+                "label": "D",
+                "text": "They do not have sufficient knowledge of one another’s countries."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below, using NO MORE THAN THREE WORDS for each answer. Write your answers in boxes 11-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Which two occupations may benefit from being over-optimistic?",
+            "answer": "managers (and/or) sportsmen",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Which practical skill are many people over-confident about?",
+            "answer": "driving",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Which type of business has a generally good attitude to dealing with uncertainty?",
+            "answer": "Pharmaceutical (companies)",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T16:05:07.817951"
+}

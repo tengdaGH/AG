@@ -1,0 +1,355 @@
+{
+  "id": "ielts-r-0106",
+  "slug": "compliance-or-noncompliance-for-children-",
+  "title": "Compliance Or Noncompliance For Children",
+  "page_range": [
+    544,
+    549
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "D",
+    "2": "C",
+    "9": "F",
+    "3": "B",
+    "10": "NOT GIVEN",
+    "4": "B",
+    "11": "YES",
+    "5": "C",
+    "12": "YES",
+    "6": "B",
+    "13": "NO",
+    "7": "E",
+    "14": "NO"
+  },
+  "content": {
+    "title": "Compliance Or Noncompliance For Children",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Many Scientists believe that socialization takes a long process, while compliance is the outset of it. Accordingly, compliance for the education of children is the priority. Motivationally distinct forms of child compliance, mutually positive affect, and maternal control, observed in 3 control contexts in 103 dyads of mothers and their 26-41-month-old children, were examined as correlates of internalization, assessed using observations of children while alone with prohibited temptations and maternal ratings. One form of compliance (committed compliance), when the child appeared committed wholeheartedly to the maternal agenda and eager to endorse and accept it, was emphasized. Mother-child mutually positive affect was both a predictor and a concomitant of committed compliance. Children who shared positive effect with their mothers showed a high level of committed compliance and were also more internalized. Differences and similarities between children’s compliance with requests and prohibitions (“Do” vs. “Don’t” demand contexts) were also explored. Maternal “Dos” appeared more challenging to toddlers than the “Don’ts.” Some individual coherence of behavior was also found across both demand contexts. The implication of committed compliance for emerging internalized regulators of conduct is discussed."
+      },
+      {
+        "label": "B",
+        "content": "A number of parents were not easy to be aware of the compliance, some even overlooked their children’s noncompliance. Despite good education, these children did not follow the words from their parents on several occasion, especially boys in certain ages. Fortunately, this rate was acceptable, some parents could be patient with the noncompliance. Someone held that noncompliance is probably not a wrong thing. In order to determine the effects of different parental disciplinary techniques on young children’s compliance and noncompliance, mothers were trained to observe emotional incidents involving their own toddler-aged children. Reports of disciplinary encounters were analyzed in terms of the types of discipline used (reasoning, verbal prohibition, physical coercion, love withdrawal, and combinations thereof) and children’s responses to that discipline (compliance/noncompliance and avoidance). The relation between compliance/noncompliance and type of misdeed (harm to persons, harm to property, and lapses of self-control) was also analyzed. Results indicated that love withdrawal combined with other techniques was most effective in securing children’s compliance and that its effectiveness was not a function of the type of technique with which it was combined. Avoidant responses and affective reunification with the parent were more likely to follow love withdrawal than any other technique. Physical coercion was somewhat less effective than love withdrawal, while reasoning and verbal prohibition were not at all effective except when both were combined with physical coercion."
+      },
+      {
+        "label": "C",
+        "content": "Noncompliant Children sometimes prefer to say to directly as they were younger, they are easy to deal with the relationship with contemporaries. When they are growing up. During the period that children are getting elder, who may learn to use more advanced approaches for their noncompliance. They are more skillful to negotiate or give reasons for refusal rather than show their opposite idea to parents directly.” Said Henry Porter, a scholar working in Psychology Institute of UK. He indicated that noncompliance means growth in some way, may have benefit for children. Many Experts held different viewpoints in recent years, they tried drilling compliance into children. His collaborator Wallace Friesen believed that Organizing a child’s daily activities so that they occur in the same order each day as much as possible. This first strategy for defiant children is ultimately the most important. Developing a routine helps a child to know what to expect and increases the chances that he or she will comply with things such as chores, homework, and hygiene requests. When undesirable activities occur in the same order at optimal times during the day, they become habits that are not questioned but done without thought."
+      },
+      {
+        "label": "D",
+        "content": "Doctor Steven Walson addressed that organizing fun activities to occur after frequently refused activities. This strategy also works as a positive reinforcer when the child complies with your requests. By arranging your day so that things often refused to occur right before highly preferred activities, you are able to eliminate defiant behavior and motivate your child’s behavior of doing the undesirable activity. This is not to be presented in a way that the preferred activity is only allowed if a defiant child does the non-preferred activity. However, you can word your request in a way so that your child assumes that you have to do the non-preferred activity before moving on to the next preferred activity. For example, you do not want to say something such as, “If you clean your room we can play a game.” Instead of the word your request like this, “As soon as you are done cleaning your room we will be able to play that really fun game you wanted to play.”"
+      },
+      {
+        "label": "E",
+        "content": "Psychologist Paul Edith insisted praise is the best way to make children comply with. This is probably a common term you are used to hearing by now. If you praise your child’s behavior, he or she will be more likely to do that behavior. So, it is essential to use praise when working with defiant children. It also provides your child with positive attention. However, it is important to know how to praise children in a way that encourages future automatic reinforcement for your child when doing a similar behavior."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The children, especially boys received good education may",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "always comply with their parents’ words"
+              },
+              {
+                "label": "B",
+                "text": "be good at math"
+              },
+              {
+                "label": "C",
+                "text": "have a high score at school"
+              },
+              {
+                "label": "D",
+                "text": "disobey their parents’ order sometimes"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Face to their children’s compliance and noncompliance, parents",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "must be aware of the compliance"
+              },
+              {
+                "label": "B",
+                "text": "ask for help from their teachers"
+              },
+              {
+                "label": "C",
+                "text": "some of them may ignore their noncompliance"
+              },
+              {
+                "label": "D",
+                "text": "pretend not to see"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "According to Henry Porter, noncompliance for children",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "are entirely harmful"
+              },
+              {
+                "label": "B",
+                "text": "may have positive effects"
+              },
+              {
+                "label": "C",
+                "text": "needs medicine assistance"
+              },
+              {
+                "label": "D",
+                "text": "should be treated by an expert doctor"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "When children are growing up, they",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "always try to directly say no"
+              },
+              {
+                "label": "B",
+                "text": "are more skillful to negotiate"
+              },
+              {
+                "label": "C",
+                "text": "learn to cheat instead of noncompliance"
+              },
+              {
+                "label": "D",
+                "text": "tend to keep silent"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Which is the possible reaction the passage mentioned for elder children and younger ones if they don’t want to comply with the order",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "elder children prefer to refuse directly"
+              },
+              {
+                "label": "B",
+                "text": "elder ones refuse to answer"
+              },
+              {
+                "label": "C",
+                "text": "younger children may reject directly"
+              },
+              {
+                "label": "D",
+                "text": "younger ones may save any words"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each person with the correct statement.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Henry Porter",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "children of all ages will indirectly show noncompliance"
+              },
+              {
+                "label": "B",
+                "text": "elder children tend to negotiate rather than show noncompliance"
+              },
+              {
+                "label": "C",
+                "text": "converse behavior means noncompliance"
+              },
+              {
+                "label": "D",
+                "text": "organizing fun activities to occur after frequently refused activities"
+              },
+              {
+                "label": "E",
+                "text": "organizing child’s daily activities in the same order as much as possible."
+              },
+              {
+                "label": "F",
+                "text": "use praise in order to make children compliant"
+              },
+              {
+                "label": "G",
+                "text": "take the children to school at an early age"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Wallace Friesen",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "children of all ages will indirectly show noncompliance"
+              },
+              {
+                "label": "B",
+                "text": "elder children tend to negotiate rather than show noncompliance"
+              },
+              {
+                "label": "C",
+                "text": "converse behavior means noncompliance"
+              },
+              {
+                "label": "D",
+                "text": "organizing fun activities to occur after frequently refused activities"
+              },
+              {
+                "label": "E",
+                "text": "organizing child’s daily activities in the same order as much as possible."
+              },
+              {
+                "label": "F",
+                "text": "use praise in order to make children compliant"
+              },
+              {
+                "label": "G",
+                "text": "take the children to school at an early age"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Steven Walson",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "children of all ages will indirectly show noncompliance"
+              },
+              {
+                "label": "B",
+                "text": "elder children tend to negotiate rather than show noncompliance"
+              },
+              {
+                "label": "C",
+                "text": "converse behavior means noncompliance"
+              },
+              {
+                "label": "D",
+                "text": "organizing fun activities to occur after frequently refused activities"
+              },
+              {
+                "label": "E",
+                "text": "organizing child’s daily activities in the same order as much as possible."
+              },
+              {
+                "label": "F",
+                "text": "use praise in order to make children compliant"
+              },
+              {
+                "label": "G",
+                "text": "take the children to school at an early age"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Paul Edith",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "children of all ages will indirectly show noncompliance"
+              },
+              {
+                "label": "B",
+                "text": "elder children tend to negotiate rather than show noncompliance"
+              },
+              {
+                "label": "C",
+                "text": "converse behavior means noncompliance"
+              },
+              {
+                "label": "D",
+                "text": "organizing fun activities to occur after frequently refused activities"
+              },
+              {
+                "label": "E",
+                "text": "organizing child’s daily activities in the same order as much as possible."
+              },
+              {
+                "label": "F",
+                "text": "use praise in order to make children compliant"
+              },
+              {
+                "label": "G",
+                "text": "take the children to school at an early age"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Socialization takes a long process, while compliance is the beginning of it.",
+            "answer": "NOT GIVEN"
+          },
+          {
+            "number": 11,
+            "text": "Many parents were difficult to be aware of compliance or noncompliance.",
+            "answer": "YES"
+          },
+          {
+            "number": 12,
+            "text": "Noncompliant Children are simple to deal with the relationship with the people at the same age when they are growing up.",
+            "answer": "YES"
+          },
+          {
+            "number": 13,
+            "text": "Experts never tried drilling compliance into children.",
+            "answer": "NO"
+          },
+          {
+            "number": 14,
+            "text": "Psychologist Paul Edith negated the importance that knowing how to praise children in an encouraging way.",
+            "answer": "NO"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T19:52:55.060269"
+}

@@ -1,0 +1,203 @@
+{
+  "id": "ielts-r-0099",
+  "slug": "chinstrap-penguin-population-in-the-last-50-years",
+  "title": "Chinstrap Penguin Population In The Last 50 Years",
+  "page_range": [
+    510,
+    514
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "NOT GIVEN",
+    "2": "C",
+    "9": "TRUE",
+    "3": "G",
+    "10": "NOT GIVEN",
+    "4": "A",
+    "11": "threat",
+    "5": "H",
+    "12": "scientists",
+    "6": "E",
+    "13": "sanctuaries",
+    "7": "A"
+  },
+  "content": {
+    "title": "Chinstrap Penguin Population In The Last 50 Years",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The chinstrap penguin has a cap of black plumage, a white face, and a continuous band of black feathers extending from one side of the head to the other, the “chinstrap.” The northern part of the Antarctic Peninsula, several Antarctic and subantarctic islands, and the uninhabited Balleny Islands between Antarctica and New Zealand are the habitats of the species."
+      },
+      {
+        "label": "B",
+        "content": "Antarctic penguin colonies in some parts of the Antarctic have declined over the last 50 years, mostly because of climate change, researchers say. The colonies of chinstrap penguins, also known as ringed or bearded penguins, have dramatically dropped since they were last surveyed almost 50 years ago, scientists discovered. The findings became surprising because, until now, the chinstraps have been deemed of “least concern” by the International Union for Conservation of Nature (IUCN). “We really didn’t know what to expect, and then we found this huge decline on Elephant Island,” Noah Strycker, an ornithologist and penguin researcher at Stony Brook University, told CNN from Greenpeace’s Esperanza ship in the Antarctic. “It’s a little bit worrying as it means that something is shifting in the ecosystem and the fall in penguin numbers is reflecting that shift.”"
+      },
+      {
+        "label": "C",
+        "content": "Every colony of Elephant Island, which is a crucial penguin habitat northeast of the Antarctic Peninsula, when surveyed, experienced a population fall, as per the independent researchers who joined a Greenpeace expedition to the region. Elephant Island was last surveyed in 1971, and there were 122,550 pairs of penguins across all colonies. However, the recent count revealed just 52,786 pairs with a drop of almost 60%. On Elephant Island, the size of the population change varied from colony to colony, and the most significant decline was recorded at a colony known as Chinstrap Camp, which is 77%."
+      },
+      {
+        "label": "D",
+        "content": "Just the days after temperatures hit an all-time high in the Antarctic with 18.3 Celsius (64.94 Fahrenheit) recorded on February 6, the latest study is published. The previous high 17.5 C (63.5 F) was recorded in March 2015. Scientists recorded the temperature at Argentina’s Esperanza research station, according to the meteorological agency of the country."
+      },
+      {
+        "label": "E",
+        "content": "the main component of the penguins’ diet. “Climate change is probably the underlying factor, and the effects are rippling through the food chain,” Strycker said. “Penguins, seals, and whales all depend on krill, which depends on ice. So if climate change affects the ice, that impacts on everything else.” Heather J. Lynch, associate professor of ecology and evolution at New York’s Stony Brook University and one of the expedition’s research leads, said: “Such significant declines in penguin numbers suggest that the Southern Ocean’s ecosystem has fundamentally changed in the last 50 years and that the impacts of this are rippling up the food web to species like chinstrap penguins.” She added that “while several factors may have a role to play, all the evidence we have pointed to climate change as being responsible for the changes we are seeing.” The reduced sea ice and warmer oceans due to climate change have led to less krill,"
+      },
+      {
+        "label": "F",
+        "content": "However, some good news was also there, as the researchers reported an increase in gentoo penguins population in neighbouring colonies, beyond Elephant Island. “It’s interesting, as a tale of two penguins on the Antarctic Peninsula,” said Strycker. “Gentoo is a species from further north and they appear to be colonizing the area and are actually increasing in numbers.”"
+      },
+      {
+        "label": "G",
+        "content": "The Greenpeace ship Esperanza has been documenting the threat to the oceans worldwide and taking the scientists for travelling abroad. For the first time, the Low Island in the South Shetland Islands, north of the Antarctic Peninsula, has been surveyed properly. The manual and drone techniques are used by the researchers, from Stony Brook and Northeastern University in Boston, to survey a series of significant but relatively unknown colonies of chinstrap penguin here. The results are, however, not yet available. Greenpeace has been campaigning for the three Antarctic sanctuaries that it would establish to offer protection to many of the colonies surveyed. These would be off-limits to humans."
+      },
+      {
+        "label": "H",
+        "content": "an iconic species, but this new research shows how the climate emergency is decimating their numbers and having far-reaching impacts on wildlife in the most remote corners of Earth. This is a critical year for our oceans. “Governments must respond to the science and agree on a strong Global Ocean Treaty at the United Nations this spring that can create a network of ocean sanctuaries to protect marine life and help these creatures adapt to our rapidly changing climate.” Louisa Casson, Greenpeace Oceans Campaigner, said in a statement: “Penguins are"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The Reading Passage has 8 paragraphs labelled A-H. Which paragraph contains the following information? Write the correct letter A-H in boxes. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "the highest temperatures ever.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "the difference between current and past records on penguin population.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "places where people cannot go to.",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "places where chinstrap penguins live.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "measures to protect ocean species.",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "factors contributing to the decline in the amount of food available.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "description of a specific species.",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Choose TRUE if the statement agrees with the information given in the text, choose FALSE if the statement contradicts the information, or choose NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "The IUCN showed little concern about the fall in penguin numbers.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information given in the text."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Climate change is a reason for the changes in the food chain of chinstrap penguins.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information given in the text."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Gentoo penguins are not affected by climate change.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information given in the text."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the note below. Choose ONLY ONE WORD from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "The Greenpeace ship has been used to: record the 11..................... to marine life over the world.",
+            "answer": "threat",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "carry the 12..................... overseas.",
+            "answer": "scientists",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Build 13..................... to protect many surveyed colonies.",
+            "answer": "sanctuaries",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:45:36.101226"
+}

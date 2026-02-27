@@ -1,0 +1,406 @@
+{
+  "id": "ielts-r-0564",
+  "slug": "the-truth-about-lying",
+  "title": "The truth about lying",
+  "page_range": [
+    2856,
+    2860
+  ],
+  "raw_answer_key": {
+    "1": "vi",
+    "8": "C",
+    "2": "ii",
+    "9": "A",
+    "3": "viii",
+    "10": "B",
+    "4": "iv",
+    "11": "nervous",
+    "5": "i",
+    "12": "feelings",
+    "6": "v",
+    "13": "words",
+    "7": "A"
+  },
+  "content": {
+    "title": "The truth about lying",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In the 1970s, as part of a large-scale research programme exploring the area of Interspecies communication, Dr Francine Patterson from Stanford University attempted to teach two lowland gorillas called Michael and Koko a simplified version of Sign Language. According to Patterson, the great apes were capable of holding meaningful conversations, and could even reflect upon profound topics, such as love and death. During the project, their trainers believe they uncovered instances where the two gorillas' linguistic skills seemed to provide reliable evidence of intentional deceit. In one example, Koko broke a toy cat, and then signed to indicate that the breakage had been caused by one of her trainers. In another episode, Michael ripped a jacket belonging to a trainer and, when asked who was responsible for the incident, signed ‘Koko’. When the trainer expressed some scepticism, Michael appeared to change his mind, and indicated that Dr Patterson was actually responsible, before finally confessing."
+      },
+      {
+        "label": "B",
+        "content": "Other researchers have explored the development of deception in children. Some of the most interesting experiments have involved asking youngsters not to take a peek at their favourite toys. During these studies, a child is led into a laboratory and asked to face one of the walls. The experimenter then explains that he is going to set up an elaborate toy a few feet behind them. After setting up the toy, the experimenter says that he has to leave the laboratory, and asks the child not to turn around and peek at the toy. The child is secretly filmed by hidden cameras for a few minutes, and then the experimenter returns and asks them whether they peeked. Almost all three-year-olds do, and then half of them lie about it to the experimenter. By the time the children have reached the age of five, all of them peek and all of them lie. The results provide compelling evidence that lying starts to emerge the moment we learn to speak."
+      },
+      {
+        "label": "C",
+        "content": "So what are the tell-tale signs that give away a lie? In 1994, the psychologist Richard Wiseman devised a large-scale experiment on a TV programme called Tomorrow's World. As part of the experiment, viewers watched two interviews in which Wiseman asked a presenter in front of the cameras to describe his favourite film. In one interview, the presenter picked Some Like It Hot and he told the truth; in the other interview, he picked Gone with the Wind and lied. The viewers were then invited to make a choice - to telephone in to say which film he was lying about. More than 30,000 calls were received, but viewers were unable to tell the difference and the vote was a 50/50 split. In similar experiments, the results have been remarkably consistent - when it comes to lie detection, people might as well simply toss a coin. It doesn’t matter if you are male or female, young or old; very few people are able to detect deception."
+      },
+      {
+        "label": "D",
+        "content": "Why is this? Professor Charles Bond from the Texas Christian University has conducted surveys into the sorts of behaviour people associate with lying. He has interviewed thousands of people from more than 60 countries, asking them to describe how they set about telling whether someone is lying. People’s answers are remarkably consistent. Almost everyone thinks liars tend to avert their gaze, nervously wave their hands around and shift about in their seats. There is, however, one small problem. Researchers have spent hour upon hour carefully comparing films of liars and truth-tellers. The results are clear. Liars do not necessarily look away from you; they do not appear nervous and move their hands around or shift about in their seats. People fail to detect lies because they are basing their opinions on behaviours that are not actually associated with deception."
+      },
+      {
+        "label": "E",
+        "content": "So what are we missing? It is obvious that the more information you give away, the greater the chances of some of it coming back to haunt you. As a result, liars tend to say less and provide fewer details than truth-tellers. Looking back at the transcripts of the interviews with the presenter, his lie about Gone with the Wind contained about 40 words, whereas the truth about Some Like It Hot was nearly twice as long. People who lie also try psychologically to keep a distance from their falsehoods, and so tend to include fewer references to themselves in their stories. In his entire interview about Gone with the Wind, the presenter only once mentioned how the film made him feel, compared with the several references to his feelings when he talked about Some Like It Hot."
+      },
+      {
+        "label": "F",
+        "content": "The simple fact is that the real clues to deceit are in the words that people use, not the body language. So do people become better lie detectors when they listen to a liar, or even just read a transcript of their comments? The interviews with the presenter were also broadcast on radio and published in a newspaper, and although the lie-detecting abilities of the television viewers were no better than chance, the newspaper readers were correct 64% of the time, and the radio listeners scored an impressive 73% accuracy rate."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for each paragraph from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Some of the things liars really do"
+              },
+              {
+                "label": "ii",
+                "text": "When do we begin to lie?"
+              },
+              {
+                "label": "iii",
+                "text": "How wrong is it to lie?"
+              },
+              {
+                "label": "iv",
+                "text": "Exposing some false beliefs"
+              },
+              {
+                "label": "v",
+                "text": "Which form of communication best exposes a lie?"
+              },
+              {
+                "label": "vi",
+                "text": "Do only humans lie?"
+              },
+              {
+                "label": "vii",
+                "text": "Dealing with known liars"
+              },
+              {
+                "label": "viii",
+                "text": "A public test of our ability to spot a lie"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Some of the things liars really do"
+              },
+              {
+                "label": "ii",
+                "text": "When do we begin to lie?"
+              },
+              {
+                "label": "iii",
+                "text": "How wrong is it to lie?"
+              },
+              {
+                "label": "iv",
+                "text": "Exposing some false beliefs"
+              },
+              {
+                "label": "v",
+                "text": "Which form of communication best exposes a lie?"
+              },
+              {
+                "label": "vi",
+                "text": "Do only humans lie?"
+              },
+              {
+                "label": "vii",
+                "text": "Dealing with known liars"
+              },
+              {
+                "label": "viii",
+                "text": "A public test of our ability to spot a lie"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Some of the things liars really do"
+              },
+              {
+                "label": "ii",
+                "text": "When do we begin to lie?"
+              },
+              {
+                "label": "iii",
+                "text": "How wrong is it to lie?"
+              },
+              {
+                "label": "iv",
+                "text": "Exposing some false beliefs"
+              },
+              {
+                "label": "v",
+                "text": "Which form of communication best exposes a lie?"
+              },
+              {
+                "label": "vi",
+                "text": "Do only humans lie?"
+              },
+              {
+                "label": "vii",
+                "text": "Dealing with known liars"
+              },
+              {
+                "label": "viii",
+                "text": "A public test of our ability to spot a lie"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Some of the things liars really do"
+              },
+              {
+                "label": "ii",
+                "text": "When do we begin to lie?"
+              },
+              {
+                "label": "iii",
+                "text": "How wrong is it to lie?"
+              },
+              {
+                "label": "iv",
+                "text": "Exposing some false beliefs"
+              },
+              {
+                "label": "v",
+                "text": "Which form of communication best exposes a lie?"
+              },
+              {
+                "label": "vi",
+                "text": "Do only humans lie?"
+              },
+              {
+                "label": "vii",
+                "text": "Dealing with known liars"
+              },
+              {
+                "label": "viii",
+                "text": "A public test of our ability to spot a lie"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Some of the things liars really do"
+              },
+              {
+                "label": "ii",
+                "text": "When do we begin to lie?"
+              },
+              {
+                "label": "iii",
+                "text": "How wrong is it to lie?"
+              },
+              {
+                "label": "iv",
+                "text": "Exposing some false beliefs"
+              },
+              {
+                "label": "v",
+                "text": "Which form of communication best exposes a lie?"
+              },
+              {
+                "label": "vi",
+                "text": "Do only humans lie?"
+              },
+              {
+                "label": "vii",
+                "text": "Dealing with known liars"
+              },
+              {
+                "label": "viii",
+                "text": "A public test of our ability to spot a lie"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "Some of the things liars really do"
+              },
+              {
+                "label": "ii",
+                "text": "When do we begin to lie?"
+              },
+              {
+                "label": "iii",
+                "text": "How wrong is it to lie?"
+              },
+              {
+                "label": "iv",
+                "text": "Exposing some false beliefs"
+              },
+              {
+                "label": "v",
+                "text": "Which form of communication best exposes a lie?"
+              },
+              {
+                "label": "vi",
+                "text": "Do only humans lie?"
+              },
+              {
+                "label": "vii",
+                "text": "Dealing with known liars"
+              },
+              {
+                "label": "viii",
+                "text": "A public test of our ability to spot a lie"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following statements and the list of experiments below. Match each statement with the correct experiment, A-C.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Someone who was innocent was blamed for something.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the gorilla experiment"
+              },
+              {
+                "label": "B",
+                "text": "the experiment with children"
+              },
+              {
+                "label": "C",
+                "text": "the TV experiment"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Those involved knew they were being filmed.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the gorilla experiment"
+              },
+              {
+                "label": "B",
+                "text": "the experiment with children"
+              },
+              {
+                "label": "C",
+                "text": "the TV experiment"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Some objects were damaged.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the gorilla experiment"
+              },
+              {
+                "label": "B",
+                "text": "the experiment with children"
+              },
+              {
+                "label": "C",
+                "text": "the TV experiment"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Some instructions were ignored.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the gorilla experiment"
+              },
+              {
+                "label": "B",
+                "text": "the experiment with children"
+              },
+              {
+                "label": "C",
+                "text": "the TV experiment"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Choose ONE WORD ONLY from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Filming liars has shown that they do not display 11..................... behaviour.",
+            "answer": "nervous",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Liars tend to avoid talking about their own 12....................",
+            "answer": "feelings",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Signs of lying are exposed in people’s 13..................... rather than their movements.",
+            "answer": "words",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:05:29.369648"
+}

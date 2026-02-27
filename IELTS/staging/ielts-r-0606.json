@@ -1,0 +1,229 @@
+{
+  "id": "ielts-r-0606",
+  "slug": "volatility-kills",
+  "title": "Volatility Kills",
+  "page_range": [
+    3064,
+    3068
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "TRUE",
+    "2": "C",
+    "9": "NOT GIVEN",
+    "3": "B",
+    "10": "THE NEXT CRASH",
+    "4": "B",
+    "11": "A COMMODITIES BOOM",
+    "12": "NECESSARY",
+    "5": "TRUE INFRASTRUCTURE",
+    "6": "NOT",
+    "13": "GROWTH GIVEN ACCELERATING",
+    "7": "FALSE"
+  },
+  "content": {
+    "title": "Volatility Kills",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Despite gun battles in the capital of Chad, rioting in Kenya, and galloping inflation in Zimbabwe, the economies of sub-Saharan Africa are, as a whole, in better shape than they were a few years ago. The World Bank has reported recently that this part of the continent experienced a respectable growth rate of 5.6 percent in 2006 and a higher rate from 1995 to 2005 than in previous decades. The bank has given a cautious assessment that the region may have reached a turning point. An overriding question for developmental economists remains whether the upswing will continue so Africans can grow their way out of poverty that relegates some 40 percent of the nearly 744 million in that region to living on less than a dollar a day. The optimism, when inspected more closely, may be short-lived because of the persistence of a devastating pattern of economic volatility that has lingered for decades."
+      },
+      {
+        "label": "B",
+        "content": "“In reality, African countries grow as fast as Asian countries and other developing countries during the good times, but afterward they see growth collapses,” comments Jorge Arbache, a senior World Bank economist. “How to prevent collapses may be as important as promoting growth.” If these collapses had not occurred, he observes, the level of gross domestic product for each citizen of the 48 nations of sub-Saharan Africa would have been a third higher."
+      },
+      {
+        "label": "C",
+        "content": "The prerequisites to prevent the next crash are not in place, according to a World Bank study issued in January, Is Africa’s Recent Growth Robust? The growth period that began in 1995, driven by a commodities boom spurred in particular by demand from China, may not be sustainable, because the economic fundamentals—new investment and the ability to stave off inflation, among other factors—are absent. The region lacks the necessary infrastructure that would encourage investors to look to Africa to find the next Bengaluru (Bangalore) or Shenzhen, a November report from the bank concludes. For sub-Saharan countries rich in oil and other resources, a boom period may even undermine efforts to institute sound economic practices. From 1996 to 2005, with growth accelerating, measures of governance—factors such as political stability, rule of law, and control of corruption—actually worsened, especially for countries endowed with abundant mineral resources, the January report notes."
+      },
+      {
+        "label": "D",
+        "content": "Perhaps the most incisive analysis of the volatility question comes from Paul Collier, a longtime specialist in African economics at the University of Oxford and author of the recent book The Bottom Billion. He advocates a range of options that the U.S. and other nations could adopt when formulating policy toward African countries. They include revamped trade measures, better-apportioned aid, and sustained military intervention in certain instances, to avert what he sees as a rapidly accelerating divergence of the world’s poorest, primarily in Africa, from the rest of the world, even other developing nations such as India and China."
+      },
+      {
+        "label": "E",
+        "content": "Collier finds that bad governance is the main reason countries fail to take advantage of the revenue bonanza that results from a boom. Moreover, a democratic government, he adds, often makes the aftermath of a boom worse. “Instead of democracy disciplining governments to manage these resource booms well, what happens is that the resource revenues corrupt the normal functioning of democracy—unless you stop (them from) corrupting the normal function of democracy with sufficient checks and balances,” he said at a talk in January at the Carnegie Council in New York City."
+      },
+      {
+        "label": "F",
+        "content": "Collier advocates that African nations institute an array of standards and codes to bolster governments, one of which would substitute auctions for bribes in apportioning mineral rights and another of which would tax export revenues adequately. He cites the Democratic Republic of the Congo, which took in $200 million from mineral exports in 2006 yet collected only $86,000 in royalties for its treasury. “If a nation gets these points right,” he argues, “it’s going to develop. If it gets them wrong, it won’t.”"
+      },
+      {
+        "label": "G",
+        "content": "To encourage reform, Collier recommends that the G8 nations agree to accept these measures as voluntary guidelines for multinationals doing business in Africa—companies, for instance, would only enter new contracts through auctions monitored by an international verification group. Such an agreement would follow the examples of the so-called Kimberley Process, which has effectively undercut the trade in blood diamonds, and the Extractive Industries Transparency Initiative, in which a government must report to its citizens the revenues it receives from sales of natural resources."
+      },
+      {
+        "label": "H",
+        "content": "These measures, he says, are more important than elevating aid levels, an approach emphasized by economist Jeffrey D. Sachs of Columbia University and celebrity activists such as Bono. Collier insists that first Angola receives tens of billions of dollars in oil revenue and whether it gets a few hundred million more or less in aid is really second-order."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the people (listed A-C) with opinions or deeds below. Write the appropriate letters A-C in boxes 1-4 on your answer sheet. NB you may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "An unexpectedly opposite result",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Estimated more productive outcomes if it were not for sudden economic downturns",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "A proposal for a range of recommended instructions for certain countries to narrow the widening economic gap",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "An advocate for a method used for a specific assessment",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 5-9 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "The instability in an economy in some African countries might negatively impact their continuing growth after a certain level has been reached.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The instability in an economy in some African countries might negatively impact their continuing growth after a certain level has been reached."
+              },
+              {
+                "label": "FALSE",
+                "text": "The instability in an economy in some African countries does not impact their continuing growth after a certain level has been reached."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Collier is the most influential scholar in the study of the volatility problem.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Collier is the most influential scholar in the study of the volatility problem."
+              },
+              {
+                "label": "FALSE",
+                "text": "Collier is not the most influential scholar in the study of the volatility problem."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Certain African governments levy considerable taxes on people profiting greatly from exportation.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Certain African governments levy considerable taxes on people profiting greatly from exportation."
+              },
+              {
+                "label": "FALSE",
+                "text": "Certain African governments do not levy considerable taxes on people profiting greatly from exportation."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Some African nation’s decisions on addressing specific existing problems are directly related to the future of their economic trends.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Some African nation’s decisions on addressing specific existing problems are directly related to the future of their economic trends."
+              },
+              {
+                "label": "FALSE",
+                "text": "Some African nation’s decisions on addressing specific existing problems are not directly related to the future of their economic trends."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Collier regards Jeffrey D. Sachs recommended a way of evaluating of title importance.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Collier regards Jeffrey D. Sachs recommended a way of evaluating of title importance."
+              },
+              {
+                "label": "FALSE",
+                "text": "Collier does not regard Jeffrey D. Sachs recommended a way of evaluating of title importance."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage Volatility Kills using No More than Three words from the Reading Passage Volatility Kills for each answer.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "According to one research carried by the world bank, some countries in Africa may suffer from due to the lack of according preconditions.",
+            "answer": "THE NEXT CRASH",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "They experienced a growth stimulated",
+            "answer": "A COMMODITIES BOOM",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "But according to another study, they may not keep this trend stable because they have",
+            "answer": "NECESSARY INFRASTRUCTURE",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "To some countries with abundant resources, the fast-growth period might even mean something devastating to their endeavor. During one specific decade accompanied by",
+            "answer": "GROWTH ACCELERATING",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:07:36.542806"
+}

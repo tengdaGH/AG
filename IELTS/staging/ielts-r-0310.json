@@ -1,0 +1,251 @@
+{
+  "id": "ielts-r-0310",
+  "slug": "neuroaesthetics",
+  "title": "Neuroaesthetics",
+  "page_range": [
+    1571,
+    1576
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "NOT GIVEN",
+    "2": "D",
+    "9": "YES",
+    "3": "B",
+    "10": "NO",
+    "4": "A",
+    "11": "NO",
+    "5": "C",
+    "12": "YES",
+    "6": "B",
+    "13": "NOT GIVEN",
+    "7": "H",
+    "14": "A"
+  },
+  "content": {
+    "title": "Neuroaesthetics",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "An emerging discipline called neuroaesthetics is seeking to bring scientific objectivity to the study of art, and has already given us a better understanding of many masterpieces. The blurred imagery of Impressionist paintings seems to stimulate the brain's amygdala, for instance. Since the amygdala plays a crucial role in our feelings, that finding might explain why many people find these pieces so moving."
+      },
+      {
+        "content": "Could the same approach also shed light on abstract twentieth-century pieces, from Mondrian's geometrical blocks of colour, to Pollock's seemingly haphazard arrangements of splashed paint on canvas? Sceptics believe that people claim to like such works simply because they are famous. We certainly do have an inclination to follow the crowd. When asked to make simple perceptual decisions such as matching a shape to its rotated image, for example, people often choose a definitively wrong answer if they see others doing the same. It is easy to imagine that this mentality would have even more impact on a fuzzy concept like art appreciation, where there is no right or wrong answer."
+      },
+      {
+        "content": "Angelina Hawley-Dolan, of Boston College, Massachusetts, responded to this debate by asking volunteers to view pairs of paintings - either the creations of famous abstract artists or the doodles of infants, chimps and elephants. They then had to judge which they preferred. A third of the paintings were given no captions, while many were labelled incorrectly - volunteers might think they were viewing a chimp's messy brushstrokes when they were actually seeing an acclaimed masterpiece. In each set of trials, volunteers generally preferred the work of renowned artists, even when they believed it was by an animal or a child. It seems that the viewer can sense the artist's vision in paintings, even if they can't explain why."
+      },
+      {
+        "content": "Robert Pepperell, an artist based at Cardiff University, creates ambiguous works that are neither entirely abstract nor clearly representational. In one study, Pepperell and his collaborators asked volunteers to decide how 'powerful' they considered an artwork to be, and whether they saw anything familiar in the piece. The longer they took to answer these questions, the more highly they rated the piece under scrutiny, and the greater their neural activity. It would seem that the brain sees these images as puzzles, and the harder it is to decipher the meaning, the more rewarding is the moment of recognition."
+      },
+      {
+        "content": "And what about artists such as Mondrian, whose paintings consist exclusively of horizontal and vertical lines encasing blocks of colour? Mondrian's works are deceptively simple, but eye-tracking studies confirm that they are meticulously composed, and that simply rotating a piece dramatically changes the way we view it. With the originals, volunteers' eyes tended to stay longer on certain places in the image, but with the altered versions they would flit across a piece more rapidly. As a result, the volunteers considered the altered versions less pleasurable when they later rated the work."
+      },
+      {
+        "content": "In a similar study, Oshin Vartanian of Toronto University asked volunteers to compare original paintings with ones which he had altered by moving objects around within the frame. He found that almost everyone preferred the original, whether it was a Van Gogh still life or an abstract by Miro. Vartanian also found that changing the composition of the paintings reduced activation in those brain areas linked with meaning and interpretation."
+      },
+      {
+        "content": "In another experiment, Alex Forsythe of the University of Liverpool analysed the visual intricacy of different pieces of art, and her results suggest that many artists use a key level of detail to please the brain. Too little and the work is boring, but too much results in a kind of 'perceptual overload', according to Forsythe. What's more, appealing pieces both abstract and representational, show signs of 'fractals' - repeated motifs recurring in different scales, fractals are common throughout nature, for example in the shapes of mountain peaks or the branches of trees. It is possible that our visual system, which evolved in the great outdoors, finds it easier to process such patterns."
+      },
+      {
+        "content": "It is also intriguing that the brain appears to process movement when we see a handwritten letter, as if we are replaying the writer's moment of creation. This has led some to wonder whether Pollock's works feel so dynamic because the brain reconstructs the energetic actions the artist used as he painted. This may be down to our brain's 'mirror neurons', which are known to mimic others' actions. The hypothesis will need to be thoroughly tested, however. It might even be the case that we could use neuroaesthetic studies to understand the longevity of some pieces of artwork. While the fashions of the time might shape what is currently popular, works that are best adapted to our visual system may be the most likely to linger once the trends of previous generations have been forgotten."
+      },
+      {
+        "content": "It's still early days for the field of neuroaesthetics - and these studies are probably only a taste of what is to come. It would, however, be foolish to reduce art appreciation to a set of scientific laws. We shouldn't underestimate the importance of the style of a particular artist, their place in history and the artistic environment of their time. Abstract art offers both a challenge and the freedom to play with different interpretations. In some ways, it's not so different to science, where we are constantly looking for systems and decoding meaning so that we can view and appreciate the world in a new way."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "In the second paragraph, the writer refers to a shape-matching test in order to illustrate",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the subjective nature of art appreciation."
+              },
+              {
+                "label": "B",
+                "text": "the reliance of modern art on abstract forms."
+              },
+              {
+                "label": "C",
+                "text": "our tendency to be influenced by the opinions of others."
+              },
+              {
+                "label": "D",
+                "text": "a common problem encountered when processing visual data."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Angelina Hawley-Dolan’s findings indicate that people",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "mostly favour works of art which they know well."
+              },
+              {
+                "label": "B",
+                "text": "hold fixed ideas about what makes a good work of art."
+              },
+              {
+                "label": "C",
+                "text": "are often misled by their initial expectations of a work of art."
+              },
+              {
+                "label": "D",
+                "text": "have the ability to perceive the intention behind works of art."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Results of studies involving Robert Pepperell’s pieces suggest that people",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "can appreciate a painting without fully understanding it."
+              },
+              {
+                "label": "B",
+                "text": "find it satisfying to work out what a painting represents."
+              },
+              {
+                "label": "C",
+                "text": "vary widely in the time they spend looking at paintings."
+              },
+              {
+                "label": "D",
+                "text": "generally prefer representational art to abstract art."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What do the experiments described in the fifth paragraph suggest about the paintings of Mondrian?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "They are more carefully put together than they appear."
+              },
+              {
+                "label": "B",
+                "text": "They can be interpreted in a number of different ways."
+              },
+              {
+                "label": "C",
+                "text": "They challenge our assumptions about shape and colour."
+              },
+              {
+                "label": "D",
+                "text": "They are easier to appreciate than many other abstract works."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "What would be the most appropriate subtitle for the article?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Some scientific insights into how the brain responds to abstract art"
+              },
+              {
+                "label": "B",
+                "text": "Recent studies focusing on the neural activity of abstract artists"
+              },
+              {
+                "label": "C",
+                "text": "A comparison of the neurological bases of abstract and representational art"
+              },
+              {
+                "label": "D",
+                "text": "How brain research has altered public opinion about abstract art"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words, A-H, below.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Neurological studies of the brain, for example, demonstrate the impact which Impressionist paintings have on our",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Alex Forsythe of the University of Liverpool believes many artists give their works the precise degree of",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "She also observes that pleasing works of art often contain certain repeated",
+            "answer": "H",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Forsythe’s findings contradicted previous beliefs on the function of 'fractals' in art.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Certain ideas regarding the link between 'mirror neurons' and art appreciation require further verification.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "People’s taste in paintings depends entirely on the current artistic trends of the period.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Scientists should seek to define the precise rules which govern people’s reactions to works of art.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Art appreciation should always involve taking into consideration the cultural context in which an artist worked.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "It is easier to find meaning in the field of science than in that of art.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:54:01.455753"
+}

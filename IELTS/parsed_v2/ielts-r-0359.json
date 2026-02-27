@@ -1,0 +1,546 @@
+{
+  "id": "ielts-r-0359",
+  "slug": "reading-practice-test-8",
+  "title": "Reading practice test 8",
+  "page_range": [
+    1827,
+    1831
+  ],
+  "raw_answer_key": {
+    "1": "F",
+    "8": "C",
+    "2": "D",
+    "9": "E",
+    "3": "B",
+    "10": "G",
+    "4": "E",
+    "11": "A",
+    "5": "C",
+    "12": "H",
+    "6": "I",
+    "13": "F",
+    "7": "K"
+  },
+  "content": {
+    "title": "The Irish Potato Famine",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In the ten years following the Irish potato famine of 1845, over 750,000 Irish people died, including many of those who attempted to immigrate to countries such as the United States and Canada. Prior to the potato blight, one of the main concerns in Ireland was overpopulation. In the early 1500s, the country’s population was estimated at less than three million, but by 1840 this number had nearly tripled. The bountiful potato crop, which contains almost all of the nutrients that a person needs for survival, was largely to blame for the population growth. However, within five years of the failed crop of 1845, the population of Ireland was reduced by a quarter. A number of factors contributed to the plummet of the Irish population, namely the Irish dependency on the potato crop, the British tenure system, and the inadequate relief efforts of the English."
+      },
+      {
+        "label": "B",
+        "content": "It is not known exactly how or when the potato was first introduced to Europe, however, the general assumption is that it arrived on a Spanish ship sometime in the 1600s. For more than one hundred years, Europeans believed that potatoes belonged to a botanical family of a poisonous breed. It was not until Marie Antoinette wore potato blossoms in her hair in the mid-eighteenth century that potatoes became a novelty. By the late 1700s, the dietary value of the potato had been discovered, and the monarchs of Europe ordered the vegetable to be widely planted."
+      },
+      {
+        "label": "C",
+        "content": "By 1800, the vast majority of the Irish population had become dependent on the potato as its primary staple. It wasn’t uncommon for an Irish potato farmer to consume more than six pounds of potatoes a day. Families stored potatoes for the winter and even fed potatoes to their livestock. Because of this dependency, the unexpected potato blight of 1845 devastated the Irish. Investigators at first suggested that the blight was caused by static energy, smoke from railroad trains, or vapors from underground volcanoes; however, the root cause was later discovered as an airborne fungus that traveled from Mexico. Not only did the disease destroy the potato crops, it also infected all of the potatoes in storage at the time. Their families were dying from famine, but weakened farmers had retained little of their agricultural skills to harvest other crops. Those who did manage to grow things such as oats, wheat, and barley relied on earnings from these exported crops to keep their rented homes."
+      },
+      {
+        "label": "D",
+        "content": "While the potato blight generated mass starvation among the Irish, the people were held captive to their poverty by the British tenure system. Following the Napoleonic Wars of 1815, the English had turned their focus to their colonial land holdings. British landowners realized that the best way to profit from these holdings was to extract the resources and exports and charge expensive rents and taxes for people to live on the land. Under the tenure system, Protestant landlords owned 95 percent of the Irish land, which was divided up into five-acre plots for the people to live and farm on. As the population of Ireland grew, however, the plots were continuously subdivided into smaller parcels. Living conditions declined dramatically, and families were forced to move to less fertile land where almost nothing but the potato would grow."
+      },
+      {
+        "label": "E",
+        "content": "During this same period of colonization, the Penal Laws were also instituted as a means of weakening the Irish spirit. Under the Penal Laws, Irish peasants were denied basic human rights, such as the right to speak their own native language, seek certain kinds of employment, practice their faith, receive education, and own land. Despite the famine that was devastating Ireland, the landlords had little compassion or sympathy for tenants unable to pay their rent. Approximately 500,000 Irish tenants were evicted by their landlords between 1845 and 1847. Many of these people also had their homes burned down and were put in jail for overdue rent."
+      },
+      {
+        "label": "F",
+        "content": "The majority of the British officials in the 1840s adopted the laissez-faire philosophy, which supported a policy of nonintervention in the Irish plight. Prime Minister Sir Robert Peel was an exception. He showed compassion toward the Irish by making a move to repeal the Corn Laws, which had been put in place to protect British grain producers from the competition of foreign markets. For this hasty decision, Peel quickly lost the support of the British people and was forced to resign. The new Prime Minister, Lord John Russell, allowed assistant Charles Trevelyan to take complete control over all of the relief efforts in Ireland. Trevelyan believed that the Irish situation should be left to Providence. Claiming that it would be dangerous to let the Irish become dependent on other countries, he even took steps to close food depots that were selling corn and to redirect shipments of corn that were already on their way to Ireland. A few relief programs were eventually implemented, such as soup kitchens and workhouses; however, these were poorly run institutions that facilitated the spread of disease, tore apart families, and offered inadequate food supplies considering the extent of Ireland’s shortages."
+      },
+      {
+        "label": "G",
+        "content": "Many of the effects of the Irish potato famine are still evident today. Descendants of those who fled Ireland during the 1840s are dispersed all over the world. Some of the homes that were evacuated by absentee landlords still sit abandoned in the Irish hills. A number of Irish dependents still carry animosity toward the British for not putting people before politics. The potato blight itself still plagues the Irish people during certain growing seasons when weather conditions are favorable for the fungus to thrive."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The passage has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter in boxes 1-5 on your Answer Sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "the position of the British government towards the potato famine",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "a description of the system of land ownership in Ireland",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "early European attitudes toward the potato",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "explanation of the lack of legal protection for Irish peasants",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "the importance of the potato in Irish society",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending, A-L from the box at the top of the next page. Write the correct letter in boxes 6-13 on your Answer Sheet. There are more endings than sentences, so you won't use them all.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "At first Europeans didn't eat potatoes",
+            "answer": "I",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they couldn’t pay the rent on their farms."
+              },
+              {
+                "label": "B",
+                "text": "because railroad trains caused air pollution."
+              },
+              {
+                "label": "C",
+                "text": "because potatoes were their main source of food."
+              },
+              {
+                "label": "D",
+                "text": "because Charles Trevelyan took over relief efforts."
+              },
+              {
+                "label": "E",
+                "text": "because they needed the profits to pay the rent."
+              },
+              {
+                "label": "F",
+                "text": "because there wasn’t enough land for the increasing population."
+              },
+              {
+                "label": "G",
+                "text": "because they weren’t well-managed."
+              },
+              {
+                "label": "H",
+                "text": "because his efforts to help the Irish were unpopular among the British."
+              },
+              {
+                "label": "I",
+                "text": "because they believed that potatoes were poisonous."
+              },
+              {
+                "label": "J",
+                "text": "because the British instituted penal laws."
+              },
+              {
+                "label": "K",
+                "text": "because it was discovered that potatoes are full of nutrients."
+              },
+              {
+                "label": "L",
+                "text": "because Marie Antoinette used potato blossoms as decoration."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "European monarchs encouraged potato growing",
+            "answer": "K",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they couldn’t pay the rent on their farms."
+              },
+              {
+                "label": "B",
+                "text": "because railroad trains caused air pollution."
+              },
+              {
+                "label": "C",
+                "text": "because potatoes were their main source of food."
+              },
+              {
+                "label": "D",
+                "text": "because Charles Trevelyan took over relief efforts."
+              },
+              {
+                "label": "E",
+                "text": "because they needed the profits to pay the rent."
+              },
+              {
+                "label": "F",
+                "text": "because there wasn’t enough land for the increasing population."
+              },
+              {
+                "label": "G",
+                "text": "because they weren’t well-managed."
+              },
+              {
+                "label": "H",
+                "text": "because his efforts to help the Irish were unpopular among the British."
+              },
+              {
+                "label": "I",
+                "text": "because they believed that potatoes were poisonous."
+              },
+              {
+                "label": "J",
+                "text": "because the British instituted penal laws."
+              },
+              {
+                "label": "K",
+                "text": "because it was discovered that potatoes are full of nutrients."
+              },
+              {
+                "label": "L",
+                "text": "because Marie Antoinette used potato blossoms as decoration."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The potato blight was devastating to the Irish",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they couldn’t pay the rent on their farms."
+              },
+              {
+                "label": "B",
+                "text": "because railroad trains caused air pollution."
+              },
+              {
+                "label": "C",
+                "text": "because potatoes were their main source of food."
+              },
+              {
+                "label": "D",
+                "text": "because Charles Trevelyan took over relief efforts."
+              },
+              {
+                "label": "E",
+                "text": "because they needed the profits to pay the rent."
+              },
+              {
+                "label": "F",
+                "text": "because there wasn’t enough land for the increasing population."
+              },
+              {
+                "label": "G",
+                "text": "because they weren’t well-managed."
+              },
+              {
+                "label": "H",
+                "text": "because his efforts to help the Irish were unpopular among the British."
+              },
+              {
+                "label": "I",
+                "text": "because they believed that potatoes were poisonous."
+              },
+              {
+                "label": "J",
+                "text": "because the British instituted penal laws."
+              },
+              {
+                "label": "K",
+                "text": "because it was discovered that potatoes are full of nutrients."
+              },
+              {
+                "label": "L",
+                "text": "because Marie Antoinette used potato blossoms as decoration."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Farmers who grew oats, wheat, and barley didn’t eat these crops",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they couldn’t pay the rent on their farms."
+              },
+              {
+                "label": "B",
+                "text": "because railroad trains caused air pollution."
+              },
+              {
+                "label": "C",
+                "text": "because potatoes were their main source of food."
+              },
+              {
+                "label": "D",
+                "text": "because Charles Trevelyan took over relief efforts."
+              },
+              {
+                "label": "E",
+                "text": "because they needed the profits to pay the rent."
+              },
+              {
+                "label": "F",
+                "text": "because there wasn’t enough land for the increasing population."
+              },
+              {
+                "label": "G",
+                "text": "because they weren’t well-managed."
+              },
+              {
+                "label": "H",
+                "text": "because his efforts to help the Irish were unpopular among the British."
+              },
+              {
+                "label": "I",
+                "text": "because they believed that potatoes were poisonous."
+              },
+              {
+                "label": "J",
+                "text": "because the British instituted penal laws."
+              },
+              {
+                "label": "K",
+                "text": "because it was discovered that potatoes are full of nutrients."
+              },
+              {
+                "label": "L",
+                "text": "because Marie Antoinette used potato blossoms as decoration."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Many Irish farmers lived on infertile plots",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they couldn’t pay the rent on their farms."
+              },
+              {
+                "label": "B",
+                "text": "because railroad trains caused air pollution."
+              },
+              {
+                "label": "C",
+                "text": "because potatoes were their main source of food."
+              },
+              {
+                "label": "D",
+                "text": "because Charles Trevelyan took over relief efforts."
+              },
+              {
+                "label": "E",
+                "text": "because they needed the profits to pay the rent."
+              },
+              {
+                "label": "F",
+                "text": "because there wasn’t enough land for the increasing population."
+              },
+              {
+                "label": "G",
+                "text": "because they weren’t well-managed."
+              },
+              {
+                "label": "H",
+                "text": "because his efforts to help the Irish were unpopular among the British."
+              },
+              {
+                "label": "I",
+                "text": "because they believed that potatoes were poisonous."
+              },
+              {
+                "label": "J",
+                "text": "because the British instituted penal laws."
+              },
+              {
+                "label": "K",
+                "text": "because it was discovered that potatoes are full of nutrients."
+              },
+              {
+                "label": "L",
+                "text": "because Marie Antoinette used potato blossoms as decoration."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Many Irish farmers were arrested",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they couldn’t pay the rent on their farms."
+              },
+              {
+                "label": "B",
+                "text": "because railroad trains caused air pollution."
+              },
+              {
+                "label": "C",
+                "text": "because potatoes were their main source of food."
+              },
+              {
+                "label": "D",
+                "text": "because Charles Trevelyan took over relief efforts."
+              },
+              {
+                "label": "E",
+                "text": "because they needed the profits to pay the rent."
+              },
+              {
+                "label": "F",
+                "text": "because there wasn’t enough land for the increasing population."
+              },
+              {
+                "label": "G",
+                "text": "because they weren’t well-managed."
+              },
+              {
+                "label": "H",
+                "text": "because his efforts to help the Irish were unpopular among the British."
+              },
+              {
+                "label": "I",
+                "text": "because they believed that potatoes were poisonous."
+              },
+              {
+                "label": "J",
+                "text": "because the British instituted penal laws."
+              },
+              {
+                "label": "K",
+                "text": "because it was discovered that potatoes are full of nutrients."
+              },
+              {
+                "label": "L",
+                "text": "because Marie Antoinette used potato blossoms as decoration."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Sir Robert Peel lost his position as prime minister",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they couldn’t pay the rent on their farms."
+              },
+              {
+                "label": "B",
+                "text": "because railroad trains caused air pollution."
+              },
+              {
+                "label": "C",
+                "text": "because potatoes were their main source of food."
+              },
+              {
+                "label": "D",
+                "text": "because Charles Trevelyan took over relief efforts."
+              },
+              {
+                "label": "E",
+                "text": "because they needed the profits to pay the rent."
+              },
+              {
+                "label": "F",
+                "text": "because there wasn’t enough land for the increasing population."
+              },
+              {
+                "label": "G",
+                "text": "because they weren’t well-managed."
+              },
+              {
+                "label": "H",
+                "text": "because his efforts to help the Irish were unpopular among the British."
+              },
+              {
+                "label": "I",
+                "text": "because they believed that potatoes were poisonous."
+              },
+              {
+                "label": "J",
+                "text": "because the British instituted penal laws."
+              },
+              {
+                "label": "K",
+                "text": "because it was discovered that potatoes are full of nutrients."
+              },
+              {
+                "label": "L",
+                "text": "because Marie Antoinette used potato blossoms as decoration."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Soup kitchens and workhouses didn’t relieve the suffering",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they couldn’t pay the rent on their farms."
+              },
+              {
+                "label": "B",
+                "text": "because railroad trains caused air pollution."
+              },
+              {
+                "label": "C",
+                "text": "because potatoes were their main source of food."
+              },
+              {
+                "label": "D",
+                "text": "because Charles Trevelyan took over relief efforts."
+              },
+              {
+                "label": "E",
+                "text": "because they needed the profits to pay the rent."
+              },
+              {
+                "label": "F",
+                "text": "because they weren’t well-managed."
+              },
+              {
+                "label": "G",
+                "text": "because there wasn’t enough land for the increasing population."
+              },
+              {
+                "label": "H",
+                "text": "because his efforts to help the Irish were unpopular among the British."
+              },
+              {
+                "label": "I",
+                "text": "because they believed that potatoes were poisonous."
+              },
+              {
+                "label": "J",
+                "text": "because the British instituted penal laws."
+              },
+              {
+                "label": "K",
+                "text": "because it was discovered that potatoes are full of nutrients."
+              },
+              {
+                "label": "L",
+                "text": "because Marie Antoinette used potato blossoms as decoration."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T15:59:02.962306"
+}

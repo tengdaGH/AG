@@ -1,0 +1,460 @@
+{
+  "id": "ielts-r-0569",
+  "slug": "the-vikings-wayfaring-way",
+  "title": "The vikings wayfaring way",
+  "page_range": [
+    2883,
+    2887
+  ],
+  "raw_answer_key": {
+    "1": "obscure",
+    "8": "E",
+    "2": "793",
+    "9": "A",
+    "3": "Northwest Africa",
+    "10": "G",
+    "4": "local populations",
+    "11": "B",
+    "5": "religious",
+    "12": "C",
+    "6": "F",
+    "13": "H",
+    "7": "D",
+    "14": "D"
+  },
+  "content": {
+    "title": "The Vikings' Wayfaring Way",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "In the last century, Vikings have been perceived in numerous different ways – vilified as conquerors and romanticised as adventurers. How Vikings have been employed in nation-building is a topic of some interest. In English, Vikings are also known as Norse or Norsemen. Their language greatly influenced English, with the nouns, ‘Hell’, ‘husband’, ‘law’, and ‘window’, and the verbs, ‘blunder’, ‘snub’, ‘take’, and ‘want’, all coming from Old Norse. However, the origins of the word ‘Viking’, itself, are obscure: it may mean ‘a Scandinavian pirate’, or it may refer to ‘an inlet’, or a place called Vik, in modern-day Norway, from where the pirates came. These various names – Vikings, Norse, or Norsemen, and doubts about the very word ‘Viking’ suggest historical confusion."
+      },
+      {
+        "content": "Loosely speaking, the Viking Age endured from the late eighth to the mid-eleventh centuries. Vikings sailed to England in AD 793 to storm coastal monasteries, and subsequently, large swathes of England fell under Viking rule – indeed several Viking kings sat on the English throne. It is generally agreed that the Battle of Hastings, in 1066, when the Norman French invaded, marks the end of the English Viking Age, but the Irish Viking age ended earlier, while Viking colonies in Iceland and Greenland did not dissolve until around AD 1500."
+      },
+      {
+        "content": "How much territory Vikings controlled is also in dispute – Scandinavia and Western Europe certainly, but their reach east and south is uncertain. They plundered and settled down the Volga and Dnieper rivers, and traded with modern-day Istanbul, but the archaeological record has yet to verify that Vikings raided as far away as Northwest Africa, as some writers claim."
+      },
+      {
+        "content": "The issue of control and extent is complex because many Vikings did not return to Scandinavia after raiding but assimilated into local populations, often becoming Christian. To some degree, the Viking Age is defined by religion. Initially, Vikings were polytheists, believing in many gods, but by the end of the age, they had permanently accepted a new monotheistic religious system – Christianity."
+      },
+      {
+        "content": "This transition from so-called pagan plunderers to civilised Christians is significant and is the view promulgated throughout much of recent history. In the UK, in the 1970s for example, schoolchildren were taught that until the Vikings accepted Christianity they were nasty heathens who rampaged throughout Britain. By contrast, today’s children can visit museums where Vikings are celebrated as merchants, pastoralists, and artists with a unique worldview as well as conquerors."
+      },
+      {
+        "content": "What are some other interpretations of Vikings? In the nineteenth century, historians in Denmark, Norway, and Sweden constructed their own Viking ages for nationalistic reasons. At that time, all three countries were in crisis. Denmark had been beaten in war and ceded territory to what is now Germany. Norway had become independent from Sweden in 1905 but was economically vulnerable, so Norwegians sought to create a separate identity for themselves in the past as well as the present. The Norwegian historian, Gustav Storm, was adamant it was his forebears and not the Swedes’ or Danes’ who had colonised Iceland, Greenland, and Vinland, in what is now Canada. Sweden, meanwhile, had relinquished Norway to the Norwegians and Finland to the Russians; thus, in the late nineteenth century, Sweden was keen to boost its image with rich archaeological finds to show the glory of its Viking past."
+      },
+      {
+        "content": "In addition to augmenting nationalism, nineteenth-century thinkers were influenced by an Englishman, Herbert Spencer, who described peoples and cultures in evolutionary terms similar to those of Charles Darwin. Spencer coined the phrase ‘survival of the fittest’, which includes the notion that, over time, there is not only technological but also moral progress. Therefore, Viking heathens’ adoption of Christianity was considered an advantageous move. These days, historians do not compare cultures in the same way, especially since, in this case, the archaeological record seems to show that heathen Vikings and Christian Europeans were equally brutal."
+      },
+      {
+        "content": "Views of Vikings change according to not only to forces affecting historians at the time of their research but also according to the materials they read. Since much knowledge of Vikings comes from literature composed up to 300 years after the events they chronicle, some Danish historians call these sources ‘mere legends’."
+      },
+      {
+        "content": "Vikings did have a written language carved on large stones, but as few of these survive today, the most reliable contemporary sources on Vikings come from writers from other cultures, like the ninth-century Persian geographer, Ibn Khordadbeh."
+      },
+      {
+        "content": "In the last four decades, there have been wildly varying interpretations of the Viking influence in Russia. Most non-Russian scholars believe the Vikings created a kingdom in western Russia and modern-day Ukraine led by a man called Rurik. After AD 862, Rurik’s descendants continued to rule. There is considerable evidence of this colonisation: in Sweden, carved stones, still standing, describe the conquerors’ journeys; both Russian and Ukrainian have loan words from Old Norse; and, Scandinavian first names, like Igor and Olga, are still popular. However, during the Soviet period, there was an emphasis on the Slavic origins of most Russians. (Appearing in the historical record around the sixth century AD, the Slavs are thought to have originated in Eastern Europe.) This Slavic identity was promoted to contrast with that of the neighbouring Viking Swedes, who were enemies during the Cold War."
+      },
+      {
+        "content": "These days, many Russians consider themselves hybrids. Indeed recent genetic studies support a Norse-colonisation theory: western Russian DNA is consistent with that of the inhabitants of a region north of Stockholm in Sweden."
+      },
+      {
+        "content": "The tools available to modern historians are many and varied, and their findings may seem less open to debate. There are linguistics, numismatics, dendrochronology, archaeozoology, palaeobotany, ice crystallography, climate and DNA analysis to add to the translation of runes and the raising of mighty warships. Despite these, historians remain children of their times."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the notes below. Write NO MORE THAN TWO WORDS OR A NUMBER for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Word ‘Viking’ is ________.....",
+            "answer": "obscure",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "In Britain: AD ________.....-1066",
+            "answer": "793",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Possibly raided as far away as .............",
+            "answer": "Northwest Africa",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Vikings had assimilated into .............,",
+            "answer": "local populations",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "adopted a new ............. system.",
+            "answer": "religious",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Look at the following statements and the list of times and places below. Match each statement with the correct place or time: A-H.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "A geographer documents Viking culture as it happens.",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the UK today"
+              },
+              {
+                "label": "B",
+                "text": "In 19th-century Norway"
+              },
+              {
+                "label": "C",
+                "text": "In 19th-century Sweden"
+              },
+              {
+                "label": "D",
+                "text": "In 19th-century England"
+              },
+              {
+                "label": "E",
+                "text": "In Denmark today"
+              },
+              {
+                "label": "F",
+                "text": "In 9th-century Persia"
+              },
+              {
+                "label": "G",
+                "text": "In mid-20th century Soviet Union"
+              },
+              {
+                "label": "H",
+                "text": "In Russia today"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "A philosopher classifies cultures hierarchically.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the UK today"
+              },
+              {
+                "label": "B",
+                "text": "In 19th-century Norway"
+              },
+              {
+                "label": "C",
+                "text": "In 19th-century Sweden"
+              },
+              {
+                "label": "D",
+                "text": "In 19th-century England"
+              },
+              {
+                "label": "E",
+                "text": "In Denmark today"
+              },
+              {
+                "label": "F",
+                "text": "In 9th-century Persia"
+              },
+              {
+                "label": "G",
+                "text": "In mid-20th century Soviet Union"
+              },
+              {
+                "label": "H",
+                "text": "In Russia today"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Historians assert that Viking history is based more on legends than facts.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the UK today"
+              },
+              {
+                "label": "B",
+                "text": "In 19th-century Norway"
+              },
+              {
+                "label": "C",
+                "text": "In 19th-century Sweden"
+              },
+              {
+                "label": "D",
+                "text": "In 19th-century England"
+              },
+              {
+                "label": "E",
+                "text": "In Denmark today"
+              },
+              {
+                "label": "F",
+                "text": "In 9th-century Persia"
+              },
+              {
+                "label": "G",
+                "text": "In mid-20th century Soviet Union"
+              },
+              {
+                "label": "H",
+                "text": "In Russia today"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Young people learn about Viking cultural and economic activities.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the UK today"
+              },
+              {
+                "label": "B",
+                "text": "In 19th-century Norway"
+              },
+              {
+                "label": "C",
+                "text": "In 19th-century Sweden"
+              },
+              {
+                "label": "D",
+                "text": "In 19th-century England"
+              },
+              {
+                "label": "E",
+                "text": "In Denmark today"
+              },
+              {
+                "label": "F",
+                "text": "In 9th-century Persia"
+              },
+              {
+                "label": "G",
+                "text": "In mid-20th century Soviet Union"
+              },
+              {
+                "label": "H",
+                "text": "In Russia today"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "People see themselves as unrelated to Vikings.",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the UK today"
+              },
+              {
+                "label": "B",
+                "text": "In 19th-century Norway"
+              },
+              {
+                "label": "C",
+                "text": "In 19th-century Sweden"
+              },
+              {
+                "label": "D",
+                "text": "In 19th-century England"
+              },
+              {
+                "label": "E",
+                "text": "In Denmark today"
+              },
+              {
+                "label": "F",
+                "text": "In 9th-century Persia"
+              },
+              {
+                "label": "G",
+                "text": "In mid-20th century Soviet Union"
+              },
+              {
+                "label": "H",
+                "text": "In Russia today"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "An historian claims Viking colonists to modem-day Canada came from his land.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the UK today"
+              },
+              {
+                "label": "B",
+                "text": "In 19th-century Norway"
+              },
+              {
+                "label": "C",
+                "text": "In 19th-century Sweden"
+              },
+              {
+                "label": "D",
+                "text": "In 19th-century England"
+              },
+              {
+                "label": "E",
+                "text": "In Denmark today"
+              },
+              {
+                "label": "F",
+                "text": "In 9th-century Persia"
+              },
+              {
+                "label": "G",
+                "text": "In mid-20th century Soviet Union"
+              },
+              {
+                "label": "H",
+                "text": "In Russia today"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Viking conquests are exaggerated to bolster the country’s ego after a territorial loss.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the UK today"
+              },
+              {
+                "label": "B",
+                "text": "In 19th-century Norway"
+              },
+              {
+                "label": "C",
+                "text": "In 19th-century Sweden"
+              },
+              {
+                "label": "D",
+                "text": "In 19th-century England"
+              },
+              {
+                "label": "E",
+                "text": "In Denmark today"
+              },
+              {
+                "label": "F",
+                "text": "In 9th-century Persia"
+              },
+              {
+                "label": "G",
+                "text": "In mid-20th century Soviet Union"
+              },
+              {
+                "label": "H",
+                "text": "In Russia today"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "DNA tests show locals are closely related to Swedes.",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "In the UK today"
+              },
+              {
+                "label": "B",
+                "text": "In 19th-century Norway"
+              },
+              {
+                "label": "C",
+                "text": "In 19th-century Sweden"
+              },
+              {
+                "label": "D",
+                "text": "In 19th-century England"
+              },
+              {
+                "label": "E",
+                "text": "In Denmark today"
+              },
+              {
+                "label": "F",
+                "text": "In 9th-century Persia"
+              },
+              {
+                "label": "G",
+                "text": "In mid-20th century Soviet Union"
+              },
+              {
+                "label": "H",
+                "text": "In Russia today"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which might be a suitable title for passage?",
+        "questions": [
+          {
+            "number": 14,
+            "text": "Which might be a suitable title for passage?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "A brief history of Vikings"
+              },
+              {
+                "label": "B",
+                "text": "Recent Viking discoveries"
+              },
+              {
+                "label": "C",
+                "text": "A modem fascination with Vikings"
+              },
+              {
+                "label": "D",
+                "text": "Interpretations of Viking history"
+              },
+              {
+                "label": "E",
+                "text": "Viking history and nationalism"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:08:37.985718"
+}

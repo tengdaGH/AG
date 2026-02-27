@@ -1,0 +1,291 @@
+{
+  "id": "ielts-r-0648",
+  "slug": "worldly-wealth",
+  "title": "Worldly Wealth",
+  "page_range": [
+    3272,
+    3276
+  ],
+  "raw_answer_key": {
+    "1": "NOT GIVEN",
+    "8": "parks",
+    "2": "YES",
+    "9": "productivity",
+    "3": "NO",
+    "10": "protein",
+    "4": "YES",
+    "11": "DNA",
+    "5": "NOT GIVEN",
+    "12": "game",
+    "6": "YES",
+    "13": "A",
+    "7": "agriculture /",
+    "14": "D farms / farmland"
+  },
+  "content": {
+    "title": "Worldly Wealth",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Can the future population of the world enjoy a comfortable lifestyle, with possessions, space and mobility, without crippling the environment? The world's population is expected to stabilize at around nine billion. Will it be possible for nine billion people to have the lifestyle enjoyed today only by the wealthy? One school of thought says no: not only should the majority of the world's people resign themselves to poverty forever, but rich nations must also revert to simpler lifestyles in order to save the planet."
+      },
+      {
+        "label": null,
+        "content": "Admittedly, there may be political or social barriers to achieving a rich world. But in fact there seems to be no insuperable physical or ecological reason why nine billion people should not achieve a comfortable lifestyle, using technology only slightly more advanced than that which we now possess. In thinking about the future of civilization, we ought to start by asking what people want. The evidence demonstrates that as people get richer they want a greater range of personal technology, they want lots of room (preferably near or in natural surroundings) and they want greater speed in travel. More possessions, more space, more mobility."
+      },
+      {
+        "label": null,
+        "content": "In the developed world, the personal technologies of the wealthy, including telephones, washing machines and cars, have become necessities within a generation or two. Increasing productivity that results in decreasing costs for such goods has been responsible for the greatest gains in the standard of living, and there is every reason to believe that this will continue."
+      },
+      {
+        "label": null,
+        "content": "As affluence grows, the amount of energy and raw materials used for production of machinery will therefore escalate. But this need not mean an end to the machine age. Rather than being thrown away, materials from old machinery can be recycled by manufacturers. And long before all fossil fuels are exhausted, their rising prices may compel industrial society not only to become more energy efficient but also to find alternative energy sources sufficient for the demands of an advanced technological civilization - nuclear fission, nuclear fusion, solar energy, chemical photosynthesis, geothermal, biomass or some yet unknown source of energy."
+      },
+      {
+        "label": null,
+        "content": "The growth of cities and suburbs is often seen as a threat to the environment. However, in fact the increasing amount of land consumed by agriculture is a far greater danger than urban sprawl. Stopping the growth of farms is the best way to preserve many of the world's remaining wild areas. But is a dramatic downsizing of farmland possible? Thanks to the growth of agricultural productivity, reforestation and ‘re-wilding’ has been under way in the industrial countries for generations. Since 1950 more land in the US has been set aside in parks than has been occupied by urban and suburban growth. And much of what was farmland in the nineteenth century is now forest again. Taking the best Iowa maize growers as the norm for world food productivity, it has been calculated that less than a tenth of present cropland could support a population of 10 billion."
+      },
+      {
+        "label": null,
+        "content": "In The Environment Game, a vision of a utopia that would be at once high-tech and environmentalist, Nigel Calder suggested that ‘nourishing but unpalatable primary food produced by industrial techniques - like yeast from petroleum - may be fed to animals, so that we can continue to eat our customary meat, eggs, milk, butter, and cheese and so that people in underdeveloped countries can have adequate supplies of animal protein for the first time.'"
+      },
+      {
+        "label": null,
+        "content": "In the long run, tissue-cloning techniques could be used to grow desired portions of meat by themselves. Once their DNA has been extracted to create cow-less steaks and chicken-less drumsticks, domesticated species of livestock, bred for millennia to be stupid or to have grotesquely enhanced traits, should be allowed to become extinct, except for a few specimens in zoos. However, game such as wild deer, rabbits and wild ducks will be ever more abundant as farms revert to wilderness, so this could supplement the laboratory-grown meat in the diets of tomorrow's affluent."
+      },
+      {
+        "label": null,
+        "content": "With rising personal incomes come rising expectations of mobility. This is another luxury of today’s rich that could become a necessity of tomorrow’s global population - particularly if its members choose to live widely dispersed in a post-agrarian wilderness. In his recent book Free Flight, James Fallows, a pilot as well as a writer, describes serious attempts by both state and private entrepreneurs in the USA to promote an ‘air taxi' system within the price range of today’s middle class and perhaps tomorrow’s global population."
+      },
+      {
+        "label": null,
+        "content": "Two of the chief obstacles to the science fiction fantasy of the personal plane or hover car are price and danger. While technological improvements are driving prices down, piloting an aircraft in three dimensions is still more difficult than driving a car in two, and pilot error causes more fatalities than driver error. But before long our aircraft and cars will be piloted by computers which are never tired or stressed."
+      },
+      {
+        "label": null,
+        "content": "So perhaps there are some grounds for optimism when viewing the future of civilization. With the help of technology, and without putting serious strains on the global environment, possessions, space and mobility can be achieved for all the projected population of the world."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements reflect the claims of the writer in Reading Passage 2? Write 'YES' if the statement reflects the writer's claims, 'NO' if the statement contradicts the writer's claims, or 'NOT GIVEN' if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Today's wealthy people ignore the fact that millions are living in poverty.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the writer's claims."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer's claims."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "There are reasons why the future population of the world may not enjoy a comfortable lifestyle.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the writer's claims."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer's claims."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "The first thing to consider when planning for the future is environmental protection.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the writer's claims."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer's claims."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "As manufactured goods get cheaper, people will benefit more from them.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the writer's claims."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer's claims."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "It may be possible to find new types of raw materials for use in the production of machinery.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the writer's claims."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer's claims."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The rising prices of fossil fuels may bring some benefits.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "The statement reflects the writer's claims."
+              },
+              {
+                "label": "NO",
+                "text": "The statement contradicts the writer's claims."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It is impossible to say what the writer thinks about this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Space for an increased population: According to the writer, the use of land for 7..................... is the most serious threat to the environment.",
+            "answer": "agriculture /",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "However, in the US, there has already been an increase in the amount of land used for 8..................... forests.",
+            "answer": "parks",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Far less land would be required to feed the world's population if the 9..................... of the land could be improved worldwide.",
+            "answer": "productivity",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "It has also been claimed that the industrial production of animal foods could allow greater access to animal 10..................... by the entire world’s population.",
+            "answer": "protein",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Scientists could use 11..................... from domesticated animals to help produce meat by tissue cloning, and these species could then be allowed to die out.",
+            "answer": "DNA",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "In addition to this type of meat, 12..................... will also be widely available.",
+            "answer": "game",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer, A, B, C or D.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "Greater mobility may be a feature of the future because of changes in",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the location of housing."
+              },
+              {
+                "label": "B",
+                "text": "patterns of employment."
+              },
+              {
+                "label": "C",
+                "text": "centres of transport."
+              },
+              {
+                "label": "D",
+                "text": "the distribution of wealth."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Air transport will be safe because of",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "new types of aircraft."
+              },
+              {
+                "label": "B",
+                "text": "better training methods."
+              },
+              {
+                "label": "C",
+                "text": "three-dimensional models."
+              },
+              {
+                "label": "D",
+                "text": "improved technology."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:20:26.657437"
+}

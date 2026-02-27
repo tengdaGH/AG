@@ -1,0 +1,219 @@
+{
+  "id": "ielts-r-0042",
+  "slug": "a-song-on-the-brain",
+  "title": "A song on the brain",
+  "page_range": [
+    221,
+    225
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "I",
+    "2": "A",
+    "9": "G",
+    "3": "D",
+    "10": "E",
+    "4": "E",
+    "11": "D",
+    "5": "D",
+    "12": "A",
+    "6": "F",
+    "13": "F",
+    "7": "B"
+  },
+  "content": {
+    "title": "A Song on the Brain",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Everyone knows the situation where you can't get a song out of your head. You hear a pop song on the radio - or even just read the song's title and it haunts you for hours, playing over and over in your mind until you're heartily sick of it. The condition now even has a medical name 'song-in-head syndrome'."
+      },
+      {
+        "label": "B",
+        "content": "But why does the mind annoy us like this? No one knows for sure, but it's probably because the brain is better at holding onto information than it is at knowing what information is important. Roger Chaffin, a psychologist at the University of Connecticut says, 'It's a manifestation of an aspect of memory which is normally an asset to us, but in this instance it can be a nuisance.'"
+      },
+      {
+        "label": "C",
+        "content": "This eager acquisitiveness of the brain may have helped our ancestors remember important information in the past. Today, students use it to learn new material, and musicians rely on it to memorise complicated pieces. But when this useful function goes awry it can get you stuck on a tune. Unfortunately, superficial, repetitive pop tunes are, by their very nature, more likely to stick than something more inventive."
+      },
+      {
+        "label": "D",
+        "content": "The annoying playback probably originates in the auditory cortex. Located at the front of the brain, this region handles both listening and playback of music and other sounds. Neuroscientist Robert Zatorre of McGill University in Montreal proved this some years ago when he asked volunteers to replay the theme from the TV show Dallas in their heads. Brain imaging studies showed that this activated the same region of the auditory cortex as when the people actually heard the song."
+      },
+      {
+        "label": "E",
+        "content": "Not every stored musical memory emerges into consciousness, however. The frontal lobe of the brain gets to decide which thoughts become conscious and which ones are simply stored away. But it can become fatigued or depressed, which is when people most commonly suffer from song-in-head syndrome and other intrusive thoughts, says Susan Ball, a clinical psychologist at Indiana University School of Medicine in Indianapolis. And once the unwanted song surfaces, it's hard to stuff it back down into the subconscious. 'The more you try to suppress a thought, the more you get it,' says Ball. 'We call this the pink elephant phenomenon. Tell the brain not to think about pink elephants, and it's guaranteed to do so,' she says."
+      },
+      {
+        "label": "F",
+        "content": "For those not severely afflicted, simply avoiding certain kinds of music can help. 'I know certain pieces that are kind of 'sticky' to me, so I will not play them in the early morning for fear that they will run around in my head all day,' says Steven Brown, who trained as a classical pianist but is now a neuroscientist at the University of Texas Health Science Center at San Antonio. He says he always has a song in his head and, even more annoying, his mind never seems to make it all the way through. 'It tends to involve short fragments between, say, 5 or 15 seconds. They seem to get looped, for hours sometimes,' he says."
+      },
+      {
+        "label": "G",
+        "content": "Brown's experience of repeated musical loops may represent a phenomenon called 'chunking', in which people remember musical phrases as a single unit of memory, says Caroline Palmer, a psychologist at Ohio State University in Columbus. Most listeners have little choice about what chunks they remember. Particular chunks may be especially 'sticky' if you hear them often or if they follow certain predictable patterns, such as the chord progression of rock 'n' roll music. Palmer's research shows that the more a piece of music conforms to these patterns, the easier it is to remember. That's why you're more likely to be haunted by the tunes of pop music than by those of a classical composer such as J. S. Bach."
+      },
+      {
+        "label": "H",
+        "content": "But this ability can be used for good as well as annoyance. Teachers can tap into memory reinforcement by setting their lessons to music. For example, in one experiment students who heard a history text set as the lyrics to a catchy song remembered the words better than those who simply read them, says Sandra Calvert, a psychologist at Georgetown University in Washington DC."
+      },
+      {
+        "label": "I",
+        "content": "This sort of memory enhancement may even explain the origin of music. Before the written word could be used to record history, people memorised it in songs, says Leon James, a psychologist at the University of Hawaii. And music may have had an even more important role. 'All music has a message,' he says. 'This message functions to unite society and to standardise the thought processes of people in society.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The writer says that 'song-in-head syndrome' may occur because the brain",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "confuses two different types of memory."
+              },
+              {
+                "label": "B",
+                "text": "cannot decide what information it needs to retain."
+              },
+              {
+                "label": "C",
+                "text": "has been damaged by harmful input."
+              },
+              {
+                "label": "D",
+                "text": "cannot hold onto all the information it processes."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "A tune is more likely to stay in your head if",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "it is simple and unoriginal."
+              },
+              {
+                "label": "B",
+                "text": "you have musical training."
+              },
+              {
+                "label": "C",
+                "text": "it is part of your culture."
+              },
+              {
+                "label": "D",
+                "text": "you have a good memory."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Robert Zatorre found that a part of the auditory cortex was activated when volunteers",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "listened to certain types of music."
+              },
+              {
+                "label": "B",
+                "text": "learned to play a tune on an instrument."
+              },
+              {
+                "label": "C",
+                "text": "replayed a piece of music after several years."
+              },
+              {
+                "label": "D",
+                "text": "remembered a tune they had heard previously."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each theory with the person it is credited to.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "The memorable nature of some tunes can help other learning processes.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Music may not always be stored in the memory in the form of separate notes.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "People may have started to make music because of their need to remember things.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Having a song going round your head may happen to you more often when one part of the brain is tired.",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information?",
+        "questions": [
+          {
+            "number": 8,
+            "text": "a claim that music strengthens social bonds",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "two reasons why some bits of music tend to stick in your mind more than others",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "an example of how the brain may respond in opposition to your wishes",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "the name of the part of the brain where song-in-head syndrome begins",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "examples of two everyday events that can set off song-in-head syndrome",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "a description of what one person does to prevent song-in-head syndrome",
+            "answer": "F",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:30:06.024483"
+}

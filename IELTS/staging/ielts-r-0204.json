@@ -1,0 +1,205 @@
+{
+  "id": "ielts-r-0204",
+  "slug": "how-do-many-hearing-impaired-people-talk",
+  "title": "How Do Many Hearing-impaired People Talk?",
+  "page_range": [
+    1036,
+    1038
+  ],
+  "raw_answer_key": {
+    "1": "YES",
+    "5": "NOT GIVEN",
+    "2": "NO",
+    "6": "NOT GIVEN",
+    "3": "NOT GIVEN",
+    "7": "NOT GIVEN",
+    "4": "NOT GIVEN",
+    "8": "NOT GIVEN"
+  },
+  "content": {
+    "title": "How Do Many Hearing-impaired People Talk?",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Hearing-impaired people cannot hear sounds well. How do they “hear” words? Many hearing-impaired people use sign language. They talk with their hands. Two hearing-impaired people can talk to each other. They both use sign language. Sometimes a person who can hear interprets for hearing-impaired people. The person listens to someone talking, and then he or she makes hand signs."
+      },
+      {
+        "label": null,
+        "content": "There are two kinds of hand sign. Some signs are for whole words. For example, there is one hand sign for the word love. There are hand signs for different actions, things, and ideas. Some of the signs are very easy, for example, the sign for eat, milk, and house. You can see what they mean. Others are more difficult, for example, the sign for star, egg, and week."
+      },
+      {
+        "label": null,
+        "content": "The second kind of hand sign is fingerspelling. In fingerspelling, there is a sign for every letter in the alphabet. For example, to fingerspell the word love, a person makes four different signs. It is much slower to fingerspell, but is useful for signing names and technical words. People can use both kinds of hand signs together."
+      },
+      {
+        "label": null,
+        "content": "Each country has its own sign language. For example, American Sign Language (ASL) is very different from British Sign Language. Using sign language is almost like a dance. The whole body talks. Sign languages are beautiful."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in the reading passage? Write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, and NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Hearing-impaired people cannot hear sounds well.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "A person who interprets for hearing-impaired people cannot hear.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "There are more signs for words than for letters.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Japanese people use ASL.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Finger spelling has signs for numbers.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Africans cannot learn ASL because they don't speak English.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Only the hands move in ASL.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "It is difficult for children to learn ASL.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "YES"
+              },
+              {
+                "label": "NO",
+                "text": "NO"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 8
+  },
+  "processed_at": "2026-02-25T20:19:34.525151"
+}

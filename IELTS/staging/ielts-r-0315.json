@@ -1,0 +1,74 @@
+{
+  "id": "ielts-r-0315",
+  "slug": "new-years-resolution",
+  "title": "New Year’s resolution",
+  "page_range": [
+    1596,
+    1599
+  ],
+  "raw_answer_key": {
+    "1": "promise",
+    "3": "habits",
+    "2": "the Babylonians",
+    "4": "perseverance"
+  },
+  "content": {
+    "title": "New Year’s Resolution",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "People celebrate the beginning of each year at different times depending on their cultural traditions. But one of the most common times to celebrate the New Year is by the Gregorian calendar. People also call this way of measuring days, months and years the Western or Christian calendar. On this calendar, the first day of the new year is January 1. People call this holiday “New Year’s Day”. People love to celebrate New Year’s Day. Some celebrate with parties and music. They may sing traditional songs about old times and good friends. Some people celebrate quietly with family and friends. Other people go to church on New Year’s Day. People may ask each other, and God, for forgiveness for the wrong things that happened the year before. People can leave their mistakes in the old year. Instead, they look to the future. They think about how they can make the new year better, or different, than the year before."
+      },
+      {
+        "content": "One common way people try to make a new beginning is by making New Year’s resolutions. A New Year’s resolution is a promise you make to yourself. It usually means a change of behavior or a new goal. People believe that the first New Year’s resolutions were made thousands of years ago by the Babylonians. The most popular New Year’s resolution for the ancient Babylonians was to return borrowed farm equipment! Today, the most popular New Year’s resolutions are usually ways for people to improve themselves. People promise to do things like stop smoking or pay back money that they owe. People also commonly make resolutions about relationships and health."
+      },
+      {
+        "content": "On the first day of the New Year people feel great about the changes they hope to make. But what happens after some time has passed? Experts say that most people do not keep their resolutions for very long. There are many reasons why people often do not keep their resolutions. The main reason is that it is difficult to make changes. But there are a few ways to make it easier to make good changes."
+      },
+      {
+        "content": "Be realistic and detailed. Many people make a goal that is too big or not clear. Your resolution may be to learn English better. But you may not know how to make that happen! Instead, make a resolution that is smaller and more detailed. Making smaller goals will help you to get better at the exact thing you want to do. It will also make you able to measure your success. And that will be encouraging! Get as much support as you can. Ask other people to help you remember your resolutions. When you make a promise to someone else, it is easy to remember. It will also make you want to keep your resolution. Some people make resolutions with someone else. For example, if you wanted to exercise more, you could plan to exercise with a friend. Then you can encourage each other and have fun too. Even if you have no one to help you keep your resolution, there are websites on the internet that offer help. One website sends encouraging information about your resolution, such as information about exercising. The website will even send emails to help you remember your resolution."
+      },
+      {
+        "content": "Start one new healthy habit to replace every unhealthy one. Many people make New Year’s resolutions to stop bad habits. These habits may be things like eating unhealthy food, or playing too many video games. It is difficult just to stop a habit. Instead, replace it with something else. For example, instead of eating unhealthy food snacks, plan healthy things to eat. Make a resolution to eat more fruits and vegetables. Or, in the case of video games, replace the habit with something healthier. Make a resolution to get more exercise. At the times you would play a video game, play a sport with your friends instead."
+      },
+      {
+        "content": "However, sometimes a bad habit is not just a habit. Sometimes a bad habit is really an addiction. Substances like cigarettes or alcohol can cause dependence. A person’s mind or body depends on these substances. For example, when you stop using cigarettes, you may feel sick. You will want the cigarettes very badly. Stopping an addiction is much more difficult than stopping a bad habit. If you are stopping an addiction, look for more help. Visit our website for more ideas."
+      },
+      {
+        "content": "It is also good to remember that no one is perfect. Even if we fail one day, we can keep working on our resolutions. People may forget their New Year’s resolutions or want to give up. But everyone can remember these helpful ideas: Make detailed goals and get help from friends. Start new good habits as you stop old bad ones. Remind yourself and others that you are not alone. And with perseverance, good changes can last throughout the whole year."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Write NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A New Year’s resolution is a 1..................... you make to yourself.",
+            "answer": "promise"
+          },
+          {
+            "number": 2,
+            "text": "The first New Year’s resolutions were made thousands of years ago by 2.....................",
+            "answer": "the Babylonians"
+          },
+          {
+            "number": 3,
+            "text": "Many people make New Year’s resolutions to stop bad 3.....................",
+            "answer": "habits"
+          },
+          {
+            "number": 4,
+            "text": "With 4...................., good changes can last throughout the whole year.",
+            "answer": "perseverance"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 4
+  },
+  "processed_at": "2026-02-25T20:53:06.686659"
+}

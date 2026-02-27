@@ -1,0 +1,280 @@
+{
+  "id": "ielts-r-0111",
+  "slug": "copy-your-neighbor",
+  "title": "Copy your neighbor",
+  "page_range": [
+    569,
+    574
+  ],
+  "raw_answer_key": {
+    "1": "E",
+    "8": "NOT GIVEN",
+    "2": "B",
+    "9": "FALSE",
+    "3": "G",
+    "10": "NOT GIVEN",
+    "4": "F",
+    "11": "TRUE",
+    "5": "D",
+    "12": "D",
+    "6": "FALSE",
+    "13": "B",
+    "7": "TRUE"
+  },
+  "content": {
+    "title": "The Mystery of Mimicry Rings in Tropical Butterflies",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "THERE’S no animal that symbolises rainforest diversity quite as spectacularly as the tropical butterfly. Anyone lucky enough to see these creatures flitting between patches of sunlight cannot fail to be impressed by the variety of their patterns. But why do they display such colourful exuberance? Until recently, this was almost as pertinent a question as it had been when the 19th-century naturalists, armed only with butterfly nets and insatiable curiosity, battled through the rainforests. These early explorers soon realised that although some of the butterflies’ bright colours are there to attract a mate, others are warning signals. They send out a message to any predators: “Keep off, we’re poisonous.” And because wearing certain patterns affords protection, other species copy them. Biologists use the term “mimicry rings” for these clusters of impostors and their evolutionary idol."
+      },
+      {
+        "label": "B",
+        "content": "But here’s the conundrum. “Classical mimicry theory says that only a single ring should be found in any one area,” explains George Beccaloni of the Natural History Museum, London. The idea is that in each locality there should be just the one pattern that best protects its wearers. Predators would quickly learn to avoid it and eventually, all mimetic species in a region should converge upon it. “The fact that this is patently not the case has been one of the major problems in mimicry research,” says Beccaloni. In pursuit of a solution to the mystery of mimetic exuberance, Beccaloni set off for one of the mega centres for butterfly diversity, the point where the western edge of the Amazon basin meets the foothills of the Andes in Ecuador. “It’s exceptionally rich, but comparatively well collected, so I pretty much knew what was there,” says Beccaloni. The trick was to work out how all the butterflies were organised and how this related to mimicry."
+      },
+      {
+        "label": "C",
+        "content": "Working at the Jatun Sach Biological Research Station on the banks of the Rio Napo, Beccaloni focused his attention on a group of butterflies called ithomiines. These distant relatives of Britain’s Camberwell Beauty are abundant throughout Central and South America and the Caribbean. They are famous for their bright colours, toxic bodies and complex mimetic relationships. “They can comprise up to 85 per cent of the individuals in a mimicry ring and their patterns are mimicked not just by butterflies, but by other insects as diverse as damselflies and true bugs,” says Philip DeVries of the Milwaukee Public Museum’s Center for Biodiversity Studies."
+      },
+      {
+        "label": "D",
+        "content": "Even though all ithomiines are poisonous, it is in their interests to evolve to look like one another because predators that learn to avoid one species will also avoid others that resemble it. This is known as Müllerian mimicry. Mimicry rings may also contain insects that are not toxic but gain protection by looking like a model species that is: an adaptation called Batesian mimicry. So strong is an experienced predator’s avoidance response that even quite inept resemblance gives some protection. “Often there will be a whole series of species that mimic, with varying degrees of verisimilitude, a focal or model species,” says John Turner from the University of Leeds. “The results of these deceptions are some of the most exquisite examples of evolution known to science.” In addition to colour, many mimics copy the behaviour and even the flight pattern of their model species."
+      },
+      {
+        "label": "E",
+        "content": "But why are there so many different mimicry rings? One idea is that species flying at the same height in the forest canopy evolve to look like one another. “It had been suggested since the 1970s that mimicry complexes were stratified by flight height,” says DeVries. The idea is that wing colour patterns are camouflaged against the different patterns of light and shadow at each level in the canopy, providing the first line of defence against predators.” But the light patterns and wing patterns don’t match very well,” he says. And observations show that the insects do not shift in height as the day progresses and the light patterns change. Worse still, according to DeVries, this theory doesn’t explain why the model species is flying at that particular height in the first place."
+      },
+      {
+        "label": "F",
+        "content": "“When I first went out to Ecuador, I didn’t believe the flight height hypothesis and set out to test it,” says Beccaloni. “A few weeks with the collecting net convinced me otherwise. They really flew that way.” What he didn’t accept, however, was the explanation about light patterns. “I thought if this idea really is true, can I work out why it could help explain why there are so many different warning patterns in any one place. Then we might finally understand how they could evolve in such a complex way.” The job was complicated by the sheer diversity of species involved at Jatun Sach. Not only were there 56 ithomiine butterfly species divided among eight mimicry rings, but there were also 69 other insect species, including 34 day-flying moths and a damselfly, all in a 200-hectare study area. Like many entomologists before him, Beccaloni used a large bag-like net to capture his prey. This allowed him to sample the 2.5 metres immediately above the forest floor. Unlike many previous workers, he kept very precise notes on exactly where he caught his specimens."
+      },
+      {
+        "label": "G",
+        "content": "The attention to detail paid off. Beccaloni found that the mimicry rings were flying at two quite separate altitudes. “Their use of the forest was quite distinctive,” he recalls. “For example, most members of the clear-winged mimicry ring would fly close to the forest floor, while the majority of the 12 species in the tiger-winged ring fly high up.” Each mimicry wing had its own characteristic flight height."
+      },
+      {
+        "label": "H",
+        "content": "However, this being practice rather than theory, things were a bit fuzzy. “They’d spend the majority of their time flying at a certain height. But they’d also spend a smaller proportion of their time flying at other heights,” Beccaloni admits. Species weren’t stacked rigidly like passenger jets waiting to land, but they did appear to have preferred airspace in the forest. So far, so good, but he still hadn’t explained what causes the various groups of ithomiines and their chromatic consorts to fly in formations at these particular heights."
+      },
+      {
+        "label": "I",
+        "content": "Then Beccaloni had a bright idea. “I started looking at the distribution of ithomiine larval food plants within the canopy,” he says. “For each one, I’d record the height to which the host plant grew and the height above the ground at which the eggs or larvae were found. Once I got them back to the field station’s lab, it was just a matter of keeping them alive until they pupated and then hatched into adults which I could identify.”"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The reading passage has seven paragraphs A-I. Which paragraph contains the following information? Write the correct letter A-I, in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Criticism against flight height theory of butterfly",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Explained why Beccaloni carried out research in Ecuador.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Different mimicry ring flies at different height",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "The method of catching butterfly by Beccaloni",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Not all Mimicry patterns are toxic information sent out from insects.",
+            "answer": "D",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 6-11 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "All butterflies’ colours of wings reflect the sense of warning to other predators.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Insects may imitate butterflies’ wing pattern as well.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Flying Altitude of the butterfly is determined by their food.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Beccaloni agreed with the flight height hypothesis and decided to reassure its validity.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Jatun Sacha has the richest diversity of breeds in the world.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Beccaloni has more detailed records on the location of butterfly collection than others.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D. Write your answers in boxes 12-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Which is correct about butterflies flight altitude?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Flight height theory already established"
+              },
+              {
+                "label": "B",
+                "text": "Butterfly always flies at a certain height"
+              },
+              {
+                "label": "C",
+                "text": "It is like the airplane’s flying phenomenon"
+              },
+              {
+                "label": "D",
+                "text": "Each butterfly has its own favorable height"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Which is correct about Beccaloni next investigation after flight height?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Some certain statistics have already been collected"
+              },
+              {
+                "label": "B",
+                "text": "Try to find connections between larval height and adult ones"
+              },
+              {
+                "label": "C",
+                "text": "It’s very difficult to raise butterfly larval"
+              },
+              {
+                "label": "D",
+                "text": "Different larval favors different kinds of trees"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:49:57.798121"
+}

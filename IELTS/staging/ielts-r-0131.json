@@ -1,0 +1,395 @@
+{
+  "id": "ielts-r-0131",
+  "slug": "development-of-public-management-theory",
+  "title": "Development of Public management theory",
+  "page_range": [
+    670,
+    675
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "D",
+    "2": "E",
+    "9": "A",
+    "3": "A",
+    "10": "B",
+    "4": "E",
+    "11": "D",
+    "5": "B",
+    "12": "C",
+    "6": "D",
+    "13": "B",
+    "7": "C"
+  },
+  "content": {
+    "title": "Development of Public Management Theory",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Several theories bridged the gap between strictly private and public sector management. One good example is Max Weber exploring sociologist, who explored the ideal bureaucracy in The Protestant Ethic and the Spirit of Capitalism. Bureaucratic Theory was developed by a German sociologist and political economist Max Weber (1864-1920). According to him, bureaucracy is the most efficient form of organization. The organization has a well-defined line of authority. It has clear rules and regulations which are strictly followed. According to Max Weber, there are three types of power in an organization: 1. Traditional Power, 2. Charismatic Power, and 3. Bureaucratic Power or Legal Power."
+      },
+      {
+        "label": "B",
+        "content": "Weber admired Bureaucracy for its trustworthiness. The Bureaucracy was constituted by a group of professional, ethical public officials. These servants dedicate themselves to the public in return for the security of job tenure among the many advantages of public employment. There is a high degree of division of labor and specialization as well as a defined hierarchy of authority. There are well-defined rules and regulations that follow the principle of rationality, objectivity, and consistency. These rules cover all the duties and rights of the employees. These rules must be strictly followed. Impersonal relations among the members of the organization. Interpersonal relations are based on positions and not on personalities."
+      },
+      {
+        "label": "C",
+        "content": "Bureaucracy organization is a very rigid type of organization. Too much emphasis on rules and regulations which are rigid and inflexible. It does not give importance to human relations. No importance is also given to informal groups which nowadays play an important role in all business organizations. Yet, too much importance is given to the technical qualifications of the employees for promotion and transfers. The dedication and commitment of the employee are not considered. It is suitable for government organizations. It is also suitable for organizations where change is very slow. There will be unnecessary delays in decision-making due to formalities and rules. It is appropriate for static organizations. There is difficulty in coordination and communication."
+      },
+      {
+        "label": "D",
+        "content": "Herbert Simon, Chester Barnard, and Charles Lindblom are among the first of those recognized as early American public administrators. These men ushered in an era during which the field gained recognition as independent and unique, despite its multidisciplinary nature. Simon contributed theoretical separation to discern management, decisions based on values. Since one cannot make completely responsible decisions with public resources based solely on personal values, one must attempt to rely upon objectively determined facts. Simon developed other relevant theories as well. Similar to Lindblom’s subsequently discussed critique of comprehensive rationality, Simon also taught that a strictly economic man, one who maximizes returns or values by making decisions based upon complete information in unlimited time, is unrealistic. Instead, most public administrators use a sufficient amount of information to make a satisfactory decision: they 'satisfice.'"
+      },
+      {
+        "label": "E",
+        "content": "In decision-making, Simon believed that agents face uncertainty about the future and costs in acquiring information in the present. These factors limit the extent to which agents can make a fully rational decision, thus they possess only 'bounded rationality' and must make decisions by 'Satisficing,' or choosing that which might not be optimal but which will make them happy enough. 'Rational behavior, in economics, means that individuals maximize their utility function under the constraints they face (e.g. their budget constraint, limited choices,…) in pursuit of their self-interest.'"
+      },
+      {
+        "label": "F",
+        "content": "Chester Barnard was also one of the watershed scholars. Barnard published 'The Economy of Incentives' (1938), in an attempt to explain individual participation in an organization. Barnard explained organizations as systems of exchange. Low-level employees must have more incentive to remain with the organization for which they exchange their labor and loyalty. The organization (and higher-level employees) must derive sufficient benefit from its employees to keep them. The net pull of the organization is determined by material rewards, environmental conditions, and other intangibles like recognition. He gives great importance to persuasion much more than to economic incentives. He described four general and four specific incentives including Money and other material inducements; Personal non-material opportunities for distinction; Desirable physical conditions of work; Ideal benefactions, such as pride of workmanship, etc."
+      },
+      {
+        "label": "G",
+        "content": "Humanists embrace a dynamic concept of employee and management techniques. This requires a theoretical shift away from the idea that an employee is a cog in the industrial machine. Rather, employees are unique individuals with goals, needs, desires, etc."
+      },
+      {
+        "label": "H",
+        "content": "The humanist era ushered in other possible interpretations of such topics as power and management. One of the most significant was Douglas McGregor’s 'Theory X and Theory Y.' McGregor’s work provided a basis for a management framework, a structure upon whose rungs the classic and new-age management might be hung. First, commonly held by early management theorists, Theory X begins with the assumption that humans possess an inherent aversion to work. Employees must therefore be coerced and controlled if management expects to see results. Further, lazy humans prefer direction bordering micromanagement whenever possible."
+      },
+      {
+        "label": "I",
+        "content": "Theory Y is much more compatible with the humanist tradition. This begins with the assumption that work is as natural for humans as rest or play. Further, employees will direct and control themselves as they complete objectives. Humans learn naturally and seek responsibility. Consequently, managers need only to steer employees in a cooperative manner toward goals that serve the organization. There is room for many to create and share power."
+      },
+      {
+        "label": "J",
+        "content": "The Z-Organization can be thought of as a complimentary third element to McGregor’s dichotomy. Z-organizations are Japanese organizations that are a Japanese organizational model. Similar to Theory Y management, Z organizations place a large degree of responsibility upon the employees. Further, relatively low-level employees are entrusted with the freedom to be creative, 'wander around the organization' and become truly unique, company-specific employees. However, employees achieve only after 'agreeing on a central set of objectives and ways of doing business.' In Z Organizations, decision-making is democratic and participatory. Despite the many advantages of this organizational model, there are several drawbacks. These include the depredation of a large professional distance-depersonalization is impossible in Z-organizations. Since, in reality, there is a high percentage of workers who would like to work for the financial return than the job objectives. A high level of self-discipline is also necessary."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer for each question based on the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Which of the following is NOT a characteristic of Weber's bureaucratic organization?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Clear rules and regulations"
+              },
+              {
+                "label": "B",
+                "text": "Flexible decision-making"
+              },
+              {
+                "label": "C",
+                "text": "Well-defined line of authority"
+              },
+              {
+                "label": "D",
+                "text": "Impersonal relations among members"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "According to the passage, what did Weber admire about bureaucracy?",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Its rigidity"
+              },
+              {
+                "label": "B",
+                "text": "Its adaptability"
+              },
+              {
+                "label": "C",
+                "text": "Its inefficiency"
+              },
+              {
+                "label": "D",
+                "text": "Its lack of trust"
+              },
+              {
+                "label": "E",
+                "text": "Its trustworthiness"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What is the main disadvantage of bureaucratic organizations according to the passage?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Too much emphasis on rigid rules and regulations"
+              },
+              {
+                "label": "B",
+                "text": "Lack of division of labor"
+              },
+              {
+                "label": "C",
+                "text": "Too much focus on human relations"
+              },
+              {
+                "label": "D",
+                "text": "Inefficient decision-making"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Who among the following is recognized as an early American public administrator?",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Max Weber"
+              },
+              {
+                "label": "B",
+                "text": "Douglas McGregor"
+              },
+              {
+                "label": "C",
+                "text": "Chester Barnard"
+              },
+              {
+                "label": "D",
+                "text": "Herbert Simon"
+              },
+              {
+                "label": "E",
+                "text": "Charles Lindblom"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "What does Simon's concept of 'bounded rationality' suggest?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Decision-makers have unlimited information"
+              },
+              {
+                "label": "B",
+                "text": "Decision-makers face limitations in rationality"
+              },
+              {
+                "label": "C",
+                "text": "Decision-makers are completely rational"
+              },
+              {
+                "label": "D",
+                "text": "Decision-makers do not consider consequences"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "According to Chester Barnard, what is the key to maintaining employee loyalty?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Strict rules and regulations"
+              },
+              {
+                "label": "B",
+                "text": "High levels of supervision"
+              },
+              {
+                "label": "C",
+                "text": "Economic incentives"
+              },
+              {
+                "label": "D",
+                "text": "Persuasion and intangible rewards"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Which of the following is a characteristic of Theory Y management?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees are inherently lazy"
+              },
+              {
+                "label": "B",
+                "text": "Managers must coerce employees"
+              },
+              {
+                "label": "C",
+                "text": "Employees seek responsibility"
+              },
+              {
+                "label": "D",
+                "text": "Managers control all decisions"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer for each question based on the passage.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "What is the main idea behind Douglas McGregor's Theory X?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Employees are self-motivated"
+              },
+              {
+                "label": "B",
+                "text": "Employees enjoy work"
+              },
+              {
+                "label": "C",
+                "text": "Employees are creative"
+              },
+              {
+                "label": "D",
+                "text": "Employees are inherently lazy"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Which of the following is a characteristic of Z Organizations?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Democratic decision-making"
+              },
+              {
+                "label": "B",
+                "text": "Rigid hierarchy"
+              },
+              {
+                "label": "C",
+                "text": "Low employee responsibility"
+              },
+              {
+                "label": "D",
+                "text": "Lack of creativity"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "What is the primary focus of Humanist management?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Maximizing profits"
+              },
+              {
+                "label": "B",
+                "text": "Treating employees as individuals"
+              },
+              {
+                "label": "C",
+                "text": "Maintaining strict control"
+              },
+              {
+                "label": "D",
+                "text": "Reducing costs"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "What is the role of persuasion in Barnard's theory of organization?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is less important than economic incentives"
+              },
+              {
+                "label": "B",
+                "text": "It is irrelevant to organizational success"
+              },
+              {
+                "label": "C",
+                "text": "It is only used in top management"
+              },
+              {
+                "label": "D",
+                "text": "It is more important than economic incentives"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "What is the term for the concept that individuals make decisions based on a satisfactory rather than optimal outcome?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Rational choice"
+              },
+              {
+                "label": "B",
+                "text": "Perfect decision-making"
+              },
+              {
+                "label": "C",
+                "text": "Satisficing"
+              },
+              {
+                "label": "D",
+                "text": "Maximizing"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Which of the following is a feature of Weber's bureaucratic theory?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Informal groups are important"
+              },
+              {
+                "label": "B",
+                "text": "Rules are strictly followed"
+              },
+              {
+                "label": "C",
+                "text": "Decisions are made quickly"
+              },
+              {
+                "label": "D",
+                "text": "Decentralized authority"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:53:59.730083"
+}

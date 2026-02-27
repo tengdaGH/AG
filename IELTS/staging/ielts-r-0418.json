@@ -1,0 +1,328 @@
+{
+  "id": "ielts-r-0418",
+  "slug": "sustainable-architecture---lessons-from-the-ant",
+  "title": "Sustainable architecture - lessons from the ant",
+  "page_range": [
+    2121,
+    2125
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "cement arches",
+    "2": "D",
+    "9": "(the) big fans",
+    "3": "A",
+    "10": "(the) (small) heaters",
+    "11": "A OR D OR E IN",
+    "4": "C EITHER ORDER",
+    "12": "A OR D OR E IN",
+    "5": "A EITHER ORDER",
+    "13": "A OR D OR E IN",
+    "6": "ceiling vents EITHER ORDER",
+    "7": "(the) (brick) chimneys"
+  },
+  "content": {
+    "title": "Sustainable architecture - lessons from the ant",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Termite mounds were the inspiration for an innovative design in sustainable living. Africa owes its termite mounds a lot. Trees and shrubs take root in them. Prospectors mine them, looking for specks of gold carried up by termites from hundreds of metres below. And of course, they are a special treat to aardvarks and other insectivores. Now, Africa is paying an offbeat tribute to these towers of mud. The extraordinary Eastgate Building in Harare, Zimbabwe’s capital city, is said to be the only one in the world to use the same cooling and heating principles as the termite mound."
+      },
+      {
+        "label": null,
+        "content": "Termites in Zimbabwe build gigantic mounds inside which they farm a fungus that is their primary food source. This must be kept at exactly 30.5°C, while the temperatures on the African veld outside can range from 1.5°C at night only just above freezing to a baking hot 40°C during the day. The termites achieve this remarkable feat by building a system of vents in the mound. Those at the base lead down into chambers cooled by wet mud carried up from water tables far below, and others lead up through a flue to the peak of the mound. By constantly opening and closing these heating and cooling vents over the course of the day, the termites succeed in keeping the temperature constant in spite of the wide fluctuations outside."
+      },
+      {
+        "label": null,
+        "content": "Architect Mick Pearce used precisely the same strategy when designing the Eastgate Building, which has no air conditioning and virtually no heating. The building, the country's largest commercial and shopping complex, uses less than 10% of the energy of a conventional building its size. These efficiencies translated directly to the bottom line: the Eastgate’s owners saved $3.5 million on a $36 million building because an air-conditioning plant didn't have to be imported. These savings were also passed on to tenants: rents are 20% lower than in a new building next door."
+      },
+      {
+        "label": null,
+        "content": "The complex is actually two buildings linked by bridges across a shady, glass-roofed atrium open to the breezes. Fans suck fresh air in from the atrium, blow it upstairs through hollow spaces under the floors and from there into each office through baseboard vents. As it rises and warms, it is drawn out via ceiling vents and finally exits through forty-eight brick chimneys."
+      },
+      {
+        "label": null,
+        "content": "To keep the harsh, high veld sun from heating the interior, no more than 25% of the outside is glass, and all the windows are screened by cement arches that jut out more than a metre. During summer’s cool nights, big fans flush air through the building seven times an hour to chill the hollow floors. By day, smaller fans blow two changes of air an hour through the building, to circulate the air which has been in contact with the cool floors. For winter days, there are small heaters in the vents."
+      },
+      {
+        "label": null,
+        "content": "This is all possible only because Harare is 1600 feet above sea level, has cloudless skies, little humidity and rapid temperature swings—days as warm as 31°C commonly drop to 14°C at night. 'You couldn’t do this in New York, with its fantastically hot summers and fantastically cold winters,' Pearce said. But then his eyes lit up at the challenge. 'Perhaps you could store the summer's heat in water somehow.'"
+      },
+      {
+        "label": null,
+        "content": "The engineering firm of Ove Arup & Partners, which worked with him on the design, monitors daily temperatures outside, under the floors and at knee, desk and ceiling level. Ove Arup's graphs show that the temperature of the building has generally stayed between 23°C and 25°C, with the exception of the annual hot spell just before the summer rains in October, and three days in November, when a janitor accidentally switched off the fans at night. The atrium, which funnels the winds through, can be much cooler. And the air is fresh—far more so than in air-conditioned buildings, where up to 30% of the air is recycled."
+      },
+      {
+        "label": null,
+        "content": "Pearce, disdaining smooth glass skins as 'igloos in the Sahara', calls his building, with its exposed girders and pipes, 'spiky'. The design of the entrances is based on the porcupine-quill headdresses of the local Shona tribe. Elevators are designed to look like the mineshaft cages used in Zimbabwe's diamond mines. The shape of the fan covers, and the stone used in their construction, are echoes of Great Zimbabwe, the ruins that give the country its name."
+      },
+      {
+        "label": null,
+        "content": "Standing on a roof catwalk, peering down inside at people as small as termites below, Pearce said he hoped plants would grow wild in the atrium and pigeons and bats would move into it, like that termite fungus, further extending the whole 'organic machine' metaphor. The architecture, he says, is a regionalised style that responds to the biosphere, to the ancient traditional stone architecture of Zimbabwe's past, and to local human resources."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct answer, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Why do termite mounds have a system of vents?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "to allow the termites to escape from predators"
+              },
+              {
+                "label": "B",
+                "text": "to enable the termites to produce food"
+              },
+              {
+                "label": "C",
+                "text": "to allow the termites to work efficiently"
+              },
+              {
+                "label": "D",
+                "text": "to enable the termites to survive at night"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Why was Eastgate cheaper to build than a conventional building?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Very few materials were imported."
+              },
+              {
+                "label": "B",
+                "text": "Its energy consumption was so low."
+              },
+              {
+                "label": "C",
+                "text": "Its tenants contributed to the costs."
+              },
+              {
+                "label": "D",
+                "text": "No air conditioners were needed."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Why would a building like Eastgate not work efficiently in New York?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Temperature change occurs seasonally rather than daily."
+              },
+              {
+                "label": "B",
+                "text": "Pollution affects the storage of heat in the atmosphere."
+              },
+              {
+                "label": "C",
+                "text": "Summer and winter temperatures are too extreme."
+              },
+              {
+                "label": "D",
+                "text": "Levels of humidity affect cloud coverage."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What does Ove Arup’s data suggest about Eastgate’s temperature control system?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It allows a relatively wide range of temperatures."
+              },
+              {
+                "label": "B",
+                "text": "The only problems are due to human error."
+              },
+              {
+                "label": "C",
+                "text": "It functions well for most of the year."
+              },
+              {
+                "label": "D",
+                "text": "The temperature in the atrium may fall too low."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Pearce believes that his building would be improved by",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "becoming more of a habitat for wildlife."
+              },
+              {
+                "label": "B",
+                "text": "even closer links with the history of Zimbabwe."
+              },
+              {
+                "label": "C",
+                "text": "giving people more space to interact with nature."
+              },
+              {
+                "label": "D",
+                "text": "better protection from harmful organisms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below with words taken from Reading Passage 1. Use NO MORE THAN THREE WORDS for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Warm air leaves the offices through",
+            "answer": "ceiling vents",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "The warm air leaves the building through",
+            "answer": "(the) (brick) chimneys",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Heat from the sun is prevented from reaching the windows by",
+            "answer": "cement arches",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "When the outside temperature drops",
+            "answer": "(the) big fans",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "On cold days",
+            "answer": "(the) (small) heaters",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Answer the question below, using NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Which three parts of the Eastgate Building reflect important features of Zimbabwe’s history and culture?",
+            "answer": "A OR D OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "entrances"
+              },
+              {
+                "label": "B",
+                "text": "quill"
+              },
+              {
+                "label": "C",
+                "text": "cages"
+              },
+              {
+                "label": "D",
+                "text": "elevators"
+              },
+              {
+                "label": "E",
+                "text": "fan covers"
+              },
+              {
+                "label": "F",
+                "text": "stone"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Which three parts of the Eastgate Building reflect important features of Zimbabwe’s history and culture?",
+            "answer": "A OR D OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "entrances"
+              },
+              {
+                "label": "B",
+                "text": "quill"
+              },
+              {
+                "label": "C",
+                "text": "cages"
+              },
+              {
+                "label": "D",
+                "text": "elevators"
+              },
+              {
+                "label": "E",
+                "text": "fan covers"
+              },
+              {
+                "label": "F",
+                "text": "stone"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Which three parts of the Eastgate Building reflect important features of Zimbabwe’s history and culture?",
+            "answer": "A OR D OR E IN EITHER ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "entrances"
+              },
+              {
+                "label": "B",
+                "text": "quill"
+              },
+              {
+                "label": "C",
+                "text": "cages"
+              },
+              {
+                "label": "D",
+                "text": "elevators"
+              },
+              {
+                "label": "E",
+                "text": "fan covers"
+              },
+              {
+                "label": "F",
+                "text": "stone"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:17:21.069128"
+}

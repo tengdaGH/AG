@@ -1,0 +1,219 @@
+{
+  "id": "ielts-r-0183",
+  "slug": "global-warming-prevent-poles-from-melting",
+  "title": "Global warming: Prevent poles from melting",
+  "page_range": [
+    930,
+    934
+  ],
+  "raw_answer_key": {
+    "1": "E",
+    "8": "pumps",
+    "2": "B",
+    "9": "cables",
+    "3": "E",
+    "10": "volcanic explosions",
+    "4": "F",
+    "11": "C",
+    "5": "A",
+    "12": "D",
+    "6": "birch trees",
+    "13": "A",
+    "7": "Russian rivers"
+  },
+  "content": {
+    "title": "Global warming: Prevent poles from melting",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Such is our dependence on fossil fuels, and such the volume of carbon dioxide we have already released into the atmosphere, that most climate scientists agree that significant global warming is now inevitable – the best we can hope to do is keep it at a reasonable level, and even that is going to be an uphill task. At present, the only serious option on the table for doing this is cutting back on our carbon emissions, but while a few countries are making major strides in this regard, the majority are having great difficulty even stemming the rate of increase, let alone reversing it. Consequently, an increasing number of scientists are beginning to explore the alternatives. These fall under the banner of geoengineering, generally defined as the intentional large-scale manipulation of the environment."
+      },
+      {
+        "label": "B",
+        "content": "Geoengineering has been shown to work, at least on a small, localized scale, for decades. May Day parades in Moscow have taken place under clear blue skies, with aircraft having deposited dry ice, silver iodide, and cement powder to disperse clouds. Many of the schemes now suggested look to do the opposite, and reduce the amount of sunlight reaching the planet. One scheme focuses on achieving a general cooling of the Earth and involves the concept of releasing aerosol sprays into the stratosphere above the Arctic to create clouds of sulphur dioxide, which would, in turn, lead to a global dimming. The idea is modelled on historical volcanic explosions, such as that of Mount Pinatubo in the Philippines in 1991, which led to a short-term cooling of global temperatures by 0.5°C. The aerosols could be delivered by artillery, high-flying aircraft, or balloons."
+      },
+      {
+        "label": "C",
+        "content": "Instead of concentrating on global cooling, other schemes look specifically at reversing the melting at the poles. One idea is to bolster an ice cap by spraying it with water. Using pumps to carry water from below the sea ice, the spray would come out as snow or ice particles, producing thicker sea ice with a higher albedo (the ratio of sunlight reflected from a surface) to reflect summer radiation. Scientists have also scrutinized whether it is possible to block ice flow in Greenland with reinforced cables, preventing icebergs from moving into the sea. Veikko Albert Kallio, a Finnish scientist, says that such an idea is impractical because the force of the ice would ultimately snap the cables and rapidly release a large quantity of frozen ice into the sea. However, Kallio believes that the sort of cables used in suspension bridges could potentially be used to divert, rather than halt, the southward movement of ice from Spitsbergen. 'It would stop the ice moving south, and local currents would see them float northwards,' he says."
+      },
+      {
+        "label": "D",
+        "content": "A number of geoengineering ideas are currently being examined in the Russian Arctic. These include planting millions of birch trees; the thinking, according to Kallio, is that their white bark would increase the amount of reflected sunlight. The loss of their leaves in winter would also enable the snow to reflect radiation. In contrast, the native evergreen pines tend to shade the snow and absorb radiation. Using ice-breaking vessels to deliberately break up and scatter coastal sea ice in both Arctic and Antarctic waters in their respective autumns, and diverting Russian rivers to increase cold-water flow to ice-forming areas, could also be used to slow down warming, Kallio says. 'You would need the wind to blow the right way, but in the right conditions, by letting ice float free and head north, you would enhance ice growth.'"
+      },
+      {
+        "label": "E",
+        "content": "But will such ideas ever be implemented? The major counter-arguments to geoengineering schemes are, first, that they are a 'cop-out' that allow us to continue living the way we do, rather than reducing carbon emissions; and, second, even if they do work, would the side-effects outweigh the advantages? Then there’s the daunting prospect of upkeep and repair of any scheme as well as the consequences of a technical failure. 'I think all of us agree that if we were to end geoengineering on a given day, then the planet would return to its pre-engineered condition very rapidly, and probably within 10 to 20 years,' says Dr Phil Rasch, chief scientist for climate change at the US-based Pacific Northwest National Laboratory."
+      },
+      {
+        "label": "F",
+        "content": "That’s certainly something to worry about. 'I would consider geoengineering as a strategy to employ only if we manage the conversion to a non-fossil-fuel economy,' says Dr Dan Hunt from the University of Bristol. 'The risk with geoengineering projects is that you can “overshoot”,' he says. 'You may bring global temperatures back to pre-industrial levels, but the risk is that the poles will still be warmer than they should be and the tropics be cooler than before industrialization.' The main reason why geoengineering is countenanced by the mainstream scientific community is that most researchers have little faith in the ability of politicians to agree – and then bring in the necessary carbon cuts. Even leading conservation organisations believe the subject worth exploring. As Dr Martin Sommerkorn, a climate change advisor, says, 'But human-induced climate change has brought humanity to a position where it is important not to exclude thinking thoroughly about this topic and its possibilities despite the potential drawbacks. If, over the coming years, the science tells us about an ever-increased climate sensitivity of the planet – and this isn’t unrealistic – then we may be best served by not having to start our thinking from scratch.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information? Write the correct letter, A-F, in boxes 14-18 on your answer sheet. You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 14,
+            "text": "the existence of geoengineering projects distracting from the real task of changing the way we live",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 15,
+            "text": "circumstances in which geoengineering has demonstrated success",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 16,
+            "text": "Frustrating maintenance problems associated with geoengineering projects",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 17,
+            "text": "support for geoengineering being due to a lack of confidence in governments",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 18,
+            "text": "more success in fighting climate change in some parts of the world than others",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer. Write your answers in boxes 19-23 on your answer sheet.",
+        "questions": [
+          {
+            "number": 19,
+            "text": "A range of geoengineering ideas has been put forward, which aim either to prevent the melting of the ice caps or to stop the general rise in global temperatures. One scheme to discourage the melting of ice and snow involves introducing ___ to the Arctic because of their colour.",
+            "answer": "birch trees",
+            "options": null
+          },
+          {
+            "number": 20,
+            "text": "The build-up of ice could be encouraged by dispersing ice along the coasts using special ships and changing the direction of some ___ but this scheme is dependent on certain weather conditions.",
+            "answer": "Russian rivers",
+            "options": null
+          },
+          {
+            "number": 21,
+            "text": "Another way of increasing the amount of ice involves using ___ to bring water to the surface.",
+            "answer": "pumps",
+            "options": null
+          },
+          {
+            "number": 22,
+            "text": "A scheme to stop ice moving would apply ___ but this method is more likely to be successful in preventing the ice from travelling in one direction rather than stopping it altogether.",
+            "answer": "cables",
+            "options": null
+          },
+          {
+            "number": 23,
+            "text": "A suggestion for cooling global temperatures is based on what has happened in the past after ___ and it involves creating clouds of gas.",
+            "answer": "volcanic explosions",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following people (Questions 24-26) and the list of opinions below. Match each person with the correct opinion, A-E. Write the correct letter, A-E, in boxes 24-26 on your answer sheet.",
+        "questions": [
+          {
+            "number": 24,
+            "text": "Phil Rasch",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "The problems of geoengineering shouldn’t mean that ideas are not seriously considered."
+              },
+              {
+                "label": "B",
+                "text": "Some geoengineering projects are more likely to succeed than others."
+              },
+              {
+                "label": "C",
+                "text": "Geoengineering only offers a short-term relief."
+              },
+              {
+                "label": "D",
+                "text": "A positive outcome of geoengineering may have a negative consequence elsewhere."
+              },
+              {
+                "label": "E",
+                "text": "Most geoengineering projects aren’t clear in what they are aiming at."
+              }
+            ]
+          },
+          {
+            "number": 25,
+            "text": "Dan Lunt",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "The problems of geoengineering shouldn’t mean that ideas are not seriously considered."
+              },
+              {
+                "label": "B",
+                "text": "Some geoengineering projects are more likely to succeed than others."
+              },
+              {
+                "label": "C",
+                "text": "Geoengineering only offers a short-term relief."
+              },
+              {
+                "label": "D",
+                "text": "A positive outcome of geoengineering may have a negative consequence elsewhere."
+              },
+              {
+                "label": "E",
+                "text": "Most geoengineering projects aren’t clear in what they are aiming at."
+              }
+            ]
+          },
+          {
+            "number": 26,
+            "text": "Martin Sommerkorn",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "The problems of geoengineering shouldn’t mean that ideas are not seriously considered."
+              },
+              {
+                "label": "B",
+                "text": "Some geoengineering projects are more likely to succeed than others."
+              },
+              {
+                "label": "C",
+                "text": "Geoengineering only offers a short-term relief."
+              },
+              {
+                "label": "D",
+                "text": "A positive outcome of geoengineering may have a negative consequence elsewhere."
+              },
+              {
+                "label": "E",
+                "text": "Most geoengineering projects aren’t clear in what they are aiming at."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:12:53.254235"
+}

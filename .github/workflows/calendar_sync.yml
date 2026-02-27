@@ -28,8 +28,7 @@ jobs:
     - name: Run sync script
       env:
         NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
-        GOOGLE_TOKEN_JSON: ${{ secrets.GOOGLE_TOKEN_JSON }}
       run: |
         cd calendar_integration
-        python sync_to_notion.py 
+        python sync_ics_to_notion.py 
  

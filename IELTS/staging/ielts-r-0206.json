@@ -1,0 +1,299 @@
+{
+  "id": "ielts-r-0206",
+  "slug": "how-fair-is-fair-trade",
+  "title": "How Fair is Fair Trade?",
+  "page_range": [
+    1044,
+    1048
+  ],
+  "raw_answer_key": {
+    "1": "‘Trade Not Aid’",
+    "8": "H",
+    "2": "Coffee",
+    "9": "B",
+    "3": "A tiny number",
+    "10": "NO",
+    "4": "Positively",
+    "11": "YES",
+    "5": "Higher prices",
+    "12": "NOT GIVEN",
+    "6": "D",
+    "13": "NO",
+    "7": "A"
+  },
+  "content": {
+    "title": "How Fair is Fair Trade?",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The fair-trade movement began in Europe in earnest in the post-war period, but only in the last 25 years has it grown to include producers and consumers in over 60 countries. In the 1950s and 60s, many people in the developed world felt passionately about the enormous disparities between developed and developing countries, and they believed the system of international trade shut out African, Asian, and South American producers who could not compete with multinational companies or who came from states that, for political reasons, were not trading with the West. The catchphrase ‘Trade Not Aid’ was used by church groups and trade unions – early supporters of fair trade – who also considered that international aid was either a pittance or a covert form of subjugation. These days, much fair trade does include aid: developed-world volunteers offer their services, and there is free training for producers and their workers."
+      },
+      {
+        "label": null,
+        "content": "Tea, coffee, cocoa, cotton, flowers, handicrafts, and gold are all major fair-trade items, with coffee being the most recognisable, found on supermarket shelves and at café chains throughout the developed world."
+      },
+      {
+        "label": null,
+        "content": "Although around two million farmers and workers produce fair-trade items, this is a tiny number in relation to total global trade. Still, fair-trade advocates maintain that the system has positively impacted upon many more people worldwide, while the critics claim that if those two million returned to the mainstream trading system, they would receive higher prices for their goods or labour."
+      },
+      {
+        "label": null,
+        "content": "Fair trade is supposed to be a trade that is fair to producers. Its basic tenet is that developed-world consumers will pay slightly more for end products in the knowledge that developing-world producers have been equitably remunerated, and that the products have been made in decent circumstances. Additionally, the fair-trade system differs from that of the open market because there is a minimum price paid for goods, which may be higher than that of the open market. Secondly, a small premium, earmarked for community development, is added in good years; for example, coffee cooperatives in South America frequently receive an additional 25c per kilogram. Lastly, purchasers of fair-trade products may assist with crop pre-financing or with the training of producers and workers, which could take the form of improving product quality, using environmentally friendly fertilisers, or raising literacy. Research has shown that non-fair-trade farmers copy some fair-trade farming practices, and, occasionally, encourage social progress. In exchange for ethical purchase and other assistance, fair-trade producers agree not to use child or slave labour, to adhere to the United Nations Charter on Human Rights, to provide safe workplaces, and to protect the environment despite these not being legally binding in their own countries."
+      },
+      {
+        "label": null,
+        "content": "However, few non-fair-trade farmers have adopted these practices, viewing them as little more than rich-world conceits. So that consumers know which products are made under fair-trade conditions, goods are labelled, and, these days, a single European and American umbrella organisation supervises labelling, standardisation, and inspection."
+      },
+      {
+        "label": null,
+        "content": "While fair trade is increasing, the system is far from perfect. First and foremost, there are expenses involved in becoming a fair-trade-certified producer, meaning the desperately poor rarely participate, so the very farmers fair-trade advocates originally hoped to support are excluded. Secondly, because conforming to the standards of fair-trade certification is costly, some producers deliberately mislabel their goods. The fair-trade monitoring process is patchy, and unfortunately, around 12% of fair-trade-labelled produce is nothing of the kind."
+      },
+      {
+        "label": null,
+        "content": "Next, a crop may genuinely be produced under fair-trade conditions, but due to a lack of demand cannot be sold as fair trade, so goes onto the open market, where prices are mostly lower. It is estimated that only between 18-37% of fair-trade output is actually sold as fair trade. Sadly, there is little reliable research on the real relationship between costs incurred and revenue for fair-trade farmers, although empirical evidence suggests that many never realise a profit. Partly, reporting from producers is inadequate, and ways of determining profit may not include credit, harvesting, transport, or processing."
+      },
+      {
+        "label": null,
+        "content": "Sometimes, the price paid to fair-trade producers is lower than that of the open market, so while a crop may be sold, elsewhere it could have earnt more, or where there are profits, they are often taken by the corporate firms that buy the goods and sell them on to retailers."
+      },
+      {
+        "label": null,
+        "content": "There are problems with the developed-world part of the equation too. People who volunteer to work for fair-trade concerns may do so believing they are assisting farmers and communities, whereas their labour serves to enrich middlemen and retailers. Companies involved in West African cocoa production have been criticised for this. In the developed world, the right to use a fair-trade logo is also expensive for packers and retailers, and sometimes a substantial amount of the money received from sale is ploughed back into marketing."
+      },
+      {
+        "label": null,
+        "content": "In richer parts of the developed world, notably in London, packers and retailers charge high prices for fair-trade products. Consumers imagine they are paying so much because more money is returned to producers when profit-taking by retailers or packers is a more likely scenario. One UK café chain is known to have passed on 1.6% of the extra 18% is charged for fair-trade coffee to producers. However, this happens with other items at the supermarket or café, so perhaps consumers are naive to believe fair-traders behave otherwise."
+      },
+      {
+        "label": null,
+        "content": "In addition, there are struggling farmers in rich countries, too, so some critics think fair-trade associations should certify them. Other critics find the entire fair-trade system flawed – nothing more than a colossal marketing scam – and they would rather assist the genuinely poor in more transparent ways, but this criticism may be overblown since fair trade has endured for and been praised in the developing world itself."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What was an early slogan about addressing the imbalance between the developed and developing worlds?",
+            "answer": "‘Trade Not Aid’"
+          },
+          {
+            "number": 2,
+            "text": "What is probably the most well-known fair-trade commodity?",
+            "answer": "Coffee"
+          },
+          {
+            "number": 3,
+            "text": "According to the writer, in terms of total global trade, what do fair-trade producers represent?",
+            "answer": "A tiny number"
+          },
+          {
+            "number": 4,
+            "text": "How do its supporters think fair trade has affected many people?",
+            "answer": "Positively"
+          },
+          {
+            "number": 5,
+            "text": "What do its critics think fair-trade producers would get if they went back to mainstream trade?",
+            "answer": "Higher prices"
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_SENTENCE_ENDINGS",
+        "instruction": "Complete each sentence with the correct ending, A-H, below.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Consumers of fair-trade products are happy",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "loans or training for producers and employees."
+              },
+              {
+                "label": "B",
+                "text": "although they may not be obliged to do so in their own country."
+              },
+              {
+                "label": "C",
+                "text": "for the various social benefits fair trade brings."
+              },
+              {
+                "label": "D",
+                "text": "to pay more for what they see as ethical products."
+              },
+              {
+                "label": "E",
+                "text": "has influenced non-fair-trade producers."
+              },
+              {
+                "label": "F",
+                "text": "because these are United Nations obligations."
+              },
+              {
+                "label": "G",
+                "text": "too much corruption."
+              },
+              {
+                "label": "H",
+                "text": "have been adopted by non-fair-trade producers."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The fair-trade system may include",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "loans or training for producers and employees."
+              },
+              {
+                "label": "B",
+                "text": "although they may not be obliged to do so in their own country."
+              },
+              {
+                "label": "C",
+                "text": "for the various social benefits fair trade brings."
+              },
+              {
+                "label": "D",
+                "text": "to pay more for what they see as ethical products."
+              },
+              {
+                "label": "E",
+                "text": "has influenced non-fair-trade producers."
+              },
+              {
+                "label": "F",
+                "text": "because these are United Nations obligations."
+              },
+              {
+                "label": "G",
+                "text": "too much corruption."
+              },
+              {
+                "label": "H",
+                "text": "have been adopted by non-fair-trade producers."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Some fair-trade practices",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "loans or training for producers and employees."
+              },
+              {
+                "label": "B",
+                "text": "although they may not be obliged to do so in their own country."
+              },
+              {
+                "label": "C",
+                "text": "for the various social benefits fair trade brings."
+              },
+              {
+                "label": "D",
+                "text": "to pay more for what they see as ethical products."
+              },
+              {
+                "label": "E",
+                "text": "has influenced non-fair-trade producers."
+              },
+              {
+                "label": "F",
+                "text": "because these are United Nations obligations."
+              },
+              {
+                "label": "G",
+                "text": "too much corruption."
+              },
+              {
+                "label": "H",
+                "text": "have been adopted by non-fair-trade producers."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Fair-trade producers must adopt international employment standards",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "loans or training for producers and employees."
+              },
+              {
+                "label": "B",
+                "text": "although they may not be obliged to do so in their own country."
+              },
+              {
+                "label": "C",
+                "text": "for the various social benefits fair trade brings."
+              },
+              {
+                "label": "D",
+                "text": "to pay more for what they see as ethical products."
+              },
+              {
+                "label": "E",
+                "text": "has influenced non-fair-trade producers."
+              },
+              {
+                "label": "F",
+                "text": "because these are United Nations obligations."
+              },
+              {
+                "label": "G",
+                "text": "too much corruption."
+              },
+              {
+                "label": "H",
+                "text": "have been adopted by non-fair-trade producers."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage?",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The fair-trade system assists farmers who are extremely poor.",
+            "answer": "NO"
+          },
+          {
+            "number": 11,
+            "text": "Some products labelled as fair-trade is in fact not.",
+            "answer": "YES"
+          },
+          {
+            "number": 12,
+            "text": "UK supermarkets and cafes should not charge such high prices for fair-trade items.",
+            "answer": "NOT GIVEN"
+          },
+          {
+            "number": 13,
+            "text": "Fair trade is mainly a marketing ploy and not a valid way of helping the poor.",
+            "answer": "NO"
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:21:38.760145"
+}

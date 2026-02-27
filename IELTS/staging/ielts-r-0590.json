@@ -1,0 +1,229 @@
+{
+  "id": "ielts-r-0590",
+  "slug": "traffic-jams--no-end-in-sight",
+  "title": "Traffic Jams — No End in Sight",
+  "page_range": [
+    2982,
+    2984
+  ],
+  "raw_answer_key": {
+    "1": "vii",
+    "4": "i",
+    "2": "vi",
+    "5": "v",
+    "3": "ii"
+  },
+  "content": {
+    "title": "Traffic Jams — No End in Sight",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "There are no easy answers to the problems of traffic congestion. Traffic congestion affects people throughout the world. Traffic jams cause smog in dozens of cities across both the developed and developing world. In the U.S., commuters spend an average of a full work week each year sitting in traffic, according to the Texas Transportation Institute. While alternative ways of getting around are available, most people still choose their cars because they are looking for convenience, comfort and privacy."
+      },
+      {
+        "label": "B",
+        "content": "The most promising technique for reducing city traffic is called congestion pricing, whereby cities charge a toll to enter certain parts of town at certain times of day. In theory, if the toll is high enough, some drivers will cancel their trips or go by bus or train. And in practice it seems to work: Singapore, London and Stockholm have reduced traffic and pollution in city centers thanks to congestion pricing."
+      },
+      {
+        "label": "C",
+        "content": "Another way to reduce rush hour traffic is for employers to implement flexitime, which lets employees travel to and from work at off-peak traffic times to avoid the rush hour. Those who have to travel during busy times can do their part by sharing cars. Employers can also allow more staff to telecommute (work from home) so as to keep more cars off the road altogether."
+      },
+      {
+        "label": "D",
+        "content": "Some urban planners still believe that the best way to ease traffic congestion is to build more roads, especially roads that can take drivers around or over crowded city streets. But such techniques do not really keep cars off the road; they only accommodate more of them."
+      },
+      {
+        "label": "E",
+        "content": "Other, more forward-thinking, planners know that more and more drivers and cars are taking to the roads every day, and they are unwilling to encourage more private automobiles when public transport is so much better both for people and the environment. For this reason, the American government has decided to spend some $7 billion on helping to increase capacity on public transport systems and upgrade them with more efficient technologies. But environmentalists complain that such funding is tiny compared with the $50 billion being spent on roads and bridges."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Read the paragraphs one by one to choose the correct headings.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A solution which is no solution"
+              },
+              {
+                "label": "ii",
+                "text": "Changing working practices"
+              },
+              {
+                "label": "iii",
+                "text": "Closing city centres to traffic"
+              },
+              {
+                "label": "iv",
+                "text": "Making cars more environmentally friendly"
+              },
+              {
+                "label": "v",
+                "text": "Not doing enough"
+              },
+              {
+                "label": "vi",
+                "text": "Paying to get in"
+              },
+              {
+                "label": "vii",
+                "text": "A global problem"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "A solution which is no solution"
+              },
+              {
+                "label": "ii",
+                "text": "Changing working practices"
+              },
+              {
+                "label": "iii",
+                "text": "Closing city centres to traffic"
+              },
+              {
+                "label": "iv",
+                "text": "Making cars more environmentally friendly"
+              },
+              {
+                "label": "v",
+                "text": "Not doing enough"
+              },
+              {
+                "label": "vi",
+                "text": "Paying to get in"
+              },
+              {
+                "label": "vii",
+                "text": "A global problem"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "A solution which is no solution"
+              },
+              {
+                "label": "ii",
+                "text": "Changing working practices"
+              },
+              {
+                "label": "iii",
+                "text": "Closing city centres to traffic"
+              },
+              {
+                "label": "iv",
+                "text": "Making cars more environmentally friendly"
+              },
+              {
+                "label": "v",
+                "text": "Not doing enough"
+              },
+              {
+                "label": "vi",
+                "text": "Paying to get in"
+              },
+              {
+                "label": "vii",
+                "text": "A global problem"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "A solution which is no solution"
+              },
+              {
+                "label": "ii",
+                "text": "Changing working practices"
+              },
+              {
+                "label": "iii",
+                "text": "Closing city centres to traffic"
+              },
+              {
+                "label": "iv",
+                "text": "Making cars more environmentally friendly"
+              },
+              {
+                "label": "v",
+                "text": "Not doing enough"
+              },
+              {
+                "label": "vi",
+                "text": "Paying to get in"
+              },
+              {
+                "label": "vii",
+                "text": "A global problem"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "A solution which is no solution"
+              },
+              {
+                "label": "ii",
+                "text": "Changing working practices"
+              },
+              {
+                "label": "iii",
+                "text": "Closing city centres to traffic"
+              },
+              {
+                "label": "iv",
+                "text": "Making cars more environmentally friendly"
+              },
+              {
+                "label": "v",
+                "text": "Not doing enough"
+              },
+              {
+                "label": "vi",
+                "text": "Paying to get in"
+              },
+              {
+                "label": "vii",
+                "text": "A global problem"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 5
+  },
+  "processed_at": "2026-02-25T22:03:53.498015"
+}

@@ -1,0 +1,223 @@
+{
+  "id": "ielts-r-0296",
+  "slug": "multitasking-debate",
+  "title": "Multitasking Debate",
+  "page_range": [
+    1494,
+    1499
+  ],
+  "raw_answer_key": {
+    "1": "F",
+    "8": "A",
+    "2": "I",
+    "9": "YES",
+    "3": "C",
+    "10": "YES",
+    "4": "B",
+    "11": "NO",
+    "5": "G",
+    "12": "NOT GIVEN",
+    "6": "C",
+    "13": "NO",
+    "7": "B"
+  },
+  "content": {
+    "title": "Multitasking Debate",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Talking on the phone while driving isn’t the only situation where we’re worse at multitasking than we might like to think we are. New studies have identified a bottleneck in our brains that some say means we are fundamentally incapable of true multitasking. If experimental findings reflect real-world performance, people who think they are multitasking are probably just underperforming in all – or at best, all but one – of their parallel pursuits. Practice might improve your performance, but you will never be as good as when focusing on one task at a time."
+      },
+      {
+        "label": "B",
+        "content": "The problem, according to René Marois, a psychologist at Vanderbilt University in Nashville, Tennessee, is that there’s a sticking point in the brain. To demonstrate this, Marois devised an experiment to locate it. Volunteers watch a screen and when a particular image appears, a red circle, say, they have to press a key with their index finger. Different coloured circles require presses from different fingers. Typical response time is about half a second, and the volunteers quickly reach their peak performance. Then they learn to listen to different recordings and respond by making a specific sound. For instance, when they hear a bird chirp, they have to say “ba”; an electronic sound should elicit a “ko”, and so on. Again, no problem. A normal person can do that in about half a second, with almost no effort."
+      },
+      {
+        "label": "C",
+        "content": "The trouble comes when Marois shows the volunteers an image, and then almost immediately plays them a sound. Now they’re flummoxed. “If you show an image and play a sound at the same time, one task is postponed,” he says. In fact, if the second task is introduced within the half-second or so it takes to process and react to the first, it will simply be delayed until the first one is done. The largest dual-task delays occur when the two tasks are presented simultaneously; delays progressively shorten as the interval between presenting the tasks lengthens."
+      },
+      {
+        "label": "D",
+        "content": "There are at least three points where we seem to get stuck, says Marois. The first is in simply identifying what we’re looking at. This can take a few tenths of a second, during which time we are not able to see and recognise a second item. This limitation is known as the “attentional blink”: experiments have shown that if you’re watching out for a particular event and a second one shows up unexpectedly any time within this crucial window of concentration, it may register in your visual cortex but you will be unable to act upon it. Interestingly, if you don’t expect the first event, you have no trouble to respond to the second. What exactly causes the attentional blink is still a matter for debate."
+      },
+      {
+        "label": "E",
+        "content": "A second limitation is in our short-term visual memory. It’s estimated that we can keep track of about four items at a time, fewer if they are complex. This capacity shortage is thought to explain, in part, our astonishing inability to detect even huge changes in scenes that are otherwise identical, so-called “change blindness”. Show people pairs of near-identical photos – say, aircraft engines in one picture have disappeared in the other – and they will fail to spot the differences. Here again, though, there is disagreement about what the essential limiting factor really is. Does it come down to a dearth of storage capacity, or is it about how much attention a viewer is paying?"
+      },
+      {
+        "label": "F",
+        "content": "A third limitation is that choosing a response to a stimulus – braking when you see a child in the road, for instance, or replying when your mother tells you over the phone that she’s thinking of leaving your dad – also takes brainpower. Selecting a response to one of these things will delay by some tenths of a second your ability to respond to the other. This is called the “response selection bottleneck” theory, first proposed in 1952."
+      },
+      {
+        "label": "G",
+        "content": "But David Meyer, a psychologist at the University of Michigan, Ann Arbor, doesn’t buy the bottleneck idea. He thinks dual-task interference is just evidence of a strategy used by the brain to prioritise multiple activities. Meyer is known as something of an optimist by his peers. He has written papers with titles like “Virtually perfect time-sharing in dual-task performance: Uncorking the central cognitive bottleneck”. His experiments have shown that with enough practice – at least 2000 tries – some people can execute two tasks simultaneously as competently as if they were doing them one after the other. He suggests that there is a central cognitive processor that coordinates all this and, what’s more, he thinks it used discretion: sometimes it chooses to delay one task while completing another."
+      },
+      {
+        "label": "H",
+        "content": "Marois agrees that practice can sometimes erase interference effects. He has found that with just 1 hour of practice each day for two weeks, volunteers show a huge improvement at managing both his tasks at once. Where he disagrees with Meyer is in what the brain is doing to achieve this. Marois speculates that practice might give us the chance to find less congested circuits to execute a task – rather like finding trusty back streets to avoid heavy traffic on main roads – effectively making our response to the task subconscious. After all, there are plenty of examples of subconscious multitasking that most of us routinely manage: walking and talking, eating and reading, watching TV and folding the laundry."
+      },
+      {
+        "label": "I",
+        "content": "It probably comes as no surprise that, generally speaking, we get worse at multitasking as we age. According to Art Kramer at the University of Illinois at Urbana-Champaign, who studies how ageing affects our cognitive abilities, we peak in our 20s. Though the decline is slow through our 30s and on into our 50s, it is there; and after 55, it becomes more precipitous. In one study, he and his colleagues had both young and old participants do a simulated driving task while carrying on a conversation. He found that while young drivers tended to miss background changes, older drivers failed to notice things that were highly relevant. Likewise, older subjects had more trouble paying attention to the more important parts of a scene than young drivers."
+      },
+      {
+        "label": "J",
+        "content": "It’s not all bad news for over-55s, though. Kramer also found that older people can benefit from the practice. Not only did they learn to perform better, but brain scans also showed that underlying that improvement was a change in the way their brains become active. While it’s clear that practice can often make a difference, especially as we age, the basic facts remain sobering. “We have this impression of an almighty complex brain,” says Marois, “and yet we have very humbling and crippling limits.” For most of our history, we probably never needed to do more than one thing at a time, he says, and so we haven’t evolved to be able to. Perhaps we will in future, though. We might yet look back one day on people like Debbie and Alun as ancestors of a new breed of true multitaskers."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The Reading Passage has ten paragraphs A-J. Which paragraph contains the following information? Write the correct letter A-J, in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A theory explained delay happens when selecting one reaction",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Different age group responds to important things differently",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Conflicts happened when visual and audio element emerge simultaneously",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "An experiment designed to demonstrates the critical part of the brain for multitasking",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "A viewpoint favors the optimistic side of multitasking performance",
+            "answer": "G",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 6-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Which one is correct about the experiment conducted by René Marois?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "participants performed poorly on the listening task solely"
+              },
+              {
+                "label": "B",
+                "text": "volunteers press a different key on different color"
+              },
+              {
+                "label": "C",
+                "text": "participants need to use different fingers on the different colored object"
+              },
+              {
+                "label": "D",
+                "text": "they did a better job on Mixed image and sound information"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Which statement is correct about the first limitation of Marois’s experiment?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "“attentional blink” takes about ten seconds"
+              },
+              {
+                "label": "B",
+                "text": "lag occurs if we concentrate on one object while the second one appears"
+              },
+              {
+                "label": "C",
+                "text": "we always have trouble in reaching the second one"
+              },
+              {
+                "label": "D",
+                "text": "first limitation can be avoided by certain measures"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Which one is NOT correct about Meyer’s experiments and statements?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "just after failure in several attempts can people execute dual-task"
+              },
+              {
+                "label": "B",
+                "text": "Practice can overcome dual-task interference"
+              },
+              {
+                "label": "C",
+                "text": "Meyer holds a different opinion on Marois’s theory"
+              },
+              {
+                "label": "D",
+                "text": "an existing processor decides whether to delay another task or not"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 9-13 on your answer sheet, write YES if the statement is true, NO if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "The longer gap between two presenting tasks means shorter delay toward the second one.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Incapable of human memory cause people to sometimes miss the differences when presented two similar images.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Marois has a different opinion on the claim that training removes the bottleneck effect.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Art Kramer proved there is a correlation between multitasking performance and genders",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The author doesn’t believe that the effect of practice could bring any variation.",
+            "answer": "NO",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:49:09.345607"
+}

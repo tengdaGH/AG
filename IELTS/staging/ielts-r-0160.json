@@ -1,0 +1,272 @@
+{
+  "id": "ielts-r-0160",
+  "slug": "fear-of-the-unknown",
+  "title": "Fear of the Unknown",
+  "page_range": [
+    815,
+    819
+  ],
+  "raw_answer_key": {
+    "1": "F",
+    "8": "TRUE",
+    "2": "A",
+    "9": "NOT GIVEN",
+    "3": "C",
+    "10": "FALSE",
+    "4": "B",
+    "11": "TRUE",
+    "5": "E",
+    "12": "C",
+    "6": "G",
+    "13": "A",
+    "7": "F",
+    "14": "D"
+  },
+  "content": {
+    "title": "Fear of the Unknown",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "In the small Umagic office in midtown Manhattan, a team of 30 computer programmers are working on setting up websites that will allow subscribers to feed in details about themselves and their problems and to receive advice from 'virtual' versions of personalities regarded as experts in their fields: for example, a well-known dietician, a celebrity fitness trainer, a psychologist well known in the media for her work on parent-child relationships. Umagic Systems is a young firm and it's hard to predict how far they'll go. In ten years' time, consulting a computer about your diet problems might seem natural or it might seem absurd. But the company and others like it are beginning to seriously worry large American firms, who see such half-crazy new and innovative ideas as a threat to their own future success."
+      },
+      {
+        "content": "Innovation has become a major concern of American management. Firms have found that it is increasingly difficult to redesign existing products or to produce them more economically. The stars of American business tend today to be innovators such as Amazon (the internet bookstore) and Wal-Mart (the supermarket chain) which have produced completely new ideas or products that have changed their industries."
+      },
+      {
+        "content": "Over the past 15 years, the firms which have achieved the greatest profits have been the ones which have had the most innovations. But such profits aren't easy to come by. One of the reasons for the increasing number of mergers between companies is a desperate search for new ideas. And a fortune is spent nowadays on identifying and protecting intellectual property: other people's ideas."
+      },
+      {
+        "content": "According to the Pasadena-based Patent & License Exchange in the United States, trading in intangible assets such as intellectual property rose from $15 billion in 1990 to $100 billion in 1998, with an increasing proportion of the rewards going to small firms and individuals."
+      },
+      {
+        "content": "And therein lies the terror for big companies: that innovation seems to work best outside them. Many of the large established companies have been struggling to come up with new products recently. 'In the management of creativity, size is your enemy,' argues Peter Chemin, who runs Fox TV and film empire for News Corporation. 'One person managing 20 movies is never going to be as involved as one doing five movies.' He has thus tried to break down the studio into smaller units, even at the risk of incurring higher costs."
+      },
+      {
+        "content": "It is easier for ideas to develop outside big firms these days. In the past, if a clever scientist had an idea he wanted to commercialise, he would take it first to a big company. Now, with the banks encouraging individuals to set up new businesses through offering special loans, innovators are more likely to set up on their own. Umagic has already raised $5 million and is about to raise $25 million more. Even in capital-intensive businesses such as pharmaceuticals, entrepreneurs can conduct profitable, early-stage research, selling out to the big firms when they reach expensive, risky clinical trials."
+      },
+      {
+        "content": "Some giants, including General Electric and Cisco, have been remarkably successful at buying up and integrating scores of small companies. But many others worry about the prices they have to pay and the difficulty in keeping hold of the people who dreamt up the ideas. Everybody would like to develop more ideas in-house. Procter & Gamble is now changing the entire direction of its business from global expansion to product development; one of its new aims is to get innovations accepted across the company. Elsewhere, the search for innovation has led to a craze for 'intrapreneurship' - giving more power to individuals in the company and setting up internal ideas-factories so that talented staff will not leave."
+      },
+      {
+        "content": "And yet innovation does not happen just because the chief executive wills it. Indeed, it is extremely difficult to come up with new ideas year in, year out, especially brilliant ones. Underneath all experts' diagrams, lists and charts, most of the available answers seem to focus on two strengths that are difficult to impose: a culture that looks for new ideas, and leaders who know which ones to back. Companies have to discredit the widespread view that jobs working on new products are for 'those who can't cope in the real business'. They have to change the culture by introducing hard incentives, such as giving more generous bonuses to those who come up with successful new ideas and, particularly, not punishing those whose experiments fail."
+      },
+      {
+        "content": "Will all this reorganization and culture tweaking make big firms more creative? David Post, the founder of Umagic, isn't so sure: 'He also recalls with glee the looks of total incomprehension when he tried to sell his 'virtual experts' idea three years ago to firms such as IBM, though, as he cheerfully adds,' of course, they could have been right'."
+      },
+      {
+        "content": "Apparently, innovation - unlike diet, fitness and parenting - is one area where a computer cannot tell you what to do."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has eight paragraphs A-H. Which paragraph contains the following information? Write the correct letter, A-H, in boxes 1-7 on your answer sheet. NB: you may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "the methods some companies use to try to keep their most creative employees",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "a new way of getting help with your personal difficulties",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "how much investment goes into safeguarding the ideas of individuals",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "two examples of companies which have succeeded through being innovative",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "how some innovators manage to avoid spending large sums of money on testing out their ideas",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "a commonly held opinion about product designers that needs to be proved wrong",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "the target of one large company that has changed its business focus",
+            "answer": "F",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 8-11 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Umagic Systems is an example of a new innovative company.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Amazon and Wal-Mart have exchanged successful ideas on innovation.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Using financial rewards to encourage innovation is an outdated practice.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "IBM failed to understand David Post's 'virtual experts’ idea.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "What point does the writer make about intellectual property?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It can be lost when firms merge."
+              },
+              {
+                "label": "B",
+                "text": "It tends to belong to companies rather than individuals."
+              },
+              {
+                "label": "C",
+                "text": "It is valued more than it used to be."
+              },
+              {
+                "label": "D",
+                "text": "It is not usually owned by small companies."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Peter Chemin is an example of someone who has realized that",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "large companies are less innovative than small ones."
+              },
+              {
+                "label": "B",
+                "text": "other businesses are more innovative than the film business."
+              },
+              {
+                "label": "C",
+                "text": "his employees need more experience of innovation."
+              },
+              {
+                "label": "D",
+                "text": "he is the best person to encourage innovation."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "In conclusion, the writer suggests that",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "computer-based industries cannot be innovative."
+              },
+              {
+                "label": "B",
+                "text": "big firms are right to be cautious about innovation."
+              },
+              {
+                "label": "C",
+                "text": "small firms should not worry about early failures."
+              },
+              {
+                "label": "D",
+                "text": "innovation will always involve some uncertainty."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:00:18.393275"
+}

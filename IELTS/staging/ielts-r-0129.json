@@ -1,0 +1,288 @@
+{
+  "id": "ielts-r-0129",
+  "slug": "developmental-tasks-of-normal-adolescence",
+  "title": "Developmental Tasks of Normal Adolescence",
+  "page_range": [
+    660,
+    664
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "C",
+    "2": "B",
+    "9": "E",
+    "3": "A",
+    "10": "D",
+    "4": "A",
+    "11": "FALSE",
+    "5": "C",
+    "12": "TRUE",
+    "6": "B",
+    "13": "TRUE",
+    "7": "A"
+  },
+  "content": {
+    "title": "Developmental Tasks of Normal Adolescence",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "content": "Some years ago, Professor Robert Havighurst of the University of Chicago, USA, proposed that stages in human development can best be thought of in terms of the developmental 'tasks' that are part of the normal transition. He identified ten developmental tasks associated with the adolescent transition. Each of the Havighurst tasks can also be seen as elements of the overall sense of self that adolescents carry with them as they move towards and into young adulthood. Adolescents do not progress through these multiple developmental tasks separately; at any given time they may be dealing with several."
+      },
+      {
+        "content": "The adolescent must adjust to a new physical sense of self. At no other time since birth does an individual undergo such profound physical changes as during early adolescence. Puberty is marked by sudden rapid growth in height and weight. Also, the young person experiences the emergence and accentuation of those physical traits that make the person a boy or a girl. The young person looks less like a child and more like a physically mature adult. The effect of this rapid change is that mid-adolescents are body-conscious, and their concerns are directed towards their opposite-sexed peers."
+      },
+      {
+        "content": "The adolescent must adjust to new intellectual abilities. In addition to a sudden spurt in physical growth, adolescents experience a sudden increase in their ability to think about their world. As a normal part of maturity, they are able to think more things. However, they are also able to conceive of their world with awareness. Before adolescence, children's thinking is dominated by a concrete example for any problem that they solve; their thinking is constrained to what is real and physical. During adolescence, young people begin to recognise and understand abstractions. The growth in ability to deal with abstractions accelerates during the middle stages of adolescence."
+      },
+      {
+        "content": "The adolescent must adjust to increased cognitive demands at school. Adults see high school in part as a place where adolescents prepare for adult roles and responsibilities and in part as preparatory for further education. School curricula are frequently dominated by the inclusion of more abstract, demanding material, regardless of whether the adolescents have achieved formal thought. Since not all adolescents make the intellectual transition at the same rate, demands for abstract thinking prior to the achievement of that ability may be frustrating."
+      },
+      {
+        "content": "The adolescent must adopt a personal value system. During adolescence, as teens develop increasingly complex knowledge systems, they also adopt an integrated set of values and morals. During the early stages of moral development, parents provide their child with a structured set of rules of what is right and wrong, what is acceptable and unacceptable. Eventually the adolescent must assess the parent's values as they come into conflict with values expressed by peers and other segments of society. To reconcile differences, the adolescent restructures those beliefs into a personal ideology."
+      },
+      {
+        "content": "The adolescent must develop expanded verbal skills to accommodate more complex concepts and tasks. Their limited language of childhood is no longer adequate. As their conceptual development may outstrip their verbal development, adolescents may appear less competent than they really are."
+      },
+      {
+        "content": "The adolescent must establish adult vocational goals. As part of the process of establishing a personal identity, the adolescent must also begin the process of focusing on the question, 'What do you plan to be when you grow up?' Mid-adolescents must identify, at least at a preliminary level, what their adult vocational goals are and how they intend to achieve them."
+      },
+      {
+        "content": "The adolescent must develop a personal sense of identity. Prior to adolescence, one's identity is an extension of one's parents' identity. During the early adolescent years a young person begins to recognise their uniqueness and to establish themselves as separate individuals, independent of their parents. As such, one must reconsider the answer to the question, 'what does it mean to be me?' or 'who am I?'"
+      },
+      {
+        "content": "The adolescent must establish emotional and psychological independence from his or her parents. Childhood is marked by strong dependence on one's parents. Adolescents may yearn to keep that safe, secure, supportive, dependent relationship. Yet, to be an adult implies a sense of independence, of autonomy, of being one's own person. In an attempt to assert their need for independence and individuality, adolescents may respond with what appears to be hostility and lack of cooperation."
+      },
+      {
+        "content": "The adolescent must develop stable and productive peer relationships. Although peer interaction is not unique to adolescence, it seems to hit a peak of importance during early adolescence. Certainly by late adolescence or early adulthood the need for peer approval has diminished. This degree to which an adolescent is able to make friends and have an accepting peer group, though, is a major indicator of how well the adolescent will adjust in other areas of social and psychological development. Early adolescence is also a period of intense conformity to peers. 'Fitting in', not being different, and being accepted seem somehow pressing to this age group. The worst possibility, from the view of the young teen, is to be seen by peers as different."
+      },
+      {
+        "content": "The adolescent must develop increased impulse control and behavioural maturity. In their shift to adulthood, most young people engage in one or more behaviours that place them at physical, social, or educational risk. Risky behaviours are sufficiently pervasive among adolescents to suggest that risk-taking may be a normal developmental process of middle adolescence. Gradually adolescents develop a set of behavioural self-controls through which they assess which behaviours are acceptable and adult-like."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Classify the following developments as characterising A early adolescence, B middle adolescence, C late adolescence. Write the correct letter, A, B, or C, in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "becoming interested in people of the other gender",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "beginning to choose a future career",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "needing to feel the same as one's friends",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "beginning to form a self-image separate from the family context",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "having less need for the good opinion of friends",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "exposing oneself to dangers",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending, A-E, below. Write the correct letter, A-E, in boxes 7-10 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Havighurst proposed a set of tasks which",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "reflects an adolescent's emerging self-perception."
+              },
+              {
+                "label": "B",
+                "text": "cannot solve a problem without an example."
+              },
+              {
+                "label": "C",
+                "text": "is designed to become more challenging."
+              },
+              {
+                "label": "D",
+                "text": "formulates a personal set of moral beliefs and values."
+              },
+              {
+                "label": "E",
+                "text": "varies according to the individual."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "A course of study at high school",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "reflects an adolescent's emerging self-perception."
+              },
+              {
+                "label": "B",
+                "text": "cannot solve a problem without an example."
+              },
+              {
+                "label": "C",
+                "text": "is designed to become more challenging."
+              },
+              {
+                "label": "D",
+                "text": "formulates a personal set of moral beliefs and values."
+              },
+              {
+                "label": "E",
+                "text": "varies according to the individual."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The speed of development of thinking ability during adolescence",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "reflects an adolescent's emerging self-perception."
+              },
+              {
+                "label": "B",
+                "text": "cannot solve a problem without an example."
+              },
+              {
+                "label": "C",
+                "text": "is designed to become more challenging."
+              },
+              {
+                "label": "D",
+                "text": "formulates a personal set of moral beliefs and values."
+              },
+              {
+                "label": "E",
+                "text": "varies according to the individual."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Adolescence is a time when the young person",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "reflects an adolescent's emerging self-perception."
+              },
+              {
+                "label": "B",
+                "text": "cannot solve a problem without an example."
+              },
+              {
+                "label": "C",
+                "text": "is designed to become more challenging."
+              },
+              {
+                "label": "D",
+                "text": "formulates a personal set of moral beliefs and values."
+              },
+              {
+                "label": "E",
+                "text": "varies according to the individual."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 11-13 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Most pre-adolescent children are capable of abstract thought.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Adolescents’ limited skills with words may give a false impression of their ability.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Whether or not an adolescent is accepted by their age-group is an important clue to other aspects of their social adjustment.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "TRUE"
+              },
+              {
+                "label": "FALSE",
+                "text": "FALSE"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:53:23.133775"
+}

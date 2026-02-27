@@ -1,0 +1,230 @@
+{
+  "id": "ielts-r-0055",
+  "slug": "autumn-leaves",
+  "title": "Autumn leaves",
+  "page_range": [
+    283,
+    287
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "dry",
+    "2": "B",
+    "9": "north",
+    "3": "H",
+    "10": "FALSE",
+    "4": "B",
+    "11": "TRUE",
+    "5": "E",
+    "12": "NOT GIVEN",
+    "6": "sun(light)",
+    "13": "B",
+    "7": "upper"
+  },
+  "content": {
+    "title": "Autumn Leaves",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "One of the most captivating natural events of the year in many areas throughout North America is the turning of the leaves in the fall. The colours are magnificent, but the question of exactly why some trees turn yellow or orange, and others red or purple, is something which has long puzzled scientists."
+      },
+      {
+        "label": "B",
+        "content": "Summer leaves are green because they are full of chlorophyll, the molecule that captures sunlight and converts that energy into new building materials for the tree. As fall approaches in the northern hemisphere, the amount of solar energy available declines considerably. For many trees – evergreen conifers being an exception – the best strategy is to abandon photosynthesis until the spring. So rather than maintaining the now redundant leaves throughout the winter, the tree saves its precious resources and discards them. But before letting its leaves go, the tree dismantles their chlorophyll molecules and ships their valuable nitrogen back into the twigs. As chlorophyll is depleted, other colours that have been dominated by it throughout the summer begin to be revealed. This unmasking explains the autumn colours of yellow and orange, but not the brilliant reds and purples of trees such as the maple or sumac."
+      },
+      {
+        "label": "C",
+        "content": "The source of the red is widely known: it is created by anthocyanins, water-soluble plant pigments reflecting the red to blue range of the visible spectrum. They belong to a class of sugar-based chemical compounds also known as flavonoids. What’s puzzling is that anthocyanins are actually newly minted, made in the leaves at the same time as the tree is preparing to drop them. But it is hard to make sense of the manufacture of anthocyanins – why should a tree bother making new chemicals in its leaves when it’s already scrambling to withdraw and preserve the ones already there?"
+      },
+      {
+        "label": "D",
+        "content": "Some theories about anthocyanins have argued that they might act as a chemical defence against attacks by insects or fungi, or that they might attract fruit-eating birds or increase a leaf’s tolerance to freezing. However, there are problems with each of these theories, including the fact that leaves are red for such a relatively short period that the expense of energy needed to manufacture the anthocyanins would outweigh any anti-fungal or anti-herbivore activity achieved."
+      },
+      {
+        "label": "E",
+        "content": "It has also been proposed that trees may produce vivid red colours to convince herbivorous insects that they are healthy and robust and would be easily able to mount chemical defences against infestation. If insects paid attention to such advertisements, they might be prompted to lay their eggs on a duller, and presumably less resistant host. The flaw in this theory lies in the lack of proof to support it. No one has as yet ascertained whether more robust trees sport the brightest leaves, or whether insects make choices according to colour intensity."
+      },
+      {
+        "label": "F",
+        "content": "Perhaps the most plausible suggestion as to why leaves would go to the trouble of making anthocyanins when they’re busy packing up for the winter is the theory known as the ‘light screen’ hypothesis. It sounds paradoxical, because the idea behind this hypothesis is that the red pigment is made in autumn leaves to protect chlorophyll, the light-absorbing chemical, from too much light."
+      },
+      {
+        "label": "G",
+        "content": "Chlorophyll, although exquisitely evolved to capture the energy of sunlight, can sometimes be overwhelmed by it, especially in situations of drought, low temperatures, or nutrient deficiency. Moreover, the problem of oversensitivity to light is even more acute in the fall, when the leaf is busy preparing for winter by dismantling its internal machinery. The energy absorbed by the chlorophyll molecules of the unstable autumn leaf is not immediately channelled into useful products and processes, as it would be in an intact summer leaf. The weakened fall leaf then becomes vulnerable to the highly destructive effects of the oxygen created by the excited chlorophyll molecules."
+      },
+      {
+        "label": "H",
+        "content": "Even if you had never suspected that this is what was going on when leaves turn red, there are clues out there. One is straightforward: on many trees, the leaves that are the reddest are those on the side of the tree which gets most sun. Not only that, but the red is brighter on the upper side of the leaf. It has also been recognised for decades that the best conditions for intense red colours are dry, sunny days and cool nights, conditions that nicely match those that make leaves susceptible to excess light. And finally, trees such as maples usually get much redder the more north you travel in the northern hemisphere. It’s colder there, they’re more stressed, their chlorophyll is more sensitive and it needs more sunblock."
+      },
+      {
+        "label": "I",
+        "content": "What is still not fully understood, however, is why some trees resort to producing red pigments while others don’t bother, and simply reveal their orange or yellow hues. Do these trees have other means at their disposal to prevent overexposure to light in autumn? Their story, though not as spectacular to the eye, will surely turn out to be as subtle and as complex."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information? Write the correct letter, A-I, in boxes 1-5 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "a description of the substance responsible for the red colouration of leaves",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "the reason why trees drop their leaves in autumn",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "some evidence to confirm a theory about the purpose of the red leaves",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "an explanation of the function of chlorophyll",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "a suggestion that the red colouration in leaves could serve as a warning signal",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the notes below. Choose ONE WORD ONLY from the passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "The most vividly coloured red leaves are found on the side of the tree facing the __________.",
+            "answer": "sun(light)",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "The __________ surfaces of leaves contain the most red pigment.",
+            "answer": "upper",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Red leaves are most abundant when daytime weather conditions are __________ and sunny.",
+            "answer": "dry",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "The intensity of the red colour of leaves increases as you go further __________.",
+            "answer": "north",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 10-12 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "It is likely that the red pigments help to protect the leaf from freezing temperatures.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "The ‘light screen’ hypothesis would initially seem to contradict what is known about chlorophyll.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Leaves which turn colours other than red are more likely to be damaged by sunlight.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter A, B, C or D. Write the correct letter in box 13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "For which of the following questions does the writer offer an explanation?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "why conifers remain green in winter"
+              },
+              {
+                "label": "B",
+                "text": "how leaves turn orange and yellow in autumn"
+              },
+              {
+                "label": "C",
+                "text": "how herbivorous insects choose which trees to lay their eggs in"
+              },
+              {
+                "label": "D",
+                "text": "why anthocyanins are restricted to certain trees"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:33:27.424559"
+}

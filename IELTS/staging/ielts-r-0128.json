@@ -1,0 +1,240 @@
+{
+  "id": "ielts-r-0128",
+  "slug": "detection-of-a-meteorite-lake",
+  "title": "Detection of a meteorite Lake",
+  "page_range": [
+    654,
+    659
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "cable",
+    "9": "hydrophones/",
+    "2": "NOT GIVEN underwater microphones",
+    "3": "FALSE",
+    "10": "shipping container",
+    "11": "seismic reflection",
+    "4": "TRUE profiling",
+    "5": "FALSE",
+    "12": "laboratory",
+    "6": "air gun",
+    "13": "three-dimensional",
+    "7": "sound energy/",
+    "14": "fishing nets sound wave"
+  },
+  "content": {
+    "title": "Detection of a Meteorite Lake",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "As the sun rose over picturesque Lake Bosumtwi, a team of Syracuse University researchers prepared for another day of using state-of-the-art equipment to help bottom. Nestled in the heart of Ghana, the lake holds an untapped reservoir of information that could help scientists predict future climate changes by looking at evidence from the past. This information will also improve the scientists’ understanding of the changes that occur in a region struck by a massive meteorite."
+      },
+      {
+        "label": "B",
+        "content": "The project, led by earth sciences professor Christopher Scholz of the College of Arts and Sciences and funded by the National Science Foundation (NSF), is the first large-scale effort to study Lake Bosumtwi, which formed 1.1 million years ago when a giant meteor crashed into the Earth’s surface. The resulting crater is one of the largest and most well-preserved geologically young craters in the world, says Scholz, who is collaborating on the project with researchers from the University of Arizona, the University of South Carolina, the University of Rhode Island, and several Ghanaian institutions. “Our data should provide information about what happens when an impact hits hard, pre-Cambrian, crystalline rocks that are a billion years old,” he says."
+      },
+      {
+        "label": "C",
+        "content": "Equally important is the fact that the lake, which is about 8 kilometers in diameter, has no natural outlet. The rim of the crater rises about 250 meters above the water’s surface. Streams flow into the lake, Scholz says, but the water leaves only by evaporation, or by seeping through the lake sediments. For the past million years, the lake has acted as a tropical rain gauge, filling and drying with changes in precipitation and the tropical climate. The record of those changes is hidden in the sediment below the lake bottom. “The lake is one of the best sites in the world for the study of tropical climate changes,” Scholz says. “The tropics are the heat engine for the Earth’s climate. To understand the global climate, we need to have records of climate changes from many sites around the world, including the tropics.”"
+      },
+      {
+        "label": "D",
+        "content": "Before the researchers could explore the lake’s subsurface, they needed a boat with a large, working deck area that could carry eight tons of scientific equipment. The boat – dubbed R/V Kilindi – was built in Florida last year. It was constructed in modules that were dismantled, packed inside a shipping container, and reassembled over a 10-day period in late November and early December 1999 in the rural village of Abono, Ghana. The research team then spent the next two weeks testing the boat and equipment before returning to the United States for the holidays."
+      },
+      {
+        "label": "E",
+        "content": "In mid-January, five members of the team – Keely Brooks, an earth sciences graduate student; Peter Cattaneo, a research analyst; and Kiram Lezzar, a postdoctoral scholar, all from SU; James McGill, a geophysical field engineer; and Nick Peters, a Ph.D. student in geophysics from the University of Miami – returned to Abono to begin collecting data about the lake’s subsurface using a technique called seismic reflection profiling. In this process, a high-pressure air gun is used to create small, pneumatic explosions in the water. The sound energy penetrates about 1,000 to 2,000 meters into the lake’s subsurface before bouncing back to the surface of the water."
+      },
+      {
+        "label": "F",
+        "content": "The reflected sound energy is detected by underwater microphones – called hydrophones – embedded in a 50-meter-long cable that is towed behind the boat as it crosses the lake in a carefully designed grid pattern. On-board computers record the signals, and the resulting data are then processed and analyzed in the laboratory. “The results will give us a good idea of the shape of the basin, how thick the layers of sediment are, and when and where there were major changes in sediment accumulation,” Scholz says. “We are now developing a three-dimensional perspective of the lake’s subsurface and the layers of sediment that have been laid down.”"
+      },
+      {
+        "label": "G",
+        "content": "Team members spent about four weeks in Ghana collecting the data. They worked seven days a week, arriving at the lake just after sunrise. On a good day, when everything went as planned, the team could collect data and be back at the dock by early afternoon. Except for a few relatively minor adjustments, the equipment and the boat worked well. Problems that arose were primarily non-scientific – tree stumps, fishing nets, cultural barriers, and occasional misunderstandings with local villagers."
+      },
+      {
+        "label": "H",
+        "content": "Lake Bosumtwi, the largest natural freshwater lake in the country, is sacred to the Ashanti people, who believe their souls come to the lake to bid farewell to their god. The lake is also the primary source of fish for the 26 surrounding villages. Conventional canoes and boats are forbidden. Fishermen travel on the lake by floating on traditional planks they propel with small paddles. Before the research project could begin, Scholz and his Ghanaian counterparts had to secure special permission from tribal chiefs to put the R/V Kilindi on the lake."
+      },
+      {
+        "label": "I",
+        "content": "When the team began gathering data, rumors flew around the lake as to why the researchers were there. “Some thought we were dredging the lake for gold, others thought we were going to drain the lake or that we had bought the lake,” Cattaneo says. “But once the local people understood why we were there, they were very helpful.”"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-5 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "With the investigation of the lake, the scientist may predict the climate changes in the future.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The crater resulted from a meteorite impact is the largest and most preserved one in the world.",
+            "answer": "NOT GIVEN underwater microphones",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "The water stored in lake Bosumtwi was gone only by seeping through the lake sediments.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Historical climate changes can be detected by the analysis of the sediment in the lake.",
+            "answer": "TRUE profiling",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "The greatest obstacle to the research of scientists had been the interference by the locals due to their indigenous believes.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "FLOW_CHART_COMPLETION",
+        "instruction": "There are three steps of collecting data from the lake as followings, please fill the blanks in the Flow Chart below.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "",
+            "answer": "air gun",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "",
+            "answer": "sound energy/",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "",
+            "answer": "cable",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "",
+            "answer": "hydrophones/",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraph of Reading Passage. Using NO MORE THAN THREE WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The boat-double R/V Kilindi crossed the lake was dismantled and stored in",
+            "answer": "shipping container",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The technology they used called",
+            "answer": "seismic reflection",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Then the data had been analyzed and processed in the",
+            "answer": "laboratory",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Scholz also added that they were now building",
+            "answer": "three-dimensional",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "The whole set of equipment works well yet the ship should avoid physical barrier including tree stumps or",
+            "answer": "fishing nets sound wave",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T19:53:19.374135"
+}

@@ -1,0 +1,285 @@
+{
+  "id": "ielts-r-0628",
+  "slug": "wheel-of-fortune",
+  "title": "Wheel of Fortune",
+  "page_range": [
+    3175,
+    3179
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "G",
+    "2": "C",
+    "9": "B",
+    "3": "A",
+    "10": "E",
+    "4": "F",
+    "11": "C",
+    "5": "B",
+    "12": "A",
+    "6": "C",
+    "13": "D",
+    "7": "F",
+    "14": "C"
+  },
+  "content": {
+    "title": "Wheel of Fortune",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Since moving pictures were invented a century ago, a new way of distributing entertainment to consumers has emerged about once every generation. Each such innovation has changed the industry irreversibly; each has been accompanied by a period of fear mixed with exhilaration. The arrival of digital technology, which translates music, pictures and text into the zeros and ones of computer language, marks one of those periods."
+      },
+      {
+        "label": "B",
+        "content": "This may sound familiar, because the digital revolution, and the explosion of choice that would go with it, has been heralded for some time. In 1992, John Malone, chief executive of TCI, an American cable giant, welcomed the '500-channel universe'. Digital television was about to deliver everything except pizzas to people's living rooms. When the entertainment companies tried out the technology, it worked fine - but not at a price that people were prepared to pay."
+      },
+      {
+        "label": "C",
+        "content": "Those 500 channels eventually arrived but via the Internet and the PC rather than through television. The digital revolution was starting to affect the entertainment business in unexpected ways. Eventually it will change every aspect of it, from the way cartoons are made to the way films are screened to the way people buy music. That much is clear. What nobody is sure of is how it will affect the economics of the business."
+      },
+      {
+        "label": "D",
+        "content": "New technologies always contain within them both threats and opportunities. They have the potential both to make the companies in the business a great deal richer, and to sweep them away. Old companies always fear new technology. Hollywood was hostile to television, television terrified by the VCR. Go back far enough, points out Hal Varian, an economist at the University of California at Berkeley, and you find publishers complaining that 'circulating libraries' would cannibalise their sales. Yet whenever a new technology has come in, it has made more money for existing entertainment companies. The proliferation of the means of distribution results, gratifyingly, in the proliferation of dollars, pounds, pesetas and the rest to pay for it."
+      },
+      {
+        "label": "E",
+        "content": "All the same, there is something in the old companies' fears. New technologies may not threaten their lives, but they usually change their role. Once television became widespread, film and radio stopped being the staple form of entertainment. Cable television has undermined the power of the broadcasters. And as power has shifted the movie studios, the radio companies and the television broadcasters have been swallowed up. These days, the grand old names of entertainment have more resonance than power. Paramount is part of Viacom, a cable company; Universal, part of Seagram, a drinks-and-entertainment company; MGM, once the roaring lion of Hollywood, has been reduced to a whisper because it is not part of one of the giants. And RCA, once the most important broadcasting company in the world, is now a recording label belonging to Bertelsmann, a large German entertainment company."
+      },
+      {
+        "label": "F",
+        "content": "Part of the reason why incumbents got pushed aside was that they did not see what was coming. But they also faced a tighter regulatory environment than the present one. In America, laws preventing television broadcasters from owning programme companies were repealed earlier this decade, allowing the creation of vertically integrated businesses. Greater freedom, combined with a sense of history, prompted the smarter companies in the entertainment business to re-invent themselves. They saw what happened to those of their predecessors who were stuck with one form of distribution."
+      },
+      {
+        "label": "G",
+        "content": "So, these days, the powers in the entertainment business are no longer movie studios, or television broadcasters, or publishers; all those businesses have become part of bigger businesses still, companies that can both create content and distribute it in a range of different ways. Out of all this, seven huge entertainment companies have emerged - Time Warner, Walt Disney, Bertelsmann, Viacom, News Corp, Seagram and Sony. They cover pretty well every bit of the entertainment business except pornography. Three are American, one is Australian, one Canadian, one German and one Japanese. 'What you are seeing', says Christopher Dixon, managing director of media research at PaineWebber, a stockbroker, 'is the creation of a global oligopoly. It happened to the oil and automotive businesses earlier this century; now it is happening to the entertainment business.' It remains to be seen whether the latest technology will weaken those great companies, or make them stronger than ever."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage 2 has seven paragraphs A-G. Which paragraph mentions the following (Questions 1-8)? Write the appropriate letters (A-G) in boxes 1-8 on your answer sheet. NB Some of the paragraphs will be used more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "business the contrasting effects that new technology can have on existing",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "the fact that a total transformation is going to take place in the future in the delivery of all forms of entertainment",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "the confused feelings that people are known to have experienced in response to technological innovation",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "the fact that some companies have learnt from the mistakes of others",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "the high cost to the consumer of new ways of distributing entertainment",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "uncertainty regarding the financial impact of wider media access",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "the fact that some companies were the victims of strict government policy",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "the fact that the digital revolution could undermine the giant entertainment companies",
+            "answer": "G",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "The writer refers to various individuals and companies in the reading passage. Match the people or companies (A-E) with the points made in Questions 9-12 about the introduction of new technology. Write the appropriate letter (A-E) in boxes 9-12 on your answer sheet.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Historically, new forms of distributing entertainment have alarmed those well-established in the business.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "John Malone"
+              },
+              {
+                "label": "B",
+                "text": "Hal Valarian"
+              },
+              {
+                "label": "C",
+                "text": "MGM"
+              },
+              {
+                "label": "D",
+                "text": "Walt Disney"
+              },
+              {
+                "label": "E",
+                "text": "Christopher Dixon"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The merger of entertainment companies follows a pattern evident in other industries.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "John Malone"
+              },
+              {
+                "label": "B",
+                "text": "Hal Valarian"
+              },
+              {
+                "label": "C",
+                "text": "MGM"
+              },
+              {
+                "label": "D",
+                "text": "Walt Disney"
+              },
+              {
+                "label": "E",
+                "text": "Christopher Dixon"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Major entertainment bodies that have remained independent have lost their influence.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "John Malone"
+              },
+              {
+                "label": "B",
+                "text": "Hal Valarian"
+              },
+              {
+                "label": "C",
+                "text": "MGM"
+              },
+              {
+                "label": "D",
+                "text": "Walt Disney"
+              },
+              {
+                "label": "E",
+                "text": "Christopher Dixon"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "News of the most recent technological development was published some years ago.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "John Malone"
+              },
+              {
+                "label": "B",
+                "text": "Hal Valarian"
+              },
+              {
+                "label": "C",
+                "text": "MGM"
+              },
+              {
+                "label": "D",
+                "text": "Walt Disney"
+              },
+              {
+                "label": "E",
+                "text": "Christopher Dixon"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A-D and write them in boxes 13-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "How does the writer put across his views on the digital revolution?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "by examining the forms of media that will be affected by it"
+              },
+              {
+                "label": "B",
+                "text": "by analysing the way entertainment companies have reacted to it"
+              },
+              {
+                "label": "C",
+                "text": "by giving a personal definition of technological innovation"
+              },
+              {
+                "label": "D",
+                "text": "by drawing comparisons with other periods of technological innovation"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Which of the following best summarises the writer’s views in Reading Passage 2?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "The public should cease resisting the introduction of new technology."
+              },
+              {
+                "label": "B",
+                "text": "Digital technology will increase profits in the entertainment business."
+              },
+              {
+                "label": "C",
+                "text": "Entertainment companies should adapt to technological innovation."
+              },
+              {
+                "label": "D",
+                "text": "Technological change only benefits big entertainment companies."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T22:14:16.166405"
+}

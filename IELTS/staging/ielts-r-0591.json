@@ -1,0 +1,231 @@
+{
+  "id": "ielts-r-0591",
+  "slug": "travel-accounts",
+  "title": "Travel Accounts",
+  "page_range": [
+    2985,
+    2990
+  ],
+  "raw_answer_key": {
+    "1": "Persian wars",
+    "8": "wealthy",
+    "2": "allies",
+    "9": "C",
+    "3": "geographical",
+    "10": "D knowledge",
+    "4": "pilgrimage",
+    "11": "B",
+    "5": "Buddhist teachers",
+    "12": "A",
+    "6": "colonies",
+    "13": "D",
+    "7": "principles"
+  },
+  "content": {
+    "title": "Travel Accounts",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "There are many reasons why individuals have traveled beyond their own societies. Some travelers may have simply desired to satisfy curiosity about the larger world. Until recent times, however, trade, business dealings, diplomacy, political administration, military campaigns, exile, flight from persecution, migration, pilgrimage, missionary efforts, and the quest for economic or educational opportunities were more common inducements for foreign travel than was a mere curiosity. While the travelers’ accounts give much valuable information on these foreign lands and provide a window for the understanding of the local cultures and histories, they are also a mirror to the travelers themselves, for these accounts help them to have a better understanding of themselves."
+      },
+      {
+        "label": "B",
+        "content": "Records of foreign travel appeared soon after the invention of writing, and fragmentary travel accounts appeared in both Mesopotamia and Egypt in ancient times. After the formation of large, imperial states in the classical world, travel accounts emerged as a prominent literary genre in many lands, and they held especially strong appeal for rulers desiring useful knowledge about their realms. The Greek historian Herodotus reported on his travels in Egypt and Anatolia in researching the history of the Persian wars. The Chinese envoy Zhang Qian described much of central Asia as far west as Bactria (modern-day Afghanistan) on the basis of travels undertaken in the first century BC while searching for allies for the Han dynasty. Hellenistic and Roman geographers such as Ptolemy, Strabo, and Pliny the Elder relied on their own travels through much of the Mediterranean world as well as reports of other travelers to compile vast compendia of geographical knowledge."
+      },
+      {
+        "label": "C",
+        "content": "During the postclassical era (about 500 to 1500 CE), trade and pilgrimage emerged as major incentives for travel to foreign lands. Muslim merchants sought trading opportunities throughout much of the eastern hemisphere. They described lands, peoples, and commercial products of the Indian Ocean basin from East Africa to Indonesia, and they supplied the first written accounts of societies in sub-Saharan west Africa. While merchants set out in search of trade and profit, devout Muslims traveled as pilgrims to Mecca to make their hajj and visit the holy sites of Islam. Since the prophet Muhammad’s original pilgrimage to Mecca, untold millions of Muslims have followed his example, and thousands of hajj accounts have related their experiences. One of the best known Muslim travelers, Ibn Battuta, began his travels with the hajj but then went on to visit central Asia, India, China, sub-Saharan Africa, and parts of Mediterranean Europe before returning finally to his home in Morocco. East Asian travelers were not quite so prominent as Muslims during the postclassical era, but they too followed many of the highways and sea lanes of the eastern hemisphere. Chinese merchants frequently visited Southeast Asia and India, occasionally venturing even to east Africa, and devout East Asian Buddhists undertook distant pilgrimages. Between the 5th and 9th centuries CE, hundreds and possibly even thousands of Chinese Buddhists traveled to India to study with Buddhist teachers, collect sacred texts, and visit holy sites. Written accounts recorded the experiences of many pilgrims, such as Faxian, Xuanzang, and Yijing. Though not so numerous as the Chinese pilgrims, Buddhists from Japan, Korea, and other lands also ventured abroad in the interests of spiritual enlightenment."
+      },
+      {
+        "label": "D",
+        "content": "Medieval Europeans did not hit the roads in such large numbers as their Muslim and east Asian counterparts during the early part of the postclassical era, although gradually increasing crowds of Christian pilgrims flowed to Jerusalem, Rome, Santiago de Compostela (in northern Spain), and other sites. After the 12th century, however, merchants, pilgrims, and missionaries from medieval Europe traveled widely and left numerous travel accounts, of which Marco Polo’s description of his travels and sojourn in China is the best known. As they became familiar with the larger world of the eastern hemisphere – and the profitable commercial opportunities that it offered – European peoples worked to find new and more direct routes to Asian and African markets. Their efforts took them not only to all parts of the eastern hemisphere but eventually to the Americas and Oceania as well."
+      },
+      {
+        "label": "E",
+        "content": "If Muslim and Chinese peoples dominated travel writing in postclassical times, European explorers, conquerors, merchants, and missionaries took center stage during the early modern era (about 1500 to 1800 CE). By no means did Muslim and Chinese travel come to a halt in early modern times. But European peoples ventured to the distant corners of the globe, and European printing presses churned out thousands of travel accounts that described foreign lands and peoples for a reading public with an apparently insatiable appetite for news about the larger world. The volume of travel literature was so great that several editors, including Giambattista Ramusio, Richard Hakluyt, Theodore de Bry, and Samuel Purchas, assembled numerous travel accounts and made them available in enormous published collections."
+      },
+      {
+        "label": "F",
+        "content": "During the 19th century, European travelers made their way to the interior regions of Africa and the Americas, generating a fresh round of travel writing as they did so. Meanwhile, European colonial administrators devoted numerous writing to the societies of their colonial subjects, particularly in Asian and African colonies they established. By midcentury, attention was flowing also in the other direction. Painfully aware of the military and technological prowess of European and Euro-American societies, Asian travelers, in particular, visited Europe and the United States in hopes of discovering principles useful for the reorganization of their own societies. Among the most prominent of these travelers who made extensive use of their overseas observations and experiences in their own writing were the Japanese reformer Fukuzawa Yukichi and the Chinese revolutionary Sun Yat-sen."
+      },
+      {
+        "label": "G",
+        "content": "With the development of inexpensive and reliable means of mass transport, the 20th century witnessed explosions both in the frequency of long-distance travel and in the volume of travel writing. While a great deal of travel took place for reasons of business, administration, diplomacy, pilgrimage, and missionary work, as in ages past, increasingly effective modes of mass transport made it possible for new kinds of travel to flourish. The most distinctive of them was mass tourism, which emerged as a major form of consumption for individuals living in the world’s wealthy societies. Tourism enabled consumers to get away from home to see the sights in Rome, take a cruise through the Caribbean, walk the Great Wall of China, visit some wineries in Bordeaux, or go on safari in Kenya. A peculiar variant of the travel account arose to meet the needs of these tourists: the guidebook, which offered advice on food, lodging, shopping, local customs, and all the sights that visitors should not miss seeing. Tourism has had a massive economic impact throughout the world, but other new forms of travel have also had considerable influence in contemporary times. Recent times have seen unprecedented waves of migration, for example, and numerous migrants have sought to record their experiences and articulate their feelings about life in foreign lands. Recent times have also seen an unprecedented development of ethnic consciousness, and many are the intellectuals and writers in the diaspora who have visited the homes of their ancestors to see how much of their forebears’ values and cultural traditions they themselves have inherited. Particularly notable among their accounts are the memoirs of Malcolm X and Maya Angelou describing their visits to Africa."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the table below. Write NO MORE THAN TWO WORDS from Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Classical era: Egypt and Anatolia - Herodotus - Purpose: To obtain information on...",
+            "answer": "Persian wars"
+          },
+          {
+            "number": 2,
+            "text": "1st century BC: Central Asia - Zhang Qian - Purpose: To seek...",
+            "answer": "allies"
+          },
+          {
+            "number": 3,
+            "text": "Roman Empire: Mediterranean - Ptolemy, Strabo, Pliny the Elder - Purpose: To gather...",
+            "answer": "geographical"
+          },
+          {
+            "number": 4,
+            "text": "Post-classical era: Eastern Hemisphere - Muslims - Purpose: For business and...",
+            "answer": "pilgrimage"
+          },
+          {
+            "number": 5,
+            "text": "5th to 9th centuries CE: India - Asian Buddhists - Purpose: To study with...",
+            "answer": "Buddhist teachers"
+          },
+          {
+            "number": 6,
+            "text": "Early modern era: Distant places of the globe - The Europeans - Purpose: To provide information on the colonies they conquer",
+            "answer": "colonies"
+          },
+          {
+            "number": 7,
+            "text": "19th century: Colonial Asia, Africa - Administrators - Purpose: To learn...",
+            "answer": "principles"
+          },
+          {
+            "number": 8,
+            "text": "20th century: People from... - For entertainment - Mass tourism",
+            "answer": "wealthy"
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Why did some people travel in the early days?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "to do research on themselves"
+              },
+              {
+                "label": "B",
+                "text": "to write travel books"
+              },
+              {
+                "label": "C",
+                "text": "to have a better understanding of other people and places"
+              },
+              {
+                "label": "D",
+                "text": "to study local culture"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The travelers’ accounts are a mirror to themselves,",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "because they help them to be aware of local histories."
+              },
+              {
+                "label": "B",
+                "text": "because travelers are curious about the world."
+              },
+              {
+                "label": "C",
+                "text": "because travelers could do more research on the unknown."
+              },
+              {
+                "label": "D",
+                "text": "because they reflect the writers’ own experience and social life."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Most of the people who went to holy sites during the early part of the postclassical era are",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Europeans."
+              },
+              {
+                "label": "B",
+                "text": "Muslim and East Asians."
+              },
+              {
+                "label": "C",
+                "text": "Americans."
+              },
+              {
+                "label": "D",
+                "text": "Greeks."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "During the early modern era, a large number of travel books were published to",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "provide what the public wants."
+              },
+              {
+                "label": "B",
+                "text": "encourage the public’s feedback."
+              },
+              {
+                "label": "C",
+                "text": "gain profit."
+              },
+              {
+                "label": "D",
+                "text": "prompt trips to the new world."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "What stimulated the market for traveling in the 20th century?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "the wealthy"
+              },
+              {
+                "label": "B",
+                "text": "travel books"
+              },
+              {
+                "label": "C",
+                "text": "delicious food"
+              },
+              {
+                "label": "D",
+                "text": "mass transport"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:05:10.401179"
+}

@@ -1,0 +1,232 @@
+{
+  "id": "ielts-r-0607",
+  "slug": "volcanoes-earth-shattering-news",
+  "title": "Volcanoes-earth-shattering news",
+  "page_range": [
+    3069,
+    3073
+  ],
+  "raw_answer_key": {
+    "8": "600// 600 years//",
+    "1": "iii for 600 years",
+    "9": "water// the water//",
+    "2": "i oceans// the oceans",
+    "10": "lava// magma//",
+    "3": "iv molten rock",
+    "11": "India// western",
+    "4": "vi India",
+    "5": "plates// the plates// the tectonic",
+    "12": "explodes plates",
+    "13": "gases// the",
+    "6": "magma gases// trapped gases",
+    "7": "ring of fire"
+  },
+  "content": {
+    "title": "Volcanoes-earth-shattering news",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Volcanoes are the ultimate earth-moving machinery. A violent eruption can blow the top few kilometres off a mountain, scatter fine ash practically all over the globe and hurl rock fragments into the stratosphere to darken the skies a continent away. But the classic eruption - cone-shaped mountain, big bang, mushroom cloud and surges of molten lava - is only a tiny part of a global story. Vulcanism, the name given to volcanic processes, really has shaped the world. Eruptions have rifted continents, raised mountain chains, constructed islands and shaped the topography of the earth. The entire ocean floor has a basement of volcanic basalt. Volcanoes have not only made the continents, they are also thought to have made the world's first stable atmosphere and provided all the water for the oceans, rivers and ice-caps. There are now about 600 active volcanoes. Every year they add two or three cubic kilometres of rock to the continents. Imagine a similar number of volcanoes smoking away for the last 3,500 million years. That is enough rock to explain the continental crust. What comes out of volcanic craters is mostly gas. More than 90% of this gas is water vapour from the deep earth: enough to explain, over 3,500 million years, the water in the oceans. The rest of the gas is nitrogen, carbon dioxide, sulphur dioxide, methane, ammonia and hydrogen. The quantity of these gases, again multiplied over 3,500 million years, is enough to explain the mass of the world's atmosphere. We are alive because volcanoes provided the soil, air and water we need."
+      },
+      {
+        "label": "B",
+        "content": "Geologists consider the earth as having a molten core, surrounded by a semi-molten mantle and a brittle, outer skin. It helps to think of a soft-boiled egg with a runny yolk, a firm but squishy white and a hard shell. If the shell is even slightly cracked during boiling, the white material bubbles out and sets like a tiny mountain chain over the crack - like an archipelago of volcanic islands such as the Hawaiian Islands. But the earth is so much bigger and the mantle below is so much hotter. Even though the mantle rocks are kept solid by overlying pressure, they can still slowly 'flow' like thick treacle. The flow, thought to be in the form of convection currents, is powerful enough to fracture the 'eggshell' of the crust into plates, and keep them bumping and grinding against each other, or even overlapping, at the rate of a few centimetres a year. These fracture zones, where the collisions occur, are where earthquakes happen. And, very often, volcanoes."
+      },
+      {
+        "label": "C",
+        "content": "These zones are lines of weakness, or hot spots. Every eruption is different, but put at its simplest, where there are weaknesses, rocks deep in the mantle, heated to 1,350°C, will start to expand and rise. As they do so, the pressure drops, and they expand and become liquid and rise more swiftly. Sometimes it is slow: vast bubbles of magma - molten rock from the mantle - inch towards the surface, cooling slowly, to snow through as granite extrusions (as on Skye, or the Great Whin Sill, the lava dyke squeezed out like toothpaste that carries part of Hadrian's Wall in northern England). Sometimes - as in Northern Ireland, Wales and the Karoo in South Africa - the magma rose faster, and then flowed out horizontally on to the surface in vast thick sheets. In the Deccan plateau in western India, there are more than two million cubic kilometres of lava, some of it 2,400 metres thick, formed over 500,000 years of slurping eruption. Sometimes the magma moves very swiftly indeed. It does not have time to cool as it surges upwards. The gases trapped inside the boiling rock expand suddenly, the lava glows with heat, it begins to froth, and it explodes with tremendous force. Then the slightly cooler lava following it begins to flow over the lip of the crater. It happens on Mars, it happened on the moon, it even happens on some of the moons of Jupiter and Uranus. By studying the evidence, vulcanologists can read the force of the great blasts of the past. Is the pumice light and full of holes? The explosion was tremendous. Are the rocks heavy, with huge crystalline basalt shapes, like the Giant's Causeway in Northern Ireland? It was a slow, gentle eruption. The biggest eruptions are deep on the mid-ocean floor, where new lava is forcing the continents apart and widening the Atlantic by perhaps five centimetres a year. Look at maps of volcanoes, earthquakes and island chains like the Philippines and Japan, and you can see the rough outlines of what are called tectonic plates - the plates which make up the earth's crust and mantle. The most dramatic of these is the Pacific 'ring of fire' where there have been the most violent explosions - Mount Pinatubo near Manila, Mount St Helen's in the Rockies and El Chichon in Mexico about a decade ago, not to mention world-shaking blasts like Krakatoa in the Sunda Straits in 1883."
+      },
+      {
+        "label": "D",
+        "content": "But volcanoes are not very predictable. That is because geological time is not like human time. During quiet periods, volcanoes cap themselves with their own lava by forming a powerful cone from the molten rocks slopping over the rim of the crater; later the lava cools slowly into a huge, hard, stable plug which blocks any further eruption until the pressure below becomes irresistible. In the case of Mount Pinatubo, this took 600 years. Then, sometimes, with only a small warning, the mountain blows its top. It did this at Mont Pelee in Martinique at 7.49 a.m. on 8 May, 1902. Of a town of 28,000, only two people survived. In 1815, a sudden blast removed the top 1,280 metres of Mount Tambora in Indonesia. The eruption was so fierce that dust thrown into the stratosphere darkened the skies, cancelling the following summer in Europe and North America. Thousands starved as the harvests failed, after snow in June and frosts in August. Volcanoes are potentially world news, especially the quiet ones."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for each section from the list of headings provided.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Section A",
+            "answer": "iii for 600 years",
+            "options": [
+              {
+                "label": "i",
+                "text": "Causes of volcanic eruption"
+              },
+              {
+                "label": "ii",
+                "text": "Efforts to predict volcanic eruption"
+              },
+              {
+                "label": "iii",
+                "text": "Volcanoes and the features of our planet"
+              },
+              {
+                "label": "iv",
+                "text": "Different types of volcanic eruption"
+              },
+              {
+                "label": "v",
+                "text": "International relief efforts"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Section B",
+            "answer": "i oceans// the oceans",
+            "options": [
+              {
+                "label": "i",
+                "text": "Causes of volcanic eruption"
+              },
+              {
+                "label": "ii",
+                "text": "Efforts to predict volcanic eruption"
+              },
+              {
+                "label": "iii",
+                "text": "Volcanoes and the features of our planet"
+              },
+              {
+                "label": "iv",
+                "text": "Different types of volcanic eruption"
+              },
+              {
+                "label": "v",
+                "text": "International relief efforts"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Section C",
+            "answer": "iv molten rock",
+            "options": [
+              {
+                "label": "i",
+                "text": "Causes of volcanic eruption"
+              },
+              {
+                "label": "ii",
+                "text": "Efforts to predict volcanic eruption"
+              },
+              {
+                "label": "iii",
+                "text": "Volcanoes and the features of our planet"
+              },
+              {
+                "label": "iv",
+                "text": "Different types of volcanic eruption"
+              },
+              {
+                "label": "v",
+                "text": "International relief efforts"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Section D",
+            "answer": "vi India",
+            "options": [
+              {
+                "label": "i",
+                "text": "Causes of volcanic eruption"
+              },
+              {
+                "label": "ii",
+                "text": "Efforts to predict volcanic eruption"
+              },
+              {
+                "label": "iii",
+                "text": "Volcanoes and the features of our planet"
+              },
+              {
+                "label": "iv",
+                "text": "Different types of volcanic eruption"
+              },
+              {
+                "label": "v",
+                "text": "International relief efforts"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SHORT_ANSWER_QUESTIONS",
+        "instruction": "Answer the questions below using NO MORE THAN THREE WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "What are the sections of the earth’s crust, often associated with volcanic activity, called?",
+            "answer": "plates// the plates// the tectonic",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "What is the name given to molten rock from the mantle?",
+            "answer": "magma gases// trapped gases",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "What is the earthquake zone on the Pacific Ocean called?",
+            "answer": "ring of fire",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "For how many years did Mount Pinatubo remain inactive?",
+            "answer": "600// 600 years//",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Volcanic eruptions have shaped the earth’s land surface. They may also have produced the world’s atmosphere and",
+            "answer": "water// the water//",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Eruptions occur when molten rocks from the earth’s mantle rise and expand. When they become liquid, they move more quickly through cracks in the surface. There are different types of eruption. Sometimes the",
+            "answer": "lava// magma//",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "When it moves more quickly it may flow out in thick horizontal sheets. Examples of this type of eruption can be found in Northern Ireland, Wales, South Africa and",
+            "answer": "India// western",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "A third type of eruption occurs when the lava emerges very quickly and",
+            "answer": "explodes plates",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "This happens because the magma moves so suddenly that",
+            "answer": "gases// the",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T22:08:14.292585"
+}

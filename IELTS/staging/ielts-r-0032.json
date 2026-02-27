@@ -1,0 +1,679 @@
+{
+  "id": "ielts-r-0032",
+  "slug": "ant-intelligence",
+  "title": "Ant Intelligence",
+  "page_range": [
+    177,
+    181
+  ],
+  "raw_answer_key": {
+    "1": "FALSE",
+    "8": "M",
+    "2": "TRUE",
+    "9": "F",
+    "3": "NOT GIVEN",
+    "10": "D",
+    "4": "TRUE",
+    "11": "N",
+    "5": "FALSE",
+    "12": "O",
+    "6": "NOT GIVEN",
+    "13": "E",
+    "7": "C"
+  },
+  "content": {
+    "title": "Ant Intelligence",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "When we think of intelligent members of the animal kingdom, the creatures that spring immediately to mind are apes and monkeys. But in fact the social lives of some members of the insect kingdom are sufficiently complex to suggest more than a hint of intelligence. Among these, the world of the ant has come in for considerable scrutiny lately, and the idea that ants demonstrate sparks of cognition has certainly not been rejected by those involved in these investigations."
+      },
+      {
+        "label": null,
+        "content": "Ants store food, repel attackers and use chemical signals to contact one another in case of attack. Such chemical communication can be compared to the human use of visual and auditory channels (as in religious chants, advertising images and jingles, political slogans and martial music) to arouse and propagate moods and attitudes. The biologist Lewis Thomas wrote, 'Ants are so much like human beings as to be an embarrassment. They farm fungi, raise aphids* as livestock, launch armies to war, use chemical sprays to alarm and confuse enemies, capture slaves, engage in child labour, exchange information ceaselessly. They do everything but watch television.'"
+      },
+      {
+        "label": null,
+        "content": "However, in ants there is no cultural transmission - everything must be encoded in the genes - whereas in humans the opposite is true. Only basic instincts are carried in the genes of a newborn baby, other skills being learned from others in the community as the child grows up. It may seem that this cultural continuity gives us a huge advantage over ants. They have never mastered fire nor progressed. Their fungus farming and aphid herding crafts are sophisticated when compared to the agricultural skills of humans five thousand years ago but have been totally overtaken by modern human agribusiness."
+      },
+      {
+        "label": null,
+        "content": "Or have they? The farming methods of ants are at least sustainable. They do not ruin environments or use enormous amounts of energy. Moreover, recent evidence suggests that the crop farming of ants may be more sophisticated and adaptable than was thought."
+      },
+      {
+        "label": null,
+        "content": "Ants were farmers fifty million years before humans were. Ants can't digest the cellulose in leaves - but some fungi can. The ants therefore cultivate these fungi in their nests, bringing them leaves to feed on, and then use them as a source of food. Farmer ants secrete antibiotics to control other fungi that might act as 'weeds', and spread waste to fertilise the crop."
+      },
+      {
+        "label": null,
+        "content": "It was once thought that the fungus that ants cultivate was a single type that they had propagated, essentially unchanged from the distant past. Not so. Ulrich Mueller of Maryland and his colleagues genetically screened 862 different types of fungi taken from ants' nests. These turned out to be highly diverse: it seems that ants are continually domesticating new species. Even more impressively, DNA analysis of the fungi suggests that the ants improve or modify the fungi by regularly swapping and sharing strains with neighbouring ant colonies."
+      },
+      {
+        "label": null,
+        "content": "Whereas prehistoric man had no exposure to urban lifestyles - the forcing house of intelligence - the evidence suggests that ants have lived in urban settings for close on a hundred million years, developing and maintaining underground cities of specialised chambers and tunnels."
+      },
+      {
+        "label": null,
+        "content": "When we survey Mexico City, Tokyo, Los Angeles, we are amazed at what has been accomplished by humans. Yet Hoelldobler and Wilson’s magnificent work for ant lovers, The Ants, describes a supercolony of the ant Formica yessensis on the Ishikari Coast of Hokkaido. This 'megalopolis' was reported to be composed of 360 million workers and a million queens living in 4,500 interconnected nests across a territory of 2.7 square kilometres."
+      },
+      {
+        "label": null,
+        "content": "Such enduring and intricately meshed levels of technical achievement outstrip by far anything achieved by our distant ancestors. We hail as masterpieces the cave paintings in southern France and elsewhere, dating back some 20,000 years. Ant societies existed in something like their present form more than seventy million years ago. Beside this, prehistoric man looks technologically primitive. Is this then some kind of intelligence, albeit of a different kind?"
+      },
+      {
+        "label": null,
+        "content": "Research conducted at Oxford, Sussex and Zurich Universities has shown that when desert ants return from a foraging trip, they navigate by integrating bearings and distances, which they continuously update in their heads. They combine the evidence of visual landmarks with a mental library of local directions, all within a framework which is consulted and updated. So ants can learn too."
+      },
+      {
+        "label": null,
+        "content": "And in a twelve-year programme of work, Ryabko and Reznikova have found evidence that ants can transmit very complex messages. Scouts who had located food in a maze returned to mobilise their foraging teams. They engaged in contact sessions, at the end of which the scout was removed in order to observe what her team might do. Often the foragers proceeded to the exact spot in the maze where the food had been. Elaborate precautions were taken to prevent the foraging team using odour clues. Discussion now centres on whether the route through the maze is communicated as a 'left-right' sequence of turns or as a 'compass bearing and distance' message."
+      },
+      {
+        "label": null,
+        "content": "During the course of this exhaustive study, Reznikova has grown so attached to her laboratory ants that she feels she knows them as individuals - even without the paint spots used to mark them. It’s no surprise that Edward Wilson, in his essay, 'In the company of ants', advises readers who ask what to do with the ants in their kitchen to: 'Watch where you step. Be careful of little lives.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-6 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Ants use the same channels of communication as humans do.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "City life is one factor that encourages the development of intelligence.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Ants can build large cities more quickly than humans do.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Some ants can find their way by making calculations based on distance and position.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "In one experiment, foraging teams were able to use their sense of smell to find food.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The essay, ‘In the company of ants’, explores ant communication.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "TRUE"
+              },
+              {
+                "label": "B",
+                "text": "FALSE"
+              },
+              {
+                "label": "C",
+                "text": "NOT GIVEN"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words, A-O, below. Write the correct letter, A-O, in boxes 7-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Ants have sophisticated methods of farming, including herding livestock and growing crops, which are in many ways similar to those used in human agriculture. The ants cultivate a large number of different species of edible fungi which convert 7..................... into a form which they can digest.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "aphids"
+              },
+              {
+                "label": "B",
+                "text": "agricultural"
+              },
+              {
+                "label": "C",
+                "text": "cellulose"
+              },
+              {
+                "label": "D",
+                "text": "exchanging"
+              },
+              {
+                "label": "E",
+                "text": "energy"
+              },
+              {
+                "label": "F",
+                "text": "fertilizers"
+              },
+              {
+                "label": "G",
+                "text": "food"
+              },
+              {
+                "label": "H",
+                "text": "fungi"
+              },
+              {
+                "label": "I",
+                "text": "interbreeding"
+              },
+              {
+                "label": "J",
+                "text": "other species"
+              },
+              {
+                "label": "K",
+                "text": "natural"
+              },
+              {
+                "label": "L",
+                "text": "secretions"
+              },
+              {
+                "label": "M",
+                "text": "sustainable"
+              },
+              {
+                "label": "N",
+                "text": "Oenvironment"
+              },
+              {
+                "label": "O",
+                "text": "Oenvironment"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "They use their own natural 8..................... as weed-killers and also use unwanted materials as 9......................",
+            "answer": "M",
+            "options": [
+              {
+                "label": "A",
+                "text": "aphids"
+              },
+              {
+                "label": "B",
+                "text": "agricultural"
+              },
+              {
+                "label": "C",
+                "text": "cellulose"
+              },
+              {
+                "label": "D",
+                "text": "exchanging"
+              },
+              {
+                "label": "E",
+                "text": "energy"
+              },
+              {
+                "label": "F",
+                "text": "fertilizers"
+              },
+              {
+                "label": "G",
+                "text": "food"
+              },
+              {
+                "label": "H",
+                "text": "fungi"
+              },
+              {
+                "label": "I",
+                "text": "interbreeding"
+              },
+              {
+                "label": "J",
+                "text": "other species"
+              },
+              {
+                "label": "K",
+                "text": "natural"
+              },
+              {
+                "label": "L",
+                "text": "secretions"
+              },
+              {
+                "label": "M",
+                "text": "sustainable"
+              },
+              {
+                "label": "N",
+                "text": "Oenvironment"
+              },
+              {
+                "label": "O",
+                "text": "Oenvironment"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "They use their own natural 8..................... as weed-killers and also use unwanted materials as 9......................",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "aphids"
+              },
+              {
+                "label": "B",
+                "text": "agricultural"
+              },
+              {
+                "label": "C",
+                "text": "cellulose"
+              },
+              {
+                "label": "D",
+                "text": "exchanging"
+              },
+              {
+                "label": "E",
+                "text": "energy"
+              },
+              {
+                "label": "F",
+                "text": "fertilizers"
+              },
+              {
+                "label": "G",
+                "text": "food"
+              },
+              {
+                "label": "H",
+                "text": "fungi"
+              },
+              {
+                "label": "I",
+                "text": "interbreeding"
+              },
+              {
+                "label": "J",
+                "text": "other species"
+              },
+              {
+                "label": "K",
+                "text": "natural"
+              },
+              {
+                "label": "L",
+                "text": "secretions"
+              },
+              {
+                "label": "M",
+                "text": "sustainable"
+              },
+              {
+                "label": "N",
+                "text": "Oenvironment"
+              },
+              {
+                "label": "O",
+                "text": "Oenvironment"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Genetic analysis shows they constantly upgrade these fungi by developing new species and by 10..................... species with neighbouring ant colonies.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "aphids"
+              },
+              {
+                "label": "B",
+                "text": "agricultural"
+              },
+              {
+                "label": "C",
+                "text": "cellulose"
+              },
+              {
+                "label": "D",
+                "text": "exchanging"
+              },
+              {
+                "label": "E",
+                "text": "energy"
+              },
+              {
+                "label": "F",
+                "text": "fertilizers"
+              },
+              {
+                "label": "G",
+                "text": "food"
+              },
+              {
+                "label": "H",
+                "text": "fungi"
+              },
+              {
+                "label": "I",
+                "text": "interbreeding"
+              },
+              {
+                "label": "J",
+                "text": "other species"
+              },
+              {
+                "label": "K",
+                "text": "natural"
+              },
+              {
+                "label": "L",
+                "text": "secretions"
+              },
+              {
+                "label": "M",
+                "text": "sustainable"
+              },
+              {
+                "label": "N",
+                "text": "Oenvironment"
+              },
+              {
+                "label": "O",
+                "text": "Oenvironment"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use 11..................... methods, they do not affect the 12..................... and do not waste 13......................",
+            "answer": "N",
+            "options": [
+              {
+                "label": "A",
+                "text": "aphids"
+              },
+              {
+                "label": "B",
+                "text": "agricultural"
+              },
+              {
+                "label": "C",
+                "text": "cellulose"
+              },
+              {
+                "label": "D",
+                "text": "exchanging"
+              },
+              {
+                "label": "E",
+                "text": "energy"
+              },
+              {
+                "label": "F",
+                "text": "fertilizers"
+              },
+              {
+                "label": "G",
+                "text": "food"
+              },
+              {
+                "label": "H",
+                "text": "fungi"
+              },
+              {
+                "label": "I",
+                "text": "interbreeding"
+              },
+              {
+                "label": "J",
+                "text": "other species"
+              },
+              {
+                "label": "K",
+                "text": "natural"
+              },
+              {
+                "label": "L",
+                "text": "secretions"
+              },
+              {
+                "label": "M",
+                "text": "sustainable"
+              },
+              {
+                "label": "N",
+                "text": "sustainable"
+              },
+              {
+                "label": "O",
+                "text": "Oenvironment"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use 11..................... methods, they do not affect the 12..................... and do not waste 13......................",
+            "answer": "O",
+            "options": [
+              {
+                "label": "A",
+                "text": "aphids"
+              },
+              {
+                "label": "B",
+                "text": "agricultural"
+              },
+              {
+                "label": "C",
+                "text": "cellulose"
+              },
+              {
+                "label": "D",
+                "text": "exchanging"
+              },
+              {
+                "label": "E",
+                "text": "energy"
+              },
+              {
+                "label": "F",
+                "text": "fertilizers"
+              },
+              {
+                "label": "G",
+                "text": "food"
+              },
+              {
+                "label": "H",
+                "text": "fungi"
+              },
+              {
+                "label": "I",
+                "text": "interbreeding"
+              },
+              {
+                "label": "J",
+                "text": "other species"
+              },
+              {
+                "label": "K",
+                "text": "natural"
+              },
+              {
+                "label": "L",
+                "text": "secretions"
+              },
+              {
+                "label": "M",
+                "text": "sustainable"
+              },
+              {
+                "label": "N",
+                "text": "sustainable"
+              },
+              {
+                "label": "O",
+                "text": "Oenvironment"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "In fact, the farming methods of ants could be said to be more advanced than human agribusiness, since they use 11..................... methods, they do not affect the 12..................... and do not waste 13......................",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "aphids"
+              },
+              {
+                "label": "B",
+                "text": "agricultural"
+              },
+              {
+                "label": "C",
+                "text": "cellulose"
+              },
+              {
+                "label": "D",
+                "text": "exchanging"
+              },
+              {
+                "label": "E",
+                "text": "energy"
+              },
+              {
+                "label": "F",
+                "text": "fertilizers"
+              },
+              {
+                "label": "G",
+                "text": "food"
+              },
+              {
+                "label": "H",
+                "text": "fungi"
+              },
+              {
+                "label": "I",
+                "text": "interbreeding"
+              },
+              {
+                "label": "J",
+                "text": "other species"
+              },
+              {
+                "label": "K",
+                "text": "natural"
+              },
+              {
+                "label": "L",
+                "text": "secretions"
+              },
+              {
+                "label": "M",
+                "text": "sustainable"
+              },
+              {
+                "label": "N",
+                "text": "sustainable"
+              },
+              {
+                "label": "O",
+                "text": "energy"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:28:56.535366"
+}

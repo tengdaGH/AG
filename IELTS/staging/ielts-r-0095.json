@@ -1,0 +1,305 @@
+{
+  "id": "ielts-r-0095",
+  "slug": "childrens-literature-studies-today",
+  "title": "Children’s literature studies today",
+  "page_range": [
+    488,
+    493
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "NOT GIVEN",
+    "2": "C",
+    "9": "F",
+    "3": "B",
+    "10": "C",
+    "4": "NOT GIVEN",
+    "11": "H",
+    "5": "NO",
+    "12": "A",
+    "6": "NOT GIVEN",
+    "13": "E",
+    "7": "YES",
+    "14": "C"
+  },
+  "content": {
+    "title": "Children’s Literature Studies Today",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Who studies children’s literature and what is it that they study? The answers to this question are complex and messy, because of the many confounding factors which exist in this field."
+      },
+      {
+        "label": "B",
+        "content": "Firstly, unlike literature for adults, children’s literature is not generally written by its own readers. Adults write for children, and thus adult perceptions of what children are and of what they could and should be become woven into the literature."
+      },
+      {
+        "label": "C",
+        "content": "Furthermore, some of those who study children’s literature (and those who write certain kinds of children’s books) are less interested in literary values than in the kinds of lessons it can teach—either in terms of creating better children or in terms of serving a particular curriculum. The issue of how a teacher can use a children’s book is often contentious, but even outside the classroom, much material for children is still didactic."
+      },
+      {
+        "label": "D",
+        "content": "Thirdly, while almost all literature is currently promoted within a strong commercial matrix, children’s literature is often especially targeted for marketing initiatives. This fact means that readers are often recruited with a message that is negligibly literary and significantly oriented to ideas of consumption. Daniel Hade (2002) has raised useful questions about whether children’s experience of reading is altered when their books are part of a larger marketing framework involving the movie, the game, and the toy of a popular children’s book. How children perceive and respond to their stories in this new context is an important question."
+      },
+      {
+        "label": "E",
+        "content": "It is also important to note that texts in an ever-increasing range of new media compete with print media for the attention of the child reader, and create definitional issues for scholars. Does the term 'literature' exclusively imply a verbal text? If not, where are the limits? Could a literary computer game ever be considered a work of literature? If not, what kind of attention should be paid to it, since children themselves undoubtedly perceive their print literature as part of a broader continuum? The internet provides one forum through which children now communicate with each other. (In 2003, the internet search engine Google listed 7,920,000 sites relating to the Harry Potter novels; even allowing for duplication and dead ends, that is a number with revolutionary implications.)"
+      },
+      {
+        "label": "F",
+        "content": "Finally, in the context of the higher education institutions where the formal study of children’s literature is often located, at least three disciplinary frameworks (English, education, and librarianship) fragment the focus of scholarly study of children’s literature. How is the value of the imaginative encounter with the work of literature sustained and honored among such a welter of conflicting interests? One route through this maze is to ask the child readers for help. As David Lewis (2001) has perceptively noted, what children think of reading is not usually the same as what adults think, whether teachers or parents. As Lewis points out, children 'sometimes see more and they often see differently'. If those who study reading can explore children’s perceptions as well as those of adults, their understanding of the nature of reading will be enhanced."
+      },
+      {
+        "label": "G",
+        "content": "Lewis makes a further valid point when he adds that exploring children’s perceptions is usually justified for educational reasons: 'It is true that a better understanding of how children read and how they learn to read is a prerequisite to improved approaches to teaching.' However, it can also be argued, as Lewis rightly does, that when children’s responses to literature are accessed and interpreted, they frequently lead to an understanding of how picture books appeal to children."
+      },
+      {
+        "label": "H",
+        "content": "Young people’s accounts of what and how they read also enable a more sophisticated description of many of the complex processes involved in reading. All descriptions of reading run the risk of solipsism: i.e., this is how I read so this is what reading is for everyone. Asking other readers how they read, however, reduces that risk. For example, if I am a strong visualizer as I read, I may consider that visualization is a key component of successful reading and I may judge books by their capacity to evoke a vivid visual response. Other readers, however, may help me to realize that not everyone reads with mental pictures. Some readers respond to the patterns of the words, 'hearing' them inaudibly like a subliminal radio program. Others respond to the patterns of feelings in the story, responding with an emotional connection. Talking to competent readers, of all ages, provides a better understanding of reading experiences."
+      },
+      {
+        "label": "I",
+        "content": "Children’s insights are even more important when it comes to understanding the significance of print literature as one aspect of literary culture. Too often adults assume that reading any book at all is a more worthwhile experience than playing a digital game of any kind. A humbler approach would include asking why the game appeals to the player. Many adults will probably never develop the automatic skills to process a game as readily as they can read a book. This does not indicate that a book is better, but that a particular set of skills is absent. Non-players must acknowledge that some fictional universes are thus closed to them, and a logical response would be to find someone who can guide them to the pleasures and challenges of the gaming world. Games need to be judged individually just as books do, and any evaluative framework needs to take this into account."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C, or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Who studies children’s literature and what is it that they study?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "The complexity and messiness of the field."
+              },
+              {
+                "label": "B",
+                "text": "The fact that adults write for children."
+              },
+              {
+                "label": "C",
+                "text": "The didactic nature of children’s books."
+              },
+              {
+                "label": "D",
+                "text": "The strong commercial matrix of literature."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "What is one reason why children’s literature is different from literature for adults?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Children’s literature is written by its own readers."
+              },
+              {
+                "label": "B",
+                "text": "Adults perceive children’s literature as didactic."
+              },
+              {
+                "label": "C",
+                "text": "Adults write for children, embedding their perceptions into the literature."
+              },
+              {
+                "label": "D",
+                "text": "Children’s literature is less commercially targeted than adult literature."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "What is the issue with how teachers use children’s books in the classroom?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Teachers often disagree on the literary value of children’s books."
+              },
+              {
+                "label": "B",
+                "text": "The use of children’s books for teaching specific lessons is contentious."
+              },
+              {
+                "label": "C",
+                "text": "Children’s books are not considered suitable for classroom teaching."
+              },
+              {
+                "label": "D",
+                "text": "Teachers prefer using books that are not didactic."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "What does Daniel Hade question about children’s experience of reading?",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "Whether their engagement with stories is altered by marketing initiatives."
+              },
+              {
+                "label": "B",
+                "text": "If their perception of literature changes due to multimedia tie-ins."
+              },
+              {
+                "label": "C",
+                "text": "The impact of commercialization on their reading habits."
+              },
+              {
+                "label": "D",
+                "text": "The role of games and toys in their reading experience."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Does the term 'literature' exclusively imply a verbal text?",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "A",
+                "text": "Yes, it exclusively implies a verbal text."
+              },
+              {
+                "label": "B",
+                "text": "No, it does not exclusively imply a verbal text."
+              },
+              {
+                "label": "C",
+                "text": "It depends on the context of the discussion."
+              },
+              {
+                "label": "D",
+                "text": "The term is not defined in the context of children’s literature."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "What is the number of websites related to Harry Potter novels listed by Google in 2003?",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "1,000,000"
+              },
+              {
+                "label": "B",
+                "text": "5,000,000"
+              },
+              {
+                "label": "C",
+                "text": "7,920,000"
+              },
+              {
+                "label": "D",
+                "text": "10,000,000"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Is it true that exploring children’s perceptions is usually justified for educational reasons?",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "A",
+                "text": "Yes, it is justified for educational reasons."
+              },
+              {
+                "label": "B",
+                "text": "No, it is not justified for educational reasons."
+              },
+              {
+                "label": "C",
+                "text": "It depends on the context of the study."
+              },
+              {
+                "label": "D",
+                "text": "The passage does not provide a clear answer."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Is it true that children’s insights are important for understanding the significance of print literature as one aspect of literary culture?",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "Yes, they are important."
+              },
+              {
+                "label": "B",
+                "text": "No, they are not important."
+              },
+              {
+                "label": "C",
+                "text": "The passage does not provide a clear answer."
+              },
+              {
+                "label": "D",
+                "text": "It depends on the context of the discussion."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "The value of imaginative encounters with literature is fragmented by disciplinary frameworks.",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "The issue of how teachers use children’s books is contentious.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Young people’s accounts of reading provide a more sophisticated description of reading processes.",
+            "answer": "H",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Adults assume that reading books is a more worthwhile experience than playing digital games.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Games need to be judged individually, just like books.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Children’s insights are important for understanding the appeal of picture books.",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T19:46:45.068509"
+}

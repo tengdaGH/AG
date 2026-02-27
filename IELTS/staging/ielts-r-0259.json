@@ -1,0 +1,519 @@
+{
+  "id": "ielts-r-0259",
+  "slug": "life-in-an-international-orchestra",
+  "title": "Life in an international orchestra",
+  "page_range": [
+    1310,
+    1315
+  ],
+  "raw_answer_key": {
+    "1": "v",
+    "8": "D",
+    "2": "viii",
+    "9": "A",
+    "3": "ix",
+    "10": "D",
+    "4": "vi",
+    "11": "C",
+    "5": "ii",
+    "12": "A",
+    "6": "vii",
+    "13": "C",
+    "7": "B"
+  },
+  "content": {
+    "title": "Life in an international orchestra",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Playing in a big international orchestra is one of life's most exciting experiences, yet it is also a very tough job. Players are part of a team of eighty or more musicians playing some of the world's greatest music. They work very long hours - turning up early for rehearsals on dark, cold, winter's mornings in a chilly, empty hall; working till late in the evening on the night of a concert; travelling on trains and planes at all hours of the day and night; eating and sleeping when they can; trying to play well when they are tired or hungry or have a headache. There's not much time left for home, family or friends. In fact, their 'family' is the rest of the orchestra. The musicians share the hectic pace and the worries, but they also share the wonderful moments when they are all playing together and feel on top of the world."
+      },
+      {
+        "label": "B",
+        "content": "Much of an orchestra's time is spent in rehearsal. The players may already know the music by heart, but every conductor has his or her own ideas about how a piece of music should be played. That is one reason why rehearsals are necessary. Another reason is the problem of orchestral balance of sound. With the rest of the orchestra around them, players cannot always hear themselves properly (sometimes not at all), and so they cannot gauge the balance of sound between their own instruments or section and the rest of the orchestra. At rehearsals this is something that the conductor is able to put right."
+      },
+      {
+        "label": "C",
+        "content": "Some conductors like to go through a piece of music bar by bar, stopping the orchestra each time they want to make a comment. Others let an orchestra play for long stretches at a time, then go back to a particular point they want to rehearse again. Whatever the conductor's method, it is important that the musicians are happy with it. If the players don't like the conductor they can become very difficult, interrupting the session with questions or complaints. At one time conductors, such as Toscanini, used to get such fine performances out of an orchestra by shouting at the musicians and almost frightening them into playing well. That sort of behaviour would not work with most orchestras today. After all, orchestral musicians are highly trained and experienced people and they should be treated with respect."
+      },
+      {
+        "label": "D",
+        "content": "If a rehearsal is held in the morning of a concert, it probably takes place in the concert hall. In the morning, everybody will still be in casual clothes but in the evening they will change into formal dress. Most will arrive at least an hour early to unpack and inspect their instruments - violinists to check their strings and bow, woodwind players to check their reeds and change them if need be, and everyone to run over any difficult passages of music. If they want a bit of peace and quiet some members of the orchestra may even hide themselves away in the toilets or creep down to the boiler room! Players whose instruments are too big for them to carry, such as timpani, harps and double-basses, will arrive on the platform before the rest to make their last minute checks."
+      },
+      {
+        "label": "E",
+        "content": "About five minutes before the concert is due to start, everybody except the leader or concert master, files on and takes their place. Then the leader comes on to a round of applause from the audience and calls for silence, while the oboist sounds the note A. The rest of the orchestra tune their instruments to this note. Finally, on comes the conductor, to more applause, and, when there is quiet once more, the concert begins."
+      },
+      {
+        "label": "F",
+        "content": "However well the orchestra may have rehearsed, problems may still occur. In a warm, crowded concert hall the acoustics are different from those in a cool, empty building, and this can change the balance of the sound. Also, the instruments may go out of tune after some time in a warm atmosphere."
+      },
+      {
+        "label": "G",
+        "content": "Musicians, like actors, are aware of the audience; they notice whether the audience is a good one or not. A good audience will listen and respond to the music, whereas a difficult audience coughs and fidgets throughout the performance. Above all, the musicians are also aware of whether they are playing well, not just individually but as a team. Knowing they are giving a good performance makes all the difference at the end of a long, hard day."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "The reading passage has seven paragraphs (A-G). Choose the correct heading for Paragraphs A-G from the list of headings (i-x) below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "The need for a high quality instrument"
+              },
+              {
+                "label": "ii",
+                "text": "Formalities at the beginning of the concert"
+              },
+              {
+                "label": "iii",
+                "text": "Problems with changes in sound in the hall"
+              },
+              {
+                "label": "iv",
+                "text": "Poor and ineffective conducting method"
+              },
+              {
+                "label": "v",
+                "text": "The highs and lows of being a member of an orchestra"
+              },
+              {
+                "label": "vi",
+                "text": "Pre-concert arrangements"
+              },
+              {
+                "label": "vii",
+                "text": "The response of the audience"
+              },
+              {
+                "label": "viii",
+                "text": "The need for detailed rehearsal"
+              },
+              {
+                "label": "ix",
+                "text": "The importance of the conductor's management style"
+              },
+              {
+                "label": "x",
+                "text": "Correct adjustment of each instrument"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The need for a high quality instrument"
+              },
+              {
+                "label": "ii",
+                "text": "Formalities at the beginning of the concert"
+              },
+              {
+                "label": "iii",
+                "text": "Problems with changes in sound in the hall"
+              },
+              {
+                "label": "iv",
+                "text": "Poor and ineffective conducting method"
+              },
+              {
+                "label": "v",
+                "text": "The highs and lows of being a member of an orchestra"
+              },
+              {
+                "label": "vi",
+                "text": "Pre-concert arrangements"
+              },
+              {
+                "label": "vii",
+                "text": "The response of the audience"
+              },
+              {
+                "label": "viii",
+                "text": "The need for detailed rehearsal"
+              },
+              {
+                "label": "ix",
+                "text": "The importance of the conductor's management style"
+              },
+              {
+                "label": "x",
+                "text": "Correct adjustment of each instrument"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "The need for a high quality instrument"
+              },
+              {
+                "label": "ii",
+                "text": "Formalities at the beginning of the concert"
+              },
+              {
+                "label": "iii",
+                "text": "Problems with changes in sound in the hall"
+              },
+              {
+                "label": "iv",
+                "text": "Poor and ineffective conducting method"
+              },
+              {
+                "label": "v",
+                "text": "The highs and lows of being a member of an orchestra"
+              },
+              {
+                "label": "vi",
+                "text": "Pre-concert arrangements"
+              },
+              {
+                "label": "vii",
+                "text": "The response of the audience"
+              },
+              {
+                "label": "viii",
+                "text": "The need for detailed rehearsal"
+              },
+              {
+                "label": "ix",
+                "text": "The importance of the conductor's management style"
+              },
+              {
+                "label": "x",
+                "text": "Correct adjustment of each instrument"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "The need for a high quality instrument"
+              },
+              {
+                "label": "ii",
+                "text": "Formalities at the beginning of the concert"
+              },
+              {
+                "label": "iii",
+                "text": "Problems with changes in sound in the hall"
+              },
+              {
+                "label": "iv",
+                "text": "Poor and ineffective conducting method"
+              },
+              {
+                "label": "v",
+                "text": "The highs and lows of being a member of an orchestra"
+              },
+              {
+                "label": "vi",
+                "text": "Pre-concert arrangements"
+              },
+              {
+                "label": "vii",
+                "text": "The response of the audience"
+              },
+              {
+                "label": "viii",
+                "text": "The need for detailed rehearsal"
+              },
+              {
+                "label": "ix",
+                "text": "The importance of the conductor's management style"
+              },
+              {
+                "label": "x",
+                "text": "Correct adjustment of each instrument"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The need for a high quality instrument"
+              },
+              {
+                "label": "ii",
+                "text": "Formalities at the beginning of the concert"
+              },
+              {
+                "label": "iii",
+                "text": "Problems with changes in sound in the hall"
+              },
+              {
+                "label": "iv",
+                "text": "Poor and ineffective conducting method"
+              },
+              {
+                "label": "v",
+                "text": "The highs and lows of being a member of an orchestra"
+              },
+              {
+                "label": "vi",
+                "text": "Pre-concert arrangements"
+              },
+              {
+                "label": "vii",
+                "text": "The response of the audience"
+              },
+              {
+                "label": "viii",
+                "text": "The need for detailed rehearsal"
+              },
+              {
+                "label": "ix",
+                "text": "The importance of the conductor's management style"
+              },
+              {
+                "label": "x",
+                "text": "Correct adjustment of each instrument"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph G",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "The need for a high quality instrument"
+              },
+              {
+                "label": "ii",
+                "text": "Formalities at the beginning of the concert"
+              },
+              {
+                "label": "iii",
+                "text": "Problems with changes in sound in the hall"
+              },
+              {
+                "label": "iv",
+                "text": "Poor and ineffective conducting method"
+              },
+              {
+                "label": "v",
+                "text": "The highs and lows of being a member of an orchestra"
+              },
+              {
+                "label": "vi",
+                "text": "Pre-concert arrangements"
+              },
+              {
+                "label": "vii",
+                "text": "The response of the audience"
+              },
+              {
+                "label": "viii",
+                "text": "The need for detailed rehearsal"
+              },
+              {
+                "label": "ix",
+                "text": "The importance of the conductor's management style"
+              },
+              {
+                "label": "x",
+                "text": "Correct adjustment of each instrument"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the letter A-D that gives the best completion to each sentence below for the orchestra passage.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Playing in a large orchestra requires long hours because",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "there are very many members in the team."
+              },
+              {
+                "label": "B",
+                "text": "the rehearsals take a lot of time."
+              },
+              {
+                "label": "C",
+                "text": "hotel accommodation is not always satisfactory."
+              },
+              {
+                "label": "D",
+                "text": "players are sometimes absent because they are sick."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Frequent rehearsals may be needed because",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "the musicians are occasionally worried."
+              },
+              {
+                "label": "B",
+                "text": "the conductor must correct players' mistakes."
+              },
+              {
+                "label": "C",
+                "text": "the players may not know each piece of music."
+              },
+              {
+                "label": "D",
+                "text": "the volume of the instruments needs to be adjusted."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "An effective conductor is one who",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "has the players' approval."
+              },
+              {
+                "label": "B",
+                "text": "forces the team to play well."
+              },
+              {
+                "label": "C",
+                "text": "explains everything to the players."
+              },
+              {
+                "label": "D",
+                "text": "allows no interruption to the rehearsal."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Today, a conductor who loudly criticises the players",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "is showing them respect."
+              },
+              {
+                "label": "B",
+                "text": "can expect insults from them."
+              },
+              {
+                "label": "C",
+                "text": "will force them to play well."
+              },
+              {
+                "label": "D",
+                "text": "will not get good music from them."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "On the evening of a concert, the players, will",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "visit the changing rooms."
+              },
+              {
+                "label": "B",
+                "text": "arrive at the hall too early."
+              },
+              {
+                "label": "C",
+                "text": "make sure their instruments are working properly."
+              },
+              {
+                "label": "D",
+                "text": "check they have their formal clothing."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Problems in a concert may occur if",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the hall temperature changes."
+              },
+              {
+                "label": "B",
+                "text": "the audience does not applaud the conductor."
+              },
+              {
+                "label": "C",
+                "text": "the players are playing an unfamiliar piece of music."
+              },
+              {
+                "label": "D",
+                "text": "the conductor doesn't go through the music bar by bar."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Players feel satisfaction in their music when",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "they have rehearsed well."
+              },
+              {
+                "label": "B",
+                "text": "they have worked a long hard day."
+              },
+              {
+                "label": "C",
+                "text": "the whole orchestra plays well together."
+              },
+              {
+                "label": "D",
+                "text": "the audience is happy."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T03:51:59.106562"
+}

@@ -1,0 +1,260 @@
+{
+  "id": "ielts-r-0401",
+  "slug": "so-you-think-humans-are-unique",
+  "title": "So you think humans are unique",
+  "page_range": [
+    2039,
+    2044
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "YES",
+    "2": "B",
+    "9": "YES",
+    "3": "A",
+    "10": "NOT GIVEN",
+    "4": "D",
+    "11": "D",
+    "5": "B",
+    "12": "G",
+    "6": "YES",
+    "13": "C",
+    "7": "NO",
+    "14": "A"
+  },
+  "content": {
+    "title": "So you think humans are unique",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "There was a time when we thought humans were special in so many ways. Now we know better. We are not the only species that feels emotions, empathises with others or abides by a moral code. Neither are we the only ones with personalities, cultures and the ability to design and use tools. Yet we have steadfastly clung to the notion that one attribute, at least, makes us unique: we alone have the capacity for language."
+      },
+      {
+        "label": null,
+        "content": "Alas, it turns out we are not so special in this respect either. Key to the revolutionary reassessment of our talent for communication is the way we think about language itself. Where once it was seen as a monolith, a discrete and singular entity, today scientists find it is more productive to think of language as a suite of abilities. Viewed this way, it becomes apparent that the component parts of language are not as unique as the whole."
+      },
+      {
+        "label": null,
+        "content": "Take gesture, arguably the starting point for language. Until recently, it was considered uniquely human - but not any more. Mike Tomasello of the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany, and others have compiled a list of gestures observed in monkeys, gibbons, gorillas, chimpanzees, bonobos and orang-utans, which reveals that gesticulation plays a large role in their communication. Ape gestures can involve touch, vocalising or eye movement, and individuals wait until they have another ape’s attention before making visual or auditory gestures. If their gestures go unacknowledged, they will often repeat them or touch the recipient."
+      },
+      {
+        "label": null,
+        "content": "In an experiment carried out in 2006 by Erica Cartmill and Richard Byrne from the University of St Andrews in the UK, they got a person to sit on a chair with some highly desirable food such as banana to one side of them and some bland food such as celery to the other. The orang-utans, who could see the person and the food from their enclosures, gestured at their human partners to encourage them to push the desirable food their way. If the person feigned incomprehension and offered the bland food, the animals would change their gestures - just as humans would in a similar situation. If the human seemed to understand while being somewhat confused, giving only half the preferred food, the apes would repeat and exaggerate their gestures - again in exactly the same way a human would. Such findings highlight the fact that the gestures of nonhuman primates are not merely innate reflexes but are learned, flexible and under voluntary control - all characteristics that are considered prerequisites for human-like communication."
+      },
+      {
+        "label": null,
+        "content": "As well as gesturing, pre-linguistic infants babble. At about five months, babies start to make their first speech sounds, which some researchers believe contain a random selection of all the phonemes humans can produce. But as children learn the language of their parents, they narrow their sound repertoire to fit the model to which they are exposed, producing just the sounds of their native language as well as its classic intonation patterns. Indeed, they lose their polymath talents so effectively that they are ultimately unable to produce some sounds - think about the difficulty some speakers have producing the English th."
+      },
+      {
+        "label": null,
+        "content": "Dolphin calves also pass through a babbling phase, Laurance Doyle from the SETI Institute in Mountain View, California, Brenda McCowan from the University of California at Davis and their colleagues analysed the complexity of baby dolphin sounds and found it looked remarkably like that of babbling infants, in that the young dolphins had a much wider repertoire of sound than adults. This suggests that they practise the sounds of their species, much as human babies do, before they begin to put them together in the way characteristic of mature dolphins of their species."
+      },
+      {
+        "label": null,
+        "content": "Of course, language is more than mere sound - it also has meaning. While the traditional, cartoonish version of animal communication renders it unclear, unpredictable and involuntary, it has become clear that various species are able to give meaning to particular sounds by connecting them with specific ideas. Dolphins use 'signature whistles’, so called because it appears that they name themselves. Each develops a unique moniker within the first year of life and uses it whenever it meets another dolphin."
+      },
+      {
+        "label": null,
+        "content": "One of the clearest examples of animals making connections between specific sounds and meanings was demonstrated by Klaus Zuberbuhler and Katie Slocombe of the University of St Andrews in the UK. They noticed that chimps at Edinburgh Zoo appeared to make rudimentary references to objects by using distinct cries when they came across different kinds of food. Highly valued foods such as bread would elicit high- pitched grunts, less appealing ones, such as an apple, got low-pitched grunts. Zuberbuhler and Slocombe showed not only that chimps could make distinctions in the way they vocalised about food, but that other chimps understood what they meant, When played recordings of grunts that were produced for a specific food, the chimps looked in the place where that food was usually found. They also searched longer if the cry had signalled a prized type of food."
+      },
+      {
+        "label": null,
+        "content": "Clearly animals do have greater talents for communication than we realised. Humans are still special, but it is a far more graded, qualified kind of special than it used to be."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "What point does the writer make in the first paragraph?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "We know more about language now than we used to."
+              },
+              {
+                "label": "B",
+                "text": "We recognise the importance of talking about emotions."
+              },
+              {
+                "label": "C",
+                "text": "We like to believe that language is a strictly human skill."
+              },
+              {
+                "label": "D",
+                "text": "We have used tools for longer than some other species."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "According to the writer, what has changed our view of communication?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "analysing different world languages"
+              },
+              {
+                "label": "B",
+                "text": "understanding that language involves a range of skills"
+              },
+              {
+                "label": "C",
+                "text": "studying the different purposes of language"
+              },
+              {
+                "label": "D",
+                "text": "realising that we can communicate without language"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "The writer quotes the Cartmill and Byrne experiment because it shows",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the similarities in the way humans and apes use gesture."
+              },
+              {
+                "label": "B",
+                "text": "the abilities of apes to use gesture in different environments."
+              },
+              {
+                "label": "C",
+                "text": "how food can be used to encourage ape gestures."
+              },
+              {
+                "label": "D",
+                "text": "how hard humans find it to interpret ape gestures."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "In paragraph 7, the writer says that one type of dolphin sound is",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "used only when dolphins are in danger."
+              },
+              {
+                "label": "B",
+                "text": "heard only at a particular time of day."
+              },
+              {
+                "label": "C",
+                "text": "heard at a range of pitch levels."
+              },
+              {
+                "label": "D",
+                "text": "used as a form of personal identification."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Experiments at Edinburgh Zoo showed that chimps were able to",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "use grunts to ask humans for food."
+              },
+              {
+                "label": "B",
+                "text": "use pitch changes to express meaning."
+              },
+              {
+                "label": "C",
+                "text": "recognise human voices on a recording."
+              },
+              {
+                "label": "D",
+                "text": "tell the difference between a false grunt and a real one."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "It could be said that language begins with gesture.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Ape gestures always consist of head or limb movements.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Apes ensure that other apes are aware of their gesturing.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Primate and human gestures share some key features.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Cartoons present an amusing picture of animal communication.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words, A-H, below.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Before young infants speak, some experts think that they produce the",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Over time, however, they copy the language of their parents, and this affects their ability to pronounce",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "A",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "They produce a range of individual sounds when they are babies, and then combine some of these to produce the sounds of",
+            "answer": "A",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:22:58.217663"
+}

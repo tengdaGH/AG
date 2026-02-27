@@ -1,0 +1,297 @@
+{
+  "id": "ielts-r-0171",
+  "slug": "fossil-files-the-paleobiology-database",
+  "title": "Fossil Files “The Paleobiology Database”",
+  "page_range": [
+    871,
+    875
+  ],
+  "raw_answer_key": {
+    "1": "iii",
+    "8": "D",
+    "2": "i",
+    "9": "C",
+    "3": "ii",
+    "10": "B",
+    "4": "vi",
+    "11": "D",
+    "5": "v",
+    "12": "B",
+    "6": "iv",
+    "13": "C",
+    "7": "B"
+  },
+  "content": {
+    "title": "Fossil Files: The Paleobiology Database",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Are we now living through the sixth extinction as our own activities destroy ecosystems and wipe out diversity? That’s the doomsday scenario painted by many ecologists, and they may well be right. The trouble is we don’t know for sure because we don’t have a clear picture of how life changes between extinction events or what has happened in previous episodes. We don’t even know how many species are alive today, let alone the rate at which they are becoming extinct. A new project aims to fill some of the gaps. The Paleobiology Database aspires to be an online repository of information about every fossil ever dug up. It is a huge undertaking that has been described as biodiversity’s equivalent of the Human Genome Project. Its organizers hope that by recording the history of biodiversity they will gain an insight into how environmental changes have shaped life on Earth in the past and how they might do so in the future. The database may even indicate whether life can rebound no matter what we throw at it, or whether a human-induced extinction could be without parallel, changing the rules that have applied throughout the rest of the planet’s history."
+      },
+      {
+        "label": "B",
+        "content": "But already the project is attracting harsh criticism. Some experts believe it to be seriously flawed. They point out that a database is only as good as the data fed into it, and that even if all the current fossil finds were catalogued, they would provide an incomplete inventory of life because we are far from discovering every fossilized species. They say that researchers should get up from their computers and get back into the dirt to dig up new fossils. Others are more skeptical still, arguing that we can never get the full picture because the fossil record is riddled with holes and biases."
+      },
+      {
+        "label": "C",
+        "content": "Fans of the Paleobiology Database acknowledge that the fossil record will always be incomplete. But they see value in looking for global patterns that show relative changes in biodiversity. “The fossil record is the best tool we have for understanding how diversity and extinction work in normal times,” says John Alroy from the National Center for Ecological Analysis and Synthesis in Santa Barbara. “Having a background extinction estimate gives us a benchmark for understanding the mass extinction that’s currently under way. It allows us to say just how bad it is in relative terms.”"
+      },
+      {
+        "label": "D",
+        "content": "To this end, the Paleobiology Database aims to be the most thorough attempt yet to come up with good global diversity curves. Every day between 10 and 15 scientists around the world add information about fossil finds to the database. Since it got up and running in 1998, scientists have entered almost 340,000 specimens, ranging from plants to whales to insects to dinosaurs to sea urchins. Overall totals are updated hourly at www.paleodb.org. Anyone can download data from the public part of the site and play with the numbers to their heart’s content. Already, the database has thrown up some surprising results. Looking at the big picture, Alroy and his colleagues believe they have found evidence that biodiversity reached a plateau long ago, contrary to the received wisdom that species numbers have increased continuously between extinction events. “The traditional view is that diversity has gone up and up and up,” he says. “Our research is showing that diversity limits were approached many tens of millions of years before the dinosaurs evolved, much less suffered extinction.” This suggests that only a certain number of species can live on Earth at a time, filling a prescribed number of niches like spaces in a multi-storey car park. Once it’s full, no more new species can squeeze in, until extinctions free up new spaces or something rare and catastrophic adds a new floor to the car park."
+      },
+      {
+        "label": "E",
+        "content": "Alroy has also used the database to reassess the accuracy of species names. His findings suggest that irregularities in classification inflate the overall number of species in the fossil record by between 32 and 44 per cent. Single species often end up with several names, he says, due to misidentification or poor communication between taxonomists in different countries. Repetition like this can distort diversity curves. “If you have really bad taxonomy in one short interval, it will look like a diversity spike—a big diversification followed by a big extinction—when all that has happened is a change in the quality of names,” says Alroy. For example, his statistical analysis indicates that of the 4861 North American fossil mammal species catalogued in the database, between 24 and 31 per cent will eventually prove to be duplicates."
+      },
+      {
+        "label": "F",
+        "content": "Of course, the fossil record is undeniably patchy. Some places and times have left behind more fossil-filled rocks than others. Some have been sampled more thoroughly. And certain kinds of creatures—those with hard parts that lived in oceans, for example–are more likely to leave a record behind, while others, like jellyfish, will always remain a mystery. Alroy has also tried to account for this. He estimates, for example, that only 41 per cent of North American mammals that have ever lived are known from fossils, and he suspects that a similar proportion of fossils are missing from other groups, such as fungi and insects."
+      },
+      {
+        "label": "G",
+        "content": "Not everyone is impressed with such mathematical wizardry. Jonathan Adrain from the University of Iowa in Iowa City points out that statistical wrangling has been known to create mass extinctions where none occurred. It is easy to misinterpret data. For example, changes in sea level or inconsistent sampling methods can mimic major changes in biodiversity. Indeed, a recent and thorough examination of the literature on marine bivalve fossils has convinced David Jablonsky from the University of Chicago and his colleagues that their diversity has increased steadily over the past 5 million years."
+      },
+      {
+        "label": "H",
+        "content": "With an inventory of all living species, ecologists could start to put the current biodiversity crisis in historical perspective. Although creating such a list would be a task to rival even the Palaeobiology Database, it is exactly what the San Francisco-based ALL Species Foundation hopes to achieve in the next 25 years. The effort is essential, says Harvard biologist Edward o. Wilson, who is alarmed by current rates of extinction. “There is a crisis. We’ve begun to measure it, and it’s very high,” Wilson says. “We need this kind of information in much more detail to protect all of biodiversity, not just the ones we know well.” Let the counting continue."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs A-F from the list below. Write the correct number, i-xi, in boxes 1-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "iii",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "i",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "ii",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "vi",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "v",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "iv",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Use the information in the passage to match the people (listed A-D) with opinions or deeds below. Write the appropriate letters A-D in boxes 7-9 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Creating the Database would help scientist to identify connections of all species",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Jonathan Adrain"
+              },
+              {
+                "label": "B",
+                "text": "John Alroy"
+              },
+              {
+                "label": "C",
+                "text": "David Jablonsky"
+              },
+              {
+                "label": "D",
+                "text": "Edward o. Wilson"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Believed in contribution of detailed statistics should cover beyond the known species",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "Jonathan Adrain"
+              },
+              {
+                "label": "B",
+                "text": "John Alroy"
+              },
+              {
+                "label": "C",
+                "text": "David Jablonsky"
+              },
+              {
+                "label": "D",
+                "text": "Edward o. Wilson"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "reached a contradictory finding to the tremendous species die-out",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Jonathan Adrain"
+              },
+              {
+                "label": "B",
+                "text": "John Alroy"
+              },
+              {
+                "label": "C",
+                "text": "David Jablonsky"
+              },
+              {
+                "label": "D",
+                "text": "Edward o. Wilson"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the TWO correct letter following. Write your answers in boxes 10-11 on your answer sheet.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "Please choose TWO CORRECT descriptions about the The Paleobiology Database in this passage:",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "almost all the experts welcome this project"
+              },
+              {
+                "label": "B",
+                "text": "intrigues both positive and negative opinions from various experts"
+              },
+              {
+                "label": "C",
+                "text": "all different creature in the database have unique name"
+              },
+              {
+                "label": "D",
+                "text": "aims to embrace all fossil information globally"
+              },
+              {
+                "label": "E",
+                "text": "get more information from record rather than the field"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Please choose TWO CORRECT descriptions about the The Paleobiology Database in this passage:",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "almost all the experts welcome this project"
+              },
+              {
+                "label": "B",
+                "text": "intrigues both positive and negative opinions from various experts"
+              },
+              {
+                "label": "C",
+                "text": "all different creature in the database have unique name"
+              },
+              {
+                "label": "D",
+                "text": "aims to embrace all fossil information globally"
+              },
+              {
+                "label": "E",
+                "text": "get more information from record rather than the field"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write your answers in boxes 12-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "According to the passage, jellyfish belongs to which category of The Paleobiology Database?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "repetition breed"
+              },
+              {
+                "label": "B",
+                "text": "untraceable species"
+              },
+              {
+                "label": "C",
+                "text": "specifically detailed species"
+              },
+              {
+                "label": "D",
+                "text": "currently living creature"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "What is the author’s suggestion according to the end of passage?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "continue to complete counting the number of species in the Paleobiology Database"
+              },
+              {
+                "label": "B",
+                "text": "stop contributing The Paleobiology Database"
+              },
+              {
+                "label": "C",
+                "text": "try to create a database of living creature"
+              },
+              {
+                "label": "D",
+                "text": "study more in the field rather than in the book"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:14:10.161566"
+}

@@ -1,0 +1,267 @@
+{
+  "id": "ielts-r-0562",
+  "slug": "the-triune-brain",
+  "title": "The Triune Brain",
+  "page_range": [
+    2847,
+    2850
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "8": "A",
+    "2": "A",
+    "9": "A",
+    "3": "A",
+    "10": "A",
+    "4": "A",
+    "11": "A",
+    "5": "A",
+    "12": "A",
+    "6": "A",
+    "13": "A",
+    "7": "A"
+  },
+  "content": {
+    "title": "The Triune Brain",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The first of our three brains to evolve is what scientists call the reptilian cortex. This brain sustains the elementary activities of animal survival such as respiration, adequate rest and a beating heart. We are not required to consciously “think” about these activities. The reptilian cortex also houses the “startle centre”, a mechanism that facilitates swift reactions to unexpected occurrences in our surroundings. That panicked lurch you experience when a door slams shut somewhere in the house, or the heightened awareness you feel when a twig cracks in a nearby bush while out on an evening stroll are both examples of the reptilian cortex at work. When it comes to our interaction with others, the reptilian brain offers up only the most basic impulses: aggression, mating, and territorial defence. There is no great difference, in this sense, between a crocodile defending its spot along the river and a turf war between two urban gangs."
+      },
+      {
+        "label": null,
+        "content": "Although the lizard may stake a claim to its habitat, it exerts total indifference toward the well-being of its young. Listen to the anguished squeal of a dolphin separated from its pod or witness the sight of elephants mourning their dead, however, and it is clear that a new development is at play. Scientists have identified this as the limbic cortex. Unique to mammals, the limbic cortex impels creatures to nurture their offspring by delivering feelings of tenderness and warmth to the parent when children are nearby. These same sensations also cause mammals to develop various types of social relations and kinship networks. When we are with others of “our kind” - be it at soccer practice, church, school or a nightclub - we experience positive sensations of togetherness, solidarity and comfort. If we spend too long away from these networks, then loneliness sets in and encourages us to seek companionship."
+      },
+      {
+        "label": null,
+        "content": "Only human capabilities extend far beyond the scope of these two cortexes. Humans eat, sleep and play, but we also speak, plot, rationalise and debate finer points of morality. Our unique abilities are the result of an expansive third brain - the neocortex - which engages with logic, reason and ideas. The power of the neocortex comes from its ability to think beyond the present, concrete moment. While other mammals are mainly restricted to impulsive actions (although some, such as apes, can learn and remember simple lessons), humans can think about the “big picture”. We can string together simple lessons (for example, an apple drops downwards from a tree; hurting others causes unhappiness) to develop complex theories of physical or social phenomena (such as the laws of gravity and a concern for human rights)."
+      },
+      {
+        "label": null,
+        "content": "The neocortex is also responsible for the process by which we decide on and commit to particular courses of action. Strung together over time, these choices can accumulate into feats of progress unknown to other animals. Anticipating a better grade on the following morning’s exam, a student can ignore the limbic urge to socialise and go to sleep early instead. Over three years, this ongoing sacrifice translates into a first class degree and a scholarship to graduate school; over a lifetime, it can mean groundbreaking contributions to human knowledge and development. The ability to sacrifice our drive for immediate satisfaction in order to benefit later is a product of the neocortex."
+      },
+      {
+        "label": null,
+        "content": "Understanding the triune brain can help us appreciate the different natures of brain damage and psychological disorders. The most devastating form of brain damage, for example, is a condition in which someone is understood to be brain dead. In this state a person appears merely unconscious - sleeping, perhaps - but this is illusory. Here, the reptilian brain is functioning on autopilot despite the permanent loss of other cortexes. Disturbances to the limbic cortex are registered in a different manner. Pups with limbic damage can move around and feed themselves well enough but do not register the presence of their littermates. Scientists have observed how, after a limbic lobotomy, “one impaired monkey stepped on his outraged peers as if treading on a log or a rock”. In our own species, limbic damage is closely related to sociopathic behaviour. Sociopaths in possession of fully-functioning neocortexes are often shrewd and emotionally intelligent people but lack any ability to relate to, empathise with or express concern for others."
+      },
+      {
+        "label": null,
+        "content": "One of the neurological wonders of history occurred when a railway worker named Phineas Gage survived an incident during which a metal rod skewered his skull, taking a considerable amount of his neocortex with it. Though Gage continued to live and work as before, his fellow employees observed a shift in the equilibrium of his personality. Gage’s animal propensities were now sharply pronounced while his intellectual abilities suffered; garrulous or obscene jokes replaced his once quick wit. New findings suggest, however, that Gage managed to soften these abrupt changes over time and rediscover an appropriate social manner. This would indicate that reparative therapy has the potential to help patients with advanced brain trauma to gain an improved quality of life."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Classify the following as typical of A) the reptilian cortex, B) the limbic cortex, or C) the neocortex.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "giving up short-term happiness for future gains",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "maintaining the bodily functions necessary for life",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "experiencing the pain of losing another",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "forming communities and social groups",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "making a decision and carrying it out",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "guarding areas of land",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "developing explanations for things",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "looking after one’s young",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "responding quickly to sudden movement and noise",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the reptilian cortex"
+              },
+              {
+                "label": "B",
+                "text": "the limbic cortex"
+              },
+              {
+                "label": "C",
+                "text": "the neocortex"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Write NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "A person with only a functioning reptilian cortex is known as",
+            "answer": "brain dead",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "in humans is associated with limbic disruption.",
+            "answer": "sociopathic behaviour",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "An industrial accident caused Phineas Gage to lose part of his",
+            "answer": "neocortex",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "After his accident, co-workers noticed an imbalance between Gage’s",
+            "answer": "animal propensities",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:59:39.467474"
+}

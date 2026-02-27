@@ -1,0 +1,215 @@
+{
+  "id": "ielts-r-0190",
+  "slug": "green-wave-washes-over-mainstream-shopping",
+  "title": "Green Wave Washes Over Mainstream Shopping",
+  "page_range": [
+    963,
+    967
+  ],
+  "raw_answer_key": {
+    "1": "YES",
+    "8": "B",
+    "2": "NO",
+    "9": "C",
+    "10": "honesty and",
+    "3": "YES openness",
+    "4": "NOT GIVEN",
+    "11": "consumers",
+    "5": "NO",
+    "12": "armchair ethicals",
+    "6": "NOT GIVEN",
+    "13": "social record",
+    "7": "B"
+  },
+  "content": {
+    "title": "Green Wave Washes Over Mainstream Shopping",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Research in Britain has shown that green consumers continue to flourish as a significant group amongst shoppers. This suggests that politicians who claim environmentalism is yesterday's issue may be seriously misjudging the public mood."
+      },
+      {
+        "label": null,
+        "content": "A report from Mintel, the market research organisation, says that despite recession and financial pressures, more people than ever want to buy environmentally friendly products and a 'green wave' has swept through consumerism, taking in people previously untouched by environmental concerns. The recently published report also predicts that the process will repeat itself with 'ethical' concerns, involving issues such as fair trade with the Third World and the social record of businesses. Companies will have to be more honest and open in response to this mood."
+      },
+      {
+        "label": null,
+        "content": "Mintel's survey, based on nearly 1,000 consumers, found that the proportion who look for green products and are prepared to pay more for them has climbed from 53 per cent in 1990 to around 60 per cent in 1994. On average, they will pay 13 per cent more for such products, although this percentage is higher among women, managerial and professional groups and those aged 35 to 44."
+      },
+      {
+        "label": null,
+        "content": "Between 1990 and 1994 the proportion of consumers claiming to be unaware of or unconcerned about green issues fell from 18 to 10 per cent but the number of green spenders among older people and manual workers has risen substantially. Regions such as Scotland have also caught up with the south of England in their environmental concerns."
+      },
+      {
+        "label": null,
+        "content": "According to Mintel, the image of green consumerism as associated in the past with the more eccentric members of society has virtually disappeared. The consumer research manager for Mintel, Angela Hughes, said it had become firmly established as a mainstream market. She explained that as far as the average person is concerned environmentalism has not gone off the boil. In fact, it has spread across a much wider range of consumer groups, ages and occupations."
+      },
+      {
+        "label": null,
+        "content": "Mintel's 1994 survey found that 13 per cent of consumers are 'very dark green', nearly always buying environmentally friendly products, 28 per cent are 'dark green', trying 'as far as possible' to buy such products, and 21 per cent are 'pale green' - tending to buy green products if they see them. Another 26 per cent are 'armchair greens'; they said they care about environmental issues but their concern does not affect their spending habits. Only 10 per cent say they do not care about green issues."
+      },
+      {
+        "label": null,
+        "content": "Four in ten people are 'ethical spenders', buying goods which do not, for example, involve dealings with oppressive regimes. This figure is the same as in 1990, although the number of 'armchair ethicals' has risen from 28 to 35 per cent and only 22 per cent say they are unconcerned now, against 30 per cent in 1990. Hughes claims that in the twenty-first century, consumers will be encouraged to think more about the entire history of the products and services they buy, including the policies of the companies that provide them and that this will require a greater degree of honesty with consumers."
+      },
+      {
+        "label": null,
+        "content": "Among green consumers, animal testing is the top issue - 48 per cent said they would be deterred from buying a product if it had been tested on animals - followed by concerns regarding irresponsible selling, the ozone layer, river and sea pollution, forest destruction, recycling and factory farming. However, concern for specific issues is lower than in 1990, suggesting that many consumers feel that Government and business have taken on the environmental agenda."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "YES_NO_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the claims of the writer of Reading Passage? In boxes 1-6 on your answer sheet write YES if the statement agrees with the claims of the writer, NO if the statement contradicts the claims of the writer, NOT GIVEN if it is impossible to say what the writer thinks about this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The research findings report commercial rather than political trends.",
+            "answer": "YES",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Being financially better off has made shoppers more sensitive to buying 'green'.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The majority of shoppers are prepared to pay more for the benefit of the environment according to the research findings.",
+            "answer": "YES openness",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Consumers' green shopping habits are influenced by Mintel's findings.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Mintel have limited their investigation to professional and managerial groups.",
+            "answer": "NO",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Mintel undertakes market surveys on an annual basis.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A-D and write them in boxes 7-9 on your answer sheet.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Politicians may have 'misjudged the public mood' because ...",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "they are pre-occupied with the recession and financial problems."
+              },
+              {
+                "label": "B",
+                "text": "there is more widespread interest in the environment agenda than they anticipated."
+              },
+              {
+                "label": "C",
+                "text": "consumer spending has increased significantly as a result of 'green' pressure."
+              },
+              {
+                "label": "D",
+                "text": "shoppers are displeased with government policies on a range of issues."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "What is Mintel?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "an environmentalist group"
+              },
+              {
+                "label": "B",
+                "text": "a business survey organisation"
+              },
+              {
+                "label": "C",
+                "text": "an academic research team"
+              },
+              {
+                "label": "D",
+                "text": "a political organisation"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "A consumer expressing concern for environmental issues without actively supporting such principles is...",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "an 'ethical spender'."
+              },
+              {
+                "label": "B",
+                "text": "a 'very dark green' spender."
+              },
+              {
+                "label": "C",
+                "text": "an 'armchair green'."
+              },
+              {
+                "label": "D",
+                "text": "a 'pale green' spender."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using words from the box below. Write your answers in boxes 10-13 on your answer sheet.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "The Mintel report suggests that in future companies will be forced to practise greater...",
+            "answer": "honesty and",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The Mintel report suggests that in future companies will be forced to practise greater honesty and openness in their dealings because of the increased awareness amongst...",
+            "answer": "consumers",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "This prediction is supported by the growth in the number of...",
+            "answer": "armchair ethicals",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "As a consequence, it is felt that companies will have to think more carefully about their...",
+            "answer": "social record",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:16:46.835337"
+}

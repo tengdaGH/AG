@@ -1,0 +1,301 @@
+{
+  "id": "ielts-r-0151",
+  "slug": "entertainment-activities",
+  "title": "Entertainment activities",
+  "page_range": [
+    771,
+    774
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "6": "D",
+    "2": "D",
+    "7": "A",
+    "3": "B",
+    "8": "B",
+    "4": "B",
+    "9": "D",
+    "5": "E"
+  },
+  "content": {
+    "title": "Entertainment Activities",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "RICHMOND EXPERIMENTAL THEATRE Learn to act introduces people to a broad range of acting techniques. It is specially geared to those with little or no acting experience. The atmosphere is relaxed and unthreatening and great emphasis is placed on developing the confidence and abilities of people who may initially be a little apprehensive!"
+      },
+      {
+        "label": "B",
+        "content": "WORLD CULTURE DAY Brazilian Street Percussion 2.30-4.30 Samba percussion workshop. Lift your spirits with the taste of carnival! It doesn't matter whether you're an experienced musician or a complete beginner, you'll be creating complex exotic rhythms in no time. African Storytelling 3.45-4.45 The magical African story-telling tradition of narration, poetry and proverbs (mainly from Ghana and Nigeria). An event for all the family."
+      },
+      {
+        "label": "C",
+        "content": "SCOTTISH DANCING IT'S FUN IT'S GOOD EXERCISE • We have classes for dancers of all abilities. • Previous experience is not essential. • All you need to bring is a pair of soft shoes and enthusiasm. • Classes are held in a number of places and at different times. • We guarantee you a warm welcome."
+      },
+      {
+        "label": "D",
+        "content": "THE RENAISSANCE SINGERS New singers are invited to join our choir, formed in 1993, to perform a wide variety of music in Cambridge. We meet every Wednesday evening from 7.30-9.30 pm, and this term we are rehearsing for a special concert with audience participation on Saturday 1st December. An ability to sight-read and previous experience in choral singing is desirable, although not essential."
+      },
+      {
+        "label": "E",
+        "content": "DRAWING WITH COLOUR An intensive workshop for beginners Saturday 13th and Sunday 14th October This unusual workshop offers instruction in effective ways to draw in colour. Activities will include study of light and shade and ways to express mood and emotion in colour. The small class (12 students) assures maximum attention for each student. Professional quality materials are included in the fee of £95."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "The passage on the reading page has five sections A-E. For which section are the following statements true? Write the correct letter A-E in boxes 1-9 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A friendly greeting awaits new members.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Some relevant skills are preferred.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "This activity could cheer you up.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "This activity is suitable for a variety of ages.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Individual guidance will be provided.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Participants can take part in a public performance.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "This activity could help someone who wants to overcome shyness.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "This activity promises rapid progress.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "This activity is not held during the day.",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "RICHMOND EXPERIMENTAL THEATRE"
+              },
+              {
+                "label": "B",
+                "text": "WORLD CULTURE DAY"
+              },
+              {
+                "label": "C",
+                "text": "SCOTTISH DANCING"
+              },
+              {
+                "label": "D",
+                "text": "THE RENAISSANCE SINGERS"
+              },
+              {
+                "label": "E",
+                "text": "DRAWING WITH COLOUR"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 9
+  },
+  "processed_at": "2026-02-25T19:57:15.815146"
+}

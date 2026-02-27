@@ -1,0 +1,331 @@
+{
+  "id": "ielts-r-0200",
+  "slug": "highs--lows",
+  "title": "Highs & Lows",
+  "page_range": [
+    1014,
+    1019
+  ],
+  "raw_answer_key": {
+    "1": "A",
+    "9": "NOT GIVEN",
+    "10": "B\\D\\E IN ANY",
+    "2": "B ORDER",
+    "11": "B\\D\\E IN ANY",
+    "3": "B ORDER",
+    "12": "B\\D\\E IN ANY",
+    "4": "NOT GIVEN ORDER",
+    "5": "FALSE",
+    "13": "B",
+    "6": "FALSE",
+    "14": "A",
+    "7": "TRUE",
+    "15": "F",
+    "8": "TRUE"
+  },
+  "content": {
+    "title": "Highs & Lows",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Hormone levels - and hence our moods - may be affected by the weather. Gloomy weather can cause depression, but sunshine appears to raise the spirits. In Britain, for example, the dull weather of winter drastically cuts down the amount of sunlight that is experienced which strongly affects some people. They become so depressed and lacking in energy that their work and social life are affected. This condition has been given the name SAD (Seasonal Affective Disorder). Sufferers can fight back by making the most of any sunlight in winter and by spending a few hours each day under special, full-spectrum lamps. These provide more ultraviolet and blue-green light than ordinary fluorescent and tungsten lights. Some Russian scientists claim that children learn better after being exposed to ultraviolet light. In warm countries, hours of work are often arranged so that workers can take a break, or even a siesta, during the hottest part of the day. Scientists are working to discover the links between the weather and human beings' moods and performance."
+      },
+      {
+        "label": null,
+        "content": "It is generally believed that tempers grow shorter in hot, muggy weather. There is no doubt that 'crimes against the person' rise in the summer, when the weather is hotter and fall in the winter when the weather is colder. Research in the United States has shown a relationship between temperature and street riots. The frequency of riots rises dramatically as the weather gets warmer, hitting a peak around 27-30°C. But is this effect really due to a mood change caused by the heat? Some scientists argue that trouble starts more often in hot weather merely because there are more people in the street when the weather is good. Psychologists have also studied how being cold affects performance. Researchers compared divers working in icy cold water at 5°C with others in water at 20°C (about swimming pool temperature). The colder water made the divers worse at simple arithmetic and other mental tasks. But significantly, their performance was impaired as soon as they were put into the cold water - before their bodies had time to cool down. This suggests that the low temperature did not slow down mental functioning directly, but the feeling of cold distracted the divers from their tasks."
+      },
+      {
+        "label": null,
+        "content": "Psychologists have conducted studies showing that people become less sceptical and more optimistic when the weather is sunny. However, this apparently does not just depend on the temperature. An American psychologist studied customers in a temperature-controlled restaurant. They gave bigger tips when the sun was shining and smaller tips when it wasn't, even though the temperature in the restaurant was the same. A link between weather and mood is made believable by the evidence for a connection between behaviour and the length of the daylight hours. This in turn might involve the level of a hormone called melatonin, produced in the pineal gland in the brain. The amount of melatonin falls with greater exposure to daylight. Research shows that melatonin plays an important part in the seasonal behaviour of certain animals. For example, food consumption of stags increases during the winter, reaching a peak in February/March. It falls again to a low point in May, then rises to a peak in September, before dropping to another minimum in November. These changes seem to be triggered by varying melatonin levels."
+      },
+      {
+        "label": null,
+        "content": "In the laboratory, hamsters put on more weight when the nights are getting shorter and their melatonin levels are falling. On the other hand, if they are given injections of melatonin, they will stop eating altogether. It seems that time cues provided by the changing lengths of day and night trigger changes in animals' behaviour - changes that are needed to cope with the cycle of the seasons. People's moods too, have been shown to react to the length of the daylight hours. Sceptics might say that longer exposure to sunshine puts people in a better mood because they associate it with the happy feelings of holidays and freedom from responsibility. However, the belief that rain and murky weather make people more unhappy is borne out by a study in Belgium, which showed that a telephone counselling service gets more telephone calls from people with suicidal feelings when it rains."
+      },
+      {
+        "label": null,
+        "content": "When there is a thunderstorm brewing, some people complain of the air being 'heavy' and of feeling irritable, moody and on edge. They may be reacting to the fact that the air can become slightly positively charged when large thunderclouds are generating the intense electrical fields that cause lightning flashes. The positive charge increases the levels of serotonin (a chemical involved in sending signals in the nervous system). High levels of serotonin in certain areas of the nervous system make people more active and reactive and, possibly, more aggressive. When certain winds are blowing, such as the Mistral in southern France and the Fohn in southern Germany, mood can be affected - and the number of traffic accidents rises. It may be significant that the concentration of positively charged particles is greater than normal in these winds. In the United Kingdom, 400,000 ionizers are sold every year. These small machines raise the number of negative ions in the air in a room. Many people claim they feel better in negatively charged air."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A—D and write them in boxes 1-3 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Why did the divers perform less well in colder conditions?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "They were less able to concentrate."
+              },
+              {
+                "label": "B",
+                "text": "Their body temperature fell too quickly."
+              },
+              {
+                "label": "C",
+                "text": "Their mental functions were immediately affected by the cold."
+              },
+              {
+                "label": "D",
+                "text": "They were used to swimming pool conditions."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "The number of daylight hours",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "affects the performance of workers in restaurants."
+              },
+              {
+                "label": "B",
+                "text": "influences animal feeding habits."
+              },
+              {
+                "label": "C",
+                "text": "makes animals like hamsters more active."
+              },
+              {
+                "label": "D",
+                "text": "prepares humans for having greater leisure time."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Human irritability may be influenced by",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "how nervous and aggressive people are."
+              },
+              {
+                "label": "B",
+                "text": "reaction to certain weather phenomena."
+              },
+              {
+                "label": "C",
+                "text": "the number of ions being generated by machines."
+              },
+              {
+                "label": "D",
+                "text": "the attitude of people to thunderstorms."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information in Reading Passage 3? In boxes 4-9 on your answer sheet write TRUE if the statement is true according to the passage, FALSE if the statement is false according to the passage, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "Seasonal Affective Disorder is disrupting children’s education in Russia.",
+            "answer": "NOT GIVEN"
+          },
+          {
+            "number": 5,
+            "text": "Serotonin is an essential cause of human aggression.",
+            "answer": "FALSE"
+          },
+          {
+            "number": 6,
+            "text": "Scientific evidence links ‘happy associations with weather’ to human mood.",
+            "answer": "FALSE"
+          },
+          {
+            "number": 7,
+            "text": "A link between depression and the time of year has been established.",
+            "answer": "TRUE"
+          },
+          {
+            "number": 8,
+            "text": "Melatonin levels increase at certain times of the year.",
+            "answer": "TRUE"
+          },
+          {
+            "number": 9,
+            "text": "Positively charged ions can influence eating habits.",
+            "answer": "NOT GIVEN"
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "According to the text which THREE of the following conditions have been scientifically proved to have a psychological effect on humans? Choose THREE letters A—G and write them in boxes 10-12 on your answer sheet.",
+        "questions": [
+          {
+            "number": 10,
+            "text": "lack of negative ions",
+            "answer": "B\\D\\E IN ANY ORDER",
+            "options": [
+              {
+                "label": "A",
+                "text": "lack of negative ions"
+              },
+              {
+                "label": "B",
+                "text": "rainy weather"
+              },
+              {
+                "label": "C",
+                "text": "food consumption"
+              },
+              {
+                "label": "D",
+                "text": "high serotonin levels"
+              },
+              {
+                "label": "E",
+                "text": "sunny weather"
+              },
+              {
+                "label": "F",
+                "text": "freedom from worry"
+              },
+              {
+                "label": "G",
+                "text": "lack of counselling facilities"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "rainy weather",
+            "answer": "B\\D\\E IN ANY ORDER"
+          },
+          {
+            "number": 12,
+            "text": "sunny weather",
+            "answer": "B\\D\\E IN ANY ORDER"
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each of the following statements with the best ending from the box below.",
+        "questions": [
+          {
+            "number": 13,
+            "text": "It has been established that social tension increases significantly in the United States during",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "daylight"
+              },
+              {
+                "label": "B",
+                "text": "hot weather"
+              },
+              {
+                "label": "C",
+                "text": "melatonin"
+              },
+              {
+                "label": "D",
+                "text": "moderate temperatures"
+              },
+              {
+                "label": "E",
+                "text": "poor co-ordination"
+              },
+              {
+                "label": "F",
+                "text": "time cues"
+              },
+              {
+                "label": "G",
+                "text": "impaired performance"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Research has shown that a hamster’s bodyweight increases according to its exposure to",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "daylight"
+              },
+              {
+                "label": "B",
+                "text": "hot weather"
+              },
+              {
+                "label": "C",
+                "text": "melatonin"
+              },
+              {
+                "label": "D",
+                "text": "moderate temperatures"
+              },
+              {
+                "label": "E",
+                "text": "poor co-ordination"
+              },
+              {
+                "label": "F",
+                "text": "time cues"
+              },
+              {
+                "label": "G",
+                "text": "impaired performance"
+              }
+            ]
+          },
+          {
+            "number": 15,
+            "text": "Animals cope with changing weather and food availability because they are influenced by",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "daylight"
+              },
+              {
+                "label": "B",
+                "text": "hot weather"
+              },
+              {
+                "label": "C",
+                "text": "melatonin"
+              },
+              {
+                "label": "D",
+                "text": "moderate temperatures"
+              },
+              {
+                "label": "E",
+                "text": "poor co-ordination"
+              },
+              {
+                "label": "F",
+                "text": "time cues"
+              },
+              {
+                "label": "G",
+                "text": "impaired performance"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 15
+  },
+  "processed_at": "2026-02-26T03:44:58.102536"
+}

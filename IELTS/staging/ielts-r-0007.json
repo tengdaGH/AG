@@ -1,0 +1,461 @@
+{
+  "id": "ielts-r-0007",
+  "slug": "advantages-of-public-transport",
+  "title": "Advantages of public transport",
+  "page_range": [
+    51,
+    55
+  ],
+  "raw_answer_key": {
+    "1": "ii",
+    "8": "NOT GIVEN",
+    "2": "vii",
+    "9": "FALSE",
+    "3": "iv",
+    "10": "TRUE",
+    "4": "i",
+    "11": "F",
+    "5": "iii",
+    "12": "D",
+    "6": "FALSE",
+    "13": "C",
+    "7": "TRUE"
+  },
+  "content": {
+    "title": "Advantages of Public Transport",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A new study conducted for the World Bank by Murdoch University's Institute for Science and Technology Policy (ISTP) has demonstrated that public transport is more efficient than cars. The study compared the proportion of wealth poured into transport by thirty-seven cities around the world. This included both the public and private costs of building, maintaining, and using a transport system. The study found that the Western Australian city of Perth is a good example of a city with minimal public transport. As a result, 17% of its wealth went into transport costs. Some European and Asian cities, on the other hand, spent as little as 5%. Professor Peter Newman, ISTP Director, pointed out that these more efficient cities were able to put the difference into attracting industry and jobs or creating a better place to live. According to Professor Newman, the larger Australian city of Melbourne is a rather unusual city in this sort of comparison. He describes it as two cities: 'A European city surrounded by a car-dependent one'. Melbourne's large tram network has made car use in the inner city much lower, but the outer suburbs have the same car-based structure as most other Australian cities. The explosion in demand for accommodation in the inner suburbs of Melbourne suggests a recent change in many people's preferences as to where they live. Newman says this is a new, broader way of considering public transport issues. In the past, the case for public transport has been made on the basis of environmental and social justice considerations rather than economics. Newman, however, believes the study demonstrates that 'the auto-dependent city model is inefficient and grossly inadequate in economic as well as environmental terms'."
+      },
+      {
+        "label": "B",
+        "content": "Bicycle use was not included in the study but Newman noted that the two most 'bicycle friendly' cities considered - Amsterdam and Copenhagen - were very efficient, even though their public transport systems were 'reasonable but not special'. It is common for supporters of road networks to reject the models of cities with good public transport by arguing that such systems would not work in their particular city. One objection is climate. Some people say their city could not make more use of public transport because it is either too hot or too cold. Newman rejects this, pointing out that public transport has been successful in both Toronto and Singapore and, in fact, he has checked the use of cars against climate and found 'zero correlation'."
+      },
+      {
+        "label": "C",
+        "content": "When it comes to other physical features, road lobbies are on stronger ground. For example, Newman accepts it would be hard for a city as hilly as Auckland to develop a really good rail network. However, he points out that both Hong Kong and Zurich have managed to make a success of their rail systems, heavy and light respectively, though there are few cities in the world as hilly. In fact, Newman believes the main reason for adopting one sort of transport over another is politics: 'The more democratic the process, the more public transport is favored.' He considers Portland, Oregon, a perfect example of this. Some years ago, federal money was granted to build a new road. However, local pressure groups forced a referendum over whether to spend the money on light rail instead. The rail proposal won and the railway worked spectacularly well. In the years that have followed, more and more rail systems have been put in, radically changing the nature of the city. Newman notes that Portland has about the same population as Perth and had a similar population density at the time."
+      },
+      {
+        "label": "D",
+        "content": "In the UK, travel times to work had been stable for at least six centuries, with people avoiding situations that required them to spend more than half an hour travelling to work. Trains and cars initially allowed people to live at greater distances without taking longer to reach their destination. However, public infrastructure did not keep pace with urban sprawl, causing massive congestion problems which now make commuting times far higher."
+      },
+      {
+        "label": "E",
+        "content": "There is a widespread belief that increasing wealth encourages people to live farther out where cars are the only viable transport. The example of European cities refutes that. They are often wealthier than their American counterparts but have not generated the same level of car use. In Stockholm, car use has actually fallen in recent years as the city has become larger and wealthier. A new study makes this point even more starkly. Developing cities in Asia, such as Jakarta and Bangkok, make more use of the car than wealthy Asian cities such as Tokyo and Singapore. In cities that developed later, the World Bank and Asian Development Bank discouraged the building of public transport and people have been forced to rely on cars - creating the massive traffic jams that characterize those cities."
+      },
+      {
+        "label": "F",
+        "content": "Newman believes one of the best studies on how cities built for cars might be converted to rail use is The Urban Village report, which used Melbourne as an example. It found that pushing everyone into the city centre was not the best approach. Instead, the proposal advocated the creation of urban villages at hundreds of sites, mostly around railway stations. It was once assumed that improvements in telecommunications would lead to more dispersal in the population as people were no longer forced into cities. However, the ISTP team's research demonstrates that the population and job density of cities rose or remained constant in the 1980s after decades of decline. The explanation for this seems to be that it is valuable to place people working in related fields together. 'The new world will largely depend on human creativity, and creativity flourishes where people come together face-to-face.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for each paragraph from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Avoiding an overcrowded centre"
+              },
+              {
+                "label": "ii",
+                "text": "A successful exercise in people power"
+              },
+              {
+                "label": "iii",
+                "text": "The benefits of working together in cities"
+              },
+              {
+                "label": "iv",
+                "text": "Higher incomes need not mean more cars"
+              },
+              {
+                "label": "v",
+                "text": "Economic arguments fail to persuade"
+              },
+              {
+                "label": "vi",
+                "text": "The impact of telecommunications on population distribution"
+              },
+              {
+                "label": "vii",
+                "text": "Increases in travelling time"
+              },
+              {
+                "label": "viii",
+                "text": "Responding to arguments against public transport"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Avoiding an overcrowded centre"
+              },
+              {
+                "label": "ii",
+                "text": "A successful exercise in people power"
+              },
+              {
+                "label": "iii",
+                "text": "The benefits of working together in cities"
+              },
+              {
+                "label": "iv",
+                "text": "Higher incomes need not mean more cars"
+              },
+              {
+                "label": "v",
+                "text": "Economic arguments fail to persuade"
+              },
+              {
+                "label": "vi",
+                "text": "The impact of telecommunications on population distribution"
+              },
+              {
+                "label": "vii",
+                "text": "Increases in travelling time"
+              },
+              {
+                "label": "viii",
+                "text": "Responding to arguments against public transport"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Avoiding an overcrowded centre"
+              },
+              {
+                "label": "ii",
+                "text": "A successful exercise in people power"
+              },
+              {
+                "label": "iii",
+                "text": "The benefits of working together in cities"
+              },
+              {
+                "label": "iv",
+                "text": "Higher incomes need not mean more cars"
+              },
+              {
+                "label": "v",
+                "text": "Economic arguments fail to persuade"
+              },
+              {
+                "label": "vi",
+                "text": "The impact of telecommunications on population distribution"
+              },
+              {
+                "label": "vii",
+                "text": "Increases in travelling time"
+              },
+              {
+                "label": "viii",
+                "text": "Responding to arguments against public transport"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Avoiding an overcrowded centre"
+              },
+              {
+                "label": "ii",
+                "text": "A successful exercise in people power"
+              },
+              {
+                "label": "iii",
+                "text": "The benefits of working together in cities"
+              },
+              {
+                "label": "iv",
+                "text": "Higher incomes need not mean more cars"
+              },
+              {
+                "label": "v",
+                "text": "Economic arguments fail to persuade"
+              },
+              {
+                "label": "vi",
+                "text": "The impact of telecommunications on population distribution"
+              },
+              {
+                "label": "vii",
+                "text": "Increases in travelling time"
+              },
+              {
+                "label": "viii",
+                "text": "Responding to arguments against public transport"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Avoiding an overcrowded centre"
+              },
+              {
+                "label": "ii",
+                "text": "A successful exercise in people power"
+              },
+              {
+                "label": "iii",
+                "text": "The benefits of working together in cities"
+              },
+              {
+                "label": "iv",
+                "text": "Higher incomes need not mean more cars"
+              },
+              {
+                "label": "v",
+                "text": "Economic arguments fail to persuade"
+              },
+              {
+                "label": "vi",
+                "text": "The impact of telecommunications on population distribution"
+              },
+              {
+                "label": "vii",
+                "text": "Increases in travelling time"
+              },
+              {
+                "label": "viii",
+                "text": "Responding to arguments against public transport"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage?",
+        "questions": [
+          {
+            "number": 6,
+            "text": "The ISTP study examined public and private systems in every city of the world.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Efficient cities can improve the quality of life for their inhabitants.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "An inner-city tram network is dangerous for car drivers.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "In Melbourne, people prefer to live in the outer suburbs.",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Cities with high levels of bicycle usage can be efficient even when public transport is only averagely good.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement agrees with the information"
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement contradicts the information"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "There is no information on this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Match each city with the correct description, A-F.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Perth",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "successfully uses a light rail transport system in hilly environment"
+              },
+              {
+                "label": "B",
+                "text": "successful public transport system despite cold winters"
+              },
+              {
+                "label": "C",
+                "text": "profitably moved from road to light rail transport system"
+              },
+              {
+                "label": "D",
+                "text": "hilly and inappropriate for rail transport system"
+              },
+              {
+                "label": "E",
+                "text": "heavily dependent on cars despite widespread poverty"
+              },
+              {
+                "label": "F",
+                "text": "inefficient due to a limited public transport system"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Auckland",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "successfully uses a light rail transport system in hilly environment"
+              },
+              {
+                "label": "B",
+                "text": "successful public transport system despite cold winters"
+              },
+              {
+                "label": "C",
+                "text": "profitably moved from road to light rail transport system"
+              },
+              {
+                "label": "D",
+                "text": "hilly and inappropriate for rail transport system"
+              },
+              {
+                "label": "E",
+                "text": "heavily dependent on cars despite widespread poverty"
+              },
+              {
+                "label": "F",
+                "text": "inefficient due to a limited public transport system"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Portland",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "successfully uses a light rail transport system in hilly environment"
+              },
+              {
+                "label": "B",
+                "text": "successful public transport system despite cold winters"
+              },
+              {
+                "label": "C",
+                "text": "profitably moved from road to light rail transport system"
+              },
+              {
+                "label": "D",
+                "text": "hilly and inappropriate for rail transport system"
+              },
+              {
+                "label": "E",
+                "text": "heavily dependent on cars despite widespread poverty"
+              },
+              {
+                "label": "F",
+                "text": "inefficient due to a limited public transport system"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T00:38:39.964376"
+}

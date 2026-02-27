@@ -1,0 +1,214 @@
+{
+  "id": "ielts-r-0146",
+  "slug": "effects-of-noise",
+  "title": "EFFECTS OF NOISE",
+  "page_range": [
+    745,
+    750
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "B",
+    "2": "C",
+    "9": "A",
+    "3": "A",
+    "10": "D",
+    "4": "B",
+    "11": "A",
+    "5": "D",
+    "12": "E",
+    "6": "F",
+    "13": "B",
+    "7": "I",
+    "14": "C"
+  },
+  "content": {
+    "title": "Effects of Noise",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "In general, it is plausible to suppose that we should prefer peace and quiet to noise. And yet most of us have had the experience of having to adjust to sleeping in the mountains or the countryside because it was initially ‘too quiet’, an experience that suggests that humans are capable of adapting to a wide range of noise levels. Research supports this view. For example, Glass and Singer (1972) exposed people to short bursts of very loud noise and then measured their ability to work out problems and their physiological reactions to the noise. The noise was quite disruptive at first, but after about four minutes the subjects were doing just as well on their tasks as control subjects who were not exposed to noise. Their physiological arousal also declined quickly to the same levels as those of the control subjects."
+      },
+      {
+        "label": null,
+        "content": "But there are limits to adaptation and loud noise becomes more troublesome if the person is required to concentrate on more than one task. For example, high noise levels interfered with the performance of subjects who were required to monitor three dials at a time, a task not unlike that of an aeroplane pilot or an air-traffic controller (Broadbent, 1957). Similarly, noise did not affect a subject’s ability to track a moving line with a steering wheel, but it did interfere with the subject’s ability to repeat numbers while tracking (Finkelman and Glass, 1970)."
+      },
+      {
+        "label": null,
+        "content": "Probably the most significant finding from research on noise is that its predictability is more important than how loud it is. We are much more able to ‘tune out’ chronic background noise, even if it is quite loud, than to work under circumstances with unexpected intrusions of noise. In the Glass and Singer study, in which subjects were exposed to bursts of noise as they worked on a task, some subjects heard loud bursts and others heard soft bursts. For some subjects, the bursts were spaced exactly one minute apart (predictable noise); others heard the same amount of noise overall, but the bursts occurred at random intervals (unpredictable noise). Subjects reported finding the predictable and unpredictable noise equally annoying, and all subjects performed at about the same level during the noise portion of the experiment. But the different noise conditions had quite different after-effects when the subjects were required to proofread written material under conditions of no noise. As shown in Table 1 the unpredictable noise produced more errors in the later proofreading task than predictable noise; and soft, unpredictable noise actually produced slightly more errors on this task than the loud, predictable noise."
+      },
+      {
+        "label": null,
+        "content": "Apparently, unpredictable noise produces more fatigue than predictable noise, but it takes a while for this fatigue to take its toll on performance."
+      },
+      {
+        "label": null,
+        "content": "Predictability is not the only variable that reduces or eliminates the negative effects of noise. Another is control. If the individual knows that he or she can control the noise, this seems to eliminate both its negative effects at the time and its after-effects. This is true even if the individual never actually exercises his or her option to turn the noise off (Glass and Singer, 1972). Just the knowledge that one has control is sufficient."
+      },
+      {
+        "label": null,
+        "content": "The studies discussed so far exposed people to noise for only short periods and only transient effects were studied. But the major worry about noisy environments is that living day after day with chronic noise may produce serious, lasting effects. One study, suggesting that this worry is a realistic one, compared elementary school pupils who attended schools near Los Angeles’s busiest airport with students who attended schools in quiet neighbourhoods (Cohen et al., 1980). It was found that children from the noisy schools had higher blood pressure and were more easily distracted than those who attended the quiet schools. Moreover, there was no evidence of adaptability to the noise. In fact, the longer the children had attended the noisy schools, the more distractible they became. The effects also seem to be long lasting. A follow-up study showed that children who were moved to less noisy classrooms still showed greater distractibility one year later than students who had always been in the quiet schools (Cohen et al, 1981). It should be noted that the two groups of children had been carefully matched by the investigators so that they were comparable in age, ethnicity, race, and social class."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The writer suggests that people may have difficulty sleeping in the mountains because",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "humans do not prefer peace and quiet to noise."
+              },
+              {
+                "label": "B",
+                "text": "they may be exposed to short bursts of very strange sounds."
+              },
+              {
+                "label": "C",
+                "text": "humans prefer to hear a certain amount of noise while they sleep."
+              },
+              {
+                "label": "D",
+                "text": "they may have adapted to a higher noise level in the city."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "In noise experiments, Glass and Singer found that",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "problem-solving is much easier under quiet conditions."
+              },
+              {
+                "label": "B",
+                "text": "physiological arousal prevents the ability to work."
+              },
+              {
+                "label": "C",
+                "text": "bursts of noise do not seriously disrupt problem-solving in the long term."
+              },
+              {
+                "label": "D",
+                "text": "the physiological arousal of control subjects declined quickly."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Researchers discovered that high noise levels are not likely to interfere with the",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "successful performance of a single task."
+              },
+              {
+                "label": "B",
+                "text": "tasks of pilots or air traffic controllers."
+              },
+              {
+                "label": "C",
+                "text": "ability to repeat numbers while tracking moving lines."
+              },
+              {
+                "label": "D",
+                "text": "ability to monitor three dials at once."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary using the list of words and phrases, A-J, below.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "Glass and Singer (1972) showed that situations in which there is intense noise have less effect on performance than circumstances in which",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "Subjects were divided into groups to perform a task. Some heard loud bursts of noise, others soft. For some subjects, the noise was predictable, while for others its occurrence was random. All groups were exposed to",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The predictable noise group",
+            "answer": "F",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "In the second part of the experiment, the four groups were given a proofreading task to complete under conditions of no noise. They were required to check written material for errors.The group which had been exposed to unpredictable noise",
+            "answer": "I",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The results suggest that",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following statements (Questions 9-14) and the list of researchers below.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Subjects exposed to noise find it difficult at first to concentrate on problem-solving tasks.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Long-term exposure to noise can produce changes in behaviour which can still be observed a year later.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "The problems associated with exposure to noise do not arise if the subject knows they can make it stop.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Exposure to high-pitched noise results in more errors than exposure to low-pitched noise.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Subjects find it difficult to perform three tasks at the same time when exposed to noise.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Noise affects a subject’s capacity to repeat numbers while carrying out another task.",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T19:56:16.011353"
+}

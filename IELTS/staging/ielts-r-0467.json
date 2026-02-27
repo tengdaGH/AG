@@ -1,0 +1,335 @@
+{
+  "id": "ielts-r-0467",
+  "slug": "the-ecological-importance-of-bees",
+  "title": "The Ecological Importance of Bees",
+  "page_range": [
+    2373,
+    2377
+  ],
+  "raw_answer_key": {
+    "1": "ii",
+    "8": "one third",
+    "2": "v",
+    "9": "cross-pollination",
+    "3": "i",
+    "10": "energy costs",
+    "4": "iv",
+    "11": "tree species",
+    "5": "viii",
+    "12": "trap-lining",
+    "6": "insects",
+    "13": "A",
+    "7": "nectar"
+  },
+  "content": {
+    "title": "The Ecological Importance of Bees",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Sometime in the early Cretaceous period of the Earth's history, hunting wasps of a certain type became bees by adopting a vegetarian diet: they began to rely more and more on the pollen of plants as a source of protein for themselves and their offspring, as an alternative to insects. In so doing, they accidentally transported pollen on their bodies to other plants of the same species, bringing about pollination. The stage was thus set for a succession of ever-closer mutual adaptations of bees and flowering plants. In particular, flowers began to reward bees for their unwitting role in their reproduction by providing richer sources of pollen and another source of nutrition, nectar."
+      },
+      {
+        "label": "B",
+        "content": "Today about 15 per cent of our diet consists of crops which are pollinated by bees. The meat and other animal products we consume are ultimately derived from bee-pollinated forage crops, and account for another 15 per cent. It follows that around one third of our food is directly or indirectly dependent on the pollinating services of bees. On a global basis, the annual value of agricultural crops dependent on the pollination services of bees is estimated at £1,000 million (US$1,590 million). Much of this pollination is due to honey bees, and in monetary terms it exceeds the value of the annual honey crop by a factor of fifty."
+      },
+      {
+        "label": "C",
+        "content": "But the apparently harmonious relationship between bees and plants conceals a conflict of interests. Although flowers need bees and vice versa, it pays each partner to minimise its costs and maximise its profits. This may sound like an extreme case of attributing human qualities to non-human species, but using the marketplace and the principles of double-entry book keeping as metaphors may give us some insights into what is really going on between bees and flowering plants. In the real world, both flower and bee operate in a competitive marketplace. A community of retailers, the flowers, seek to attract more or less discriminating consumers, the bees. Each flower has to juggle the costs and benefits of investing in advertising, by colour and scent, and providing rewards, nectar and pollen. Clearly a species which depends on cross-pollination is on a knife-edge: it must provide sufficient nectar to attract the interest of a bee, but not enough to satisfy all of its needs in one visit. A satiated bee would return to its nest rather than visit another flower. The bee, on the other hand, is out to get the maximum amount of pollen and nectar. It must assess the quality and quantity of rewards which are on offer and juggle its energy costs so that it makes a calorific profit on each foraging trip. The apparent harmony between plants and bees is therefore not all that it seems. Instead, it is an equilibrium based on compromises between the competing interests of the protagonists."
+      },
+      {
+        "label": "D",
+        "content": "This sounds remarkably like the ideas of the 18th-century economist Adam Smith. In his book, The Wealth of Nations, Smith postulated that in human society the competitive interactions of different 'economic units' eventually resulted in a balanced, or 'harmonious' society. One might predict, therefore, that economists would find the relationships between bees and plants of some interest. This is the case in Israel, where economists are collaborating with botanists and entomologists in a long-term study of the pollination biology of the native flora, in an attempt to understand the dynamics of the relationship between communities of bees and plants."
+      },
+      {
+        "label": "E",
+        "content": "This sort of study is of more than passing academic interest. It is important that authorities understand the dynamic relationships between plants and their pollinators. This is especially true when, say, devising conservation policies. A good example comes from the forests of tropical South America. Here, as in all rainforests, there is a high diversity of tree species. There may be more than 120 per acre, but in a given acre there may only be one or two individuals of any one species: These trees are pollinated by large, fast-flying bees. There is evidence that certain types of bees learn the distribution of these scattered trees and forage regularly along the same routes. This is called 'trap-lining' and the bees forage for up to 23 km from their nests. The bees are therefore acting as long distance pollinators."
+      },
+      {
+        "label": "F",
+        "content": "An issue of current concern in tropical forest conservation is that of trying to estimate the minimum sustainable size of 'islands' of forest reserve in areas where large-scale felling is taking place. There is much discussion on seed dispersal distances. But this is only one half of the equation, so far as the reproduction of trees is concerned. There is another question that must be addressed in order to calculate whether proposed forest reserves are close enough to the nearest large tract of forest: 'what is the flight range of these long-distance foragers?' We need to know much more about bees and their relationships with plants before this question can be answered."
+      },
+      {
+        "label": "G",
+        "content": "Bees, then, are vital to our survival. Furthermore, much of the visual impact of human environments derives from vegetation, and most vegetation is dependent on bees for pollination. Thus, as pollinators of crops and natural vegetation, bees occupy key positions in the web of relationships which sustain the living architecture of our planet."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the correct heading for paragraphs A, B, D, E and F from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Parallels between bee and human activities"
+              },
+              {
+                "label": "ii",
+                "text": "An evolutionary turning point"
+              },
+              {
+                "label": "iii",
+                "text": "A lack of total co-operation"
+              },
+              {
+                "label": "iv",
+                "text": "The preservation of individual plant species"
+              },
+              {
+                "label": "v",
+                "text": "The commercial value of bees"
+              },
+              {
+                "label": "vi",
+                "text": "The structure of flowering plants"
+              },
+              {
+                "label": "vii",
+                "text": "The pursuit of self-interest"
+              },
+              {
+                "label": "viii",
+                "text": "The need for further research"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "Parallels between bee and human activities"
+              },
+              {
+                "label": "ii",
+                "text": "An evolutionary turning point"
+              },
+              {
+                "label": "iii",
+                "text": "A lack of total co-operation"
+              },
+              {
+                "label": "iv",
+                "text": "The preservation of individual plant species"
+              },
+              {
+                "label": "v",
+                "text": "The commercial value of bees"
+              },
+              {
+                "label": "vi",
+                "text": "The structure of flowering plants"
+              },
+              {
+                "label": "vii",
+                "text": "The pursuit of self-interest"
+              },
+              {
+                "label": "viii",
+                "text": "The need for further research"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Parallels between bee and human activities"
+              },
+              {
+                "label": "ii",
+                "text": "An evolutionary turning point"
+              },
+              {
+                "label": "iii",
+                "text": "A lack of total co-operation"
+              },
+              {
+                "label": "iv",
+                "text": "The preservation of individual plant species"
+              },
+              {
+                "label": "v",
+                "text": "The commercial value of bees"
+              },
+              {
+                "label": "vi",
+                "text": "The structure of flowering plants"
+              },
+              {
+                "label": "vii",
+                "text": "The pursuit of self-interest"
+              },
+              {
+                "label": "viii",
+                "text": "The need for further research"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Parallels between bee and human activities"
+              },
+              {
+                "label": "ii",
+                "text": "An evolutionary turning point"
+              },
+              {
+                "label": "iii",
+                "text": "A lack of total co-operation"
+              },
+              {
+                "label": "iv",
+                "text": "The preservation of individual plant species"
+              },
+              {
+                "label": "v",
+                "text": "The commercial value of bees"
+              },
+              {
+                "label": "vi",
+                "text": "The structure of flowering plants"
+              },
+              {
+                "label": "vii",
+                "text": "The pursuit of self-interest"
+              },
+              {
+                "label": "viii",
+                "text": "The need for further research"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph F",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Parallels between bee and human activities"
+              },
+              {
+                "label": "ii",
+                "text": "An evolutionary turning point"
+              },
+              {
+                "label": "iii",
+                "text": "A lack of total co-operation"
+              },
+              {
+                "label": "iv",
+                "text": "The preservation of individual plant species"
+              },
+              {
+                "label": "v",
+                "text": "The commercial value of bees"
+              },
+              {
+                "label": "vi",
+                "text": "The structure of flowering plants"
+              },
+              {
+                "label": "vii",
+                "text": "The pursuit of self-interest"
+              },
+              {
+                "label": "viii",
+                "text": "The need for further research"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "Hunting wasps used to feed on other 6....................., rather than on vegetation.",
+            "answer": "insects"
+          },
+          {
+            "number": 7,
+            "text": "Flowering plants started to reward bees with rich pollen and an additional food in the form of 7.....................",
+            "answer": "nectar"
+          },
+          {
+            "number": 8,
+            "text": "Approximately 8..................... of human food production relies on the activity of bees.",
+            "answer": "one third"
+          },
+          {
+            "number": 9,
+            "text": "If the process of 9..................... is to take place effectively, bees need to travel from one flower to another before going back to the nest.",
+            "answer": "cross-pollination"
+          },
+          {
+            "number": 10,
+            "text": "Bees need to balance the 10..................... of each trip against the calorific rewards they obtain.",
+            "answer": "energy costs"
+          },
+          {
+            "number": 11,
+            "text": "There can be over 120 different 11..................... in an acre of rainforest.",
+            "answer": "tree species"
+          },
+          {
+            "number": 12,
+            "text": "The bees that pollinate large forests regularly practise an activity known as 12.....................",
+            "answer": "trap-lining"
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Which is the best title for Reading Passage?",
+        "questions": [
+          {
+            "number": 13,
+            "text": "Which is the best title for Reading Passage?",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "The Ecological Importance of Bees"
+              },
+              {
+                "label": "B",
+                "text": "The Evolutionary History of Bees"
+              },
+              {
+                "label": "C",
+                "text": "The Social Behaviour of Bees"
+              },
+              {
+                "label": "D",
+                "text": "The Geographical Distribution of Bees"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T21:32:15.209205"
+}

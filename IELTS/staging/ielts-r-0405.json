@@ -1,0 +1,440 @@
+{
+  "id": "ielts-r-0405",
+  "slug": "spoken-corpus-comes-to-life",
+  "title": "Spoken Corpus comes to life",
+  "page_range": [
+    2061,
+    2064
+  ],
+  "raw_answer_key": {
+    "1": "vi",
+    "7": "existing",
+    "2": "ii",
+    "8": "(related) phrases",
+    "3": "x",
+    "9": "meanings//forms",
+    "4": "viii",
+    "10": "spoken//real//oral",
+    "11": "noise//pauses//noises and",
+    "5": "iv pauses",
+    "6": "ix",
+    "12": "B"
+  },
+  "content": {
+    "title": "Spoken Corpus comes to life",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The compiling of dictionaries has been historically the provenance of studious professorial types - bespectacled individuals who love to pore over weighty tomes and make pronouncements on the finer nuances of meaning. They were probably good at crosswords and definitely knew a lot of words, but the image was always rather dry and dusty. The latest technology, and simple technology at that, is revolutionizing the content of dictionaries and the way they are put together."
+      },
+      {
+        "label": "B",
+        "content": "For the first time, dictionary publishers are incorporating real, spoken English into their data. It gives lexicographers (people who write dictionaries) access to a more vibrant, up-to-date vernacular language which has never really been studied before. In one project, 150 volunteers each agreed to strap a Walkman recorder to their waist and leave it running for anything up to two weeks. Every conversation they had was recorded. When the data was collected, the length of tapes was 35 times the depth of the Atlantic Ocean. Teams of audio typists transcribed the tapes to produce a computerized database of spoken words."
+      },
+      {
+        "label": "C",
+        "content": "This has been the basis - along with an existing written corpus - for the Language Activator dictionary, described by lexicographer Professor Randolph Quirk as “the book the world has been waiting for”. It advises advanced foreign learners of English how the language is really used. In the dictionary, key words like “eat” are followed by related phrases such as “wolf down” or “be a picky eater”, allowing the student to choose the appropriate phrase."
+      },
+      {
+        "label": "D",
+        "content": "“This kind of research would be impossible without computers,” said Delia Summers, a director of dictionaries. “It has transformed the way lexicographers work. If you look at the word “like”, you would intuitively think that the first and most frequent meaning is the verb, as in “I like swimming”. It is not; it is the preposition, as in: “she walked like a duck”. Just because a word or phrase is used doesn’t mean it gets in a dictionary. The sifting out process is as vital as ever. But the database does allow lexicographers to search for a word and find out how frequently it is used - something that could only be guessed at before."
+      },
+      {
+        "label": "E",
+        "content": "Researchers have found that written English works in a very different way to spoken English. The phrase “say what you like” literally means “feel free to say anything you want”, but in reality it is used, as the data shows, by someone to prevent the other person voicing disagreement. The phrase “it’s a question of” turns up on the database over and over again. It has nothing to do with enquiry, but it’s one of the most common English phrases which has never been in a language learner’s dictionary before: it is now."
+      },
+      {
+        "label": "F",
+        "content": "The Spoken Corpus computer shows how inventive and humorous people are when they are using language, by twisting familiar phrases for effect. It also reveals the power of the pauses and noises we use to, at times, convey emotion, doubt and irony."
+      },
+      {
+        "label": "G",
+        "content": "For the moment, those benefiting most from the Spoken Corpus are foreign learners. “Computers allow lexicographers to search quickly through more examples of real English,” said Professor Geoffrey Leech of Lancaster University. “They allow dictionaries to be more accurate and give a feel for how language is used.” The Spoken Corpus is part of the larger British National Corpus, an initiative carried out by various groups involved in the production of language learning materials: publishers, universities and the British Library."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the most suitable heading for each paragraph from the list of headings below. Write the appropriate numbers (i-xi) in boxes 1-6 on your answer sheet. Paragraph C has been done for you as an example.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Grammar is corrected"
+              },
+              {
+                "label": "ii",
+                "text": "New method of research"
+              },
+              {
+                "label": "iii",
+                "text": "Technology learns from dictionaries"
+              },
+              {
+                "label": "iv",
+                "text": "Non-verbal content"
+              },
+              {
+                "label": "v",
+                "text": "The first study of spoken language"
+              },
+              {
+                "label": "vi",
+                "text": "Traditional lexicographical methods"
+              },
+              {
+                "label": "vii",
+                "text": "Written English tells the truth"
+              },
+              {
+                "label": "viii",
+                "text": "New phrases enter dictionary"
+              },
+              {
+                "label": "ix",
+                "text": "A cooperative research project"
+              },
+              {
+                "label": "x",
+                "text": "Accurate word frequency counts"
+              },
+              {
+                "label": "xi",
+                "text": "Alternative expressions provided"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Grammar is corrected"
+              },
+              {
+                "label": "ii",
+                "text": "New method of research"
+              },
+              {
+                "label": "iii",
+                "text": "Technology learns from dictionaries"
+              },
+              {
+                "label": "iv",
+                "text": "Non-verbal content"
+              },
+              {
+                "label": "v",
+                "text": "The first study of spoken language"
+              },
+              {
+                "label": "vi",
+                "text": "Traditional lexicographical methods"
+              },
+              {
+                "label": "vii",
+                "text": "Written English tells the truth"
+              },
+              {
+                "label": "viii",
+                "text": "New phrases enter dictionary"
+              },
+              {
+                "label": "ix",
+                "text": "A cooperative research project"
+              },
+              {
+                "label": "x",
+                "text": "Accurate word frequency counts"
+              },
+              {
+                "label": "xi",
+                "text": "Alternative expressions provided"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "x",
+            "options": [
+              {
+                "label": "i",
+                "text": "Grammar is corrected"
+              },
+              {
+                "label": "ii",
+                "text": "New method of research"
+              },
+              {
+                "label": "iii",
+                "text": "Technology learns from dictionaries"
+              },
+              {
+                "label": "iv",
+                "text": "Non-verbal content"
+              },
+              {
+                "label": "v",
+                "text": "The first study of spoken language"
+              },
+              {
+                "label": "vi",
+                "text": "Traditional lexicographical methods"
+              },
+              {
+                "label": "vii",
+                "text": "Written English tells the truth"
+              },
+              {
+                "label": "viii",
+                "text": "New phrases enter dictionary"
+              },
+              {
+                "label": "ix",
+                "text": "A cooperative research project"
+              },
+              {
+                "label": "x",
+                "text": "Accurate word frequency counts"
+              },
+              {
+                "label": "xi",
+                "text": "Alternative expressions provided"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Grammar is corrected"
+              },
+              {
+                "label": "ii",
+                "text": "New method of research"
+              },
+              {
+                "label": "iii",
+                "text": "Technology learns from dictionaries"
+              },
+              {
+                "label": "iv",
+                "text": "Non-verbal content"
+              },
+              {
+                "label": "v",
+                "text": "The first study of spoken language"
+              },
+              {
+                "label": "vi",
+                "text": "Traditional lexicographical methods"
+              },
+              {
+                "label": "vii",
+                "text": "Written English tells the truth"
+              },
+              {
+                "label": "viii",
+                "text": "New phrases enter dictionary"
+              },
+              {
+                "label": "ix",
+                "text": "A cooperative research project"
+              },
+              {
+                "label": "x",
+                "text": "Accurate word frequency counts"
+              },
+              {
+                "label": "xi",
+                "text": "Alternative expressions provided"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph F",
+            "answer": "iv pauses",
+            "options": [
+              {
+                "label": "i",
+                "text": "Grammar is corrected"
+              },
+              {
+                "label": "ii",
+                "text": "New method of research"
+              },
+              {
+                "label": "iii",
+                "text": "Technology learns from dictionaries"
+              },
+              {
+                "label": "iv",
+                "text": "Non-verbal content"
+              },
+              {
+                "label": "v",
+                "text": "The first study of spoken language"
+              },
+              {
+                "label": "vi",
+                "text": "Traditional lexicographical methods"
+              },
+              {
+                "label": "vii",
+                "text": "Written English tells the truth"
+              },
+              {
+                "label": "viii",
+                "text": "New phrases enter dictionary"
+              },
+              {
+                "label": "ix",
+                "text": "A cooperative research project"
+              },
+              {
+                "label": "x",
+                "text": "Accurate word frequency counts"
+              },
+              {
+                "label": "xi",
+                "text": "Alternative expressions provided"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph G",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "Grammar is corrected"
+              },
+              {
+                "label": "ii",
+                "text": "New method of research"
+              },
+              {
+                "label": "iii",
+                "text": "Technology learns from dictionaries"
+              },
+              {
+                "label": "iv",
+                "text": "Non-verbal content"
+              },
+              {
+                "label": "v",
+                "text": "The first study of spoken language"
+              },
+              {
+                "label": "vi",
+                "text": "Traditional lexicographical methods"
+              },
+              {
+                "label": "vii",
+                "text": "Written English tells the truth"
+              },
+              {
+                "label": "viii",
+                "text": "New phrases enter dictionary"
+              },
+              {
+                "label": "ix",
+                "text": "A cooperative research project"
+              },
+              {
+                "label": "x",
+                "text": "Accurate word frequency counts"
+              },
+              {
+                "label": "xi",
+                "text": "Alternative expressions provided"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TABLE_COMPLETION",
+        "instruction": "Complete the labels on the diagram with an appropriate word or words. Use NO MORE THAN THREE WORDS for each space.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Label 1",
+            "answer": "existing",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "Label 2",
+            "answer": "(related) phrases",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "Label 3",
+            "answer": "meanings//forms",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Label 4",
+            "answer": "spoken//real//oral",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Label 5",
+            "answer": "noise//pauses//noises and",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Why was this article written?",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Why was this article written?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "To give an example of a current dictionary."
+              },
+              {
+                "label": "B",
+                "text": "To announce a new approach to dictionary writing."
+              },
+              {
+                "label": "C",
+                "text": "To show how dictionaries have progressed over the years."
+              },
+              {
+                "label": "D",
+                "text": "To compare the content of different dictionaries."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T01:59:57.950049"
+}

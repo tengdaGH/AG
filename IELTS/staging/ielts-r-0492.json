@@ -1,0 +1,340 @@
+{
+  "id": "ielts-r-0492",
+  "slug": "the-history-of-salt",
+  "title": "The History Of Salt",
+  "page_range": [
+    2492,
+    2496
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "SPIRITS",
+    "2": "E",
+    "9": "TRUE",
+    "10": "NOT",
+    "3": "F GIVEN",
+    "4": "ESSENTIAL ELEMENT",
+    "11": "FALSE",
+    "5": "APPLICATIONS",
+    "12": "FALSE",
+    "6": "PORTABLE",
+    "13": "TRUE COMMODITY",
+    "7": "TAXES",
+    "14": "TRUE"
+  },
+  "content": {
+    "title": "The History Of Salt",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "1",
+        "content": "Salt is so simple and plentiful that we almost take it for granted. In chemical terms, salt is the combination of a sodium ion with a chloride ion, making it one of the most basic molecules on earth. It is also one of the most plentiful: it has been estimated that salt deposits under the state of Kansas alone could supply the entire world’s needs for the next 250,000 years. But salt is also an essential element. Without it, life itself would be impossible since the human body requires the mineral in order to function properly. The concentration of sodium ions in the blood is directly related to the regulation of safe body fluid levels. And while we are all familiar with its many uses in cooking, we may not be aware that this element is used in some 14,000 commercial applications. From manufacturing pulp and paper to setting dyes in textiles and fabric, from producing soaps and detergents to making our roads safe in winter, salt plays an essential part in our daily lives."
+      },
+      {
+        "label": "2",
+        "content": "Salt has a long and influential role in world history. From the dawn of civilization, it has been a key factor in economic, religious, social and political development. In every corner of the world, it has been the subject of superstition, folklore, and warfare, and has even been used as currency. As a precious and portable commodity, salt has long been a cornerstone of economies throughout history. In fact, researcher M.R. Bloch conjectured that civilization began along the edges of the desert because of the natural surface deposits of salt found there. Bloch also believed that the first war – likely fought near the ancient city of Essalt on the Jordan River – could have been fought over the city’s precious supplies of the mineral. In 2200 BC, the Chinese emperor Hsia Yu levied one of the first known taxes. He taxed salt. In Tibet, Marco Polo noted that tiny cakes of salt were pressed with images of the Grand Khan to be used as coins and to this day among the nomads of Ethiopia’s Danakil Plains it is still used as money. Greek slave traders often bartered it for slaves, giving rise to the expression that someone was “not worth his salt.” Roman legionnaires were paid in salt – a solarium, the Latin origin of the word “salary.”"
+      },
+      {
+        "label": null,
+        "content": "Merchants in 12th-century Timbuktu – the gateway to the Sahara Desert and the seat of scholars – valued this mineral as highly as books and gold. In France, Charles of Anjou levied the “gabelle,” a salt tax, in 1259 to finance his conquest of the Kingdom of Naples. Outrage over the gabelle fueled the French Revolution. Though the revolutionaries eliminated the tax shortly after Louis XVI, the Republic of France re-established the gabelle in the early 19th Century; only in 1946 was it removed from the books. The Erie Canal, an engineering marvel that connected the Great Lakes to New York’s Hudson River in 1825, was called “the ditch that salt built.” Salt tax revenues paid for half the cost of construction of the canal. The British monarchy supported itself with high salt taxes, leading to a bustling black market for the white crystal. In 1785, the Earl of Dundonald wrote that every year in England, 10,000 people were arrested for salt smuggling. And protesting against British rule in 1930, Mahatma Gandhi led a 200-mile march to the Arabian Ocean to collect untaxed salt for India’s poor."
+      },
+      {
+        "label": null,
+        "content": "In religion and culture, salt long held an important place with Greek worshippers consecrating it in their rituals. Further, in the Buddhist tradition, salt repels evil spirits, which is why it is customary to throw it over your shoulder before entering your house after a funeral: it scares off any evil spirits that may be clinging to your back. Shinto religion also uses it to purify an area. Before sumo wrestlers enter the ring for a match – which is, in reality, an elaborate Shinto rite – a handful is thrown into the center to drive off malevolent spirits."
+      },
+      {
+        "label": null,
+        "content": "In the Southwest of the United States, the Pueblo worship the Salt Mother. Other native tribes had significant restrictions on who was permitted to eat salt. Hopi legend holds that the angry Warrior Twins punished mankind by placing valuable salt deposits far from civilization, requiring hard work and bravery to harvest the precious mineral. In 1933, the Dalai Lama was buried sitting up in a bed of salt. Today, a gift of salt endures in India as a potent symbol of good luck and a reference to Mahatma Gandhi’s liberation of India."
+      },
+      {
+        "label": null,
+        "content": "The effects of salt deficiency are highlighted in times of war, when human bodies and national economies are strained to their limits. Thousands of Napoleon’s troops died during the French retreat from Moscow due to inadequate wound healing and lowered resistance to disease – the results of salt deficiency."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose THREE letters A-H. Which THREE statements are true of salt?",
+        "questions": [
+          {
+            "number": 1,
+            "text": "A number of cities take their name from the word salt.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "A number of cities take their name from the word salt."
+              },
+              {
+                "label": "B",
+                "text": "Salt contributed to the French Revolution."
+              },
+              {
+                "label": "C",
+                "text": "The uses of salt are countless."
+              },
+              {
+                "label": "D",
+                "text": "Salt has been produced in China for less than 2000 years."
+              },
+              {
+                "label": "E",
+                "text": "There are many commercial applications for salt."
+              },
+              {
+                "label": "F",
+                "text": "Salt deposits in the state of Kansas are vast."
+              },
+              {
+                "label": "G",
+                "text": "Salt has few industrial uses nowadays."
+              },
+              {
+                "label": "H",
+                "text": "Slaves used salt as a currency."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Salt contributed to the French Revolution.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "A number of cities take their name from the word salt."
+              },
+              {
+                "label": "B",
+                "text": "Salt contributed to the French Revolution."
+              },
+              {
+                "label": "C",
+                "text": "The uses of salt are countless."
+              },
+              {
+                "label": "D",
+                "text": "Salt has been produced in China for less than 2000 years."
+              },
+              {
+                "label": "E",
+                "text": "There are many commercial applications for salt."
+              },
+              {
+                "label": "F",
+                "text": "Salt deposits in the state of Kansas are vast."
+              },
+              {
+                "label": "G",
+                "text": "Salt has few industrial uses nowadays."
+              },
+              {
+                "label": "H",
+                "text": "Slaves used salt as a currency."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Salt deposits in the state of Kansas are vast.",
+            "answer": "F GIVEN",
+            "options": [
+              {
+                "label": "A",
+                "text": "A number of cities take their name from the word salt."
+              },
+              {
+                "label": "B",
+                "text": "Salt contributed to the French Revolution."
+              },
+              {
+                "label": "C",
+                "text": "The uses of salt are countless."
+              },
+              {
+                "label": "D",
+                "text": "Salt has been produced in China for less than 2000 years."
+              },
+              {
+                "label": "E",
+                "text": "There are many commercial applications for salt."
+              },
+              {
+                "label": "F",
+                "text": "Salt deposits in the state of Kansas are vast."
+              },
+              {
+                "label": "G",
+                "text": "Salt has few industrial uses nowadays."
+              },
+              {
+                "label": "H",
+                "text": "Slaves used salt as a currency."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 4,
+            "text": "Salt is such a 4......................that people would not be able to live without it.",
+            "answer": "ESSENTIAL ELEMENT",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "As well as its uses in cooking, this basic mineral has thousands of business 5......................ranging from making paper to the manufacture of soap.",
+            "answer": "APPLICATIONS",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Being a prized and 6....................., it has played a major part in the economies of many countries.",
+            "answer": "PORTABLE",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "As such, salt has not only led to war but has also been used to raise 7..................... by governments in many parts of the world.",
+            "answer": "TAXES",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "There are also many instances of its place in religion and culture, being used as a means to get rid of evil 8......................",
+            "answer": "SPIRITS",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information in Reading Passage?",
+        "questions": [
+          {
+            "number": 9,
+            "text": "It has been suggested that salt was responsible for the first war",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "It has been suggested that salt was responsible for the first war"
+              },
+              {
+                "label": "FALSE",
+                "text": "It has been suggested that salt was responsible for the first war"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "It has been suggested that salt was responsible for the first war"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "The first tax on salt was imposed by a Chinese emperor",
+            "answer": "NOT",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The first tax on salt was imposed by a Chinese emperor"
+              },
+              {
+                "label": "FALSE",
+                "text": "The first tax on salt was imposed by a Chinese emperor"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The first tax on salt was imposed by a Chinese emperor"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Salt is no longer used as a form of currency",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Salt is no longer used as a form of currency"
+              },
+              {
+                "label": "FALSE",
+                "text": "Salt is no longer used as a form of currency"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "Salt is no longer used as a form of currency"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Most of the money for the construction of the Erie Canal came from salt taxes",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Most of the money for the construction of the Erie Canal came from salt taxes"
+              },
+              {
+                "label": "FALSE",
+                "text": "Most of the money for the construction of the Erie Canal came from salt taxes"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "Most of the money for the construction of the Erie Canal came from salt taxes"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Hopi legend believes that salt deposits were placed far away from civilization to penalize mankind",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "Hopi legend believes that salt deposits were placed far away from civilization to penalize mankind"
+              },
+              {
+                "label": "FALSE",
+                "text": "Hopi legend believes that salt deposits were placed far away from civilization to penalize mankind"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "Hopi legend believes that salt deposits were placed far away from civilization to penalize mankind"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "A lack of salt is connected with the deaths of many of Napoleon’s soldiers during the French retreat from Moscow",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "A lack of salt is connected with the deaths of many of Napoleon’s soldiers during the French retreat from Moscow"
+              },
+              {
+                "label": "FALSE",
+                "text": "A lack of salt is connected with the deaths of many of Napoleon’s soldiers during the French retreat from Moscow"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "A lack of salt is connected with the deaths of many of Napoleon’s soldiers during the French retreat from Moscow"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T21:39:09.684607"
+}

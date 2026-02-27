@@ -1,0 +1,242 @@
+{
+  "id": "ielts-r-0253",
+  "slug": "learning-to-walk",
+  "title": "Learning to Walk",
+  "page_range": [
+    1281,
+    1285
+  ],
+  "raw_answer_key": {
+    "1": "TRUE",
+    "8": "D",
+    "2": "FALSE",
+    "9": "anatomy",
+    "3": "TRUE",
+    "10": "resistance",
+    "4": "TRUE",
+    "11": "stress",
+    "5": "NOT GIVEN",
+    "12": "hypertension",
+    "6": "A",
+    "13": "organs",
+    "7": "C",
+    "14": "soles"
+  },
+  "content": {
+    "title": "Learning to Walk",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "These days the feet of a typical city dweller rarely encounter terrain any more uneven than a crack in the pavement. While that may not seem like a problem, it turns out that by flattening our urban environment we have put ourselves at risk of a surprising number of chronic illnesses and disabilities. Fortunately, the commercial market has come to the rescue with a choice of products. Research into the idea that flat floors could be detrimental to our health was pioneered back in the late 1960s in Long Beach, California. Podiatrist Charles Brantingham and physiologist Bruce Beekman were concerned with the growing epidemic of high blood pressure, varicose veins and deep-vein thromboses and reckoned they might be linked to the uniformity of the surfaces that we tend to stand and walk on."
+      },
+      {
+        "label": null,
+        "content": "The trouble, they believed, was that walking continuously on flat floors, sidewalks and streets concentrates forces on just a few areas of the foot. As a result, these surfaces are likely to be far more conducive to chronic stress syndromes than natural surfaces, where the foot meets the ground in a wide variety of orientations. They understood that the anatomy of the foot parallels that of the human hand - each having 26 bones, 33 joints and more than 100 muscles, tendons and ligaments - and that modern lifestyles waste all this potential flexibility."
+      },
+      {
+        "label": null,
+        "content": "Brantingham and Beekman became convinced that the damage could be rectified by making people wobble. To test their ideas, they got 65 factory workers to try standing on a variable terrain floor - spongy mats with varying degrees of resistance across the surface. This modest irregularity allowed the soles of the volunteers' feet to deviate slightly from the horizontal each time they shifted position. As the researchers hoped, this simple intervention made a huge difference, within a few weeks. Even if people were wobbling slightly, it activated a host of muscles in their legs, which in turn helped pump blood back to their hearts. The muscle action prevented the pooling of blood in their feet and legs, reducing the stress on the heart and circulation."
+      },
+      {
+        "label": null,
+        "content": "Yet decades later, the flooring of the world's largest workplaces remains relentlessly smooth. Earlier this year, however, the idea was revived when other researchers in the US announced findings from a similar experiment with people over 60. John Fisher and colleagues at the Oregon Research Institute in Eugene designed a mat intended to replicate the effect of walking on cobblestones."
+      },
+      {
+        "label": null,
+        "content": "In tests funded by the National Institute of Aging, they got some 50 adults to walk on the toots in their bare feet for less than an hour, three times a week. After 16 weeks, these people showed marked improvements in mobility, and even a significant reduction in blood pressure. People in a control group who walked on ordinary floors also improved but not as dramatically. The mats are now available for purchase and production is being scaled up."
+      },
+      {
+        "label": null,
+        "content": "Even so, demand could exceed supply if this foot-stimulating activity really is a 'useful non-pharmacological approach for preventing or controlling hypertension of older adults,' as the researchers believe. They are not alone in recognising the benefits of cobblestones. Reflexologists have long advocated walking on textured surfaces to stimulate so-called 'acupoints' on the soles of the feet. They believe that pressure applied to particular spots on the foot connects directly to particular organs of the body and somehow enhances their function."
+      },
+      {
+        "label": null,
+        "content": "In China, spas, apartment blocks and even factories promote their cobblestone paths as healthful amenities. Fisher admits he got the concept from regular visits to the country. Here, city dwellers take daily walks along cobbled paths for five or ten minutes, perhaps several times a day, to improve their health. The idea is now taking off in Europe too."
+      },
+      {
+        "label": null,
+        "content": "People in Germany, Austria and Switzerland can now visit 'barefoot parks' and walk along 'paths of the senses' - with mud, logs, stone and moss underfoot. And it is not difficult to construct your own path with simple everyday objects such as stones or bamboo poles."
+      },
+      {
+        "label": null,
+        "content": "But if none of these solutions appeal, there is another option. A new shoe on the market claims to transform flat, hard, artificial surfaces into something like uneven ground. 'These shoes have an unbelievable effect,' says Benno Nigg, an exercise scientist at Calgary University in Canada."
+      },
+      {
+        "label": null,
+        "content": "Known as the Masai Barefoot Technology, the shoes have rounded soles that cause you to rock slightly when you stand still, exercising the small muscles around the ankle that are responsible for stability. Forces in the joint are reduced, putting less strain on the system, Nigg claims."
+      },
+      {
+        "label": null,
+        "content": "Some of these options may not appeal to all consumers and there is a far simpler alternative."
+      },
+      {
+        "label": null,
+        "content": "If the urban environment is detrimental to our health, then it is obvious where we should turn. A weekend or even a few hours spent in the countryside could help alleviate a sufferer's aches and pains, and would require only the spending of time."
+      },
+      {
+        "label": null,
+        "content": "However, for many modern citizens, the countryside is not as accessible as it once was and is in fact a dwindling resource. Our concrete cities are growing at a terrifying rate - perhaps at the same rate as our health problems."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-5 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Brantingham and Beekman were the first researchers to investigate the relationship between health problems and flat floors.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The subjects in Fisher's control group experienced a decline in their physical condition.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The manufacturers are increasing the number of cobblestone mats they are making.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Fisher based his ideas on what he saw during an overseas trip.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The Masai Barefoot Technology shoes are made to fit people of all ages.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 6-8 on your answer sheet.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "The writer suggests that Brantingham and Beekman's findings were",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "ignored by big companies."
+              },
+              {
+                "label": "B",
+                "text": "doubted by other researchers."
+              },
+              {
+                "label": "C",
+                "text": "applicable to a narrow range of people."
+              },
+              {
+                "label": "D",
+                "text": "surprising to them."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "What claim is made by the designers of the cobblestone mats?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "They need to be used continuously in order to have a lasting effect."
+              },
+              {
+                "label": "B",
+                "text": "They would be as beneficial to younger people as to older people."
+              },
+              {
+                "label": "C",
+                "text": "They could be an effective alternative to medical intervention."
+              },
+              {
+                "label": "D",
+                "text": "Their effects may vary depending on individual users."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Which of the following points does the writer make in the final paragraph?",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "People should question new theories that scientists put forward."
+              },
+              {
+                "label": "B",
+                "text": "High prices do not necessarily equate to a quality product."
+              },
+              {
+                "label": "C",
+                "text": "People are setting up home in the country for health reasons."
+              },
+              {
+                "label": "D",
+                "text": "The natural environment is fast disappearing."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer. Write your answers in boxes 9-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "In their research, Brantingham and Beekman looked at the complex physical 9..................... of the foot and noted that the surfaces of modem environments restrict its movement.",
+            "answer": "anatomy",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "They invented a mat which they tried out on factory workers. Whenever the workers walked on it, the different levels of 10..................... in the mat would encourage greater muscle action.",
+            "answer": "resistance",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "In turn, this lessened the effect of 11..................... on the cardiovascular system.",
+            "answer": "stress",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Similar research was undertaken by John Fisher and colleagues in Oregon. As a result of their findings, they decided to market cobblestone mats to the elderly as a means of dealing with 12......................",
+            "answer": "hypertension",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Reflexologists claim that by manipulating specific parts of the feet, the performance of certain 13..................... will also improve.",
+            "answer": "organs",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Finally, Benno Nigg at Calgary University believes that specially shaped 14..................... on shoes should give health benefits.",
+            "answer": "soles",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:37:16.793359"
+}

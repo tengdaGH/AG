@@ -131,7 +131,7 @@ def call_minimax_structured(prompt: str, response_schema: type, system_prompt: s
             
             # Use raw unbuffered OS-level curl to bypass Python socket death traps
             curl_cmd = [
-                "curl", "-s", "-S", "-m", "60", # 60 second hard timeout to allow for slow responses over VPN
+                "curl", "-s", "-S", "-m", "300", # 300 second hard timeout for persistent failures
                 "-X", "POST", "https://api.minimaxi.chat/v1/chat/completions",
                 "-H", "Content-Type: application/json",
                 "-H", f"Authorization: Bearer {MINIMAX_API_KEY}",

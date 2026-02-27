@@ -1,0 +1,228 @@
+{
+  "id": "ielts-r-0444",
+  "slug": "the-cacao-a-sweet-history",
+  "title": "The Cacao: A Sweet history",
+  "page_range": [
+    2251,
+    2255
+  ],
+  "raw_answer_key": {
+    "1": "D",
+    "8": "NOT GIVEN",
+    "2": "E",
+    "9": "TRUE",
+    "3": "D",
+    "10": "TRUE",
+    "4": "C",
+    "11": "Covering",
+    "5": "B",
+    "12": "Chocolate liquor",
+    "6": "FALSE",
+    "13": "Cocoa fat",
+    "7": "NOT GIVEN",
+    "14": "Mold (form)"
+  },
+  "content": {
+    "title": "The Cacao: A Sweet History",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Most people today think of chocolate as something sweet to eat or drink that can be easily found in stores around the world. It might surprise you that chocolate was once highly treasured. The tasty secret of the cacao (Kah Kow) tree was discovered 2,000 years ago in the tropical rainforests of the Americas. The story of how chocolate grew from a local Mesoamerican beverage into a global sweet encompasses many cultures and continents."
+      },
+      {
+        "label": "B",
+        "content": "Historians believe the Maya people of Central America first learned to farm cacao plants around two thousand years ago. The Maya took cacao trees from the rainforests and grew them in their gardens. They cooked cacao seeds, then crushed them into a soft paste. They mixed the paste with water and flavorful spices to make an unsweetened chocolate drink. The Maya poured the chocolate drink back and forth between two containers so that the liquid would have a layer of bubbles or foam. Cacao and chocolate were an important part of Maya culture. There are often images of cacao plants on Maya buildings and art objects. Ruling families drank chocolate at special ceremonies. And, even poorer members of society could enjoy the drink once in a while. Historians believe that cacao seeds were also used in marriage ceremonies as a sign of the union between a husband and a wife."
+      },
+      {
+        "label": "C",
+        "content": "The Aztec culture in current-day Mexico also prized chocolate. But, cacao plants could not grow in the area where the Aztecs lived. So, they traded to get cacao. They even used cacao seeds as a form of money to pay taxes. Chocolate also played a special role in both Maya and Aztec royal and religious events. Priests presented cacao seeds and offerings to the gods and served chocolate drinks during sacred ceremonies. Only the very wealthy in Aztec societies could afford to drink chocolate because cacao was so valuable. The Aztec ruler Montezuma was believed to drink fifty cups of chocolate every day. Some experts believe the word for chocolate came from the Aztec word “xocolatl” which in the Nahuatl language means “bitter water.” Others believe the word “chocolate” was created by combining Mayan and Nahuatl words."
+      },
+      {
+        "label": "D",
+        "content": "The explorer Christopher Columbus brought cacao seeds to Spain after his trip to Central America in 1502. But it was the Spanish explorer Hernando Cortes who understood that chocolate could be a valuable investment. In 1519, Cortes arrived in current-day Mexico. He believed the chocolate drink would become popular with Spaniards. After the Spanish soldiers defeated the Aztec empire, they were able to seize the supplies of cacao and send them home. Spain later began planting cacao in its colonies in the Americas in order to satisfy the large demand for chocolate. The wealthy people of Spain first enjoyed a sweetened version of chocolate drink. Later, the popularity of the drink spread throughout Europe. The English, Dutch and French began to plant cacao trees in their own colonies. Chocolate remained a drink that only wealthy people could afford to drink until the eighteenth century. During the period known as the Industrial Revolution, new technologies helped make chocolate less costly to produce."
+      },
+      {
+        "label": "E",
+        "content": "Farmers grow cacao trees in many countries in Africa, Central and South America. The trees grow in the shady areas of the rainforests near the Earth’s equator. But these trees can be difficult to grow. They require an exact amount of water, warmth, soil and protection. After about five years, cacao trees start producing large fruits called pods, which grow near the trunk of the tree. The seeds inside the pods are harvested to make chocolate. There are several kinds of cacao trees. Most of the world’s chocolate is made from the seed of the forastero tree. But farmers can also grow criollo or trinitario cacao plants. Cacao trees grown on farms are much more easily threatened by diseases and insects than wild trees. Growing cacao is very hard work for farmers. They sell their harvest on a futures market. This means that economic conditions beyond their control can affect the amount of money they will earn. Today, chocolate industry officials, activists, and scientists are working with farmers. They are trying to make sure that cacao can be grown in a way that is fair to the farmers and safe for the environment."
+      },
+      {
+        "label": "F",
+        "content": "To become chocolate, cacao seeds go through a long production process in a factory. Workers must sort, clean and cook the seeds. Then they break off the covering of the seeds so that only the inside fruit, or nibs, remain. Workers crush the nibs into a soft substance called chocolate liquor. This gets separated into cocoa solids and fat called cocoa butter. Chocolate makers have their own special recipes in which they combine chocolate liquor with exact amounts of sugar, milk and cocoa fat. They finely crush this “crumb” mixture in order to make it smooth. The mixture then goes through two more processes before it is shaped into a mold form. Chocolate making is big business. The market value of the yearly cacao crop around the world is more than five billion dollars. Chocolate is especially popular in Europe and the United States. For example, in 2005, the United States bought 1.4 billion dollars worth of cocoa products. Each year, Americans eat an average of more than five kilograms of chocolate per person. Speciality shops that sell costly chocolates are also very popular. Many offer chocolate lovers the chance to taste chocolates grown in different areas of the world."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading passage 1 has 5 chapters. Which chapter contains the following information? Write your answers in boxes 1-5 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "the part of cacao trees used to produce chocolate",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "average chocolate consumption by people in the US per person per year",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "risks faced by farmers in the cacao business",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "where the first sweetened chocolate drink appeared",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "how ancient American civilizations obtained cacao",
+            "answer": "B",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage 1? In boxes 6-10 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "use of cacao and chocolate in ceremonies was restricted to Maya royal families",
+            "answer": "FALSE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "The Spanish explorer Hernando Cortes invested in chocolate and chocolate drinks.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The forastero tree produces the best chocolate.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "some parts in cacao seed are removed during the chocolate process",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Chocolate is welcomed more in some countries or continents than in other parts around the world.",
+            "answer": "TRUE",
+            "options": [
+              {
+                "label": "TRUE",
+                "text": "The statement is true."
+              },
+              {
+                "label": "FALSE",
+                "text": "The statement is false."
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "The information is not given in the passage."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "FLOW_CHART_COMPLETION",
+        "instruction": "The flow chart below shows the steps in chocolate making. Complete the flow chart using NO MORE THAN THREE WORDS from the passage for each blank. Write your answers in boxes 11-14 on your answer sheet.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "ridding seeds of their",
+            "answer": "Covering",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "crushing",
+            "answer": "Chocolate liquor",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "Add sugar, milk and",
+            "answer": "Cocoa fat",
+            "options": null
+          },
+          {
+            "number": 14,
+            "text": "Crumb mixture",
+            "answer": "Mold (form)",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T18:18:36.045324"
+}

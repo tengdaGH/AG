@@ -1,0 +1,225 @@
+{
+  "id": "ielts-r-0309",
+  "slug": "neanderthals-and-modern-humans",
+  "title": "Neanderthals and modern humans",
+  "page_range": [
+    1566,
+    1570
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "8": "G",
+    "2": "B",
+    "9": "A",
+    "3": "A",
+    "10": "E",
+    "4": "C",
+    "11": "inter breeding",
+    "5": "A",
+    "12": "growth",
+    "6": "D",
+    "13": "little-finger bone",
+    "7": "B"
+  },
+  "content": {
+    "title": "Neanderthals and modern humans",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The evolutionary processes that have made modern humans so different from other animals are hard to determine without an ability to examine human species that have not achieved similar things. However, in a scientific masterpiece, Svante Paabo and his colleagues from the Max Planck Institute for Evolutionary Anthropology, in Leipzig, have made such a comparison possible. In 2009, at a meeting of the American Association for the Advancement of Science, they made public an analysis of the genome of Neanderthal man."
+      },
+      {
+        "label": "B",
+        "content": "Homo neanderthalensis, to give its proper name, lived in Europe and parts of Asia from 400,000 years ago to 30,000 years ago. Towards the end of this period it shared its range with interlopers in the form of Homo sapiens, who were spreading out from Africa. However, the two species did not settle down to a stable cohabitation. For reasons which are as yet unknown, the arrival of Homo sapiens in a region was always quickly followed by the disappearance of Neanderthals."
+      },
+      {
+        "label": "C",
+        "content": "Before 2009, Dr Paabo and his team had conducted only a superficial comparison between the DNA of Neanderthals and modern humans. Since then, they have performed a more thorough study and, in doing so, have shed a fascinating light on the intertwined history of the two species. That history turns out to be more intertwined than many had previously believed."
+      },
+      {
+        "label": "D",
+        "content": "Dr Paabo and his colleagues compared their Neanderthal genome (painstakingly reconstructed from three bone samples collected from a cave in Croatia) with that of five living humans from various parts of Africa and Eurasia. Previous genetic analysis, which had only examined DNA passed from mother to child in cellular structures called mitochondria, had suggested no interbreeding between Neanderthals and modern humans. The new, more extensive examination, which looks at DNA in the cell nucleus rather than in the mitochondria, shows this conclusion is wrong. By comparing the DNA in the cell nucleus of Africans (whose ancestors could not have crossbred with Neanderthals, since they did not overlap with them) and various Eurasians (whose ancestors could have crossbred with Neanderthals), Dr Paabo has shown that Eurasians are between one percent and four percent Neanderthal."
+      },
+      {
+        "label": "E",
+        "content": "That is intriguing. It shows that even after several hundred thousand years of separation, the two species were inter-fertile. It is strange, though, that no Neanderthal mitochondrial DNA has turned up in modern humans, since the usual pattern of invasion in historical times was for the invaders’ males to mate with the invaded’s females. One piece of self-knowledge, then - at least for non-Africans - is that they have a dash of Neanderthal in them. But Dr Paabo’s work also illuminates the differences between the species. By comparing modem humans, Neanderthals, and chimpanzees, it is possible to distinguish genetic changes which are shared by several species of human in their evolution away from the great-ape lineage, from those which are unique to Homo sapiens."
+      },
+      {
+        "label": "F",
+        "content": "More than 90 percent of the 'human accelerated regions' that have been identified in modern people are found in Neanderthals too. However, the rest are not. Dr Paabo has identified 212 parts of the genome that seem to have undergone significant evolution since the species split. The state of genome science is still quite primitive, and it is often unclear what any given bit of DNA is actually doing. But an examination of the 20 largest regions of DNA that have evolved in this way shows that they include several genes which are associated with cognitive ability, and whose malfunction causes serious mental problems. These genes therefore look like good places to start the search for modern humanity’s essence."
+      },
+      {
+        "label": "G",
+        "content": "The newly evolved regions of DNA also include a gene called RUNX2, which controls bone growth. That may account for differences in the shape of the skull and the rib cage between the two species. By contrast an earlier phase of the study had already shown that Neanderthals and moderns share the same version of a gene called FOXP2, which is involved in the ability to speak, and which differs in chimpanzees. It is all, then, very promising - and a second coup in quick succession for Dr Paabo. Another of his teams has revealed the existence of a hitherto unsuspected species of human, using mitochondrial DNA found in a little-finger bone. If that species, too, could have its full genome read, humanity’s ability to know itself would be enhanced even further."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Which paragraph contains the following information? Write the correct letter, A-G.",
+        "questions": [
+          {
+            "number": 6,
+            "text": "an account of the rejection of a theory",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "reference to an unexplained link between two events",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "the identification of a skill-related gene common to both Neanderthals and modern humans",
+            "answer": "G",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "the announcement of a scientific breakthrough",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "an interesting gap in existing knowledge",
+            "answer": "E",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the following characteristics (Questions 1-5) and the list of species below. Match each feature with the correct species, A, B or C. Write the correct letter, A, B or C. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Once lived in Europe and Asia.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Homo neanderthalensis"
+              },
+              {
+                "label": "B",
+                "text": "Homo sapiens"
+              },
+              {
+                "label": "C",
+                "text": "both Homo neanderthalensis and Homo sapiens"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Originated in Africa.",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Homo neanderthalensis"
+              },
+              {
+                "label": "B",
+                "text": "Homo sapiens"
+              },
+              {
+                "label": "C",
+                "text": "both Homo neanderthalensis and Homo sapiens"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Did not survive long after the arrival of immigrants.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Homo neanderthalensis"
+              },
+              {
+                "label": "B",
+                "text": "Homo sapiens"
+              },
+              {
+                "label": "C",
+                "text": "both Homo neanderthalensis and Homo sapiens"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Interbred with another species.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Homo neanderthalensis"
+              },
+              {
+                "label": "B",
+                "text": "Homo sapiens"
+              },
+              {
+                "label": "C",
+                "text": "both Homo neanderthalensis and Homo sapiens"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Appears not to have passed on mitochondrial DNA to another species.",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "Homo neanderthalensis"
+              },
+              {
+                "label": "B",
+                "text": "Homo sapiens"
+              },
+              {
+                "label": "C",
+                "text": "both Homo neanderthalensis and Homo sapiens"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN THREE WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "The nature of modern humans. Recent work in the field of evolutionary anthropology has made it possible to compare modern humans with other related species. Genetic analysis resulted in several new findings. First, despite the length of time for which Homo sapiens and Homo neanderthalensis had developed separately, 11..................... did take place.",
+            "answer": "inter breeding",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "Secondly, genes which evolved after modern humans split from Neanderthals are connected with cognitive ability and skeletal 12......................",
+            "answer": "growth",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "The potential for this line of research to shed light on the nature of modern humans was further strengthened when analysis of a 13..................... led to the discovery of a new human species.",
+            "answer": "little-finger bone",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T20:52:48.334300"
+}

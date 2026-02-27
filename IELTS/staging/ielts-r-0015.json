@@ -1,0 +1,158 @@
+{
+  "id": "ielts-r-0015",
+  "slug": "alfred-nobel-the-man-behind-the-nobel-prize",
+  "title": "Alfred Nobel: The man behind the Nobel Prize",
+  "page_range": [
+    91,
+    94
+  ],
+  "raw_answer_key": {
+    "1": "FALSE",
+    "8": "Ascanio Sobrero",
+    "2": "NOT GIVEN",
+    "9": "gunpower",
+    "3": "FALSE",
+    "10": "Stockholm",
+    "4": "FALSE",
+    "11": "detonator",
+    "5": "TRUE",
+    "12": "pneumatic drill",
+    "6": "TRUE",
+    "13": "cost",
+    "7": "chemical engineering"
+  },
+  "content": {
+    "title": "Alfred Nobel: The man behind the Nobel Prize",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Since 1901, the Nobel Prize has been honoring men and women from all corners of the globe for outstanding achievements in physics, chemistry, medicine, literature, and for work in peace. The foundations for the prize were laid in 1895 when Alfred Nobel wrote his last will, leaving much of his wealth to the establishment of the Nobel Prize."
+      },
+      {
+        "label": "B",
+        "content": "Alfred Nobel was born in Stockholm on October 21, 1833. His father Immanuel Nobel was an engineer and inventor who built bridges and buildings in Stockholm. In connection with his construction work, Immanuel Nobel also experimented with different techniques for blasting rocks. Successful in his industrial and business ventures, Immanuel Nobel was able, in 1842, to bring his family to St. Petersburg. There, his sons were given a first-class education by private teachers. The training included natural sciences, languages and literature. By the age of 17, Alfred Nobel was fluent in Swedish, Russian, French, English and German. His primary interests were in English literature and poetry as well as in chemistry and physics. Alfred’s father, who wanted his sons to join his enterprise as engineers, disliked Alfred’s interest in poetry and found his son rather introverted."
+      },
+      {
+        "label": "C",
+        "content": "In order to widen Alfred’s horizons, his father sent him abroad for further training in chemical engineering. During a two-year period, Alfred Nobel visited Sweden, Germany, France and the United States. In Paris, the city he came to like best, he worked in the private laboratory of Professor T. J. Pelouze, a famous chemist. There he met the young Italian chemist Ascanio Sobrero who, three years earlier, had invented nitroglycerine, a highly explosive liquid. But it was considered too dangerous to be of any practical use. Although its explosive power greatly exceeded that of gunpowder, the liquid would explode in a very unpredictable manner if subjected to heat and pressure. Alfred Nobel became very interested in nitroglycerine and how it could be put to practical use in construction work. He also realized that the safety problems had to be solved and a method had to be developed for the controlled detonation of nitroglycerine."
+      },
+      {
+        "label": "D",
+        "content": "After his return to Sweden in 1863, Alfred Nobel concentrated on developing nitroglycerine as an explosive. Several explosions, including one (1864) in which his brother Emil and several other persons were killed, convinced the authorities that nitroglycerine production was exceedingly dangerous. They forbade further experimentation with nitroglycerine within the Stockholm city limits and Alfred Nobel had to move his experimentation to a barge anchored on Lake Mälaren. Alfred was not discouraged and in 1864 he was able to start mass production of nitroglycerine. To make the handling of nitroglycerine safer Alfred Nobel experimented with different additives. He soon found that mixing nitroglycerine with kieselguhr would turn the liquid into a paste which could be shaped into rods of a size and form suitable for insertion into drilling holes. In 1867 he patented this material under the name of dynamite. To be able to detonate the dynamite rods he also invented a detonator (blasting cap) which could be ignited by lighting a fuse. These inventions were made at the same time as the pneumatic drill came into general use. Together these inventions drastically reduced the cost of blasting rock, drilling tunnels, building canals and many other forms of construction work."
+      },
+      {
+        "label": "E",
+        "content": "The market for dynamite and detonating caps grew very rapidly and Alfred Nobel also proved himself to be a very skillful entrepreneur and businessman. Over the years he founded factories and laboratories in some 90 different places in more than 20 countries. Although he lived in Paris much of his life he was constantly traveling. When he was not traveling or engaging in business activities Nobel himself worked intensively in his various laboratories, first in Stockholm and later in other places. He focused on the development of explosives technology as well as other chemical inventions including such materials as synthetic rubber and leather, artificial silk, etc. By the time of his death in 1896, he had 355 patents."
+      },
+      {
+        "label": "F",
+        "content": "Intensive work and travel did not leave much time for private life. At the age of 43, he was feeling like an old man. At this time he advertised in a newspaper “Wealthy, highly-educated elderly gentleman seeks the lady of mature age, versed in languages, as secretary and supervisor of household.” The most qualified applicant turned out to be an Austrian woman, Countess Bertha Kinsky. After working a very short time for Nobel she decided to return to Austria to marry Count Arthur von Suttner. In spite of this Alfred Nobel and Bertha von Suttner remained friends and kept writing letters to each other for decades. Over the years Bertha von Suttner became increasingly critical of the arms race. She wrote a famous book, Lay Down Your Arms and became a prominent figure in the peace movement. No doubt this influenced Alfred Nobel when he wrote his final will which was to include a Prize for persons or organizations who promoted peace. Several years after the death of Alfred Nobel, the Norwegian Storting (Parliament) decided to award the 1905 Nobel Peace Prize to Bertha von Suttner."
+      },
+      {
+        "label": "G",
+        "content": "Alfred Nobel died in San Remo, Italy, on December 10, 1896. When his will was opened it came as a surprise that his fortune was to be used for Prizes in Physics, Chemistry, Physiology or Medicine, Literature and Peace. The executors of his will were two young engineers, Ragnar Sohlman and Rudolf Lilljequist. They set about forming the Nobel Foundation as an organization to take care of the financial assets left by Nobel for this purpose and to coordinate the work of the Prize-Awarding Institutions. This was not without its difficulties since the will was contested by relatives and questioned by authorities in various countries."
+      },
+      {
+        "label": "H",
+        "content": "Alfred Nobel’s greatness lay in his ability to combine the penetrating mind of the scientist and inventor with the forward-looking dynamism of the industrialist. Nobel was very interested in social and peace-related issues and held what were considered radical views in his era. He had a great interest in literature and wrote his own poetry and dramatic works. The Nobel Prizes became an extension and a fulfillment of his lifetime interests."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-6 on your answer sheet, write TRUE if the statement is true, FALSE if the statement is false, NOT GIVEN if the information is not given in the passage.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "The first Nobel Prize was awarded in 1895.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Nobel’s father wanted his son to have a better education than what he had had.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Nobel was an unsuccessful businessman.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Bertha von Suttner was selected by Nobel himself for the first peace prize.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The Nobel Foundation was established after the death of Nobel.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "Nobel’s social involvement was uncommon in the 1800s.",
+            "answer": "TRUE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the notes below using NO MORE THAN TWO WORDS from the passage.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "Having accumulated a great fortune in his business, Nobel’s father determined to give his son the best education and sent him abroad to be trained in __________.",
+            "answer": "chemical engineering",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "During Nobel’s study in Paris, he worked in a private laboratory, where he came in contact with a young engineer __________ and his invention nitroglycerine, a more powerful explosive than __________.",
+            "answer": "Ascanio Sobrero",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "During Nobel’s study in Paris, he worked in a private laboratory, where he came in contact with a young engineer Ascanio Sobrero and his invention nitroglycerine, a more powerful explosive than __________.",
+            "answer": "gunpower",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Nobel became really interested in this new explosive and experimented on it. But nitroglycerine was too dangerous and was banned for experiments within the city of __________.",
+            "answer": "Stockholm",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "So Nobel had to move his experiments to a lake. To make nitroglycerine easily usable, Nobel invented dynamite along with __________.",
+            "answer": "detonator",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "while in the meantime __________ became popular, all of which dramatically lowered the __________ of construction works.",
+            "answer": "pneumatic drill",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "while in the meantime pneumatic drill became popular, all of which dramatically lowered the __________ of construction works.",
+            "answer": "cost",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T18:22:35.267972"
+}

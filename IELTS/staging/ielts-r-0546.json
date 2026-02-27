@@ -1,0 +1,567 @@
+{
+  "id": "ielts-r-0546",
+  "slug": "the-rocket---from-east-to-west",
+  "title": "The rocket - From East to West",
+  "page_range": [
+    2764,
+    2769
+  ],
+  "raw_answer_key": {
+    "1": "iv",
+    "8": "A",
+    "2": "i",
+    "9": "B",
+    "3": "v",
+    "10": "E",
+    "4": "vii",
+    "11": "B",
+    "5": "B",
+    "12": "E",
+    "6": "D",
+    "13": "F",
+    "7": "A",
+    "14": "G"
+  },
+  "content": {
+    "title": "The rocket - From East to West",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "The concept of the rocket, or rather the mechanism behind the idea of propelling an object into the air, has been around for well over two thousand years. However, it wasn’t until the discovery of the reaction principle, which was the key to space travel and so represents one of the great milestones in the history of scientific thought, that rocket technology was able to develop. Not only did it solve a problem that had intrigued man for ages, but, more importantly, it literally opened the door to exploration of the universe."
+      },
+      {
+        "label": "B",
+        "content": "An intellectual breakthrough, brilliant though it may be, does not automatically ensure that the transition is made from theory to practice. Despite the fact that rockets had been used sporadically for several hundred years, they remained a relatively minor artefact of civilisation until the twentieth century. Prodigious efforts, accelerated during two world wars, were required before the technology of primitive rocketry could be translated into the reality of sophisticated astronauts. It is strange that the rocket was generally ignored by writers of fiction to transport their heroes to mysterious realms beyond the Earth, even though it had been commonly used in fireworks displays in China since the thirteenth century. The reason is that nobody associated the reaction principle with the idea of travelling through space to a neighbouring world."
+      },
+      {
+        "label": "C",
+        "content": "A simple analogy can help us to understand how a rocket operates. It is much like a machine gun mounted on the rear of a boat. In reaction to the backward discharge of bullets, the gun, and hence the boat, move forwards. A rocket motor’s ‘bullets’ are minute, high-speed particles produced by burning propellants in a suitable chamber. The reaction to the ejection of these small particles causes the rocket to move forwards. There is evidence that the reaction principle was applied practically well before the rocket was invented. In his Noctes Atticae or Greek Nights, Aulus Gellius describes ‘the pigeon of Archytas’, an invention dating back to about 360 BC. Cylindrical in shape, made of wood, and hanging from string, it was moved to and fro by steam blowing out from small exhaust ports at either end. The reaction to the discharging steam provided the bird with motive power."
+      },
+      {
+        "label": "D",
+        "content": "The invention of rockets is linked inextricably with the invention of ‘black powder’. Most historians of technology credit the Chinese with its discovery. They base their belief on studies of Chinese writings or on the notebooks of early Europeans who settled in or made long visits to China to study its history and civilisation. It is probable that, some time in the tenth century, black powder was first compounded from its basic ingredients of saltpetre, charcoal and sulphur. But this does not mean that it was immediately used to propel rockets. By the thirteenth century, powder-propelled fire arrows had become rather common. The Chinese relied on this type of technological development to produce incendiary projectiles of many sorts, explosive grenades and possibly cannons to repel their enemies. One such weapon was the ‘basket of fire’ or, as directly translated from Chinese, the ‘arrows like flying leopards’. The 0.7 metre-long arrows, each with a long tube of gunpowder attached near the point of each arrow, could be fired from a long, octagonal-shaped basket at the same time and had a range of 400 paces. Another weapon was the ‘arrow as a flying sabre’, which could be fired from crossbows. The rocket, placed in a similar position to other rocket-propelled arrows, was designed to increase the range. A small iron weight was attached to the 1.5m bamboo shaft, just below the feathers, to increase the arrow’s stability by moving the centre of gravity to a position below the rocket. At a similar time, the Arabs had developed the ‘egg which moves and burns’. This ‘egg’ was apparently full of gunpowder and stabilised by a 1.5m tail. It was fired using two rockets attached to either side of this tail."
+      },
+      {
+        "label": "E",
+        "content": "It was not until the eighteenth century that Europe became seriously interested in the possibilities of using the rocket itself as a weapon of war and not just to propel other weapons. Prior to this, rockets were used only in pyrotechnic displays. The incentive for the more aggressive use of rockets came not from within the European continent but from far-away India, whose leaders had built up a corps of rocketeers and used rockets successfully against the British in the late eighteenth century. The Indian rockets used against the British were described by a British Captain serving in India as ‘an iron envelope about 200 millimetres long and 40 millimetres in diameter with sharp points at the top and a 3m-long bamboo guiding stick’. In the early nineteenth century the British began to experiment with incendiary barrage rockets. The British rocket differed from the Indian version in that it was completely encased in a stout, iron cylinder, terminating in a conical head, measuring one metre in diameter and having a stick almost five metres long and constructed in such a way that it could be firmly attached to the body of the rocket. The Americans developed a rocket, complete with its own launcher, to use against the Mexicans in the mid-nineteenth century. A long cylindrical tube was propped up by two sticks and fastened to the top of the launcher, thereby allowing the rockets to be inserted and lit from the other end. However, the results were sometimes not that impressive as the behaviour of the rockets in flight was less than predictable."
+      },
+      {
+        "label": "F",
+        "content": "Since then, there have been huge developments in rocket technology, often with devastating results in the forum of war. Nevertheless, the modern day space programs owe their success to the humble beginnings of those in previous centuries who developed the foundations of the reaction principle. Who knows what it will be like in the future?"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the most suitable headings for paragraphs B-E from the list of headings below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph B",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "How the reaction principle works"
+              },
+              {
+                "label": "ii",
+                "text": "The impact of the reaction principle"
+              },
+              {
+                "label": "iii",
+                "text": "Writers’ theories of the reaction principle"
+              },
+              {
+                "label": "iv",
+                "text": "Undeveloped for centuries"
+              },
+              {
+                "label": "v",
+                "text": "The first rockets"
+              },
+              {
+                "label": "vi",
+                "text": "The first use of steam"
+              },
+              {
+                "label": "vii",
+                "text": "Rockets for military use"
+              },
+              {
+                "label": "viii",
+                "text": "Developments of fire"
+              },
+              {
+                "label": "ix",
+                "text": "What’s next?"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph C",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "How the reaction principle works"
+              },
+              {
+                "label": "ii",
+                "text": "The impact of the reaction principle"
+              },
+              {
+                "label": "iii",
+                "text": "Writers’ theories of the reaction principle"
+              },
+              {
+                "label": "iv",
+                "text": "Undeveloped for centuries"
+              },
+              {
+                "label": "v",
+                "text": "The first rockets"
+              },
+              {
+                "label": "vi",
+                "text": "The first use of steam"
+              },
+              {
+                "label": "vii",
+                "text": "Rockets for military use"
+              },
+              {
+                "label": "viii",
+                "text": "Developments of fire"
+              },
+              {
+                "label": "ix",
+                "text": "What’s next?"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph D",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "How the reaction principle works"
+              },
+              {
+                "label": "ii",
+                "text": "The impact of the reaction principle"
+              },
+              {
+                "label": "iii",
+                "text": "Writers’ theories of the reaction principle"
+              },
+              {
+                "label": "iv",
+                "text": "Undeveloped for centuries"
+              },
+              {
+                "label": "v",
+                "text": "The first rockets"
+              },
+              {
+                "label": "vi",
+                "text": "The first use of steam"
+              },
+              {
+                "label": "vii",
+                "text": "Rockets for military use"
+              },
+              {
+                "label": "viii",
+                "text": "Developments of fire"
+              },
+              {
+                "label": "ix",
+                "text": "What’s next?"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph E",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "How the reaction principle works"
+              },
+              {
+                "label": "ii",
+                "text": "The impact of the reaction principle"
+              },
+              {
+                "label": "iii",
+                "text": "Writers’ theories of the reaction principle"
+              },
+              {
+                "label": "iv",
+                "text": "Undeveloped for centuries"
+              },
+              {
+                "label": "v",
+                "text": "The first rockets"
+              },
+              {
+                "label": "vi",
+                "text": "The first use of steam"
+              },
+              {
+                "label": "vii",
+                "text": "Rockets for military use"
+              },
+              {
+                "label": "viii",
+                "text": "Developments of fire"
+              },
+              {
+                "label": "ix",
+                "text": "What’s next?"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the appropriate letters A-D and write them in boxes 5-6 on your answer sheet.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "The greatest outcome of the discovery of the reaction principle was that",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "rockets could be propelled into the air."
+              },
+              {
+                "label": "B",
+                "text": "space travel became a reality."
+              },
+              {
+                "label": "C",
+                "text": "a major problem had been solved."
+              },
+              {
+                "label": "D",
+                "text": "bigger rockets were able to be built."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "According to the text, the greatest progress in rocket technology was made",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "from the tenth to the thirteenth centuries."
+              },
+              {
+                "label": "B",
+                "text": "from the seventeenth to the nineteenth centuries."
+              },
+              {
+                "label": "C",
+                "text": "from the early nineteenth to the late nineteenth century."
+              },
+              {
+                "label": "D",
+                "text": "from the late nineteenth century to the present day."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "From the information in the text, indicate who FIRST invented or used the items in the list below.",
+        "questions": [
+          {
+            "number": 7,
+            "text": "black powder",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the Chinese"
+              },
+              {
+                "label": "B",
+                "text": "the Indians"
+              },
+              {
+                "label": "C",
+                "text": "the British"
+              },
+              {
+                "label": "D",
+                "text": "the Arabs"
+              },
+              {
+                "label": "E",
+                "text": "the Americans"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "rocket-propelled arrows for fighting",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the Chinese"
+              },
+              {
+                "label": "B",
+                "text": "the Indians"
+              },
+              {
+                "label": "C",
+                "text": "the British"
+              },
+              {
+                "label": "D",
+                "text": "the Arabs"
+              },
+              {
+                "label": "E",
+                "text": "the Americans"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "rockets as war weapons",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "the Chinese"
+              },
+              {
+                "label": "B",
+                "text": "the Indians"
+              },
+              {
+                "label": "C",
+                "text": "the British"
+              },
+              {
+                "label": "D",
+                "text": "the Arabs"
+              },
+              {
+                "label": "E",
+                "text": "the Americans"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "the rocket launcher",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "the Chinese"
+              },
+              {
+                "label": "B",
+                "text": "the Indians"
+              },
+              {
+                "label": "C",
+                "text": "the British"
+              },
+              {
+                "label": "D",
+                "text": "the Arabs"
+              },
+              {
+                "label": "E",
+                "text": "the Americans"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Look at the drawings of different projectiles below, A-H, and the names of types of projectiles given in the passage, match each name with one drawing.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "The Chinese ‘basket of fire’",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "Drawing A"
+              },
+              {
+                "label": "B",
+                "text": "Drawing B"
+              },
+              {
+                "label": "C",
+                "text": "Drawing C"
+              },
+              {
+                "label": "D",
+                "text": "Drawing D"
+              },
+              {
+                "label": "E",
+                "text": "Drawing E"
+              },
+              {
+                "label": "F",
+                "text": "Drawing F"
+              },
+              {
+                "label": "G",
+                "text": "Drawing G"
+              },
+              {
+                "label": "H",
+                "text": "Drawing H"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "The Arab ‘egg which moves and burns’",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "Drawing A"
+              },
+              {
+                "label": "B",
+                "text": "Drawing B"
+              },
+              {
+                "label": "C",
+                "text": "Drawing C"
+              },
+              {
+                "label": "D",
+                "text": "Drawing D"
+              },
+              {
+                "label": "E",
+                "text": "Drawing E"
+              },
+              {
+                "label": "F",
+                "text": "Drawing F"
+              },
+              {
+                "label": "G",
+                "text": "Drawing G"
+              },
+              {
+                "label": "H",
+                "text": "Drawing H"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "The Indian rocket",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "Drawing A"
+              },
+              {
+                "label": "B",
+                "text": "Drawing B"
+              },
+              {
+                "label": "C",
+                "text": "Drawing C"
+              },
+              {
+                "label": "D",
+                "text": "Drawing D"
+              },
+              {
+                "label": "E",
+                "text": "Drawing E"
+              },
+              {
+                "label": "F",
+                "text": "Drawing F"
+              },
+              {
+                "label": "G",
+                "text": "Drawing G"
+              },
+              {
+                "label": "H",
+                "text": "Drawing H"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "The British barrage rocket",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "Drawing A"
+              },
+              {
+                "label": "B",
+                "text": "Drawing B"
+              },
+              {
+                "label": "C",
+                "text": "Drawing C"
+              },
+              {
+                "label": "D",
+                "text": "Drawing D"
+              },
+              {
+                "label": "E",
+                "text": "Drawing E"
+              },
+              {
+                "label": "F",
+                "text": "Drawing F"
+              },
+              {
+                "label": "G",
+                "text": "Drawing G"
+              },
+              {
+                "label": "H",
+                "text": "Drawing H"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T02:17:15.882920"
+}

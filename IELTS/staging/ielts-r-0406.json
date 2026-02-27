@@ -1,0 +1,225 @@
+{
+  "id": "ielts-r-0406",
+  "slug": "sponging-dolphins",
+  "title": "Sponging dolphins",
+  "page_range": [
+    2065,
+    2069
+  ],
+  "raw_answer_key": {
+    "1": "F",
+    "7": "D",
+    "2": "A",
+    "8": "B",
+    "3": "G",
+    "9": "C",
+    "4": "B",
+    "10": "D",
+    "5": "C",
+    "11": "A",
+    "6": "E",
+    "12": "C"
+  },
+  "content": {
+    "title": "Sponging Dolphins",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "In 1984, researchers spotted dolphins doing something unusual in Shark Bay, Western Australia. When the animals got hungry, they ripped a marine basket sponge from the sea floor and fitted it over their beaks like a person would fit a glove over a hand. The scientists suspected that as the dolphins foraged for fish, the sponges protected their beaks, or rostra, from the rocks and broken chunks of coral that litter the sea floor, making this behavior the first example of tool use in this species."
+      },
+      {
+        "label": "B",
+        "content": "The researchers surmised that a long time ago one ingenious Shark Bay dolphin figured out that by prodding the sediments with a sponge attached to her beak, she could stir up these swim bladder-less fish without being hurt. Eventually, such technique became popular among other dolphins. But why do dolphins go to all of this trouble when they could simply snag a fish from the open sea? The answer is that the bottom-dwelling fish are a lot more nutritious. Some species also don't have swim bladders, gas chambers that help other fish control their buoyancy as they travel up and down the water column. In the Bahamas, where dolphins are also known to forage for bottom-dwelling fish, dolphins hunt partly by echolocating these bladders, which give off a strong acoustic signal. That helps the cetaceans find prey even when it's buried in sea sand. But bottom-dwelling fish, such as barred sandperch, which are favored by some Shark Bay dolphins, don't have swim bladders and so are harder to find with echolocation. The sea floor is not nearly as soft here as it is in the Bahamas, so if dolphins want to probe for these fish, they risk injuring their rostra."
+      },
+      {
+        "label": "C",
+        "content": "Not every dolphin in Shark Bay hunts with sponges. \"It's primarily done by females,\" says Janet Mann, a behavioral ecologist. She believes the female dolphins invented the method because of the \"selective pressures they face while raising a calf as long as they do,\" about 4 to 5 years. \"These clever dolphins have figured out a way to target fish that other dolphins cannot,\" she says, adding that even the local fishermen do not catch, or even know about, this particular species. Mann's previous research has shown that dolphin mothers pass the sponging method to their daughters and some of their sons, rare evidence of a cultural tradition in an animal other than humans. The team has documented three generations of sponging dolphins."
+      },
+      {
+        "label": "D",
+        "content": "The foraging technique came to light a few decades ago - very recently in evolutionary terms - when a local fisherman spotted what looked like a strange tumour on a dolphin’s nose. Researchers eventually worked out that the ‘tumour’ was a conically shaped sponge and it became apparent that the dolphins would spend considerable time searching for one the right shape to fit their nose. The sponge is used to scatter the sand gently on the sea floor and disturb buried fish. When a fish is spotted, the dolphin drops the sponge and gives chase. \"It has been thought that behaviours which are exclusively learnt from one parent are not very stable. With our model we could now show that sponging can be a stable behaviour,\" said Dr Anna Kopps, a biologist at the University of New South Wales."
+      },
+      {
+        "label": "E",
+        "content": "By modelling the emergence of \"sponger\" dolphins in a computer simulation, the team of researchers could see different scenarios in which the skill could have spread among the dolphin population over the years. They then compared the results of these simulations with field data on the genetic relationship between the spongers, to estimate the role of mothers teaching their offspring in transmitting the skill. They found that if the likelihood of a sponger's offspring learning the ability was less than certain, the dolphins that did pick up the technique needed to gain a survival advantage from the skill, in order for the ability to pass on to the next generation. The model also allowed them to attempt to calculate the date that the behaviour was likely to have originated.\"The results suggested that sponging was innovated at least 120 to 180 years ago - it is only a best estimate,\" said Dr Kopps. Scientists discovered that although dolphins tried to teach the hunting technique to all their young, it was mainly female offspring that grasped the concept. Why male offspring rarely acquire the same skill remains unclear, though the team put forward one possible explanation: male bottlenose dolphins tend to form close bonds with other males, and such alliances aren't suited to seabed foraging, since it is a time-consuming, solitary activity."
+      },
+      {
+        "label": "F",
+        "content": "The US scientists say discovering a new tool is a direct sign of intelligence. “There’s a strong link between animals with larger brains and tool users. Bottlenose dolphins have a brain second in size only to humans.” said Janet Mann, a marine biologist who led the research. “Dolphins are already good at catching fish so they don’t need tools, but they’ve discovered this sponge makes their job easier. Working out how to use tools in a creative way like that is a hallmark of intelligence.” Mann admits we still do not understand dolphins well. “It’s hard to get inside their heads because their brains are constructed differently and it’s very hard to analyse their language, but they do seem very intelligent,” she said."
+      },
+      {
+        "label": "G",
+        "content": "Dolphins are also often seen engaging in playful behaviour and creating tools to use for entertainment. They have been observed to blow bubbles which they form into rings to play with. After creating the bubble ring, a dolphin will use its nose and body to maintain the shape of the bubble and keep it from floating to the surface. The study provides a \"better understanding of the why and how of sponging\" by the Shark Bay dolphins, says Louis Herman, a cognitive psychologist. The work \"adds to previously documented\" examples of \"innovation by this highly intelligent species.\" Patterson's and Mann's results also \"reinforce a pattern\" often seen in other tool-using animals, says Simon Reader, a behavioral biologist. \"Tool use appears to be almost a last option, taken when other options fail or are unavailable,\" he says, noting that woodpecker finches in the Galápagos Islands \"turn to tool use only in arid areas,\" wielding cactus spines to extract grubs from tree branches. Using tools takes time and energy, Reader says, and animals tend to rely on them only when there's a guaranteed payoff, such as turning up a fatty fish that most other dolphins (and fishermen) know nothing about."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Reading Passage has seven paragraphs, A-G. Which paragraph contains the following information? Write the correct letter, A-G, in boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Hallmark of intelligence",
+            "answer": "F"
+          },
+          {
+            "number": 2,
+            "text": "Fisrt example of dolphins using tools",
+            "answer": "A"
+          },
+          {
+            "number": 3,
+            "text": "Tool for entertainment",
+            "answer": "G"
+          },
+          {
+            "number": 4,
+            "text": "The reason why dolphins go through trouble of getting fish from the bottom of the ocean",
+            "answer": "B"
+          },
+          {
+            "number": 5,
+            "text": "The evidence of tradition in dolphins",
+            "answer": "C"
+          },
+          {
+            "number": 6,
+            "text": "The estimated time of sponging innovation",
+            "answer": "E"
+          },
+          {
+            "number": 7,
+            "text": "The observation of a local fisherman",
+            "answer": "D"
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 8-12 on your answer sheet.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Dolphins use sponges for hunting fish because:",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "they like it."
+              },
+              {
+                "label": "B",
+                "text": "it helps them get fish from the bottom of the ocean."
+              },
+              {
+                "label": "C",
+                "text": "it makes hunting easier."
+              },
+              {
+                "label": "D",
+                "text": "it helps them to get more fish during the hunt."
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "All the following statements about dolphins are true, EXCEPT:",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "Females discovered the method of hunting with sponges."
+              },
+              {
+                "label": "B",
+                "text": "The sponging method is passed by female dolphins to their daughters."
+              },
+              {
+                "label": "C",
+                "text": "Male dolphins never use the sponging technique."
+              },
+              {
+                "label": "D",
+                "text": "Three generations of sponging dolphins have been documented."
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Biologist Dr. Anna says that",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "sponging is very dangerous for dolphins."
+              },
+              {
+                "label": "B",
+                "text": "dolphins do not inherit sponging method from their parents."
+              },
+              {
+                "label": "C",
+                "text": "she has been studying dolphins for a few decades now."
+              },
+              {
+                "label": "D",
+                "text": "sponging can be a stable behaviour."
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "With the computer simulation that modeled sponging, researchers",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "managed to find out approximately when sponging was originated."
+              },
+              {
+                "label": "B",
+                "text": "were able to predict the behaviour of dolphins."
+              },
+              {
+                "label": "C",
+                "text": "found out the true reason of sponging."
+              },
+              {
+                "label": "D",
+                "text": "discovered a new way treating dolphins."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "According to Janet Mann",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "bottlenose dolphins have brain as big as humans have."
+              },
+              {
+                "label": "B",
+                "text": "we can understand dolphins well now."
+              },
+              {
+                "label": "C",
+                "text": "dolphins are very intelligent."
+              },
+              {
+                "label": "D",
+                "text": "all of the above."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 12
+  },
+  "processed_at": "2026-02-25T21:24:31.852412"
+}

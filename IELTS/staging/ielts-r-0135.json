@@ -1,0 +1,158 @@
+{
+  "id": "ielts-r-0135",
+  "slug": "dirty-river-but-clean-water",
+  "title": "Dirty River But Clean Water",
+  "page_range": [
+    690,
+    693
+  ],
+  "raw_answer_key": {
+    "1": "NOT GIVEN",
+    "8": "spring",
+    "2": "FALSE",
+    "9": "sediment",
+    "3": "TRUE",
+    "10": "razorback sucker",
+    "4": "FALSE",
+    "11": "common carp",
+    "5": "TRUE",
+    "12": "visibility",
+    "6": "TRUE",
+    "13": "sand",
+    "7": "NOT GIVEN"
+  },
+  "content": {
+    "title": "Dirty River But Clean Water",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Floods can occur in rivers when the flow rate exceeds the capacity of the river channel, particularly at bends or meanders in the waterway. Floods often cause damage to homes and businesses if they are in the natural flood plains of rivers. While riverine flood damage can be eliminated by moving away from rivers and other bodies of water, people have traditionally lived and worked by rivers because the land is usually flat and fertile and because rivers provide easy travel and access to commerce and industry."
+      },
+      {
+        "label": "A",
+        "content": "Fire and flood are two of humanity’s worst nightmares. People have, therefore, always sought to control them. Forest fires are snuffed out quickly. The flow of rivers is regulated by weirs and dams. At least, that is how it used to be. But foresters have learned that forests need fires to clear out the brash and even to get seeds to germinate. And a similar revelation is now dawning on hydrologists. Rivers – and the ecosystems they support – need floods. That is why a man-made torrent has been surging down the Grand Canyon. By Thursday March 6th it was running at full throttle, which was expected to be sustained for 60 hours."
+      },
+      {
+        "label": "B",
+        "content": "Floods once raged through the canyon every year. Spring snow from as far away as Wyoming would melt and swell the Colorado river to a flow that averaged around 1,500 cubic metres (50,000 cubic feet) a second. Every eight years or so, that figure rose to almost 3,000 cubic metres. These floods infused the river with sediment, carved its beaches and built its sandbars."
+      },
+      {
+        "label": "C",
+        "content": "However, in the four decades since the building of the Glen Canyon dam, just upstream of the Grand Canyon, the only sediment that it has collected has come from tiny, undammed tributaries. Even that has not been much use as those tributaries are not powerful enough to distribute the sediment in an ecologically valuable way."
+      },
+      {
+        "label": "D",
+        "content": "This lack of flooding has harmed local wildlife. The humpback chub, for example, thrived in the rust-red waters of the Colorado. Recently, though, its population has crashed. At first sight, it looked as if the reason was that the chub were being eaten by trout introduced for sport fishing in the mid-20th century. But trout and chub co-existed until the Glen Canyon dam was built, so something else is going on. Steve Gloss, of the United States’ Geological Survey (USGS), reckons that the chub’s decline is the result of their losing their most valuable natural defense, the Colorado’s rusty sediment. The chub were well adapted to the poor visibility created by the thick, red water which gave the river its name, and depended on it to hide from predators. Without the cloudy water the chub became vulnerable."
+      },
+      {
+        "label": "E",
+        "content": "And the chub are not alone. In the years since the Glen Canyon dam was built, several species have vanished altogether. These include the Colorado pike-minnow, the razorback sucker and the round-tail chub. Meanwhile, aliens including fathead minnows, channel catfish and common carp, which would have been hard, put to survive in the savage waters of the undammed canyon, have moved in."
+      },
+      {
+        "label": "F",
+        "content": "So flooding is the obvious answer. Unfortunately, it is easier said than done. Floods were sent down the Grand Canyon in 1996 and 2004 and the results were mixed. In 1996 the flood was allowed to go on too long. To start with, all seemed well. The floodwaters built up sandbanks and infused the river with sediment. Eventually, however, the continued flow washed most of the sediment out of the canyon. This problem was avoided in 2004, but unfortunately, on that occasion, the volume of sand available behind the dam was too low to rebuild the sandbanks. This time, the USGS is convinced that things will be better. The amount of sediment available is three times greater than it was in 2004. So if a flood is going to do some good, this is the time to unleash one."
+      },
+      {
+        "label": "G",
+        "content": "Even so, it may turn out to be an empty gesture. At less than 1,200 cubic metres a second, this flood is smaller than even an average spring flood, let alone one of the mightier deluges of the past. Those glorious inundations moved massive quantities of sediment through the Grand Canyon, wiping the slate dirty, and making a muddy mess of silt and muck that would make modern river rafters cringe."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the information given in Reading Passage? In boxes 1-7 on your answer sheet, write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Damage caused by fire is worse than that caused by flood.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "The flood peaks at almost 1500 cubic meters every eight years.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Contribution of sediments delivered by tributaries has little impact.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Decreasing number of chubs is always caused by introducing of trout since mid 20th century.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "It seemed that the artificial flood in 1996 had achieved success partly at the very beginning.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "In fact, the yield of artificial flood water is smaller than an average natural flood at present.",
+            "answer": "TRUE",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Mighty floods drove fast moving flows with clean and high quality water.",
+            "answer": "NOT GIVEN",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below. Choose NO MORE THAN TWO WORDS from the passage for each answer.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "The snow from far Wyoming would melt in the season of ________..... and caused a flood flow peak in Colorado river.",
+            "answer": "spring",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "In the four decades after people built the Glen Canyon dam, it only could gather ________..... together from tiny, undammed tributaries.",
+            "answer": "sediment",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Then, several species disappeared including Colorado pike-minnow, ________..... and the round-tail chub.",
+            "answer": "razorback sucker",
+            "options": null
+          },
+          {
+            "number": 11,
+            "text": "Meanwhile, some moved in such as fathead minnows, channel catfish and ________......",
+            "answer": "common carp",
+            "options": null
+          },
+          {
+            "number": 12,
+            "text": "The non-stopped flow leaded to the washing away of the sediment out of the canyon, which poses great threat to the chubs because it has poor ________..... away from predators.",
+            "answer": "visibility",
+            "options": null
+          },
+          {
+            "number": 13,
+            "text": "In addition, the volume of ________..... available behind the dam was too low to rebuild the bars and flooding became more serious.",
+            "answer": "sand",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-25T19:54:27.048817"
+}

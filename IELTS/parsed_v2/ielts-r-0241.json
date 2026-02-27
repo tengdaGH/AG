@@ -1,0 +1,549 @@
+{
+  "id": "ielts-r-0241",
+  "slug": "keep-taking-the-tablets",
+  "title": "Keep taking the tablets",
+  "page_range": [
+    1221,
+    1225
+  ],
+  "raw_answer_key": {
+    "1": "E",
+    "8": "NOT GIVEN",
+    "2": "G",
+    "9": "NO",
+    "3": "D",
+    "10": "NOT GIVEN",
+    "4": "H",
+    "11": "YES",
+    "5": "A",
+    "12": "E",
+    "6": "C",
+    "13": "F",
+    "7": "YES",
+    "14": "C"
+  },
+  "content": {
+    "title": "Keep taking the tablets",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "The history of aspirin is a product of a rollercoaster ride through time, of accidental discoveries, intuitive reasoning and intense corporate rivalry. In the opening pages of Aspirin: The Remarkable Story of a Wonder Drug, Diarmuid Jeffreys describes this little white pill as 'one of the most amazing creations in medical history, a drug so astonishingly versatile that it can relieve headache, ease your aching limbs, lower your temperature and treat some of the deadliest human diseases'."
+      },
+      {
+        "label": null,
+        "content": "Its properties have been known for thousands of years. Ancient Egyptian physicians used extracts from the willow tree as an analgesic, or pain killer. Centuries later the Greek physician Hippocrates recommended the bark of the willow tree as a remedy for the pains of childbirth and as a fever reducer. But it wasn't until the eighteenth and nineteenth centuries that salicylates, the chemical found in the willow tree, became the subject of serious scientific investigation. The race was on to identify the active ingredient and to replicate it synthetically. At the end of the nineteenth century, a German company, Friedrich Bayer & Co., succeeded in creating a relatively safe and very effective chemical compound, acetylsalicylic acid, which was renamed aspirin."
+      },
+      {
+        "label": null,
+        "content": "The late nineteenth century was a fertile period for experimentation, partly because of the hunger among scientists to answer some of the great scientific questions, but also because those questions were within their means to answer. One scientist in a laboratory with some chemicals and a test tube could make significant breakthroughs whereas today, in order to map the human genome for instance, one needs 'an army of researchers, a bank of computers and millions and millions of dollars'."
+      },
+      {
+        "label": null,
+        "content": "But an understanding of the nature of science and scientific inquiry is not enough on its own to explain how society innovates. In the nineteenth century, scientific advance was closely linked to the industrial revolution. This was a period when people frequently had the means, motive and determination to take an idea and turn it into reality. In the case of aspirin, that happened piecemeal - a series of minor, often unrelated advances, fertilised by the century’s broader economic, medical and scientific developments, that led to one big final breakthrough."
+      },
+      {
+        "label": null,
+        "content": "The link between big money and pharmaceutical innovation is also a significant one. Aspirin's continued shelf life was ensured because for the first 70 years of its life, huge amounts of money were put into promoting it as an ordinary everyday analgesic. In the 1970s, other analgesics, such as ibuprofen and paracetamol, were entering the market, and the pharmaceutical companies then focused on publicising these new drugs. But just at the same time, discoveries were made regarding the beneficial role of aspirin in preventing heart attacks, strokes and other afflictions. Had it not been for these findings, this pharmaceutical marvel may well have disappeared."
+      },
+      {
+        "label": null,
+        "content": "So the relationship between big money and drugs is an odd one. Commercial markets are necessary for developing new products and ensuring that they remain around long enough for scientists to carry out research on them. But the commercial markets are just as likely to kill off certain products when something more attractive comes along. In the case of aspirin, a potential 'wonder drug' was around for over 70 years without anybody investigating the way in which it achieved its effects, because they were making more than enough money out of it as it was. If ibuprofen or paracetamol had entered the market just a decade earlier, aspirin might then not be here today. It would be just another forgotten drug that people hadn't bothered to explore."
+      },
+      {
+        "label": null,
+        "content": "None of the recent discoveries of aspirin's benefits were made by the big pharmaceutical companies; they were made by scientists working in the public sector. 'The reason for that is very simple and straightforward,' Jeffreys says in his book. 'Drug companies will only pursue research that is going to deliver financial benefits. There's no profit in aspirin any more. It is incredibly inexpensive with tiny profit margins and it has no patent any more, so anyone can produce it.' In fact, there's almost a disincentive for drug companies to further boost the drug, he argues, as it could possibly put them out of business by stopping them from selling their more expensive brands."
+      },
+      {
+        "label": null,
+        "content": "So what is the solution to a lack of commercial interest in further exploring the therapeutic benefits of aspirin? More public money going into clinical trials, says Jeffreys. 'If I were the Department of Health, I would say “this is a very inexpensive drug. There may be a lot of other things we could do with it.” We should put a lot more money into trying to find out.'"
+      },
+      {
+        "label": null,
+        "content": "Jeffreys' book, which not only tells the tale of a 'wonder drug' but also explores the nature of innovation and the role of big business, public money and regulation, reminds us why such research is so important."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete each sentence with the correct ending A-H from the box below.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Ancient Egyptian and Greek doctors were aware of",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "the discovery of new medical applications."
+              },
+              {
+                "label": "B",
+                "text": "the negative effects of publicity."
+              },
+              {
+                "label": "C",
+                "text": "the large pharmaceutical companies."
+              },
+              {
+                "label": "D",
+                "text": "the industrial revolution."
+              },
+              {
+                "label": "E",
+                "text": "the medical uses of a particular tree"
+              },
+              {
+                "label": "F",
+                "text": "the limited availability of new drugs."
+              },
+              {
+                "label": "G",
+                "text": "the chemical found in the willow tree."
+              },
+              {
+                "label": "H",
+                "text": "commercial advertising campaigns."
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Frederick Bayer & Co were able to reproduce",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "the discovery of new medical applications."
+              },
+              {
+                "label": "B",
+                "text": "the negative effects of publicity."
+              },
+              {
+                "label": "C",
+                "text": "the large pharmaceutical companies."
+              },
+              {
+                "label": "D",
+                "text": "the industrial revolution."
+              },
+              {
+                "label": "E",
+                "text": "the medical uses of a particular tree"
+              },
+              {
+                "label": "F",
+                "text": "the limited availability of new drugs."
+              },
+              {
+                "label": "G",
+                "text": "the chemical found in the willow tree."
+              },
+              {
+                "label": "H",
+                "text": "commercial advertising campaigns."
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "The development of aspirin was partly due to the effects of",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "the discovery of new medical applications."
+              },
+              {
+                "label": "B",
+                "text": "the negative effects of publicity."
+              },
+              {
+                "label": "C",
+                "text": "the large pharmaceutical companies."
+              },
+              {
+                "label": "D",
+                "text": "the industrial revolution."
+              },
+              {
+                "label": "E",
+                "text": "the medical uses of a particular tree"
+              },
+              {
+                "label": "F",
+                "text": "the limited availability of new drugs."
+              },
+              {
+                "label": "G",
+                "text": "the chemical found in the willow tree."
+              },
+              {
+                "label": "H",
+                "text": "commercial advertising campaigns."
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "The creation of a market for aspirin as a painkiller was achieved through",
+            "answer": "H",
+            "options": [
+              {
+                "label": "A",
+                "text": "the discovery of new medical applications."
+              },
+              {
+                "label": "B",
+                "text": "the negative effects of publicity."
+              },
+              {
+                "label": "C",
+                "text": "the large pharmaceutical companies."
+              },
+              {
+                "label": "D",
+                "text": "the industrial revolution."
+              },
+              {
+                "label": "E",
+                "text": "the medical uses of a particular tree"
+              },
+              {
+                "label": "F",
+                "text": "the limited availability of new drugs."
+              },
+              {
+                "label": "G",
+                "text": "the chemical found in the willow tree."
+              },
+              {
+                "label": "H",
+                "text": "commercial advertising campaigns."
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Aspirin might have become unavailable without",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "the discovery of new medical applications."
+              },
+              {
+                "label": "B",
+                "text": "the negative effects of publicity."
+              },
+              {
+                "label": "C",
+                "text": "the large pharmaceutical companies."
+              },
+              {
+                "label": "D",
+                "text": "the industrial revolution."
+              },
+              {
+                "label": "E",
+                "text": "the medical uses of a particular tree"
+              },
+              {
+                "label": "F",
+                "text": "the limited availability of new drugs."
+              },
+              {
+                "label": "G",
+                "text": "the chemical found in the willow tree."
+              },
+              {
+                "label": "H",
+                "text": "commercial advertising campaigns."
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "The way in which aspirin actually worked was not investigated by",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "the discovery of new medical applications."
+              },
+              {
+                "label": "B",
+                "text": "the negative effects of publicity."
+              },
+              {
+                "label": "C",
+                "text": "the large pharmaceutical companies."
+              },
+              {
+                "label": "D",
+                "text": "the industrial revolution."
+              },
+              {
+                "label": "E",
+                "text": "the medical uses of a particular tree"
+              },
+              {
+                "label": "F",
+                "text": "the limited availability of new drugs."
+              },
+              {
+                "label": "G",
+                "text": "the chemical found in the willow tree."
+              },
+              {
+                "label": "H",
+                "text": "commercial advertising campaigns."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Do the following statements agree with the views of the writer in Reading Passage 3?",
+        "questions": [
+          {
+            "number": 7,
+            "text": "For nineteenth-century scientists, small-scale research was enough to make important discoveries.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "The nineteenth-century industrial revolution caused a change in the focus of scientific research.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "The development of aspirin in the nineteenth century followed a structured pattern of development.",
+            "answer": "NO",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "In the 1970s sales of new analgesic drugs overtook sales of aspirin.",
+            "answer": "NOT GIVEN",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Commercial companies may have both good and bad effects on the availability of pharmaceutical products.",
+            "answer": "YES",
+            "options": [
+              {
+                "label": "YES",
+                "text": "if the statement agrees with the views of the writer"
+              },
+              {
+                "label": "NO",
+                "text": "if the statement contradicts the views of the writer"
+              },
+              {
+                "label": "NOT GIVEN",
+                "text": "if it is impossible to say what the writer thinks about this"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the summary below using the list of words A-i below.",
+        "questions": [
+          {
+            "number": 12,
+            "text": "Research into aspirin: Jeffreys argues that the reason why 12..................... did not find out about new uses of aspirin is that aspirin is no longer a 13..................... drug.",
+            "answer": "E",
+            "options": [
+              {
+                "label": "A",
+                "text": "useful"
+              },
+              {
+                "label": "B",
+                "text": "cheap"
+              },
+              {
+                "label": "C",
+                "text": "state"
+              },
+              {
+                "label": "D",
+                "text": "international"
+              },
+              {
+                "label": "E",
+                "text": "major drug companies"
+              },
+              {
+                "label": "F",
+                "text": "profitable"
+              },
+              {
+                "label": "G",
+                "text": "commercial"
+              },
+              {
+                "label": "H",
+                "text": "public sector scientists"
+              },
+              {
+                "label": "I",
+                "text": "health officials"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Research into aspirin: Jeffreys argues that the reason why major drug companies did not find out about new uses of aspirin is that aspirin is no longer a 13..................... drug.",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "useful"
+              },
+              {
+                "label": "B",
+                "text": "cheap"
+              },
+              {
+                "label": "C",
+                "text": "state"
+              },
+              {
+                "label": "D",
+                "text": "international"
+              },
+              {
+                "label": "E",
+                "text": "major drug companies"
+              },
+              {
+                "label": "F",
+                "text": "profitable"
+              },
+              {
+                "label": "G",
+                "text": "commercial"
+              },
+              {
+                "label": "H",
+                "text": "public sector scientists"
+              },
+              {
+                "label": "I",
+                "text": "health officials"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "He therefore suggests that there should be 14..................... support for further research into the possible applications of the drug.",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "useful"
+              },
+              {
+                "label": "B",
+                "text": "cheap"
+              },
+              {
+                "label": "C",
+                "text": "state"
+              },
+              {
+                "label": "D",
+                "text": "international"
+              },
+              {
+                "label": "E",
+                "text": "major drug companies"
+              },
+              {
+                "label": "F",
+                "text": "profitable"
+              },
+              {
+                "label": "G",
+                "text": "commercial"
+              },
+              {
+                "label": "H",
+                "text": "public sector scientists"
+              },
+              {
+                "label": "I",
+                "text": "health officials"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T16:11:25.012588"
+}

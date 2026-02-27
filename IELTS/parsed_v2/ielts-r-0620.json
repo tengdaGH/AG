@@ -1,0 +1,630 @@
+{
+  "id": "ielts-r-0620",
+  "slug": "what-is-a-dinosaur",
+  "title": "What is a dinosaur?",
+  "page_range": [
+    3136,
+    3141
+  ],
+  "raw_answer_key": {
+    "1": "vi",
+    "8": "skeletal anatomy",
+    "2": "xi",
+    "9": "eosuchians",
+    "3": "xiii",
+    "10": "two long bones",
+    "4": "vii",
+    "11": "B",
+    "5": "iv",
+    "12": "G",
+    "6": "v",
+    "13": "H",
+    "7": "viii",
+    "14": "F"
+  },
+  "content": {
+    "title": "What is a dinosaur?",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "Although the name dinosaur is derived from the Greek for \"terrible lizard\", dinosaurs were not, in fact, lizards at all. Like lizards, dinosaurs are included in the class Reptilia, or reptiles, one of the five main classes of Vertebrata, animals with backbones. However, at the next level of classification, within reptiles, significant differences in the skeletal anatomy of lizards and dinosaurs have led scientists to place these groups of animals into two different superorders: Lepidosauria, or lepidosaurs, and Archosauria, or archosaurs."
+      },
+      {
+        "label": "B",
+        "content": "Classified as lepidosaurs are lizards and snakes and their prehistoric ancestors. Included among the archosaurs, or \"ruling reptiles\", are prehistoric and modern crocodiles, and the now extinct thecodonts, pterosaurs and dinosaurs. Palaeontologists believe that both dinosaurs and crocodiles evolved, in the later years of the Triassic Period (c. 248-208 million years ago), from creatures called pseudosuchian thecodonts. Lizards, snakes and different types of thecodont are believed to have evolved earlier in the Triassic Period from reptiles known as eosuchians."
+      },
+      {
+        "label": "C",
+        "content": "The most important skeletal differences between dinosaurs and other archosaurs are in the bones of the skull, pelvis and limbs. Dinosaur skulls are found in a great range of shapes and sizes, reflecting the different eating habits and lifestyles of a large and varied group of animals that dominated life on Earth for an extraordinary 165 million years. However, unlike the skulls of any other known animals, the skulls of dinosaurs had two long bones known as vomers. These bones extended on either side of the head, from the front of the snout to the level of the holes on the skull known as the antorbital fenestra, situated in front of the dinosaur's orbits or eyesockets."
+      },
+      {
+        "label": "D",
+        "content": "All dinosaurs, whether large or small, quadrupedal or bidepal, fleet-footed or slow-moving, shared a common body plan. Identification of this plan makes it possible to differentiate dinosaurs from any other types of animal, even other archosaurs. Most significantly, in dinosaurs, the pelvis and femur had evolved so that the hind limbs were held vertically beneath the body, rather than sprawling out to the sides like the limbs of a lizard. The femur of a dinosaur had a sharply in-turned neck and a ball-shaped head, which slotted into a fully open acetabulum or hip socket. A supra-acetabular crest helped prevent dislocation of the femur. The position of the knee joint, aligned below the acetabulum, made it possible for the whole hind limb to swing backwards and forwards. This unique combination of features gave dinosaurs what is known as a \"fully improved gait\". Evolution of this highly efficient method of walking also developed in mammals, but among reptiles it occurred only in dinosaurs."
+      },
+      {
+        "label": "E",
+        "content": "For the purpose of further classification, dinosaurs are divided into two orders: Saurischia, or saurischian dinosaurs, and Ornithischia, or ornithischian dinosaurs. This division is made on the basis of their pelvic anatomy. All dinosaurs had a pelvic girdle with each side comprised of three bones: the pubis, ilium and ischium. However, the orientation of these bones follows one of two patterns. In saurischian dinosaurs, also known as lizard-hipped dinosaurs, the pubis points forwards, as is usual in most types of reptile. By contrast, in ornithischian, or bird-hipped, dinosaurs, the pubis points backwards towards the rear of the animal, which is also true of birds."
+      },
+      {
+        "label": "F",
+        "content": "Of the two orders of dinosaurs, the Saurischia was the larger and the first to evolve. It is divided into two suborders: Therapoda, or therapods, and Sauropodomorpha, or sauropodomorphs. The therapods, or \"beast feet\", were bipedal, predatory carnivores. They ranged in size from the mighty Tyrannosaurus rex, 12m long, 5.6m tall and weighing an estimated 6.4 tonnes, to the smallest known dinosaur, Compsognathus, a mere 1.4m long and estimated 3kg in weight when fully grown. The sauropodomorphs, or \"lizard feet forms\", included both bipedal and quadrupedal dinosaurs. Some sauropodomorphs were carnivorous or omnivorous but later species were typically herbivorous. They included some of the largest and best-known of all dinosaurs, such as Diplodocus, a huge quadruped with an elephant-like body, a long, thin tail and neck that gave it a total length of 27m, and a tiny head."
+      },
+      {
+        "label": "G",
+        "content": "Ornithischian dinosaurs were bipedal or quadrupedal herbivores. They are now usually divided into three suborders: Ornithipoda, Thyreophora and Marginocephalia. The ornithopods, or \"bird feet\", both large and small, could walk or run on their long hind legs, balancing their body by holding their tails stiffly off the ground behind them. An example is Iguanodon, up to 9m long, 5m tall and weighing 4.5 tonnes. The thyreophorans, or \"shield bearers\", also known as armoured dinosaurs, were quadrupeds with rows of protective bony spikes, studs, or plates along their backs and tails. They included Stegosaurus, 9m long and weighing 2 tonnes."
+      },
+      {
+        "label": "H",
+        "content": "The marginocephalians, or \"margined heads\", were bipedal or quadrupedal ornithschians with a deep bony frill or narrow shelf at the back of the skull. An example is Triceratops, a rhinoceros-like dinosaur, 9m long, weighing 5.4 tonnes and bearing a prominent neck frill and three large horns."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Choose the most suitable heading for each paragraph from the List of headings below. Write the appropriate numbers (i-xiii) in Boxes 1-7 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Paragraph A",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "165 million years"
+              },
+              {
+                "label": "ii",
+                "text": "The body plan of archosaurs"
+              },
+              {
+                "label": "iii",
+                "text": "Dinosaurs - terrible lizards"
+              },
+              {
+                "label": "iv",
+                "text": "Classification according to pelvic anatomy"
+              },
+              {
+                "label": "v",
+                "text": "The suborders of Saurischia"
+              },
+              {
+                "label": "vi",
+                "text": "Lizards and dinosaurs - two distinct superorders"
+              },
+              {
+                "label": "vii",
+                "text": "Unique body plan helps identify dinosaurs from other animals"
+              },
+              {
+                "label": "viii",
+                "text": "Herbivore dinosaurs"
+              },
+              {
+                "label": "ix",
+                "text": "Lepidosaurs"
+              },
+              {
+                "label": "x",
+                "text": "Frills and shelves"
+              },
+              {
+                "label": "xi",
+                "text": "The origins of dinosaurs and lizards"
+              },
+              {
+                "label": "xii",
+                "text": "Bird-hipped dinosaurs"
+              },
+              {
+                "label": "xiii",
+                "text": "Skull bones distinguish dinosaurs from other archosaurs"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Paragraph B",
+            "answer": "xi",
+            "options": [
+              {
+                "label": "i",
+                "text": "165 million years"
+              },
+              {
+                "label": "ii",
+                "text": "The body plan of archosaurs"
+              },
+              {
+                "label": "iii",
+                "text": "Dinosaurs - terrible lizards"
+              },
+              {
+                "label": "iv",
+                "text": "Classification according to pelvic anatomy"
+              },
+              {
+                "label": "v",
+                "text": "The suborders of Saurischia"
+              },
+              {
+                "label": "vi",
+                "text": "Lizards and dinosaurs - two distinct superorders"
+              },
+              {
+                "label": "vii",
+                "text": "Unique body plan helps identify dinosaurs from other animals"
+              },
+              {
+                "label": "viii",
+                "text": "Herbivore dinosaurs"
+              },
+              {
+                "label": "ix",
+                "text": "Lepidosaurs"
+              },
+              {
+                "label": "x",
+                "text": "Frills and shelves"
+              },
+              {
+                "label": "xi",
+                "text": "The origins of dinosaurs and lizards"
+              },
+              {
+                "label": "xii",
+                "text": "Bird-hipped dinosaurs"
+              },
+              {
+                "label": "xiii",
+                "text": "Skull bones distinguish dinosaurs from other archosaurs"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Paragraph C",
+            "answer": "xiii",
+            "options": [
+              {
+                "label": "i",
+                "text": "165 million years"
+              },
+              {
+                "label": "ii",
+                "text": "The body plan of archosaurs"
+              },
+              {
+                "label": "iii",
+                "text": "Dinosaurs - terrible lizards"
+              },
+              {
+                "label": "iv",
+                "text": "Classification according to pelvic anatomy"
+              },
+              {
+                "label": "v",
+                "text": "The suborders of Saurischia"
+              },
+              {
+                "label": "vi",
+                "text": "Lizards and dinosaurs - two distinct superorders"
+              },
+              {
+                "label": "vii",
+                "text": "Unique body plan helps identify dinosaurs from other animals"
+              },
+              {
+                "label": "viii",
+                "text": "Herbivore dinosaurs"
+              },
+              {
+                "label": "ix",
+                "text": "Lepidosaurs"
+              },
+              {
+                "label": "x",
+                "text": "Frills and shelves"
+              },
+              {
+                "label": "xi",
+                "text": "The origins of dinosaurs and lizards"
+              },
+              {
+                "label": "xii",
+                "text": "Bird-hipped dinosaurs"
+              },
+              {
+                "label": "xiii",
+                "text": "Skull bones distinguish dinosaurs from other archosaurs"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Paragraph D",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "165 million years"
+              },
+              {
+                "label": "ii",
+                "text": "The body plan of archosaurs"
+              },
+              {
+                "label": "iii",
+                "text": "Dinosaurs - terrible lizards"
+              },
+              {
+                "label": "iv",
+                "text": "Classification according to pelvic anatomy"
+              },
+              {
+                "label": "v",
+                "text": "The suborders of Saurischia"
+              },
+              {
+                "label": "vi",
+                "text": "Lizards and dinosaurs - two distinct superorders"
+              },
+              {
+                "label": "vii",
+                "text": "Unique body plan helps identify dinosaurs from other animals"
+              },
+              {
+                "label": "viii",
+                "text": "Herbivore dinosaurs"
+              },
+              {
+                "label": "ix",
+                "text": "Lepidosaurs"
+              },
+              {
+                "label": "x",
+                "text": "Frills and shelves"
+              },
+              {
+                "label": "xi",
+                "text": "The origins of dinosaurs and lizards"
+              },
+              {
+                "label": "xii",
+                "text": "Bird-hipped dinosaurs"
+              },
+              {
+                "label": "xiii",
+                "text": "Skull bones distinguish dinosaurs from other archosaurs"
+              }
+            ]
+          },
+          {
+            "number": 5,
+            "text": "Paragraph E",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "165 million years"
+              },
+              {
+                "label": "ii",
+                "text": "The body plan of archosaurs"
+              },
+              {
+                "label": "iii",
+                "text": "Dinosaurs - terrible lizards"
+              },
+              {
+                "label": "iv",
+                "text": "Classification according to pelvic anatomy"
+              },
+              {
+                "label": "v",
+                "text": "The suborders of Saurischia"
+              },
+              {
+                "label": "vi",
+                "text": "Lizards and dinosaurs - two distinct superorders"
+              },
+              {
+                "label": "vii",
+                "text": "Unique body plan helps identify dinosaurs from other animals"
+              },
+              {
+                "label": "viii",
+                "text": "Herbivore dinosaurs"
+              },
+              {
+                "label": "ix",
+                "text": "Lepidosaurs"
+              },
+              {
+                "label": "x",
+                "text": "Frills and shelves"
+              },
+              {
+                "label": "xi",
+                "text": "The origins of dinosaurs and lizards"
+              },
+              {
+                "label": "xii",
+                "text": "Bird-hipped dinosaurs"
+              },
+              {
+                "label": "xiii",
+                "text": "Skull bones distinguish dinosaurs from other archosaurs"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Paragraph F",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "165 million years"
+              },
+              {
+                "label": "ii",
+                "text": "The body plan of archosaurs"
+              },
+              {
+                "label": "iii",
+                "text": "Dinosaurs - terrible lizards"
+              },
+              {
+                "label": "iv",
+                "text": "Classification according to pelvic anatomy"
+              },
+              {
+                "label": "v",
+                "text": "The suborders of Saurischia"
+              },
+              {
+                "label": "vi",
+                "text": "Lizards and dinosaurs - two distinct superorders"
+              },
+              {
+                "label": "vii",
+                "text": "Unique body plan helps identify dinosaurs from other animals"
+              },
+              {
+                "label": "viii",
+                "text": "Herbivore dinosaurs"
+              },
+              {
+                "label": "ix",
+                "text": "Lepidosaurs"
+              },
+              {
+                "label": "x",
+                "text": "Frills and shelves"
+              },
+              {
+                "label": "xi",
+                "text": "The origins of dinosaurs and lizards"
+              },
+              {
+                "label": "xii",
+                "text": "Bird-hipped dinosaurs"
+              },
+              {
+                "label": "xiii",
+                "text": "Skull bones distinguish dinosaurs from other archosaurs"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Paragraph G",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "165 million years"
+              },
+              {
+                "label": "ii",
+                "text": "The body plan of archosaurs"
+              },
+              {
+                "label": "iii",
+                "text": "Dinosaurs - terrible lizards"
+              },
+              {
+                "label": "iv",
+                "text": "Classification according to pelvic anatomy"
+              },
+              {
+                "label": "v",
+                "text": "The suborders of Saurischia"
+              },
+              {
+                "label": "vi",
+                "text": "Lizards and dinosaurs - two distinct superorders"
+              },
+              {
+                "label": "vii",
+                "text": "Unique body plan helps identify dinosaurs from other animals"
+              },
+              {
+                "label": "viii",
+                "text": "Herbivore dinosaurs"
+              },
+              {
+                "label": "ix",
+                "text": "Lepidosaurs"
+              },
+              {
+                "label": "x",
+                "text": "Frills and shelves"
+              },
+              {
+                "label": "xi",
+                "text": "The origins of dinosaurs and lizards"
+              },
+              {
+                "label": "xii",
+                "text": "Bird-hipped dinosaurs"
+              },
+              {
+                "label": "xiii",
+                "text": "Skull bones distinguish dinosaurs from other archosaurs"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Use NO MORE THAN THREE WORDS from the passage for each blank space.",
+        "questions": [
+          {
+            "number": 8,
+            "text": "Lizards and dinosaurs are classified into two different superorders because of the difference in their",
+            "answer": "skeletal anatomy",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "In the Triassic Period, evolved into thecodonts, for example, lizards and snakes.",
+            "answer": "eosuchians",
+            "options": null
+          },
+          {
+            "number": 10,
+            "text": "Dinosaur skulls differed from those of any other known animals because of the presence of vomers:",
+            "answer": "two long bones",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_FEATURES",
+        "instruction": "Choose one phrase (A-H) from the List of features to match with the Dinosaurs listed below.",
+        "questions": [
+          {
+            "number": 11,
+            "text": "Dinosaurs differed from lizards, because",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "are both divided into two orders."
+              },
+              {
+                "label": "B",
+                "text": "the former had a \"fully improved gait\"."
+              },
+              {
+                "label": "C",
+                "text": "were not usually very heavy."
+              },
+              {
+                "label": "D",
+                "text": "could walk or run on their back legs."
+              },
+              {
+                "label": "E",
+                "text": "their hind limbs sprawled out to the side."
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Saurischian and ornithischian dinosaurs",
+            "answer": "G",
+            "options": [
+              {
+                "label": "A",
+                "text": "are both divided into two orders."
+              },
+              {
+                "label": "B",
+                "text": "the former had a \"fully improved gait\"."
+              },
+              {
+                "label": "C",
+                "text": "were not usually very heavy."
+              },
+              {
+                "label": "D",
+                "text": "could walk or run on their back legs."
+              },
+              {
+                "label": "E",
+                "text": "their hind limbs sprawled out to the side."
+              },
+              {
+                "label": "F",
+                "text": "walked or ran on four legs, rather than two."
+              },
+              {
+                "label": "G",
+                "text": "both had a pelvic girdle comprising six bones."
+              },
+              {
+                "label": "H",
+                "text": "did not always eat meat."
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Unlike therapods, sauropodomorphs",
+            "answer": "H",
+            "options": [
+              {
+                "label": "C",
+                "text": "were not usually very heavy."
+              },
+              {
+                "label": "F",
+                "text": "walked or ran on four legs, rather than two."
+              },
+              {
+                "label": "G",
+                "text": "both had a pelvic girdle comprising six bones."
+              },
+              {
+                "label": "H",
+                "text": "did not always eat meat."
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "Some dinosaurs used their tails to balance, others",
+            "answer": "F",
+            "options": [
+              {
+                "label": "D",
+                "text": "could walk or run on their back legs."
+              },
+              {
+                "label": "F",
+                "text": "walked or ran on four legs, rather than two."
+              },
+              {
+                "label": "G",
+                "text": "both had a pelvic girdle comprising six bones."
+              },
+              {
+                "label": "H",
+                "text": "did not always eat meat."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-26T16:05:07.426958"
+}

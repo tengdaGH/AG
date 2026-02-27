@@ -1,0 +1,98 @@
+{
+  "id": "ielts-r-0413",
+  "slug": "student-accommodation",
+  "title": "Student Accommodation",
+  "page_range": [
+    2099,
+    2101
+  ],
+  "raw_answer_key": {
+    "1": "C",
+    "5": "B",
+    "2": "A",
+    "6": "D",
+    "3": "D",
+    "7": "C",
+    "4": "E"
+  },
+  "content": {
+    "title": "Student Accommodation",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "CAMBOURNE HOUSE - self-catering, student residence, located in the town centre from the main College campus. Up to 499 students live in 6, 7 and 8 bedroom flats, each with en-suite shower rooms. Rent is £64 per week, including bills (not telephone). Broadband internet connections and telephones, with communal kitchen/dining and lounge areas. Parking is available, with permits costing £60 per term."
+      },
+      {
+        "label": "B",
+        "content": "STUDENT VILLAGE - features 3, 4, 5 and 7 bedroom, self-catering shared houses for students close to the main College campus. Rent is £60 per week inclusive of bills (except telephone). Parking is available with permits costing £90 for the academic year."
+      },
+      {
+        "label": "C",
+        "content": "HANLEY HOUSE - a second, modern, self-catering residence in the town centre for students. Eighteen rooms per floor with communal kitchens, lounges, bathrooms and toilets. Rent is £55 per week including bills (not telephone). There is no space for parking nearby."
+      },
+      {
+        "label": "D",
+        "content": "GLENCARRICK HOUSE - a privately-owned and managed student residence in the town centre above a multi-storey car park, close to a major nightclub and housing 120 students. Rooms are allocated by the College Accommodation Service. Rents range from £58.50 to £68.50 per week for a standard en-suite room or larger en-suite room respectively. A small extra charge is made for utilities."
+      },
+      {
+        "label": "E",
+        "content": "HOUSE SHARES - this recent initiative is a range of shared houses for 140 students built to standards set by us to meet all legal safety requirements. A room in a shared house costs between £45 and £55 per week, exclusive of bills, and will be within a 4-mile radius of the main campuses. As with halls of residence, the rent is payable termly."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Look at the accommodation options A-E on the reading passage. For which options are the following statements true? Write the correct letter A-E in boxes 1-7 on your answer sheet. NB You may use any letter more than once.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "This is possibly inconvenient for car owners.",
+            "answer": "C",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "This is best if you like surfing the Web.",
+            "answer": "A",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Of the College residences, this has the fewest students.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "This is a new option offered by the College.",
+            "answer": "E",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "You have to organise parking a year at a time.",
+            "answer": "B",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "This accommodation does not belong to the College.",
+            "answer": "D",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Here you definitely do not have your own bathroom.",
+            "answer": "C",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 7
+  },
+  "processed_at": "2026-02-25T21:25:05.576263"
+}

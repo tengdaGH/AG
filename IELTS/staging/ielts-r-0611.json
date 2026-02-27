@@ -1,0 +1,495 @@
+{
+  "id": "ielts-r-0611",
+  "slug": "warning-mondays-are-bad-for-your-heart",
+  "title": "Warning: Mondays are bad for your heart",
+  "page_range": [
+    3089,
+    3093
+  ],
+  "raw_answer_key": {
+    "1": "FALSE",
+    "8": "ii",
+    "2": "NOT GIVEN",
+    "9": "i",
+    "3": "NOT GIVEN",
+    "10": "ix",
+    "4": "FALSE",
+    "11": "viii",
+    "5": "iii",
+    "12": "vi",
+    "6": "v",
+    "13": "iv",
+    "7": "vii"
+  },
+  "content": {
+    "title": "Warning: Mondays are bad for your heart",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "That ‘Monday morning feeling’ could be a crushing pain in the chest which leaves you sweating and gasping for breath. Recent research from Germany and Italy shows that heart attacks are more common on Monday morning and doctors blame the stress of returning to work after the weekend break."
+      },
+      {
+        "label": "B",
+        "content": "The risk of having a heart attack on any given day should be one in seven, but a six-year study coordinated by researchers at the Free University of Berlin of more than 2,600 Germans revealed that the average person had a 20 per cent higher chance of having a heart attack on a Monday than on any other day."
+      },
+      {
+        "label": "C",
+        "content": "Working Germans are particularly vulnerable, with a 33 per cent higher risk at the beginning of the working week. Non-workers, by comparison, appear to be no more at risk on a Monday than any other day."
+      },
+      {
+        "label": "D",
+        "content": "A study of 11,000 Italians identified 8 am on a Monday morning as the most stressful time for the heart, and both studies showed that Sunday is the least stressful day, with fewer heart attacks in both countries."
+      },
+      {
+        "label": "E",
+        "content": "The findings could lead to a better understanding of what triggers heart attacks, according to Dr. Stefan Willich of the Free University. 'We know a lot about long-term risk factors such as smoking and cholesterol but we don’t know what actually triggers heart attacks, so we can’t make specific recommendations about how to prevent them,' he said."
+      },
+      {
+        "label": "F",
+        "content": "Monday mornings have a double helping of stress for the working body as it makes a rapid transition from sleep to activity, and from the relaxing weekend to the pressures of work. 'When people get up, their blood pressure and heart rate go up and there are hormonal changes in their bodies,' Willich explained. 'All these things can have an adverse effect in the blood system and increase the risk of a clot in the arteries which will cause a heart attack.' 'When people return to work after a weekend off, the pace of their life changes. They have a higher workload, more stress, more anger and more physical activity,' said Willich. 'We need to know how these events cause changes in the body before we can understand if they cause heart attacks.'"
+      },
+      {
+        "label": "G",
+        "content": "But although it is tempting to believe that returning to work increases the risk of a heart attack, both Willich and the Italian researchers admit that it is only a partial answer. Both studies showed that the over-65s are also vulnerable on a Monday morning even though most no longer work. The reason for this is not clear, but the Italian team at the Luigi Saddo Hospital in Milan speculate that social interactions—the thought of facing another week and all its pressures—may play a part."
+      },
+      {
+        "label": "H",
+        "content": "What is clear, however, is that the Monday morning peak seems to be consistent from northern Germany to southern Italy in spite of the differences in diet and lifestyle."
+      },
+      {
+        "label": "I",
+        "content": "Willich is reluctant at this stage to make specific recommendations, but he suggests that anyone who suffers from heart disease should take it easy on Monday mornings and leave potentially stressful meetings until midweek. 'People should try to create a pleasant working environment,' he added. 'Maybe this risk applies only to those who see work as a burden, and people who enjoy their work are not so much at risk. We need to find out more.'"
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "TRUE_FALSE_NOT_GIVEN",
+        "instruction": "Read the following statements 1-4. According to the reading passage, if the statement is true, write True. If the statement is false, write False. If there is insufficient evidence, write NOT GIVEN.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "Unemployed Germans have a higher risk of heart attack than employed Germans.",
+            "answer": "FALSE",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "Unemployed Italians have a lower risk of heart attack than unemployed Germans.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "Germans risk heart attack because of their high consumption of fatty food.",
+            "answer": "NOT GIVEN",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "Cholesterol and smoking cause heart attacks.",
+            "answer": "FALSE",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MATCHING_HEADINGS",
+        "instruction": "Read Reading Passage and from the list of headings below, select the best heading for each paragraph A-I. Write the appropriate number i-ix in the spaces numbered 6-14 on the answer sheet. Use each heading ONCE only.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Heading for Paragraph A",
+            "answer": "iii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          },
+          {
+            "number": 6,
+            "text": "Heading for Paragraph B",
+            "answer": "v",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          },
+          {
+            "number": 7,
+            "text": "Heading for Paragraph C",
+            "answer": "vii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          },
+          {
+            "number": 8,
+            "text": "Heading for Paragraph D",
+            "answer": "ii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          },
+          {
+            "number": 9,
+            "text": "Heading for Paragraph E",
+            "answer": "i",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "Heading for Paragraph F",
+            "answer": "ix",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          },
+          {
+            "number": 11,
+            "text": "Heading for Paragraph G",
+            "answer": "viii",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "Heading for Paragraph H",
+            "answer": "vi",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          },
+          {
+            "number": 13,
+            "text": "Heading for Paragraph I",
+            "answer": "iv",
+            "options": [
+              {
+                "label": "i",
+                "text": "Exact cause of heart attacks"
+              },
+              {
+                "label": "ii",
+                "text": "The safest day"
+              },
+              {
+                "label": "iii",
+                "text": "Breathless, sweaty and crushed"
+              },
+              {
+                "label": "iv",
+                "text": "Reducing heart attack hazard"
+              },
+              {
+                "label": "v",
+                "text": "High-risk Monday"
+              },
+              {
+                "label": "vi",
+                "text": "Mondays: riskier than food and way of life"
+              },
+              {
+                "label": "vii",
+                "text": "Jobless but safer"
+              },
+              {
+                "label": "viii",
+                "text": "Elderly also at risk"
+              },
+              {
+                "label": "ix",
+                "text": "Bodily adaptations"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 13
+  },
+  "processed_at": "2026-02-26T16:03:49.120157"
+}

@@ -1,0 +1,120 @@
+{
+  "id": "ielts-r-0560",
+  "slug": "the-sun",
+  "title": "THE SUN",
+  "page_range": [
+    2838,
+    2841
+  ],
+  "raw_answer_key": {
+    "1": "Arctic",
+    "6": "photosynthesis Circle",
+    "2": "earth",
+    "7": "solar cells",
+    "3": "150",
+    "8": "vitamin D million",
+    "4": "eight",
+    "9": "gravity",
+    "5": "15"
+  },
+  "content": {
+    "title": "THE SUN",
+    "has_paragraph_labels": false,
+    "paragraphs": [
+      {
+        "label": null,
+        "content": "Imagine a world where the sun never sets. Children can laugh and play in the streets all through the night. Fishermen enjoy 24 hours of daylight on the open sea. To get any sleep, people must block all the light from their windows. Now imagine a world with only darkness. Even in the middle of the day, the sun does not shine. The only light comes from the moon and the stars in the black sky. Cars must drive with their lights on all the time. When people awake in the morning, it looks like the middle of the night. This is the situation for people who live above the Arctic Circle. The sun clearly influences their lives. This includes people in northern Russia, Canada, Alaska and Greenland. For part of the year they cannot see the sun. And part of the year the sun never disappears."
+      },
+      {
+        "label": null,
+        "content": "But do you ever think about the sun? All life depends on the power of the sun. Year after year, the sun warms the earth, gives us light, builds life on our planet, and even keeps us healthy. Whatever early people thought about the sun, they did not know much about it. But as people began to use science they learned more about the sun. In 1543, Nicholas Copernicus demonstrated that the earth travels around the sun. One hundred years later, scientists estimated the distance to the sun. And as recently as 1904, a man named Ernest Rutherford showed how the sun produced such large amounts of heat. These people discovered that the sun is a star like all the other stars in the sky. However, for our planet, it is a very special star."
+      },
+      {
+        "label": null,
+        "content": "The earth is 150 million kilometers from the sun. Here is one way to imagine this great distance. Imagine that you are standing on the sun. Your friends are on the earth. If they turned on a light, it would take eight minutes for you to see it! But this is the perfect distance for the earth to use the sun's heat. The temperature of the sun is around 6,000 degrees Celsius at its surface, and 15 million degrees at its centre! If the earth were any closer, we would burn. But if the earth were any further away, we would freeze. And yet, the sun is more than a big heater."
+      },
+      {
+        "label": null,
+        "content": "The sun also helps provide us with fresh air. The sun heats the oceans. Then the water heats the air. The changing air temperatures create most of the world's wind. Wind moves air to different places so plants can remove carbon dioxide from the air and create oxygen. But the sun also affects plants directly. The sun makes plants grow through the process of photosynthesis. Plants can change light from the sun into energy. They use the energy to grow bigger and stronger. All life on earth depends on plants. Without the sun, we could not grow food for ourselves or for our animals."
+      },
+      {
+        "label": null,
+        "content": "Plants are not the only things that capture the power of the sun. Humans can turn sunlight into electricity with solar cells. A solar cell collects the power of the sun and stores it. Then, this power can be used to run anything that uses electricity: cars, computers, or homes. Besides all these amazing things, the sun also helps us to do something very simple, but needed. Without the sun, we would not be able to see anything!"
+      },
+      {
+        "label": null,
+        "content": "The sun also helps people to be healthy and strong. It acts as a natural cleaner for our skin. The sun can help kill harmful bacteria that live on our skin. And the sun helps our bodies produce vitamin D. People need vitamin D to have strong bones. The sun can also improve our mental health. In places where the sun does not shine, people can suffer from seasonal affective disorder. This is a kind of depression. People with seasonal affective disorder do not have energy and feel sad. They are treated by sitting near a special light. But nothing is as good as being in real sunlight. Sunlight can help prevent depression and keep people happy. When the sun is shining, people have more hope about the future."
+      },
+      {
+        "label": null,
+        "content": "The sun does many other things as well. It helps us tell time. It controls the where and when animals travel. The sun's gravity keeps the planet in orbit. It even lets us see at night. This is because the sun shines on the moon and the moon sends the light down to the earth. The sun makes the colors of a rainbow after it rains. And it paints the sky during a sunset. There are many things we still do not know about the sun. But the more we learn about the sun, the more we can thank God for giving us this wonderful gift."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "SENTENCE_COMPLETION",
+        "instruction": "Complete the sentences below. Choose NO MORE THAN TWO WORDS AND/OR A NUMBER from the passage for each answer.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "For part of the year people who live above the 1..................... cannot see the sun.",
+            "answer": "Arctic",
+            "options": null
+          },
+          {
+            "number": 2,
+            "text": "In 1543, Nicholas Copernicus demonstrated that the 2..................... travels around the sun.",
+            "answer": "earth",
+            "options": null
+          },
+          {
+            "number": 3,
+            "text": "The earth is 3..................... kilometers from the sun.",
+            "answer": "150",
+            "options": null
+          },
+          {
+            "number": 4,
+            "text": "It takes sunlight an average of 4..................... minutes to travel from the Sun to the Earth.",
+            "answer": "eight",
+            "options": null
+          },
+          {
+            "number": 5,
+            "text": "The temperature of the sun is around 5..................... million degrees at its centre.",
+            "answer": "15",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "The sun makes plants grow through the process of 6......................",
+            "answer": "photosynthesis",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "Human can turn sunlight into electricity with 7......................",
+            "answer": "solar cells",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "The sun helps our bodies produce 8..................... which is needed for us to have strong bones.",
+            "answer": "vitamin D",
+            "options": null
+          },
+          {
+            "number": 9,
+            "text": "The sun's 9..................... keeps the planet in orbit.",
+            "answer": "gravity",
+            "options": null
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 9
+  },
+  "processed_at": "2026-02-25T21:59:03.332123"
+}
