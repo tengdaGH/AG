@@ -341,24 +341,13 @@
             transition: opacity .3s ease, box-shadow .3s ease, left .35s ease, width .35s ease;
         }
 
-        /* Hover-expand: in-place full-width pop, fully opaque */
+        /* Hover-expand: in-place full-width pop */
         .ev:hover {
             z-index: 20;
             width: calc(100% - 4px) !important;
             left: calc(0% + 2px) !important;
             box-shadow: 0 6px 24px rgba(20, 20, 19, 0.22);
             overflow: visible;
-            isolation: isolate;
-        }
-
-        /* Solid opaque backdrop so hovered block completely covers blocks behind it */
-        .ev:hover::before {
-            content: '';
-            position: absolute;
-            inset: -1px;
-            background: var(--bg);
-            border-radius: var(--radius-sm);
-            z-index: -1;
         }
 
         .ev:hover .ev-title {
