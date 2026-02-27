@@ -109,7 +109,38 @@ def generate_html(all_events, now_shanghai):
     HOUR_END = 22
     HOUR_HEIGHT = 60  # px per hour
 
-    def event_to_block(ev, col_idx):
+    def compute_overlap_layout(day_events):
+        """Assign horizontal slot positions to overlapping events.
+        Returns list of (event, slot_index, total_slots) tuples."""
+        timed = [e for e in day_events if not e["is_all_day"]]
+        timed.sort(key=lambda e: (e["start"], e["end"]))
+        if not timed:
+            return []
+
+        # Group into overlap clusters
+        clusters = []
+        current_cluster = [timed[0]]
+        cluster_end = timed[0]["end"]
+        for ev in timed[1:]:
+            if ev["start"] < cluster_end:  # overlaps
+                current_cluster.append(ev)
+                if ev["end"] > cluster_end:
+                    cluster_end = ev["end"]
+            else:
+                clusters.append(current_cluster)
+                current_cluster = [ev]
+                cluster_end = ev["end"]
+        clusters.append(current_cluster)
+
+        # Assign slots within each cluster
+        result = []
+        for cluster in clusters:
+            total = len(cluster)
+            for idx, ev in enumerate(cluster):
+                result.append((ev, idx, total))
+        return result
+
+    def event_to_block(ev, slot_idx, total_slots):
         if ev["is_all_day"]:
             return ""
         h_start = ev["start"].hour + ev["start"].minute / 60
@@ -123,7 +154,15 @@ def generate_html(all_events, now_shanghai):
         colors = TEACHER_COLORS.get(ev["teacher"], TEACHER_COLORS["Miya"])
         time_str = f"{ev['start'].strftime('%H:%M')}–{ev['end'].strftime('%H:%M')}"
         summary_escaped = html_mod.escape(ev["summary"])
-        return f'''<div class="ev" style="top:{top}px;height:{height}px;
+
+        # Calculate horizontal position
+        width_pct = 100 / total_slots
+        left_pct = slot_idx * width_pct
+        # Add small gap between slots
+        gap = 2  # px
+        style_pos = f"top:{top}px;height:{height}px;left:calc({left_pct}% + {gap}px);width:calc({width_pct}% - {gap * 2}px);"
+
+        return f'''<div class="ev" style="{style_pos}
             background:{colors['light']};border-left:3px solid {colors['bg']};
             " data-teacher="{html_mod.escape(ev['teacher'])}"
             title="{summary_escaped}  {time_str}">
@@ -140,9 +179,10 @@ def generate_html(all_events, now_shanghai):
         today_cls = ' today-col' if is_today else ''
         today_dot = '<span class="today-dot"></span>' if is_today else ''
 
+        layout = compute_overlap_layout(events_by_day[d])
         blocks_html = ""
-        for ev in events_by_day[d]:
-            blocks_html += event_to_block(ev, i)
+        for ev, slot_idx, total_slots in layout:
+            blocks_html += event_to_block(ev, slot_idx, total_slots)
 
         col_html_parts.append(f'''
         <div class="day-col{today_cls}" data-date="{d.isoformat()}">
@@ -265,7 +305,7 @@ h1{{font-size:1.4rem;font-weight:700;letter-spacing:-0.02em}}
 }}
 
 /* Event block */
-.ev{{position:absolute;left:3px;right:3px;border-radius:var(--radius-sm);padding:4px 8px;overflow:hidden;
+.ev{{position:absolute;border-radius:var(--radius-sm);padding:3px 6px;overflow:hidden;
   cursor:default;z-index:1;display:flex;flex-direction:column;gap:1px;transition:opacity .25s,transform .15s;}}
 .ev:hover{{transform:scale(1.02);z-index:5;box-shadow:0 4px 20px rgba(0,0,0,0.4)}}
 .ev-time{{font-size:0.65rem;font-weight:600;opacity:0.7;white-space:nowrap}}
