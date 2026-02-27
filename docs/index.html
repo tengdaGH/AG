@@ -1056,7 +1056,7 @@
                     const r = parseInt(hex.substring(0, 2), 16);
                     const g = parseInt(hex.substring(2, 4), 16);
                     const b = parseInt(hex.substring(4, 6), 16);
-                    const a = 0.22; // stronger tint
+                    const a = 0.12; // matches original rgba(..., 0.12)
                     const bg = { r: 247, g: 242, b: 234 }; // cream
                     const nr = Math.round(r * a + bg.r * (1 - a));
                     const ng = Math.round(g * a + bg.g * (1 - a));
