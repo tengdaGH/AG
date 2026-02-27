@@ -868,7 +868,6 @@ def generate_html(all_events, now_shanghai):
                     <div class="allday-gutter">全天</div>
                     <div class="allday-cells">{all_day_html}</div>
                 </div>
-                </div>
 
                 <!-- Time grid -->
                 <div class="grid-wrap">
