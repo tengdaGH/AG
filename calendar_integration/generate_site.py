@@ -210,7 +210,7 @@ def generate_html(all_events, now_shanghai):
         sidebar_items += f'<div class="sidebar-teacher"><div class="sidebar-teacher-name" style="color:{colors["bg"]}"><span class="dot" style="background:{colors["bg"]}"></span>{html_mod.escape(teacher_name)} ({len(evts)}节)</div>'
         for ev in evts:
             time_str = f"{ev['start'].strftime('%H:%M')}–{ev['end'].strftime('%H:%M')}" if not ev["is_all_day"] else "全天"
-            sidebar_items += f'<div class="sidebar-ev"><span class="sidebar-time">{time_str}</span><span class="sidebar-title">{html_mod.escape(ev["summary"])}</span></div>'
+            sidebar_items += f'<div class="sidebar-ev" style="background:{colors["light"]}; border-left: 3px solid {colors["bg"]};"><span class="sidebar-time">{time_str}</span><span class="sidebar-title">{html_mod.escape(ev["summary"])}</span></div>'
         sidebar_items += '</div>'
 
     if not sidebar_items:
