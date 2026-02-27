@@ -1033,29 +1033,29 @@
                 const nb = Math.round(b * a + bg.b * (1 - a));
                 return 'rgb(' + nr + ',' + ng + ',' + nb + ')';
             }
-            document.addEventListener('mouseover', e => {
-                const ev = e.target.closest('.ev');
-                if (!ev || ev.classList.contains('hidden')) return;
-                if (!ev._origBg) ev._origBg = ev.style.background;
-                // Extract base color from border-left
-                const borderColor = ev.style.borderLeft ? ev.style.borderLeft.match(/#[0-9a-fA-F]+/)?.[0] : null;
-                if (borderColor) {
-                    // Convert hex to light solid
-                    const hex = borderColor.replace('#', '');
-                    const r = parseInt(hex.substring(0, 2), 16);
-                    const g = parseInt(hex.substring(2, 4), 16);
-                    const b = parseInt(hex.substring(4, 6), 16);
-                    const a = 0.12; // matches original rgba(..., 0.12)
-                    const bg = { r: 247, g: 242, b: 234 }; // cream
-                    const nr = Math.round(r * a + bg.r * (1 - a));
-                    const ng = Math.round(g * a + bg.g * (1 - a));
-                    const nb = Math.round(b * a + bg.b * (1 - a));
-                    ev.style.background = 'rgb(' + nr + ',' + ng + ',' + nb + ')';
+            document.querySelectorAll('.ev').forEach(ev => {
+                // Pre-compute solid background equivalent for each event
+                const bgStr = ev.style.background || '';
+                const rgbaMatch = bgStr.match(/rgba?\(\s*(\d+)\s*,\s*(\d+)\s*,\s*(\d+)\s*(?:,\s*([\d.]+))?\s*\)/);
+                if (rgbaMatch) {
+                    const r = parseInt(rgbaMatch[1]);
+                    const g = parseInt(rgbaMatch[2]);
+                    const b = parseInt(rgbaMatch[3]);
+                    const a = parseFloat(rgbaMatch[4] || '1');
+                    // Blend with cream (#f7f2ea = 247,242,234) to get solid equivalent
+                    const cream = { r: 247, g: 242, b: 234 };
+                    const sr = Math.round(r * a + cream.r * (1 - a));
+                    const sg = Math.round(g * a + cream.g * (1 - a));
+                    const sb = Math.round(b * a + cream.b * (1 - a));
+                    ev._solidBg = 'rgb(' + sr + ',' + sg + ',' + sb + ')';
+                    ev._origBg = ev.style.background;
                 }
-            });
-            document.addEventListener('mouseout', e => {
-                const ev = e.target.closest('.ev');
-                if (ev && ev._origBg) ev.style.background = ev._origBg;
+                ev.addEventListener('mouseenter', () => {
+                    if (ev._solidBg) ev.style.background = ev._solidBg;
+                });
+                ev.addEventListener('mouseleave', () => {
+                    if (ev._origBg) ev.style.background = ev._origBg;
+                });
             });
 
             // ── 2. Trim empty hour rows from the bottom ──
