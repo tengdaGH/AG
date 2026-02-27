@@ -613,7 +613,7 @@
                 <div class="tabs" id="tabs"><button class="tab active" data-filter="all">全部</button><button class="tab" data-filter="Miya" style="--tab-color:#7c3aed">Miya</button><button class="tab" data-filter="Rita" style="--tab-color:#f43f5e">Rita</button><button class="tab" data-filter="月月" style="--tab-color:#f97316">月月</button><button class="tab" data-filter="达哥" style="--tab-color:#0ea5e9">达哥</button></div>
             </div>
             <div class="topbar-right">
-                <span class="sync-badge">同步于 2026-02-27 15:10:14</span>
+                <span class="sync-badge">同步于 2026-02-27 15:19:50</span>
             </div>
         </div>
 
@@ -626,7 +626,7 @@
                 <!-- All-day row -->
                 <div class="allday-row">
                     <div class="allday-gutter">全天</div>
-                    <div class="allday-cells"><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div></div>
+                    <div class="allday-cells"><div class="allday-cell"><span class="allday-pill" style="background:rgba(124,58,237,0.15);border:1px solid rgba(124,58,237,0.5);color:#7c3aed" data-teacher="Miya">miya休息♨️</span></div><div class="allday-cell"></div><div class="allday-cell"><span class="allday-pill" style="background:rgba(124,58,237,0.15);border:1px solid rgba(124,58,237,0.5);color:#7c3aed" data-teacher="Miya">miya休息♨️</span></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"></div><div class="allday-cell"><span class="allday-pill" style="background:rgba(124,58,237,0.15);border:1px solid rgba(124,58,237,0.5);color:#7c3aed" data-teacher="Miya">miya休息♨️</span></div></div>
                 </div>
 
                 <!-- Time grid -->
@@ -642,13 +642,7 @@
                 <span class="date-num">2/23</span>
             </div>
             <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya休息♨️  08:00–09:00">
-            <span class="ev-time">08:00–09:00</span>
-            <span class="ev-title">miya休息♨️</span>
-        </div><div class="ev" style="top:150.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+                <div class="ev" style="top:150.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
             background:rgba(244,63,94,0.15);border-left:3px solid #f43f5e;
             " data-teacher="Rita"
             title="Rita 小楷雅思阅读正课  10:30–12:00">
@@ -702,13 +696,7 @@
                 <span class="date-num">2/25</span>
             </div>
             <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya休息♨️  08:00–09:00">
-            <span class="ev-time">08:00–09:00</span>
-            <span class="ev-title">miya休息♨️</span>
-        </div><div class="ev" style="top:120.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+                <div class="ev" style="top:120.0px;height:90.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
             background:rgba(249,115,22,0.15);border-left:3px solid #f97316;
             " data-teacher="月月"
             title="🈷️ 贺贺雅思听力正课  10:00–11:30">
@@ -876,13 +864,7 @@
                 <span class="date-num">3/1</span>
             </div>
             <div class="day-body" style="height:840px;">
-                <div class="ev" style="top:0.0px;height:60.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
-            background:rgba(124,58,237,0.15);border-left:3px solid #7c3aed;
-            " data-teacher="Miya"
-            title="miya休息♨️  08:00–09:00">
-            <span class="ev-time">08:00–09:00</span>
-            <span class="ev-title">miya休息♨️</span>
-        </div><div class="ev" style="top:360.0px;height:120.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
+                <div class="ev" style="top:360.0px;height:120.0px;left:calc(0.0% + 2px);width:calc(100.0% - 4px);
             background:rgba(14,165,233,0.15);border-left:3px solid #0ea5e9;
             " data-teacher="达哥"
             title="皓宇新托福模考  14:00–16:00">
@@ -1053,7 +1035,7 @@
             function parseTitle(raw, teacherAttr) {
                 if (!raw) return { special: raw || '' };
                 let s = raw.trim();
-                if (s.includes('休息')) return { special: s.replace(/^(miya|Rita|达哥|🈷️)\s*/i, '') };
+                if (s.includes('休息')) return { teacher: teacherAttr, student: s.replace(/^(miya|Rita|达哥|🈷️)\s*/i, ''), special: null };
                 if (s.startsWith('🈷️')) s = s.replace(/^🈷️\s*/, '');
                 let teacher = teacherAttr || '';
                 for (const t of TEACHER_PREFIXES) {

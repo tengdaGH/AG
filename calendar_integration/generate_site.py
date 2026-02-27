@@ -71,9 +71,13 @@ def fetch_events(teacher, url, week_start, week_end):
         if start_dt.date() < week_start or start_dt.date() > week_end:
             continue
 
+        summary_text = summary_m.group(1).strip()
+        if "休息" in summary_text:
+            is_all_day = True
+
         events.append({
             "teacher": teacher,
-            "summary": summary_m.group(1).strip(),
+            "summary": summary_text,
             "start": start_dt,
             "end": end_dt,
             "is_all_day": is_all_day,
@@ -1040,7 +1044,7 @@ def generate_html(all_events, now_shanghai):
             function parseTitle(raw, teacherAttr) {{
                 if (!raw) return {{ special: raw || '' }};
                 let s = raw.trim();
-                if (s.includes('休息')) return {{ special: s.replace(/^(miya|Rita|达哥|🈷️)\s*/i, '') }};
+                if (s.includes('休息')) return {{ teacher: teacherAttr, student: s.replace(/^(miya|Rita|达哥|🈷️)\s*/i, ''), special: null }};
                 if (s.startsWith('🈷️')) s = s.replace(/^🈷️\s*/, '');
                 let teacher = teacherAttr || '';
                 for (const t of TEACHER_PREFIXES) {{
