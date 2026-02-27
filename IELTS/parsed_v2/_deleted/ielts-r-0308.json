@@ -1,0 +1,457 @@
+{
+  "id": "ielts-r-0308",
+  "slug": "nature-works-polylactic-acid",
+  "title": "Nature works Polylactic acid",
+  "page_range": [
+    1560,
+    1565
+  ],
+  "raw_answer_key": {
+    "1": "B",
+    "8": "polymer",
+    "2": "C",
+    "9": "B",
+    "3": "F",
+    "10": "C",
+    "4": "A",
+    "11": "A",
+    "5": "starch",
+    "12": "D",
+    "6": "fermentation",
+    "13": "A",
+    "7": "condensation",
+    "14": "C"
+  },
+  "content": {
+    "title": "Nature works Polylactic acid",
+    "has_paragraph_labels": true,
+    "paragraphs": [
+      {
+        "label": "A",
+        "content": "A dozen years ago, scientists at Cargill got the idea of converting lactic acid made from corn into plastic while examining possible new uses for materials produced from corn wet milling processes. In the past, several efforts had been made to develop plastics from lactic acid, but with limited success. Achieving this technological breakthrough didn’t come easily, but in time the efforts did succeed. A fermentation and distillation process using corn was designed to create a polymer suitable for a broad variety of applications."
+      },
+      {
+        "label": "B",
+        "content": "As an agricultural based firm, Cargill had taken this product as far as it could by 1997. The company needed a partner with access to plastics markets and polymerization capabilities, and began discussions with The Dow Chemical Company. The next step was the formation of the joint venture that created Cargill Dow LLC. Cargill Dow’s product is the world’s first commercially available plastic made from annually renewable resources such as corn."
+      },
+      {
+        "label": "C",
+        "content": "By applying their unique technology to the processing of natural plant sugars, Cargill Dow has created a more environmentally friendly material that reaches the consumer in clothes, cups, packaging and other products. While Cargill Dow is a stand-alone business, it continues to leverage the agricultural processing, manufacturing and polymer expertise of the two parent companies in order to bring the best possible products to market."
+      },
+      {
+        "label": "D",
+        "content": "The basic raw materials for PLA are carbon dioxide and water. Growing plants, like corn, take these building blocks from the atmosphere and the soil. They are combined in the plant to make carbohydrates (sucrose and starch) through a process driven by photosynthesis. The process for making Nature Works PLA begins when a renewable resource such as corn is milled, separating starch from the raw material. Unrefined dextrose, in turn, is processed from the starch."
+      },
+      {
+        "label": "E",
+        "content": "Cargill Dow turns the unrefined dextrose into lactic acid using a fermentation process similar to that used by beer and wine producers. This is the same lactic acid that is used as a food additive and is found in muscle tissue in the human body. Through a special condensation process, a lactide is formed. This lactide is purified through vacuum distillation and becomes a polymer (the base for Natureworks PLA) that is ready for use through a solvent-free melt process. Development of this new technology allows the company to “harvest” the carbon that living plants remove from the air through photosynthesis. Carbon is stored in plant starches, which can be broken down into natural plant sugars. The carbon and other elements in these natural sugars are then used to make Natureworks PLA."
+      },
+      {
+        "label": "F",
+        "content": "Nature Works PLA fits all disposal systems and is fully compostable in commercial composting facilities. With the proper infrastructure, products made from this polymer can be recycled back to a monomer and re-used as a polymer. Thus, at the end of its life cycle, a product made from Nature Works PLA can be broken down into its simplest parts so that no sign of it remains."
+      },
+      {
+        "label": "G",
+        "content": "PLA is now actively competing with traditional materials in packaging and fiber applications throughout the world; based on the technology’s success and promise, Cargill Dow is quickly becoming a premier player in the polymers market. This new polymer now competes head-on with petroleum-based materials like polyester. A wide range of products that vary in molecular weight and crystallinity can be produced, and the blend of physical properties of PLA makes it suited for a broad range of fiber and packaging applications. Fiber and non-woven applications include clothing, fiberfill, blankets and wipes. Packaging applications include packaging films and food and beverage containers."
+      },
+      {
+        "label": "H",
+        "content": "As Nature Works PLA polymers are more oil- and grease-resistant and provide a better flavor and aroma barrier than existing petroleum-based polymers, grocery retailers are increasingly using this packaging for their fresh foods. As companies begin to explore this family of polymers, more potential applications are being identified. For example, PLA possess two properties that are particularly useful for drape fabrics and window furnishings. Their resistance to ultraviolet light is particularly appealing as this reduces the amount of fading in such fabrics, and their refractive index is low, which means fabrics constructed from these polymers can be made with deep colors without requiring large amounts of dye. In addition, sportswear makers have been drawn to the product as it has an inherent ability to take moisture away from the skin and when blended with cotton and wool, the result is garments that are lighter and better at absorbing moisture."
+      },
+      {
+        "label": "I",
+        "content": "PLA combines inexpensive large-scale fermentation with chemical processing to produce a value-added polymer product that improves the environment as well. The source material for PLA is a natural sugar found in plants such as corn and using such renewable feedstock presents several environmental benefits. As an alternative to traditional petroleum-based polymers, the production of PLA uses 20%-50% less fossil fuel and releases a lower amount of greenhouse gasses than comparable petroleum-based plastic; carbon dioxide in the atmosphere is removed when the feedstock is grown and is returned to the earth when the polymer is degraded. Because the company is using raw materials that can be regenerated year after year, it is both cost-competitive and environmentally responsible."
+      }
+    ]
+  },
+  "questions": {
+    "question_groups": [
+      {
+        "type": "MATCHING_PARAGRAPH_INFORMATION",
+        "instruction": "Write the letters A-F in boxes 1-4 on your answer sheet.",
+        "questions": [
+          {
+            "number": 1,
+            "text": "scientists manage to",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "make things like clothes",
+                "content": "make things like clothes"
+              },
+              {
+                "label": "B",
+                "text": "produce plastic from plant",
+                "content": "produce plastic from plant"
+              },
+              {
+                "label": "C",
+                "text": "selling plastic in market",
+                "content": "selling plastic in market"
+              },
+              {
+                "label": "D",
+                "text": "fermentation process",
+                "content": "fermentation process"
+              },
+              {
+                "label": "E",
+                "text": "drape fabrics",
+                "content": "drape fabrics"
+              },
+              {
+                "label": "F",
+                "text": "wrapping products",
+                "content": "wrapping products"
+              }
+            ]
+          },
+          {
+            "number": 2,
+            "text": "Cargill needs to have contacts with",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "make things like clothes",
+                "content": "make things like clothes"
+              },
+              {
+                "label": "B",
+                "text": "produce plastic from plant",
+                "content": "produce plastic from plant"
+              },
+              {
+                "label": "C",
+                "text": "selling plastic in market",
+                "content": "selling plastic in market"
+              },
+              {
+                "label": "D",
+                "text": "fermentation process",
+                "content": "fermentation process"
+              },
+              {
+                "label": "E",
+                "text": "drape fabrics",
+                "content": "drape fabrics"
+              },
+              {
+                "label": "F",
+                "text": "wrapping products",
+                "content": "wrapping products"
+              }
+            ]
+          },
+          {
+            "number": 3,
+            "text": "Nature work is used for",
+            "answer": "F",
+            "options": [
+              {
+                "label": "A",
+                "text": "make things like clothes",
+                "content": "make things like clothes"
+              },
+              {
+                "label": "B",
+                "text": "produce plastic from plant",
+                "content": "produce plastic from plant"
+              },
+              {
+                "label": "C",
+                "text": "selling plastic in market",
+                "content": "selling plastic in market"
+              },
+              {
+                "label": "D",
+                "text": "fermentation process",
+                "content": "fermentation process"
+              },
+              {
+                "label": "E",
+                "text": "drape fabrics",
+                "content": "drape fabrics"
+              },
+              {
+                "label": "F",
+                "text": "wrapping products",
+                "content": "wrapping products"
+              }
+            ]
+          },
+          {
+            "number": 4,
+            "text": "Ingeo is used to",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "make things like clothes",
+                "content": "make things like clothes"
+              },
+              {
+                "label": "B",
+                "text": "produce plastic from plant",
+                "content": "produce plastic from plant"
+              },
+              {
+                "label": "C",
+                "text": "selling plastic in market",
+                "content": "selling plastic in market"
+              },
+              {
+                "label": "D",
+                "text": "fermentation process",
+                "content": "fermentation process"
+              },
+              {
+                "label": "E",
+                "text": "drape fabrics",
+                "content": "drape fabrics"
+              },
+              {
+                "label": "F",
+                "text": "wrapping products",
+                "content": "wrapping products"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "SUMMARY_COMPLETION",
+        "instruction": "Complete the following summary of the paragraphs of Reading Passage. Using NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+        "questions": [
+          {
+            "number": 5,
+            "text": "Process: Polylactic acid",
+            "answer": "starch",
+            "options": null
+          },
+          {
+            "number": 6,
+            "text": "",
+            "answer": "fermentation",
+            "options": null
+          },
+          {
+            "number": 7,
+            "text": "",
+            "answer": "condensation",
+            "options": null
+          },
+          {
+            "number": 8,
+            "text": "",
+            "answer": "polymer",
+            "options": null
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Choose the correct letter, A, B, c or D.",
+        "questions": [
+          {
+            "number": 9,
+            "text": "Why did choose the PLA as material for food packaging?",
+            "answer": "B",
+            "options": [
+              {
+                "label": "A",
+                "text": "It smells good",
+                "content": "It smells good"
+              },
+              {
+                "label": "B",
+                "text": "It can save food freshness",
+                "content": "It can save food freshness"
+              },
+              {
+                "label": "C",
+                "text": "It can be used on other materials",
+                "content": "It can be used on other materials"
+              },
+              {
+                "label": "D",
+                "text": "Some other things need to be revised about it.",
+                "content": "Some other things need to be revised about it"
+              }
+            ]
+          },
+          {
+            "number": 10,
+            "text": "What is PLA packaging is used for?",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "absorbing moisture",
+                "content": "It is made of renewable raw materials"
+              },
+              {
+                "label": "B",
+                "text": "composting facilities",
+                "content": "It involves the removal of carbon dioxide"
+              },
+              {
+                "label": "C",
+                "text": "Packaging fresh food",
+                "content": "It is no use of fossil fuel product"
+              },
+              {
+                "label": "D",
+                "text": "manufacturing",
+                "content": "It uses renewable raw resources 4"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which two features of PLA are correct?",
+        "questions": [
+          {
+            "number": 11,
+            "text": "A It takes in moisture of skin",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "It takes in moisture of skin",
+                "content": "make things like clothes"
+              },
+              {
+                "label": "B",
+                "text": "It is waterproof",
+                "content": "produce plastic from plant"
+              },
+              {
+                "label": "C",
+                "text": "comfortable sportswear",
+                "content": "selling plastic in market"
+              },
+              {
+                "label": "D",
+                "text": "It’s fading under the sun",
+                "content": "fermentation process"
+              },
+              {
+                "label": "E",
+                "text": "It is only made in deep color",
+                "content": "drape fabrics"
+              }
+            ]
+          },
+          {
+            "number": 12,
+            "text": "D It’s fading under the sun",
+            "answer": "D",
+            "options": [
+              {
+                "label": "A",
+                "text": "It takes in moisture of skin",
+                "content": "make things like clothes"
+              },
+              {
+                "label": "B",
+                "text": "It is waterproof",
+                "content": "produce plastic from plant"
+              },
+              {
+                "label": "C",
+                "text": "comfortable sportswear",
+                "content": "selling plastic in market"
+              },
+              {
+                "label": "D",
+                "text": "It’s fading under the sun",
+                "content": "fermentation process"
+              },
+              {
+                "label": "E",
+                "text": "It is only made in deep color",
+                "content": "drape fabrics"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "MULTIPLE_CHOICE",
+        "instruction": "Which two features of PLA are correct?",
+        "questions": [
+          {
+            "number": 13,
+            "text": "A It is made of renewable raw materials",
+            "answer": "A",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is made of renewable raw materials",
+                "content": "It takes in moisture of skin"
+              },
+              {
+                "label": "B",
+                "text": "It involves the removal of carbon dioxide",
+                "content": "It is waterproof"
+              },
+              {
+                "label": "C",
+                "text": "It is no use of fossil fuel product",
+                "content": "comfortable sportswear"
+              },
+              {
+                "label": "D",
+                "text": "It uses renewable raw resources",
+                "content": "It’s fading under the sun"
+              },
+              {
+                "label": "E",
+                "text": "It is sustenance which can absorb the CO2 in the atmosphere",
+                "content": "It is only made in deep color"
+              }
+            ]
+          },
+          {
+            "number": 14,
+            "text": "C It is no use of fossil fuel product",
+            "answer": "C",
+            "options": [
+              {
+                "label": "A",
+                "text": "It is made of renewable raw materials",
+                "content": "It takes in moisture of skin"
+              },
+              {
+                "label": "B",
+                "text": "It involves the removal of carbon dioxide",
+                "content": "It is waterproof"
+              },
+              {
+                "label": "C",
+                "text": "It is no use of fossil fuel product",
+                "content": "comfortable sportswear"
+              },
+              {
+                "label": "D",
+                "text": "It uses renewable raw resources",
+                "content": "It’s fading under the sun"
+              },
+              {
+                "label": "E",
+                "text": "It is sustenance which can absorb the CO2 in the atmosphere",
+                "content": "It is only made in deep color"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "parsed_total_questions": 14
+  },
+  "processed_at": "2026-02-25T20:52:21.090376"
+}
