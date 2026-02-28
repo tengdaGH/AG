@@ -1,4 +1,5 @@
 import { create } from 'zustand';
+import { API_BASE_URL } from '@/lib/api-config';
 
 interface TestState {
     sessionId: string | null;
@@ -38,9 +39,12 @@ export const useTestStore = create<TestState>((set, get) => ({
         set({ isSubmitting: true });
         try {
             // Send the giant dictionary to our new API route
-            const response = await fetch(`http://localhost:8000/api/sessions/${sessionId}/submit`, {
+            const response = await fetch(`${API_BASE_URL}/api/sessions/${sessionId}/submit`, {
                 method: "POST",
-                headers: { "Content-Type": "application/json" },
+                headers: {
+                    "Content-Type": "application/json",
+                    "Bypass-Tunnel-Reminder": "true"
+                },
                 body: JSON.stringify({ answers })
             });
 

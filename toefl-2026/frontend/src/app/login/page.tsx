@@ -7,6 +7,7 @@ import { Input } from '@/components/Input';
 import { Button } from '@/components/Button';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
 import { LanguageSwitcher } from '@/components/LanguageSwitcher';
+import { API_BASE_URL } from '@/lib/api-config';
 
 export default function LoginPage() {
     const router = useRouter();
@@ -24,10 +25,11 @@ export default function LoginPage() {
 
         if (role === 'STUDENT') {
             try {
-                const response = await fetch('http://localhost:8000/api/auth/student-login', {
+                const response = await fetch(`${API_BASE_URL}/api/auth/student-login`, {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
+                        'Bypass-Tunnel-Reminder': 'true'
                     },
                     body: JSON.stringify({
                         student_id: email,

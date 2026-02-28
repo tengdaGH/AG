@@ -248,7 +248,10 @@ export const TestSequencer: React.FC = () => {
                 const studentId = localStorage.getItem('user_id') || 'demo_student_id';
                 const sessionRes = await fetch(`${API_BASE_URL}/api/sessions`, {
                     method: 'POST',
-                    headers: { 'Content-Type': 'application/json' },
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'Bypass-Tunnel-Reminder': 'true'
+                    },
                     body: JSON.stringify({ student_id: studentId })
                 });
                 if (sessionRes.ok) {
