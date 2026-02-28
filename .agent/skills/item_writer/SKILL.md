@@ -27,16 +27,21 @@ It writes ONE item at a time, validates it against ETS standards, and only inser
 
 | Section | Task Type | DB `task_type` value |
 |---------|-----------|----------------------|
-| Reading | Complete the Words (C-Test) | `C_TEST` |
-| Reading | Read in Daily Life (MCQ) | `DAILY_LIFE` |
-| Reading | Read an Academic Passage (MCQ) | `ACADEMIC_PASSAGE` |
+| Reading | Complete the Words (C-Test) | `COMPLETE_THE_WORDS` |
+| Reading | Read in Daily Life (MCQ) | `READ_IN_DAILY_LIFE` |
+| Reading | Read an Academic Passage (MCQ) | `READ_ACADEMIC_PASSAGE` |
 | Listening | Listen and Choose a Response | `LISTEN_CHOOSE_RESPONSE` |
 | Listening | Listen to a Conversation | `LISTEN_CONVERSATION` |
 | Listening | Listen to an Announcement | `LISTEN_ANNOUNCEMENT` |
 | Listening | Listen to an Academic Talk | `LISTEN_ACADEMIC_TALK` |
-| Writing | Build a Sentence | `BUILD_SENTENCE` |
-| Writing | Write an Email | `WRITE_EMAIL` |
-| Speaking | Listen and Repeat | `LISTEN_REPEAT` |
+| Writing | Build a Sentence | `BUILD_A_SENTENCE` |
+| Writing | Write an Email | `WRITE_AN_EMAIL` |
+| Writing | Write Academic Discussion | `WRITE_ACADEMIC_DISCUSSION` |
+| Speaking | Take an Interview | `TAKE_AN_INTERVIEW` |
+| Speaking | Listen and Repeat | `LISTEN_AND_REPEAT` |
+
+> [!CAUTION]
+> These are the **exact** enum values from `backend/app/models/models.py → TaskType`. Any deviation will cause a SQLAlchemy IntegrityError silent failure or type mismatch on insert. Do NOT use old names like `C_TEST`, `DAILY_LIFE`, `BUILD_SENTENCE`, `WRITE_EMAIL`, `LISTEN_REPEAT`.
 
 ---
 
@@ -91,24 +96,66 @@ Use the **existing generation scripts** as templates. Reference:
 - `specs/task_types/<type>.md` — ETS spec for each task type
 - `specs/toefl_2026_spec_sheet.md` — structural constraints
 
-For **MCQ items** (DAILY_LIFE, ACADEMIC_PASSAGE, LISTEN_*):
-- Must have: `prompt_content`, `options` (JSON array of 4), `correct_answer` (A/B/C/D)
+> [!IMPORTANT]
+> **Schema rule:** There is NO `title`, `options`, `correct_answer`, or `cefr_level` column on `test_items`. All item content (text, questions, options, answer keys, title, audio_url) lives inside `prompt_content` as a JSON blob. The DB row only stores metadata. Do not add non-existent columns to INSERT statements.
+
+**DB columns on `test_items` (verified against `models.py` 2026-02-28):**
+```
+id, author_id, section, task_type, target_level, irt_difficulty, irt_discrimination,
+prompt_content, media_url, rubric_id, lifecycle_status, is_active, version,
+generated_by_model, generation_notes, created_at, updated_at,
+exposure_count, last_exposed_at, source_file, source_id
+```
+
+**`prompt_content` JSON schema by task type (embed all item content here):**
+
+For **MCQ items** (`READ_IN_DAILY_LIFE`, `READ_ACADEMIC_PASSAGE`, `LISTEN_CONVERSATION`, `LISTEN_ANNOUNCEMENT`, `LISTEN_ACADEMIC_TALK`, `LISTEN_CHOOSE_RESPONSE`):
+```json
+{
+  "title": "<item title>",
+  "text": "<passage or prompt text>",
+  "audio_url": "<relative path for listening items, e.g. audio/listening/LCR-xxx.wav>",
+  "questions": [
+    {
+      "text": "<question stem>",
+      "options": ["Option A", "Option B", "Option C", "Option D"],
+      "correct_answer": 0
+    }
+  ]
+}
+```
+- `correct_answer` is an **integer index** (0–3), NOT a letter like 'A','B','C','D'
 - Distractor rule: each wrong answer must be plausible but clearly incorrect on re-read
 - No "all of the above", "none of the above"
-- Key is never always A or always D (vary position)
+- Key index must not always be 0 (vary position)
 - Apply the `mcq_item_quality` SKILL self-check before inserting
 
-For **C-Test items** (C_TEST):
+For **C-Test items** (`COMPLETE_THE_WORDS`):
+```json
+{"title": "<title>", "text": "Par_ial wo_ds wi_h undersc_res for g_ps."}
+```
 - Minimum 8 gap markers (`_` characters per gap)
-- No `(blank lines)` annotations — use actual `___` underscores in prompt_content
-- Gaps should be mid-word deletions of the second half, not whole-word gaps
-- CEFR target: B1–B2 for Stage 1, B2–C1 for Stage 2 Upper
+- No `(blank lines)` annotations — use actual `___` underscores inline
+- Gaps are mid-word deletions of the second half, not whole-word removals
+- CEFR target: A1–A2 for easy, B1–B2 for Stage 1, B2–C1 for Stage 2 Upper
 
-For **Build-a-Sentence** (BUILD_SENTENCE):
-- `prompt_content` = scrambled word tokens (JSON array)
-- `correct_answer` = correct sentence string
-- `options` = null (not MCQ)
-- Sentence should be grammatically unambiguous — only ONE correct order
+For **Build-a-Sentence** (`BUILD_A_SENTENCE`):
+```json
+{"title": "<title>", "sentences": [{"words": ["scrambled", "tokens", "here"], "answer": "Full correct sentence."}]}
+```
+- Sentence must be grammatically unambiguous — only ONE correct ordering
+- No MCQ options
+
+For **Write an Email** (`WRITE_AN_EMAIL`) and **Write Academic Discussion** (`WRITE_ACADEMIC_DISCUSSION`):
+```json
+{"title": "<title>", "prompt": "<the writing task prompt>"}
+```
+
+For **Take an Interview** (`TAKE_AN_INTERVIEW`) and **Listen and Repeat** (`LISTEN_AND_REPEAT`):
+```json
+{"title": "<title>", "prompt": "<speaking prompt>", "audio_url": "<audio path>"}
+```
+- No `correct_answer` — these are open-response, scored by rubric
 
 ---
 
@@ -148,33 +195,35 @@ Set `lifecycle_status = 'DRAFT'` on insert. Items go ACTIVE only after ETS Gold 
 
 ### Step 6 — Insert into item_bank.db
 
-Use parameterized SQL — never f-string interpolation:
+Use parameterized SQL — never f-string interpolation.
+
+> [!CAUTION]
+> The columns `title`, `options`, `correct_answer`, and `cefr_level` do **NOT** exist on `test_items`. All content goes inside `prompt_content` as JSON. Use `target_level` for CEFR. Use `media_url` for audio file paths (not `audio_url`).
 
 ```python
-import sqlite3, json, datetime
+import sqlite3, json, uuid, datetime
 
 conn = sqlite3.connect("backend/item_bank.db")
 conn.execute("""
     INSERT INTO test_items (
-        task_type, section, title, prompt_content, options, correct_answer,
-        irt_difficulty, irt_discrimination, lifecycle_status, cefr_level,
-        exposure_count, created_at
-    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, 'DRAFT', ?, 0, ?)
+        id, task_type, section, target_level, prompt_content,
+        irt_difficulty, irt_discrimination, lifecycle_status,
+        is_active, version, exposure_count, created_at, updated_at
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, 'DRAFT', 0, 1, 0, ?, ?)
 """, (
-    task_type,           # e.g. 'DAILY_LIFE'
-    section,             # e.g. 'READING'
-    title,
-    prompt_content,
-    json.dumps(options) if options else None,  # JSON array or None
-    correct_answer,      # 'A', 'B', 'C', 'D', or full sentence string
-    irt_difficulty,      # float
-    irt_discrimination,  # float
-    cefr_level,          # e.g. 'B1'
+    str(uuid.uuid4()),
+    task_type,           # e.g. 'READ_IN_DAILY_LIFE' — must match TaskType enum exactly
+    section,             # e.g. 'READING' — must match SectionType enum exactly
+    target_level,        # e.g. 'B1' — must match CEFRLevel enum: A1,A2,B1,B2,C1,C2
+    json.dumps(prompt_content_dict),  # ALL item content here — title, text, questions, audio_url
+    irt_difficulty,      # float, e.g. 0.0 for B1
+    irt_discrimination,  # float, e.g. 1.0 default
+    datetime.datetime.utcnow().isoformat(),
     datetime.datetime.utcnow().isoformat()
 ))
 conn.commit()
 conn.close()
-print(f"✅ Inserted 1 new DRAFT item: {title}")
+print(f"✅ Inserted 1 new DRAFT item: {prompt_content_dict.get('title')}")
 ```
 
 ---
@@ -217,9 +266,63 @@ Always specify `task_type` and `count`. Default CEFR = B1 unless told otherwise.
 
 ---
 
+## ⚡ Mandatory Post-Conditions (DO THESE BEFORE REPORTING DONE)
+
+These are not optional. item_writer is not finished until these are complete.
+
+### After inserting ANY Listening or Speaking items:
+
+> **You MUST invoke `audio_generator` before you finish.**
+> Do not report "done" or "20 items inserted" until audio has been generated for every new item.
+
+```
+Listening task types that trigger this:  LISTEN_CHOOSE_RESPONSE, LISTEN_CONVERSATION,
+                                          LISTEN_ANNOUNCEMENT, LISTEN_ACADEMIC_TALK
+Speaking task types that trigger this:   LISTEN_REPEAT
+```
+
+**The sequence is always:**
+1. Insert Listening/Speaking items → `audio_url = NULL`
+2. **Immediately** read `.agent/skills/audio_generator/SKILL.md`
+3. Generate audio for every new item using that skill
+4. Update `audio_url` in item_bank.db
+5. Verify: `SELECT COUNT(*) FROM test_items WHERE audio_url IS NULL AND section='LISTENING'` → must be 0
+6. **Only now** report completion to the user
+
+**Why this is mandatory, not optional:**
+Alfred checks for Listening items where `media_url IS NULL` on ACTIVE items and flags it RED.
+Note: audio URL lives inside `prompt_content → audio_url` JSON field AND optionally in the `media_url` DB column.
+An item without audio cannot be served to students — it is effectively broken.
+Inserting Listening items without audio is like writing a dialogue without recording it.
+
+---
+
+### After inserting ANY items (all types):
+
+Confirm the item count increased as expected:
+```python
+# Run this and show the output to the user
+SELECT task_type, COUNT(*) FROM test_items
+WHERE lifecycle_status='DRAFT' OR lifecycle_status='ACTIVE'
+GROUP BY task_type ORDER BY task_type;
+```
+
+---
+
+### After inserting MCQ items that passed Gold review:
+
+Invoke `irt_item_graduation` to promote them from DRAFT → ACTIVE.
+Do NOT do this automatically — wait for the user to confirm review passed.
+
+---
+
 ## Relationship to Other Skills
 
-- **Alfred** supervises item_writer — he triggers it when counts drop
-- **mcq_item_quality** is item_writer's mandatory quality gate
-- **irt_item_graduation** runs AFTER items are approved, promoting DRAFT → ACTIVE
-- **toefl_voice_direction** is called for any item that needs audio generation
+| Skill | When item_writer calls it | Mandatory? |
+|-------|--------------------------|------------|
+| `mcq_item_quality` | Before every MCQ insert (Step 4) | ✅ Yes |
+| `audio_generator` | Immediately after inserting any Listening/Speaking item | ✅ Yes — do not skip |
+| `irt_item_graduation` | After items pass ETS Gold review (user confirms) | 🔲 Wait for user |
+| `toefl_voice_direction` | audio_generator reads this — not called directly | indirect |
+| **Alfred** | Supervises item_writer — monitors counts, not invoked by item_writer | n/a |
+

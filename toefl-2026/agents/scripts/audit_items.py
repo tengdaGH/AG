@@ -1,8 +1,23 @@
 # ============================================================
-# Purpose:       Quick structural and quality audit of all reading + listening MCQ items. Checks data structure, audio availability, and option quality.
+# Purpose:       Quick structural and quality audit of all reading + listening MCQ items.
+#                Checks data structure, audio availability, and option quality.
 # Usage:         python agents/scripts/audit_items.py
 # Created:       2026-02-25
+# Schema ref:    backend/app/models/models.py (verified 2026-02-28)
 # Self-Destruct: No
+#
+# SCHEMA NOTES (CRITICAL — read before editing checks):
+#   - test_items has NO 'title', 'options', 'correct_answer', or 'cefr_level' columns.
+#   - All content lives inside prompt_content (TEXT field, parsed as JSON):
+#       title, text, questions, audio_url, correct_answer (inside each question)
+#   - DB columns: id, section, task_type, target_level, irt_difficulty, irt_discrimination,
+#       prompt_content, media_url, lifecycle_status, is_active, exposure_count, etc.
+#   - task_type enum values: READ_ACADEMIC_PASSAGE, READ_IN_DAILY_LIFE, COMPLETE_THE_WORDS,
+#       BUILD_A_SENTENCE, WRITE_ACADEMIC_DISCUSSION, WRITE_AN_EMAIL, TAKE_AN_INTERVIEW,
+#       LISTEN_AND_REPEAT, LISTEN_CHOOSE_RESPONSE, LISTEN_ACADEMIC_TALK,
+#       LISTEN_ANNOUNCEMENT, LISTEN_CONVERSATION
+#   - Open-response types (TAKE_AN_INTERVIEW, WRITE_*, LISTEN_AND_REPEAT) have NO
+#       correct_answer in questions — they are scored by rubric. Do NOT flag as error.
 # ============================================================
 import sys, os, json, re
 from collections import Counter
@@ -107,12 +122,17 @@ for item in listening:
     if not qs:
         probs.append("NO_QUESTIONS")
     else:
+        # Open-response task types do not have a correct_answer key — skip answer check
+        OPEN_RESPONSE_TYPES = {
+            TaskType.TAKE_AN_INTERVIEW,
+            TaskType.LISTEN_AND_REPEAT,
+        }
         for qi, q in enumerate(qs):
             if not q.get('text', q.get('question', '')):
                 probs.append(f"Q{qi+1}_NO_TEXT")
-            if len(q.get('options', [])) < 2:
+            if len(q.get('options', [])) < 2 and tt not in OPEN_RESPONSE_TYPES:
                 probs.append(f"Q{qi+1}_FEW_OPTS")
-            if q.get('correct_answer', q.get('answer')) is None:
+            if tt not in OPEN_RESPONSE_TYPES and q.get('correct_answer', q.get('answer')) is None:
                 probs.append(f"Q{qi+1}_NO_ANS")
 
         # Option quality checks (apply to MCQ types with ≥2 options)
@@ -179,8 +199,11 @@ for item in reading:
             probs.append(f"PASSAGE_SHORT({twc}w)")
 
     qs = c.get('questions', [])
-    if not qs and not is_disc and not c.get('task') and not c.get('prompt'):
+    # Open-response writing task types have no MCQ questions or correct_answer by design
+    OPEN_RESPONSE_READ_TYPES = {TaskType.WRITE_ACADEMIC_DISCUSSION, TaskType.WRITE_AN_EMAIL}
+    if not qs and not is_disc and not c.get('task') and not c.get('prompt') and tt not in OPEN_RESPONSE_READ_TYPES:
         probs.append("NO_QUESTIONS")
+    # title lives inside prompt_content JSON — c.get('title') is the correct check
     if not c.get('title'):
         probs.append("NO_TITLE")
 
