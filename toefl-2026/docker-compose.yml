@@ -1,0 +1,35 @@
+version: '3.8'
+
+services:
+  backend:
+    build: 
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: toefl_backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    volumes:
+      - toefl_db_data:/app/data  # Securely mounts the SQLite database on the server
+    environment:
+      # If you were using PostgreSQL, you'd put the credentials here. 
+      # With SQLite, we just ensure it writes to the mounted volume.
+      - DATABASE_URL=sqlite:////app/data/toefl.db
+
+  frontend:
+    build: 
+      context: ./frontend
+      dockerfile: Dockerfile
+      args:
+        # We will dynamically pass your server's IP address here during build
+        - NEXT_PUBLIC_API_URL=http://${SERVER_IP:-localhost}:8000
+    container_name: toefl_frontend
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  toefl_db_data:
+    name: toefl_db_data # Persistent storage for your test bank and student responses
