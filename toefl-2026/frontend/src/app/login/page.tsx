@@ -48,7 +48,7 @@ export default function LoginPage() {
                 localStorage.setItem('student_id', userData.student_id);
                 localStorage.setItem('user_id', userData.user_id);
 
-                router.push('/dashboard/student');
+                router.push('/test-session/full');
             } catch (err: any) {
                 setError(err.message || 'Authentication error');
             } finally {
