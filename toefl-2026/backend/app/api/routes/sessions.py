@@ -118,12 +118,32 @@ def get_test_session_results(session_id: str, db: Session = Depends(get_db)):
                 max_pts = float(q.max_score or 5.0)
                 stats[sec_key]["correct"] += (float(r.rubric_score) / max_pts)
 
+        student_ans_str = r.student_raw_response
+        correct_ans_str = q.correct_answer or "N/A"
+        
+        if q.options and isinstance(q.options, list):
+            if student_ans_str and student_ans_str.isdigit():
+                try:
+                    idx = int(student_ans_str)
+                    if 0 <= idx < len(q.options):
+                        student_ans_str = q.options[idx]
+                except ValueError:
+                    pass
+                    
+            if q.correct_answer and q.correct_answer.isdigit():
+                try:
+                    idx = int(q.correct_answer)
+                    if 0 <= idx < len(q.options):
+                        correct_ans_str = q.options[idx]
+                except ValueError:
+                    pass
+
         detailed_responses.append({
             "section": sec_key,
             "task_type": i.task_type,
             "questionText": q.question_text or "Audio/Passage Question",
-            "studentAnswer": r.student_raw_response,
-            "correctAnswer": q.correct_answer or "N/A",
+            "studentAnswer": student_ans_str,
+            "correctAnswer": correct_ans_str,
             "isCorrect": r.is_correct,
             "rubricScore": r.rubric_score
         })

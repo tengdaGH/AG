@@ -16,7 +16,7 @@ export const CustomAudioPlayer: React.FC<CustomAudioPlayerProps> = ({
     resumeFromMs = 0
 }) => {
     const audioRef = useRef<HTMLAudioElement>(null);
-    const [progress, setProgress] = useState(0);
+    const progressRef = useRef<HTMLDivElement>(null);
 
     const onEndedRef = useRef(onEnded);
     useEffect(() => {
@@ -32,7 +32,9 @@ export const CustomAudioPlayer: React.FC<CustomAudioPlayerProps> = ({
             if (audioEl && isFinite(audioEl.duration) && audioEl.duration > 0) {
                 const current = audioEl.currentTime;
                 const total = audioEl.duration;
-                setProgress((current / total) * 100);
+                if (progressRef.current) {
+                    progressRef.current.style.width = `${(current / total) * 100}%`;
+                }
             }
             animFrameId = requestAnimationFrame(updateProgress);
         };
@@ -49,7 +51,7 @@ export const CustomAudioPlayer: React.FC<CustomAudioPlayerProps> = ({
         };
 
         const handleEnded = () => {
-            setProgress(100);
+            if (progressRef.current) progressRef.current.style.width = '100%';
             onEndedRef.current();
         };
 
@@ -79,12 +81,14 @@ export const CustomAudioPlayer: React.FC<CustomAudioPlayerProps> = ({
                 overflow: 'hidden',
                 pointerEvents: 'none' // STRICT: Clicking progress bar does absolutely nothing
             }}>
-                <div style={{
-                    height: '100%',
-                    width: `${progress}%`,
-                    backgroundColor: '#005587', // ETS Primary Blue
-                    transition: 'width 0.1s linear'
-                }} />
+                <div
+                    ref={progressRef}
+                    style={{
+                        height: '100%',
+                        width: '0%',
+                        backgroundColor: '#005587', // ETS Primary Blue
+                    }}
+                />
             </div>
             <div style={{ fontSize: '12px', color: '#5E6A75', marginTop: '8px', textAlign: 'center' }}>
                 Audio is playing. You cannot pause or replay the audio.

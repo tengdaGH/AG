@@ -10,6 +10,7 @@ interface InterviewUIProps {
     uploadUrl: string;
     questionId: string;
     sessionId: string;
+    onComplete?: () => void;
 }
 
 export const InterviewUI: React.FC<InterviewUIProps> = ({
@@ -18,7 +19,8 @@ export const InterviewUI: React.FC<InterviewUIProps> = ({
     maxRecordTimeSeconds,
     uploadUrl,
     questionId,
-    sessionId
+    sessionId,
+    onComplete
 }) => {
     // idle -> prompt -> recording -> done
     const [state, setState] = useState<'IDLE' | 'PROMPT' | 'RECORDING' | 'DONE'>('IDLE');
@@ -80,8 +82,11 @@ export const InterviewUI: React.FC<InterviewUIProps> = ({
         } else if (state === 'RECORDING' && secondsLeft <= 0) {
             setState('DONE');
             stopRecording();
+            if (onComplete) {
+                setTimeout(() => onComplete(), 1500); // 1.5s delay before jumping to next question 
+            }
         }
-    }, [state, secondsLeft, stopRecording]);
+    }, [state, secondsLeft, stopRecording, onComplete]);
 
     return (
         <div style={{

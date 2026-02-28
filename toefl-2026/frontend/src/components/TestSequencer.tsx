@@ -150,6 +150,13 @@ function scoreItems(items: ParsedItem[], responses: Record<string, any>): { corr
             const numGaps = qsToScore.length || 10;
             total += numGaps;
 
+            const raw = item.content?.text || item.content?.stimulus || '';
+            const blanks: { p: string, s: string }[] = [];
+            raw.replace(/(\S*?)(_+)(\S*)/g, (_m: string, p: string, u: string, s: string) => {
+                blanks.push({ p, s });
+                return _m;
+            });
+
             for (let i = 0; i < qsToScore.length; i++) {
                 const q = qsToScore[i];
                 const expected = q.correct_answer;
@@ -164,8 +171,15 @@ function scoreItems(items: ParsedItem[], responses: Record<string, any>): { corr
                     } catch { }
                 }
 
-                if (userAns && String(userAns).trim().toLowerCase() === String(expected).trim().toLowerCase()) {
-                    correct++;
+                if (userAns !== undefined && userAns !== null) {
+                    const uAnsStr = String(userAns).trim().toLowerCase();
+                    const expStr = String(expected).trim().toLowerCase();
+                    const b = blanks[i] || { p: '', s: '' };
+                    const combined = (b.p + uAnsStr + b.s).toLowerCase();
+
+                    if (uAnsStr === expStr || combined === expStr || combined.replace(/[^a-z]/g, '') === expStr.replace(/[^a-z]/g, '')) {
+                        correct++;
+                    }
                 }
             }
         } else if (item.task_type === 'BUILD_A_SENTENCE') {
@@ -391,7 +405,16 @@ export const TestSequencer: React.FC = () => {
                         <StatBox label="TIME LIMIT" value={`${Math.floor(s.time / 60)}m`} />
                         {(sec === 'READING' || sec === 'LISTENING') && <StatBox label="ADAPTIVE" value="MST" />}
                     </div>
-                    <button onClick={() => setPhase('TEST')}
+                    <button onClick={async () => {
+                        if (sec === 'SPEAKING') {
+                            try {
+                                await navigator.mediaDevices.getUserMedia({ audio: true });
+                            } catch (e) {
+                                console.error("Mic access denied or error", e);
+                            }
+                        }
+                        setPhase('TEST');
+                    }}
                         style={{ padding: '18px 64px', fontSize: 18, fontWeight: 700, borderRadius: 50, border: 'none', background: 'white', color: THEME.teal, cursor: 'pointer', boxShadow: '0 10px 30px rgba(0,0,0,.25)', transition: 'transform .15s' }}
                         onMouseEnter={e => e.currentTarget.style.transform = 'scale(1.05)'}
                         onMouseLeave={e => e.currentTarget.style.transform = 'scale(1)'}
@@ -638,8 +661,20 @@ function renderItem(item: ParsedItem, onNext: () => void, save: (data: Record<st
                     }}
                 /></div>;
         }
-        case 'WRITE_AN_EMAIL':
-            return <WriteEmail promptHTML={`<p>${c.scenario || ''}</p><ul>${(c.bullets || []).map((b: string) => `<li>${b}</li>`).join('')}</ul>`} onSave={t => setAnswer(item.id, t)} emailSubject={c.topic || ''} emailTo={c.emailTo || ''} />;
+        case 'WRITE_AN_EMAIL': {
+            const bulletsHtml = (c.bullets || []).map((b: string) => `<li style="margin-bottom:6px;">${b}</li>`).join('');
+            const emailPromptHtml = `
+                <div style="font-family: Arial, sans-serif; font-size: 16px;">
+                    <h3 style="margin-top:0; color:#005587;">Directions:</h3>
+                    <p style="margin-bottom:20px;">Read the scenario below and write an email to the specified recipient.</p>
+                    <h3 style="color:#005587;">Scenario:</h3>
+                    <p style="margin-bottom:20px; line-height:1.5;">${c.scenario || ''}</p>
+                    <h3 style="color:#005587;">Your email should do the following:</h3>
+                    <ul style="margin-left: 20px; line-height: 1.5;">${bulletsHtml}</ul>
+                </div>
+            `;
+            return <WriteEmail promptHTML={emailPromptHtml} onSave={t => setAnswer(item.id, t)} emailSubject={c.topic || ''} emailTo={c.emailTo || ''} />;
+        }
         case 'WRITE_ACADEMIC_DISCUSSION':
             return <WriteAcademicDiscussion professorPromptHTML={c.professor_prompt || ''} studentPosts={[{ id: '1', authorName: c.student_1_name || 'A', text: c.student_1_response || '' }, { id: '2', authorName: c.student_2_name || 'B', text: c.student_2_response || '' }]} onSave={t => setAnswer(item.id, t)} />;
         case 'LISTEN_AND_REPEAT': {
@@ -674,12 +709,28 @@ function renderItem(item: ParsedItem, onNext: () => void, save: (data: Record<st
                 targetImage = "/images/office_listen_repeat_1772228224438.png";
             }
 
-            return <ListenRepeat imageUrl={targetImage} imageAlt={c.title || "Speaking"} audioUrl={audioUrl} />;
+            return <ListenRepeat
+                imageUrl={targetImage}
+                imageAlt={c.title || "Speaking"}
+                audioUrl={audioUrl}
+                questionId={item.questions?.[0]?.id || item.id}
+                sessionId={sessionId || 'demo_session'}
+                uploadUrl={`${API_BASE_URL}/api/audio/upload`}
+                onComplete={onNext}
+            />;
         }
         case 'TAKE_AN_INTERVIEW': {
             const audioPath = c.audio_url || c.questions?.[0]?.audio_url || c.questions?.[0]?.audioUrl || '';
             const audioUrl = audioPath ? (audioPath.startsWith('/') || audioPath.startsWith('http') ? audioPath : '/' + audioPath) : '';
-            return <InterviewUI promptAudioUrl={audioUrl} imageUrl={c.speakerImageUrl || "/images/speaker_unisex.png"} maxRecordTimeSeconds={45} uploadUrl={`${API_BASE_URL}/api/audio/upload`} questionId={item.questions?.[0]?.id || item.id} sessionId={sessionId || 'demo_session'} />;
+            return <InterviewUI
+                promptAudioUrl={audioUrl}
+                imageUrl={c.speakerImageUrl || "/images/speaker_unisex.png"}
+                maxRecordTimeSeconds={45}
+                uploadUrl={`${API_BASE_URL}/api/audio/upload`}
+                questionId={item.questions?.[0]?.id || item.id}
+                sessionId={sessionId || 'demo_session'}
+                onComplete={onNext}
+            />;
         }
         default:
             return <div style={{ padding: 80, textAlign: 'center' }}>Unknown: <strong>{item.task_type}</strong></div>;

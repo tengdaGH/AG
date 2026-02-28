@@ -1,43 +1,42 @@
 #!/bin/bash
-set -e
 
-echo "🚀 Starting TOEFL 2026 Deployment..."
+# Configuration
+USER="root"
+HOST="101.32.187.39"
+PROJECT_DIR="/root/AG" # Top-level repo directory
+REMOTE_SSH="ssh -o StrictHostKeyChecking=no $USER@$HOST"
 
-# 1. Install Docker & Git if missing
-if ! command -v docker &> /dev/null; then
-    echo "📦 Installing Docker and Docker Compose..."
-    sudo apt-get update
-    sudo apt-get install -y docker.io git curl
-    sudo systemctl start docker
-    sudo systemctl enable docker
-    sudo curl -L "https://github.com/docker/compose/releases/download/v2.29.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
-    sudo chmod +x /usr/local/bin/docker-compose
+echo "========================================="
+echo "  Deploying to Tencent Cloud ($HOST)...  "
+echo "========================================="
+
+# 1. Ensure local changes are pushed
+echo "[1/3] Checking Git status..."
+git fetch
+if [ $(git rev-list HEAD...origin/main --count) -gt 0 ]; then
+    echo "⚠️  You have unpushed commits! Please run 'git push' first."
+    exit 1
 fi
+echo "✅ Local branch is up-to-date with remote."
 
-# 2. Clone or pull repository
-if [ ! -d "AG" ]; then
-    echo "⬇️ Cloning codebase..."
-    git clone https://github.com/tengdaGH/AG.git
-else
-    echo "🔄 Updating codebase..."
-    cd AG
+# 2. Trigger pull and restart remotely
+echo "[2/3] Processing update on remote server..."
+$REMOTE_SSH << 'EOF'
+    set -e
+    cd /root/AG/
+    echo "--> Pulling latest changes from GitHub..."
     git pull origin main
-    cd ..
-fi
+    
+    cd toefl-2026/
+    echo "--> Restarting Docker containers..."
+    docker-compose down
+    docker-compose up -d --build
+    
+    echo "--> Cleanup unused images..."
+    docker image prune -f
+    
+    echo "✅ Services restarted successfully!"
+EOF
 
-# 3. Enter the project folder
-cd AG/toefl-2026
-
-# Detect the server's public IP dynamically
-export SERVER_IP=$(curl -s http://icanhazip.com)
-echo "🌍 Server IP detected as: $SERVER_IP"
-
-# 4. Build and start via Docker Compose
-echo "🐳 Building and starting containers... (This may take a few minutes for the first run)"
-sudo -E /usr/local/bin/docker-compose up -d --build
-
-echo "==============================================="
-echo "✅ DEPLOYMENT SUCCESSFUL!"
-echo "🟢 Your TOEFL 2026 Platform is now LIVE at:"
-echo "👉 http://$SERVER_IP:3000/login"
-echo "==============================================="
+echo "[3/3] Deployment complete! 🎉"
+echo "========================================="

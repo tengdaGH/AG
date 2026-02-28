@@ -6,18 +6,22 @@ export interface ListenRepeatProps {
     imageUrl: string;
     imageAlt?: string;
     audioUrl?: string;     // URL for the stimulus audio
+    questionId: string;
+    sessionId: string;
+    uploadUrl: string;
+    onComplete?: () => void;
     onAudioEnd?: () => void;
 }
 
-export function ListenRepeat({ imageUrl, imageAlt = "Listen and repeat context", audioUrl, onAudioEnd }: ListenRepeatProps) {
+export function ListenRepeat({ imageUrl, imageAlt = "Listen and repeat context", audioUrl, questionId, sessionId, uploadUrl, onComplete, onAudioEnd }: ListenRepeatProps) {
     const { t } = useLanguage();
     const [state, setState] = useState<'LISTENING' | 'BEEP' | 'RECORDING' | 'DONE'>('LISTENING');
-    const [secondsLeft, setSecondsLeft] = useState(15);
+    const [secondsLeft, setSecondsLeft] = useState(15); // Adjust time here if necessary
     const audioRef = useRef<HTMLAudioElement>(null);
     const audioContextRef = useRef<AudioContext | null>(null);
 
     // The secure WebRTC audio chunking protocol
-    const { isRecording, startRecording, stopRecording } = useMediaRecorderChunking('ws://localhost:8000/ws/audio');
+    const { isRecording, startRecording, stopRecording } = useMediaRecorderChunking(uploadUrl, questionId, sessionId);
     const translation = t('test.listenAndRepeatOnlyOnce');
     const instructionText = translation === 'test.listenAndRepeatOnlyOnce' ? 'Listen and repeat only once.' : translation;
 
@@ -72,8 +76,11 @@ export function ListenRepeat({ imageUrl, imageAlt = "Listen and repeat context",
             setState('DONE');
             stopRecording();
             onAudioEnd?.();
+            if (onComplete) {
+                setTimeout(() => onComplete(), 1500); // Wait 1.5s to show 'Done'
+            }
         }
-    }, [state, secondsLeft, stopRecording, onAudioEnd]);
+    }, [state, secondsLeft, stopRecording, onAudioEnd, onComplete]);
 
     return (
         <div style={{
