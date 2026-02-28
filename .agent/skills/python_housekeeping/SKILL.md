@@ -83,6 +83,33 @@ rm /path/to/project/temp/my_script.py
 
 ---
 
+## Rule 4: Database Naming — Mandatory
+
+This project has exactly **two** operational databases. Always use the correct filename. Using the wrong one is a critical error.
+
+| Database | Filename | Purpose |
+|----------|----------|---------|
+| **Item Bank** | `backend/item_bank.db` | All test items — questions, passages, IRT parameters |
+| **Student Data** | `backend/user_data.db` | Student sessions, responses, scores, event logs |
+
+**When writing any script that opens a database:**
+
+```python
+# ✅ Correct — item bank
+DB = os.path.join(os.path.dirname(__file__), '../item_bank.db')
+
+# ✅ Correct — student data
+USER_DB = os.path.join(os.path.dirname(__file__), '../user_data.db')
+
+# ❌ These names no longer exist — never use them:
+# toefl_2026.db  |  toefl_item_bank.db  |  toefl_user_data.db
+```
+
+> [!CAUTION]
+> Never run item bank audit scripts against `user_data.db` and vice versa. The two databases have completely different schemas. See `specs/database_guide.md` for the full architecture reference.
+
+---
+
 ## Summary Checklist
 
 Before writing any Python script, confirm:
@@ -91,3 +118,4 @@ Before writing any Python script, confirm:
 - [ ] The file starts with the mandatory 4-line header block.
 - [ ] The `Self-Destruct` field is set to `Yes` or `No`.
 - [ ] If `Yes`, a plan exists to delete the file after successful execution.
+- [ ] If the script accesses a database, it uses **`item_bank.db`** (items) or **`user_data.db`** (students) — never an old name.
