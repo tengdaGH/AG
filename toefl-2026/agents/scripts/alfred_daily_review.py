@@ -275,6 +275,8 @@ def check_deployment():
         lines.append("Git: ⚠ could not compare heads")
 
     # Port 8000 process check
+    # NOTE: uvicorn --reload spawns 2 PIDs (parent + reload worker). This is normal.
+    # Ghost process = 3+ PIDs, meaning an orphaned previous uvicorn is still holding the port.
     procs = run("lsof -ti :8000 | wc -l").strip()
     proc_count = int(procs) if procs.isdigit() else 0
     lines.append(f"Processes on port 8000: **{proc_count}**")
@@ -282,11 +284,14 @@ def check_deployment():
         flag("yellow", "Port 8000: no process running locally — backend is down",
              "Run: cd backend && source venv/bin/activate && uvicorn app.main:app --reload")
     elif proc_count <= 2:
-        # 1 = production mode, 2 = --reload mode (parent + worker) — both healthy
-        flag("green", f"Port 8000: {proc_count} process(es) — backend running normally")
+        # 1 = production mode (uvicorn without --reload)
+        # 2 = --reload mode (parent supervisor + 1 worker) — both are healthy
+        label = "production mode" if proc_count == 1 else "--reload mode (parent + worker)"
+        flag("green", f"Port 8000: {proc_count} process(es) — backend healthy ({label})")
     else:
-        flag("red", f"Port 8000: {proc_count} processes detected — ghost process risk!",
-             "Run: kill $(lsof -ti :8000) && restart backend — stale processes from unclean restarts")
+        # 3+ PIDs = a previous uvicorn was not killed cleanly before a new one started
+        flag("red", f"Port 8000: {proc_count} PIDs detected — probable ghost process from unclean restart!",
+             "Run: kill $(lsof -ti :8000) && cd backend && source venv/bin/activate && uvicorn app.main:app --reload")
 
     # .env.local check (should NOT exist — it breaks cloud connectivity)
     env_local = os.path.join(FRONTEND_DIR, ".env.local")
@@ -362,7 +367,55 @@ def check_codebase():
     section("Codebase Hygiene", lines)
 
 
-# ── PILLAR 5: Priorities ───────────────────────────────────────────────────────
+# ── PILLAR 5: Agent Cadence Checks ────────────────────────────────────────────
+def check_agent_cadence():
+    """Verify that scheduled sub-agents have run within their required windows."""
+    lines = []
+
+    # scoring_auditor — must run weekly
+    audits_dir = os.path.join(PROJECT_ROOT, "logs", "scoring_audits")
+    os.makedirs(audits_dir, exist_ok=True)
+    audit_files = sorted([
+        f for f in os.listdir(audits_dir) if f.endswith(".md")
+    ]) if os.path.isdir(audits_dir) else []
+
+    if not audit_files:
+        flag("yellow", "scoring_auditor: never run — no audit log found in logs/scoring_audits/",
+             "Run: python3 agents/scripts/scoring_audit.py")
+        lines.append("scoring_auditor: ⚠ never run")
+    else:
+        latest_audit = audit_files[-1]  # e.g. "2026-02-28.md"
+        try:
+            audit_date_str = latest_audit.replace(".md", "")
+            audit_date = datetime.datetime.strptime(audit_date_str, "%Y-%m-%d")
+            days_ago = (datetime.datetime.now() - audit_date).days
+            if days_ago <= 7:
+                flag("green", f"scoring_auditor: last run {days_ago}d ago ({audit_date_str}) — on schedule")
+                lines.append(f"scoring_auditor: ✅ last run {days_ago}d ago")
+            else:
+                flag("yellow", f"scoring_auditor: last run {days_ago} days ago — overdue (run weekly)",
+                     "Run: python3 agents/scripts/scoring_audit.py")
+                lines.append(f"scoring_auditor: ⚠ {days_ago}d ago — overdue")
+        except ValueError:
+            lines.append(f"scoring_auditor: ⚠ could not parse date from {latest_audit}")
+
+    # Synthetic data check — SYN_ users must not be in production user_data.db
+    if os.path.exists(USER_DATA_DB):
+        rows = db_query(USER_DATA_DB,
+            "SELECT COUNT(*) FROM students WHERE username LIKE 'SYN_%'")
+        syn_count = safe_int(rows)
+        if syn_count > 0:
+            flag("yellow", f"Synthetic data: {syn_count} SYN_ test users found in user_data.db — clean before production",
+                 "Run: python3 agents/scripts/seed_student_sessions.py --purge-synthetic")
+            lines.append(f"Synthetic data: ⚠ {syn_count} SYN_ users present")
+        else:
+            flag("green", "Synthetic data: no SYN_ test users in production DB")
+            lines.append("Synthetic data: ✅ clean")
+
+    section("Agent Cadence", lines)
+
+
+# ── PILLAR 6: Priorities ───────────────────────────────────────────────────────
 def compute_priorities():
     """Derive top priorities from red+yellow flags."""
     priorities = []
@@ -457,6 +510,10 @@ def main():
 
     print("Checking codebase...", end="", flush=True)
     check_codebase()
+    print(" done")
+
+    print("Checking agent cadence...", end="", flush=True)
+    check_agent_cadence()
     print(" done")
 
     brief = build_brief()
