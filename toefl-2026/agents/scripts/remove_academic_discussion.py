@@ -7,7 +7,7 @@
 import sqlite3
 import os
 
-db_path = '/Users/tengda/Antigravity/toefl-2026/backend/toefl_2026.db'
+db_path = '/Users/tengda/Antigravity/toefl-2026/backend/item_bank.db'
 
 def remove_academic_discussion_items():
     if not os.path.exists(db_path):

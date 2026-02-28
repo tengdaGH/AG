@@ -11,7 +11,7 @@ import re
 import uuid
 
 LEGACY_PATH = "/Users/tengda/Documents/Cursor Code"
-DB_PATH = "/Users/tengda/Antigravity/toefl-2026/backend/toefl_2026.db"
+DB_PATH = "/Users/tengda/Antigravity/toefl-2026/backend/item_bank.db"
 
 SOURCE_FILES = [
     "toefl-listen-repeat-practice.html",

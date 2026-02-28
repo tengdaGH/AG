@@ -15,7 +15,7 @@ except ImportError:
     print("Error: Could not import log_audio.py")
     sys.exit(1)
 
-DB_PATH = os.path.join(PROJECT_ROOT, "backend/toefl_2026.db")
+DB_PATH = os.path.join(PROJECT_ROOT, "backend/item_bank.db")
 LOG_PATH = os.path.join(PROJECT_ROOT, "audio/audio_voice_log.jsonl")
 
 set_log_path(LOG_PATH)

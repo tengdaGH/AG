@@ -76,7 +76,7 @@ def generate_conversation_audio(dialogue_script, speaker_mapping, filename, max_
     return False
 
 def process_items():
-    db_path = "/Users/tengda/Antigravity/toefl-2026/backend/toefl_2026.db"
+    db_path = "/Users/tengda/Antigravity/toefl-2026/backend/item_bank.db"
     conn = sqlite3.connect(db_path)
     cur = conn.cursor()
 

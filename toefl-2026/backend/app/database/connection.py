@@ -5,7 +5,7 @@ import os
 # For MVP, we'll use SQLite instead of full postgres just to get the schemas wired without a container requirement.
 # Wait, the requirements said PostgreSQL. Let's use standard SQLAlchemy with a mock pg connection string.
 # In a real environment, this comes from os.getenv("DATABASE_URL")
-db_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../toefl_2026.db"))
+db_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../item_bank.db"))
 SQLALCHEMY_DATABASE_URL = os.getenv("DATABASE_URL", f"sqlite:///{db_path}")
 
 engine = create_engine(
@@ -19,7 +19,7 @@ Base = declarative_base()
 # ──────────────────────────────────────────────────────────────────────────────
 # USER PRODUCTION DATABASE (Segregated from Question Bank)
 # ──────────────────────────────────────────────────────────────────────────────
-user_db_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../toefl_user_data.db"))
+user_db_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../user_data.db"))
 SQLALCHEMY_USER_DATABASE_URL = os.getenv("USER_DATABASE_URL", f"sqlite:///{user_db_path}")
 
 user_engine = create_engine(

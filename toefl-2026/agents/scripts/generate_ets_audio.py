@@ -81,7 +81,7 @@ ROOT_AUDIO      = os.path.join(PROJECT_ROOT, "audio")
 for d in [PUB_LISTENING, PUB_SPEAKING, PUB_INTERVIEW, ROOT_AUDIO]:
     os.makedirs(d, exist_ok=True)
 
-DB_PATH = os.path.join(BACKEND_DIR, "toefl_2026.db")
+DB_PATH = os.path.join(BACKEND_DIR, "item_bank.db")
 
 # ─── Voice Catalog (per toefl_voice_direction skill) ────────────────────────
 

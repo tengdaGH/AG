@@ -12,7 +12,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Point to the question bank copied inside the image
-ENV DATABASE_URL="sqlite:////app/toefl_2026.db"
+ENV DATABASE_URL="sqlite:////app/item_bank.db"
 
 EXPOSE 8000
 

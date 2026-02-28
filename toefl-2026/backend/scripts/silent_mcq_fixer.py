@@ -58,7 +58,7 @@ def remediate_options(options, correct, target_ratio=1.5):
     return new_options, modified
 
 def run_fixing_batch(batch_size=20):
-    db_path = os.path.join(os.path.dirname(__file__), '..', 'toefl_2026.db')
+    db_path = os.path.join(os.path.dirname(__file__), '..', 'item_bank.db')
     conn = sqlite3.connect(db_path)
     cur = conn.cursor()
     

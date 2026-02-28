@@ -24,7 +24,7 @@ async def generate_line_audio(text, voice, out_path):
     return result.get('status') == 'success'
 
 async def process_items():
-    db_path = "/Users/tengda/Antigravity/toefl-2026/backend/toefl_2026.db"
+    db_path = "/Users/tengda/Antigravity/toefl-2026/backend/item_bank.db"
     conn = sqlite3.connect(db_path)
     cur = conn.cursor()
 

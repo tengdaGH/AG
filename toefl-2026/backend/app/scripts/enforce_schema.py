@@ -20,7 +20,7 @@ sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../.
 
 from app.services.prompt_schema import enforce_all
 
-DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../toefl_2026.db"))
+DB_PATH = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../item_bank.db"))
 
 
 def main() -> None:

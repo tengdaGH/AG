@@ -9,7 +9,7 @@ import sqlite3
 import os
 
 json_path = '/Users/tengda/Antigravity/toefl-2026/data/writing-academic-discussion-prompts.json'
-db_path = '/Users/tengda/Antigravity/toefl-2026/backend/toefl_2026.db'
+db_path = '/Users/tengda/Antigravity/toefl-2026/backend/item_bank.db'
 
 def is_fragmented(item):
     q = item.get('question', '').strip()

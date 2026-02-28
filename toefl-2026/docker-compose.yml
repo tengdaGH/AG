@@ -14,9 +14,9 @@ services:
       - ./uploads:/app/uploads # Persist local audio uploads without cloud storage
     environment:
       # Question Bank is baked into the Docker image
-      - DATABASE_URL=sqlite:////app/toefl_2026.db
+      - DATABASE_URL=sqlite:////app/item_bank.db
       # User Data is written to the persistent volume
-      - USER_DATABASE_URL=sqlite:////app/data/toefl_user_data.db
+      - USER_DATABASE_URL=sqlite:////app/data/user_data.db
 
   frontend:
     build:

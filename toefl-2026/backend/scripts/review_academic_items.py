@@ -225,7 +225,7 @@ def check_option_set(options: list, correct: int, passage: str) -> tuple[list, l
 # ──────────────────────────────────────────────────────────────────────────────
 
 def run_review():
-    conn = sqlite3.connect(os.path.join(os.path.dirname(__file__), '..', 'toefl_2026.db'))
+    conn = sqlite3.connect(os.path.join(os.path.dirname(__file__), '..', 'item_bank.db'))
     cur = conn.cursor()
     cur.execute("""
         SELECT id, target_level, generated_by_model, prompt_content
