@@ -104,7 +104,7 @@ export default function LoginPage() {
                         <CardContent>
                             <Input
                                 id="email"
-                                type="email"
+                                type="text"
                                 label={t('login.email')}
                                 placeholder="name@example.com"
                                 value={email}
