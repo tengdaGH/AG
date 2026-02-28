@@ -5,7 +5,7 @@ from sqlalchemy.orm import relationship
 from sqlalchemy.sql import func
 import enum
 
-from app.database.connection import Base
+from app.database.connection import Base, UserBase
 
 class UserRole(str, enum.Enum):
     ADMIN = 'ADMIN'
@@ -129,12 +129,12 @@ class TestItemQuestion(Base):
 
     test_item = relationship("TestItem", back_populates="questions")
 
-class TestSession(Base):
+class TestSession(UserBase):
     __tablename__ = "test_sessions"
 
     id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))
-    student_id = Column(String, ForeignKey("users.id"))
-    proctor_id = Column(String, ForeignKey("users.id"))
+    student_id = Column(String, index=True) # Was ForeignKey("users.id")
+    proctor_id = Column(String, index=True) # Was ForeignKey("users.id")
     start_time = Column(DateTime(timezone=True))
     end_time = Column(DateTime(timezone=True))
     status = Column(Enum(SessionStatus), default=SessionStatus.SCHEDULED)
@@ -171,7 +171,7 @@ class ItemVersionHistory(Base):
     timestamp = Column(DateTime(timezone=True), server_default=func.now())
 
 
-class TestResponse(Base):
+class TestResponse(UserBase):
     """
     Ledger for student responses, tying the TestSession to a specific TestItemQuestion.
     Holds the student's raw input, correct status, rubric score, and AI feedback.
@@ -179,8 +179,10 @@ class TestResponse(Base):
     __tablename__ = "test_responses"
 
     id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))
+    # Same database so FK is allowed
     session_id = Column(String, ForeignKey("test_sessions.id"), nullable=False)
-    question_id = Column(String, ForeignKey("test_item_questions.id"), nullable=False)
+    # Different database, so remove FK constraint
+    question_id = Column(String, index=True, nullable=False)
     student_raw_response = Column(Text, nullable=True)   # Written essay or S3 URL to audio
     is_correct = Column(Boolean, nullable=True)          # deterministic scoring
     rubric_score = Column(Integer, nullable=True)        # constructed response scoring
@@ -189,10 +191,10 @@ class TestResponse(Base):
     created_at = Column(DateTime(timezone=True), server_default=func.now())
 
     session = relationship("TestSession", backref="responses")
-    question = relationship("TestItemQuestion", backref="responses")
+    # question = relationship("TestItemQuestion", backref="responses") # Cross-DB relationship removed
 
 
-class TestEventLog(Base):
+class TestEventLog(UserBase):
     """
     High-frequency ETS Audit Log. Tracks every action: keystrokes, answers, 
     blur/focus events, item rendering, and audio playback.
@@ -201,8 +203,8 @@ class TestEventLog(Base):
 
     id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))
     session_id = Column(String, ForeignKey("test_sessions.id"), nullable=False, index=True)
-    student_id = Column(String, ForeignKey("users.id"), nullable=False)
-    question_id = Column(String, ForeignKey("test_item_questions.id"), nullable=True, index=True)
+    student_id = Column(String, index=True, nullable=False) # Was ForeignKey("users.id")
+    question_id = Column(String, index=True, nullable=True) # Was ForeignKey("test_item_questions.id")
     
     event_type = Column(String(50), nullable=False, index=True)
     event_data = Column(JSON, nullable=True)

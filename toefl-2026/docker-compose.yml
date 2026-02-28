@@ -10,11 +10,13 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - ./backend/toefl_2026.db:/app/data/toefl.db # Securely mounts the SQLite database on the server
+      - toefl_db_data:/app/data # Securely mounts an isolated volume for user data
+      - ./uploads:/app/uploads # Persist local audio uploads without cloud storage
     environment:
-      # If you were using PostgreSQL, you'd put the credentials here. 
-      # With SQLite, we just ensure it writes to the mounted volume.
-      - DATABASE_URL=sqlite:////app/data/toefl.db
+      # Question Bank is baked into the Docker image
+      - DATABASE_URL=sqlite:////app/toefl_2026.db
+      # User Data is written to the persistent volume
+      - USER_DATABASE_URL=sqlite:////app/data/toefl_user_data.db
 
   frontend:
     build:

@@ -11,8 +11,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 # Copy the rest of the backend code
 COPY . .
 
-# Specify when running in docker, we use a mounted volume path for DB if using sqlite
-ENV DATABASE_URL="sqlite:////app/data/toefl.db"
+# Point to the question bank copied inside the image
+ENV DATABASE_URL="sqlite:////app/toefl_2026.db"
 
 EXPOSE 8000
 

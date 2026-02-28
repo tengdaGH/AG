@@ -88,6 +88,10 @@ export const useTestStore = create<TestState>()(
                     const data = await response.json();
                     console.log("Submission successful:", data);
 
+                    // Add an artificial 5-second "breathing room" delay
+                    // so the user sees the "AI is analyzing" animation.
+                    await new Promise(resolve => setTimeout(resolve, 5000));
+
                     // We can route to a results view from the component
                     set({ isSubmitting: false });
                 } catch (error) {

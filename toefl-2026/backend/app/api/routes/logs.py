@@ -4,7 +4,7 @@ from typing import List, Dict, Optional, Any
 from pydantic import BaseModel
 from datetime import datetime
 
-from app.database.connection import get_db
+from app.database.connection import get_user_db
 from app.models.models import TestEventLog, TestSession
 
 router = APIRouter()
@@ -22,11 +22,11 @@ class BatchLogSubmission(BaseModel):
     logs: List[EventLogEntry]
 
 @router.post("/logs/batch", tags=["logs"])
-async def receive_batch_logs(submission: BatchLogSubmission, request: Request, db: Session = Depends(get_db)):
+async def receive_batch_logs(submission: BatchLogSubmission, request: Request, user_db: Session = Depends(get_user_db)):
     client_ip = request.client.host if request.client else None
     
     # 1. Optionally verify session exists
-    session = db.query(TestSession).filter(TestSession.id == submission.session_id).first()
+    session = user_db.query(TestSession).filter(TestSession.id == submission.session_id).first()
     if not session:
         raise HTTPException(status_code=404, detail="TestSession not found for logging")
 
@@ -51,7 +51,7 @@ async def receive_batch_logs(submission: BatchLogSubmission, request: Request, d
         new_logs.append(event_log)
         
     if new_logs:
-        db.bulk_save_objects(new_logs)
-        db.commit()
+        user_db.bulk_save_objects(new_logs)
+        user_db.commit()
 
     return {"status": "success", "inserted": len(new_logs)}

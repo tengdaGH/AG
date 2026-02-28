@@ -9,12 +9,13 @@ import math
 from sqlalchemy.orm import Session
 
 from app.services.gemini_service import evaluate_essay_with_gemini, evaluate_speech_with_gemini
-from app.database.connection import engine, Base, get_db
+from app.database.connection import engine, Base, get_db, user_engine, UserBase
 from app.models import models
 from app.api.routes import sessions, items, tts, ielts, audio, auth, logs
 
 # Create database tables
 Base.metadata.create_all(bind=engine)
+UserBase.metadata.create_all(bind=user_engine)
 
 app = FastAPI(title="TOEFL 2026 AI Scoring API", version="1.0.0")
 
