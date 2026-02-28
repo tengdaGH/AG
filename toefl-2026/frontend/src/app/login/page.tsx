@@ -15,32 +15,62 @@ export default function LoginPage() {
     const [password, setPassword] = useState('');
     const [role, setRole] = useState('STUDENT');
     const [loading, setLoading] = useState(false);
+    const [error, setError] = useState('');
 
-    const handleLogin = (e: React.FormEvent) => {
+    const handleLogin = async (e: React.FormEvent) => {
         e.preventDefault();
         setLoading(true);
+        setError('');
 
-        // Simulate API call
-        setTimeout(() => {
-            setLoading(false);
-            // Route to correct dashboard based on role selection
-            switch (role) {
-                case 'ADMIN':
-                    router.push('/dashboard/admin');
-                    break;
-                case 'STUDENT':
-                    router.push('/dashboard/student');
-                    break;
-                case 'RATER':
-                    router.push('/dashboard/rater');
-                    break;
-                case 'PROCTOR':
-                    router.push('/dashboard/proctor');
-                    break;
-                default:
-                    router.push('/');
+        if (role === 'STUDENT') {
+            try {
+                const response = await fetch('http://localhost:8000/api/auth/student-login', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        student_id: email,
+                        password: password,
+                    }),
+                });
+
+                if (!response.ok) {
+                    const data = await response.json();
+                    throw new Error(data.detail || 'Login failed');
+                }
+
+                const userData = await response.json();
+
+                // Save user data to localStorage so test components can retrieve their actual ID
+                localStorage.setItem('student_id', userData.student_id);
+                localStorage.setItem('user_id', userData.user_id);
+
+                router.push('/dashboard/student');
+            } catch (err: any) {
+                setError(err.message || 'Authentication error');
+            } finally {
+                setLoading(false);
             }
-        }, 800);
+        } else {
+            // Mock other roles since they aren't critical right now based on user feedback
+            setTimeout(() => {
+                setLoading(false);
+                switch (role) {
+                    case 'ADMIN':
+                        router.push('/dashboard/admin');
+                        break;
+                    case 'RATER':
+                        router.push('/dashboard/rater');
+                        break;
+                    case 'PROCTOR':
+                        router.push('/dashboard/proctor');
+                        break;
+                    default:
+                        router.push('/');
+                }
+            }, 800);
+        }
     };
 
     return (
@@ -64,6 +94,11 @@ export default function LoginPage() {
                         <CardHeader>
                             <CardTitle>{t('login.signInBtn')}</CardTitle>
                         </CardHeader>
+                        {error && (
+                            <div style={{ margin: '0 1.5rem', padding: '0.75rem', backgroundColor: '#fee2e2', color: '#b91c1c', borderRadius: '6px', fontSize: '0.875rem' }}>
+                                {error}
+                            </div>
+                        )}
                         <CardContent>
                             <Input
                                 id="email"
