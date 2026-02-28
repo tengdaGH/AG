@@ -31,6 +31,7 @@ Thumbs.db
 # Databases (local dev)
 *.db
 !*.db.example
+!toefl-2026/backend/toefl_2026.db
 
 # Logs
 *.log
