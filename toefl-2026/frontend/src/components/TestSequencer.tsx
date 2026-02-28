@@ -240,10 +240,23 @@ export const TestSequencer: React.FC = () => {
     const [routeInfo, setRouteInfo] = useState<{ score: number; total: number; path: string } | null>(null);
     const usedIds = useRef<Set<string>>(new Set());
 
-    // ── INIT: fetch Router modules + linear sections ──
+    // ── INIT: fetch Router modules + linear sections & Register Session ──
     useEffect(() => {
         (async () => {
             try {
+                // Register session in DB
+                const studentId = localStorage.getItem('user_id') || 'demo_student_id';
+                const sessionRes = await fetch(`${API_BASE_URL}/api/sessions`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ student_id: studentId })
+                });
+                if (sessionRes.ok) {
+                    const sessionData = await sessionRes.json();
+                    useTestStore.getState().setSessionId(sessionData.id);
+                }
+
+                // Load test items
                 const pool: ParsedItem[] = [];
                 pool.push(...await fetchSlots(READING_ROUTER, 'router', usedIds.current));
                 pool.push(...await fetchSlots(LISTENING_ROUTER, 'router', usedIds.current));
