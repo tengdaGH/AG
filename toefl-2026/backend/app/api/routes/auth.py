@@ -14,6 +14,14 @@ class StudentLoginRequest(BaseModel):
 async def student_login(credentials: StudentLoginRequest, db: Session = Depends(get_db)):
     # Since the user stated "student id and password I can generate manually",
     # we use the 'email' field to store the student ID.
+    ALLOWED_USERS = ['tengda', 'miya', 'liuyue', 'rita', 'fmingkang', 'haoyu']
+    
+    if credentials.student_id not in ALLOWED_USERS:
+        raise HTTPException(
+            status_code=status.HTTP_403_FORBIDDEN,
+            detail="Account not in the allowed list for this test phase.",
+        )
+        
     user = db.query(User).filter(
         User.email == credentials.student_id, 
         User.role == UserRole.STUDENT
