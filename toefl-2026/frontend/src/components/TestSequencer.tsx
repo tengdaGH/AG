@@ -260,7 +260,22 @@ export const TestSequencer: React.FC = () => {
     // ── INIT: fetch Router modules + linear sections & Register Session ──
     useEffect(() => {
         (async () => {
+            const store = useTestStore.getState();
+
+            // 1. Resumption Check: If there's an active session with loaded items, restore state immediately
+            if (store.sessionId && store.items && store.items.length > 0 && store.phase !== 'LOADING' && store.phase !== 'FINISHED') {
+                setItems(store.items);
+                setIdx(store.idx);
+                setSecIdx(store.secIdx);
+                setPhase(store.phase as Phase);
+                testLogger.logEvent('SESSION_RESUMED', undefined, { idx: store.idx, secIdx: store.secIdx });
+                return;
+            }
+
             try {
+                // Clear any residual local storage from a finished/aborted old test
+                useTestStore.getState().clearSession();
+
                 // Register session in DB
                 const studentId = localStorage.getItem('user_id') || 'demo_student_id';
                 const sessionRes = await fetch(`${API_BASE_URL}/api/sessions`, {
@@ -290,6 +305,13 @@ export const TestSequencer: React.FC = () => {
             } catch { setError('Backend connection failed.'); }
         })();
     }, []);
+
+    // ── STATE SYNC: Auto-save progression to persistent store ──
+    useEffect(() => {
+        if (items.length > 0) {
+            useTestStore.getState().setTestState({ phase, items, idx, secIdx });
+        }
+    }, [phase, items, idx, secIdx]);
 
     useEffect(() => {
         const handleKeyDown = (e: KeyboardEvent) => {
@@ -393,6 +415,7 @@ export const TestSequencer: React.FC = () => {
                 setSecIdx(prev => prev + 1);
                 setIdx(next);
                 setPhase('INTRO');
+                useTestStore.getState().setTestState({ expirationTimeMs: null });
             } else {
                 setIdx(next);
             }
@@ -414,6 +437,13 @@ export const TestSequencer: React.FC = () => {
             try { currentObj = JSON.parse(currentStr); } catch { /* ignore */ }
         }
         setAnswer(cur.id, JSON.stringify({ ...currentObj, ...data }));
+    };
+
+    const startTestPhase = () => {
+        if (!useTestStore.getState().expirationTimeMs) {
+            useTestStore.getState().setTestState({ expirationTimeMs: Date.now() + SEC[sec].time * 1000 });
+        }
+        setPhase('TEST');
     };
 
     /* ── RENDER PHASES ──────────────────────────────────────────────────── */
@@ -451,7 +481,7 @@ export const TestSequencer: React.FC = () => {
                         if (sec === 'SPEAKING') {
                             setPhase('MIC_CHECK');
                         } else {
-                            setPhase('TEST');
+                            startTestPhase();
                         }
                     }}
                         style={{ padding: '18px 64px', fontSize: 18, fontWeight: 700, borderRadius: 50, border: 'none', background: 'white', color: THEME.teal, cursor: 'pointer', boxShadow: '0 10px 30px rgba(0,0,0,.25)', transition: 'transform .15s' }}
@@ -479,7 +509,7 @@ export const TestSequencer: React.FC = () => {
                         <p style={{ fontSize: 18, fontStyle: 'italic', fontWeight: 600, color: THEME.teal, marginBottom: 24 }}>"Describe the city you live in."</p>
                         <MicVisualizer isRecording={true} color={THEME.teal} />
                     </div>
-                    <button onClick={() => setPhase('TEST')}
+                    <button onClick={startTestPhase}
                         style={{ padding: '16px 48px', fontSize: 16, fontWeight: 600, borderRadius: 50, border: 'none', background: THEME.teal, color: 'white', cursor: 'pointer', transition: 'background .2s', outline: 'none' }}
                         onMouseEnter={e => e.currentTarget.style.background = THEME.tealDark}
                         onMouseLeave={e => e.currentTarget.style.background = THEME.teal}
@@ -555,7 +585,7 @@ export const TestSequencer: React.FC = () => {
                         <span onClick={handleSecretLogoClick} style={{ fontWeight: 800, fontSize: 20, cursor: 'text', userSelect: 'none' }}>纽约课TOEFL<span style={{ color: THEME.teal }}>26</span></span>
                         <span style={{ background: THEME.teal, padding: '4px 14px', borderRadius: 4, fontSize: 11, fontWeight: 700, textTransform: 'uppercase' }}>{sec}{cur.stage !== 'linear' ? ` · ${cur.stage}` : ''}</span>
                     </div>
-                    <TestTimer initialSeconds={s.time} onTimeUp={advance} sectionName="" />
+                    <TestTimer expirationMs={useTestStore.getState().expirationTimeMs} onTimeUp={advance} sectionName="" fallbackSeconds={s.time} />
                     <div style={{ display: 'flex', alignItems: 'center', gap: 16 }}>
                         <span style={{ fontSize: 14, opacity: .8 }}>Q <strong>{idxInSec + 1}</strong>/{secItems.length}</span>
                         <div style={{ height: 6, width: 100, background: '#ffffff18', borderRadius: 10, overflow: 'hidden' }}>

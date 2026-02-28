@@ -50,7 +50,7 @@ export default function ListenRepeatTask() {
                 </div>
 
                 {/* Typically minimal time for these rapid fire items */}
-                <TestTimer initialSeconds={60} onTimeUp={handleTimeUp} sectionName="Time Remaining" />
+                <TestTimer fallbackSeconds={60} onTimeUp={handleTimeUp} sectionName="Time Remaining" />
 
                 <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                     <div style={{ fontSize: '0.875rem', color: '#cbd5e1' }}>Task 4 of 6</div>

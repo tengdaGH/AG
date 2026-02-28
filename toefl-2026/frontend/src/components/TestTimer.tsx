@@ -3,16 +3,21 @@
 import React, { useState, useEffect } from 'react';
 
 interface TestTimerProps {
-    initialSeconds: number;
+    expirationMs?: number | null;
+    fallbackSeconds?: number;
     onTimeUp?: () => void;
     sectionName?: string;
 }
 
 export const TestTimer: React.FC<TestTimerProps> = ({
-    initialSeconds,
+    expirationMs,
+    fallbackSeconds = 0,
     onTimeUp
 }) => {
-    const [secondsLeft, setSecondsLeft] = useState(initialSeconds);
+    const [secondsLeft, setSecondsLeft] = useState(() => {
+        if (!expirationMs) return fallbackSeconds;
+        return Math.max(0, Math.floor((expirationMs - Date.now()) / 1000));
+    });
     const [isHidden, setIsHidden] = useState(false);
     const [isFlashing, setIsFlashing] = useState(false);
 
@@ -23,11 +28,19 @@ export const TestTimer: React.FC<TestTimerProps> = ({
         }
 
         const timerId = setInterval(() => {
-            setSecondsLeft((prev) => prev - 1);
+            setSecondsLeft((prev) => {
+                let next;
+                if (expirationMs) {
+                    next = Math.floor((expirationMs - Date.now()) / 1000);
+                } else {
+                    next = prev - 1;
+                }
+                return Math.max(0, next);
+            });
         }, 1000);
 
         return () => clearInterval(timerId);
-    }, [secondsLeft, onTimeUp]);
+    }, [secondsLeft, onTimeUp, expirationMs]);
 
     // Format time as MM:SS
     const formatTime = (totalSeconds: number) => {

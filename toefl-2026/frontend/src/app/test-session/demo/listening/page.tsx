@@ -72,7 +72,7 @@ export default function ListeningTestEngine() {
                 </div>
 
                 {phase === 'ANSWERING' ? (
-                    <TestTimer initialSeconds={600} onTimeUp={handleTimeUp} sectionName={t('test.answeringTime')} />
+                    <TestTimer fallbackSeconds={600} onTimeUp={handleTimeUp} sectionName={t('test.answeringTime')} />
                 ) : (
                     <div style={{ textAlign: 'center' }}>
                         <div style={{ fontSize: '0.75rem', fontWeight: 600, color: '#94a3b8', textTransform: 'uppercase' }}>{t('test.volumeCheck')}</div>

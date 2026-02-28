@@ -147,7 +147,7 @@ export default function DemoTestSession() {
                     </div>
                 </div>
 
-                <TestTimer initialSeconds={currentItem?.parsedContent?.type.includes('Complete') ? 600 : 2100} onTimeUp={handleTimeUp} sectionName={t('test.timeRemaining')} />
+                <TestTimer fallbackSeconds={currentItem?.parsedContent?.type.includes('Complete') ? 600 : 2100} onTimeUp={handleTimeUp} sectionName={t('test.timeRemaining')} />
 
                 <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                     <div style={{ fontSize: '0.875rem', color: '#cbd5e1' }}>

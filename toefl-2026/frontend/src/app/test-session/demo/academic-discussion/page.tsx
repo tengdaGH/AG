@@ -62,7 +62,7 @@ export default function WriteAcademicDiscussionTask() {
                 </div>
 
                 {/* 10 minutes for the task */}
-                <TestTimer initialSeconds={600} onTimeUp={handleTimeUp} sectionName="Time Remaining" />
+                <TestTimer fallbackSeconds={600} onTimeUp={handleTimeUp} sectionName="Time Remaining" />
 
                 <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                     <div style={{ fontSize: '0.875rem', color: '#cbd5e1' }}>Task 2 of 2</div>

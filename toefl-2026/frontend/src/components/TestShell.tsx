@@ -9,7 +9,7 @@ interface TestShellProps {
     candidateName: string;
     etsId: string;
     sectionName: string;
-    initialSeconds: number;
+    fallbackSeconds: number;
     onTimeUp: () => void;
     onNext: () => void;
     onBack: () => void;
@@ -22,7 +22,7 @@ export const TestShell: React.FC<TestShellProps> = ({
     candidateName,
     etsId,
     sectionName,
-    initialSeconds,
+    fallbackSeconds,
     onTimeUp,
     onNext,
     onBack,
@@ -120,7 +120,7 @@ export const TestShell: React.FC<TestShellProps> = ({
                     {sectionName}
                 </div>
                 <div className={styles.timerContainer}>
-                    <TestTimer initialSeconds={initialSeconds} onTimeUp={onTimeUp} />
+                    <TestTimer fallbackSeconds={fallbackSeconds} onTimeUp={onTimeUp} />
                 </div>
             </header>
 
