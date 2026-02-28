@@ -20,9 +20,12 @@ export default function InterviewSandbox() {
                 {/* We are reusing the exact same component built in InterviewUI.tsx */}
                 <div style={{ backgroundColor: '#fff', boxShadow: '0 4px 12px rgba(0,0,0,0.1)' }}>
                     <InterviewUI
-                        promptVideoUrl="/legacy_idle_loop.mp4"
+                        promptAudioUrl="/legacy_idle_loop.webm"
+                        imageUrl="/images/speaker_unisex.png"
                         maxRecordTimeSeconds={45}
-                        websocketUrl="ws://localhost:8000/ws/audio"
+                        uploadUrl="http://localhost:8000/api/audio/upload"
+                        questionId="demo-question"
+                        sessionId="demo-session"
                     />
                 </div>
 

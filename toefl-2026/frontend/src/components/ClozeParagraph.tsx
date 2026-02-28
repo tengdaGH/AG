@@ -8,12 +8,13 @@ import React, { useRef, useEffect, useState } from 'react';
  */
 interface ClozeParagraphProps {
     stimulusText: string;
+    initialAnswers?: Record<string, string>;
     onWordComplete: (wordId: string, value: string) => void;
 }
 
 // Sub-component that breaks the input into perfectly isolated HTML box slots
-const ClozeSlotInput = ({ wordId, length, onWordComplete }: { wordId: string, length: number, onWordComplete: (id: string, val: string) => void }) => {
-    const [val, setVal] = useState('');
+const ClozeSlotInput = ({ wordId, length, initialValue, onWordComplete }: { wordId: string, length: number, initialValue?: string, onWordComplete: (id: string, val: string) => void }) => {
+    const [val, setVal] = useState(initialValue || '');
     const [isFocused, setIsFocused] = useState(false);
 
     const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -125,6 +126,7 @@ const ClozeSlotInput = ({ wordId, length, onWordComplete }: { wordId: string, le
 
 export const ClozeParagraph: React.FC<ClozeParagraphProps> = ({
     stimulusText,
+    initialAnswers,
     onWordComplete
 }) => {
     const containerRef = useRef<HTMLDivElement>(null);
@@ -148,6 +150,7 @@ export const ClozeParagraph: React.FC<ClozeParagraphProps> = ({
                     key={`cloze-${wordId}`}
                     wordId={wordId}
                     length={length}
+                    initialValue={initialAnswers?.[wordId]}
                     onWordComplete={onWordComplete}
                 />
             );

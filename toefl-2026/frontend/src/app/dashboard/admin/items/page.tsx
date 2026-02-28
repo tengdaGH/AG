@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo, memo } from 'react';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/Card';
 import { Button } from '@/components/Button';
 import { Input } from '@/components/Input';
@@ -1068,6 +1068,70 @@ function PreviewModal({ item, parsedContent: rawContent, onClose }: { item: any;
         </div>
     );
 }
+// ─── OPTIMIZED ITEM ROW ───
+const TestItemRow = memo(({
+    item,
+    index,
+    totalCount,
+    openPreview,
+    handleSingleQA,
+    router,
+    getStatusBadge
+}: {
+    item: any;
+    index: number;
+    totalCount: number;
+    openPreview: (item: any) => void;
+    handleSingleQA: (id: string) => void;
+    router: any;
+    getStatusBadge: (status: string) => React.ReactNode;
+}) => {
+    const normalized = item._normalized;
+    const title = item._displayTitle;
+
+    return (
+        <div style={{
+            display: 'grid', gridTemplateColumns: '1.8fr 0.7fr 1.1fr 0.5fr 0.6fr 0.35fr 0.8fr 0.5fr 0.6fr 1fr', gap: '0.5rem',
+            padding: '0.85rem 1.5rem',
+            borderBottom: index === totalCount - 1 ? 'none' : '1px solid var(--border-color)',
+            alignItems: 'center',
+            backgroundColor: 'var(--card-bg)',
+            transition: 'background-color 0.15s',
+            fontFamily: 'var(--font-body)'
+        }}>
+            <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
+                <div
+                    onClick={() => openPreview(item)}
+                    style={{ fontWeight: 600, color: 'var(--foreground)', fontSize: '0.85rem', cursor: 'pointer', transition: 'color 0.15s' }}
+                    onMouseEnter={(e) => (e.currentTarget.style.color = 'var(--anthropic-blue)')}
+                    onMouseLeave={(e) => (e.currentTarget.style.color = 'var(--foreground)')}
+                    title="Click to preview"
+                >
+                    {title}
+                </div>
+                {item.generation_notes && (
+                    <div style={{ fontSize: '0.7rem', color: item.lifecycle_status === 'REVIEW' || item.lifecycle_status === 'SUSPENDED' ? 'var(--anthropic-terracotta)' : 'var(--text-muted)' }}>
+                        {item.generation_notes}
+                    </div>
+                )}
+            </div>
+            <div style={{ fontSize: '0.75rem', color: 'var(--foreground)' }}>{item.section}</div>
+            <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>{normalized.type}</div>
+            <div style={{ fontSize: '0.75rem', fontWeight: 500, color: 'var(--foreground)' }}>{item.target_level}</div>
+            <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>{item.irt_difficulty}</div>
+            <div style={{ fontSize: '0.65rem', fontWeight: 600, color: 'var(--anthropic-blue)', backgroundColor: 'rgba(106, 155, 204, 0.1)', borderRadius: '4px', padding: '0.1rem 0.35rem', textAlign: 'center', width: 'fit-content' }}>v{item.version || 1}</div>
+            <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>{item.generated_by_model || '—'}</div>
+            <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>{getItemAge(item.created_at)}</div>
+            <div>{getStatusBadge(item.lifecycle_status)}</div>
+            <div style={{ textAlign: 'right', display: 'flex', gap: '0.4rem', justifyContent: 'flex-end' }}>
+                <Button variant="ghost" size="sm" onClick={() => router.push(`/dashboard/admin/items/${item.id}/edit`)}>Edit</Button>
+                <Button variant="secondary" size="sm" onClick={() => handleSingleQA(item.id)}>QA</Button>
+            </div>
+        </div>
+    );
+});
+
+TestItemRow.displayName = 'TestItemRow';
 
 // ─── MAIN DASHBOARD ───
 export default function ItemBankDashboard() {
@@ -1080,7 +1144,7 @@ export default function ItemBankDashboard() {
     const [previewItem, setPreviewItem] = useState<any>(null);
     const [previewContent, setPreviewContent] = useState<ParsedContent | null>(null);
 
-    const [items, setItems] = useState<any[]>([]);
+    const [rawItems, setRawItems] = useState<any[]>([]);
     const [loading, setLoading] = useState(true);
     const [isActionRunning, setIsActionRunning] = useState(false);
     const [actionMessage, setActionMessage] = useState('');
@@ -1095,7 +1159,7 @@ export default function ItemBankDashboard() {
             });
             if (res.ok) {
                 const data = await res.json();
-                setItems(data);
+                setRawItems(data);
             } else {
                 const errText = await res.text();
                 console.error("API Error:", res.status, errText);
@@ -1110,6 +1174,57 @@ export default function ItemBankDashboard() {
     useEffect(() => {
         fetchItems();
     }, []);
+
+    // Memoize pre-processed items to avoid expensive operations during render
+    const processedItems = useMemo(() => {
+        return rawItems.map(item => {
+            const rawContent = typeof item.prompt_content === 'string' ? JSON.parse(item.prompt_content) : item.prompt_content;
+            const normalized = normaliseContent(rawContent, item);
+
+            let displayTitle = normalized.title;
+            if ((displayTitle === 'Untitled Item' || displayTitle === rawContent.id)
+                && Array.isArray(rawContent.fragments) && rawContent.fragments.length > 0) {
+                const f = [...rawContent.fragments];
+                f[0] = f[0].charAt(0).toUpperCase() + f[0].slice(1);
+                displayTitle = f.join(' ') + (rawContent.endPunctuation || '.');
+            }
+
+            return {
+                ...item,
+                _normalized: normalized,
+                _displayTitle: displayTitle,
+                _searchable: `${displayTitle} ${item.id} ${item.section} ${item.task_type}`.toLowerCase()
+            };
+        });
+    }, [rawItems]);
+
+    // Memoize filtered items
+    const filteredItems = useMemo(() => {
+        const term = searchTerm.toLowerCase();
+        return processedItems.filter(item => {
+            // Search
+            if (term && !item._searchable.includes(term)) {
+                return false;
+            }
+
+            // Section filter
+            if (sectionFilter !== 'All' && item.section !== sectionFilter.toUpperCase()) {
+                return false;
+            }
+
+            // Type filter
+            if (typeFilter !== 'All' && item.task_type !== typeFilter) {
+                return false;
+            }
+
+            // Status filter
+            if (statusFilter !== 'All' && item.lifecycle_status !== statusFilter) {
+                return false;
+            }
+
+            return true;
+        });
+    }, [processedItems, searchTerm, sectionFilter, typeFilter, statusFilter]);
 
     const handleRunQA = async () => {
         setIsActionRunning(true);
@@ -1190,34 +1305,7 @@ export default function ItemBankDashboard() {
         }
     };
 
-    // ─── FILTERING LOGIC ───
-    const filteredItems = items.filter(item => {
-        const parsedContent = typeof item.prompt_content === 'string' ? JSON.parse(item.prompt_content) : item.prompt_content;
-        const title = parsedContent?.title || '';
-
-        // Search filter
-        if (searchTerm && !title.toLowerCase().includes(searchTerm.toLowerCase()) && !item.id.toLowerCase().includes(searchTerm.toLowerCase())) {
-            return false;
-        }
-
-        // Section filter
-        if (sectionFilter !== 'All' && item.section !== sectionFilter.toUpperCase()) {
-            return false;
-        }
-
-        // Type filter
-        if (typeFilter !== 'All' && item.task_type !== typeFilter) {
-            return false;
-        }
-
-        // Status filter
-        if (statusFilter !== 'All' && item.lifecycle_status !== statusFilter) {
-            return false;
-        }
-
-        return true;
-    });
-
+    // ─── FILTERING CONSTANTS ───
     const sectionTaskTypes: Record<string, string[]> = {
         'Reading': ['READ_ACADEMIC_PASSAGE', 'READ_IN_DAILY_LIFE', 'COMPLETE_THE_WORDS'],
         'Listening': ['LISTEN_CHOOSE_RESPONSE', 'LISTEN_ACADEMIC_TALK', 'LISTEN_ANNOUNCEMENT', 'LISTEN_CONVERSATION'],
@@ -1294,7 +1382,7 @@ export default function ItemBankDashboard() {
                 </div>
                 <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                     <LanguageSwitcher />
-                    <span style={{ fontSize: '0.8rem', color: '#64748b' }}>{filteredItems.length} of {items.length} items</span>
+                    <span style={{ fontSize: '0.8rem', color: '#64748b' }}>{filteredItems.length} of {rawItems.length} items</span>
                     <span style={{ fontSize: '0.6rem', color: '#cbd5e1' }}>API: {API_BASE_URL}</span>
                     <Button variant="secondary" size="sm" onClick={handleRunQA}>Run QA Pipeline</Button>
                     <Button variant="secondary" size="sm" onClick={handleSimulate}>Simulate Field Test</Button>
@@ -1310,27 +1398,27 @@ export default function ItemBankDashboard() {
                     {/* Draft */}
                     <div onClick={() => setStatusFilter('DRAFT')} style={{ backgroundColor: 'var(--card-bg)', border: '1px solid var(--border-color)', borderRadius: '8px', padding: '1.25rem', display: 'flex', flexDirection: 'column', gap: '0.5rem', cursor: 'pointer', transition: 'transform 0.1s, border-color 0.2s' }} onMouseEnter={(e) => { e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.borderColor = 'var(--text-muted)'; }} onMouseLeave={(e) => { e.currentTarget.style.transform = 'none'; e.currentTarget.style.borderColor = 'var(--border-color)'; }}>
                         <div style={{ fontFamily: 'var(--font-heading)', fontSize: '0.75rem', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>Draft & Authoring</div>
-                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--foreground)' }}>{items.filter(i => i.lifecycle_status === 'DRAFT').length}</div>
+                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--foreground)' }}>{rawItems.filter(i => i.lifecycle_status === 'DRAFT').length}</div>
                     </div>
                     {/* Review */}
                     <div onClick={() => setStatusFilter('REVIEW')} style={{ backgroundColor: 'var(--card-bg)', border: '1px solid var(--border-color)', borderRadius: '8px', padding: '1.25rem', display: 'flex', flexDirection: 'column', gap: '0.5rem', cursor: 'pointer', transition: 'transform 0.1s, border-color 0.2s' }} onMouseEnter={(e) => { e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.borderColor = 'var(--text-muted)'; }} onMouseLeave={(e) => { e.currentTarget.style.transform = 'none'; e.currentTarget.style.borderColor = 'var(--border-color)'; }}>
                         <div style={{ fontFamily: 'var(--font-heading)', fontSize: '0.75rem', fontWeight: 600, color: 'var(--anthropic-blue)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>In QA Review</div>
-                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--anthropic-blue)' }}>{items.filter(i => i.lifecycle_status === 'REVIEW').length}</div>
+                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--anthropic-blue)' }}>{rawItems.filter(i => i.lifecycle_status === 'REVIEW').length}</div>
                     </div>
                     {/* Field Test */}
                     <div onClick={() => setStatusFilter('FIELD_TEST')} style={{ backgroundColor: 'var(--card-bg)', border: '1px solid var(--border-color)', borderRadius: '8px', padding: '1.25rem', display: 'flex', flexDirection: 'column', gap: '0.5rem', cursor: 'pointer', transition: 'transform 0.1s, border-color 0.2s' }} onMouseEnter={(e) => { e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.borderColor = 'var(--text-muted)'; }} onMouseLeave={(e) => { e.currentTarget.style.transform = 'none'; e.currentTarget.style.borderColor = 'var(--border-color)'; }}>
                         <div style={{ fontFamily: 'var(--font-heading)', fontSize: '0.75rem', fontWeight: 600, color: 'var(--text-muted)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>Field Test (IRT)</div>
-                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--foreground)' }}>{items.filter(i => i.lifecycle_status === 'FIELD_TEST').length}</div>
+                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--foreground)' }}>{rawItems.filter(i => i.lifecycle_status === 'FIELD_TEST').length}</div>
                     </div>
                     {/* Active */}
                     <div onClick={() => setStatusFilter('ACTIVE')} style={{ backgroundColor: 'var(--card-bg)', border: '1px solid var(--border-color)', borderRadius: '8px', padding: '1.25rem', display: 'flex', flexDirection: 'column', gap: '0.5rem', cursor: 'pointer', transition: 'transform 0.1s, border-color 0.2s' }} onMouseEnter={(e) => { e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.borderColor = 'var(--text-muted)'; }} onMouseLeave={(e) => { e.currentTarget.style.transform = 'none'; e.currentTarget.style.borderColor = 'var(--border-color)'; }}>
                         <div style={{ fontFamily: 'var(--font-heading)', fontSize: '0.75rem', fontWeight: 600, color: 'var(--anthropic-sage)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>Live & Operational</div>
-                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--anthropic-sage)' }}>{items.filter(i => i.lifecycle_status === 'ACTIVE').length}</div>
+                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--anthropic-sage)' }}>{rawItems.filter(i => i.lifecycle_status === 'ACTIVE').length}</div>
                     </div>
                     {/* Exposed / Warning */}
                     <div onClick={() => setStatusFilter('EXPOSED')} style={{ backgroundColor: 'var(--card-bg)', border: '1px solid var(--border-color)', borderRadius: '8px', padding: '1.25rem', display: 'flex', flexDirection: 'column', gap: '0.5rem', cursor: 'pointer', transition: 'transform 0.1s, border-color 0.2s' }} onMouseEnter={(e) => { e.currentTarget.style.transform = 'translateY(-2px)'; e.currentTarget.style.borderColor = 'var(--text-muted)'; }} onMouseLeave={(e) => { e.currentTarget.style.transform = 'none'; e.currentTarget.style.borderColor = 'var(--border-color)'; }}>
                         <div style={{ fontFamily: 'var(--font-heading)', fontSize: '0.75rem', fontWeight: 600, color: 'var(--anthropic-terracotta)', textTransform: 'uppercase', letterSpacing: '0.05em' }}>High Exposure</div>
-                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--anthropic-terracotta)' }}>{items.filter(i => i.lifecycle_status === 'EXPOSED').length}</div>
+                        <div style={{ fontSize: '1.8rem', fontWeight: 500, color: 'var(--anthropic-terracotta)' }}>{rawItems.filter(i => i.lifecycle_status === 'EXPOSED').length}</div>
                     </div>
                 </div>
 
@@ -1406,64 +1494,21 @@ export default function ItemBankDashboard() {
                         {loading && <div style={{ padding: '1.5rem', textAlign: 'center' }}>Loading official 2026 Test Items...</div>}
                         {!loading && filteredItems.length === 0 && (
                             <div style={{ padding: '2rem', textAlign: 'center', color: '#94a3b8' }}>
-                                {items.length === 0 ? 'No items found in the database.' : `No items match your filters.`}
+                                {rawItems.length === 0 ? 'No items found in the database.' : `No items match your filters.`}
                             </div>
                         )}
-                        {!loading && filteredItems.map((item: any, index: number) => {
-                            const rawContent = typeof item.prompt_content === 'string' ? JSON.parse(item.prompt_content) : item.prompt_content;
-                            const normalized = normaliseContent(rawContent, item);
-
-                            // For Build a Sentence, prioritize the fragment-based sentence title if normaliseContent didn't catch it
-                            const title = (normalized.title === 'Untitled Item' || normalized.title === rawContent.id)
-                                && Array.isArray(rawContent.fragments) && rawContent.fragments.length > 0
-                                ? (() => {
-                                    const f = [...rawContent.fragments];
-                                    f[0] = f[0].charAt(0).toUpperCase() + f[0].slice(1);
-                                    return f.join(' ') + (rawContent.endPunctuation || '.');
-                                })()
-                                : normalized.title;
-
-                            return (
-                                <div key={item.id} style={{
-                                    display: 'grid', gridTemplateColumns: '1.8fr 0.7fr 1.1fr 0.5fr 0.6fr 0.35fr 0.8fr 0.5fr 0.6fr 1fr', gap: '0.5rem',
-                                    padding: '0.85rem 1.5rem',
-                                    borderBottom: index === filteredItems.length - 1 ? 'none' : '1px solid var(--border-color)',
-                                    alignItems: 'center',
-                                    backgroundColor: 'var(--card-bg)',
-                                    transition: 'background-color 0.15s',
-                                    fontFamily: 'var(--font-body)'
-                                }}>
-                                    <div style={{ display: 'flex', flexDirection: 'column', gap: '0.25rem' }}>
-                                        <div
-                                            onClick={() => openPreview(item)}
-                                            style={{ fontWeight: 600, color: 'var(--foreground)', fontSize: '0.85rem', cursor: 'pointer', transition: 'color 0.15s' }}
-                                            onMouseEnter={(e) => (e.currentTarget.style.color = 'var(--anthropic-blue)')}
-                                            onMouseLeave={(e) => (e.currentTarget.style.color = 'var(--foreground)')}
-                                            title="Click to preview"
-                                        >
-                                            {title}
-                                        </div>
-                                        {item.generation_notes && (
-                                            <div style={{ fontSize: '0.7rem', color: item.lifecycle_status === 'REVIEW' || item.lifecycle_status === 'SUSPENDED' ? 'var(--anthropic-terracotta)' : 'var(--text-muted)' }}>
-                                                {item.generation_notes}
-                                            </div>
-                                        )}
-                                    </div>
-                                    <div style={{ fontSize: '0.75rem', color: 'var(--foreground)' }}>{item.section}</div>
-                                    <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>{normalized.type}</div>
-                                    <div style={{ fontSize: '0.75rem', fontWeight: 500, color: 'var(--foreground)' }}>{item.target_level}</div>
-                                    <div style={{ fontSize: '0.75rem', color: 'var(--text-muted)' }}>{item.irt_difficulty}</div>
-                                    <div style={{ fontSize: '0.65rem', fontWeight: 600, color: 'var(--anthropic-blue)', backgroundColor: 'rgba(106, 155, 204, 0.1)', borderRadius: '4px', padding: '0.1rem 0.35rem', textAlign: 'center', width: 'fit-content' }}>v{item.version || 1}</div>
-                                    <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>{item.generated_by_model || '—'}</div>
-                                    <div style={{ fontSize: '0.7rem', color: 'var(--text-muted)' }}>{getItemAge(item.created_at)}</div>
-                                    <div>{getStatusBadge(item.lifecycle_status)}</div>
-                                    <div style={{ textAlign: 'right', display: 'flex', gap: '0.4rem', justifyContent: 'flex-end' }}>
-                                        <Button variant="ghost" size="sm" onClick={() => router.push(`/dashboard/admin/items/${item.id}/edit`)}>Edit</Button>
-                                        <Button variant="secondary" size="sm" onClick={() => handleSingleQA(item.id)}>QA</Button>
-                                    </div>
-                                </div>
-                            )
-                        })}
+                        {!loading && filteredItems.map((item: any, index: number) => (
+                            <TestItemRow
+                                key={item.id}
+                                item={item}
+                                index={index}
+                                totalCount={filteredItems.length}
+                                openPreview={openPreview}
+                                handleSingleQA={handleSingleQA}
+                                router={router}
+                                getStatusBadge={getStatusBadge}
+                            />
+                        ))}
                     </CardContent>
                 </Card>
             </main>

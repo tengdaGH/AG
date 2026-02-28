@@ -49,7 +49,7 @@ Measures the ability to process written texts for meaning and form. Tests vocabu
 Test taker fills in: **bus**, **minutes**, **students**
 
 
-## 3. Interaction & Delivery Mechanics
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Initial State (Passage Only)**: When the item first loads, only the passage is visible. The user must read to the end.
 2. **Interactive State (Split-Screen)**: Clicking "Next" splits the screen. The passage moves to the left and the first "Complete the Word" question appears on the right.

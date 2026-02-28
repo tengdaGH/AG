@@ -13,6 +13,16 @@ interface MyBestScore {
     date: string;
 }
 
+export interface DetailedResponse {
+    section: string;
+    task_type: string;
+    questionText: string;
+    isCorrect: boolean | null;
+    studentAnswer: string;
+    correctAnswer: string;
+    rubricScore: string | null;
+}
+
 interface ScoreReportDashboardProps {
     candidateName: string;
     etsId: string;
@@ -37,6 +47,7 @@ interface ScoreReportDashboardProps {
         reading: string;
         writing: string;
     };
+    detailedResponses?: DetailedResponse[];
 }
 
 export const ScoreReportDashboard: React.FC<ScoreReportDashboardProps> = ({
@@ -48,6 +59,7 @@ export const ScoreReportDashboard: React.FC<ScoreReportDashboardProps> = ({
     scores,
     myBest,
     feedback,
+    detailedResponses,
 }) => {
     // Utility to render the horizontal progress bar relative to the max 6.0 scale
     const renderProgressBar = (band: number, isTotal = false) => {
@@ -180,6 +192,58 @@ export const ScoreReportDashboard: React.FC<ScoreReportDashboardProps> = ({
                     Download Official PDF Report
                 </button>
             </div>
+
+            {/* Zone 5: Detailed Answer Review */}
+            {detailedResponses && detailedResponses.length > 0 && (
+                <div style={{ marginTop: '60px' }}>
+                    <h2 style={{ fontSize: '22px', borderBottom: '1px solid #D1D6E0', paddingBottom: '10px', marginBottom: '20px' }}>Detailed Answer Review</h2>
+
+                    {['READING', 'LISTENING', 'SPEAKING', 'WRITING'].map((sectionName) => {
+                        const sectionResponses = detailedResponses.filter(r => r.section === sectionName);
+                        if (sectionResponses.length === 0) return null;
+
+                        return (
+                            <div key={sectionName} style={{ marginBottom: '40px' }}>
+                                <h3 style={{ fontSize: '18px', color: '#005587', marginBottom: '15px' }}>{sectionName}</h3>
+                                <div style={{ display: 'grid', gap: '15px' }}>
+                                    {sectionResponses.map((item, idx) => (
+                                        <div key={idx} style={{
+                                            backgroundColor: '#FFF',
+                                            border: '1px solid #E5E7EB',
+                                            borderLeft: `5px solid ${item.isCorrect === true ? '#48BB78' : item.isCorrect === false ? '#F56565' : '#4299E1'}`,
+                                            padding: '15px',
+                                            borderRadius: '6px',
+                                            boxShadow: '0 1px 3px rgba(0,0,0,0.05)'
+                                        }}>
+                                            <div style={{ marginBottom: '10px' }}>
+                                                <span style={{ fontSize: '12px', fontWeight: 'bold', color: '#5E6A75', textTransform: 'uppercase', marginRight: '10px' }}>{item.task_type}</span>
+                                                <span style={{ fontSize: '14px', color: '#212121', fontWeight: '500' }}>{item.questionText}</span>
+                                            </div>
+
+                                            <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '20px', backgroundColor: '#F9FAFB', padding: '10px', borderRadius: '4px' }}>
+                                                <div>
+                                                    <div style={{ fontSize: '12px', color: '#5E6A75', fontWeight: 'bold', marginBottom: '4px' }}>Your Answer:</div>
+                                                    <div style={{ fontSize: '14px', color: item.isCorrect === false ? '#D32F2F' : '#212121', whiteSpace: 'pre-wrap', maxHeight: '100px', overflowY: 'auto' }}>
+                                                        {item.studentAnswer || '(No answer provided)'}
+                                                    </div>
+                                                </div>
+                                                <div>
+                                                    <div style={{ fontSize: '12px', color: '#5E6A75', fontWeight: 'bold', marginBottom: '4px' }}>
+                                                        {item.isCorrect === null ? 'Rubric Score:' : 'Correct Answer:'}
+                                                    </div>
+                                                    <div style={{ fontSize: '14px', color: item.isCorrect === true ? '#388E3C' : '#212121', fontWeight: item.isCorrect === null ? 'bold' : 'normal' }}>
+                                                        {item.isCorrect === null ? (item.rubricScore || 'Pending') : item.correctAnswer}
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+                        );
+                    })}
+                </div>
+            )}
         </div>
     );
 };

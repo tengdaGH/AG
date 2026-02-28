@@ -32,8 +32,7 @@ export default function MultipleChoiceQuestion({
                 newSelected = [...selected, val];
             }
         } else {
-            // For single choice, clicking the selected one doesn't unselect in native IELTS, it just stays selected.
-            newSelected = [val];
+            newSelected = selected.includes(val) ? [] : [val];
         }
 
         setSelected(newSelected);
@@ -62,11 +61,12 @@ export default function MultipleChoiceQuestion({
                     const optionLetter = typeof opt === 'string' ? opt.charAt(0) : (opt.letter || String.fromCharCode(65 + i)); // A, B, C...
                     const isChecked = selected.includes(optionLetter);
                     const isStruckOut = struckOut.includes(optionLetter);
+                    const bgClass = isChecked ? "bg-[#B8D8F0]" : "hover:bg-[#F0F2F5] bg-transparent";
 
                     return (
                         <label
                             key={i}
-                            className={`flex items-start gap-4 cursor-pointer group p-3 hover:bg-[#F0F2F5] rounded-md transition-colors w-full ${isStruckOut ? 'opacity-50' : ''}`}
+                            className={`flex items-start gap-4 cursor-pointer group p-3 rounded-sm transition-colors w-full border border-transparent ${isChecked ? 'border-[#418FC6]' : ''} ${bgClass} ${isStruckOut ? 'opacity-50' : ''}`}
                             onClick={(e) => {
                                 e.preventDefault();
                                 handleOptionToggle(optionLetter);
@@ -77,7 +77,7 @@ export default function MultipleChoiceQuestion({
                                 {multi ? (
                                     <div className={`
                                         w-6 h-6 border-2 rounded-sm transition-colors flex items-center justify-center
-                                        ${isChecked ? "bg-[#002D62] border-[#002D62]" : "bg-white border-gray-400 group-hover:border-gray-600"}
+                                        ${isChecked ? "bg-[#418FC6] border-[#418FC6]" : "bg-white border-gray-400 group-hover:border-gray-600"}
                                     `}>
                                         {isChecked && (
                                             <svg width="14" height="12" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -88,16 +88,16 @@ export default function MultipleChoiceQuestion({
                                 ) : (
                                     <div className={`
                                         w-6 h-6 rounded-full border-2 flex items-center justify-center transition-all
-                                        ${isChecked ? "border-[#002D62] bg-[#002D62]" : "border-gray-400 group-hover:border-gray-600 bg-white"}
+                                        ${isChecked ? "border-[#418FC6] bg-white" : "border-gray-400 group-hover:border-gray-600 bg-white"}
                                     `}>
-                                        {isChecked && <div className="w-2.5 h-2.5 rounded-full bg-white" />}
+                                        {isChecked && <div className="w-3 h-3 rounded-full bg-[#418FC6]" />}
                                     </div>
                                 )}
                             </div>
 
-                            <div className="flex gap-3 mt-[2px]">
-                                <span className={`font-bold min-w-[20px] ${isStruckOut ? 'text-gray-400 line-through' : 'text-gray-700'}`}>{optionLetter}</span>
-                                <span className={`leading-snug text-[15px] ${isStruckOut ? 'text-gray-400 line-through' : 'text-gray-900'}`}>{optionText}</span>
+                            <div className="flex gap-3 mt-[2px] w-full" style={{ fontFamily: "var(--ielts-font)" }}>
+                                <span className={`font-bold min-w-[20px] ${isStruckOut ? 'text-gray-400 line-through' : 'text-[#333]'}`}>{optionLetter}</span>
+                                <span className={`leading-snug text-[15px] ${isStruckOut ? 'text-gray-400 line-through' : 'text-[#333]'}`}>{optionText}</span>
                             </div>
 
                             <input

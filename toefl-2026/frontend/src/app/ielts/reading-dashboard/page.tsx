@@ -420,14 +420,11 @@ export default function IELTSReadingDashboard() {
         }
 
         if (groupType === "MATCHING_PARAGRAPH_INFORMATION" || groupType === "MATCHING_INFORMATION") {
-            const matrixQuestions = group.questions.map((q: any) => ({
-                questionNumber: q.number,
-                text: q.text || "",
-            }));
-
             const paragraphLetters = (itemData?.passage?.paragraphs || [])
                 .map((p: any) => p.label)
                 .filter((l: string) => l && l.trim());
+
+            const options = paragraphLetters.map((l: string) => ({ id: l, text: `Paragraph ${l}` }));
 
             return (
                 <section
@@ -436,21 +433,41 @@ export default function IELTSReadingDashboard() {
                     style={{ border: "1px solid var(--ielts-border-default)", borderRadius: "2px" }}
                 >
                     {instructionBar}
-                    <div style={{ padding: "24px 32px", backgroundColor: "#fff" }}>
-                        <MatchingMatrix
-                            questions={matrixQuestions}
-                            paragraphLetters={paragraphLetters}
-                            onAnswerChange={(answers) => {
-                                const answered = Object.entries(answers)
-                                    .filter(([, v]) => v && v !== "")
-                                    .map(([k]) => Number(k));
-                                markAnswered(answered);
-                            }}
-                        />
+                    <div style={{ backgroundColor: "#fff", padding: "16px 24px 0 24px" }}>
+                        <div style={{ padding: "16px", border: "1px solid var(--ielts-border-default)" }}>
+                            {options.map((opt: any) => (
+                                <div key={opt.id} className="flex gap-4 mb-2 last:mb-0">
+                                    <span style={{ fontWeight: 700 }}>{opt.id}</span>
+                                    <span>{opt.text}</span>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+                    <div style={{ backgroundColor: "#fff", padding: "8px 0" }}>
+                        {group.questions?.map((q: any) => (
+                            <div key={q.number}>
+                                <GapFillItem
+                                    questionNumber={q.number}
+                                    textAfter={q.text || ""}
+                                    onAnswerChange={(ans) => {
+                                        if (ans && ans.trim()) markAnswered([q.number]);
+                                    }}
+                                />
+                            </div>
+                        ))}
                     </div>
                 </section>
             );
         }
+
+        // Render Options Grid once at the top for specific group types
+        const needsGroupOptions = ["MATCHING_FEATURES", "CLASSIFICATION", "MATCHING_SENTENCE_ENDINGS"].includes(groupType);
+        const firstQuestionOptions = needsGroupOptions && group.questions?.[0]?.options
+            ? group.questions[0].options.map((opt: any, oidx: number) => ({
+                id: opt.label || opt.letter || opt.id || String.fromCharCode(65 + oidx),
+                text: opt.text || "",
+            }))
+            : [];
 
         return (
             <section
@@ -459,6 +476,18 @@ export default function IELTSReadingDashboard() {
                 style={{ border: "1px solid var(--ielts-border-default)", borderRadius: "2px" }}
             >
                 {instructionBar}
+                {needsGroupOptions && firstQuestionOptions.length > 0 && (
+                    <div style={{ backgroundColor: "#fff", padding: "16px 24px 0 24px" }}>
+                        <div style={{ padding: "16px", border: "1px solid var(--ielts-border-default)" }}>
+                            {firstQuestionOptions.map((opt: any) => (
+                                <div key={opt.id} className="flex gap-4 mb-2 last:mb-0">
+                                    <span style={{ fontWeight: 700 }}>{opt.id}</span>
+                                    <span>{opt.text}</span>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+                )}
                 <div style={{ backgroundColor: "#fff", padding: "8px 0" }}>
                     {group.questions?.map((q: any) => renderQuestion(q, groupType))}
                 </div>
@@ -551,20 +580,13 @@ export default function IELTSReadingDashboard() {
         }
 
         if (groupType === "MATCHING_FEATURES" || groupType === "CLASSIFICATION" || groupType === "MATCHING_SENTENCE_ENDINGS") {
-            const options = (q.options || []).map((opt: any) => ({
-                id: opt.label || opt.letter || opt.id,
-                text: opt.text || "",
-            }));
-
             return (
                 <div key={qNum}>
-                    <MatchingItem
+                    <GapFillItem
                         questionNumber={qNum}
-                        promptText={q.text}
-                        options={options}
-                        showOptionsGrid={options.length > 0}
+                        textAfter={q.text || ""}
                         onAnswerChange={(ans) => {
-                            if (ans) markAnswered([qNum]);
+                            if (ans && ans.trim()) markAnswered([qNum]);
                         }}
                     />
                 </div>
@@ -617,7 +639,8 @@ export default function IELTSReadingDashboard() {
                     {itemData.title}
                 </h1>
                 {itemData.passage?.paragraphs?.map((p: any, i: number) => {
-                    const slot = headingSlots.find(s => s.paragraphLetter === p.label);
+                    const isFirstOfLabel = itemData.passage?.paragraphs?.findIndex((pt: any) => pt.label === p.label) === i;
+                    const slot = isFirstOfLabel ? headingSlots.find(s => s.paragraphLetter === p.label) : undefined;
                     const assignedId = slot ? headingAssignments[p.label] : null;
                     const assignedHeading = assignedId ? headingsBank.find(h => h.id === assignedId) : null;
 

@@ -42,7 +42,7 @@ Measures the ability to state and support an opinion within the context of an on
 - Follow mechanical conventions of English (spelling, punctuation, capitalization)
 
 
-## 3. Interaction & Delivery Mechanics
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Split-Screen State**: The item loads immediately in a split-screen layout. The academic scenario and student responses are anchored on the left, while the writing area is on the right.
 2. **Writing Area Rules**: The textarea is strictly plain-text. No rich text formatting (bold, italics) is available.

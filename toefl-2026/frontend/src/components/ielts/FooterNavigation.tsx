@@ -47,7 +47,7 @@ export default function FooterNavigation({
             {/* Center: Question number grid */}
             <div className="flex items-center justify-start flex-1 overflow-hidden">
                 <div
-                    className="flex flex-wrap items-center max-h-[52px] overflow-y-auto"
+                    className="flex flex-nowrap items-center h-full overflow-x-auto px-2 scrollbar-hide"
                     style={{ gap: 0 }} // NO GAP
                 >
                     {questions.map((q, idx) => {
@@ -106,34 +106,48 @@ export default function FooterNavigation({
                 </div>
             </div>
 
-            {/* Right: Checkmark and Prev/Next buttons */}
-            <div className="flex items-center gap-4" style={{ minWidth: "120px", justifyContent: "flex-end" }}>
-                {/* Previous Button */}
-                <button
-                    className="flex items-center justify-center transition-colors hover:bg-black hover:bg-opacity-80"
-                    style={{
-                        width: "36px",
-                        height: "36px",
-                        backgroundColor: "#333",
-                        color: "#fff",
-                        borderRadius: "2px",
-                    }}
-                >
-                    <ChevronLeft size={20} />
-                </button>
-                {/* Next Button */}
-                <button
-                    className="flex items-center justify-center transition-colors hover:bg-black hover:bg-opacity-80"
-                    style={{
-                        width: "36px",
-                        height: "36px",
-                        backgroundColor: "#111", // Slightly darker or same as prev
-                        color: "#fff",
-                        borderRadius: "2px",
-                    }}
-                >
-                    <ChevronRight size={20} />
-                </button>
+            {/* Right: Review Checkbox and Prev/Next buttons */}
+            <div className="flex items-center gap-6" style={{ minWidth: "180px", justifyContent: "flex-end" }}>
+                {/* Review Checkbox */}
+                <label className="flex items-center gap-2 cursor-pointer select-none" style={{ fontSize: "14px", fontWeight: 600, color: "#333", marginRight: "8px" }}>
+                    <input
+                        type="checkbox"
+                        checked={questions.find(q => q.id === currentQuestionId)?.markedForReview || false}
+                        onChange={() => onReviewToggle(currentQuestionId)}
+                        className="cursor-pointer"
+                        style={{ width: "18px", height: "18px", accentColor: "var(--ielts-active-blue)" }}
+                    />
+                    Review
+                </label>
+
+                <div className="flex items-center gap-1">
+                    {/* Previous Button */}
+                    <button
+                        className="flex items-center justify-center transition-colors hover:bg-black hover:bg-opacity-80"
+                        style={{
+                            width: "36px",
+                            height: "36px",
+                            backgroundColor: "#333",
+                            color: "#fff",
+                            borderRadius: "2px",
+                        }}
+                    >
+                        <ChevronLeft size={20} />
+                    </button>
+                    {/* Next Button */}
+                    <button
+                        className="flex items-center justify-center transition-colors hover:bg-black hover:bg-opacity-80"
+                        style={{
+                            width: "36px",
+                            height: "36px",
+                            backgroundColor: "#111", // Slightly darker or same as prev
+                            color: "#fff",
+                            borderRadius: "2px",
+                        }}
+                    >
+                        <ChevronRight size={20} />
+                    </button>
+                </div>
             </div>
         </footer>
     );

@@ -59,7 +59,7 @@ export const IeltsPreviewModal: React.FC<IeltsPreviewModalProps> = ({ passageId,
             } else if (q.options) {
                 options = q.options.map((opt: any, idx: number) => {
                     const isDict = typeof opt === 'object' && opt !== null;
-                    const letter = isDict ? opt.letter : String.fromCharCode(65 + idx);
+                    const letter = isDict ? (opt.label || opt.letter || opt.id || String.fromCharCode(65 + idx)) : String.fromCharCode(65 + idx);
                     const text = isDict ? opt.text : opt;
                     return { id: letter, text: text };
                 });
@@ -69,7 +69,7 @@ export const IeltsPreviewModal: React.FC<IeltsPreviewModalProps> = ({ passageId,
                 <div key={q.id || q.number || q.question_number} className="group">
                     <MultipleChoiceItem
                         questionNumber={q.question_number || q.number}
-                        text={<span dangerouslySetInnerHTML={{ __html: q.question_text || q.text || "" }} />}
+                        text={<span dangerouslySetInnerHTML={{ __html: q.question_text || "" }} />}
                         options={options}
                         multi={groupType === "MULTIPLE_CHOICE_M"}
                     />
@@ -83,7 +83,7 @@ export const IeltsPreviewModal: React.FC<IeltsPreviewModalProps> = ({ passageId,
                 <div key={q.id || q.number || q.question_number} className="group">
                     <MatchingItem
                         questionNumber={q.question_number || q.number}
-                        promptText={<span dangerouslySetInnerHTML={{ __html: q.question_text || q.text || "" }} />}
+                        promptText={<span dangerouslySetInnerHTML={{ __html: q.question_text || "" }} />}
                         options={[]}
                     />
                     {answerPill}
@@ -95,7 +95,7 @@ export const IeltsPreviewModal: React.FC<IeltsPreviewModalProps> = ({ passageId,
             <div key={q.id || q.number || q.question_number} className="group">
                 <GapFillItem
                     questionNumber={q.question_number || q.number}
-                    contentHtml={q.question_text || q.text || ""}
+                    contentHtml={q.question_text || ""}
                 />
                 {answerPill}
             </div>

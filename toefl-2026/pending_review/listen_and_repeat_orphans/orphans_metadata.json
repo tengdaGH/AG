@@ -1,0 +1,199 @@
+[
+  {
+    "id": "7e764280-7312-4a1d-807e-3e02a6ca6019",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "type": "Listen and Repeat",
+      "title": "Sentence Repetition",
+      "sentences": [
+        {
+          "text": "The library opens at eight.",
+          "audio_url": "audio/7e764280-7312-4a1d-807e-3e02a6ca6019_s0.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "49bc946a-f4ef-471c-88b6-ca59f8d8004f",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "type": "Listen and Repeat",
+      "title": "Sentence Repetition",
+      "sentences": [
+        {
+          "text": "I need a new notebook.",
+          "audio_url": "audio/49bc946a-f4ef-471c-88b6-ca59f8d8004f_s0.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fa3b6fa4-0d5b-4a54-8840-def25232e9db",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "type": "Listen and Repeat",
+      "title": "Sentence Repetition",
+      "sentences": [
+        {
+          "text": "The professor teaches three classes this semester.",
+          "audio_url": "audio/fa3b6fa4-0d5b-4a54-8840-def25232e9db_s0.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "9c513494-cef6-40c4-8226-68be5d44654e",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "type": "Listen and Repeat",
+      "title": "Sentence Repetition",
+      "sentences": [
+        {
+          "text": "Can I borrow your calculator for the math exam?",
+          "audio_url": "audio/9c513494-cef6-40c4-8226-68be5d44654e_s0.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "db560558-f505-44b2-be37-a254fb29ef9c",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "type": "Listen and Repeat",
+      "title": "Sentence Repetition",
+      "sentences": [
+        {
+          "text": "The biology lecture was cancelled because the professor is sick.",
+          "audio_url": "audio/db560558-f505-44b2-be37-a254fb29ef9c_s0.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "f15b0e9c-21b2-4368-981b-afa375c6ba6f",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "type": "Listen and Repeat",
+      "title": "Sentence Repetition",
+      "sentences": [
+        {
+          "text": "Many students eat lunch in the cafeteria before their afternoon classes.",
+          "audio_url": "audio/f15b0e9c-21b2-4368-981b-afa375c6ba6f_s0.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "1e8a5a83-4a8f-41b9-b2fa-ed238c7788de",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "type": "Listen and Repeat",
+      "title": "Sentence Repetition",
+      "sentences": [
+        {
+          "text": "Researchers have discovered that studying in groups improves memory retention and understanding of complex concepts.",
+          "audio_url": "audio/1e8a5a83-4a8f-41b9-b2fa-ed238c7788de_s0.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "d65bd9f2-ff6d-4cef-b37b-5a3bd886d181",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "type": "Listen and Repeat",
+      "title": "Sentence Repetition",
+      "sentences": [
+        {
+          "text": "Although the tuition fees have increased significantly, the university still offers various scholarship opportunities for qualified students.",
+          "audio_url": "audio/d65bd9f2-ff6d-4cef-b37b-5a3bd886d181_s0.mp3"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6eac3612-4cde-422d-95ff-f7371e3d9ce6",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "id": "ETS-S1-S-LAR",
+      "text": "Listen and Repeat You will listen as someone speaks to you. Listen carefully and then repeat what you have heard. The clock will indicate how much time you have to speak. No time for preparation will be provided. You are learning to welcome visitors to the zoo. Listen to your manager and repeat what she says. Repeat only once. Trainer: We have a variety of wildlife. Trainer: Bears, wolves, and large cats are to the right. Trainer: You can find sea lions and elephants further down the path. Trainer: Please, no outside food or drinks, and do not feed the animals. Trainer: Avoid banging or tapping on the displays and enclosures. Trainer: For those with children, we offer summer camps and educational opportunities. Trainer: The visitor\u2019s center, located near the front entrance, can give you more information.",
+      "audio_path": "/audio/speaking/ETS-S1-S-LAR.mp3",
+      "title": "Zoo Visitor Welcome Guide"
+    }
+  },
+  {
+    "id": "6d39ca1e-56e6-45d7-8334-d6bfac7795c3",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "id": "ETS-S2-S-LAR",
+      "text": "Listen and Repeat You will listen as someone speaks to you. Listen carefully and then repeat what you have heard. The clock will indicate how much time you have to speak. No time for preparation will be provided. You are learning how to guide new students through the campus gym. Listen to the speaker and repeat what she says. Repeat only once. Trainer: Welcome to our campus gym. Trainer: Cardio machines are near the entrance. Trainer: Free weights are in the back. Trainer: All of our locker rooms are equipped with showers and towels. Trainer: Our fitness instructors hold exercise classes over here. Trainer: You can check the schedule for available classes and timings. Trainer: If you have any questions, please seek assistance from the attendants at the help desk.",
+      "audio_path": "/audio/speaking/ETS-S2-S-LAR.mp3",
+      "title": "Campus Gym Tour Repeat"
+    }
+  },
+  {
+    "id": "407e0637-5031-4931-9017-9e0edc1fd3e9",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "id": "ETS-T1-S-LAR",
+      "text": "Listen and Repeat \n\nYou will listen as someone speaks to you. Listen carefully and then repeat what you have heard. The clock will indicate how much time you have to speak. \n\nNo time for preparation will be provided. \n\nYou are training to assist visitors at a university orientation event. Listen to the speaker and repeat what she says. Repeat only once. \n\nTrainer: Welcome to our event. \n\nTrainer: Get your name badge at the registration desk. \n\nTrainer: Our event is in the auditorium. \n\nTrainer: For small group sessions, we will be in the breakout rooms over here. \n\nTrainer: Snacks can be found in the vending area throughout the event. \n\nTrainer: Please see the information desk if you need an agenda. \n\nTrainer: If you want to check session times and locations, please use the schedule provided.",
+      "audio_path": "/audio/speaking/ETS-T1-S-LAR.mp3",
+      "title": "University Orientation Repeat"
+    }
+  },
+  {
+    "id": "ff7748dd-6edc-46ef-b61a-cb47da675f48",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "id": "ETS-T2-S-LAR",
+      "text": "Listen and Repeat \n\nYou will listen as someone speaks to you. Listen carefully and then repeat what you have heard. The clock will indicate how much time you have to speak. \n\nNo time for preparation will be provided. \n\nYou are guiding students through the process of checking out books at the university library. Listen to the speaker and repeat what she says. Repeat only once. \n\nTrainer: Welcome to the library. \n\nTrainer: Our self-checkout station is for quick service. \n\nTrainer: You can start here to scan your library card. \n\nTrainer: Student aids are at the help desk in case you need assistance. \n\nTrainer: We hope everyone will ensure that books are returned on time. \n\nTrainer: Check your account online for updates on due dates and fines. \n\nTrainer: When you are finished reading them, please place all your books in the return bin.",
+      "audio_path": "/audio/speaking/ETS-T2-S-LAR.mp3",
+      "title": "Library Checkout Instructions"
+    }
+  },
+  {
+    "id": "71d78d20-fc38-4cb4-b9ec-bb65c063bf23",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "id": "ETS-T3-S-LAR",
+      "text": "Listen and Repeat\n\nYou will listen as someone speaks to you. Listen carefully and then repeat what you have heard. The clock will indicate how much time you have to speak.\n\nNo time for preparation will be provided.\n\nYou are being trained to assist customers at a hotel front desk. Listen to your manager and repeat what he says.\n\nRepeat only once.\u00a0\n\nTrainer: Welcome, let's get started and check you in.\n\nTrainer: There is a reception desk over here for you.\n\nTrainer: The elevators are located just off the main lobby.\n\nTrainer: Our hotel lounge is available for relaxation.\n\nTrainer: If needed, we can store your bags in the luggage storage room.\n\nTrainer: Our amenities and services are listed on the notice boards throughout t he building.\n\nTrainer: To avoid being charged a late-departure fee, be sure to check out of your room on time. Speaking Section",
+      "audio_path": "/audio/speaking/ETS-T3-S-LAR.mp3",
+      "title": "Hotel Front Desk Training"
+    }
+  },
+  {
+    "id": "c0d31f9b-05cc-474b-831a-86277d41d637",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "id": "ETS-T4-S-LAR",
+      "text": "Listen and Repeat\n\nYou will listen as someone speaks to you. Listen carefully and then repeat what you have heard. The clock will indicate how much time you have to speak.\n\nNo time for preparation will be provided.\n\nYou are being trained to assist visitors at a nature reserve. Listen to your trainer and repeat what he says. Repeat only once.\u00a0\n\nRepeat only once.\u00a0\n\nTrainer: Welcome to our local nature reserve.\u00a0\n\nTrainer: Take a nature walk on our hiking trails.\n\nTrainer: The picnic area\u2019s a perfect place to enjoy your lunch.\n\nTrainer: The visitor center has helpful information for guests.\n\nTrainer: The observation tower offers a great view of the forest.\n\nTrainer: Our restroom facilities are located just beside the entrance.\n\nTrainer: While you're exploring the grounds, please respect all wildlife and follow the posted rules at all times. Speaking Section",
+      "audio_path": "/audio/speaking/ETS-T4-S-LAR.mp3",
+      "title": "Nature Reserve Assistant Training"
+    }
+  },
+  {
+    "id": "e7662f46-054d-4345-af87-1880f19833b5",
+    "section": "SPEAKING",
+    "task_type": "LISTEN_AND_REPEAT",
+    "prompt_content": {
+      "id": "ETS-T5-S-LAR",
+      "text": "Listen and Repeat\n\nYou will listen as someone speaks to you. Listen carefully and then repeat what you have heard. The clock will indicate how much time you have to speak.\n\nNo time for preparation will be provided.\n\nYou are being trained to help customers use gym equipment properly. Listen to your trainer and repeat what he says.\n\nRepeat only once.\u00a0\n\nTrainer: Here is how to start and adjust the treadmill.\n\nTrainer: There are many benches in the weightlifting area.\n\nTrainer: We do encourage the use of yoga mats for stretching out.\n\nTrainer: The rowing machine is excellent for a full-body workout.\n\nTrainer: We have plenty of exercise bikes for cardio training.\n\nTrainer: Please use the wipes provided at each station for cleaning equipment after use.\n\nTrainer: If you want to see great results quickly, consider joining our daily fitness classes. Speaking Section",
+      "audio_path": "/audio/speaking/ETS-T5-S-LAR.mp3",
+      "title": "Repeat Gym Trainer Instructions"
+    }
+  }
+]

@@ -99,8 +99,35 @@ class TestItem(Base):
     exposure_count = Column(Integer, default=0, nullable=False)  # times served in live tests
     last_exposed_at = Column(DateTime(timezone=True), nullable=True)  # last time served
     # --- Import Traceability ---
+        # --- Import Traceability ---
     source_file = Column(String(255), nullable=True)   # origin JSON filename
     source_id = Column(String(100), nullable=True)      # original ID in JSON (e.g. "NATSCI-01")
+
+    questions = relationship("TestItemQuestion", back_populates="test_item", cascade="all, delete-orphan")
+
+class TestItemQuestion(Base):
+    """
+    Holds individual gaps/blanks within a parent item (Testlet).
+    Crucial for valid Item Response Theory (IRT) psychometrics where the "item" is the blank, not the paragraph.
+    """
+    __tablename__ = "test_item_questions"
+
+    id = Column(String, primary_key=True, default=lambda: f"{uuid.uuid4()}")
+    test_item_id = Column(String, ForeignKey("test_items.id"), nullable=False)
+    question_number = Column(Integer, nullable=False)    # 1 through 10
+    question_text = Column(String, nullable=True)        # The prompt for this item (for Analytics & Editor)
+    question_audio_url = Column(String(500), nullable=True) # Spoken question audio
+    replay_audio_url = Column(String(500), nullable=True)   # "Listen again to..." audio segment
+    correct_answer = Column(String, nullable=True)       # e.g., "wind" or anchor essay for CR
+    options = Column(JSON, nullable=True)                # for MCQ gaps
+    is_constructed_response = Column(Boolean, default=False)
+    max_score = Column(Integer, nullable=True)           # max rubric score for CR item
+    irt_difficulty = Column(DECIMAL(5, 2), default=0.0)
+    irt_discrimination = Column(DECIMAL(5, 2), default=1.0)
+    exposure_count = Column(Integer, default=0, nullable=False)
+    is_active = Column(Boolean, default=True)
+
+    test_item = relationship("TestItem", back_populates="questions")
 
 class TestSession(Base):
     __tablename__ = "test_sessions"
@@ -144,6 +171,27 @@ class ItemVersionHistory(Base):
     timestamp = Column(DateTime(timezone=True), server_default=func.now())
 
 
+class TestResponse(Base):
+    """
+    Ledger for student responses, tying the TestSession to a specific TestItemQuestion.
+    Holds the student's raw input, correct status, rubric score, and AI feedback.
+    """
+    __tablename__ = "test_responses"
+
+    id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))
+    session_id = Column(String, ForeignKey("test_sessions.id"), nullable=False)
+    question_id = Column(String, ForeignKey("test_item_questions.id"), nullable=False)
+    student_raw_response = Column(Text, nullable=True)   # Written essay or S3 URL to audio
+    is_correct = Column(Boolean, nullable=True)          # deterministic scoring
+    rubric_score = Column(Integer, nullable=True)        # constructed response scoring
+    ai_feedback = Column(JSON, nullable=True)            # JSON blob from the ScoringEngine
+
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+
+    session = relationship("TestSession", backref="responses")
+    question = relationship("TestItemQuestion", backref="responses")
+
+
 # ──────────────────────────────────────────────────────────────────────────────
 # IELTS Item Bank Models
 # ──────────────────────────────────────────────────────────────────────────────
@@ -177,6 +225,13 @@ class IeltsPassage(Base):
     paragraphs           = Column(JSON, nullable=False)   # list of {label, text}
     question_range_start = Column(Integer, nullable=True)
     question_range_end   = Column(Integer, nullable=True)
+    
+    # Gold Standard Stimulus tracking
+    word_count           = Column(Integer, nullable=True)
+    lexile_score         = Column(DECIMAL(5, 2), nullable=True)
+    topic_domain         = Column(String(255), nullable=True)
+    workflow_status      = Column(Enum(ItemStatus), default=ItemStatus.DRAFT)
+    
     needs_review         = Column(Boolean, default=True)
     parsed_at            = Column(DateTime(timezone=True), nullable=True)
     created_at           = Column(DateTime(timezone=True), server_default=func.now())
@@ -208,8 +263,8 @@ class IeltsQuestionGroup(Base):
 
 class IeltsQuestion(Base):
     """
-    One row per individual question. Options stored as JSON for flexible
-    support across all 14 IELTS question sub-types.
+    One row per individual question.
+    Decoupled from options and answer strings to support IRT metrics and partial scaffolding.
     """
     __tablename__ = "ielts_questions"
 
@@ -217,12 +272,59 @@ class IeltsQuestion(Base):
     group_id        = Column(String, ForeignKey("ielts_question_groups.id"), nullable=False)
     question_number = Column(Integer, nullable=False)
     question_text   = Column(Text, nullable=True)
+    # Gold Standard Properties
+    cognitive_skill   = Column(String(255), nullable=True)       # e.g., 'INFERENCE', 'DETAIL', 'AUTHOR_PURPOSE'
+    target_cefr_level = Column(Enum(CEFRLevel), nullable=True)
+    workflow_status   = Column(Enum(ItemStatus), default=ItemStatus.DRAFT)
+    
+    # Legacy Properties (Intact for backwards compatibility)
     options         = Column(JSON, nullable=True)      # list of {letter, text} or None
     answer          = Column(String(500), nullable=True)
+    
     answer_source   = Column(String(50), nullable=True)  # "llm_generated" or "human"
     needs_review    = Column(Boolean, default=True)
 
     group           = relationship("IeltsQuestionGroup", back_populates="questions")
+    options_list    = relationship("IeltsItemOption", back_populates="question", cascade="all, delete-orphan")
+    psychometrics   = relationship("IeltsItemPsychometrics", back_populates="question", uselist=False, cascade="all, delete-orphan")
+
+
+class IeltsItemOption(Base):
+    """
+    Stores scoring logic and distractors for each question.
+    """
+    __tablename__ = "ielts_item_options"
+
+    id              = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))
+    question_id     = Column(String, ForeignKey("ielts_questions.id"), nullable=False)
+    option_text     = Column(Text, nullable=False)
+    is_correct      = Column(Boolean, nullable=False, default=False)
+    scoring_weight  = Column(DECIMAL(5, 2), default=1.0)
+    rationale       = Column(Text, nullable=True)        # Mandatory for high-stakes audits
+    distractor_type = Column(String(255), nullable=True) # E.g., 'OPPOSITE', 'NOT_GIVEN'
+
+    question        = relationship("IeltsQuestion", back_populates="options_list")
+
+
+class IeltsItemPsychometrics(Base):
+    """
+    Stores classical and IRT psychometric constants updated dynamically via calibration workflows.
+    """
+    __tablename__ = "ielts_item_psychometrics"
+
+    question_id        = Column(String, ForeignKey("ielts_questions.id"), primary_key=True)
+    
+    p_value            = Column(DECIMAL(5, 3), nullable=True)
+    point_biserial     = Column(DECIMAL(5, 3), nullable=True)
+    
+    irt_a_parameter    = Column(DECIMAL(5, 3), nullable=True)
+    irt_b_parameter    = Column(DECIMAL(5, 3), nullable=True)
+    irt_c_parameter    = Column(DECIMAL(5, 3), nullable=True)
+    
+    exposure_rate      = Column(DECIMAL(5, 3), nullable=True)
+    last_calibrated_at = Column(DateTime(timezone=True), nullable=True)
+
+    question           = relationship("IeltsQuestion", back_populates="psychometrics")
 
 
 class IeltsMigrationLog(Base):

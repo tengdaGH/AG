@@ -113,6 +113,10 @@ def run_editorial_agent(item_id: str, prompt_content_json: str, task_type: TaskT
         word_count = len(text.split())
         if word_count < 100:
             return False, f"Academic passage too short: {word_count} words (Expected ~200)."
+        
+        # New check: Detect mid-sentence line breaks (single \n)
+        if re.search(r'(?<!\n)\n(?!\n)', text):
+            return False, "Formatting error: Mid-sentence line breaks (single \\n) detected. Ensure text is continuous."
 
     return True, "Structural and mechanics formatting adheres to specs."
 

@@ -11,7 +11,7 @@ from sqlalchemy.orm import Session
 from app.services.gemini_service import evaluate_essay_with_gemini, evaluate_speech_with_gemini
 from app.database.connection import engine, Base, get_db
 from app.models import models
-from app.api.routes import sessions, items, tts, ielts
+from app.api.routes import sessions, items, tts, ielts, audio
 
 # Create database tables
 Base.metadata.create_all(bind=engine)
@@ -23,6 +23,7 @@ app.include_router(sessions.router, prefix="/api")
 app.include_router(items.router, prefix="/api")
 app.include_router(tts.router, prefix="/api")
 app.include_router(ielts.router, prefix="/api")
+app.include_router(audio.router, prefix="/api")
 
 # Allow frontend requests
 app.add_middleware(

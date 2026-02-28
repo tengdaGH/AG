@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useRef } from 'react';
+import { CustomAudioPlayer } from './CustomAudioPlayer';
 
 interface ListenAcademicTalkProps {
     audioUrl: string;
@@ -20,41 +21,28 @@ export const ListenAcademicTalk: React.FC<ListenAcademicTalkProps> = ({
     const [audioFinished, setAudioFinished] = useState(false);
     const [optionsVisible, setOptionsVisible] = useState(false);
     const [selectedOption, setSelectedOption] = useState<number | null>(null);
-    const audioRef = useRef<HTMLAudioElement>(null);
     const timerRef = useRef<NodeJS.Timeout | null>(null);
 
+    // Reset state when the component receives a new question/audio
     useEffect(() => {
-        if (!audioRef.current) return;
+        setAudioFinished(false);
+        setOptionsVisible(false);
+        setSelectedOption(null);
+        if (timerRef.current) clearTimeout(timerRef.current);
+    }, [audioUrl, questionText]);
 
-        const showOptions = () => {
-            setAudioFinished(true);
-            timerRef.current = setTimeout(() => {
-                setOptionsVisible(true);
-            }, 200);
-        };
-
-        const handleEnded = () => showOptions();
-        const handleError = () => showOptions();
-
-        audioRef.current.addEventListener('ended', handleEnded);
-        audioRef.current.addEventListener('error', handleError);
-        audioRef.current.play().catch(() => {
-            timerRef.current = setTimeout(showOptions, 2000);
-        });
-
-        const fallbackTimer = setTimeout(() => {
-            if (!optionsVisible) showOptions();
-        }, 3000);
-
+    useEffect(() => {
         return () => {
-            if (audioRef.current) {
-                audioRef.current.removeEventListener('ended', handleEnded);
-                audioRef.current.removeEventListener('error', handleError);
-            }
             if (timerRef.current) clearTimeout(timerRef.current);
-            clearTimeout(fallbackTimer);
         };
     }, []);
+
+    const handleAudioEnded = () => {
+        setAudioFinished(true);
+        timerRef.current = setTimeout(() => {
+            setOptionsVisible(true);
+        }, 200);
+    };
 
     const handleOptionSelect = (idx: number) => {
         setSelectedOption(idx);
@@ -68,7 +56,7 @@ export const ListenAcademicTalk: React.FC<ListenAcademicTalkProps> = ({
             {/* Split Screen Area (No thick top border for Academic Talk) */}
             <div style={{ display: 'flex', flex: 1, overflow: 'hidden' }}>
                 {/* Left Pane: Audio Player */}
-                <div style={{ flex: '1 1 50%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '40px', gap: '20px' }}>
+                <div style={{ flex: '1 1 50%', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'flex-start', padding: '40px', gap: '20px' }}>
                     {speakerImageUrl && (
                         <img
                             src={speakerImageUrl}
@@ -76,7 +64,7 @@ export const ListenAcademicTalk: React.FC<ListenAcademicTalkProps> = ({
                             style={{ maxWidth: '100%', maxHeight: '300px', objectFit: 'contain' }}
                         />
                     )}
-                    <audio ref={audioRef} src={audioUrl} controls style={{ width: '80%', maxWidth: '400px' }} />
+                    <CustomAudioPlayer src={audioUrl} onEnded={handleAudioEnded} />
                     <p style={{ color: '#767676', fontSize: '14px', margin: 0 }}>Listen to the talk, then answer the question.</p>
                 </div>
 

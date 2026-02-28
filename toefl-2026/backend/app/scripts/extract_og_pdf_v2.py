@@ -5,8 +5,9 @@ extract_og_pdf_v2.py – Dump all pages to a text file for analysis.
 import pymupdf
 from pathlib import Path
 
-PDF_PATH = Path(__file__).resolve().parents[3] / "The Official Guide to the TOEFL iBT Test_ Pocket Edition (Limited Digital Release).pdf"
-OUT_PATH = Path(__file__).resolve().parents[3] / "og_pdf_dump.txt"
+BASE_DIR = Path(__file__).resolve().parents[3]
+PDF_PATH = BASE_DIR / "2026新托福Pack-6.pdf"
+OUT_PATH = BASE_DIR / "og_pdf_dump.txt"
 
 doc = pymupdf.open(str(PDF_PATH))
 print(f"Total pages: {doc.page_count}")

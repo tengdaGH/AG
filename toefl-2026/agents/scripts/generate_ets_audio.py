@@ -642,26 +642,13 @@ def clean_ocr_text(text: str) -> str:
 
 def extract_lar_trainer_text(pc: dict) -> str:
     """
-    LAR items contain the full ETS instruction page as `text`.
-    Extract only the `Trainer:` lines which are the actual spoken content to synthesize.
+    Extract the actual spoken sentence to synthesize.
     """
-    raw = pc.get("text", "")
-    if not raw:
-        return ""
-    raw = clean_ocr_text(raw)
-
-    # Extract all Trainer: lines
-    trainer_lines = re.findall(r'Trainer:\s*(.+?)(?=\nTrainer:|$)', raw, re.DOTALL)
-    if trainer_lines:
-        # Clean each line and join with a natural pause spacing
-        cleaned = []
-        for line in trainer_lines:
-            line = re.sub(r'\s+', ' ', line.strip())
-            if line:
-                cleaned.append(line)
-        return "\n".join(cleaned)  # One trainer line per line for natural pacing
-
-    # Fallback: check for sentence/phrase fields
+    sentences = pc.get("sentences", [])
+    if sentences and isinstance(sentences, list) and len(sentences) > 0:
+        return sentences[0].get("text", "")
+    
+    # Fallback just in case
     return pc.get("sentence", "") or pc.get("phrase", "") or ""
 
 

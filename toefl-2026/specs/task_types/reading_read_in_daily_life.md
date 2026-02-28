@@ -23,6 +23,7 @@ Measures the ability to comprehend short, nonacademic texts commonly encountered
 
 ## Constraints
 
+- **MCQ Quality**: All multiple-choice questions MUST strictly adhere to the guidelines in `.agent/knowledge/item-quality/mcq_item_quality.md` to ensure psychometric validity.
 - Texts must represent daily life contexts from around the world (not US-centric)
 - Nonacademic content only
 - No specialized background knowledge required
@@ -60,7 +61,7 @@ Measures the ability to comprehend short, nonacademic texts commonly encountered
 - (D) Email the university portal administrator.
 
 
-## 3. Interaction & Delivery Mechanics
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Initial State (Passage Only)**: The short daily life text (email, schedule, message) is displayed full width.
 2. **Interactive State (Split-Screen)**: Clicking "Next" splits the screen. The text anchors left, the question appears right.

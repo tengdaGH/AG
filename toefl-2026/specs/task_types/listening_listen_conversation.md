@@ -16,6 +16,7 @@ Measures the ability to fully comprehend a conversation in everyday situations. 
 
 ## Constraints
 
+- **MCQ Quality**: All multiple-choice questions MUST strictly adhere to the guidelines in `.agent/knowledge/item-quality/mcq_item_quality.md` to ensure psychometric validity.
 - Everyday, public domain topics only
 - No specialized or academic content
 - Natural conversational register
@@ -55,7 +56,16 @@ Measures the ability to fully comprehend a conversation in everyday situations. 
 - (F) No, that's good. Thanks!
 
 
-## 3. Interaction & Delivery Mechanics
+## Visual Asset Generation (Pic Gen)
+
+All visual assets must strictly adhere to the ETS testing visualization guidelines:
+- **Style**: Clean, flat, educational textbook style vector art; minimalist and non-distracting.
+- **Color Palette**: Muted colors, neutral backgrounds. Avoid overly vibrant or aggressive contrasting colors.
+- **Characters**: Use distinct figures (e.g., specific male/female silhouettes) for dialogues, or generic/unisex figures for monologues.
+- **No Text**: Do NOT include any readable English text or numbers in the illustrations.
+- **Cultural Neutrality**: Settings must be universally recognizable (e.g., standard library, cafeteria) unless specifically dictated by the scenario.
+
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Introductory Prompt**: The screen displays an introductory text and image, accompanied by audio saying "Now listen to a conversation between a student and a professor..."
 2. **Audio Playback**: The audio auto-plays exactly once. There are no controls.

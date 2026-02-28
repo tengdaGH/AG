@@ -47,7 +47,7 @@ export async function GET(
                 instructions: g.instruction || g.instructions || '',
                 questions: questions.map((q: any) => ({
                     number: q.number,
-                    text: q.text || q.question_text || '',
+                    text: q.question_text || '',
                     options: q.options || null,
                     answer: q.answer || null,
                 })),

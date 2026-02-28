@@ -48,7 +48,9 @@ def get_ielts_reading(source_id: str, db: Session = Depends(get_db)):
     """Fetch a complete IELTS reading passage and all its questions."""
     
     passage = db.query(IeltsPassage).options(
-        joinedload(IeltsPassage.question_groups).joinedload(IeltsQuestionGroup.questions)
+        joinedload(IeltsPassage.question_groups)
+        .joinedload(IeltsQuestionGroup.questions)
+        .joinedload(IeltsQuestion.options_list)
     ).filter(IeltsPassage.source_id == source_id).first()
     
     if not passage:
@@ -84,12 +86,22 @@ def get_ielts_reading(source_id: str, db: Session = Depends(get_db)):
         sorted_qs = sorted(group.questions, key=lambda q: q.question_number)
         
         for q in sorted_qs:
+            options_format = None
+            answer = None
+            if q.options_list:
+                options_format = [{"text": opt.option_text, "is_correct": opt.is_correct} for opt in sorted(q.options_list, key=lambda o: o.id)]
+                correct_opt = next((opt for opt in q.options_list if opt.is_correct), None)
+                answer = correct_opt.option_text if correct_opt else None
+            else:
+                options_format = q.options
+                answer = q.answer
+
             q_group["questions"].append({
                 "id": q.id,
                 "question_number": q.question_number,
                 "question_text": q.question_text,
-                "options": q.options,
-                "answer": q.answer
+                "options": options_format,
+                "answer": answer
             })
             
         passage_dict["question_groups"].append(q_group)

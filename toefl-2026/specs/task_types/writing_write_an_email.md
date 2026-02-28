@@ -45,7 +45,7 @@ Measures the ability to produce a multisentence written text that achieves a spe
 - Follow mechanical conventions of English (spelling, punctuation, capitalization)
 
 
-## 3. Interaction & Delivery Mechanics
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Split-Screen State**: The email prompt is displayed on the left, and the text input area is on the right.
 2. **Writing Area Rules**: Strictly plain-text input. No formatting toolbar.

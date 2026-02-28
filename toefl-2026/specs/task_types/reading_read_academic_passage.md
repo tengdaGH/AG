@@ -24,6 +24,7 @@ Questions may ask about:
 
 ## Constraints
 
+- **MCQ Quality**: All multiple-choice questions MUST strictly adhere to the guidelines in `.agent/knowledge/item-quality/mcq_item_quality.md` to ensure psychometric validity.
 - Background knowledge must NOT be required
 - Topics drawn from common academic subject areas
 - Passages must be self-contained and comprehensible without prior knowledge
@@ -64,8 +65,26 @@ Questions may ask about:
 4. "The author mentions [detail] in order to..."
 5. "Which of the following best describes the organization of the passage?"
 
+**Golden Standard MCQ Example**:
 
-## 3. Interaction & Delivery Mechanics
+*Passage Excerpt: "...Because of their small size, hummingbirds have extremely high metabolic rates. To maintain this energy output, they must consume nectar frequently. If a hummingbird fails to feed for even a few hours, it may enter a state of torpor—a hibernation-like reduction in body temperature—to prevent starvation."*
+
+**Question**: The author mentions that hummingbirds enter a state of "torpor" in order to...
+- A) reduce their overall body size over time.
+- B) avoid freezing during very cold weather.
+- C) conserve energy when food is unavailable.
+- D) digest the large amounts of nectar they consume.
+
+**Key**: C
+**Distractor Rationales**: 
+*   **A (reduce their overall body size)**: Plausible because "small size" is mentioned in the first sentence, but an erroneous cause-and-effect relationship.
+*   **B (avoid freezing)**: Plausible because "reduction in body temperature" is mentioned, but misinterprets the primary causal driver (starvation/energy).
+*   **C (conserve energy)**: Correct. It directly paraphrases "prevent starvation" and links to the high "energy output" context.
+*   **D (digest large amounts of nectar)**: Plausible because "consume nectar frequently" is stated, but misattributes the purpose of torpor.
+*   *Note on Parity: Option lengths are near-identical, varying from 7 to 9 words. No distinct grammatically clued outliers.*
+
+
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Initial State (Passage Only)**: When the item first loads, only the passage is visible (full width). The user must scroll to the bottom of the passage.
 2. **Interactive State (Split-Screen)**: Only after clicking "Next" from the passage-only view does the screen split (50/50). The passage is anchored on the left, and the question appears on the right.

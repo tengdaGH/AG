@@ -55,7 +55,16 @@ Measures the ability to communicate spontaneously and meaningfully in response t
 4. "For some time now, researchers have been interested in whether green spaces, such as parks, make people who live in cities happier. Do you think that city governments should create more parks in urban areas to promote a general sense of happiness and life satisfaction? Why or why not?"
 
 
-## 3. Interaction & Delivery Mechanics
+## Visual Asset Generation (Pic Gen)
+
+All visual assets must strictly adhere to the ETS testing visualization guidelines:
+- **Style**: Clean, flat, educational textbook style vector art; minimalist and non-distracting.
+- **Color Palette**: Muted colors, neutral backgrounds. Avoid overly vibrant or aggressive contrasting colors.
+- **Characters**: Use distinct figures (e.g., specific male/female silhouettes) for dialogues, or generic/unisex figures for monologues.
+- **No Text**: Do NOT include any readable English text or numbers in the illustrations.
+- **Cultural Neutrality**: Settings must be universally recognizable (e.g., standard library, cafeteria) unless specifically dictated by the scenario.
+
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Instruction State**: The narrator reads the overarching instructions for the interview task.
 2. **Video Playback**: The virtual interviewer asks the question via video/audio. There are no pause/play controls.

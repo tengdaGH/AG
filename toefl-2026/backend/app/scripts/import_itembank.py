@@ -20,7 +20,7 @@ from typing import Optional
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from app.database.connection import SessionLocal, engine, Base
-from app.models.models import TestItem, SectionType, CEFRLevel, TaskType
+from app.models.models import TestItem, TestItemQuestion, SectionType, CEFRLevel, TaskType
 
 # ── Directories ──
 DATA_DIR = Path(__file__).resolve().parents[3] / "data"
@@ -439,6 +439,26 @@ def main():
                         existing_item.target_level = rec.target_level
                         
                         flag_modified(existing_item, "prompt_content")
+                        
+                        target_tasks = [TaskType.COMPLETE_THE_WORDS, TaskType.READ_ACADEMIC_PASSAGE, TaskType.READ_IN_DAILY_LIFE, TaskType.LISTEN_CHOOSE_RESPONSE, TaskType.LISTEN_ACADEMIC_TALK, TaskType.LISTEN_ANNOUNCEMENT, TaskType.LISTEN_CONVERSATION]
+                        cr_tasks = {TaskType.WRITE_AN_EMAIL: 4, TaskType.WRITE_ACADEMIC_DISCUSSION: 5, TaskType.TAKE_AN_INTERVIEW: 5, TaskType.LISTEN_AND_REPEAT: 4}
+                        
+                        db.query(TestItemQuestion).filter(TestItemQuestion.test_item_id == existing_item.id).delete()
+                        if existing_item.task_type in target_tasks:
+                            for idx, q in enumerate(new_pc.get("questions", [])):
+                                q_num = q.get("question_num") or q.get("number") or (idx + 1)
+                                ans = q.get("correct_answer")
+                                if ans is not None:
+                                    db.add(TestItemQuestion(id=str(uuid.uuid4()), test_item_id=existing_item.id, question_number=q_num, question_text=q.get("question") or q.get("text"), question_audio_url=q.get("audio_path") or q.get("audio_url"), replay_audio_url=q.get("replay_audio_path") or q.get("replay_audio_url"), correct_answer=str(ans).strip(), options=q.get("options"), irt_difficulty=0.0, irt_discrimination=1.0, exposure_count=0, is_active=True))
+                        elif existing_item.task_type == TaskType.TAKE_AN_INTERVIEW:
+                            for idx, q in enumerate(new_pc.get("questions", [])):
+                                db.add(TestItemQuestion(id=str(uuid.uuid4()), test_item_id=existing_item.id, question_number=q.get("number") or (idx+1), question_text=q.get("text", ""), question_audio_url=q.get("audio_url") or q.get("audioUrl"), correct_answer="", is_constructed_response=True, max_score=cr_tasks[existing_item.task_type], irt_difficulty=0.0, irt_discrimination=1.0, exposure_count=0, is_active=True))
+                        elif existing_item.task_type == TaskType.LISTEN_AND_REPEAT:
+                            for idx, s in enumerate(new_pc.get("sentences", [])):
+                                db.add(TestItemQuestion(id=str(uuid.uuid4()), test_item_id=existing_item.id, question_number=idx+1, question_text=s.get("text", ""), question_audio_url=s.get("audio_url") or s.get("audioUrl"), correct_answer="", is_constructed_response=True, max_score=cr_tasks[existing_item.task_type], irt_difficulty=0.0, irt_discrimination=1.0, exposure_count=0, is_active=True))
+                        elif existing_item.task_type in cr_tasks:
+                            q_text = new_pc.get("scenario") or new_pc.get("professor_prompt") or new_pc.get("title") or ""
+                            db.add(TestItemQuestion(id=str(uuid.uuid4()), test_item_id=existing_item.id, question_number=1, question_text=q_text, correct_answer="", is_constructed_response=True, max_score=cr_tasks[existing_item.task_type], irt_difficulty=0.0, irt_discrimination=1.0, exposure_count=0, is_active=True))
                     except json.JSONDecodeError:
                         pass
                 
@@ -460,7 +480,30 @@ def main():
                     source_file=rec.source_file,
                     source_id=rec.source_id,
                 )
-                db.add(item)
+                
+                target_tasks = [TaskType.COMPLETE_THE_WORDS, TaskType.READ_ACADEMIC_PASSAGE, TaskType.READ_IN_DAILY_LIFE, TaskType.LISTEN_CHOOSE_RESPONSE, TaskType.LISTEN_ACADEMIC_TALK, TaskType.LISTEN_ANNOUNCEMENT, TaskType.LISTEN_CONVERSATION]
+                cr_tasks = {TaskType.WRITE_AN_EMAIL: 4, TaskType.WRITE_ACADEMIC_DISCUSSION: 5, TaskType.TAKE_AN_INTERVIEW: 5, TaskType.LISTEN_AND_REPEAT: 4}
+                
+                try:
+                    pc = json.loads(item.prompt_content)
+                    if item.task_type in target_tasks:
+                        for idx, q in enumerate(pc.get("questions", [])):
+                            q_num = q.get("question_num") or q.get("number") or (idx + 1)
+                            ans = q.get("correct_answer")
+                            if ans is not None:
+                                db.add(TestItemQuestion(id=str(uuid.uuid4()), test_item_id=item.id, question_number=q_num, question_text=q.get("question") or q.get("text"), question_audio_url=q.get("audio_path") or q.get("audio_url"), replay_audio_url=q.get("replay_audio_path") or q.get("replay_audio_url"), correct_answer=str(ans).strip(), options=q.get("options"), irt_difficulty=0.0, irt_discrimination=1.0, exposure_count=0, is_active=True))
+                    elif item.task_type == TaskType.TAKE_AN_INTERVIEW:
+                        for idx, q in enumerate(pc.get("questions", [])):
+                            db.add(TestItemQuestion(id=str(uuid.uuid4()), test_item_id=item.id, question_number=q.get("number") or (idx+1), question_text=q.get("text", ""), question_audio_url=q.get("audio_url") or q.get("audioUrl"), correct_answer="", is_constructed_response=True, max_score=cr_tasks[item.task_type], irt_difficulty=0.0, irt_discrimination=1.0, exposure_count=0, is_active=True))
+                    elif item.task_type == TaskType.LISTEN_AND_REPEAT:
+                        for idx, s in enumerate(pc.get("sentences", [])):
+                            db.add(TestItemQuestion(id=str(uuid.uuid4()), test_item_id=item.id, question_number=idx+1, question_text=s.get("text", ""), question_audio_url=s.get("audio_url") or s.get("audioUrl"), correct_answer="", is_constructed_response=True, max_score=cr_tasks[item.task_type], irt_difficulty=0.0, irt_discrimination=1.0, exposure_count=0, is_active=True))
+                    elif item.task_type in cr_tasks:
+                        q_text = pc.get("scenario") or pc.get("professor_prompt") or pc.get("title") or ""
+                        db.add(TestItemQuestion(id=str(uuid.uuid4()), test_item_id=item.id, question_number=1, question_text=q_text, correct_answer="", is_constructed_response=True, max_score=cr_tasks[item.task_type], irt_difficulty=0.0, irt_discrimination=1.0, exposure_count=0, is_active=True))
+                except:
+                    pass
+
                 db.add(item)
                 existing[key] = item
 

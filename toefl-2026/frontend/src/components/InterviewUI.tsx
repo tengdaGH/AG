@@ -4,24 +4,30 @@ import React, { useState, useEffect, useRef } from 'react';
 import { useMediaRecorderChunking } from '../hooks/useMediaRecorderChunking';
 
 interface InterviewUIProps {
-    promptVideoUrl: string; // The specific question MP4
+    promptAudioUrl: string; // The specific question audio
+    imageUrl: string; // Avatar for the interviewer
     maxRecordTimeSeconds: number; // usually 45
-    websocketUrl: string;
+    uploadUrl: string;
+    questionId: string;
+    sessionId: string;
 }
 
 export const InterviewUI: React.FC<InterviewUIProps> = ({
-    promptVideoUrl,
+    promptAudioUrl,
+    imageUrl,
     maxRecordTimeSeconds,
-    websocketUrl
+    uploadUrl,
+    questionId,
+    sessionId
 }) => {
     // idle -> prompt -> recording -> done
     const [state, setState] = useState<'IDLE' | 'PROMPT' | 'RECORDING' | 'DONE'>('IDLE');
     const [secondsLeft, setSecondsLeft] = useState(maxRecordTimeSeconds);
-    const videoRef = useRef<HTMLVideoElement>(null);
+    const audioRef = useRef<HTMLAudioElement>(null);
     const audioContextRef = useRef<AudioContext | null>(null);
 
-    // The secure WebRTC audio chunking protocol
-    const { isRecording, startRecording, stopRecording } = useMediaRecorderChunking(websocketUrl);
+    // The secure HTTP audio chunking protocol
+    const { isRecording, startRecording, stopRecording } = useMediaRecorderChunking(uploadUrl, questionId, sessionId);
 
     // Play 500ms synthesized 800Hz sine beep, identical to ETS signature
     const playETSBeep = () => {
@@ -46,7 +52,7 @@ export const InterviewUI: React.FC<InterviewUIProps> = ({
         }, 500);
     };
 
-    const handleVideoEnded = () => {
+    const handleAudioEnded = () => {
         if (state === 'PROMPT') {
             // Cutover: the exact millisecond the prompt ends, transition and beep.
             playETSBeep();
@@ -55,10 +61,12 @@ export const InterviewUI: React.FC<InterviewUIProps> = ({
 
     const startPrompt = () => {
         setState('PROMPT');
-        if (videoRef.current) {
-            videoRef.current.loop = false; // Stop idle looping
-            videoRef.current.src = promptVideoUrl;
-            videoRef.current.play().catch(e => console.warn("Video blocked:", e));
+        if (audioRef.current) {
+            // Start audio once the AI prompt button is clicked
+            audioRef.current.play().catch(e => console.warn("Audio blocked:", e));
+        } else {
+            // If there's no audio, just beep and start recording
+            setTimeout(() => playETSBeep(), 1000);
         }
     };
 
@@ -101,24 +109,27 @@ export const InterviewUI: React.FC<InterviewUIProps> = ({
                 {state === 'DONE' && 'Response recorded.'}
             </h2>
 
-            {/* Simulated Live Interviewer Video */}
+            {/* Avatar image for the mock interviewer */}
             <div style={{
-                width: '640px', height: '360px', backgroundColor: '#000',
-                border: '1px solid #767676',
-                overflow: 'hidden', position: 'relative', marginBottom: '40px'
+                width: '320px', height: '320px', backgroundColor: '#f1f5f9',
+                border: '1px solid #767676', borderRadius: '50%',
+                overflow: 'hidden', position: 'relative', marginBottom: '40px',
+                display: 'flex', justifyContent: 'center', alignItems: 'center'
             }}>
-                <video
-                    ref={videoRef}
-                    playsInline
-                    disablePictureInPicture
-                    controlsList="nodownload nofullscreen noremoteplayback"
+                <img
+                    src={imageUrl}
+                    alt="Interviewer Avatar"
                     style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-                    onEnded={handleVideoEnded}
-                >
-                    {/* Simulated idle breathing loops could be preloaded here */}
-                    <source src="/legacy_idle_loop.mp4" type="video/mp4" />
-                </video>
+                    onError={(e) => { e.currentTarget.src = "/images/placeholder_user.png"; }}
+                />
             </div>
+
+            {/* Hidden audio element to play the prompt audio */}
+            <audio
+                ref={audioRef}
+                src={promptAudioUrl}
+                onEnded={handleAudioEnded}
+            />
 
             {/* Test Simulation Controls (Only for Demo purposes, normally triggered by test sequencer) */}
             {state === 'IDLE' && (

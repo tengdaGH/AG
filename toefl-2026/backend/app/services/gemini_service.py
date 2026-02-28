@@ -23,7 +23,7 @@ async def evaluate_essay_with_gemini(text: str, expected_word_count: int) -> dic
             
             # Using synchronous call in a thread or asyncio.to_thread in real app, but for simplicity here:
             response = client.models.generate_content(
-                model='gemini-1.5-pro',
+                model='gemini-1.5-pro-latest',
                 contents=[prompt],
             )
             

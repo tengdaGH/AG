@@ -11,8 +11,9 @@ import pymupdf
 from pathlib import Path
 
 def render_pages(pdf_path: str, start: int, end: int, dpi: int = 200):
-    out_dir = Path("/Users/tengda/Antigravity/toefl-2026/pdf_pages")
-    out_dir.mkdir(exist_ok=True)
+    base_dir = Path(__file__).resolve().parents[3]
+    out_dir = base_dir / "pdf_pages"
+    out_dir.mkdir(parents=True, exist_ok=True)
     
     doc = pymupdf.open(pdf_path)
     pdf_name = Path(pdf_path).stem

@@ -10,7 +10,8 @@ Usage:
 import pymupdf
 from pathlib import Path
 
-PDF_PATH = Path(__file__).resolve().parents[3] / "The Official Guide to the TOEFL iBT Test_ Pocket Edition (Limited Digital Release).pdf"
+BASE_DIR = Path(__file__).resolve().parents[3]
+PDF_PATH = BASE_DIR / "2026新托福Pack-6.pdf"
 
 doc = pymupdf.open(str(PDF_PATH))
 print(f"Total pages: {doc.page_count}")

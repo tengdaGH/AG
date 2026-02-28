@@ -55,7 +55,16 @@ Measures the ability to process spoken sentences and then accurately and intelli
 7. "The visitor's center, located near the front entrance, can give you more information."
 
 
-## 3. Interaction & Delivery Mechanics
+## Visual Asset Generation (Pic Gen)
+
+All visual assets must strictly adhere to the ETS testing visualization guidelines:
+- **Style**: Clean, flat, educational textbook style vector art; minimalist and non-distracting.
+- **Color Palette**: Muted colors, neutral backgrounds. Avoid overly vibrant or aggressive contrasting colors.
+- **Characters**: Use distinct figures (e.g., specific male/female silhouettes) for dialogues, or generic/unisex figures for monologues.
+- **No Text**: Do NOT include any readable English text or numbers in the illustrations.
+- **Cultural Neutrality**: Settings must be universally recognizable (e.g., standard library, cafeteria) unless specifically dictated by the scenario.
+
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Instruction State**: Brief instructions are shown and read.
 2. **Audio Prompt**: The short sentence phrase is played exactly once.

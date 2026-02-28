@@ -1,5 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
+import { useMediaRecorderChunking } from '../hooks/useMediaRecorderChunking';
 
 export interface ListenRepeatProps {
     imageUrl: string;
@@ -10,23 +11,69 @@ export interface ListenRepeatProps {
 
 export function ListenRepeat({ imageUrl, imageAlt = "Listen and repeat context", audioUrl, onAudioEnd }: ListenRepeatProps) {
     const { t } = useLanguage();
-    const [isPlaying, setIsPlaying] = useState(false);
+    const [state, setState] = useState<'LISTENING' | 'BEEP' | 'RECORDING' | 'DONE'>('LISTENING');
+    const [secondsLeft, setSecondsLeft] = useState(15);
+    const audioRef = useRef<HTMLAudioElement>(null);
+    const audioContextRef = useRef<AudioContext | null>(null);
 
-    // Use a direct fallback check incase the translation function returns the raw key
+    // The secure WebRTC audio chunking protocol
+    const { isRecording, startRecording, stopRecording } = useMediaRecorderChunking('ws://localhost:8000/ws/audio');
     const translation = t('test.listenAndRepeatOnlyOnce');
     const instructionText = translation === 'test.listenAndRepeatOnlyOnce' ? 'Listen and repeat only once.' : translation;
 
-    // In a real integration, we would play the audioUrl here on mount or via a sequencer.
-    // For the UI rendering match, the focus is the visual layout.
-    useEffect(() => {
-        if (audioUrl) {
-            // Placeholder: Logic to play audio would go here.
-            // Example:
-            // const audio = new Audio(audioUrl);
-            // audio.play();
-            // audio.onended = () => { setIsPlaying(false); onAudioEnd?.(); }
+    // Play 500ms synthesized 800Hz sine beep, identical to ETS signature
+    const playETSBeep = () => {
+        setState('BEEP');
+        if (!audioContextRef.current) {
+            audioContextRef.current = new (window.AudioContext || (window as any).webkitAudioContext)();
         }
-    }, [audioUrl, onAudioEnd]);
+        const osc = audioContextRef.current.createOscillator();
+        const gainNode = audioContextRef.current.createGain();
+        osc.type = 'sine';
+        osc.frequency.setValueAtTime(800, audioContextRef.current.currentTime);
+
+        osc.connect(gainNode);
+        gainNode.connect(audioContextRef.current.destination);
+
+        osc.start();
+        osc.stop(audioContextRef.current.currentTime + 0.5); // 500ms playback
+
+        // Once the beep finishes, recording state unlocks
+        setTimeout(() => {
+            setState('RECORDING');
+            startRecording();
+        }, 500);
+    };
+
+    useEffect(() => {
+        if (state === 'LISTENING' && audioUrl && audioRef.current) {
+            audioRef.current.play().catch(e => console.warn("Auto-play prevented:", e));
+
+            const handleEnded = () => {
+                playETSBeep();
+            };
+            const currentAudio = audioRef.current;
+            currentAudio.addEventListener('ended', handleEnded);
+
+            return () => {
+                currentAudio.removeEventListener('ended', handleEnded);
+            };
+        }
+    }, [audioUrl, state]);
+
+    // Timer sync for the recording phase
+    useEffect(() => {
+        if (state === 'RECORDING' && secondsLeft > 0) {
+            const timer = setTimeout(() => {
+                setSecondsLeft(prev => prev - 1);
+            }, 1000);
+            return () => clearTimeout(timer);
+        } else if (state === 'RECORDING' && secondsLeft <= 0) {
+            setState('DONE');
+            stopRecording();
+            onAudioEnd?.();
+        }
+    }, [state, secondsLeft, stopRecording, onAudioEnd]);
 
     return (
         <div style={{
@@ -76,12 +123,53 @@ export function ListenRepeat({ imageUrl, imageAlt = "Listen and repeat context",
                 />
             </div>
 
-            {/* 
-              Note: The "Recording" state is often handled by a global or shared component 
-              (like a sticky bottom bar or overlay) in actual operation. 
-              The core Figure 11 UI is just the instruction and image.
-            */}
+            {/* Test Status Indicators */}
+            <div style={{ marginTop: '40px', height: '100px', display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+                {state === 'LISTENING' && (
+                    <div style={{ textAlign: 'center' }}>
+                        <div style={{ fontSize: '40px', marginBottom: '8px' }}>🎧</div>
+                        <div style={{ color: '#005587', fontSize: '18px', fontWeight: 'bold' }}>Now Listening...</div>
+                    </div>
+                )}
+                {state === 'RECORDING' && (
+                    <div style={{ textAlign: 'center' }}>
+                        <div style={{
+                            fontSize: '40px', fontWeight: 'bold', color: '#D32F2F', fontVariantNumeric: 'tabular-nums',
+                            animation: 'pulse 2s infinite', marginBottom: '8px'
+                        }}>
+                            00:{secondsLeft.toString().padStart(2, '0')}
+                        </div>
+                        <div style={{ color: '#D32F2F', fontSize: '18px', fontWeight: 'bold' }}>
+                            🎙️ Now Recording...
+                        </div>
 
-        </div>
+                        <style dangerouslySetInnerHTML={{
+                            __html: `
+                            @keyframes pulse {
+                                0% { opacity: 1; }
+                                50% { opacity: 0.5; }
+                                100% { opacity: 1; }
+                            }
+                        `}} />
+                    </div>
+                )}
+                {state === 'DONE' && (
+                    <div style={{ textAlign: 'center', color: '#388E3C', fontSize: '18px', fontWeight: 'bold' }}>
+                        ✓ Response Recorded
+                    </div>
+                )}
+            </div>
+
+            {
+                audioUrl && (
+                    <audio
+                        ref={audioRef}
+                        src={audioUrl}
+                        style={{ display: 'none' }}
+                    />
+                )
+            }
+
+        </div >
     );
 }

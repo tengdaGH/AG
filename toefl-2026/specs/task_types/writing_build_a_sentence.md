@@ -32,7 +32,15 @@ Measures command of English sentence structures — a skill essential for all wr
 - Recognition of question formation patterns
 
 
-## 3. Interaction & Delivery Mechanics
+## Example
+
+**Target Sentence**: The library is closed on Sundays during the summer.
+
+**Word Bank** (scrambled): [during] [closed] [is] [summer] [Sundays] [the] [The] [on] [library]
+
+**Correct Response**: The library is closed on Sundays during the summer.
+
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Split-Screen State**: The target image and word bank are displayed on the left, and the text input area is on the right.
 2. **Writing Area Rules**: Strictly plain-text input.

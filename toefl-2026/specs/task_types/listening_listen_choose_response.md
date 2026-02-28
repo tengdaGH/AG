@@ -15,6 +15,7 @@ Measures the ability to understand a short, spoken question or statement and rec
 
 ## Constraints
 
+- **MCQ Quality**: All multiple-choice questions MUST strictly adhere to the guidelines in `.agent/knowledge/item-quality/mcq_item_quality.md` to ensure psychometric validity.
 - Topics related to everyday life
 - Speakers from four accent regions: North America, UK, Australia, New Zealand
 - Audio stimulus only (no text shown for the spoken prompt)
@@ -48,7 +49,16 @@ Measures the ability to understand a short, spoken question or statement and rec
 - (D) I usually study at the library.
 
 
-## 3. Interaction & Delivery Mechanics
+## Visual Asset Generation (Pic Gen)
+
+All visual assets must strictly adhere to the ETS testing visualization guidelines:
+- **Style**: Clean, flat, educational textbook style vector art; minimalist and non-distracting.
+- **Color Palette**: Muted colors, neutral backgrounds. Avoid overly vibrant or aggressive contrasting colors.
+- **Characters**: Use distinct figures (e.g., specific male/female silhouettes) for dialogues, or generic/unisex figures for monologues.
+- **No Text**: Do NOT include any readable English text or numbers in the illustrations.
+- **Cultural Neutrality**: Settings must be universally recognizable (e.g., standard library, cafeteria) unless specifically dictated by the scenario.
+
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Introductory Prompt**: The narrator introduces the short utterance.
 2. **Audio Playback**: The short utterance plays once. 

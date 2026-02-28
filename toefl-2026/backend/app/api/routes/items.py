@@ -16,6 +16,19 @@ import pydantic
 
 router = APIRouter(prefix="/items", tags=["items"])
 
+class TestItemQuestionResponse(pydantic.BaseModel):
+    id: str
+    question_number: int
+    question_text: Optional[str] = None
+    question_audio_url: Optional[str] = None
+    replay_audio_url: Optional[str] = None
+    options: Optional[List[Any]] = None
+    is_constructed_response: bool
+    max_score: Optional[int] = None
+
+    class Config:
+        from_attributes = True
+
 class TestItemResponse(pydantic.BaseModel):
     id: str
     section: str
@@ -35,6 +48,7 @@ class TestItemResponse(pydantic.BaseModel):
     last_exposed_at: Optional[datetime] = None
     source_file: Optional[str] = None
     source_id: Optional[str] = None
+    questions: List[TestItemQuestionResponse] = []
 
     class Config:
         from_attributes = True
@@ -124,6 +138,28 @@ def get_random_items(
     items = query.order_by(sa_func.random()).limit(min(count, 50)).all()
     return items
 
+@router.get("/filter", response_model=List[TestItemResponse])
+def filter_items(
+    source_id_prefix: Optional[str] = None,
+    section: Optional[str] = None,
+    db: Session = Depends(get_db)
+):
+    """Filter items by source_id prefix and optional section."""
+    query = db.query(TestItem).filter(TestItem.is_active == True)
+    if source_id_prefix:
+        query = query.filter(TestItem.source_id.like(f"{source_id_prefix}%"))
+    if section:
+        query = query.filter(TestItem.section == section)
+    return query.all()
+
+@router.get("/by-source/{source_id}", response_model=TestItemResponse)
+def get_item_by_source(source_id: str, db: Session = Depends(get_db)):
+    """Retrieve a single test item by source_id."""
+    item = db.query(TestItem).filter(TestItem.source_id == source_id).first()
+    if not item:
+        raise HTTPException(status_code=404, detail=f"Item with source_id {source_id} not found")
+    return item
+
 @router.get("/{item_id}", response_model=TestItemResponse)
 def get_item(item_id: str, db: Session = Depends(get_db)):
     """Retrieve a single test item by ID."""
@@ -170,6 +206,7 @@ def delete_item(item_id: str, db: Session = Depends(get_db)):
     db.delete(item)
     db.commit()
     return {"status": "deleted", "id": item_id}
+
 
 @router.get("/{item_id}/history")
 def get_item_history(item_id: str, db: Session = Depends(get_db)):

@@ -3,7 +3,9 @@
 import React, { useState } from 'react';
 
 interface ReadInDailyLifeProps {
-    imageUrl: string;
+    imageUrl?: string;
+    stimulusText?: string;
+    contentObj?: any;
     altText?: string;
     headerText?: string;
     stimulusType?: 'notice' | 'social_media' | 'email' | 'text_messages' | 'menu' | 'schedule' | 'default';
@@ -12,6 +14,8 @@ interface ReadInDailyLifeProps {
 
 export const ReadInDailyLife: React.FC<ReadInDailyLifeProps> = ({
     imageUrl,
+    stimulusText,
+    contentObj,
     altText = "Reading Stimulus",
     headerText = "Read a notice.",
     stimulusType = 'default',
@@ -29,14 +33,95 @@ export const ReadInDailyLife: React.FC<ReadInDailyLifeProps> = ({
         setMousePos({ x, y });
     };
 
-    return (
-        <div style={{ display: 'flex', flexDirection: 'column', width: '100%', height: '100%', backgroundColor: '#FFFFFF', border: '1px solid #767676' }}>
-            {/* Header Area */}
-            <div style={{ width: '100%', padding: '24px 0', borderBottom: '1px solid #767676', textAlign: 'center' }}>
-                <h2 style={{ margin: 0, color: '#1A7A85', fontSize: '26px', fontWeight: 'bold', fontFamily: 'Arial, Helvetica, sans-serif' }}>
-                    {headerText}
-                </h2>
+    const renderContent = () => {
+        if (contentObj?.type === 'text_messages' && Array.isArray(contentObj.messages)) {
+            const firstSender = contentObj.messages[0]?.sender;
+            return (
+                <div style={{ padding: '20px', display: 'flex', flexDirection: 'column', gap: '16px', fontFamily: 'system-ui, -apple-system, sans-serif', width: '100%', overflowY: 'auto' }}>
+                    {contentObj.messages.map((m: any, i: number) => {
+                        const isSelf = m.sender === firstSender;
+                        return (
+                            <div key={i} style={{ alignSelf: isSelf ? 'flex-end' : 'flex-start', maxWidth: '85%', display: 'flex', flexDirection: 'column' }}>
+                                <div style={{ fontSize: '12px', color: '#666', marginBottom: '4px', textAlign: isSelf ? 'right' : 'left', alignSelf: isSelf ? 'flex-end' : 'flex-start', padding: '0 4px' }}>{m.sender}</div>
+                                <div style={{
+                                    background: isSelf ? '#DCF8C6' : '#E8E8E8',
+                                    padding: '12px 16px',
+                                    borderRadius: '18px',
+                                    borderBottomRightRadius: isSelf ? '4px' : '18px',
+                                    borderBottomLeftRadius: isSelf ? '18px' : '4px',
+                                    fontSize: '15px',
+                                    color: '#000',
+                                    lineHeight: 1.4
+                                }}>
+                                    {m.text}
+                                </div>
+                            </div>
+                        );
+                    })}
+                </div>
+            );
+        }
+
+        if (contentObj?.type === 'email') {
+            return (
+                <div style={{ padding: '24px', fontFamily: 'system-ui, -apple-system, sans-serif', width: '100%', overflowY: 'auto' }}>
+                    <div style={{ borderBottom: '1px solid #ddd', paddingBottom: '16px', marginBottom: '20px', fontSize: '15px' }}>
+                        <div style={{ display: 'grid', gridTemplateColumns: 'max-content 1fr', rowGap: '6px', columnGap: '12px' }}>
+                            <span style={{ color: '#666', fontWeight: 600, textAlign: 'right' }}>From:</span>
+                            <span>{contentObj.from}</span>
+
+                            <span style={{ color: '#666', fontWeight: 600, textAlign: 'right' }}>To:</span>
+                            <span>{contentObj.to}</span>
+
+                            <span style={{ color: '#666', fontWeight: 600, textAlign: 'right' }}>Date:</span>
+                            <span>{contentObj.date}</span>
+
+                            <span style={{ color: '#666', fontWeight: 600, textAlign: 'right' }}>Subject:</span>
+                            <span style={{ fontWeight: 600 }}>{contentObj.subject}</span>
+                        </div>
+                    </div>
+                    <div style={{ whiteSpace: 'pre-wrap', lineHeight: 1.6, fontSize: '16px' }}>{contentObj.text || stimulusText}</div>
+                </div>
+            );
+        }
+
+        if (contentObj?.type === 'social_media') {
+            return (
+                <div style={{ padding: '24px', fontFamily: 'system-ui, -apple-system, sans-serif', width: '100%', overflowY: 'auto' }}>
+                    <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginBottom: '20px' }}>
+                        <div style={{ width: '48px', height: '48px', borderRadius: '50%', background: '#1A7A85', color: 'white', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 'bold', fontSize: '20px' }}>
+                            {contentObj.author ? contentObj.author.charAt(0).toUpperCase() : 'U'}
+                        </div>
+                        <div>
+                            <div style={{ fontWeight: 600, fontSize: '16px' }}>{contentObj.author || 'User'}</div>
+                            <div style={{ color: '#666', fontSize: '13px', marginTop: '2px' }}>{contentObj.date || 'Just now'}</div>
+                        </div>
+                    </div>
+                    <div style={{ whiteSpace: 'pre-wrap', lineHeight: 1.6, fontSize: '16px' }}>{contentObj.text || stimulusText}</div>
+                </div>
+            );
+        }
+
+        return (
+            <div style={{
+                width: '100%',
+                height: '100%',
+                overflowY: 'auto',
+                fontSize: '16px',
+                lineHeight: 1.6,
+                textAlign: 'left',
+                fontFamily: "'Times New Roman', Times, serif",
+                whiteSpace: 'pre-wrap',
+                color: '#333',
+                padding: '24px'
+            }}>
+                {contentObj?.text || stimulusText}
             </div>
+        );
+    };
+
+    return (
+        <div style={{ display: 'flex', flexDirection: 'column', width: '100%', height: '100%', backgroundColor: '#FFFFFF', borderTop: '1px solid #767676' }}>
 
             {/* Split Screen Area */}
             <div style={{ display: 'flex', flex: 1, overflow: 'hidden' }}>
@@ -102,21 +187,26 @@ export const ReadInDailyLife: React.FC<ReadInDailyLifeProps> = ({
                                 overflow: 'hidden',
                                 display: 'flex',
                                 alignItems: 'center',
-                                justifyContent: 'center'
+                                justifyContent: 'center',
+                                padding: stimulusText ? '20px' : '0'
                             }}>
-                                <img
-                                    src={imageUrl}
-                                    alt={altText}
-                                    draggable="false" // Block desktop drag
-                                    style={{
-                                        maxWidth: '100%',
-                                        maxHeight: '100%',
-                                        objectFit: 'contain',
-                                        transform: isZoomed ? 'scale(2.5)' : 'scale(1)',
-                                        transformOrigin: isZoomed ? `${mousePos.x}% ${mousePos.y}%` : 'center center',
-                                        transition: isZoomed ? 'none' : 'transform 0.2s ease-out'
-                                    }}
-                                />
+                                {imageUrl ? (
+                                    <img
+                                        src={imageUrl}
+                                        alt={altText}
+                                        draggable="false"
+                                        style={{
+                                            maxWidth: '100%',
+                                            maxHeight: '100%',
+                                            objectFit: 'contain',
+                                            transform: isZoomed ? 'scale(2.5)' : 'scale(1)',
+                                            transformOrigin: isZoomed ? `${mousePos.x}% ${mousePos.y}%` : 'center center',
+                                            transition: isZoomed ? 'none' : 'transform 0.2s ease-out'
+                                        }}
+                                    />
+                                ) : (
+                                    renderContent()
+                                )}
                             </div>
                         </div>
                     </div>

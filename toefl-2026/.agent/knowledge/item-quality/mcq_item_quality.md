@@ -141,6 +141,15 @@ When an item fails, use these remediation strategies before regenerating:
 
 ---
 
+## 8. Formatting & Integrity
+
+### Hard Rules (violations → FAIL)
+- **No mid-sentence line breaks**: Text must be continuous within paragraphs. No hard line breaks (`\n`) introduced by PDF extraction or OCR within a sentence.
+- **Paragraph spacing**: Use double newlines (`\n\n`) for paragraph isolation.
+- **Typography normalization**: Avoid smart quotes, em-dashes (unless required), and extra spaces.
+
+---
+
 ## See Also
 
 - `specs/task_types/reading_read_academic_passage.md` — full spec for academic passage items

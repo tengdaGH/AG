@@ -16,6 +16,7 @@ Measures the ability to comprehend academic talks given by educators. Simulates 
 
 ## Constraints
 
+- **MCQ Quality**: All multiple-choice questions MUST strictly adhere to the guidelines in `.agent/knowledge/item-quality/mcq_item_quality.md` to ensure psychometric validity.
 - Background knowledge must NOT be required
 - Topics from common academic subject areas
 - 175–250 word length for the spoken stimulus
@@ -49,8 +50,33 @@ There's another type of fascination — soft fascination. There's still effortle
 
 Now, one thing to know is hard fascination causes mental fatigue. The mind is so intensely focused that it gets tired fast. What follows mental fatigue? You might find yourself easily distracted, irritable, and stressed. Soft fascination, in contrast, engages a different part of the brain — the DMN, or Default Mode Network, which soothes the mind and helps combat mental fatigue. So next time you feel like your mind is on overload, turn off the TV, put down your phone. Take a walk, or simply sit and stare at the clouds."
 
+**Golden Standard MCQ Example**:
 
-## 3. Interaction & Delivery Mechanics
+**Question**: What does the professor say is a consequence of "hard fascination"?
+- A) People become significantly more irritable over time.
+- B) The brain's Default Mode Network becomes engaged.
+- C) People develop a tendency to daydream more often.
+- D) The mind becomes quickly and intensely fatigued.
+
+**Key**: D
+**Distractor Rationales**: 
+*   **A (more irritable over time)**: Plausible because "irritable" is mentioned, but it is a secondary symptom of fatigue, not the direct consequence of hard fascination itself.
+*   **B (Default Mode Network engaged)**: Confuses the effect of *soft* fascination with the effect of *hard* fascination.
+*   **C (tendency to daydream)**: Plausible real-world consequence, but unsupported by the specific content of the lecture.
+*   **D (mind becomes fatigued)**: Correct. It paraphrases "causes mental fatigue" and "gets tired fast."
+*   *Note on Parity: Options are perfectly balanced, ranging from 7 to 8 words.*
+
+
+## Visual Asset Generation (Pic Gen)
+
+All visual assets must strictly adhere to the ETS testing visualization guidelines:
+- **Style**: Clean, flat, educational textbook style vector art; minimalist and non-distracting.
+- **Color Palette**: Muted colors, neutral backgrounds. Avoid overly vibrant or aggressive contrasting colors.
+- **Characters**: Use distinct figures (e.g., specific male/female silhouettes) for dialogues, or generic/unisex figures for monologues.
+- **No Text**: Do NOT include any readable English text or numbers in the illustrations.
+- **Cultural Neutrality**: Settings must be universally recognizable (e.g., standard library, cafeteria) unless specifically dictated by the scenario.
+
+## Interaction & Delivery Mechanics
 ### Delivery Sequence & States
 1. **Introductory Prompt**: The screen displays an introductory text and image, accompanied by audio saying "Now listen to part of a lecture in a biology class..."
 2. **Audio Playback**: The audio begins playing automatically. The context image remains on the screen. There are no pause, play, or scrub controls. Audio plays exactly once.

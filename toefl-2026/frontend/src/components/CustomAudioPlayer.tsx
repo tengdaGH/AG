@@ -18,46 +18,52 @@ export const CustomAudioPlayer: React.FC<CustomAudioPlayerProps> = ({
     const audioRef = useRef<HTMLAudioElement>(null);
     const [progress, setProgress] = useState(0);
 
+    const onEndedRef = useRef(onEnded);
+    useEffect(() => {
+        onEndedRef.current = onEnded;
+    }, [onEnded]);
+
     useEffect(() => {
         if (!audioRef.current) return;
+        const audioEl = audioRef.current;
+        let animFrameId: number;
 
         const updateProgress = () => {
-            if (audioRef.current && audioRef.current.duration) {
-                const current = audioRef.current.currentTime;
-                const total = audioRef.current.duration;
+            if (audioEl && isFinite(audioEl.duration) && audioEl.duration > 0) {
+                const current = audioEl.currentTime;
+                const total = audioEl.duration;
                 setProgress((current / total) * 100);
             }
-            requestAnimationFrame(updateProgress);
+            animFrameId = requestAnimationFrame(updateProgress);
         };
 
         const handleCanPlay = () => {
-            if (audioRef.current && resumeFromMs > 0) {
+            if (audioEl && resumeFromMs > 0 && audioEl.currentTime === 0) {
                 // Crash recovery logic: Subtract 3 seconds (3000ms) for context resumption
                 const resumeTarget = Math.max(0, (resumeFromMs - 3000) / 1000);
-                audioRef.current.currentTime = resumeTarget;
+                audioEl.currentTime = resumeTarget;
             }
-            if (autoPlay && audioRef.current) {
-                audioRef.current.play().catch(e => console.warn('Autoplay blocked:', e));
+            if (autoPlay && audioEl && audioEl.paused) {
+                audioEl.play().catch(e => console.warn('Autoplay blocked:', e));
             }
         };
 
         const handleEnded = () => {
-            onEnded();
+            setProgress(100);
+            onEndedRef.current();
         };
 
-        const animFrame = requestAnimationFrame(updateProgress);
+        animFrameId = requestAnimationFrame(updateProgress);
 
-        audioRef.current.addEventListener('canplay', handleCanPlay);
-        audioRef.current.addEventListener('ended', handleEnded);
+        audioEl.addEventListener('canplay', handleCanPlay);
+        audioEl.addEventListener('ended', handleEnded);
 
         return () => {
-            cancelAnimationFrame(animFrame);
-            if (audioRef.current) {
-                audioRef.current.removeEventListener('canplay', handleCanPlay);
-                audioRef.current.removeEventListener('ended', handleEnded);
-            }
+            cancelAnimationFrame(animFrameId);
+            audioEl.removeEventListener('canplay', handleCanPlay);
+            audioEl.removeEventListener('ended', handleEnded);
         };
-    }, [src, autoPlay, resumeFromMs, onEnded]);
+    }, [src, autoPlay, resumeFromMs]);
 
     return (
         <div style={{ width: '100%', maxWidth: '600px', margin: '20px auto' }}>

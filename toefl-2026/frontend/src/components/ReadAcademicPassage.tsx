@@ -4,6 +4,7 @@ interface ReadAcademicPassageProps {
     title: string;
     content: string;
     headerText?: string;
+    targetWord?: string;
     children: React.ReactNode; // The right-side questions
 }
 
@@ -11,16 +12,11 @@ export const ReadAcademicPassage: React.FC<ReadAcademicPassageProps> = ({
     title,
     content,
     headerText = "Read an academic passage.",
+    targetWord,
     children
 }) => {
     return (
-        <div style={{ display: 'flex', flexDirection: 'column', width: '100%', height: '100%', backgroundColor: '#FFFFFF', border: '1px solid #767676' }}>
-            {/* Header Area */}
-            <div style={{ width: '100%', padding: '24px 0', borderBottom: '1px solid #767676', textAlign: 'center' }}>
-                <h2 style={{ margin: 0, color: '#1A7A85', fontSize: '26px', fontWeight: 'bold', fontFamily: 'Arial, Helvetica, sans-serif' }}>
-                    {title}
-                </h2>
-            </div>
+        <div style={{ display: 'flex', flexDirection: 'column', width: '100%', height: '100%', backgroundColor: '#FFFFFF', borderTop: '1px solid #767676' }}>
 
             {/* Split Screen Area */}
             <div style={{ display: 'flex', flex: 1, overflow: 'hidden' }}>
@@ -52,11 +48,27 @@ export const ReadAcademicPassage: React.FC<ReadAcademicPassageProps> = ({
                         }
                     `}</style>
                     <div style={{ maxWidth: '600px', margin: '0 auto', width: '100%' }}>
-                        {content.split('\n').map((paragraph, index) => (
-                            <p key={index} style={{ fontSize: '18px', lineHeight: 1.8, color: '#000000', marginBottom: '16px', fontFamily: 'Times New Roman, Times, serif' }}>
-                                {paragraph}
-                            </p>
-                        ))}
+                        {content.split('\n').map((paragraph, index) => {
+                            const cleanedParagraph = paragraph.replace(/\(begin highlight\)/gi, '').replace(/\(end highlight\)/gi, '');
+                            let pContent: React.ReactNode = cleanedParagraph;
+                            if (targetWord) {
+                                // Escape regex special characters from targetWord
+                                const escapedWord = targetWord.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+                                const regex = new RegExp(`\\b(${escapedWord})\\b`, 'i');
+                                const parts = cleanedParagraph.split(regex);
+                                pContent = parts.map((part, i) => {
+                                    if (part.toLowerCase() === targetWord.toLowerCase()) {
+                                        return <span key={i} style={{ backgroundColor: '#E2E8F0', fontWeight: 'bold', padding: '0 4px', borderRadius: '4px' }}>{part}</span>;
+                                    }
+                                    return part;
+                                });
+                            }
+                            return (
+                                <p key={index} style={{ fontSize: '18px', lineHeight: 1.8, color: '#000000', marginBottom: '16px', fontFamily: 'Times New Roman, Times, serif' }}>
+                                    {pContent}
+                                </p>
+                            );
+                        })}
                     </div>
                 </div>
 

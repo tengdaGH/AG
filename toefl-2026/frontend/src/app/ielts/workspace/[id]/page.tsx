@@ -85,10 +85,13 @@ export default function IELTSWorkspace() {
                 );
                 if (matchingGroup) {
                     const firstQ = matchingGroup.questions[0];
-                    const headings = (firstQ?.options || []).map((opt: any) => ({
-                        id: opt.label || opt.letter || opt.id,
-                        text: opt.text || "",
-                    }));
+                    const headings = (firstQ?.options || []).map((opt: any, idx: number) => {
+                        const roman = ["i", "ii", "iii", "iv", "v", "vi", "vii", "viii", "ix", "x", "xi", "xii", "xiii", "xiv", "xv"];
+                        return {
+                            id: opt.label || opt.letter || opt.id || roman[idx] || String(idx + 1),
+                            text: opt.text || "",
+                        };
+                    });
                     setHeadingsBank(headings);
 
                     const slots = matchingGroup.questions.map((q: any) => ({
@@ -306,7 +309,8 @@ export default function IELTSWorkspace() {
                 </h1>
                 {passage?.paragraphs?.map((p: any, i: number) => {
                     // Check if this paragraph has a matching heading drop zone
-                    const slot = headingSlots.find(s => s.paragraphLetter === p.label);
+                    const isFirstOfLabel = passage?.paragraphs?.findIndex((pt: any) => pt.label === p.label) === i;
+                    const slot = isFirstOfLabel ? headingSlots.find(s => s.paragraphLetter === p.label) : undefined;
                     const assignedId = slot ? headingAssignments[p.label] : null;
                     const assignedHeading = assignedId ? headingsBank.find(h => h.id === assignedId) : null;
 
@@ -537,35 +541,52 @@ export default function IELTSWorkspace() {
 
         // --- MATCHING_PARAGRAPH_INFORMATION / MATCHING_INFORMATION ---
         if (groupType === "MATCHING_PARAGRAPH_INFORMATION" || groupType === "MATCHING_INFORMATION") {
-            const matrixQuestions = group.questions.map((q: any) => ({
-                questionNumber: q.number,
-                text: q.text || "",
-            }));
+            const options = paragraphLetters.map((l: string) => ({ id: l, text: `Paragraph ${l}` }));
 
             return (
                 <section
                     key={idx}
-                    className="mb-10 overflow-hidden" // Increased margin
+                    className="mb-10 overflow-hidden"
                     style={{ border: "1px solid var(--ielts-border-default)", borderRadius: "2px" }}
                 >
                     {instructionBar}
-                    <div style={{ padding: "24px 32px", backgroundColor: "#fff" }}>
-                        <MatchingMatrix
-                            questions={matrixQuestions}
-                            paragraphLetters={paragraphLetters}
-                            onAnswerChange={(answers) => {
-                                const answered = Object.entries(answers)
-                                    .filter(([, v]) => v && v !== "")
-                                    .map(([k]) => Number(k));
-                                markAnswered(answered);
-                            }}
-                        />
+                    <div style={{ backgroundColor: "#fff", padding: "16px 24px 0 24px" }}>
+                        <div style={{ padding: "16px", border: "1px solid var(--ielts-border-default)" }}>
+                            {options.map((opt: any) => (
+                                <div key={opt.id} className="flex gap-4 mb-2 last:mb-0">
+                                    <span style={{ fontWeight: 700 }}>{opt.id}</span>
+                                    <span>{opt.text}</span>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+                    <div style={{ backgroundColor: "#fff", padding: "8px 0" }}>
+                        {group.questions?.map((q: any) => (
+                            <div key={q.number}>
+                                <GapFillItem
+                                    questionNumber={q.number}
+                                    textAfter={q.text || ""}
+                                    onAnswerChange={(ans) => {
+                                        if (ans && ans.trim()) markAnswered([q.number]);
+                                    }}
+                                />
+                            </div>
+                        ))}
                     </div>
                 </section>
             );
         }
 
         // --- Default group rendering ---
+        // Render Options Grid once at the top for specific group types
+        const needsGroupOptions = ["MATCHING_FEATURES", "CLASSIFICATION", "MATCHING_SENTENCE_ENDINGS"].includes(groupType);
+        const firstQuestionOptions = needsGroupOptions && group.questions?.[0]?.options
+            ? group.questions[0].options.map((opt: any, oidx: number) => ({
+                id: opt.label || opt.letter || opt.id || String.fromCharCode(65 + oidx),
+                text: opt.text || "",
+            }))
+            : [];
+
         return (
             <section
                 key={idx}
@@ -573,6 +594,18 @@ export default function IELTSWorkspace() {
                 style={{ border: "1px solid var(--ielts-border-default)", borderRadius: "2px" }}
             >
                 {instructionBar}
+                {needsGroupOptions && firstQuestionOptions.length > 0 && (
+                    <div style={{ backgroundColor: "#fff", padding: "16px 24px 0 24px" }}>
+                        <div style={{ padding: "16px", border: "1px solid var(--ielts-border-default)" }}>
+                            {firstQuestionOptions.map((opt: any) => (
+                                <div key={opt.id} className="flex gap-4 mb-2 last:mb-0">
+                                    <span style={{ fontWeight: 700 }}>{opt.id}</span>
+                                    <span>{opt.text}</span>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+                )}
                 <div style={{ backgroundColor: "#fff", padding: "8px 0" }}>
                     {group.questions?.map((q: any) => renderQuestion(q, groupType))}
                 </div>
@@ -592,7 +625,7 @@ export default function IELTSWorkspace() {
 
         if (hasRealMCQOptions) {
             const options = q.options.map((opt: any, oidx: number) => ({
-                letter: opt.label || opt.letter || String.fromCharCode(65 + oidx),
+                letter: opt.label || opt.letter || opt.id || String.fromCharCode(65 + oidx),
                 text: opt.text || "",
             }));
 
@@ -648,7 +681,7 @@ export default function IELTSWorkspace() {
         // --- MULTIPLE_CHOICE ---
         if (groupType === "MULTIPLE_CHOICE" || groupType === "MULTIPLE_CHOICE_M") {
             const options = (q.options || []).map((opt: any, oidx: number) => ({
-                letter: opt.label || opt.letter || String.fromCharCode(65 + oidx),
+                letter: opt.label || opt.letter || opt.id || String.fromCharCode(65 + oidx),
                 text: opt.text || "",
             }));
 
@@ -671,20 +704,13 @@ export default function IELTSWorkspace() {
 
         // --- MATCHING_FEATURES / CLASSIFICATION / MATCHING_SENTENCE_ENDINGS ---
         if (groupType === "MATCHING_FEATURES" || groupType === "CLASSIFICATION" || groupType === "MATCHING_SENTENCE_ENDINGS") {
-            const options = (q.options || []).map((opt: any) => ({
-                id: opt.label || opt.letter || opt.id,
-                text: opt.text || "",
-            }));
-
             return (
                 <div key={qNum}>
-                    <MatchingItem
+                    <GapFillItem
                         questionNumber={qNum}
-                        promptText={q.text}
-                        options={options}
-                        showOptionsGrid={options.length > 0}
+                        textAfter={q.text || ""}
                         onAnswerChange={(ans) => {
-                            if (ans) markAnswered([qNum]);
+                            if (ans && ans.trim()) markAnswered([qNum]);
                         }}
                     />
                 </div>
@@ -774,8 +800,8 @@ export default function IELTSWorkspace() {
 
     return (
         <div
-            className="flex flex-col h-full w-full"
-            style={{ backgroundColor: "#f4f4f4" }}
+            className="flex flex-col h-screen w-screen overflow-hidden"
+            style={{ backgroundColor: "#F5F5F5" }}
         >
             <IELTSHeader onTimeExpired={handleTimeExpired} />
 
