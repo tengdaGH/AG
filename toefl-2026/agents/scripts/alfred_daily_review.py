@@ -281,11 +281,12 @@ def check_deployment():
     if proc_count == 0:
         flag("yellow", "Port 8000: no process running locally — backend is down",
              "Run: cd backend && source venv/bin/activate && uvicorn app.main:app --reload")
-    elif proc_count == 1:
-        flag("green", "Port 8000: exactly one backend process — all clear")
+    elif proc_count <= 2:
+        # 1 = production mode, 2 = --reload mode (parent + worker) — both healthy
+        flag("green", f"Port 8000: {proc_count} process(es) — backend running normally")
     else:
         flag("red", f"Port 8000: {proc_count} processes detected — ghost process risk!",
-             "Run: kill $(lsof -ti :8000) && restart backend — same issue as Feb 28 incident")
+             "Run: kill $(lsof -ti :8000) && restart backend — stale processes from unclean restarts")
 
     # .env.local check (should NOT exist — it breaks cloud connectivity)
     env_local = os.path.join(FRONTEND_DIR, ".env.local")
