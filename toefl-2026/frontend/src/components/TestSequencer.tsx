@@ -99,7 +99,7 @@ type Phase = 'LOADING' | 'INTRO' | 'TEST' | 'MST_ROUTING' | 'FINISHED';
 
 /* ── helpers ───────────────────────────────────────────────────────────── */
 
-const HEADERS = { 'Bypass-Tunnel-Reminders': 'true' };
+const HEADERS = { 'Bypass-Tunnel-Reminder': 'true' };
 
 async function fetchSlots(slots: Slot[], stage: ParsedItem['stage'], exclude: Set<string>): Promise<ParsedItem[]> {
     const out: ParsedItem[] = [];

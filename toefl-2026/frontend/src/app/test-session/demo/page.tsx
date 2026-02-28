@@ -38,7 +38,7 @@ export default function DemoTestSession() {
             try {
                 const res = await fetch(`${API_BASE_URL}/api/items`, {
                     headers: {
-                        'Bypass-Tunnel-Reminders': 'true'
+                        'Bypass-Tunnel-Reminder': 'true'
                     }
                 });
                 if (res.ok) {

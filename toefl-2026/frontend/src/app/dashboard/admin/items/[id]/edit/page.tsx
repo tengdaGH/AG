@@ -79,7 +79,7 @@ export default function ItemEditor() {
             try {
                 const res = await fetch(`${API_BASE_URL}/api/items/${itemId}`, {
                     headers: {
-                        'Bypass-Tunnel-Reminders': 'true'
+                        'Bypass-Tunnel-Reminder': 'true'
                     }
                 });
                 if (res.ok) {
@@ -109,7 +109,7 @@ export default function ItemEditor() {
         const fetchHistory = async () => {
             try {
                 const res = await fetch(`${API_BASE_URL}/api/items/${itemId}/history`, {
-                    headers: { 'Bypass-Tunnel-Reminders': 'true' }
+                    headers: { 'Bypass-Tunnel-Reminder': 'true' }
                 });
                 if (res.ok) {
                     const data = await res.json();
@@ -137,7 +137,7 @@ export default function ItemEditor() {
                 method: 'PATCH',
                 headers: {
                     'Content-Type': 'application/json',
-                    'Bypass-Tunnel-Reminders': 'true'
+                    'Bypass-Tunnel-Reminder': 'true'
                 },
                 body: JSON.stringify({
                     section: sectionType,

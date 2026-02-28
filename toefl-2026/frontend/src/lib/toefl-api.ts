@@ -16,7 +16,7 @@ export interface ParsedItem {
     content: any;
 }
 
-const headers = { 'Bypass-Tunnel-Reminders': 'true' };
+const headers = { 'Bypass-Tunnel-Reminder': 'true' };
 
 /**
  * Fetches specific items for a set (e.g., ETS-S2)

@@ -64,7 +64,7 @@ export default function Home() {
 
   useEffect(() => {
     fetch(`${API_BASE_URL}/api/items/audit`, {
-      headers: { 'Bypass-Tunnel-Reminders': 'true' },
+      headers: { 'Bypass-Tunnel-Reminder': 'true' },
     })
       .then(res => res.ok ? res.json() : null)
       .then(data => data && setAudit(data))

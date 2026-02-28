@@ -25,7 +25,7 @@ function PreviewModal({ item, parsedContent: rawContent, onClose }: { item: any;
         try {
             const res = await fetch(`${API_BASE_URL}/api/items/${item.id}/history`, {
                 headers: {
-                    'Bypass-Tunnel-Reminders': 'true'
+                    'Bypass-Tunnel-Reminder': 'true'
                 }
             });
             const data = await res.json();
@@ -1154,7 +1154,7 @@ export default function ItemBankDashboard() {
         try {
             const res = await fetch(`${API_BASE_URL}/api/items`, {
                 headers: {
-                    'Bypass-Tunnel-Reminders': 'true'
+                    'Bypass-Tunnel-Reminder': 'true'
                 }
             });
             if (res.ok) {
@@ -1232,7 +1232,7 @@ export default function ItemBankDashboard() {
         try {
             const res = await fetch(`${API_BASE_URL}/api/items/qa-pipeline`, {
                 method: 'POST',
-                headers: { 'Bypass-Tunnel-Reminders': 'true' }
+                headers: { 'Bypass-Tunnel-Reminder': 'true' }
             });
             if (res.ok) {
                 const data = await res.json();
@@ -1260,7 +1260,7 @@ export default function ItemBankDashboard() {
         try {
             const res = await fetch(`${API_BASE_URL}/api/items/${itemId}/qa`, {
                 method: 'POST',
-                headers: { 'Bypass-Tunnel-Reminders': 'true' }
+                headers: { 'Bypass-Tunnel-Reminder': 'true' }
             });
             if (res.ok) {
                 const data = await res.json();
@@ -1286,7 +1286,7 @@ export default function ItemBankDashboard() {
         try {
             const res = await fetch(`${API_BASE_URL}/api/items/simulate-field-test`, {
                 method: 'POST',
-                headers: { 'Bypass-Tunnel-Reminders': 'true' }
+                headers: { 'Bypass-Tunnel-Reminder': 'true' }
             });
             if (res.ok) {
                 const data = await res.json();

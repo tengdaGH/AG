@@ -28,7 +28,7 @@ export default function ResultsPage() {
             }
             try {
                 const res = await fetch(`${API_BASE_URL}/api/sessions/${sessionId}/results`, {
-                    headers: { 'Bypass-Tunnel-Reminders': 'true' }
+                    headers: { 'Bypass-Tunnel-Reminder': 'true' }
                 });
                 if (!res.ok) throw new Error('Failed to load results');
                 const data = await res.json();
