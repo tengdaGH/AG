@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   backend:
-    build: 
+    build:
       context: ./backend
       dockerfile: Dockerfile
     container_name: toefl_backend
@@ -10,14 +10,14 @@ services:
     ports:
       - "8000:8000"
     volumes:
-      - toefl_db_data:/app/data  # Securely mounts the SQLite database on the server
+      - ./backend/toefl_2026.db:/app/data/toefl.db # Securely mounts the SQLite database on the server
     environment:
       # If you were using PostgreSQL, you'd put the credentials here. 
       # With SQLite, we just ensure it writes to the mounted volume.
       - DATABASE_URL=sqlite:////app/data/toefl.db
 
   frontend:
-    build: 
+    build:
       context: ./frontend
       dockerfile: Dockerfile
       args:
