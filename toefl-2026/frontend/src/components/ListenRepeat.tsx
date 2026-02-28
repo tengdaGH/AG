@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useLanguage } from '@/lib/i18n/LanguageContext';
 import { useMediaRecorderChunking } from '../hooks/useMediaRecorderChunking';
-
+import MicVisualizer from './MicVisualizer';
 export interface ListenRepeatProps {
     imageUrl: string;
     imageAlt?: string;
@@ -16,7 +16,9 @@ export interface ListenRepeatProps {
 export function ListenRepeat({ imageUrl, imageAlt = "Listen and repeat context", audioUrl, questionId, sessionId, uploadUrl, onComplete, onAudioEnd }: ListenRepeatProps) {
     const { t } = useLanguage();
     const [state, setState] = useState<'LISTENING' | 'BEEP' | 'RECORDING' | 'DONE'>('LISTENING');
-    const [secondsLeft, setSecondsLeft] = useState(15); // Adjust time here if necessary
+    // ETS Spec: Approximately 8-12 seconds to respond based on sentence length.
+    // For now we use a fixed 10 seconds, which is the standard average.
+    const [secondsLeft, setSecondsLeft] = useState(10);
     const audioRef = useRef<HTMLAudioElement>(null);
     const audioContextRef = useRef<AudioContext | null>(null);
 
@@ -76,11 +78,21 @@ export function ListenRepeat({ imageUrl, imageAlt = "Listen and repeat context",
             setState('DONE');
             stopRecording();
             onAudioEnd?.();
+            // In the official test, it immediately cuts to the next sentence without waiting around
             if (onComplete) {
-                setTimeout(() => onComplete(), 1500); // Wait 1.5s to show 'Done'
+                onComplete();
             }
         }
     }, [state, secondsLeft, stopRecording, onAudioEnd, onComplete]);
+
+    // Cleanup recording if the component unmounts early (e.g. developer navbar jump)
+    useEffect(() => {
+        return () => {
+            if (isRecording) {
+                stopRecording();
+            }
+        };
+    }, [isRecording, stopRecording]);
 
     return (
         <div style={{
@@ -149,6 +161,7 @@ export function ListenRepeat({ imageUrl, imageAlt = "Listen and repeat context",
                         <div style={{ color: '#D32F2F', fontSize: '18px', fontWeight: 'bold' }}>
                             🎙️ Now Recording...
                         </div>
+                        <MicVisualizer isRecording={state === 'RECORDING'} color="#D32F2F" />
 
                         <style dangerouslySetInnerHTML={{
                             __html: `

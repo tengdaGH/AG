@@ -56,7 +56,7 @@ export const TestTimer: React.FC<TestTimerProps> = ({
         }
     }, [secondsLeft]);
 
-    const timerColor = isDanger ? '#D32F2F' : '#212121';
+    const timerColor = isDanger ? '#EF4444' : '#FFFFFF';
 
     return (
         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
@@ -64,7 +64,7 @@ export const TestTimer: React.FC<TestTimerProps> = ({
                 <div style={{
                     fontSize: '16px',
                     fontWeight: 700,
-                    color: '#212121',
+                    color: '#FFFFFF',
                     display: 'flex',
                     alignItems: 'center',
                     gap: '5px'
@@ -93,15 +93,15 @@ export const TestTimer: React.FC<TestTimerProps> = ({
                 disabled={isDanger}
                 style={{
                     background: 'none',
-                    border: '1px solid #D1D6E0',
+                    border: '1px solid rgba(255,255,255,0.4)',
                     borderRadius: '20px',
                     fontSize: '10px',
                     fontWeight: 600,
                     padding: '2px 8px',
                     marginTop: '4px',
                     cursor: isDanger ? 'not-allowed' : 'pointer',
-                    color: '#5E6A75',
-                    opacity: isDanger ? 0.5 : 1
+                    color: '#FFFFFF',
+                    opacity: isDanger ? 0.5 : 0.8
                 }}
             >
                 {isHidden && !isDanger ? 'Show Time' : 'Hide Time'}

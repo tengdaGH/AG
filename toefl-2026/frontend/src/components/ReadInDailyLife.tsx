@@ -115,6 +115,11 @@ export const ReadInDailyLife: React.FC<ReadInDailyLifeProps> = ({
                 color: '#333',
                 padding: '24px'
             }}>
+                {headerText && (
+                    <h2 style={{ fontSize: '20px', fontWeight: 'bold', marginBottom: '16px', fontFamily: 'Arial, Helvetica, sans-serif', color: '#000' }}>
+                        {headerText}
+                    </h2>
+                )}
                 {contentObj?.text || stimulusText}
             </div>
         );

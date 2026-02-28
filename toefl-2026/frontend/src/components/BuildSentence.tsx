@@ -249,17 +249,14 @@ export const BuildSentence: React.FC<BuildSentenceProps> = ({
                 </h2>
 
                 {/* Context Row */}
-                <div style={{ display: 'flex', alignItems: 'center', gap: '20px', marginBottom: '80px', paddingLeft: '80px' }}>
-                    <img
-                        src={contextSpeakerUrl}
-                        alt="Context Speaker"
-                        style={{ width: '80px', height: '80px', borderRadius: '50%', border: '2px solid #008080', objectFit: 'cover' }}
-                    />
-                    <span style={{ fontSize: '18px' }}>{contextText}</span>
-                </div>
+                {contextText && (
+                    <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '20px', marginBottom: '80px' }}>
+                        <span style={{ fontSize: '18px' }}>{contextText}</span>
+                    </div>
+                )}
 
                 {/* Word Bank */}
-                <div style={{ paddingLeft: '80px', paddingRight: '40px', marginBottom: '60px' }}>
+                <div style={{ marginBottom: '80px', marginTop: contextText ? '0' : '40px', display: 'flex', justifyContent: 'center' }}>
                     <DroppableBank>
                         {wordBank.map((item) => (
                             <DraggableWord key={item.id} id={item.id} word={item.word} />
@@ -267,20 +264,13 @@ export const BuildSentence: React.FC<BuildSentenceProps> = ({
                     </DroppableBank>
                 </div>
 
-                {/* Sentence Row */}
-                <div style={{ display: 'flex', alignItems: 'flex-end', gap: '20px', paddingLeft: '80px' }}>
-                    <img
-                        src={builderSpeakerUrl}
-                        alt="Builder Speaker"
-                        style={{ width: '80px', height: '80px', borderRadius: '50%', border: '2px solid #008080', objectFit: 'cover', flexShrink: 0 }}
-                    />
-                    <div style={{ display: 'flex', alignItems: 'baseline', fontSize: '18px', paddingBottom: '0px', flexWrap: 'wrap', gap: '4px', lineHeight: '1.2' }}>
-                        <span>{prefixText}</span>
-                        {slots.map((item, idx) => (
-                            <DroppableSlot key={`slot-${idx}`} id={`slot-${idx}`} currentWordObj={item} />
-                        ))}
-                        <span>{suffixText}</span>
-                    </div>
+                {/* Sentence Row (Drop Targets) */}
+                <div style={{ display: 'flex', alignItems: 'baseline', justifyContent: 'center', fontSize: '18px', flexWrap: 'wrap', gap: '4px', lineHeight: '1.2', marginTop: '40px' }}>
+                    {prefixText && <span>{prefixText}</span>}
+                    {slots.map((item, idx) => (
+                        <DroppableSlot key={`slot-${idx}`} id={`slot-${idx}`} currentWordObj={item} />
+                    ))}
+                    {suffixText && <span>{suffixText}</span>}
                 </div>
             </div>
 

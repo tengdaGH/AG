@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect } from 'react';
+import { testLogger } from '../lib/testLogger';
 
 export interface StudentPost {
     id: string;
@@ -88,7 +89,16 @@ export const WriteAcademicDiscussion: React.FC<WriteAcademicDiscussionProps> = (
     };
 
     const handleInput = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-        updateContent(e.target.value);
+        const val = e.target.value;
+        const diffLength = val.length - content.length;
+
+        testLogger.logEvent('KEYSTROKE', 'WRITE_ACADEMIC_DISCUSSION_TASK', {
+            diffLength,
+            wordCount,
+            timestamp_ms: Date.now()
+        });
+
+        updateContent(val);
     };
 
     useEffect(() => {
@@ -101,6 +111,7 @@ export const WriteAcademicDiscussion: React.FC<WriteAcademicDiscussionProps> = (
 
     const blockNativeClipboard = (e: React.ClipboardEvent) => {
         e.preventDefault();
+        testLogger.logEvent('NATIVE_CLIPBOARD_BLOCKED', 'WRITE_ACADEMIC_DISCUSSION_TASK', { type: e.type });
     };
 
     const handleCustomCut = () => {
@@ -127,6 +138,9 @@ export const WriteAcademicDiscussion: React.FC<WriteAcademicDiscussionProps> = (
         const end = textareaRef.current.selectionEnd;
         const pasteText = window.ETS_Internal_Clipboard;
         const newContent = content.substring(0, start) + pasteText + content.substring(end);
+
+        testLogger.logEvent('CUSTOM_CLIPBOARD_PASTE', 'WRITE_ACADEMIC_DISCUSSION_TASK', { pasted_length: pasteText.length });
+
         updateContent(newContent);
         const newCursorPos = start + pasteText.length;
         setTimeout(() => {

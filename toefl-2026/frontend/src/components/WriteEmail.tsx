@@ -1,6 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useCallback } from 'react';
+import { testLogger } from '../lib/testLogger';
 
 interface WriteEmailProps {
     promptHTML: string;
@@ -44,7 +45,17 @@ export const WriteEmail: React.FC<WriteEmailProps> = ({ promptHTML, emailTo = "e
     };
 
     const handleInput = (e: React.ChangeEvent<HTMLTextAreaElement>) => {
-        updateContent(e.target.value);
+        const val = e.target.value;
+        const diffLength = val.length - content.length;
+
+        // Log keystroke metrics
+        testLogger.logEvent('KEYSTROKE', 'WRITE_EMAIL_TASK', {
+            diffLength,
+            wordCount,
+            timestamp_ms: Date.now()
+        });
+
+        updateContent(val);
     };
 
     // CJK-aware word count
@@ -65,6 +76,7 @@ export const WriteEmail: React.FC<WriteEmailProps> = ({ promptHTML, emailTo = "e
     // OS Clipboard Intercepts
     const blockNativeClipboard = (e: React.ClipboardEvent) => {
         e.preventDefault();
+        testLogger.logEvent('NATIVE_CLIPBOARD_BLOCKED', 'WRITE_EMAIL_TASK', { type: e.type });
     };
 
     const handleCustomCut = () => {
@@ -92,6 +104,9 @@ export const WriteEmail: React.FC<WriteEmailProps> = ({ promptHTML, emailTo = "e
         const end = textareaRef.current.selectionEnd;
         const pasteText = window.ETS_Internal_Clipboard;
         const newContent = content.substring(0, start) + pasteText + content.substring(end);
+
+        testLogger.logEvent('CUSTOM_CLIPBOARD_PASTE', 'WRITE_EMAIL_TASK', { pasted_length: pasteText.length });
+
         updateContent(newContent);
 
         const newCursorPos = start + pasteText.length;

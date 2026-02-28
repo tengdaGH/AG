@@ -192,6 +192,28 @@ class TestResponse(Base):
     question = relationship("TestItemQuestion", backref="responses")
 
 
+class TestEventLog(Base):
+    """
+    High-frequency ETS Audit Log. Tracks every action: keystrokes, answers, 
+    blur/focus events, item rendering, and audio playback.
+    """
+    __tablename__ = "test_event_logs"
+
+    id = Column(String, primary_key=True, default=lambda: str(uuid.uuid4()))
+    session_id = Column(String, ForeignKey("test_sessions.id"), nullable=False, index=True)
+    student_id = Column(String, ForeignKey("users.id"), nullable=False)
+    question_id = Column(String, ForeignKey("test_item_questions.id"), nullable=True, index=True)
+    
+    event_type = Column(String(50), nullable=False, index=True)
+    event_data = Column(JSON, nullable=True)
+    
+    client_ip = Column(String(50), nullable=True)
+    browser_fingerprint = Column(String(255), nullable=True)
+    
+    event_timestamp = Column(DateTime(timezone=True), server_default=func.now(), index=True)
+
+    session = relationship("TestSession", foreign_keys=[session_id])
+
 # ──────────────────────────────────────────────────────────────────────────────
 # IELTS Item Bank Models
 # ──────────────────────────────────────────────────────────────────────────────

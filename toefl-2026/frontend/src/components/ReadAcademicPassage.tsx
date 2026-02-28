@@ -48,8 +48,17 @@ export const ReadAcademicPassage: React.FC<ReadAcademicPassageProps> = ({
                         }
                     `}</style>
                     <div style={{ maxWidth: '600px', margin: '0 auto', width: '100%' }}>
+                        {title && (
+                            <h2 style={{ fontSize: '24px', fontWeight: 'bold', textAlign: 'center', marginBottom: '24px', fontFamily: 'Arial, Helvetica, sans-serif' }}>
+                                {title}
+                            </h2>
+                        )}
                         {content.split('\n').map((paragraph, index) => {
-                            const cleanedParagraph = paragraph.replace(/\(begin highlight\)/gi, '').replace(/\(end highlight\)/gi, '');
+                            const cleanedParagraph = paragraph
+                                .replace(/\(begin highlight\)/gi, '')
+                                .replace(/\(end highlight\)/gi, '')
+                                .replace(/\s*\([A-D]\)\s*/g, ' ')
+                                .trim();
                             let pContent: React.ReactNode = cleanedParagraph;
                             if (targetWord) {
                                 // Escape regex special characters from targetWord
