@@ -65,6 +65,9 @@ export default function ListenRepeatTask() {
                     <ListenRepeat
                         imageUrl="/images/listen_repeat_zoo_sample.jpg"
                         imageAlt="A group of people looking at animals in a zoo enclosure"
+                        questionId="demo-q"
+                        sessionId="demo-s"
+                        uploadUrl="/api/demo/upload"
                     />
                 </div>
 
